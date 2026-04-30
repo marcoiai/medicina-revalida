@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Revalida INEP - Provas e Gabaritos",
+    "institution": "INEP",
+    "exam": "Revalida",
+    "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos"
+  },
+  {
+    "name": "ENARE - Edições Anteriores",
+    "institution": "EBSERH",
+    "exam": "ENARE",
+    "url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores"
+  },
+  {
+    "name": "FUVEST - Residência Médica Provas e Gabaritos",
+    "institution": "FUVEST / USP",
+    "exam": "Residência Médica",
+    "url": "https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]

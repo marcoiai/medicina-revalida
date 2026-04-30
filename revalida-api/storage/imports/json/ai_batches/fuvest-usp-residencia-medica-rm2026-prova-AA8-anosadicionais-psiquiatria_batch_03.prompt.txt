@@ -1,0 +1,112 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ 
+(C) Intensificação da atividade do lobo occipital, sem 
+alterações estruturais observáveis. 
+(D) Hipoatividade do cerebelo, com pouca repercussão em 
+circuitos cortico-estriatais. 
+##### 
+ 
+{39} 
+Em 
+relação 
+aos 
+fatores 
+neurocomportamentais 
+que 
+contribuem para o início precoce do uso de substâncias 
+psicoativas em adolescentes, assinale a alternativa que 
+apresenta corretamente as mais recentes descobertas. 
+ 
+(A) O córtex pré-frontal em adolescentes encontra-se 
+amadurecido, reduzindo o risco de tomada de decisão 
+impulsiva relacionada ao uso de substâncias. 
+(B) Os fatores ambientais, como contexto familiar e social de 
+risco, e a reprovação escolar, são os principais 
+responsáveis pelo início precoce do uso. 
+(C) O 
+desenvolvimento 
+neurocomportamental 
+de 
+adolescentes usuários de substâncias impulsivos é 
+semelhante ao de adultos em abstinência. 
+(D) A 
+maturação 
+precoce 
+do 
+sistema 
+límbico 
+e 
+o 
+desenvolvimento tardio do córtex pré-frontal aumentam o 
+risco de comportamentos impulsivos. 
+##### 
+ 
+{40} 
+Assinale a substância psicoativa que traz mais prejuízos ao 
+crescimento fetal e à placenta. 
+ 
+(A) Cafeína. 
+(B) Cocaína. 
+(C) Heroína. 
+(D) Maconha. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+

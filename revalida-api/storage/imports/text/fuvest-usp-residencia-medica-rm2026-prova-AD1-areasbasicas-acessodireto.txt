@@ -1,0 +1,3553 @@
+
+
+--- PAGE 1 ---
+
+ 
+AD1 
+ 
+ 
+RESIDÊNCIA MÉDICA 
+Áreas Básicas e de Acesso Direto 
+ 
+ 
+ 
+ 
+ 
+ 
+      PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025     
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo AD1. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 6 horas. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo 
+fiscal. O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 16 h. Não haverá tempo 
+adicional para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 120 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{01} 
+Homem, 52 anos de idade, mecânico, tem hipertensão arterial sistêmica, diabetes melito tipo 2 e asma. Procura atendimento 
+ambulatorial por falta de ar. Notou dispneia progressiva ao longo das duas últimas semanas durante o trabalho. Chegou a passar 
+em pronto-socorro, foi medicado com salbutamol inalatório e acha que teve melhora discreta. Percebe edema frequente 
+perimaleolar, ronco alto noturno e sonolência diurna. Nega angina, ortopneia, dispneia paroxística noturna, viagem ou imobilização 
+recentes. Sinais vitais com temperatura de 36,2 °C, FC de 90 bpm, PA de 120×82 mmHg, FR de 16 irpm, SpO2 de 95%. Apresenta 
+IMC de 32,3 kg/m2. Murmúrios vesiculares universalmente reduzidos, sibilos expiratórios ocasionais. Bulhas hipofonéticas, sem 
+sopros, veias do pescoço não visíveis, edema bilateral leve dos tornozelos. Foi realizada uma avaliação complementar com 
+ultrassonografia à beira do leito e foram obtidas as imagens apresentadas a seguir: 
+ 
+Ultrassonografia cardíaca paraesternal 
+eixo longo – na sístole e na diástole: 
+ 
+ 
+ 
+ 
+ 
+Ultrassonografia pulmonar – todos os campos 
+tinham o mesmo padrão de imagem: 
+ 
+ 
+ 
+ 
+ 
+ 
+Ultrassonografia do sistema venoso femoral – sem e com o 
+teste de compressibilidade (considere os mesmos achados 
+nos dois membros): 
+ 
+ 
+ 
+ 
+Ultrassonografia da veia cava inferior – 
+na inspiração e na expiração: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ultrassonografia do sistema venoso poplíteo – sem e com 
+o teste de compressibilidade (considere os mesmos 
+achados nos dois membros): 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a conduta medicamentosa mais adequada neste momento. 
+ 
+(A) Furosemida. 
+(B) Azitromicina. 
+(C) Rivaroxabana. 
+(D) Formoterol/budesonida. 
+##### 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{02} 
+Mulher, 28 anos de idade, previamente hígida, procura 
+atendimento de urgência. Queixa-se de diarreia aquosa há  
+4 dias com febre baixa. Teve 6 episódios por dia, com cólicas 
+intensas, náuseas e hiporexia. O seu filho de 4 anos de idade 
+está com os mesmos sintomas. Sinais vitais com PA de 
+110×68 mmHg, FC de 94 bpm, FR de 18 irpm, SpO2 de 99%, 
+temperatura de 37,1 °C. Ao exame clínico, apresenta regular 
+estado 
+geral, 
+mucosas 
+secas, 
+peristalse 
+aumentada, 
+desconforto abdominal difuso.  
+ 
+• Exames laboratoriais:  
+Hb: 13,7 g/dL 
+Leucócitos: 15.890/mm3 
+Plaquetas: 384 mil/mm3 
+Ur: 47 mg/dL 
+Cr: 1,18 mg/dL 
+Na+: 128 mEq/L 
+K+: 3,7 mEq/L 
+HCO3-: 29 mEq/L 
+ 
+Assinale a alternativa que apresenta um mecanismo 
+fisiopatológico que faz parte do desenvolvimento da 
+hiponatremia desta paciente. 
+ 
+(A) Secreção inapropriada de ADH. 
+(B) Liberação de peptídeo natriurético. 
+(C) Elevação de aldosterona. 
+(D) Perda fecal de potássio. 
+##### 
+ 
+{03} 
+Homem, 
+53 
+anos 
+de 
+idade, 
+tem 
+esquistossomose 
+hepatoesplênica e comparece em consulta ambulatorial de 
+seguimento. Nota edema nos tornozelos desde a última 
+consulta. Já teve episódios prévios de encefalopatia hepática. 
+Faz uso crônico de lactulose. Sinais vitais com PA de 
+154×86 mmHg, FC de 89 bpm, FR de 16 irpm, SpO2 de 98%. 
+Ao exame clínico, apresenta bom estado geral, vigil, orientado 
+no tempo e no espaço, tônus normais, abdome plano, lobo 
+esquerdo do fígado palpável, baço palpável, edema 
+perimaleolar de 2+/4+.  
+ 
+• Exames laboratoriais:  
+Hb:12,9 g/dL 
+Leucócitos: 4.230/mm3 
+Plaquetas: 98 mil/mm3 
+TGO/AST: 37 U/L 
+TGP/ALT: 43 U/L 
+Albumina: 3,1 g/dL 
+INR: 1,8 
+Cr: 1,37 mg/dL 
+Na+: 130 mEq/L 
+Urina tipo 1: normal 
+ 
+Endoscopia digestiva alta com duas varizes esofágicas de 
+grosso calibre, sem sinais de sangramento recente. 
+Ultrassonografia de abdome superior com líquido livre em 
+pequena quantidade na cavidade, aumento do lobo esquerdo 
+do fígado e aumento do baço. Com base no caso clínico 
+apresentado, assinale a alternativa que indica a melhor 
+conduta terapêutica a ser realizada neste momento. 
+ 
+(A) Infundir albumina. 
+(B) Introduzir carvedilol. 
+(C) Indicar paracentese. 
+(D) Restringir água diária. ##### 
+{04} 
+Homem, 47 anos de idade, possui antecedente de síndrome 
+do túnel de carpo unilateral à direita. Procura o ambulatório 
+por queixa de dispneia aos médios esforços. Relata despertar 
+noturno por desconforto respiratório, que melhora com a 
+ortostase. Consome de forma crônica 8 latas de cerveja por 
+dia. Ao exame físico, apresenta bom estado geral, corado, 
+hidratado. Auscultas cardíaca e pulmonar sem alterações. 
+Abdome 
+normotenso, 
+indolor, 
+presença 
+de 
+refluxo 
+hepatojugular. Edema de membros inferiores bilateral.  
+ 
+• Exames laboratoriais:  
+Hb: 10,8 g/dL 
+Leucócitos: 4.400/mm3 
+Plaquetas: 164 mil/mm3 
+TGO/AST: 48 U/L 
+TGP/ALT: 36 U/L 
+Albumina: 3,6 g/dL 
+INR: 1,0 
+TTPa R: 0,9 
+Bilirrubina total: 0,6 mg/dL 
+Fosfatase alcalina: 187 U/L 
+GGT: 318 U/L 
+Saturação transferrina: 32% 
+Ferritina: 997 ng/mL 
+ 
+Ecodopplercardiograma com estresse: fração de ejeção 
+ventricular de 43%, volume diastólico de ventrículo esquerdo 
+aumentado, ventrículo direito e átrios de tamanho normal, 
+ausência de espessamento de septo, ausência de hipocinesia 
+segmentar induzida por estresse farmacológico. Com relação 
+ao caso clínico apresentado, assinale a alternativa que indica 
+o diagnóstico pertinente. 
+ 
+(A) Amiloidose subtipo ATTR. 
+(B) Cardiomiopatia alcóolica. 
+(C) Cardiomiopatia cirrótica. 
+(D) Hemocromatose. 
+##### 
+ 
+{05} 
+Mulher, 58 anos de idade, comparece à consulta ambulatorial 
+por prurido cutâneo intenso. Refere que há 7 meses iniciou 
+prurido no tronco e nos membros inferiores, sem lesões 
+cutâneas. Há 1 mês, evolui com piora progressiva do sintoma, 
+que passou a ser diário, acometendo quase todo o corpo e 
+interferindo em atividades diárias e sono. Tem diagnósticos de 
+hipertensão arterial sistêmica, diabetes melito tipo 2, 
+dislipidemia e osteoartrite. Faz uso de hidroclorotiazida, 
+metformina, dapagliflozina, sinvastatina e tramadol. Ao exame 
+físico, apresenta sinais vitais normais, pele com leve xerose e 
+algumas lesões escoriadas em membros inferiores, sem 
+outras anormalidades. Tem exames de hemograma completo, 
+ureia, creatinina, TGO/AST, TGP/ALT, FA e GGT normais. 
+Hemoglobina glicada de 7,3%. Qual é a conduta mais 
+apropriada a respeito do prurido neste momento? 
+ 
+(A) Hidratar a pele e usar corticoide tópico nas lesões. 
+(B) Substituir o tramadol por analgésicos simples orais. 
+(C) Prescrever gabapentina ou pregabalina orais. 
+(D) Prescrever anti-histamínico oral por quinze dias. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{06} 
+Homem, 53 anos de idade, possui antecedente de hipertensão e diabetes melito tipo 2. Faz uso de hidroclorotiazida, metformina e 
+gliclazida. Comparece ao departamento de emergência com queixa de dor torácica há cerca de uma hora. Ao exame físico, 
+apresenta PA de 90×60 mmHg, FC de 60 bpm, FR de 25 irpm. Regular estado geral, sudoreico. Auscultas cardíaca e pulmonar 
+sem alterações. Abdome e extremidades sem alterações. Foi realizado o eletrocardiograma apresentado a seguir: 
+ 
+ 
+ 
+Com base no caso clínico apresentado, assinale a alternativa indica a terapia intravenosa imediata pertinente. 
+ 
+(A) Dobutamina. 
+(B) Nitroglicerina. 
+(C) Noradrenalina. 
+(D) Cloreto de sódio 0,9%. 
+##### 
+ 
+{07} 
+Homem, 68 anos de idade, passa em consulta ambulatorial. Ele tem fadiga crônica e o exame clínico é normal. Durante investigação, 
+detectou-se uma anormalidade na eletroforese de proteínas, conforme imagem apresentada a seguir: 
+ 
+ 
+ 
+Foram realizados exames de hemograma completo, creatinina, cálcio e radiografias ósseas que estavam normais. Com base nessas 
+informações, assinale a alternativa que apresenta a conduta indicada neste momento. 
+ 
+(A) Imunofixação e pesquisa de cadeias leves livres no sangue. 
+(B) Biópsia de medula óssea e pesquisa por citogenética/FISH. 
+(C) Eletroforese de proteínas séricas a cada 6 meses. 
+(D) Cintilografia óssea ou tomografia de corpo inteiro. 
+#####
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{08} 
+Homem, 45 anos de idade, busca atendimento ambulatorial. 
+Refere ter procurado o pronto-socorro 3 vezes nos últimos  
+4 meses, com crises de dor precordial, taquicardia, falta de ar, 
+formigamento nas mãos e tontura. Durante as crises, que 
+ocorriam quando ele estava em casa, ficava muito assustado 
+achando que iria morrer. Nos atendimentos de urgência, 
+realizou eletrocardiogramas, radiografias de tórax e exames 
+de sangue de urgência que apresentaram resultados normais. 
+Devido às crises, passou a evitar andar de elevador por ter 
+medo de ter uma crise e não poder sair ou receber ajuda. Não 
+há queixas descritas entre as crises. Além do transtorno de 
+pânico, qual é o diagnóstico mais apropriado a partir dos 
+sintomas descritos? 
+ 
+(A) Agorafobia. 
+(B) Claustrofobia. 
+(C) Ansiedade generalizada. 
+(D) Fobia específica. 
+##### 
+ 
+{09} 
+Homem, 57 anos de idade, com peso de 74 kg, passa em 
+atendimento ambulatorial. Ele tem hipotireoidismo e faz uso de 
+225 µg/dia de levotiroxina. Descreve que há 8 meses tem 
+episódios progressivos de dor abdominal. A dor é em cólica, 
+difusa, de intensidade leve a moderada. Associa episódios de 
+evacuações amolecidas. Nunca teve saída de sangue, muco 
+ou pus. Nega tenesmo. Acredita que os episódios têm relação 
+com a alimentação, mas não percebe refeições ou alimentos 
+claramente relacionados. Ele é tabagista (24 anos-maço), 
+etilista social ocasional. Nega sibilos, prurido nasal ou 
+congestão nasal. Os sinais vitais e o exame clínico são 
+normais. Traz consigo uma enterotomografia normal.  
+ 
+• Exames laboratoriais:  
+Hb: 10,1 g/dL 
+VCM: 67 fL 
+HCM: 30 pg 
+Leucócitos: 6.750/mm3 
+Plaquetas: 490 mil/mm3 
+ 
+Uma biópsia tecidual do trato gastrointestinal deste paciente, 
+mais provavelmente, identificaria a presença de 
+ 
+(A) granuloma. 
+(B) H. pylori. 
+(C) infiltrado linfocítico. 
+(D) infiltrado eosinofílico. 
+##### 
+ 
+{10} 
+Mulher, 35 anos de idade, em acompanhamento ambulatorial 
+por artrite reumatoide e depressão. Faz uso de metotrexato  
+10 mg semanal, ácido fólico 5 mg semanal e fluoxetina 20 mg 
+à noite. Procura ambulatório por insônia há 2 meses. Exame 
+físico geral sem alterações e articulações sem sinais de 
+flogismo. Assinale a alternativa que apresenta a conduta 
+adequada para a queixa da paciente. 
+ 
+(A) Trocar fluoxetina por clonazepam. 
+(B) Associar fluoxetina com clonazepam. 
+(C) Aumentar dose da fluoxetina. 
+(D) Orientar uso da fluoxetina pela manhã. 
+##### 
+{11} 
+Mulher, 74 anos de idade, tabagista, tem hipertensão e 
+diabetes. Foi encontrada confusa em casa pela filha, que há  
+2 dias atrás havia a visto bem. Na admissão no pronto-socorro, 
+encontrava-se afebril, eupneica, com PA de 170×110 mmHg, 
+FC de 102 bpm, glicemia capilar de 145 mg/dL. Ao exame 
+neurológico, apresentou-se vigil, alerta, irritada, afirmando 
+“estou bem, quero ir para casa”. Tinha o olhar desviado para 
+a direita quando distraída, mas conseguia olhar para a 
+esquerda quando instruída pelo examinador. A paciente 
+percebia o dedo do examinador em todos os quadrantes no 
+exame de campos visuais por confrontação. Quando 
+solicitada a ler um texto, começava a partir do meio da página 
+e lia apenas o lado direito das frases repetidamente. Não 
+apresentava fraqueza muscular. Assinale a alternativa que 
+apresenta uma imagem de ressonância magnética compatível 
+com o quadro da paciente descrita. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+#####
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{12} 
+Mulher, 22 anos de idade, procura o pronto-socorro por indisposição. Descreve ter polifagia, poliúria e polidipsia progressivas no 
+último mês, com piora na última semana. Nos últimos dois dias, teve náuseas, alguns vômitos e passou a maior parte do dia sentada 
+por indisposição. Ao exame clínico, apresentou PA de 110×62 mmHg, FC de 106 bpm, FR de 28 irpm, temperatura 36,2 °C, SpO2 
+de 98%, mucosas secas, vigil, sem sinais de desconforto respiratório, força grau IV nos membros inferiores, sem outras 
+anormalidades.  
+ 
+• Exames laboratoriais: 
+Glicemia: 482 mg/dL 
+pH: 7,27 
+HCO3-: 12 mEq/L 
+pCO2: 26 mmHg 
+Cetonas detectadas no sangue.  
+ 
+Um eletrocardiograma foi realizado e pode ser observado na imagem a seguir:  
+ 
+ 
+ 
+Assinale a alternativa que contém o item mais apropriado à prescrição imediata da paciente. 
+ 
+(A) Bicarbonato de sódio. 
+(B) Insulina em bomba de infusão. 
+(C) Adenosina em bólus. 
+(D) Cloreto de potássio. 
+##### 
+ 
+{13} 
+Homem, 58 anos de idade, procura atendimento por dispneia. A médica residente, que realizou o atendimento, observou a presença 
+de um achado clínico que favoreceu, significativamente, a possibilidade de se tratar de um caso de insuficiência cardíaca. A partir 
+da análise da tabela, assinale a alternativa que contém o achado clínico observado. 
+ 
+ 
+Sinal clínico 
+Sensibilidade 
+(%) 
+Especificidade 
+(%) 
+Razão de 
+verossimilhança 
+positiva 
+Razão de 
+verossimilhança 
+negativa 
+(A) 
+Hepatomegalia 
+3,2 
+97 
+1,07 
+1,00 
+(B) 
+Terceira bulha 
+10 
+85 
+0,67 
+1,06 
+(C) 
+Estertores 
+29 
+77 
+1,26 
+0,92 
+(D) 
+Refluxo abdomino jugular 
+33 
+94 
+5,50 
+0,71 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{14} 
+Mulher, 53 anos de idade, antecedentes desconhecidos. 
+Trazida à sala de emergência com relato de tosse produtiva, 
+febre e prostração nos últimos 3 dias. Durante atendimento, 
+evoluiu com franco desconforto respiratório, foi submetida à 
+intubação orotraqueal e foram realizados procedimentos para 
+estabilização. Ao exame físico, após os procedimentos, 
+apresentou PA de 102×74 mmHg, FC de 112 bpm, SpO2 de 
+92%, temperatura de 37,9 °C. Regular estado geral, corada, 
+hidratada. Murmúrios vesiculares presentes à direita e 
+globalmente reduzidos à esquerda. Ausculta cardíaca e 
+exame abdominal sem alterações. Extremidades com 
+perfusão periférica adequada. Assinale a alternativa que 
+apresenta uma imagem de radiografia compatível com o 
+quadro da paciente. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+{15} 
+Mulher, 23 anos de idade, faz acompanhamento médico por 
+rinite alérgica, dismenorreia e cefaleia tensional, com uso 
+recorrente de anti-inflamatórios e analgésicos. A paciente 
+comparece em consulta ambulatorial de rotina e refere que, 
+nos últimos 8 meses, procurou o pronto-atendimento quatro 
+vezes por edema em pálpebras e lábios. Um dos episódios foi 
+acompanhado de edema de língua. Outro episódio foi 
+acompanhado de lesões de pele eritematosas, edematosas e 
+pruriginosas. Em um dos casos havia ingerido amendoim. Em 
+duas ocasiões, recebeu adrenalina intramuscular com 
+melhora do quadro. Nega que tenha ocorrido hipotensão, 
+dispneia, diarreia ou dor abdominal nos quatro atendimentos. 
+Qual é a causa mais provável do quadro clínico desta 
+paciente? 
+ 
+(A) Urticária aguda. 
+(B) Alergia alimentar. 
+(C) Anafilaxia recorrente. 
+(D) Angioedema hereditário. 
+##### 
+ 
+{16} 
+Mulher, 35 anos de idade, previamente hígida, procura o 
+ambulatório. Há 3 meses, queixa-se de calafrios ocorrendo  
+3 vezes por semana, além de prurido generalizado, sem 
+melhora com uso de hidratantes. Relata edema facial leve ao 
+despertar, com melhora ao longo do dia. Notou gânglio 
+aumentado à direita e passou em odontologista que atribuiu a 
+um procedimento feito no mês anterior. Ao exame clínico, 
+apresentou PA de 113×66 mmHg, FC de 112 bpm, 
+temperatura de 37,1 ºC, FR de 18 irpm, SpO2 de 97% em ar 
+ambiente. Linfonodo cervical direito aumentado, firme, indolor, 
+não aderido, medindo cerca de 2,5 cm. Turgência jugular 
+discreta. Sem sinais de congestão pulmonar ou derrame 
+pleural. Ausência de estertores ou sibilos. Abdome flácido, 
+indolor, sem visceromegalias. Assinale a alternativa que 
+apresenta a conduta apropriada neste momento. 
+ 
+(A) Sorologia para mononucleose. 
+(B) Amoxicilina/clavulanato por 7 dias. 
+(C) Biópsia do linfonodo. 
+(D) Prednisona oral por 5 dias. 
+##### 
+ 
+{17} 
+Homem, 43 anos de idade, possui antecedentes de diabetes 
+melito tipo 2 e sobrepeso. Comparece em consulta para 
+seguimento de controle glicêmico. Marido do paciente refere 
+ronco esporádico em noites após ingestão de álcool e nega 
+pausas respiratórias. Paciente nega sonolência diurna ou 
+cefaleia. Foi realizada aferição de pressão arterial na triagem, 
+que identificou valor de 148×92 mmHg. Qual deve ser o 
+próximo passo na avaliação da pressão arterial em 
+consultório? 
+ 
+(A) Solicitar uma polissonografia tipo 1 (laboratório de sono). 
+(B) Indicar Monitorização Ambulatorial da Pressão Arterial 
+(MAPA). 
+(C) Reavaliar medida de pressão arterial em consulta de 
+retorno. 
+(D) Checar comprimento e largura do manguito utilizado na 
+medição. 
+##### 
+ 
+
+
+--- PAGE 9 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{18} 
+Mulher, 28 anos de idade, saudável, com gestação prévia sem intercorrências, procura atendimento ginecológico para iniciar o uso 
+de contracepção hormonal combinada. Ela não possui história pessoal ou familiar de trombose venosa profunda, tromboembolia 
+pulmonar ou complicações gestacionais. Soube por amigos do risco de trombose relacionado ao uso desse tipo de contraceptivo 
+e solicita a realização de exames para pesquisa de trombofilias hereditárias antes de iniciar o método. A tabela de prevalência de 
+trombofilias hereditárias é apresentada a seguir: 
+ 
+Prevalência de Trombofilias Hereditárias e Risco de Trombembolismo Associado ao Uso de Contraceptivo Oral 
+ 
+Trombofilia hereditária 
+Prevalência na 
+População Geral 
+Prevalência em 
+Pacientes com TEV 
+Risco Relativo para Primeiro 
+Episódio de TEV 
+Deficiência de Antitrombina 
+0,02% 
+1% 
+5 a 10 
+Deficiência de Proteína C 
+0,2% 
+3% 
+4 a 6,5 
+Deficiência de Proteína S 
+0,03% - 0,13% 
+2% 
+1 a 10 
+Fator V de Leiden 
+(heterozigoto) 
+3% - 7% 
+20% 
+3 a 5 
+Mutação G20210A da 
+Protrombina (heterozigoto) 
+0,7% - 4% 
+5% 
+2 a 3 
+* As prevalências populacionais variam conforme a região geográfica. 
+ 
+Com base nas evidências disponíveis na tabela e o risco de tromboembolia em usuárias de contraceptivos orais, qual é o melhor 
+aconselhamento neste caso? 
+ 
+(A) Solicitar a pesquisa das trombofilias mais prevalentes na população. 
+(B) Solicitar as pesquisas das trombofilias com maior risco relativo de TEV. 
+(C) Realizar triagem laboratorial para as trombofilias hereditárias disponíveis. 
+(D) Não há necessidade de investigar trombofilias hereditárias. 
+#####
+ 
+{19} 
+Homem, 73 anos de idade, com antecedente de insuficiência 
+cardíaca de fração de ejeção reduzida e hipertensão arterial 
+sistêmica. Internado por descompensação da insuficiência 
+cardíaca por má adesão. Após 8 dias de internação hospitalar, 
+intercorreu com febre, tosse produtiva, taquicardia e pressão 
+arterial média limítrofe.  
+ 
+• Exames laboratoriais:  
+Hb: 14,2 mg/dL 
+Leucócitos: 9.200/mm3 
+Plaquetas: 184 mil/mm3 
+Cr: 0,9 mg/dL 
+ 
+Hemocultura 
+com 
+identificação 
+de 
+Staphylococcus 
+epidermidis em frasco aeróbio após 22h, frasco anaeróbio e 
+outro par de hemocultura seguem negativos. Assinale a 
+alternativa que apresenta a antibioticoterapia mais pertinente 
+para o caso apresentado. 
+ 
+(A) Ceftriaxone e azitromicina. 
+(B) Piperacilina com tazobactam. 
+(C) Vancomicina. 
+(D) Oxacilina. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{20} 
+Homem, 62 anos de idade, com histórico de hipertensão 
+arterial sistêmica e dislipidemia, foi recentemente internado 
+devido a infarto agudo do miocárdio de parede inferior, tratado 
+com sucesso por intervenção coronariana percutânea 
+primária. Ficou internado por 14 dias para controle 
+sintomático. Neste período, a família notou o surgimento de 
+tremores simétricos em repouso, predominantemente em 
+membros 
+superiores, 
+associados 
+à 
+lentificação 
+dos 
+movimentos e dificuldade de marcha, com piora progressiva 
+ao longo dos dias. Ao exame neurológico, o paciente 
+apresentava rigidez em “roda denteada” em ambos os 
+membros superiores, bradicinesia e tremor de repouso 
+bilateral, mais proeminente nos membros superiores, com 
+frequência de 4-6 Hz. A velocidade da marcha encontrava-se 
+reduzida, com passos curtos e redução do balanço passivo 
+dos membros superiores. Assinale a alternativa que apresenta 
+a medicação mais provavelmente associada ao surgimento 
+desses sintomas no caso descrito. 
+ 
+(A) Clonazepam. 
+(B) Carvedilol. 
+(C) Bromoprida. 
+(D) Losartana. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{21} 
+Mulher, 23 anos de idade, possui antecedente de lúpus eritematoso sistêmico com atividade prévia mucocutânea e articular em 
+uso de hidroxicloroquina e prednisona, além de constipação crônica. Perdeu seguimento ambulatorial por 2 anos. Procura o 
+departamento de emergência por cansaço inespecífico. Ao exame físico, apresentou PA de 152×88 mmHg, FC de 90 bpm,  
+FR de 23 irpm, SpO2 de 94% em ar ambiente, ausculta cardiopulmonar sem alterações, hiperemia malar e em tronco.  
+ 
+• Exames laboratoriais:  
+Hb: 8,9 mg/dL 
+Leucócitos: 3.600l/mm3 
+Plaquetas: 123 mil/mm3 
+Cr: 3,7 mg/dL 
+Ur: 127 mg/dL 
+K+: 5,8 mEq/mL 
+Na+: 135 mEq/mL 
+ 
+Foi realizado o eletrocardiograma apresentado a seguir: 
+ 
+ 
+ 
+Com base no caso clínico descrito, assinale a alternativa que apresenta a conduta imediata pertinente. 
+ 
+(A) Gluconato de cálcio. 
+(B) Furosemida. 
+(C) Desmopressina. 
+(D) Poliestireno sulfonato de sódio. 
+#####
+ 
+{22} 
+Homem, 67 anos de idade, possui antecedentes de 
+hipertensão arterial sistêmica, doença renal crônica dialítica e 
+cefaleia tensional. Está internado na enfermaria de clínica 
+médica em término de tratamento de pneumonia. Durante a 
+evolução, foram identificados, nos controles das últimas  
+48 horas, múltiplas aferições de pressão arterial próximas a 
+180×120 mmHg. Apresentou um episódio de sua cefaleia 
+habitual. Assinale a alternativa que apresenta uma etapa do 
+exame físico fundamental para a conduta imediata. 
+ 
+(A) Exame do fundo de olho. 
+(B) Medida do peso corpóreo. 
+(C) Aferição da circunferência cervical. 
+(D) Pesquisa de sopro abdominal.  
+##### 
+ 
+ 
+{23} 
+Mulher, 41 anos de idade, portadora de neoplasia de mama 
+com metástases óssea e pulmonar, encontra-se em uso de 
+morfina, dipirona e lactulose. Há uma semana, evoluiu com 
+sonolência 
+progressiva, 
+náuseas, 
+vômitos, 
+piora 
+da 
+constipação intestinal e queda de funcionalidade. Ao exame 
+físico, apresentou PA de 130×78 mmHg, FC de 112 bpm, FR 
+de 14 irpm, SpO2 de 94%; regular estado geral, sonolenta, 
+desidratada, hipocorada; aparelho cardiopulmonar sem 
+alterações; abdome distendido. Diante desses achados, a 
+principal hipótese diagnóstica é de 
+ 
+(A) metástase hepática. 
+(B) metástase cerebral. 
+(C) hipercalcemia. 
+(D) hiponatremia. 
+##### 
+
+
+--- PAGE 11 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{24} 
+Homem, 49 anos de idade, tem diagnóstico recente de 
+insuficiência adrenal e faz uso crônico de hidrocortisona e 
+fludrocortisona por via oral. Ele procura o pronto-socorro com 
+queixa de 3 dias de congestão nasal, cefaleia frontal 
+intermitente, rinorreia e odinofagia leve. Ao exame físico, 
+apresenta temperatura de 38,3 ºC, bom estado geral, 
+congestão nasal bilateral, orofaringe com hiperemia, sem 
+linfonodos 
+cervicais 
+ou 
+lesões 
+orais; 
+sem 
+outras 
+anormalidades. Ele conta que a equipe de endocrinologia lhe 
+entregou uma carta para levar consigo em caso de 
+atendimentos de urgência, mas esqueceu de trazer este 
+documento. Com base nessas informações, assinale a 
+alternativa que apresenta a conduta mais apropriada para o 
+paciente neste momento. 
+ 
+(A) Manter as doses dos medicamentos e observar evolução 
+em domicílio. 
+(B) Manter 
+as 
+doses 
+dos 
+medicamentos 
+e 
+indicar 
+hospitalização. 
+(C) Aumentar a dose de hidrocortisona e observar evolução 
+em domicílio. 
+(D) Aumentar 
+a 
+dose 
+de 
+hidrocortisona 
+e 
+indicar 
+hospitalização. 
+##### 
+ 
+{25} 
+Homem, 30 anos de idade, queixa-se de abaulamento anal 
+associado a dor intensa, contínua e sangramento vivo. A 
+sintomatologia piora em todas as suas evacuações e ficou 
+ainda mais intensa há duas semanas. O hábito evacuatório era 
+de uma evacuação ao dia, fezes endurecidas, e passou a ser 
+de uma vez por semana devido a piora da dor Relata ter uma 
+“hemorroida/verruga” (sic), na borda anal, que parece ter 
+aumentado com o tempo. Informa relações sexuais com 
+parceiros do mesmo sexo, sem maiores detalhes. Ao exame 
+físico, observou-se a seguinte lesão: 
+ 
+ 
+ 
+Com base no relato do paciente e no exame físico 
+apresentado, assinale a alternativa que indica o diagnóstico 
+mais provável. 
+ 
+(A) Adenocarcinoma. 
+(B) Carcinoma espinocelular. 
+(C) Condiloma acuminado. 
+(D) Hemorroida interna grau IV. 
+##### 
+{26} 
+Mulher, 72 anos de idade, encontra-se no sexto pós-operatório 
+de troca de valva mitral. Desde a operação não evacuou, e há 
+dois dias não elimina gases. Nas últimas 24 horas, evoluiu com 
+distensão e dor abdominal. Tem diabetes melito controlado e 
+antecedente de apendicectomia por incisão de McBurney. Ao 
+exame físico, encontra-se em regular estado geral, descorada, 
+eupneica em ar ambiente; exame torácico com incisão de 
+esternotomia sem sinais de complicação e dreno de 
+mediastino com baixo débito; abdome: distendido, com ruídos 
+diminuídos, timpânico, pouco doloroso à palpação difusa sem 
+sinais de irritação peritoneal.  
+ 
+• Exames laboratoriais:  
+Hb: 8,9 g/dL 
+Leucócitos: 10.461/mm3 
+Cr: 2,5 mg/dL 
+Ur: 72 mg/dL 
+PCR: 79 mg/L (anterior de dois dias atrás de 101 mg/L) 
+K+: 3,1 mEq/L 
+Na+: 134 mEq/L 
+ 
+Foi realizada tomografia, conforme imagens a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta o diagnóstico mais 
+provável. 
+ 
+(A) Gastroparesia. 
+(B) Pseudo-obstrução cólica. 
+(C) Obstrução por bridas. 
+(D) Isquemia mesentérica. 
+##### 
+ 
+
+
+--- PAGE 12 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{27} 
+Homem, 23 anos de idade, foi vítima de queda da motocicleta há 1 hora. No atendimento pré-hospitalar estava inconsciente, com 
+PA de 110×80 mmHg e FC de 90 bpm. Foi realizada intubação orotraqueal e encaminhamento para centro de trauma. Na admissão, 
+encontrava-se: 
+ 
+A: SpO2 de 97%; 
+B: Expansibilidade preservada e ausculta sem alterações; 
+C: PA de120×80 mmHg; FC de 94bpm; FAST positivo no espaço hepatorrenal e esplenorrenal; 
+D: Escala de Coma de Glasgow: 3T (sedado); 
+E: Deformidade na perna direita, sem sangramento. Realizada sondagem vesical com diurese clara. 
+ 
+Após o atendimento inicial, foi realizada tomografia de corpo inteiro. Na imagem a seguir, é possível observar a região do abdome 
+com os achados relevantes. 
+ 
+ 
+ 
+Diante da condição clínica do paciente e dos achados no exame de imagem, assinale a alternativa com a provável lesão e a melhor 
+conduta. 
+ 
+(A) Mesentério e laparotomia. 
+(B) Mesentério e tratamento não operatório. 
+(C) Fígado e laparotomia. 
+(D) Fígado e tratamento não operatório. 
+#####
+ 
+{28} 
+Mulher, 49 anos de idade, está no primeiro pós-operatório de 
+cirurgia 
+de 
+bypass 
+gástrico 
+para 
+obesidade 
+por 
+videolaparoscopia. Ao exame físico, encontra-se descorada, 
+com FC de 130 bpm, PA de 100×80 mmHg e FR de 23 irpm, 
+SpO2 de 94%; abdome flácido e indolor à palpação, exceto 
+nos locais das punções. Assinale a alternativa que apresenta 
+a principal hipótese diagnóstica. 
+ 
+(A) Hérnia interna. 
+(B) Atelectasia pulmonar. 
+(C) Deiscência da anastomose. 
+(D) Sangramento da anastomose. 
+##### 
+ 
+ 
+ 
+{29} 
+Lactente, 1 ano de idade, foi submetido à esofagocoloplastia 
+devido a atresia de esôfago. Após 24 horas de cirurgia, 
+apresenta-se gemente, com má perfusão periférica, oligúria e 
+débito vinhoso fétido pela gastrostomia. Ao exame físico, 
+apresenta FC de 190 bpm e PA de 70×40 mmHg. Saturação 
+de oxigênio não aferível. Murmúrios vesiculares reduzidos em 
+bases. Assinale a alternativa que apresenta a complicação 
+mais provável. 
+ 
+(A) Deiscência da anastomose. 
+(B) Pneumotórax hipertensivo. 
+(C) Perfuração de cólon. 
+(D) Necrose de cólon. 
+#####
+
+
+--- PAGE 13 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{30} 
+Homem, 73 anos de idade, refere alteração do hábito intestinal há 4 meses, com constipação e necessidade progressiva de 
+laxativos. Realizou colonoscopia que evidenciou lesão ulcerada no sigmoide intransponível ao aparelho. Procura o serviço de 
+emergência devido a dor abdominal em cólica, distensão e parada de evacuação há 5 dias. Ao exame físico, encontra-se em 
+regular estado geral, desidratado, abdome pouco distendido, fígado palpável até 4 cm abaixo do rebordo costal direito, doloroso 
+à palpação profunda, sem irritação peritoneal.  
+ 
+• Exames laboratoriais:  
+Hb: 10,8 g/dL 
+Ht: 30% 
+Ur: 43 mg/dL 
+Cr: 1,4 mgdL 
+Albumina: 3,3 mg/dL 
+ 
+Foi realizada a tomografia, com o resultado apresentado na imagem a seguir: 
+ 
+ 
+ 
+ 
+Diante da condição clínica do paciente e dos achados no exame de imagem, assinale a alternativa que apresenta a melhor conduta 
+neste momento. 
+ 
+(A) Retossigmoidectomia com linfadenectomia com anastomose. 
+(B) Retossigmoidectomia com linfadenectomia sem anastomose. 
+(C) Laparotomia exploradora com colostomia em alça. 
+(D) Laparotomia exploradora com ileostomia em alça. 
+#####
+ 
+{31} 
+Mulher, 67 anos de idade, notou lesão pigmentada na face 
+anterior da perna esquerda. Foi realizada biópsia excisional 
+que revelou tratar-se de melanoma com Breslow de 4,5 mm e 
+ulceração. Qual é o próximo passo na condução do caso? 
+ 
+(A) Ampliação de margens de 1 cm e pesquisa de linfonodo 
+sentinela. 
+(B) Ampliação de margens de 2 cm e pesquisa de linfonodo 
+sentinela. 
+(C) Ultrassom de região inguinal e ressonância de abdome 
+total. 
+(D) Tomografia de tórax, abdome superior e pelve com 
+contraste. 
+##### 
+ 
+ 
+{32} 
+Homem, 27 anos de idade, refere dor testicular à direita há 
+cerca de 15 dias, acompanhada de aumento de volume do 
+testículo e disúria leve. Nega trauma. Sem febre ou corrimento 
+uretral. Não tem parceira sexual fixa e usa preservativo 
+ocasionalmente. Foi realizado ultrassom Doppler de escroto 
+que evidenciou testículo direito aumentado, hipoecoico e 
+heterogêneo com aumento difuso da vascularização. Assinale 
+a alternativa que apresenta a melhor conduta. 
+ 
+(A) Ciprofloxacino e azitromicina por 5 dias. 
+(B) Ceftriaxona dose única e doxiciclina por 10 dias. 
+(C) PET-CT com FDG18, βHCG e alfa feto proteína. 
+(D) Tomografia de tórax e abdome, βHCG e alfa feto proteína. 
+##### 
+ 
+
+
+--- PAGE 14 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{33} 
+Mulher, 64 anos de idade, procura o serviço de emergência com distensão e dor abdominal em cólica há 24 horas, acompanhada 
+de vômitos em grande quantidade. Nega alteração do hábito intestinal antes do quadro agudo. Tem antecedente de 
+retossigmoidectomia por diverticulite aguda complicada com peritonite. Ao exame físico, encontra-se em bom estado geral, ausculta 
+torácica sem alterações, abdome com ruídos hidroaéreos aumentados, distendido, doloroso à palpação profunda e sem sinais de 
+irritação peritoneal. Assinale a alternativa que apresenta a tomografia esperada para esta paciente. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 15 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{34} 
+Durante um checklist pré-operatório de retossigmoidectomia 
+para o tratamento de adenocarcinoma de cólon esquerdo, em 
+um paciente de 64 anos de idade com diabetes controlado, o 
+anestesista pergunta ao cirurgião qual é o antibiótico 
+preconizado neste momento. Qual é a melhor opção? 
+ 
+(A) Cefoxitina. 
+(B) Cefuroxima. 
+(C) Cefazolina. 
+(D) Ceftriaxona. 
+##### 
+ 
+{35} 
+Homem, 59 anos de idade, foi diagnosticado com 
+adenocarcinoma pancreático com indicação de quimioterapia 
+neoadjuvante. Relata perda de 10% do peso corpóreo. O peso 
+ideal é de 70 kg. Não possui comorbidades. Considerando o 
+suporte nutricional para tolerar o tratamento sistêmico e, 
+posteriormente, a operação de grande porte, assinale a 
+alternativa que apresenta as metas calórica e proteica 
+preconizadas. 
+ 
+(A) 2.000 calorias; 100 gramas de proteína. 
+(B) 2.000 calorias; 200 gramas de proteína. 
+(C) 3.000 calorias; 200 gramas de proteína. 
+(D) 3.000 calorias; 100 gramas de proteína. 
+##### 
+ 
+{36} 
+Homem, 45 anos de idade, submetido a gastroplastia em Y de 
+Roux para tratamento de obesidade há 2 anos, com perda de 
+40 kg. Em exame de rotina, foi feito o diagnóstico de colelitíase 
+e coledocolitíase. Assinale a alternativa que apresenta a melhor 
+sequência de tratamento. 
+ 
+(A) Colecistectomia e colangiografia transparietohepática. 
+(B) Colecistectomia e exploração cirúrgica do colédoco. 
+(C) Colangiografia endoscópica e colecistectomia laparoscópi-
+ca. 
+(D) Litotripsia extracorpórea e colecistectomia. 
+##### 
+ 
+{37} 
+Homem, 65 anos de idade, procura o serviço de emergência 
+com dor em fossa ilíaca esquerda há 6 dias, associada a 
+constipação, náuseas e hiporexia. Nega febre. Ao exame 
+físico, apresenta-se em bom estado geral, FC de 80 bpm, PA 
+de 130×80 mmHg, com dor à palpação profunda em fossa 
+ilíaca esquerda, sem sinais de irritação peritoneal. Exames 
+laboratoriais apresentaram 15.000/mm3 leucócitos e PCR de 
+180 mg/L. Foi realizada uma tomografia contrastada de 
+abdome, que evidenciou divertículos em cólon descendente e 
+sigmoide com densificação da gordura mesentérica e 
+presença de abscesso pericólico de 2 cm de diâmetro com 
+focos gasosos de permeio. Assinale a alternativa que 
+apresenta a melhor conduta neste momento. 
+ 
+(A) Antibioticoterapia. 
+(B) Colostomia em alça. 
+(C) Retossigmoidectomia. 
+(D) Drenagem percutânea. 
+##### 
+ 
+{38} 
+Homem, 28 anos de idade, vítima de atropelamento com 
+trauma do membro inferior esquerdo. Após 7 dias de 
+internação, observa-se lesão no membro acometido, sem 
+solução de continuidade com meio externo. Ao exame físico, 
+a escara cutânea está descolada da profundidade e 
+apresenta grande hematoma subcutâneo, sem perfusão 
+cutânea adequada, conforme imagem a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta o provável diagnóstico e 
+a conduta cirúrgica mais adequada. 
+ 
+(A) Fasceite necrotizante; Punção diagnóstica para colheita 
+de material para cultura, curativo oclusivo simples. 
+(B) Fasceite necrotizante; Incisão, drenagem de hematoma, 
+colheita de material para cultura e instalação de curativo 
+por pressão negativa. 
+(C) Ferimento 
+descolante 
+oculto; 
+Ressecção 
+da 
+pele 
+desvitalizada, limpeza cirúrgica e realização de curativo 
+por pressão negativa. 
+(D) Ferimento descolante oculto; Ressecção e enxertamento 
+da pele descolada, enxertia da pele emagrecida sobre o 
+leito cruento. 
+##### 
+ 
+{39} 
+Mulher, 40 anos de idade, procura o serviço de emergência 
+com dor lombar há 3 dias e aumento da intensidade nas 
+últimas 12h. No momento relata dor 10 em 10 e incapacidade 
+de trabalhar. Relata múltiplos episódios prévios semelhantes 
+em momentos de aumento da carga de trabalho. Tem 
+obesidade (IMC de 41 kg/m2), insônia e tabagismo de  
+20 anos-maço. Faz uso de benzodiazepínico para dormir. 
+Nega outras comorbidades. Ao exame físico, após analgesia, 
+apresenta dor localizada na região lombar, com irradiação 
+para o membro inferior direito, força motora e sensibilidade 
+dos 
+membros 
+inferiores 
+sem 
+alterações. 
+Qual 
+das 
+características apresentadas pela paciente representa fator 
+de risco para cronificação do episódio de dor lombar? 
+ 
+(A) Dor intensa gerando incapacidade funcional. 
+(B) Índice de massa corpórea maior que 35 kg/m2. 
+(C) Tabagismo com elevada carga tabágica. 
+(D) Insônia com uso de benzodiazepínico. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 16 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{40} 
+Mulher, 66 anos de idade, apresentou dor abdominal de início súbito e forte intensidade há 4 horas. Tem diabetes melito e tabagismo 
+de 1 maço de cigarro por dia. Ao exame físico, encontra-se em regular estado geral, com FC de 100 bpm e PA de 100×70 mmHg, 
+abdome tenso, doloroso difusamente à palpação, inclusive à percussão.  
+ 
+• Exames laboratoriais:  
+Hb: 14,9 g/dL 
+Ht: 41% 
+Leucócitos: 16.126/mm3 
+PCR: 12 mg/L 
+Amilase: 281 U/L 
+Lipase: 100 U/L 
+ 
+Foi realizada a tomografia apresentada nas imagens a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que representa o achado operatório esperado nesta paciente. 
+ 
+(A) 
+ 
+ 
+(C) 
+ 
+(B) 
+ 
+ 
+(D) 
+ 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 17 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{41} 
+Durante colecistectomia pós pancreatite aguda leve, foi 
+optado pela realização de colangiografia intraoperatória. A 
+imagem do campo operatório pode ser observada a seguir: 
+ 
+ 
+ 
+Em qual das estruturas, destacadas pelas setas e numeradas 
+de 1 a 4, deve ser introduzido o cateter da colangiografia? 
+ 
+(A) 1. 
+(B) 2. 
+(C) 3. 
+(D) 4. 
+##### 
+ 
+{42} 
+Mulher, 59 anos de idade, foi submetida a colecistectomia 
+laparoscópica devido a colecistite aguda há 1 dia. Na 
+operação não foi realizada colangiografia intraoperatória e não 
+houve colocação de dreno abdominal. Desde o pós-operatório 
+imediato, apresentou vômitos de repetição sem aceitação da 
+dieta e dor abdominal em tratamento com dipirona e tramadol. 
+Ao exame físico, encontra-se em bom estado geral, eupneica, 
+com FC de 95 bpm, PA de 120×70 mmHg, abdome doloroso 
+à palpação profunda, sem sinais de irritação peritoneal. 
+ 
+• Exames laboratoriais: 
+Hb: 12 g/dL 
+Leucócitos: 13.412/mm3 
+PCR: 90 mg/L 
+Bilirrubina total: 1,1 /dL 
+FA: 91 U/L 
+GGT: 110 U/L 
+Amilase: 100 U/L 
+Lipase: 98 U/L 
+ 
+Assinale a alternativa que apresenta a melhor conduta nesse 
+momento. 
+ 
+(A) Suspender tramadol e passar sonda nasogástrica. 
+(B) Suspender tramadol e administrar ondansetrona. 
+(C) Realizar tomografia de abdome. 
+(D) Realizar colangiorressonância. 
+##### 
+ 
+ 
+ 
+ 
+ 
+{43} 
+Mulher, 39 anos de idade, refere cólica em epigástrio e 
+hipocôndrio direito com irradiação para dorso há 2 dias, que 
+melhora com o uso de analgésicos e antiespasmódicos. Nega 
+febre. Sem comorbidades. Ao exame físico, apresenta bom 
+estado geral, corada, hidratada, ictérica +/++++, afebril; 
+abdome distendido, flácido, doloroso em epigástrio e 
+hipocôndrio direito sem sinais de peritonite. 
+ 
+• Exames laboratoriais:  
+Hb: 11,5 g/dL 
+Leucócitos: 9.500/mm3 
+TGO/AST: 230 U/L 
+TGP/ALT: 310 U/L 
+FA: 430 U/l 
+GGT: 352 U/L 
+Amilase: 110 U/L 
+Lipase: 72 U/L 
+Bilirrubina total: 4,5 mg/dL 
+PCR: 8 mg/L 
+ 
+Com base no caso clínico descrito, assinale a alternativa que 
+apresenta a principal hipótese diagnóstica. 
+ 
+(A) Cólica biliar. 
+(B) Colangite. 
+(C) Coledocolitíase. 
+(D) Colecistite aguda. 
+##### 
+ 
+{44} 
+Mulher, 25 anos de idade, foi vítima de ferimento por arma 
+branca em 2º espaço intercostal à direita há 5 dias. Na 
+ocasião, foi submetida a drenagem de hemopneumotórax com 
+dreno tubular multiperfurado 28 Fr. Evoluiu bem com débito 
+seroso de 40 mL/dia e sem borbulhar à inspiração profunda. 
+A imagem obtida na radiografia de tórax pode ser observada 
+a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a conduta correta neste 
+momento.  
+ 
+(A) Manter o dreno em aspiração contínua. 
+(B) Manter o dreno e fisioterapia respiratória. 
+(C) Retirar o dreno com manobra de Valsalva. 
+(D) Retirar o dreno durante a inspiração. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 18 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{45} 
+Mulher, 65 anos de idade, foi vítima de colisão de carro em 
+alta velocidade contra anteparo fixo. Estava no banco traseiro 
+do veículo com cinto de segurança. Na admissão no serviço 
+de emergência encontrava-se: 
+ 
+A: Intubada em ventilação mecânica; 
+B: Murmúrios vesiculares simétricos; 
+C: PA de 140×90 mmHg e FC de 120 bpm; 
+D: Escala de coma de Glasgow 3T; 
+E: Marca do cinto de segurança em parede abdominal. 
+Diurese clara. Realizado o FAST, apresentado na imagem a 
+seguir: 
+ 
+ 
+ 
+Com base no caso descrito e no achado observado no FAST, 
+assinale 
+a 
+alternativa 
+que 
+apresenta 
+a 
+lesão 
+mais 
+frequentemente associada a esse mecanismo de trauma. 
+ 
+(A) Lesão intestinal. 
+(B) Lesão pancreática. 
+(C) Fratura de bacia. 
+(D) Rotura da parede abdominal. 
+##### 
+ 
+{46} 
+Mulher, 65 anos de idade, refere empachamento pós-prandial 
+eventual. Nega epigastralgia, pirose, regurgitação, disfagia, 
+dor torácica ou náuseas. Ao exame físico, encontra-se em 
+bom estado geral, com IMC de 32 kg/m2; abdome flácido e 
+indolor. Foi submetida a endoscopia digestiva alta que 
+identificou hérnia hiatal volumosa, com mucosa esofágica sem 
+alterações e pangastrite enantematosa leve. Na sequência, 
+realizou exame de radiografia contrastado do esôfago que 
+confirmou hérnia hiatal tipo III. Foi iniciado tratamento com 
+omeprazol e domperidona, com resolução do sintoma. 
+Assinale a alternativa que apresenta a melhor conduta para 
+esta paciente. 
+ 
+(A) Manometria e pH-metria esofágica para definição do 
+diagnóstico e tratamento. 
+(B) Cirurgia para correção da hérnia de hiato com hiatoplastia 
+e fundoplicatura. 
+(C) Cirurgia com correção da hérnia de hiato com hiatoplastia 
+e bypass gástrico. 
+(D) Seguimento ambulatorial sem indicação de cirurgia no 
+momento. 
+##### 
+ 
+ 
+{47} 
+Homem, 58 anos de idade, é trazido ao pronto-socorro com 
+história de ingestão de soda cáustica. Foi realizada passagem 
+de sonda nasoenteral. No segundo dia de internação, estava 
+sem queixas e solicitou continuidade de recuperação 
+domiciliar, pois sua esposa é enfermeira. O paciente 
+apresenta postura reservada, solícito, fala pouco e diz não se 
+conformar por ter ingerido por engano a soda cáustica que 
+estava em uma garrafa igual à que usam para água. Quando 
+o médico sugere uma consulta psiquiátrica, o paciente pede 
+o favor de não chamar um psiquiatra, temendo o estigma, e 
+acrescenta que tomará mais cuidado. Com base neste caso, 
+assinale a alternativa que apresenta a conduta mais 
+adequada.  
+ 
+(A) Dar a alta se ele assinar o termo de responsabilidade por 
+alta a pedido, respeitando a autonomia do doente. 
+(B) Dar a alta considerando que a esposa é capaz de dar 
+continuidade ao cuidado. 
+(C) Não dar a alta e avaliar com familiares a circunstância do 
+evento para dar continuidade ao cuidado. 
+(D) Não dar a alta e pedir avaliação psiquiátrica, omitindo a 
+especialidade do médico avaliador.  
+##### 
+ 
+{48} 
+Homem, 28 anos de idade, foi vítima de queda de motocicleta. 
+Na admissão intra-hospitalar, está consciente e estável 
+hemodinamicamente. Ao exame físico, tem deformidade da 
+coxa esquerda, com ausência de pulso distal, diminuição da 
+temperatura e palidez. Relata intensa dor no membro inferior 
+esquerdo. O exame radiológico pode ser observado na 
+imagem a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a melhor sequência de 
+tratamento. 
+ 
+(A) Revascularização do membro seguida de fixação cirúrgica 
+da fratura. 
+(B) Redução da fratura com tala seguida de revascularização 
+do membro. 
+(C) Embolectomia com cateter de Fogarty seguida de fixação 
+cirúrgica da fratura. 
+(D) Fixação cirúrgica da fratura seguida de revascularização 
+do membro. 
+##### 
+
+
+--- PAGE 19 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+Texto para as questões de 49 a 51 
+ 
+Criança, sexo masculino, 1 mês de vida, previamente hígida, 
+é trazida à unidade de emergência após cair do trocador, há 
+cerca de 30 minutos. Segundo a mãe, ela havia tirado a mão 
+dele por alguns segundos para jogar a fralda no lixo e ele teria 
+rolado e caído do trocador. Na admissão, o paciente estava 
+inconsciente, sendo levado à sala de emergência. A seguir, os 
+dados da avaliação sistematizada:  
+ 
+A: pérvia 
+B: murmúrio vesicular e expansibilidade diminuídos, FR  
+de 8 irpm, SpO2 de 89% em ar ambiente; 
+C: tempo de enchimento capilar < 1 segundo, pulsos 
+presentes e simétricos, ausculta com 2BRNF sem sopros, 
+PA de 108×70 mmHg; 
+D: escala de coma de Glasgow 7, pupilas isofotorreagentes; 
+E: hematoma subgaleal em região temporal direita. 
+ 
+{49} 
+Assinale a alternativa que ilustra, corretamente, o suporte 
+respiratório que deve ser prontamente instituído. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+ 
+{50} 
+Foi realizada tomografia de crânio, conforme imagem 
+demonstrada a seguir: 
+ 
+ 
+ 
+Após medidas de estabilização, o caso foi notificado ao 
+serviço social. Com relação a essa decisão da equipe médica, 
+pode-se afirmar: 
+ 
+(A) Foi indicada porque a tomografia não é compatível com o 
+trauma reportado. 
+(B) Foi motivada pela presença de hematoma em localização 
+incomum nos traumas pediátricos. 
+(C) É justificada porque o mecanismo de trauma é 
+incompatível com a faixa etária. 
+(D) Não havia indicação, pois não há incongruências nas 
+circunstâncias do trauma. 
+##### 
+ 
+{51} 
+Com relação aos exames séricos coletados durante o 
+atendimento inicial do paciente, assinale a alternativa que 
+apresenta as alterações laboratoriais esperadas. 
+ 
+(A) 
+pH: 7.28 
+paO2: 58 mmHg 
+pCO2: 55 mmHg 
+HCO3-: 24 mmol/L 
+SpO2: 89% 
+(B) 
+Hb: 5.0 g/dL 
+Ht: 18% 
+Leucócitos: 12.000/mm3 
+Plaquetas: 310.000/µL 
+(C) 
+Relação TTPA: 2.5 RNI 
+Tempo de Protrombina (TP): 1.1 
+Atividade TP: 76% 
+(D) 
+Lactato arterial: 55 mg/dL 
+Ureia: 60 mg/dL 
+Creatinina: 0.7 mg/dL 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 20 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{52} 
+Prematura com idade gestacional ao nascer de 32 semanas, sexo feminino, peso ao nascer de 1.300 g, adequado para idade 
+gestacional, Z-score -1 (Intergrowth-21). Passou em consulta de retorno com a idade cronológica de 56 dias de vida, com peso de 
+2.800 g, em aleitamento materno exclusivo. Os gráficos a seguir são disponibilizados na caderneta da criança pelo Ministério da 
+Saúde.  
+ 
+ 
+ 
+Os pais estão curiosos em saber se o ganho de peso de sua filha está dentro do esperado. Com base nas informações 
+apresentadas, pode-se afirmar que o ganho de peso  
+ 
+(A) é insuficiente, devendo-se iniciar complemento com fórmula láctea e coletar perfil de ferro. 
+(B) é insuficiente, devendo-se iniciar complemento com fórmula láctea após o seio e reavaliar em 1 semana. 
+(C) está adequado, devendo-se manter o aleitamento exclusivo e realizar seguimento pediátrico mensal. 
+(D) está adequado, mas abaixo do esperado para idade, devendo-se complementar para acelerar a recuperação nutricional. 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 21 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{53} 
+Criança, sexo masculino, 7 anos de idade, portadora de 
+refluxo vesicoureteral bilateral, retornou hoje ao hospital por 
+febre de até 38,8 °C. No exame físico inicial, o paciente está 
+letárgico e sonolento, apresenta FC de 140 bpm, FR de  
+26 irpm, PA de 90×40 mmHg, SpO2 de 96% em ar ambiente, 
+ausculta pulmonar e cardíaca normais, fígado no rebordo 
+costal direito, perfusão com retorno rápido (< 1 segundo), 
+pulsos amplos, escore de coma de Glasgow 14, pupilas 
+isofotorreagentes. Temperatura atual de 37,2 °C, após uma 
+hora do antitérmico administrado em casa. O paciente 
+recebeu alta há dois dias do hospital, onde esteve internado 
+em leito de terapia intensiva pediátrico devido a quadro de 
+infecção do trato urinário grave por Escherichia coli sensível 
+aos antibióticos testados. Durante internação, ficou com sonda 
+vesical de demora e cateter venoso central, retirado no dia da 
+alta, sem sinais flogísticos no exame físico de hoje. 
+Considerando os dados apresentados, a conduta indicada 
+nesse momento é 
+ 
+(A) iniciar expansão volêmica com cristaloide e antibiótico de 
+espectro estendido para infecção nosocomial. 
+(B) iniciar fluidoterapia em velocidade de manutenção e 
+cefalosporina de terceira geração. 
+(C) aguardar lactato, coagulograma, D-dímero e fibrinogênio 
+para definir necessidade de antibiótico. 
+(D) aguardar coleta e resultados de sedimento urinário para 
+definir necessidade de antibiótico. 
+##### 
+ 
+{54} 
+Criança, sexo masculino, 4 anos de idade, foi admitido no 
+pronto-socorro devido a quadro de diarreia e vômitos há  
+3 dias, em grande quantidade. Na admissão, apresentava 
+sinais de instabilidade hemodinâmica, sendo iniciada 
+expansão volêmica. O resultado da gasometria venosa 
+coletada na admissão foi o seguinte: 
+ 
+pH: 7,29  
+HCO3-: 15 mmol/L 
+Na+: 128 mEq/L  
+K+: 3,9 mEq/L 
+Ca2+: 4,92 mg/dL 
+ 
+Frente aos dados clínicos e laboratoriais apresentados, qual é 
+o traçado eletrocardiográfico esperado? 
+ 
+(A) 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+{55} 
+Criança, sexo masculino, 4 anos de idade, com antecedente 
+de insuficiência renal crônica dialítica, portador de cateter de 
+longa permanência, apresentou quadro de febre e tremores 
+durante sessão de hemodiálise há 48 horas. Após 
+estabilização inicial, foi internado em enfermaria de pediatria 
+com prescrição de antibiótico parenteral. Ele está afebril há  
+24 horas, sem queixas, com sinais vitais dentro da 
+normalidade. Ao exame físico, encontra-se em bom estado 
+geral, descorado +/4+, hidratado, anictérico, afebril e 
+eupneico. Ausculta pulmonar e cardíaca sem alterações, 
+exame físico abdominal indolor, sem visceromegalias. A 
+hemocultura central resultou positiva para Staphylococcus 
+aureus, conforme tabela a seguir: 
+ 
+CULTURA AERÓBIA – SANGUE (CATETER) 
+Coletado em: 22/04/2025 às 10:47 
+ 
+T. Detecção: 00 Dias – 12 Horas 41 Minutos 19 Segundos 
+ 
+1 – Staphylococcus aureus 
+ANTIBIOGRAMA – 1 
+Clindamicina 
+0,25 S 
+Daptomicina 
+0,5 S 
+Eritromicina 
+> = 8 R 
+Gentamicina 
+< = 0,5S 
+Levofloxacina 
+4 R 
+Linezolida 
+2 S 
+Oxacilina 
+> = 4 R 
+Penicilina 
+> = 0,5 R 
+Rifampicina 
+< = 0,03 S 
+Sulfa + Trimethoprim 
+< = 10 S 
+Teicoplanina 
+< = 0,5 S 
+Tigeciclina 
+< = 0,12 S 
+Vancomicina 
+1 S 
+Legenda: 
+S – Sensível 
+I – Intermediário 
+R – Resistente 
+D – (SDD) Sínsivel Dose-Dependente 
+P – Positivo 
+N – Negativo 
+ 
+Não foi coletada hemocultura periférica na admissão por 
+dificuldade de acesso. Foi realizado ecocardiograma, sem 
+achados de vegetação, e retirado cateter de longa 
+permanência. Qual a melhor conduta para esse paciente? 
+ 
+(A) Manter vancomicina parenteral. 
+(B) Alta hospitalar com sulfametoxazol trimetropina. 
+(C) Suspender antibioticoterapia e considerar contaminação. 
+(D) Descalonar para clindamicina oral, mantendo internação. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 22 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{56} 
+Criança, sexo feminino, 5 meses e duas semanas de vida, compareceu no pronto-socorro, com relato de tosse há cerca de  
+1 semana. A mãe nega contactantes sintomáticos e não observou coriza ou obstrução nasal. Refere que a criança tem crises de 
+tosse e chegou a ficar com coloração arroxeada, cerca de duas vezes no dia, nos últimos quatro dias. Ao exame físico, está em 
+BEG, corada, hidratada, anictérica, acianótica. Ausculta cardíaca e pulmonar sem alterações. Apresenta FR de 36 irpm, FC de  
+120 bpm. Oroscopia com leve hiperemia de orofaringe. Restante do exame clínico sem alterações. Carteira de vacinação e de parto 
+conforme imagens a seguir: 
+ 
+ 
+ 
+ 
+Considerando o principal agente etiológico envolvido, o quadro atual poderia ter sido prevenido com a vacina 
+ 
+(A) DTPa para a mãe, às 20 semanas de gestação. 
+(B) VSR para a mãe, às 20 semanas de gestação. 
+(C) VPC10 aos 4 meses para a paciente (2ª dose). 
+(D) INF3 aos 5 meses para a paciente (1ª dose). 
+#####
+ 
+{57} 
+Criança, sexo masculino, 4 anos de idade, alérgica a 
+amendoim, comparece à unidade de emergência devido à 
+ingestão acidental de um doce contendo o alérgeno há cerca 
+de 40 minutos. Há 10 minutos, iniciou o surgimento de placas 
+urticariformes por todo o corpo, sem outras queixas. Na 
+avaliação inicial, paciente encontra-se em bom estado geral, 
+corado, hidratado, ausculta cardíaca com 2BRNF sem sopros, 
+FC de 102 bpm, PA de 88×54 mmHg, extremidades bem 
+perfundidas, ausculta pulmonar com múrmurio vesicular 
+presente, sem ruídos adventícios, FR de 24 irpm, SpO2 de 97% 
+em ar ambiente. Abdome flácido, normotenso, indolor. A 
+conduta indicada nesse momento é: 
+ 
+(A) Administrar adrenalina 1:1.000 por via intramuscular. 
+(B) Alta hospitalar, com anti-histamínico e corticosteroide. 
+(C) Monitorização hospitalar e administrar anti-histamínico. 
+(D) Realizar medidas de eliminação com lavagem gástrica. 
+##### 
+ 
+ 
+{58} 
+Criança, sexo feminino, branca, 1 ano e 2 meses de idade, 
+apresenta febre de até 39,5 °C há um dia, sem outros 
+sintomas. Há cerca de uma hora, apresentou crise convulsiva 
+tônico clônica generalizada com duração de 4 minutos na 
+vigência de febre, sendo levada ao hospital. Foi admitida já 
+fora da crise, alerta e sem alterações no exame físico. Paciente 
+previamente hígida, com vacinação em dia, tem antecedente 
+familiar de irmão e pai com histórico de crises convulsivas na 
+vigência de febre até os cinco anos de idade. Frente aos 
+dados apresentados, a conduta indicada para a paciente é 
+ 
+(A) coletar eletrólitos, glicemia capilar e hemograma. 
+(B) coletar urina tipo 1 e urocultura por sondagem vesical. 
+(C) realizar ultrassom transfontanela e eletroencefalograma. 
+(D) manter observação hospitalar por 24h, sem exames. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 23 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{59} 
+Você é responsável pela organização de uma pesquisa sobre obesidade infantil. O objetivo é buscar pacientes do sexo masculino, 
+de 0 a 15 anos de idade, com diagnóstico de obesidade, conforme padronização da Organização Mundial de Saúde (OMS) 
+apresentadas nas tabelas a seguir, a fim de conhecer os hábitos alimentares destas crianças. 
+ 
+ 
+ 
+ 
+Considerando as referências da OMS e o objetivo da pesquisa, assinale a alternativa que apresenta o paciente mais adequado 
+para o estudo. 
+ 
+(A) 1 ano e 10 meses, IMC de 20 kg/m2 
+(B) 3 anos e 2 meses, IMC de 17,5 kg/m2 
+(C) 8 anos e 3 meses, IMC de 21 kg/m2 
+(D) 12 anos e 6 meses, IMC de 22,5 kg/m2 
+##### 
+ 
+
+
+--- PAGE 24 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{60} 
+Criança, sexo masculino, 7 anos de idade é portadora de 
+miopia e usa lentes corretivas. Em mutirão executado por 
+agentes comunitários de saúde treinados previamente, foi 
+submetida ao teste de Snellen em sua escola, usando seus 
+óculos. A mãe da criança procura a unidade básica de saúde 
+solicitando encaminhamento ao oftalmologista após a 
+aplicação do teste, com resultado mostrado na imagem a 
+seguir:  
+ 
+ 
+ 
+Assinale 
+a 
+alternativa 
+que 
+justifica, 
+corretamente, 
+o 
+encaminhamento ao especialista. 
+ 
+(A) O resultado obtido no olho direito está alterado. 
+(B) O resultado obtido foi diferente nos dois olhos. 
+(C) O teste foi realizado com uso das lentes corretivas. 
+(D) O teste foi realizado por profissional não habilitado. 
+##### 
+ 
+{61} 
+Recém-nascido a termo internado na unidade neonatal para 
+tratamento 
+de 
+neurossífilis 
+apresentou 
+hipoglicemia 
+assintomática nas primeiras 24 horas de vida, necessitando 
+de reposição endovenosa de glicose por 72 horas. Com  
+11 dias de vida, apresenta perda ponderal de 12% em relação 
+ao peso de nascimento, recebendo seio materno e, na 
+ausência da mãe, fórmula láctea com oferta adequada, além 
+da antibioticoterapia parenteral. Foram coletados exames 
+laboratoriais que revelaram Na+ de 126 mEq/L e K+ de  
+6,8 mEq/L. Qual é a deficiência que se espera encontrar no 
+Teste do Pezinho? 
+ 
+(A) Deficiência de TREC e KREC. 
+(B) Deficiência de 21-hidroxilase. 
+(C) Deficiência de carnitina. 
+(D) Deficiência na síntese da proteína CFTR. ##### 
+{62} 
+Criança, 4 meses de vida, comparece à consulta em unidade 
+básica de saúde acompanhada da mãe com queixa de 
+assadura há 5 dias, após mudar a marca da fralda. Refere 
+também dor durante a amamentação há uma semana. Mãe 
+nega febre, diarreia, vômitos ou prostração. Ao exame físico, 
+a criança apresenta bom estado geral, ganho pondero-
+estatural 
+adequado, 
+exame 
+abdominal 
+e 
+ausculta 
+cardiopulmonar sem alterações. A região perineal é 
+apresentada na imagem a seguir:  
+ 
+ 
+ 
+Ao avaliar a mamada, a mãe refere dor no momento da pega 
+e durante a sucção. O aspecto da mama pode ser visualizado 
+na imagem a seguir:  
+ 
+ 
+ 
+Assinale a alternativa que apresenta a conduta mais 
+adequada nesse momento. 
+ 
+(A) Retirar leite e derivados da dieta materna. 
+(B) Antifúngico tópico no períneo e na mama da mãe. 
+(C) Retornar à marca da fralda anterior e orientar pega 
+adequada. 
+(D) Pomada de barreira em períneo e lanolina na mama da 
+mãe. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IMAGEM REMOVIDA NOS 
+TERMOS DO ESTATUTO 
+DA CRIANÇA E DO 
+ADOLESCENTE. 
+
+
+--- PAGE 25 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{63} 
+Criança, sexo feminino, 8 anos de idade, portadora de asma, comparece à consulta na unidade básica de saúde referindo que, 
+nas últimas 4 semanas, apresenta tosse e cansaço pelo menos uma vez por semana. Despertou à noite por cansaço apenas uma 
+vez. Tem utilizado medicação de resgate para realizar aula de educação física (3 vezes por semana), conseguindo fazer a aula 
+junto aos seus colegas, sem problemas. Faz uso diário de beclometasona HFA partícula padrão 50 µg, 2 jatos por via inalatória de 
+12/12horas, com técnica de aplicação repetida por duas vezes, conforme imagem a seguir: 
+ 
+ 
+ 
+Qual a conduta na consulta de hoje, conforme recomendações do GINA 2025? 
+ 
+(A) Associar salbutamol 100 µg 4 jatos de 12/12 horas. 
+(B) Ajustar beclometasona para 200 µg 1 jato de 12/12horas. 
+(C) Corrigir técnica de administração, sem alterar medicações. 
+(D) Referenciar paciente ao serviço de pneumologia pediátrica. 
+#####
+ 
+{64} 
+Mãe demonstra preocupação na maternidade com relação à 
+aparência umbilical observada em sua primeira filha, com  
+3 dias de vida, conforme a imagem a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que indica a melhor conduta. 
+ 
+(A) Encaminhar para o cirurgião pediátrico para avaliação 
+ambulatorial. 
+(B) Correção cirúrgica antes da alta, devido ao risco de 
+encarceramento. 
+(C) Manter internação hospitalar e iniciar antibioticoterapia. 
+(D) Conduta expectante, orientar limpeza e não aplicar 
+técnicas compressivas. 
+##### 
+ 
+ 
+ 
+ 
+ 
+{65} 
+Criança, sexo masculino, 2 anos de idade, com antecedente 
+de anemia falciforme (Hb basal de 8,5 g/dL), é admitida no 
+pronto-socorro com queixa de febre de até 38,5 °C há 4 dias, 
+palidez e adinamia há 3 dias. Ao exame físico, apresenta-se 
+descorado 3+/4+, hidratado, com FC de 152 bpm, FR de  
+23 irpm, PA de 80×48 mmHg, SpO2 de 94% em ar ambiente, 
+ausculta pulmonar sem alteração, ausculta cardíaca com 
+sopro holossistóloco 2+/6+, fígado palpável no rebordo costal 
+direito, baço percutível no rebordo costal esquerdo. Coletados 
+exames laboratoriais e liberado hemograma na urgência com 
+resultado de pânico:  
+ 
+Hb: 4,5 g/dL 
+Ht: 16% 
+Leucócitos: 17.350/mm3 
+Plaquetas: 160.000/mm3 
+Reticulócitos: 0,1% 
+ 
+Assinale a alternativa que melhor descreve o mecanismo 
+fisiopatológico do quadro apresentado pelo paciente. 
+ 
+(A) Choque hipovolêmico hipotensivo relacionado à retenção 
+esplênica. 
+(B) Sepse e anemia de consumo decorrente de infecção por 
+agente encapsulado. 
+(C) Hemólise 
+intravascular 
+disseminada 
+decorrente 
+de 
+atividade da doença. 
+(D) Anemia 
+sintomática 
+por 
+supressão 
+transitória 
+da 
+eritropoiese medular. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IMAGEM REMOVIDA NOS TERMOS DO 
+ESTATUTO DA CRIANÇA E DO ADOLESCENTE. 
+
+
+--- PAGE 26 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{66} 
+Criança, sexo masculino, 3 anos e 7 meses de vida, comparece à consulta com a pediatra após infecção urinária, adequadamente 
+diagnosticada no pronto-socorro com exame de urina. Na ocasião, referia febre, dor abdominal e náusea; foi prescrita 
+antibioticoterapia, com melhora dos sintomas em menos de 48 horas. Nega infecções urinárias prévias. A paciente realizou 
+ultrassonografia e compareceu à consulta devido à infecção e à ultrassonografia apresentada a seguir: 
+ 
+ 
+ 
+Assinale a alternativa com a imagem que representa o exame ou monitorização a ser solicitado na consulta, neste momento. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+#####
+
+
+--- PAGE 27 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{67} 
+Criança, sexo masculino, 10 anos de idade, em quimioterapia 
+devido à neuroblastoma diagnosticado há 6 meses, sendo a 
+última sessão realizada há 10 dias, está no terceiro dia de 
+internação na enfermaria de pediatria por neutropenia febril, 
+em uso de cefepime. Está afebril nas últimas 36 horas, sem 
+queixas álgicas. Ao exame físico, está consciente, orientado, 
+hidratado, descorado +/4+, sem alterações no restante do 
+exame. Mãe refere não ter novas queixas, mas comenta que 
+ele está inapetente, tem recusado a dieta e não dormiu bem. 
+Refere também que, nas últimas 3 semanas, está mais 
+abatido, tem dormido durante quase todo o dia e, quando 
+acordado, apresenta-se irritado, menos colaborativo que o 
+usual e recusa-se a sair da cama e interagir com familiares. Na 
+enfermaria, segue sem interagir com outros pacientes e com 
+a equipe multiprofissional.  
+ 
+• Exames laboratoriais na admissão: 
+Hb: 8,8 g/dL 
+Ht: 27% 
+Leucócitos: 400/mm3 (sem diferencial) 
+Plaquetas: 55 mil/mm3 
+ 
+• Exames laboratoriais de hoje:  
+Hb: 8,6 g/dL 
+Ht: 26% 
+Leucócitos: 600/mm3 (sem diferencial) 
+Plaquetas: 59 mil/mm3 
+Na+: 137 mEq/L 
+K+: 4,3 mEq/L 
+ 
+Assinale a alternativa que apresenta a conduta mais indicada 
+para a evolução descrita no caso. 
+ 
+(A) Considerar possibilidade de privação sensorial associada 
+a internações e dar alta hospitalar. 
+(B) Considerar quadro compatível com ajustamento à doença, 
+sem investigações adicionais. 
+(C) Solicitar avaliação psiquiátrica e suporte psicológico por 
+suspeita de depressão. 
+(D) Corrigir parâmetros hematimétricos com transfusão de 
+concentrado de hemácias e observar se há melhora da 
+adinamia. 
+##### 
+ 
+{68} 
+Criança, sexo feminino, 9 anos de idade, previamente hígida, 
+está no 6º dia de internação na enfermaria de pediatria devido 
+a um quadro de pneumonia, em uso de ceftriaxone  
+100 mg/kg/dia. À entrada, apresentava febre, taquipneia e 
+queda do estado geral. A radiografia de tórax evidenciou 
+derrame pleural significativo que foi drenado com envio do 
+líquido para cultura. Realizada tomografia computadorizada 
+de tórax, com achados compatíveis com pneumonia 
+necrotizante. Hoje, na evolução, você percebe que a paciente 
+continua mantendo picos diários de febre de até 39 °C, 
+embora apresente bom estado geral e reduzindo a 
+necessidade de oferta de oxigênio. A cultura do líquido pleural 
+resultou positiva para pneumococo sensível à penicilina. 
+Considerando os dados apresentados, a melhor conduta, 
+nesse momento, é 
+ 
+(A) prescrever cefepime e vancomicina. 
+(B) solicitar nova avaliação da cirurgia. 
+(C) repetir tomografia de tórax. 
+(D) manter antibioticoterapia e suporte. 
+##### 
+{69} 
+Criança, sexo masculino, 2 anos de idade, previamente hígida, 
+iniciou quadro de coriza e febre de até 38 °C há três dias, com 
+evolução para tosse seca, intensa e estridente há um dia. 
+Paciente foi levado de madrugada à unidade de emergência 
+devido à dificuldade para respirar há cerca de 30 minutos. Ao 
+exame, foi notada tiragem subdiafragmática e de fúrcula, com 
+dificuldade e ruído inspiratório, audível em repouso. 
+Considerando a principal hipótese diagnóstica, assinale a 
+alternativa cuja a imagem ilustra, corretamente, a posição 
+anatômica da complicação apresentada pelo paciente e a 
+representação fisiológica do acometimento respiratório. 
+ 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 28 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{70} 
+Criança, sexo masculino, 6 anos de idade, portadora de asma 
+não controlada, foi admitida na unidade de emergência em 
+insuficiência respiratória devido à exacerbação asmática. O 
+paciente recebeu corticosteroide sistêmico, salbutamol 
+inalatório a cada 20 minutos por três vezes e sulfato de 
+magnésio. Teve melhora, apenas discreta, e agora está 
+recebendo β2-agonista endovenoso contínuo. Na evolução, o 
+monitor do paciente começou a sinalizar alteração dos sinais 
+vitais. As imagens a seguir apresentam os dados de 
+monitorização dos últimos cinco minutos (prévio) e o do 
+momento atual. 
+ 
+Prévio: 
+ 
+ 
+Atual: 
+ 
+ 
+Assinale 
+a 
+alternativa 
+que 
+ilustra, 
+corretamente, 
+o 
+procedimento de urgência a ser realizado no paciente 
+descrito. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+##### 
+ 
+{71} 
+Recém-nascido (RN) a termo, parto cesáreo eletivo, com  
+40 semanas de idade gestacional, com peso de 3.300 g, é 
+encaminhado ao alojamento conjunto. O pré-natal transcorreu 
+sem intercorrências. Com 48 horas de vida, recebe 
+aleitamento materno por livre demanda e apresenta icterícia e 
+evolução de peso, conforme demonstrado no gráfico a seguir: 
+ 
+ 
+ 
+Além de estimular, orientar e corrigir o aleitamento materno, 
+qual conduta deverá ser realizada após RN completar  
+48 horas de vida? 
+ 
+(A) Manter RN internado em alojamento conjunto, iniciar a 
+fototerapia e coletar bilirrubinas totais e frações. 
+(B) Manter RN internado em alojamento conjunto, reavaliar 
+icterícia, peso e diurese em 6 horas. 
+(C) Dar a alta hospitalar, uma vez que a icterícia é fisiológica 
+e a perda de peso está dentro do esperado, com 
+orientações sobre icterícia. 
+(D) Dar a alta hospitalar, uma vez que a icterícia é fisiológica, 
+orientar banho de sol, iniciar complemento após o seio e 
+agendar reavaliação em 48 horas. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 29 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{72} 
+Durante o atendimento em sala de parto, um recém-nascido apresentou-se hipotônico e sem choro ao nascer. Foi realizado o 
+clampeamento imediato do cordão umbilical, seguido da aplicação dos passos iniciais de reanimação neonatal. A seguir, a 
+avaliação da FC revelou 30 bpm, associada à ausência de movimentos respiratórios. Iniciada ventilação com pressão positiva com 
+máscara, o paciente foi monitorizado e não apresentou melhora após correção da técnica. Assinale a alternativa que apresenta os 
+dispositivos que podem ser usados para a realização da ventilação, como próximo passo da reanimação neonatal. 
+ 
+(A) 
+ 
+ 
+(B) 
+ 
+ 
+(C) 
+ 
+ 
+ 
+(D) 
+ 
+ 
+ 
+##### 
+ 
+{73} 
+Mortalidade proporcional e taxa de mortalidade ajustada por idade segundo raça/cor por todas as causas 
+Município de Imbaré, 2025. 
+ 
+ 
+Nº de óbitos 
+Mortalidade 
+Proporcional (%) 
+Taxa de mortalidade 
+ajustada por mil hab 
+População 1 
+10.000 
+48,5 
+3,2 
+População 2 
+2.000 
+9,7 
+5,1 
+População 3 
+8.000 
+38,8 
+4,5 
+Total 
+20.600 
+100 
+— 
+ 
+Com base nos dados fornecidos na tabela apresentada, qual população tem maior risco de morte? 
+ 
+(A) População 1, pois apresenta a maior mortalidade proporcional. 
+(B) População 1, pois apresenta maior número de óbitos. 
+(C) População 2, pois apresenta a maior taxa de mortalidade. 
+(D) Não é possível comparar, pois as populações são diferentes. 
+##### 
+ 
+
+
+--- PAGE 30 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{74} 
+Considere as seguintes informações referentes a uma mulher 
+de 22 anos de idade: 
+ 
+SUBJETIVO: Paciente comparece a segunda consulta pré-
+natal, relatando que ainda mantém náuseas e vômitos. Não 
+queria engravidar agora, tomou um susto com a gravidez e 
+ainda está buscando aceitá-la. Tem faltado no trabalho, por 
+conta do mal-estar da gravidez, e demonstra preocupação 
+com isso. O supervisor a tem pressionado, dizendo que talvez 
+seja melhor ela se demitir. Fazia academia de ginástica  
+3 vezes por semana e parou por receio de fazer mal à criança.  
+Está usando ácido fólico, sulfato ferroso e carbonato de cálcio. 
+É a sua primeira gestação e não tem nenhuma comorbidade.  
+ 
+OBJETIVO: Idade gestacional de 12 semanas compatível com 
+o primeiro USG feito com 8 semanas de gestação. Vacinação 
+prévia: 3 doses de hepatite B, 3 doses com reforço de DPT,  
+3 doses da vacina de COVID-19 e influenza sazonal. PA de 
+102×60 mmHg. Ausculta (sonar): BCF presente. IMC de  
+24,2 kg/m2. Exames de primeiro trimestre sem alterações 
+significativas.  
+ 
+AVALIAÇÃO: Primigesta de risco habitual, no primeiro 
+trimestre gestacional. Eutrofia, com risco nutricional pelos 
+vômitos. Risco psicossocial. 
+ 
+Em relação ao PLANO para esta consulta, qual é a alternativa 
+mais adequada?  
+ 
+(A) Orientar a paciente a não fazer atividade física em 
+academia, pelo risco de lesão osteomuscular, restrição de 
+crescimento e parto prematuro. 
+(B) Prescrever ondansetrona para a náusea e trocar os 
+medicamentos por um multivitamínico, para melhorar a 
+adesão. 
+(C) Completar vacinação agora com dTpa e encaminhar para 
+a Psicologia, por ser gestação não planejada e ainda não 
+aceita. 
+(D) Suspender temporariamente medicamentos e orientar 
+direitos trabalhistas, pois a gestante não pode ser 
+demitida, exceto por justa causa. 
+##### 
+ 
+{75} 
+O artigo de Faisal-Cury e Menezes (2012) apresenta os 
+resultados de uma coorte de gestantes que estimou a 
+associação entre depressão antenatal e depressão pós-parto. 
+Segundo a pesquisa, gestantes deprimidas apresentaram 
+maior risco de depressão pós-parto (risco relativo: 2,5;  
+IC95%: 2,3-2,7). No entanto, dentre as 828 gestantes 
+avaliadas no início da pesquisa, 107 não responderam ao 
+instrumento de avaliação da depressão no período pós-parto. 
+A análise dos dados mostra que as mulheres que não 
+responderam eram mais deprimidas, menos escolarizadas e 
+mais frequentemente solteiras, mas com idade similar às 
+mulheres que completaram a pesquisa. Caso estas mulheres 
+tivessem retornado e fossem incluídas na análise dos dados, 
+o que provavelmente ocorreria com a medida de associação? 
+ 
+(A) Ficaria estável. 
+(B) Aumentaria. 
+(C) Diminuiria. 
+(D) Não é possível prever. 
+##### 
+ 
+ 
+{76} 
+O gráfico a seguir mostra a mortalidade ajustada por idade por 
+COVID-19 no município de São Paulo, tomando como 
+população padrão o total de habitantes na cidade no período 
+de março a dezembro de 2020, identificando as diferenças 
+segundo raça e sexo.  
+ 
+ 
+ 
+Neste estudo, qual o principal motivo para padronizar as taxas 
+de mortalidade por idade? 
+ 
+(A) Homens têm menor expectativa de vida, e a padronização 
+considera a expectativa de vida das populações em seu 
+cálculo. 
+(B) Mulheres 
+têm 
+menor 
+taxa 
+de 
+mortalidade, 
+e 
+a 
+padronização permite um cálculo mais acurado do risco 
+de morte em cada faixa etária. 
+(C) População branca tem maior proporção de idosos, e a 
+padronização permite a comparação de populações com 
+diferentes distribuições etárias. 
+(D) População negra tem piores condições de vida e saúde, e 
+a padronização pondera a influência das desigualdades 
+socioeconômicas em seu cálculo. 
+##### 
+ 
+{77} 
+Um aluno de pós-graduação pretende estudar três diferentes 
+aspectos do Transtorno do Estresse Pós-Traumático (TEPT) 
+associados ao parto:  
+ 
+1. Se a frequência de TEPT é maior em mulheres atendidas em 
+serviços públicos do que privados;  
+2. Se há relação causal entre história de abuso na infância e 
+TEPT;  
+3. Se TEPT aumenta o risco de ideação suicida anos após o 
+parto.  
+ 
+Assinale a alternativa que contempla os tipos de estudos 
+apropriados para os objetivos 1, 2 e 3, respectivamente. 
+ 
+(A) Coorte, caso-controle, ensaio de comunidade. 
+(B) Descritivo, coorte, caso-controle. 
+(C) Transversal, descritivo, coorte. 
+(D) Transversal, caso-controle, coorte. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 31 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{78} 
+Em um estudo caso-controle que investiga a associação entre 
+tabagismo e câncer de pulmão, se os controles têm maior 
+probabilidade de subestimar o hábito de fumar devido a viés 
+de resposta socialmente desejável, qual é o efeito mais 
+provável sobre a razão de chances (odds ratio, OR)? 
+ 
+(A) O OR será superestimado. 
+(B) O OR será subestimado. 
+(C) O OR permanecerá inalterado. 
+(D) A direção não pode ser determinada. 
+##### 
+ 
+{79} 
+A metformina tem sido o medicamento de primeira linha para 
+tratamento do diabetes melito tipo 2 há décadas. Ela também 
+demonstrou apresentar ações antivirais in vitro em estudos 
+com dengue, hepatite C e rotavírus. Um ensaio clínico avaliou 
+a efetividade da metformina na redução de desfechos 
+adversos graves em pacientes com COVID-19. Após 
+randomização, 1.433 pacientes receberam metformina,  
+500 mg/dia, 14 dias (GE = Grupo Experimental) e 1.548 
+receberam placebo (GC = Grupo Controle). O desfecho 
+primário do estudo foi o tempo para a recuperação sustentada 
+da COVID-19 (definida como ausência de sintomas por, pelo 
+menos, 3 dias). Os desfechos secundários foram a 
+hospitalização e o óbito. O resultado principal mostrou que, ao 
+longo de 180 dias de seguimento, 7 participantes do GE e 3 
+do GC apresentaram algum evento adverso classificado como 
+grave (razão de riscos: 2.50, IC95%: 0.65-9,66). O tempo 
+mediano para recuperação sustentada foi de 9 dias para o GE 
+e 10 dias para o GC (razão de riscos = 0,96;  
+IC95%: 0,89-1,03). No total, 103 participantes relataram visitas 
+ao pronto-socorro ou hospitalização: 54 no GE e 49 no GC 
+(razão de riscos = 1,25; IC95%: 0,82-1,78). Não foram 
+relatados óbitos. Diante dos resultados apresentados, pode-
+se concluir: 
+ 
+(A) Embora a diferença seja modesta, os dados favorecem o 
+uso da metformina. 
+(B) O uso da metformina contribuiu para agravar o quadro 
+clínico dos pacientes. 
+(C) A metformina gerou significativamente mais eventos 
+adversos do que o placebo. 
+(D) Os dados indicam que a hipótese nula não pode ser 
+rejeitada neste caso. 
+##### 
+ 
+{80} 
+O Governo Federal lançou em 2025 o programa “Agora Tem 
+Especialistas”, visando ampliar o acesso da população 
+usuária do Sistema Único de Saúde (SUS) à atenção 
+ambulatorial e hospitalar especializada, incluindo consultas, 
+exames e cirurgias. Uma das medidas prevê a contratação de 
+hospitais e serviços privados, mediante venda de capacidade 
+ociosa, abatimento de dívidas públicas ou créditos tributários. 
+Este caráter da participação do setor privado no SUS é 
+previsto na legislação como 
+ 
+(A) suplementar. 
+(B) complementar. 
+(C) prestador subsidiário. 
+(D) organização social. 
+##### 
+ 
+ 
+{81} 
+Há evidências crescentes, embora controversas, de que a 
+exposição solar crônica está associada ao risco de câncer de 
+mama. Estudos anteriores foram realizados em regiões com 
+variação sazonal na Radiação Ultravioleta (UV) e entre 
+participantes predominantemente de ascendência europeia. 
+Um estudo de caso-controle foi conduzido em Porto Rico, 
+onde não há flutuação sazonal significativa e há exposição 
+contínua à radiação UV muito alta. O estudo incluiu 307 casos 
+de câncer de mama e 328 controles. A análise foi estratificada 
+por cor da pele. A tabela a seguir mostra a distribuição dos 
+participantes com tom de pele mais escuro.  
+ 
+Exposição solar 
+Casos (n) 
+Controles (n) 
+Baixa 
+53 
+54 
+Moderada 
+26 
+56 
+Alta 
+24 
+54 
+ 
+Com base na tabela e considerando a categoria exposição 
+solar “baixa” como referência, qual a provável conclusão em 
+relação à exposição solar e ao câncer de mama neste estudo? 
+ 
+(A) A exposição solar moderada não tem efeito sobre o câncer 
+de mama. 
+(B) A alta exposição solar é um fator protetor contra o câncer 
+de mama. 
+(C) A alta exposição solar é um fator de risco para o câncer 
+de mama. 
+(D) A alta exposição solar não tem efeito sobre o câncer de 
+mama. 
+##### 
+ 
+{82} 
+Um ensaio clínico randomizado estudou a associação entre o 
+uso de sotatercept e morte em pacientes com hipertensão 
+arterial pulmonar classes II e III. Os pacientes foram 
+randomizados em dois grupos: 84 pacientes receberam 
+sotatercept e 86 placebo, a cada três semanas, durante 11 
+meses. Os resultados do estudo encontram-se a seguir: 
+ 
+ 
+Desfecho: morte 
+ 
+ 
+Sim 
+Não 
+Total 
+Sotatercept 
+7 
+77 
+84 
+Placebo 
+13 
+73 
+86 
+Total 
+20 
+150 
+170 
+ 
+Considerando os dados da tabela, é necessário tratar: 
+ 
+(A) 15 pacientes com sotatercept para evitar a morte em um 
+paciente. 
+(B) 53 pacientes com sotatercept para evitar a morte em um 
+paciente. 
+(C) 84 pacientes com sotatercept para evitar mortes em 15% 
+dos pacientes. 
+(D) 84 pacientes com sotatercept para evitar a morte em 53% 
+dos pacientes. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 32 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{83} 
+Mulher, 52 anos de idade, procura a atenção primária com 
+queixas de fogachos frequentes, sudorese noturna e 
+alterações de sono, com ciclos menstruais regulares e 
+volumosos. Qual deve ser a abordagem mais apropriada para 
+o manejo inicial dessa paciente, conforme as diretrizes do 
+Ministério da Saúde? 
+ 
+(A) Solicitar exames hormonais de rotina para confirmar 
+diagnóstico. 
+(B) Iniciar terapia de reposição hormonal para alívio dos 
+sintomas. 
+(C) Prescrever antidepressivo inibidor da receptação de 
+serotonina. 
+(D) Investigar intensidade dos sintomas e orientar adequação 
+do estilo de vida. 
+##### 
+ 
+{84} 
+Mulher, parda, 22 anos de idade, na segunda gestação. 
+Moradora de município de médio porte, ensino médio 
+incompleto. Desempregada, em união estável. Primeiro 
+atendimento (14 semanas) quando realiza consulta de pré-
+natal com enfermagem. Os exames de rotina são solicitados, 
+incluindo sorologia para sífilis (VDRL). Exame coletado, mas 
+resultado não foi incluído no prontuário por falha na digitação 
+do laboratório no sistema. Segundo atendimento (22 se-
+manas): Anamnese e exame físico sem alterações. Terceiro 
+atendimento (28 semanas): Queixa de corrimento vaginal. 
+Solicitado novo VDRL, que retorna reagente: VDRL 1:64. 
+Confirmado por teste rápido treponêmico (positivo). Iniciada 
+penicilina benzatina (2,4 milhões UI IM, 3 doses com intervalo 
+semanal). Parceiro não comparece para tratamento. Parto (38 
+semanas): vaginal em maternidade regional. Recém-nascido 
+com sinais de prematuridade limítrofe, baixo peso (2.300 g) e 
+exantema palmoplantar. Avaliação neonatal mostra VDRL 
+reagente e anemia. Foi realizado tratamento do recém-nascido 
+com penicilina procaína. Puérpera foi orientada a continuar o 
+tratamento após a alta. Dentre os princípios do SUS e os 
+atributos da APS, em qual não houve o cumprimento 
+adequado e levou a ocorrência da sífilis congênita neste caso? 
+ 
+(A) Acesso. 
+(B) Equidade. 
+(C) Universalidade. 
+(D) Coordenação do cuidado. 
+##### 
+ 
+{85} 
+Mulher, 67 anos de idade, procura atendimento na sua 
+Unidade Básica de Saúde (UBS) para exames de rotina, 
+especialmente preocupada com os exames ginecológicos. 
+Tem vida sexual ativa, não tem comorbidades. Realizou 
+exame citopatológico do colo uterino aos 61 e 64 anos de 
+idade, e mamografia aos 65 anos. Não tem história familiar de 
+câncer, nem teve exames de rastreamento alterados 
+anteriormente. Seguindo as recomendações do Ministério da 
+Saúde para câncer de mama e colo de útero, qual conduta 
+deve ser orientada para a paciente? 
+ 
+(A) Solicitar apenas mamografia. 
+(B) Solicitar apenas citopatológico de colo de útero. 
+(C) Solicitar mamografia e citopatológico de colo de útero. 
+(D) Orientar que não há indicação de exames. 
+##### 
+{86} 
+Considere o registro a seguir, realizado no prontuário de um 
+homem cisgênero, 35 anos de idade, bancário. A UBS de 
+referência está localizada em área urbana.  
+ 
+S1: Dor abdominal em cólica e diarreia malcheirosa há cerca 
+de 20 dias, sem sangue ou muco. Em uso de analgésico e 
+anti-espasmódico com controle dos sintomas. Sem febre, 
+perda de 1 kg nesse período, nega viagens recentes.  
+S2: Renovação de prescrição de PrEP para HIV (profilaxia  
+pré-exposição). Uso diário há 2 anos, esquece de tomar 
+menos de 1 vez por semana; últimos exames há cerca de 
+4 meses sem alterações. Relações sexuais anais 
+receptivas e insertivas, uso irregular de preservativo. 
+O:  Abdome timpânico, sem dor à palpação e sem massas; 
+hidratado, anictérico. 
+ 
+Exames realizados há 4 meses: sorologias para HIV, sífilis e 
+hepatites B e C: negativo; pesquisa clamídia e gonorreia retal 
+e urinária negativas; creatinina 0,8 mg/dL. Para esse paciente, 
+a conduta mais indicada seria pesquisa nas fezes de: 
+ 
+(A) Calprotectina. 
+(B) Sangue oculto. 
+(C) Giardia lamblia. 
+(D) Microsporidium spp. 
+##### 
+ 
+{87} 
+Em abril de 2024, o Rio Grande do Sul experimentou alta 
+precipitação, que resultou em inundações generalizadas. Um 
+estudo avaliou a incidência de leptospirose entre maio e julho 
+de 2024 no estado do Rio Grande do Sul. 
+ 
+Porcentagem de 
+residências atingidas 
+pelas inundações 
+Incidência de leptospirose 
+(por 100.000 habitantes) 
+0 - 0,1 
+0,5 
+0,2 - 0,6 
+1,6 
+0,7 - 1,2 
+3,3 
+1,3 - 11,0 
+7,3 
+11,1 - 27,9 
+21,7 
+ 
+Considerando como referência os locais com porcentagem de 
+residências atingidas pelas inundações entre 0 e 0,1%, o risco 
+de leptospirose na população é: 
+ 
+(A) Nos locais em que a porcentagem de residências afetadas 
+pelas inundações foi de 0,2 a 0,6 é 3,2 vezes menor. 
+(B) Nos locais em que a porcentagem de residências afetadas 
+pelas inundações foi de 0,7 a 1,2 é 6,6 vezes maior. 
+(C) Nos locais em que a porcentagem de residências afetadas 
+pelas inundações foi de 1,3 a 11,0 é 14,6% menor. 
+(D) Nos locais em que a porcentagem de residências afetadas 
+pelas inundações foi de 11,1 a 27,9 é 24% maior. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 33 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{88} 
+Homem e sua companheira iniciaram tratamento para 
+tuberculose pulmonar há 7 dias. A equipe da unidade básica 
+de saúde realiza visita domiciliar a fim de avaliar os 
+contactantes domiciliares do caso. Na casa, além do casal, 
+mora a filha com 26 dias de vida, assintomática, com bom 
+ganho de peso, em aleitamento materno exclusivo, vacinação 
+de acordo com o calendário vacinal do Programa Nacional de 
+Imunização. Assinale a alternativa que apresenta a conduta 
+adequada para a criança. 
+ 
+(A) Realizar prova tuberculínica. 
+(B) Tratar para Infecção Latente de Tuberculose (ILTB). 
+(C) Realizar Ensaio de Liberação de Interferon-gama (IGRA). 
+(D) Solicitar radiografia de tórax. 
+##### 
+ 
+{89} 
+Em março de 2025, o Ministério da Saúde publicou portaria 
+atualizando a Lista Nacional de Doenças e Agravos de 
+Notificação Compulsória, com a inclusão da esporotricose. 
+Trata-se de uma doença fúngica da pele, cujo agente 
+etiológico é o Sporothix schencckii. Ela emergiu no Brasil no 
+final do milênio passado, com uma estrutura epidemiológica 
+diferente: a infecção de felinos domésticos, que a transmitem 
+para os seus tutores. Nas últimas décadas, ela se disseminou 
+por todo o país, chegando também a outros países da América 
+do Sul. O que motivou a necessidade de notificação 
+compulsória da esporotricose humana? 
+ 
+(A) Crescimento dos casos; alto risco de disseminação, 
+acometimento de populações vulneráveis e possibilidade 
+de intervenção. 
+(B) Acometimento de populações de áreas urbanas onde há 
+concentração de gatos domésticos e profissionais da 
+saúde animal. 
+(C) Apesar da gravidade autolimitada e do baixo potencial de 
+disseminação, a magnitude e transcendência são 
+elevadas. 
+(D) A determinação da Organização Mundial de Saúde prévia 
+à pactuação da Comissão Intergestores Tripartite sobre a 
+doença, a semelhança do antraz.  
+##### 
+ 
+{90} 
+Homem, 45 anos de idade, em consulta em uma unidade 
+básica de saúde, refere indisposição de início gradativo, 
+redução do ânimo e da energia há 4 meses. Nesse período 
+tem comido mais, principalmente carboidratos. Tem estado 
+um pouco mais irritado e tem sentido menos prazer no bate-
+papo com os amigos. A investigação clínica não identificou 
+outros sintomas físicos ou mentais. Não apresenta alterações 
+ao exame físico. O paciente acredita que seu caso seja falta 
+de exercício e que, se voltar a correr com seus amigos 4 vezes 
+por semana, como fazia até há um ano, vai melhorar. 
+Comparece à consulta porque seu chefe disse que ele deveria 
+procurar tratamento. Diz não acreditar em psicoterapia e não 
+gosta da ideia de tomar antidepressivos. Além de agendar 
+uma consulta para 4 a 6 semanas, a conduta imediata seria: 
+ 
+(A) Encaminhar para psicoterapia cognitivo-comportamental. 
+(B) Prescrever inibidor seletivo de recaptura de serotonina. 
+(C) Orientar e reforçar a necessidade de atividade física. 
+(D) Indicar fitoterápico Hipericum perforatum. 
+##### 
+{91} 
+Homem, 58 anos de idade, em atendimento em unidade 
+básica de saúde, refere estar “mais ou menos”. Queixa-se de 
+intestino “um pouco preso” e boca seca. Durante a consulta 
+diz estar se sentindo mais tenso, com pouca paciência, 
+preocupando-se demais com pequenos problemas. Refere, 
+ainda, tontura quando se levanta e bebe mais água para a 
+boca seca. Fazia tratamento para pressão alta há 1 ano com 
+captopril irregularmente. Há 2 meses, seu médico anterior 
+disse que ele teria transtorno de ansiedade e prescreveu 
+nortriptilina e, para hipertensão, foi substituído o captopril por 
+enalapril, pois a pressão não baixava. No final da consulta, diz 
+não se dar bem com remédios para a pressão. Reconhece 
+que com frequência não toma os medicamentos para pressão, 
+pois tem preguiça e também, eventualmente, não se lembra. 
+Ao exame físico, apresentou PA de 150×95 mmHg, FC de  
+74 bpm. Além de abordar aspectos relativos a hábitos e à 
+adesão ao tratamento, a conduta indicada seria substituir 
+ 
+(A) nortriptilina por fluoxetina. 
+(B) nortriptilina por diazepam. 
+(C) enalapril por anlodipino. 
+(D) enalapril por losartana. 
+##### 
+ 
+{92} 
+Caraiporã é um município de médio porte com 58 mil 
+habitantes. Aproximadamente 35% da população vive abaixo 
+da linha da pobreza, com precariedade em saneamento 
+básico e acesso limitado a serviços públicos. Nos últimos 
+anos, o município notificou cerca de 12 casos novos anuais de 
+Tuberculose (TB). Em 2024, esse número saltou para 27, com 
+5 óbitos, o que ocasionou uma análise da situação de 
+tuberculose em Caraiporã com a apresentação dos seguintes 
+indicadores: 
+ 
+Incidência de TB: 46,6/100 mil; 
+Incidência de TB pulmonar: 32,8/100 mil; 
+Coeficiente de mortalidade por TB: 8,6/100 mil; 
+Letalidade de 18,5%; 
+Proporção de abandono: 20,0%; 
+Prevalência da forma pulmonar: 17,2/100 mil; 
+Proporção da forma miliar: 1,72%. 
+ 
+Assinale a alternativa que descreve um indicador populacional 
+de avaliação da qualidade da assistência aos casos de 
+tuberculose. 
+ 
+(A) Taxa de incidência da forma pulmonar. 
+(B) Taxa de prevalência da forma pulmonar. 
+(C) Proporção de abandono do tratamento. 
+(D) Proporção de tuberculose miliar. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 34 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{93} 
+ 
+Mulher, 23 anos de idade, com 26,7 kg/m² de IMC, refere estar 
+preocupada com suas “gordurinhas a mais”. Relata que, nos 
+últimos meses, apresenta um a dois episódios por mês em 
+que, em meia hora, come muito doce, principalmente 
+chocolate. Está com medo de engordar mais. Uma amiga está 
+tomando lisdexanfetamina e perdeu 2 kg em um mês. Não 
+apresenta alterações no exame físico. Ao exame psíquico, não 
+apresentou alterações. Refere ser uma pessoa pragmática, 
+mas não se adapta bem a rotinas; já tentou fazer atividade 
+física algumas vezes, sem muito sucesso na continuidade. 
+Nega problemas de saúde e gostaria de poder tomar 
+lisdexanfetamina para controlar seu peso e apetite. Qual a 
+conduta adequada? 
+ 
+(A) Discutir riscos da lisdexantetamina e prescrever fluoxetina. 
+(B) Indicar semaglutida se exames hepáticos e pancreáticos 
+normais. 
+(C) Encaminhar para avaliação psiquiátrica de distúrbios 
+alimentares. 
+(D) Orientar sobre hábitos alimentares sem indicação de 
+exames ou medicamentos. 
+##### 
+ 
+{94} 
+ 
+Os gastos diretos em saúde, também chamados de out of 
+pocket ou gastos catastróficos, referem-se aos valores que 
+famílias e indivíduos desembolsam diretamente por serviços 
+de saúde. Segundo a Pesquisa de Orçamento Familiar (POF), 
+do IBGE, cada vez mais as famílias brasileiras dispensam um 
+percentual maior de sua renda mensal com gastos diretos em 
+saúde ao longo do tempo. A edição da POF de 2019 apontava 
+que a saúde respondia por 8% das despesas totais das 
+famílias. Antes, em 2003, respondia por 5,1%. Sobre os gastos 
+out of pocket com saúde no Brasil, assinale a alternativa 
+correta. 
+ 
+(A) Os gastos de indivíduos e famílias com planos e seguros 
+de saúde privados constituem o maior percentual dos 
+gastos out of pocket. 
+(B) O comprometimento proporcional da renda familiar com 
+assistência à saúde no Brasil cresce na medida em que 
+aumenta a renda familiar. 
+(C) Do gasto total com saúde no Brasil, mais da metade é 
+constituída por gastos privados out of pocket. 
+(D) A maior parcela de gastos out of pocket é com 
+medicamentos, em proporção mais elevada nas classes 
+com renda mais baixa. 
+##### 
+ 
+{95} 
+ 
+As equipes Multiprofissionais na Atenção Primária (eMulti) são 
+compostas por profissionais de saúde de diferentes áreas de 
+conhecimento que atuam de maneira complementar e 
+integrada às demais equipes da Atenção Primária à Saúde 
+(APS). Com relação às eMulti, assinale a alternativa correta. 
+ 
+(A) A teleconsulta ou atendimento remoto de pacientes não 
+estão incorporados no processo de trabalho das eMulti. 
+(B) As eMulti estão vinculadas à APS, mas também a unidades 
+de pronto atendimento e ambulatórios de especialidades. 
+(C) Os médicos especialistas em cardiologia, dermatologia, 
+endocrinologia, infectologia e psiquiatria podem compor 
+as eMulti. 
+(D) O financiamento e custeio das eMulti é responsabilidade 
+exclusiva dos municípios (Prefeituras e Secretarias 
+Municipais de Saúde). ##### 
+{96} 
+Mulher, 32 anos de idade, sem doenças prévias, em consulta 
+4 semanas após nascimento de seu primeiro filho. Marido é 
+“trabalhador, mas não tem muito jeito com o filho”. O parto foi 
+vaginal espontâneo sem complicações. Ela relata que estava 
+bem nos dois dias em que ficou na maternidade. Entretanto, 
+ao voltar para casa, começou a se sentir sobrecarregada, 
+cansada, com dificuldade para dormir e, quando o bebê 
+dorme, ela chora. Sente que não é uma boa mãe, está sem 
+paciência, irritada, e não sente prazer em cuidar do filho. 
+Acredita estar com os hormônios alterados. Amamentar era 
+seu sonho, mas diz ter pouco leite e, diferentemente do seu 
+comportamento habitual, está com aversão à proximidade 
+com o marido, que reclama do distanciamento. Refere estar 
+com secreção vaginal amarelada abundante e preocupada se 
+não estaria com um problema no útero. Qual é a conduta 
+indicada? 
+ 
+(A) Passiflora incarnata e pedir ultrassom pélvico. 
+(B) Miconazol tópico e orientar sobre baby blues. 
+(C) Quetiapina à noite e convocar marido para consulta. 
+(D) Sertralina e orientar sobre depressão. 
+##### 
+ 
+{97} 
+Gestante, 30 anos de idade, 30 semanas de gravidez, com 
+antecedente de prolapso de valva mitral diagnosticado na 
+infância, comparece no pronto atendimento com queixa de 
+taquicardia. Está muito preocupada com o bem-estar de seu 
+bebê. Refere que tem tido cansaço a esforços pequenos, 
+como caminhar no plano, e sente “o coração disparado” com 
+muita frequência. Ao exame físico, apresenta bom estado 
+geral, descorada 1+, PA de 108×70 mmHg, FC de 108 bpm, 
+IMC de 38,2 kg/m2, bulhas rítmicas normofonéticas com sopro 
+sistólico ejetivo aórtico 2+/6+, murmúrios vesiculares sem 
+ruídos adventícios. Abdome gravídico, altura uterina de 32 cm, 
+BCF presente de 146 bpm. Diante da anamnese e exame 
+clínico, a hipótese diagnóstica principal é de 
+ 
+(A) estenose aórtica. 
+(B) anemia sintomática. 
+(C) arritmia supraventricular. 
+(D) transtorno de ansiedade. 
+##### 
+ 
+{98} 
+Mulher, 58 anos de idade, menopausada, refere desconforto 
+pélvico e sensação de “peso” na região vaginal, que se 
+acentua ao final do dia e após longos períodos em pé. 
+Também refere dificuldade para evacuar, com necessidade 
+frequente de realizar manobras digitais para completar a 
+evacuação. Apresenta atividade sexual regular com uso de 
+lubrificantes à base de óleos naturais. Durante o exame 
+ginecológico com manobra de Valsalva, observa-se que a 
+parede vaginal posterior ultrapassa o hímen em 2 cm e o colo 
+uterino exterioriza-se 1 cm além do hímen. Assinale a 
+alternativa que apresenta a melhor conduta terapêutica a ser 
+considerada neste caso. 
+ 
+(A) Pessário vaginal e fisioterapia pélvica. 
+(B) Tratamento com laser de CO2. 
+(C) Histerectomia vaginal e perineocolporrafia. 
+(D) Colpocleise com estrogenioterapia tópica. 
+##### 
+ 
+ 
+
+
+--- PAGE 35 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+Texto para as questões 99 e 100 
+ 
+Primigesta, 39 anos de idade, é admitida com 40 semanas de 
+gravidez para indução de parto. Apresenta antecedente de 
+hipertensão arterial crônica, controlada atualmente com 
+metildopa 1,5 g por dia e diabetes gestacional em uso de 
+insulina NPH 12 unidades antes do café da manhã, 6 unidades 
+na hora do almoço e 6 unidades às 22 horas (12-6-0-6) e 
+insulina regular 4 unidades no café da manhã, 4 unidades no 
+almoço e 2 no jantar (4-4-2-0). Ao exame inicial, apresenta 
+bom estado geral, corada, normotensa e normocárdica, altura 
+uterina de 38 cm, cefálico, BCF presente de 148 bpm, colo 
+médio, medianizado, com 4 cm.  
+ 
+{99} 
+Considerando que será ofertada dieta pré-parto, no dia da 
+indução, qual deve ser a prescrição de insulina? 
+ 
+(A) NPH 4-0-0-0 e regular conforme glicemia. 
+(B) NPH 6-3-0-3 e regular 4-2-2-0. 
+(C) NPH 12-6-0-6 e SG 5% manutenção. 
+(D) Regular conforme glicemia capilar. 
+##### 
+ 
+{100} 
+Após 6 horas de trabalho de parto, a paciente apresentava 
+dilatação total e apresentação cefálica no plano 0 de De Lee, 
+occipito transversa direita e avaliação abdominal conforme a 
+imagem a seguir: 
+ 
+ 
+ 
+Qual é o diagnóstico e a conduta? 
+ 
+(A) Distocia funcional – ocitocina. 
+(B) Retenção urinária – sondagem de alívio. 
+(C) Iminência de rotura – parto cesárea. 
+(D) Hipertonia uterina – terbutalina. 
+##### 
+ 
+{101} 
+Mulher, 39 anos de idade, 26 semanas de gestação, refere 
+que notou aumento assimétrico das mamas ao longo do último 
+mês. Ao exame, nota-se nodulação de aproximadamente  
+2,5 cm em junção de quadrantes inferiores de mama 
+esquerda, profundo, pouco móvel, sem calor local. Neste 
+caso, recomenda-se: 
+ 
+(A) Punção aspirativa guiada por ultrassonografia. 
+(B) Prosseguir investigação com mamografia. 
+(C) Iniciar tratamento com clindamicina. 
+(D) Reavaliar clinicamente em 2 semanas. 
+##### 
+ 
+{102} 
+Mulher, 28 anos de idade, 2G1A, com 10 semanas de 
+gestação, 
+procura 
+pronto 
+atendimento 
+por 
+vômitos 
+persistentes há 10 dias, com dificuldade para manter líquidos 
+e alimentos. Refere dor abdominal discreta e perda de 5 kg no 
+período. Nega febre e perdas vaginais. Traz cartão de pré-
+natal com rotina de exames sem alterações. Relata ter iniciado 
+dimenidrinato oral há cerca de 5 dias, prescrito em outro 
+serviço, mas sem melhora significativa dos sintomas. Ao 
+exame físico, apresenta-se em BEG, PA de 100×60 mmHg, FC  
+de 104 bpm, mucosa oral levemente seca. Abdome flácido, 
+levemente doloroso em epigástrio, sem visceromegalias.  
+ 
+• Exames laboratoriais:  
+TGO/AST: 58 U/L 
+TGP/ALT: 65 U/L 
+Bilirrubina total: 0,9 mg/dL 
+β-hCG: 215.000 mUI/mL 
+Urina tipo 1: cetonúria ++/4+ 
+TSH: 0,05 mUI/L 
+T4 livre: 1,1 ng/dL 
+ 
+Assinale a alternativa que apresenta a interpretação e conduta 
+mais adequadas para o caso descrito. 
+ 
+(A) Cetoacidose diabética; solicitar glicemia, gasometria e 
+eletrólitos e iniciar hidratação endovenosa. 
+(B) Hiperêmese gravídica com hipertiroidismo transitório; 
+hidratação venosa e otimização dos antieméticos. 
+(C) Hepatite medicamentosa por uso de dimenidrinato; 
+suspender a medicação e iniciar corticoide sistêmico. 
+(D) Hipertireoidismo autoimune associado à hepatopatia; 
+iniciar propiltiouracil e monitorar função hepática. 
+##### 
+ 
+{103} 
+Mulher, 25 anos de idade, busca atendimento por atraso 
+menstrual e teste de gravidez positivo. Sem doenças, refere 
+ciclos menstruais prévios regulares, com variação entre 27 e 
+31 dias de intervalo. A data da última menstruação foi  
+em 10/08/2025. Refere que foi vítima de violência sexual  
+em 23/08/2025, mas não verbalizou por receio de ser punida 
+pelo agressor conhecido. A relação não consensual ocorreu 
+com penetração vaginal, sem uso de preservativo. Após o 
+ocorrido, apresentou corrimento amarelado, que tratou por 
+conta própria com clotrimazol em dose única. Manifesta 
+desejo de interromper a gravidez. Assinale a alternativa 
+correta. 
+ 
+(A) Como a idade gestacional e o evento são compatíveis, a 
+interrupção de gravidez pode ser realizada diante de relato 
+circunstanciado. 
+(B) Diante da idade gestacional avançada, indicar suporte 
+multiprofissional integral e iniciar pré-natal de alto risco. 
+(C) Orientar para que realize boletim de ocorrência para 
+prosseguir com a interrupção de gravidez. 
+(D) Não há correlação direta entre a gravidez e o evento e, por 
+isso, deve-se garantir assistência pré-natal. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 36 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{104} 
+Secundigesta com uma cesárea prévia, sem doenças, comparece ao pré-natal com 34 semanas e 3 dias de gravidez, queixa-se 
+de edema importante na última semana. Boa movimentação, sem perdas vaginais. Ao exame físico, apresenta bom estado geral, 
+corada, PA de 148×90 mmHg, abdome gravídico, altura uterina de 29 cm, útero normotônico, BCF presente rítmico de 128 bpm. 
+Edema mãos e face 2+/4+, edema membros inferiores 3+/4+, simétrico e sem sinais de TVP. Avaliação fetal realizada com os 
+seguintes achados: 
+ 
+ 
+ 
+ 
+ 
+A conduta obstétrica é: 
+ 
+(A) Parto cesárea. 
+(B) Indução de parto. 
+(C) Iniciar metildopa e reavaliar. 
+(D) Sulfato de magnésio endovenoso. 
+#####
+ 
+{105} 
+Quintigesta com quatro partos vaginais anteriores, internada 
+com 38 semanas de gravidez e trabalho de parto espontâneo, 
+com recém-nascido nativivo, 4.020 g, Apgar 7-9-10 após  
+3 horas de trabalho de parto. Após a dequitação, apresenta 
+atonia uterina com sangramento vaginal e, em 4 minutos, o 
+monitor revela PA de 76×54 mmHg e FC de 120 bpm. São 
+tomadas medidas adequadas, como acesso venoso, 
+reposição de cristaloide, coleta de exames, aquecimento e 
+oxigenioterapia. Em paralelo, medidas para corrigir a atonia. 
+Do ponto de vista hemodinâmico, deve-se 
+ 
+(A) manter reanimação volêmica com Ringer lactato. 
+(B) avaliar necessidade de transfusão com Hb/Ht. 
+(C) iniciar protocolo de transfusão maciça. 
+(D) iniciar noradrenalina em bomba de infusão. 
+##### 
+ 
+ 
+{106} 
+Mulher, 26 anos de idade, procura atendimento na Unidade 
+Básica de Saúde (UBS) por disúria e urgência miccional há 3 
+dias. Nega febre, nega corrimento vaginal, usa DIU de cobre 
+há  
+2 anos. Não faz uso de medicação de uso contínuo e teve 
+sintomas semelhantes há cerca de 1 ano e meio. Exame físico 
+sem alterações. Assinale a alternativa que apresenta a 
+conduta recomendada para o caso. 
+ 
+(A) Ciprofloxacino, após coleta de urina 1 e urocultura. 
+(B) Ceftriaxona, sem necessidade de coleta de exame. 
+(C) Sulfametoxazol/trimetoprima, após coleta de urina 1 e 
+urocultura. 
+(D) Nitrofurantoína, sem necessidade de coleta de exame. 
+##### 
+ 
+ 
+
+
+--- PAGE 37 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{107} 
+Adolescente, sexo feminino, 15 anos de idade, sem 
+desenvolvimento mamário ou menarca. Altura está no  
+z-score -2. Avaliação hormonal revela LH de 0,2 mUI/mL, FSH 
+de 1,1 mUI/mL e estradiol indetectável. Qual a hipótese mais 
+provável?  
+ 
+(A) Hiperprolactinemia. 
+(B) Disgenesia gonadal. 
+(C) Hiperplasia adrenal congênita. 
+(D) Síndrome de insensibilidade androgênica. 
+ 
+Note e adote: 
+ 
+Valor de referência para pré-puberes: 
+LH: < 0,3 mUI/mL 
+FSH: < 4,0 mUI/mL 
+##### 
+ 
+{108} 
+Menina, 6 anos de idade, apresenta telarca bilateral 
+progressiva e aceleração da velocidade de crescimento. O 
+exame físico mostra desenvolvimento mamário estágio M2 e a 
+estatura no z-score +3 para a idade. Exame neurológico é 
+normal. Assinale a alternativa que apresenta a conduta 
+adequada. 
+ 
+(A) Análise do cariótipo. 
+(B) Dosagem de hormônio do crescimento. 
+(C) Ressonância magnética de SNC. 
+(D) Ultrassom pélvico. 
+##### 
+ 
+{109} 
+Adolescente, 17 anos de idade, chega ao hospital 
+acompanhada da mãe, relatando violência sexual ocorrida há 
+aproximadamente 80 horas. O teste rápido para HIV foi 
+negativo. Qual das condutas é mais apropriada em relação à 
+Profilaxia Pós-exposição (PEP) ao HIV? 
+ 
+(A) Iniciar PEP com esquema de 28 dias. 
+(B) Não iniciar PEP, pois o prazo máximo é 72 horas. 
+(C) Não há indicação, pois o teste rápido para HIV é negativo. 
+(D) Aguardar a avaliação da soroconversão em sete dias. 
+##### 
+ 
+{110} 
+Mulher, 24 anos de idade, com queixa de corrimento vaginal 
+amarelado e aumento da secreção nas últimas 48 horas, sem 
+prurido vaginal. Refere dor leve no hipogástrio, sem febre. Ao 
+exame especular, observa-se conteúdo mucopurulento na 
+endocérvice e discreto sangramento. Ao toque, o colo é 
+friável. O teste rápido de Amplificação de Ácido Nucleico 
+(NAAT) é positivo para Neisseria gonorrhoeae e Chlamydia 
+trachomatis. Assinale a alternativa que apresenta o tratamento 
+mais adequado e eficaz atualmente. 
+ 
+(A) Doxiciclina 100 mg VO por 7 dias em monoterapia. 
+(B) Ceftriaxona 500 mg IM em dose única e doxiciclina 100 mg 
+VO por 7 dias. 
+(C) Ceftriaxona 500 mg IM em dose única e azitromicina 1 g 
+VO em dose única. 
+(D) Azitromicina 1 g VO em duas doses com 7 dias de 
+intervalo. ##### 
+{111} 
+Mulher, 26 anos de idade, secundigesta com um parto vaginal 
+anterior com recém-nascido de 1.800 g, retorna em consulta 
+pré-natal com 20 semanas de gravidez. Está bem, sem 
+queixas. Traz ultrassonografia morfológica realizada hoje, com 
+feto único, sem malformações diagnosticadas, placenta 
+fúndica. Avaliação do colo via transvaginal apresentada nas 
+imagens a seguir: 
+ 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a conduta a ser adotada. 
+ 
+(A) Medida do colo seriada. 
+(B) Repouso absoluto. 
+(C) Inserção de pessário. 
+(D) Cerclagem de emergência. 
+##### 
+ 
+{112} 
+Primigesta, 22 anos de idade, 34 semanas e 3 dias de 
+gravidez, comparece ao pronto atendimento com queixa de 
+dor em baixo ventre há 2 dias, que se intensificou na última 
+hora. Nega perdas vaginais. Nega sintomas urinários. Tem 
+registro em cartão de pré-natal de sorologias de 3º trimestre 
+negativas, não coletou pesquisa de Estreptococo B. Ao 
+exame, apresenta bom estado geral, corada, PA de  
+122×84 mmHg, FC de 92 bpm, abdome gravídico, altura 
+uterina de 28 cm, cefálico, dorso à esquerda, dinâmica uterina 
+2 contrações moderadas em 10 minutos, BCF presente de  
+156 bpm. Ao toque vaginal, colo médio, medianizado, 3 cm de 
+dilatação, bolsa íntegra. A conduta imediata recomendada no 
+pronto atendimento é: 
+ 
+(A) Escopolamina endovenosa e reavaliação em duas horas. 
+(B) Betametasona intramuscular e inibição do trabalho de 
+parto. 
+(C) Ampicilina endovenosa e condução do trabalho de parto. 
+(D) Sulfato de magnésio endovenoso e cesárea imediata. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 38 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{113} 
+Mulher, 52 anos de idade, em consulta de rotina refere ciclos 
+menstruais com intervalos de 45 dias há 5 meses. Também 
+notou perda progressiva de interesse sexual e prejuízo no 
+relacionamento conjugal. Nesses meses, relata dificuldade 
+com a memória. Tem estado cansada e já não está mais indo 
+aos almoços com as amigas. Está se alimentando bem, até 
+com mais apetite do que o costume e ganhou peso no último 
+mês. Nega antecedente de trombose venosa ou doença 
+cardiovascular. Exame pélvico mostra mucosa vaginal sem 
+atrofia significativa; restante do exame físico é normal. Ela se 
+considera uma mulher forte, nega tristeza e expressa vontade 
+de tomar um medicamento que pudesse melhorar o sono e 
+reduzir o apetite. Considerando o quadro descrito, assinale a 
+alternativa que apresenta o tratamento medicamentoso mais 
+indicado. 
+ 
+(A) Testosterona. 
+(B) Estrogênio + progesterona. 
+(C) Topiramato. 
+(D) Sertralina. 
+##### 
+ 
+{114} 
+Mulher, 36 anos de idade, HIV-positiva, com carga viral 
+indetectável e CD4 = 830 células/mm³. Não teve alterações 
+em duas citologias cervicovaginais oncológicas anteriores. 
+Assinale a alternativa que apresenta a melhor estratégia de 
+rastreio para câncer do colo do útero, para esta paciente. 
+ 
+(A) Citologia oncótico anual. 
+(B) Citologia e teste de HPV a cada 3 anos. 
+(C) Colposcopia e citologia oncótica anual. 
+(D) Teste de HPV a cada 5 anos. 
+##### 
+ 
+{115} 
+Mulher, 25 anos de idade, nuligesta, procura aconselhamento 
+sobre métodos de planejamento familiar. Ela deseja evitar 
+métodos hormonais por motivos pessoais e busca uma opção 
+natural. Qual a orientação que deve ser fornecida sobre o 
+reconhecimento do período fértil segundo o método de 
+Billings? 
+ 
+(A) Muco transparente, viscoso e escorregadio. 
+(B) Muco espesso, opaco e não aderente ao dedo. 
+(C) Muco opaco com filância de até dois centímetros. 
+(D) Muco esbranquiçado, grumoso e aderente ao dedo. 
+##### 
+ 
+{116} 
+Mulher, 30 anos de idade, faz acompanhamento por lúpus 
+eritematoso sistêmico com síndrome do anticorpo anti-
+fosfolípide. Teve atividade articular, cutânea e renal, além de 
+duas tromboses venosas profundas. Faz uso atual de 
+varfarina, prednisona, hidroxicloroquina e azatioprina. Está em 
+remissão e deseja iniciar contracepção. Assinale a alternativa 
+que apresenta a opção mais segura. 
+ 
+(A) Dispositivo intrauterino de cobre. 
+(B) Dispositivo intrauterino com levonorgestrel. 
+(C) Pílula com etinilestradiol e levonorgestrel. 
+(D) Contraceptivo transdérmico combinado. 
+##### 
+{117} 
+Mulher, 64 anos de idade, multípara, obesa, apresenta 
+sintomas de perda urinária imediata quando há vontade para 
+urinar e também ao elevar seu neto de dois anos de idade. O 
+estudo urodinâmico é compatível com as queixas. Assinale a 
+alternativa que apresenta a conduta imediata mais apropriada. 
+ 
+(A) Realizar uretrotomia interna. 
+(B) Realizar cirurgia de colpouretropexia. 
+(C) Prescrever estrogênio tópico. 
+(D) Prescrever anticolinérgicos. 
+##### 
+ 
+{118} 
+Mulher, 29 anos de idade, com cólica menstrual e 
+menstruação excessiva, apresenta diagnóstico confirmado de 
+endometriose peritoneal por laparoscopia, ocasião em que as 
+lesões peritoniais visíveis foram excisadas. Assinale a 
+alternativa que apresenta a melhor conduta terapêutica neste 
+momento. 
+ 
+(A) Anti-inflamatório não hormonal. 
+(B) Contraceptivo hormonal oral combinado. 
+(C) Dispositivo intrauterino de progestagênio. 
+(D) Análogo do GnRH. 
+##### 
+ 
+{119} 
+Mulher, 42 anos de idade, apresenta menstruações com fluxo 
+intenso e duração de 10 dias há mais de 6 meses. Ao exame 
+ginecológico, 
+apresenta 
+útero 
+aumentado, 
+móvel, 
+de 
+superfície regular. Ultrassonografia revela miomas subserosos 
+e intramurais, o maior com 5 cm. Foi indicada a inserção de 
+DIU de progesterona. Qual é o objetivo deste tratamento? 
+ 
+(A) Reduzir o fluxo sanguíneo ao útero. 
+(B) Bloquear o ciclo ovulatório. 
+(C) Promover a involução dos leiomiomas. 
+(D) Promover atrofia endometrial. 
+##### 
+ 
+{120} 
+Tercigesta secundípara, com estenose mitral reumática, 
+comparece na maternidade com gestação de 37 semanas e  
+6 dias em trabalho de parto espontâneo. Refere perda de 
+líquido amniótico típica há 8 horas. Pesquisa de Estreptococo 
+grupo B não realizada. Considerando parto vaginal não 
+complicado, qual é a profilaxia antibiótica indicada? 
+ 
+(A) Ampicilina. 
+(B) Cefazolina. 
+(C) Ampicilina e clindamicina. 
+(D) Não há indicação. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 39 ---
+
+ 
+ 
+ 
+
+
+--- PAGE 40 ---
+

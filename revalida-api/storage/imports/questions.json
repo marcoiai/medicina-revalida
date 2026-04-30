@@ -1,0 +1,542 @@
+[
+  {
+    "area": "Clínica Médica",
+    "tema": "Insuficiência Cardíaca Crônica",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 68 anos, com histórico de hipertensão arterial e diabetes mellitus tipo 2, comparece à consulta com queixa de dispneia progressiva aos esforços e edema de membros inferiores há 3 meses. Relata que, nos últimos 30 dias, a dispneia piorou, ocorrendo mesmo em repouso, e o edema se estendeu até a região sacral. Ao exame físico, apresenta turgência jugular a 45º, estertores crepitantes em bases pulmonares e ritmo de galope (B3). Sua fração de ejeção ventricular esquerda (FEVE) em ecocardiograma recente é de 35%. Considerando o quadro clínico e os achados, qual a classificação funcional da insuficiência cardíaca deste paciente, de acordo com a New York Heart Association (NYHA)?",
+    "alternativas": {
+      "A": "Classe I",
+      "B": "Classe II",
+      "C": "Classe III",
+      "D": "Classe IV",
+      "E": "Classe V"
+    },
+    "gabarito": "D",
+    "comentario": "O paciente apresenta dispneia em repouso e sintomas de insuficiência cardíaca que o impedem de realizar qualquer atividade física sem desconforto, caracterizando a Classe IV da NYHA. A Classe I é para pacientes assintomáticos, a Classe II para sintomas com atividade física ordinária, e a Classe III para sintomas com atividade física menor que a ordinária. A Classe V não existe na classificação da NYHA.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Desenvolvimento Neuropsicomotor",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma mãe leva seu filho de 6 meses para a consulta de puericultura. Ela relata que o bebê já consegue rolar, leva objetos à boca e emite sons como 'dá-dá' e 'bá-bá'. Qual o próximo marco do desenvolvimento motor grosseiro esperado para este bebê, considerando um desenvolvimento típico?",
+    "alternativas": {
+      "A": "Andar sem apoio",
+      "B": "Ficar em pé com apoio",
+      "C": "Sentar sem apoio",
+      "D": "Engatinhar",
+      "E": "Correr"
+    },
+    "gabarito": "C",
+    "comentario": "Aos 6 meses, um bebê tipicamente já consegue rolar e levar objetos à boca. O próximo marco motor grosseiro esperado é o sentar sem apoio, que geralmente ocorre entre 6 e 8 meses. Engatinhar e ficar em pé com apoio são marcos posteriores (8-10 meses), enquanto andar e correr são ainda mais tardios (12-18 meses).",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Ginecologia e Obstetrícia",
+    "tema": "Pré-natal e Rastreamento de Diabetes Gestacional",
+    "dificuldade": "Média",
+    "enunciado": "Uma gestante de 28 anos, G1P0, com índice de massa corporal (IMC) de 32 kg/m² e histórico familiar de diabetes mellitus tipo 2 (mãe e avó), comparece à sua primeira consulta de pré-natal na 10ª semana de gestação. Qual a conduta inicial mais adequada para o rastreamento de diabetes gestacional neste caso?",
+    "alternativas": {
+      "A": "Realizar teste oral de tolerância à glicose (TOTG) com 75g de glicose na 24ª-28ª semana.",
+      "B": "Solicitar glicemia de jejum imediatamente e, se normal, repetir TOTG na 24ª-28ª semana.",
+      "C": "Considerar o diagnóstico de diabetes gestacional e iniciar dieta e atividade física.",
+      "D": "Realizar TOTG com 100g de glicose na 24ª-28ª semana, independentemente da glicemia de jejum inicial.",
+      "E": "Aguardar o segundo trimestre para qualquer rastreamento, pois o risco é baixo."
+    },
+    "gabarito": "B",
+    "comentario": "Devido aos múltiplos fatores de risco (IMC elevado, histórico familiar), esta gestante deve ser rastreada para diabetes pré-existente ou gestacional precoce. A conduta inicial é solicitar uma glicemia de jejum. Se o resultado for normal, o rastreamento padrão com TOTG 75g de glicose deve ser realizado entre a 24ª e 28ª semana de gestação. Não se deve aguardar o segundo trimestre sem rastreamento inicial, nem iniciar tratamento sem confirmação diagnóstica.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Abdome Agudo Obstrutivo",
+    "dificuldade": "Difícil",
+    "enunciado": "Um paciente de 72 anos, com histórico de herniorrafia inguinal há 10 anos, procura o pronto-socorro com dor abdominal difusa em cólica, náuseas, vômitos biliosos e parada de eliminação de flatos e fezes há 48 horas. Ao exame físico, apresenta abdome distendido, timpanismo difuso e ruídos hidroaéreos aumentados e de timbre metálico. Não há sinais de irritação peritoneal. A radiografia simples de abdome revela alças de delgado dilatadas com níveis hidroaéreos e ausência de gás no cólon. Qual a conduta inicial mais apropriada para este paciente, após estabilização hemodinâmica?",
+    "alternativas": {
+      "A": "Administrar laxantes e aguardar a eliminação de fezes e flatos.",
+      "B": "Realizar colonoscopia para descompressão.",
+      "C": "Solicitar tomografia computadorizada de abdome com contraste oral e venoso.",
+      "D": "Indicar laparotomia exploradora de urgência.",
+      "E": "Iniciar antibioticoterapia empírica e observação clínica."
+    },
+    "gabarito": "C",
+    "comentario": "O quadro clínico e radiológico é altamente sugestivo de abdome agudo obstrutivo do intestino delgado. A causa mais comum em pacientes com cirurgia abdominal prévia é a brida. Antes de indicar uma laparotomia exploradora, que é uma cirurgia de grande porte, é fundamental localizar o ponto de obstrução e identificar sua causa. A tomografia computadorizada de abdome com contraste é o exame de escolha para essa avaliação, permitindo planejar a abordagem cirúrgica ou, em alguns casos, identificar uma causa não cirúrgica. Laxantes são contraindicados. Colonoscopia não é útil para obstrução de delgado. Antibioticoterapia não é a conduta inicial para obstrução mecânica sem sinais de infecção ou isquemia.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Medicina Preventiva e Social / SUS",
+    "tema": "Vigilância Epidemiológica",
+    "dificuldade": "Média",
+    "enunciado": "Em uma cidade, observa-se um aumento súbito e significativo no número de casos de diarreia em crianças menores de 5 anos, com relato de ingestão de água de poços artesianos comunitários. A equipe de saúde local deve iniciar uma investigação epidemiológica. Qual a primeira etapa essencial a ser realizada nesta investigação?",
+    "alternativas": {
+      "A": "Implementar medidas de controle, como distribuição de hipoclorito de sódio.",
+      "B": "Confirmar o diagnóstico dos casos e definir critérios de caso.",
+      "C": "Realizar inquérito sorológico na população afetada.",
+      "D": "Notificar imediatamente o Ministério da Saúde.",
+      "E": "Elaborar um relatório final com as conclusões da investigação."
+    },
+    "gabarito": "B",
+    "comentario": "A primeira etapa de qualquer investigação de surto é a confirmação do diagnóstico e a definição de critérios de caso. Sem essa etapa, não é possível saber o que se está investigando ou quem está realmente afetado. As outras alternativas representam etapas posteriores da investigação ou medidas de controle que devem ser tomadas após a caracterização do problema.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Choque Séptico",
+    "dificuldade": "Difícil",
+    "enunciado": "Um paciente de 55 anos, com histórico de colecistectomia há 3 dias, apresenta hipotensão (PA 80/50 mmHg), taquicardia (FC 120 bpm), taquipneia (FR 28 irpm) e oligúria. A temperatura axilar é de 39,5ºC. Exames laboratoriais mostram lactato sérico de 4 mmol/L e leucocitose. Após infusão de 30 mL/kg de cristaloides, a pressão arterial permanece inalterada. Qual a próxima etapa na abordagem terapêutica deste paciente?",
+    "alternativas": {
+      "A": "Administrar mais um bolus de cristaloides.",
+      "B": "Iniciar vasopressores (noradrenalina) para manter PAM > 65 mmHg.",
+      "C": "Realizar hemoculturas e iniciar antibioticoterapia de amplo espectro.",
+      "D": "Administrar corticosteroides intravenosos.",
+      "E": "Monitorizar apenas, pois a hipotensão é comum no pós-operatório."
+    },
+    "gabarito": "B",
+    "comentario": "O paciente apresenta sinais de choque séptico refratário a fluidos (hipotensão persistente após bolus de 30 mL/kg de cristaloide). A próxima etapa, conforme as diretrizes, é a introdução de vasopressores, sendo a noradrenalina a primeira escolha, para manter uma pressão arterial média (PAM) acima de 65 mmHg. Embora hemoculturas e antibioticoterapia sejam cruciais, elas devem ser iniciadas o mais rápido possível, mas a prioridade imediata para estabilização hemodinâmica após falha da reposição volêmica é o vasopressor. Mais fluidos sem resposta podem levar a sobrecarga. Corticosteroides são reservados para casos específicos de choque refratário a vasopressores. A hipotensão neste contexto não é 'comum' e requer intervenção imediata.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Imunização",
+    "dificuldade": "Média",
+    "enunciado": "Uma criança de 4 meses de idade, sem comorbidades, é trazida para a vacinação de rotina. Ela recebeu todas as vacinas preconizadas para 2 meses de idade. Quais vacinas devem ser administradas nesta consulta, de acordo com o calendário básico de vacinação do Programa Nacional de Imunizações (PNI) no Brasil?",
+    "alternativas": {
+      "A": "Tríplice viral (SCR) e Varicela.",
+      "B": "Pneumocócica 10-valente, Rotavírus e Meningocócica C.",
+      "C": "DTP, VIP, Hib e Hepatite B.",
+      "D": "Febre Amarela e HPV.",
+      "E": "Poliomielite oral (VOP) e BCG."
+    },
+    "gabarito": "B",
+    "comentario": "Aos 4 meses, as vacinas preconizadas pelo PNI são a segunda dose da Pneumocócica 10-valente, Rotavírus e Meningocócica C. As vacinas DTP, VIP, Hib e Hepatite B (2ª dose) são administradas aos 2 meses. Tríplice viral e Varicela são aplicadas a partir de 12 meses. Febre Amarela e HPV são para idades mais avançadas. VOP é a dose de reforço e BCG é ao nascer.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Ginecologia e Obstetrícia",
+    "tema": "Doença Inflamatória Pélvica (DIP)",
+    "dificuldade": "Média",
+    "enunciado": "Uma paciente de 23 anos procura o pronto-socorro com dor pélvica intensa, febre (38,5°C), corrimento vaginal purulento e dor à mobilização do colo uterino ao exame especular. Ela relata uso irregular de preservativo e múltiplos parceiros sexuais. A hipótese diagnóstica é Doença Inflamatória Pélvica (DIP). Qual o tratamento ambulatorial mais adequado para esta paciente, considerando que não há sinais de gravidade ou abscesso?",
+    "alternativas": {
+      "A": "Metronidazol oral por 7 dias.",
+      "B": "Azitromicina em dose única.",
+      "C": "Ceftriaxona intramuscular em dose única + Doxiciclina oral por 14 dias + Metronidazol oral por 14 dias.",
+      "D": "Ciprofloxacino oral por 7 dias.",
+      "E": "Hospitalização para antibioticoterapia intravenosa."
+    },
+    "gabarito": "C",
+    "comentario": "O tratamento ambulatorial da DIP deve cobrir os principais agentes etiológicos, como Chlamydia trachomatis, Neisseria gonorrhoeae e bactérias anaeróbias. A combinação recomendada inclui Ceftriaxona (para gonococo), Doxiciclina (para clamídia e outros) e Metronidazol (para anaeróbios). A duração do tratamento é de 14 dias para doxiciclina e metronidazol. As outras opções são incompletas ou inadequadas para o tratamento da DIP. A hospitalização seria indicada em casos de gravidade, falha do tratamento ambulatorial, abscesso ou gravidez.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Queimaduras",
+    "dificuldade": "Fácil",
+    "enunciado": "Um paciente de 45 anos sofreu uma queimadura por chama direta. Ao exame, apresenta lesões com bolhas íntegras, base eritematosa e dolorosa, com sensibilidade preservada ao toque. Qual o grau de profundidade da queimadura descrita?",
+    "alternativas": {
+      "A": "1º Grau",
+      "B": "2º Grau Superficial",
+      "C": "2º Grau Profundo",
+      "D": "3º Grau",
+      "E": "4º Grau"
+    },
+    "gabarito": "B",
+    "comentario": "As características de bolhas íntegras, base eritematosa e dolorosa com sensibilidade preservada são clássicas de uma queimadura de 2º grau superficial. Queimaduras de 1º grau apresentam apenas eritema, sem bolhas. As de 2º grau profundo têm bolhas rompidas, base esbranquiçada/avermelhada e menor dor. As de 3º grau são indolores, esbranquiçadas ou carbonizadas, com perda de sensibilidade. O 4º grau envolve estruturas mais profundas como músculos e ossos.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Medicina Preventiva e Social / SUS",
+    "tema": "Princípios do SUS",
+    "dificuldade": "Difícil",
+    "enunciado": "Um município decide implementar um novo programa de saúde focado exclusivamente na prevenção de doenças cardiovasculares em adultos jovens, direcionando todos os recursos de atenção primária para essa finalidade, em detrimento de outros grupos e necessidades. Qual princípio doutrinário do SUS é diretamente violado por essa decisão?",
+    "alternativas": {
+      "A": "Descentralização",
+      "B": "Regionalização",
+      "C": "Hierarquização",
+      "D": "Integralidade",
+      "E": "Participação da comunidade"
+    },
+    "gabarito": "D",
+    "comentario": "A Integralidade é o princípio que preconiza que o indivíduo deve ser visto como um todo, com atenção às suas necessidades de saúde em todos os níveis de complexidade (promoção, prevenção, tratamento e reabilitação), e que as ações de saúde devem ser dirigidas a todos os grupos populacionais. Focar recursos em um único grupo e em uma única condição, em detrimento de outros, viola a integralidade do cuidado. Descentralização, Regionalização e Hierarquização são princípios organizacionais. A participação da comunidade é um princípio de gestão, mas não é o mais diretamente violado pela escolha do foco exclusivo do programa.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia - Insuficiência Cardíaca",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 68 anos, com histórico de hipertensão arterial sistêmica e diabetes mellitus tipo 2, comparece ao pronto-socorro com dispneia progressiva nos últimos três meses, ortopneia, dispneia paroxística noturna e edema de membros inferiores bilateral. Ao exame físico, apresenta estertores crepitantes em bases pulmonares, turgência jugular a 45 graus e B3 audível. A radiografia de tórax revela cardiomegalia e sinais de congestão pulmonar. O ecocardiograma mostra fração de ejeção do ventrículo esquerdo (FEVE) de 30%. Qual das seguintes classes de medicamentos é prioritária para iniciar o tratamento, visando melhorar a sobrevida e reduzir hospitalizações neste paciente?",
+    "alternativas": {
+      "A": "Bloqueadores dos canais de cálcio (não di-hidropiridínicos)",
+      "B": "Diuréticos de alça",
+      "C": "Inibidores da enzima conversora de angiotensina (IECA) ou bloqueadores do receptor de angiotensina (BRA)",
+      "D": "Antiarrítmicos classe I",
+      "E": "Nitratos de ação prolongada"
+    },
+    "gabarito": "C",
+    "comentario": "O paciente apresenta um quadro clássico de insuficiência cardíaca com fração de ejeção reduzida (ICFEr). Os inibidores da enzima conversora de angiotensina (IECA) ou bloqueadores do receptor de angiotensina (BRA) são a base do tratamento e são prioritários para iniciar, pois comprovadamente melhoram a sobrevida e reduzem hospitalizações. Diuréticos de alça (B) são importantes para o controle sintomático da congestão, mas não alteram a mortalidade como os IECA/BRA. Bloqueadores dos canais de cálcio (A) são contraindicados em ICFEr. Antiarrítmicos classe I (D) não são a primeira linha para ICFEr e nitratos de ação prolongada (E) são usados em casos específicos de angina ou congestão refratária, mas não são a terapia inicial modificadora de doença.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Infectologia - Doenças Exantemáticas",
+    "dificuldade": "Média",
+    "enunciado": "Uma criança de 4 anos é levada ao consultório com febre alta há 3 dias, que cedeu espontaneamente. Após a defervescência, a mãe notou o surgimento de um exantema maculopapular róseo, não pruriginoso, que iniciou no tronco e se espalhou para a face e extremidades. A criança está com bom estado geral. Qual é o diagnóstico mais provável?",
+    "alternativas": {
+      "A": "Sarampo",
+      "B": "Rubéola",
+      "C": "Eritema infeccioso (quinta doença)",
+      "D": "Exantema súbito (roséola infantil)",
+      "E": "Varicela"
+    },
+    "gabarito": "D",
+    "comentario": "O quadro clínico de febre alta por 3 dias seguida de defervescência e aparecimento de exantema maculopapular róseo, não pruriginoso, que inicia no tronco e se espalha, com bom estado geral da criança, é clássico do exantema súbito (roséola infantil), causado pelo HHV-6. Sarampo (A) e rubéola (B) apresentam exantema que aparece durante a fase febril. O eritema infeccioso (C) tipicamente apresenta o 'sinal da bochecha esbofeteada' e o exantema em renda. Varicela (E) cursa com lesões vesiculares e pruriginosas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "GO",
+    "tema": "Obstetrícia - Pré-eclâmpsia",
+    "dificuldade": "Difícil",
+    "enunciado": "Uma gestante primigesta de 34 semanas, com histórico de hipertensão crônica, comparece à emergência com cefaleia intensa, epigastralgia e escotomas visuais. Sua pressão arterial é de 160/110 mmHg. Exames laboratoriais mostram proteinúria de 24 horas de 350 mg, plaquetas de 90.000/mm³, TGO 120 U/L e TGP 150 U/L. O feto apresenta vitalidade preservada. Qual a conduta mais adequada neste momento?",
+    "alternativas": {
+      "A": "Internação, sulfato de magnésio para neuroproteção, anti-hipertensivo e acompanhamento ambulatorial rigoroso.",
+      "B": "Internação, sulfato de magnésio para neuroproteção, anti-hipertensivo e indução do parto imediata.",
+      "C": "Internação, sulfato de magnésio para neuroproteção, anti-hipertensivo e corticoide para maturação pulmonar fetal, com programação de parto em 48 horas.",
+      "D": "Internação, anti-hipertensivo, corticoide para maturação pulmonar fetal e acompanhamento da proteinúria.",
+      "E": "Internação, sulfato de magnésio para neuroproteção e interrupção da gestação apenas se houver piora da vitalidade fetal."
+    },
+    "gabarito": "C",
+    "comentario": "A paciente apresenta pré-eclâmpsia com sinais de gravidade (cefaleia, epigastralgia, escotomas, plaquetopenia, elevação de enzimas hepáticas) e hipertensão crônica sobreposta, em gestação pré-termo (34 semanas). A conduta inclui internação, sulfato de magnésio para neuroproteção (prevenção de eclampsia), uso de anti-hipertensivos para controle da PA e, por se tratar de gestação pré-termo, corticoide para maturação pulmonar fetal antes da interrupção. O parto deve ser programado após 48 horas da primeira dose do corticoide, se a condição materna e fetal permitir, para otimizar os benefícios da maturação pulmonar. A indução imediata (B) seria se a gestação fosse a termo ou se houvesse iminência de eclampsia ou deterioração fetal/materna grave. O acompanhamento ambulatorial (A) é inadequado para pré-eclâmpsia grave. A opção D está incompleta, pois omite o sulfato de magnésio, essencial na neuroproteção. A opção E atrasaria o parto desnecessariamente, dado o quadro de gravidade.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Abdome Agudo Inflamatório",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 35 anos procura o pronto-socorro com dor abdominal periumbilical que migrou para a fossa ilíaca direita nas últimas 12 horas, associada a náuseas, vômitos e febre baixa (37,8°C). Ao exame físico, apresenta dor à palpação profunda na fossa ilíaca direita, descompressão brusca dolorosa positiva e sinal de Rovsing positivo. O hemograma revela leucocitose com desvio à esquerda. Qual é o diagnóstico mais provável e a conduta inicial mais adequada?",
+    "alternativas": {
+      "A": "Colecistite aguda; colecistectomia laparoscópica de urgência.",
+      "B": "Diverticulite aguda; antibioticoterapia e observação.",
+      "C": "Apendicite aguda; apendicectomia laparoscópica ou aberta.",
+      "D": "Pancreatite aguda; hidratação venosa e analgesia.",
+      "E": "Urolitíase; analgesia e exames de imagem para localização do cálculo."
+    },
+    "gabarito": "C",
+    "comentario": "O quadro clínico com dor periumbilical que migra para a fossa ilíaca direita, náuseas, vômitos, febre baixa, leucocitose com desvio à esquerda e sinais clássicos como descompressão brusca dolorosa e Rovsing positivo, é altamente sugestivo de apendicite aguda. A conduta definitiva para apendicite aguda é a apendicectomia, que pode ser realizada por via laparoscópica ou aberta. As outras opções representam diagnósticos e condutas para outras condições abdominais, que não se encaixam tão bem na apresentação clínica: colecistite (A) teria dor em hipocôndrio direito; diverticulite (B) geralmente em fossa ilíaca esquerda; pancreatite (D) dor em faixa no epigástrio; urolitíase (E) dor tipo cólica e irradiação para flanco e região inguinal.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Preventiva/SUS",
+    "tema": "Epidemiologia - Medidas de Ocorrência",
+    "dificuldade": "Fácil",
+    "enunciado": "Em um estudo epidemiológico sobre uma doença em uma população de 10.000 pessoas, foram identificados 500 casos novos da doença em um período de um ano. No início do período, havia 1.500 casos já existentes da mesma doença. Qual a medida de ocorrência que representa a taxa de novos casos da doença na população sob risco durante o período?",
+    "alternativas": {
+      "A": "Prevalência",
+      "B": "Incidência",
+      "C": "Mortalidade",
+      "D": "Letalidade",
+      "E": "Risco relativo"
+    },
+    "gabarito": "B",
+    "comentario": "A incidência é a medida de ocorrência que representa a taxa de novos casos de uma doença em uma população sob risco durante um determinado período de tempo. Prevalência (A) refere-se ao total de casos (novos e antigos) existentes em um dado momento. Mortalidade (C) é a taxa de óbitos na população. Letalidade (D) é a proporção de óbitos entre os casos da doença. Risco relativo (E) é uma medida de associação entre exposição e desfecho.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia - Doenças da Tireoide",
+    "dificuldade": "Difícil",
+    "enunciado": "Uma paciente de 45 anos apresenta queixa de fadiga, ganho de peso, constipação e intolerância ao frio. Ao exame físico, observa-se bradicardia, pele seca e reflexos tendinosos profundos lentificados. Os exames laboratoriais revelam TSH elevado e T4 livre diminuído. Qual a causa mais comum desse quadro e qual o anticorpo mais frequentemente associado?",
+    "alternativas": {
+      "A": "Doença de Graves; anticorpos anti-receptores de TSH (TRAb).",
+      "B": "Tireoidite de Hashimoto; anticorpos anti-tireoperoxidase (anti-TPO).",
+      "C": "Bócio multinodular tóxico; anticorpos anti-tireoglobulina (anti-Tg).",
+      "D": "Tireoidite subaguda; anticorpos anti-microssomais.",
+      "E": "Hipotireoidismo central; sem anticorpos específicos."
+    },
+    "gabarito": "B",
+    "comentario": "O quadro clínico e laboratorial (TSH elevado, T4 livre diminuído) é compatível com hipotireoidismo primário. A causa mais comum de hipotireoidismo primário em áreas com ingestão suficiente de iodo é a Tireoidite de Hashimoto, uma doença autoimune. O anticorpo mais frequentemente associado à Tireoidite de Hashimoto é o anti-tireoperoxidase (anti-TPO). A Doença de Graves (A) causa hipertireoidismo e é associada a TRAb. Bócio multinodular tóxico (C) também causa hipertireoidismo. Tireoidite subaguda (D) é geralmente transitória e dolorosa. Hipotireoidismo central (E) teria TSH baixo ou normal com T4 livre baixo.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neonatologia - Icterícia Neonatal",
+    "dificuldade": "Média",
+    "enunciado": "Um recém-nascido a termo, com 48 horas de vida, apresenta icterícia que progrediu rapidamente para a zona III de Kramer. Ele nasceu de parto vaginal, com Apgar 9/10, e a mãe é O Rh positivo, enquanto o bebê é A Rh positivo. O nível de bilirrubina total é de 15 mg/dL. Qual a conduta inicial mais adequada para este caso?",
+    "alternativas": {
+      "A": "Observação e acompanhamento ambulatorial, pois é icterícia fisiológica.",
+      "B": "Iniciar fototerapia, pois o nível de bilirrubina está acima do limite para a idade e fatores de risco.",
+      "C": "Realizar exsanguineotransfusão imediatamente, devido ao risco de kernicterus.",
+      "D": "Administrar fenobarbital para indução enzimática hepática.",
+      "E": "Investigar incompatibilidade Rh, pois é a causa mais provável."
+    },
+    "gabarito": "B",
+    "comentario": "A icterícia neonatal em um RN a termo com 48 horas de vida e bilirrubina total de 15 mg/dL está acima do limite para indicação de fototerapia, conforme os nomogramas de Bhutani ou diretrizes atuais, mesmo sem fatores de risco adicionais significativos. A icterícia fisiológica (A) geralmente não atinge níveis tão altos em 48h ou não progride tão rapidamente. A exsanguineotransfusão (C) é reservada para níveis de bilirrubina muito mais elevados ou falha da fototerapia. Fenobarbital (D) não é uma conduta inicial para icterícia. A investigação de incompatibilidade Rh (E) não é a mais provável, pois tanto a mãe quanto o bebê são Rh positivo, descartando incompatibilidade Rh. A incompatibilidade ABO é possível, mas a conduta inicial seria a fototerapia de qualquer forma, enquanto a investigação é realizada.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "GO",
+    "tema": "Ginecologia - Câncer de Colo Uterino",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 38 anos, com histórico de múltiplos parceiros sexuais e tabagismo, comparece para sua consulta ginecológica de rotina. O resultado do seu último exame de Papanicolau (há 1 ano) foi ASC-US. O Papanicolau atual revela lesão intraepitelial de alto grau (HSIL). Qual a conduta mais apropriada neste momento?",
+    "alternativas": {
+      "A": "Repetir o Papanicolau em 6 meses para reavaliação.",
+      "B": "Realizar teste de HPV de alto risco.",
+      "C": "Encaminhar para colposcopia com biópsia dirigida.",
+      "D": "Iniciar tratamento com crioterapia ou laser ablativo.",
+      "E": "Realizar histerectomia total."
+    },
+    "gabarito": "C",
+    "comentario": "Um resultado de Papanicolau indicando lesão intraepitelial de alto grau (HSIL) exige uma investigação mais aprofundada para confirmar o diagnóstico e determinar a extensão da lesão. A colposcopia com biópsia dirigida (C) é o próximo passo essencial para visualizar o colo uterino, identificar áreas suspeitas e obter material para exame histopatológico. Repetir o Papanicolau (A) é inadequado para HSIL. O teste de HPV (B) é útil para rastreamento ou seguimento de ASC-US ou LSIL, mas diante de HSIL, a colposcopia é prioritária. Crioterapia ou laser ablativo (D) são tratamentos, mas só devem ser realizados após confirmação histopatológica da lesão. Histerectomia (E) é um tratamento radical e não é a primeira linha para HSIL, sendo reservada para casos de doença invasiva ou lesões extensas não tratáveis por métodos conservadores.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Trauma - Avaliação Inicial",
+    "dificuldade": "Fácil",
+    "enunciado": "Após um acidente automobilístico, um paciente é trazido ao pronto-socorro. A equipe de trauma inicia a avaliação segundo o protocolo ATLS (Advanced Trauma Life Support). Qual é a primeira etapa da avaliação primária que deve ser realizada?",
+    "alternativas": {
+      "A": "Exposição e controle do ambiente (E)",
+      "B": "Circulação com controle de hemorragias (C)",
+      "C": "Vias aéreas com proteção da coluna cervical (A)",
+      "D": "Déficit neurológico (D)",
+      "E": "Respiração e ventilação (B)"
+    },
+    "gabarito": "C",
+    "comentario": "A avaliação primária no trauma segue a sequência mnemônica ABCDE. A primeira e mais crítica etapa é a avaliação das Vias Aéreas (Airway) com proteção da coluna cervical, pois a manutenção de uma via aérea pérvia é fundamental para a vida do paciente. As demais etapas seguem na ordem: B (Breathing - respiração), C (Circulation - circulação e controle de hemorragias), D (Disability - déficit neurológico) e E (Exposure - exposição e controle do ambiente).",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Preventiva/SUS",
+    "tema": "Atenção Primária à Saúde - Princípios",
+    "dificuldade": "Média",
+    "enunciado": "Um dos princípios fundamentais da Atenção Primária à Saúde (APS) é a longitudinalidade. Qual das seguintes situações melhor descreve a aplicação desse princípio em um serviço de saúde?",
+    "alternativas": {
+      "A": "Um paciente que busca o pronto-socorro apenas em situações de emergência.",
+      "B": "Um médico que atende pacientes em diferentes especialidades, sem foco em um problema específico.",
+      "C": "Uma equipe de saúde da família que acompanha o paciente e sua família ao longo do tempo, em diferentes fases da vida e em diversas situações de saúde e doença.",
+      "D": "Um programa de saúde que oferece campanhas de vacinação pontuais para toda a população.",
+      "E": "Um sistema de referência e contrarreferência que garante o acesso a serviços de média e alta complexidade."
+    },
+    "gabarito": "C",
+    "comentario": "A longitudinalidade é um dos atributos essenciais da Atenção Primária à Saúde e refere-se ao vínculo e à continuidade do cuidado entre o paciente e a equipe de saúde ao longo do tempo, independentemente da ocorrência de problemas de saúde. A opção C descreve perfeitamente esse conceito, onde a equipe de saúde da família estabelece um relacionamento duradouro e acompanha o indivíduo e sua família em todas as suas necessidades de saúde. As outras opções descrevem situações que não refletem a longitudinalidade: A é o oposto (cuidado fragmentado); B não se refere à continuidade do cuidado com o paciente; D é uma ação pontual; E descreve a coordenação do cuidado, outro princípio importante, mas não a longitudinalidade em si.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Hérnias da Parede Abdominal",
+    "dificuldade": "Média",
+    "enunciado": "Paciente masculino, 65 anos, tabagista, com DPOC, procura o pronto-socorro com queixa de dor intensa em região inguinal direita há 12 horas, acompanhada de náuseas e vômitos. Ao exame físico, apresenta massa irredutível, dolorosa e tensa na região inguinal direita. O paciente está afebril, mas com taquicardia (FC 105 bpm) e PA 130/80 mmHg. Qual a conduta inicial mais apropriada?",
+    "alternativas": {
+      "A": "Tentativa de redução manual da hérnia sob sedação e analgesia, seguida de reparo eletivo.",
+      "B": "Administração de analgésicos e anti-inflamatórios, observação clínica por 6-12 horas.",
+      "C": "Preparo para cirurgia de urgência, com exploração da hérnia e avaliação da viabilidade da alça intestinal.",
+      "D": "Solicitar ultrassonografia da região inguinal para confirmar o diagnóstico e excluir outras causas.",
+      "E": "Administrar laxativos e dieta leve, orientar repouso e reavaliar em 24 horas."
+    },
+    "gabarito": "C",
+    "comentario": "O quadro clínico de dor intensa, massa irredutível, tensa e dolorosa, associado a náuseas e vômitos, é altamente sugestivo de hérnia inguinal encarcerada com provável estrangulamento. Nesses casos, a cirurgia de urgência é imperativa para avaliar a viabilidade da alça intestinal e evitar complicações como necrose e perfuração. A tentativa de redução manual é contraindicada em casos de suspeita de estrangulamento. A observação prolongada ou a realização de exames complementares atrasaria o tratamento e aumentaria os riscos para o paciente.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Trauma Abdominal",
+    "dificuldade": "Difícil",
+    "enunciado": "Paciente masculino, 40 anos, vítima de acidente automobilístico (colisão frontal), é admitido no pronto-socorro com dor abdominal difusa e sinais de choque hipovolêmico (PA 80/50 mmHg, FC 130 bpm, tempo de enchimento capilar > 4 segundos). O FAST (Focused Assessment with Sonography for Trauma) é positivo para líquido livre em espaço hepatorrenal e esplenorrenal. Após estabilização inicial com dois acessos venosos calibrosos e infusão de 2 litros de cristaloides, a pressão arterial permanece em 90/60 mmHg e a FC em 120 bpm. Qual a conduta mais adequada neste momento?",
+    "alternativas": {
+      "A": "Realizar tomografia computadorizada de abdome com contraste para identificar a lesão e graduar o trauma.",
+      "B": "Iniciar transfusão de concentrado de hemácias e encaminhar para laparotomia exploradora de emergência.",
+      "C": "Administrar mais cristaloides e aguardar melhora hemodinâmica antes de qualquer intervenção cirúrgica.",
+      "D": "Solicitar exames laboratoriais completos (hemograma, coagulograma, tipagem sanguínea) e aguardar resultados.",
+      "E": "Realizar lavagem peritoneal diagnóstica para confirmar a hemorragia intra-abdominal."
+    },
+    "gabarito": "B",
+    "comentario": "Este paciente apresenta choque hipovolêmico persistente após a reanimação inicial com cristaloides, com FAST positivo, indicando hemorragia intra-abdominal ativa. A instabilidade hemodinâmica refratária é uma indicação absoluta para laparotomia exploradora de emergência em trauma abdominal. A transfusão de concentrado de hemácias deve ser iniciada simultaneamente. A tomografia é contraindicada em pacientes instáveis. A lavagem peritoneal diagnóstica é menos utilizada atualmente, sendo o FAST mais rápido e eficaz para identificar líquido livre em pacientes instáveis. A espera por mais cristaloides ou exames laboratoriais atrasaria a intervenção salvadora.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Diverticulite Aguda",
+    "dificuldade": "Média",
+    "enunciado": "Mulher, 55 anos, obesa, procura o pronto-socorro com dor em fossa ilíaca esquerda há 3 dias, febre (38,2°C), náuseas e alteração do hábito intestinal (constipação seguida de diarreia). Ao exame físico, apresenta dor à palpação em fossa ilíaca esquerda, sem sinais de irritação peritoneal. Hemograma revela leucocitose com desvio à esquerda. A tomografia computadorizada de abdome e pelve mostra espessamento da parede do cólon sigmoide, densificação da gordura mesentérica adjacente e ausência de abscesso ou perfuração. Qual o tratamento inicial mais adequado?",
+    "alternativas": {
+      "A": "Internação hospitalar, antibioticoterapia endovenosa, jejum e hidratação.",
+      "B": "Colonoscopia de urgência para avaliar a mucosa do cólon e excluir malignidade.",
+      "C": "Antibioticoterapia oral, dieta líquida e acompanhamento ambulatorial.",
+      "D": "Laparotomia exploradora para ressecção do segmento de cólon afetado.",
+      "E": "Drenagem percutânea do divertículo inflamado."
+    },
+    "gabarito": "A",
+    "comentario": "O quadro é compatível com diverticulite aguda não complicada (Hinchey I ou Hinchey IIa sem abscesso significativo). O tratamento inicial padrão para casos com febre, leucocitose e dor significativa, ou para pacientes imunocomprometidos, é a internação, antibioticoterapia endovenosa de amplo espectro, repouso intestinal (jejum) e hidratação. A colonoscopia é contraindicada na fase aguda devido ao risco de perfuração. Antibioticoterapia oral pode ser considerada para casos muito leves e selecionados. A cirurgia é reservada para complicações (perfuração, abscesso não drenável, fístula, obstrução) ou recorrências. Não há abscesso para drenagem percutânea.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Colecistite Aguda",
+    "dificuldade": "Fácil",
+    "enunciado": "Homem, 45 anos, procura o pronto-socorro com dor em hipocôndrio direito há 24 horas, irradiando para o dorso, acompanhada de náuseas e vômitos. Refere ter tido um episódio semelhante há 2 meses, que melhorou espontaneamente. Ao exame físico, apresenta sinal de Murphy positivo, afebril, com leucócitos de 12.000/mm3. A ultrassonografia de abdome revela cálculos na vesícula biliar, espessamento da parede vesicular (>4mm) e líquido perivesicular. Qual a conduta terapêutica mais indicada neste momento?",
+    "alternativas": {
+      "A": "Antibioticoterapia e colecistectomia eletiva após 6-8 semanas.",
+      "B": "Antibioticoterapia e colecistectomia laparoscópica precoce (em até 72 horas).",
+      "C": "Drenagem biliar percutânea e posterior colecistectomia.",
+      "D": "Analgesia, dieta zero e alta hospitalar com acompanhamento ambulatorial.",
+      "E": "Colangiopancreatografia retrógrada endoscópica (CPRE) para remoção dos cálculos."
+    },
+    "gabarito": "B",
+    "comentario": "O paciente apresenta colecistite aguda litiásica, caracterizada por dor em hipocôndrio direito, sinal de Murphy positivo, leucocitose e achados ultrassonográficos típicos. A conduta padrão ouro é a colecistectomia laparoscópica precoce (preferencialmente nas primeiras 72 horas do início dos sintomas) associada à antibioticoterapia. A cirurgia precoce reduz a taxa de complicações e o tempo de internação. A colecistectomia eletiva é indicada para colelitíase sintomática sem inflamação aguda. A drenagem percutânea é reservada para pacientes de alto risco cirúrgico. A CPRE é indicada para coledocolitíase, não para colecistite aguda sem evidência de obstrução da via biliar principal.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Apendicite Aguda",
+    "dificuldade": "Média",
+    "enunciado": "Menina, 10 anos, apresenta dor periumbilical que migrou para fossa ilíaca direita há 24 horas, acompanhada de anorexia, náuseas e febre de 37,8°C. Ao exame físico, apresenta dor à palpação em fossa ilíaca direita, descompressão brusca dolorosa positiva (sinal de Blumberg). Leucócitos de 16.000/mm3 com 85% de neutrófilos. Qual o exame de imagem mais indicado para confirmar o diagnóstico e planejar a conduta?",
+    "alternativas": {
+      "A": "Radiografia simples de abdome.",
+      "B": "Ultrassonografia abdominal.",
+      "C": "Tomografia computadorizada de abdome e pelve com contraste.",
+      "D": "Ressonância magnética de abdome.",
+      "E": "Laparoscopia diagnóstica imediata."
+    },
+    "gabarito": "B",
+    "comentario": "Em crianças e mulheres jovens, a ultrassonografia é o exame de imagem de primeira linha para a suspeita de apendicite aguda devido à sua não-invasividade e ausência de radiação ionizante. Pode identificar o apêndice inflamado, líquido livre e excluir outras causas de dor abdominal. A TC é mais sensível, mas envolve radiação e geralmente é reservada para casos duvidosos ou quando a USG é inconclusiva. A radiografia simples tem baixa sensibilidade e especificidade. A ressonância magnética é uma alternativa em casos selecionados (gestantes, por exemplo), mas não é a primeira escolha. A laparoscopia diagnóstica é um procedimento invasivo e não é o exame inicial.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Coagulopatias / Tromboelastometria",
+    "dificuldade": "Difícil",
+    "enunciado": "Paciente politraumatizado chega ao pronto-socorro com sangramento ativo e sinais de choque. Após reanimação volêmica inicial, é realizado um tromboelastograma (TEG) que revela um 'R-time' (tempo de reação) prolongado e um 'ângulo alfa' diminuído. Qual a principal deficiência de coagulação sugerida por esses achados e qual o produto sanguíneo mais indicado para correção inicial?",
+    "alternativas": {
+      "A": "Deficiência de plaquetas – Transfusão de concentrado de plaquetas.",
+      "B": "Deficiência de fatores de coagulação – Transfusão de plasma fresco congelado.",
+      "C": "Hiperfibrinólise – Administração de ácido tranexâmico.",
+      "D": "Deficiência de fibrinogênio – Transfusão de crioprecipitado.",
+      "E": "Aumento da agregação plaquetária – Administração de antiagregantes plaquetários."
+    },
+    "gabarito": "B",
+    "comentario": "No tromboelastograma (TEG), o 'R-time' representa o tempo de início da formação do coágulo e é influenciado principalmente pelos fatores de coagulação. Um R-time prolongado indica deficiência de fatores de coagulação. O 'ângulo alfa' reflete a velocidade de formação do coágulo e é influenciado pela função plaquetária e pelos níveis de fibrinogênio. Um ângulo alfa diminuído, juntamente com um R-time prolongado, sugere uma deficiência mais ampla nos fatores de coagulação. Portanto, o plasma fresco congelado (PFC) é o produto sanguíneo mais indicado para repor os fatores de coagulação. A deficiência de plaquetas seria indicada por um MA (amplitude máxima) diminuído. A hiperfibrinólise seria indicada por um LY30 (lise em 30 minutos) aumentado. A deficiência de fibrinogênio afetaria o ângulo alfa e o MA, mas o R-time seria menos impactado primariamente.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Manobras Cirúrgicas",
+    "dificuldade": "Fácil",
+    "enunciado": "Em uma laparotomia para trauma abdominal, a mobilização do duodeno e da cabeça do pâncreas para permitir a visualização da face posterior do duodeno, da veia cava inferior e do rim direito é realizada por qual manobra cirúrgica?",
+    "alternativas": {
+      "A": "Manobra de Mattox.",
+      "B": "Manobra de Kocher.",
+      "C": "Manobra de Cattell-Braasch.",
+      "D": "Manobra de Pringle.",
+      "E": "Manobra de Choleff."
+    },
+    "gabarito": "B",
+    "comentario": "A manobra de Kocher consiste na incisão do peritônio lateral ao duodeno descendente e sua mobilização medial, permitindo a exposição da face posterior do duodeno, da cabeça do pâncreas, da veia cava inferior e do rim direito. É frequentemente utilizada para avaliar lesões duodenais ou pancreáticas posteriores, ou para acessar a via biliar distal. A manobra de Mattox envolve a mobilização do cólon descendente, baço e rim esquerdo para acessar a aorta abdominal. A manobra de Cattell-Braasch é uma mobilização mais extensa do cólon direito e duodeno para expor a veia cava inferior. A manobra de Pringle é o pinçamento do pedículo hepático para controle de sangramento hepático.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Pediatria | Cirurgia",
+    "tema": "Divertículo de Meckel",
+    "dificuldade": "Média",
+    "enunciado": "Criança de 3 anos é levada ao pronto-socorro com quadro de sangramento retal indolor, vermelho vivo, em moderada quantidade, há 6 horas. A mãe nega trauma ou uso de medicamentos. Ao exame físico, a criança está estável hemodinamicamente, sem dor abdominal à palpação. Qual a causa mais provável para este sangramento gastrointestinal inferior?",
+    "alternativas": {
+      "A": "Pólipo juvenil.",
+      "B": "Doença inflamatória intestinal.",
+      "C": "Invaginação intestinal.",
+      "D": "Divertículo de Meckel.",
+      "E": "Fissura anal."
+    },
+    "gabarito": "D",
+    "comentario": "O divertículo de Meckel é a anomalia congênita mais comum do trato gastrointestinal e é a causa mais frequente de sangramento gastrointestinal inferior indolor em crianças pequenas. O sangramento ocorre devido à presença de mucosa gástrica ectópica (heterotópica) no divertículo, que secreta ácido e causa ulceração da mucosa ileal adjacente. Pólipos juvenis também causam sangramento indolor, mas geralmente em menor volume. Doença inflamatória intestinal costuma apresentar outros sintomas como dor, diarreia, perda de peso. Invaginação intestinal causa dor em cólica, vômitos e fezes em geleia de framboesa. Fissura anal causa dor e sangramento em pequena quantidade, geralmente associado à evacuação.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Clínica Médica | Cirurgia",
+    "tema": "Retocolite Ulcerativa / Megacólon Tóxico",
+    "dificuldade": "Difícil",
+    "enunciado": "Paciente, 35 anos, com retocolite ulcerativa em atividade grave, internado há 3 dias para tratamento clínico. Hoje, evolui com distensão abdominal súbita, dor intensa, febre (39°C), taquicardia (130 bpm) e hipotensão (85/50 mmHg). A radiografia de abdome revela dilatação do cólon transverso com diâmetro de 8 cm, perda das haustrações e edema da parede intestinal. Qual a principal complicação que se instalou e qual a conduta inicial mais urgente?",
+    "alternativas": {
+      "A": "Perfuração intestinal – Laparotomia exploradora imediata.",
+      "B": "Megacólon tóxico – Antibioticoterapia de amplo espectro, descompressão nasogástrica e corticoterapia endovenosa.",
+      "C": "Obstrução intestinal – Descompressão com sonda nasogástrica e colonoscopia diagnóstica.",
+      "D": "Colite fulminante refratária – Aumento da dose de imunossupressores.",
+      "E": "Peritonite bacteriana primária – Paracentese diagnóstica e antibióticos."
+    },
+    "gabarito": "B",
+    "comentario": "O quadro clínico e radiológico (distensão abdominal, sinais de toxicidade sistêmica, dilatação colônica > 6 cm, perda de haustrações) é altamente sugestivo de megacólon tóxico, uma complicação grave da retocolite ulcerativa. A conduta inicial é de estabilização clínica com antibioticoterapia de amplo espectro, descompressão nasogástrica, corticoterapia endovenosa em altas doses e correção de distúrbios hidroeletrolíticos. A falha no tratamento clínico após 24-48 horas ou evidência de perfuração (sinais de irritação peritoneal) indicaria cirurgia (colectomia subtotal). A perfuração é uma complicação do megacólon tóxico, mas a conduta inicial é clínica, salvo se houver sinais claros de perfuração. Obstrução intestinal é menos provável com a dilatação generalizada e perda de haustrações. Aumentar imunossupressores em um quadro séptico é contraindicado. Peritonite bacteriana primária é mais comum em cirróticos com ascite.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Hematoma de Parede Abdominal",
+    "dificuldade": "Média",
+    "enunciado": "Mulher, 72 anos, em uso de anticoagulante oral (varfarina) por fibrilação atrial, procura o pronto-socorro com dor abdominal súbita em quadrante inferior direito, que piora com a tosse e a movimentação. Nega trauma. Ao exame físico, apresenta massa palpável, dolorosa e endurecida na parede abdominal, sem sinais de irritação peritoneal. Hemoglobina inicial de 12 g/dL, mas com queda para 9 g/dL após 6 horas. O INR é de 4,5. Qual o diagnóstico mais provável e a conduta inicial?",
+    "alternativas": {
+      "A": "Apendicite aguda – Apendicectomia de urgência.",
+      "B": "Diverticulite aguda – Antibioticoterapia e observação.",
+      "C": "Hematoma do reto abdominal – Suspensão do anticoagulante, reversão da anticoagulação e observação.",
+      "D": "Hérnia inguinal encarcerada – Redução manual e reparo cirúrgico.",
+      "E": "Tumor de parede abdominal sangrante – Biópsia da lesão."
+    },
+    "gabarito": "C",
+    "comentario": "O quadro clínico de dor abdominal súbita que piora com a tosse, massa palpável na parede abdominal, queda da hemoglobina e uso de anticoagulante com INR elevado é altamente sugestivo de hematoma da bainha do reto abdominal. A conduta inicial é suspender o anticoagulante, reverter a anticoagulação (vitamina K, complexo protrombínico ou plasma fresco congelado) e realizar observação clínica. A maioria dos hematomas do reto abdominal é autolimitada e pode ser tratada conservadoramente. A cirurgia é reservada para hematomas em expansão, instabilidade hemodinâmica refratária ou compressão de estruturas adjacentes. As outras alternativas são menos prováveis dado o quadro, especialmente a relação com o anticoagulante e a piora com a contração da musculatura abdominal.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]

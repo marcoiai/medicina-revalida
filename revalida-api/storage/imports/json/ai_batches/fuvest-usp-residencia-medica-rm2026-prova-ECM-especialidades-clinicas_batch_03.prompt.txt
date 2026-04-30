@@ -1,0 +1,381 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+b: 9,5 g/dL 
+VCM: 105 fL 
+Leucócitos: 800/mm3 
+Neutrófilos: 100/mm3 
+Linfócitos: 680/mm3 
+Monócitos: 20/mm3  
+Presença de algumas células anômalas, com nucléolos 
+evidentes 
+Plaquetas: 12.000/mm3 
+TP: atividade 50% 
+TTPA: 1,3  
+TT: 27 s 
+Fibrinogênio: 150 mg/dL (ref.: 200 a 400 mg/dL) 
+βHCG: normal 
+ 
+Foi realizado raio-X de tórax, sem alterações. Em relação ao 
+caso apresentado, o diagnóstico mais provável é: 
+ 
+(A) Leucemia aguda. 
+(B) Anemia megaloblástica. 
+(C) Aplasia medular. 
+(D) Septicemia. 
+##### 
+ 
+{26} 
+Mulher, 22 anos de idade, queixa-se de crises de falta de ar 
+associadas à tosse e sibilância, sobretudo quando exposta a 
+ambientes com muita poeira. Raramente acorda à noite com 
+falta de ar. Nega tabagismo. Para confirmação diagnóstica foi 
+solicitada uma prova de função pulmonar.  Assinale a 
+alternativa que apresenta o resultado mais compatível com o 
+diagnóstico da paciente. 
+ 
+(A) 
+CVF = pré-BD: 2,60 (80%) → pós-BD: 2,70 (82%) 
+VEF1 = pré-BD: 1,50 (65%) → pós-BD: 1,92 (85%) 
+VEF1/CVF = pré-BD: 0,57 → pós-BD: 0,71 
+(B) 
+CVF = pré-BD: 2,60 (80%) → pós-BD: 2,60 (80%) 
+VEF1 = pré-BD: 1,50 (65%) → pós-BD: 1,60 (68%) 
+VEF1/CVF = pré-BD: 0,57 → pós-BD: 0,61 
+(C) 
+CVF = pré-BD: 2,60 (80%) → pós-BD: 2,70 (82%) 
+VEF1 = pré-BD: 1,82 (80%) → pós-BD: 1,82 (80%) 
+VEF1/CVF = pré-BD: 0,70 → pós-BD: 0,67 
+(D) 
+CVF = pré-BD: 2,60 (70%) → pós-BD: 2,70 (80%) 
+VEF1 = pré-BD: 1,82 (80%) → pós-BD: 2,02 (90%) 
+VEF1/CVF = pré-BD: 0,70 → pós-BD: 0,75 
+ 
+Note e adote: 
+ 
+CVF: Capacidade Vital Forçada; 
+VEF1: Volume Expiratório Forçado no primeiro segundo; 
+BD: Broncodilatador 
+##### 
+{27} 
+Homem, 61 anos de idade, com sobrepeso, trabalhador 
+braçal, com queixas de dor em mãos, ombros e joelho 
+esquerdo há 5 anos. Relata piora progressiva, principalmente 
+ao final do dia, e rigidez matinal com duração de 30 minutos. 
+Nega sintomas sistêmicos. Ao exame clínico, apresenta 
+aumento de volume nas interfalangeanas proximais e distais, 
+com nódulos palpáveis, além de crepitação nos ombros e nos 
+joelhos. Há redução da mobilidade do joelho esquerdo. A 
+radiografia do joelho esquerdo é apresentada na imagem a 
+seguir: 
+ 
+ 
+ 
+A abordagem inicial mais adequada em relação ao joelho 
+esquerdo é: 
+ 
+(A) Medidas não farmacológicas. 
+(B) Indicação de artroplastia. 
+(C) Infiltração intra-articular com glicorticoide. 
+(D) Glicocorticoide oral sistêmico. 
+##### 
+ 
+{28} 
+Homem, 37 anos de idade, HIV confirmado, sem uso de 
+antirretrovirais e CD4 40 células/µL. Queixa de cefaleia há três 
+semanas, diplopia há cinco dias e dois episódios de vômitos. 
+Tinta da China no líquor com leveduras encapsuladas. Não há 
+flucitosina, nem formulações lipídicas de anfotericina B no 
+hospital. Em relação ao caso apresentado, o tratamento mais 
+adequado é:  
+ 
+(A) Fluconazol 1.200 mg/dia em monoterapia, por 4 semanas. 
+(B) Anfotericina B desoxicolato 0,7 mg/kg/dia + fluconazol 
+1.200 mg/dia, por 2 semanas. 
+(C) Anfotericina B desoxicolato 1 mg/kg/dia + fluconazol  
+800 mg/dia, por 2 semanas. 
+(D) Anfotericina B desoxicolato 5 mg/kg/dia + fluconazol  
+800 mg/dia, por 2 semanas. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{29} 
+Homem, 47 anos de idade, com quadro súbito de vertigem 
+enquanto praticava atividade física na academia há seis 
+horas. Também refere diplopia binocular, que melhora ao 
+fechar um dos olhos, e sensação de que é empurrado para 
+direita. Nega antecedentes médicos ou uso de medicações. 
+Apresenta PA de 180×100 mmHg, FC de 110 bpm, glicemia 
+capilar de 93 mg/dL. Ao exame neurológico, apresenta 
+nistagmo horizontal para esquerda, desalinhamento vertical 
+(com olho hipotrópico à direita) e pupila miótica à direita. 
+Realizou tomografia de crânio sem contraste que não mostrou 
+alterações. Assinale a alternativa que apresenta a próxima 
+conduta mais adequada. 
+ 
+(A) Executar as manobras de Dix-Hallpike e de Epley. 
+(B) Administrar dimenidrato e nitroprussiato de sódio IV. 
+(C) Trombólise com alteplase 0,9 mg/kg intravenosa. 
+(D) Angiotomografia arterial cervical e intracraniana. 
+##### 
+ 
+{30} 
+Mulher, 58 anos de idade, com hipertensão arterial e com 
+histórico de cirurgia bariátrica (gastrectomia vertical tipo 
+sleeve e bypass em Y de Roux), relata fratura vertebral após 
+levantar o neto recém-nascido do chão. Possui os seguintes 
+exames: 
+ 
+• Densitometria óssea: 
+T-score de fêmur total: -2,4 
+Colo de fêmur: -2,4 
+Coluna L1-L4: -2,7 
+ 
+• Exames laboratoriais: 
+Cr: 0,7 mg/dL 
+Ca2+ total: 8,7 mg/dL 
+Fósforo: 2,4 mg/dL 
+25-OH-vitamina D: 9 ng/mL 
+Albumina: 3,7 g/dL 
+Paratormônio: 103 pg/mL 
+TGO/AST: 30 U/L 
+TGP/ALT: 31 U/L 
+FA: 123 U/L 
+GGT:40 U/L 
+ 
+O tratamento inicial mais adequado para esta paciente deve 
+incluir: 
+ 
+(A) Citrato de cálcio + vitamina D. 
+(B) Carbonato de cálcio + vitamina D + zoledrônico. 
+(C) Citrato de cálcio + vitamina D + zoledrônico. 
+(D) Carbonato de cálcio + vitamina D. 
+ 
+##### 
+ 
+{31} 
+Mulher, 32 anos de idade, com artrite reumatoide em uso de 
+metotrexato 25 mg/semana, em programação ambulatorial 
+para troca por adalimumabe. Os imunizantes mais adequados 
+para esta paciente, incluindo tanto os da rede pública como 
+privada, são: 
+ 
+(A) Febre amarela e herpes zoster. 
+(B) Meningocócica ACWY e dengue. 
+(C) Febre amarela e dengue. 
+(D) Meningocóccica ACWY e herpes zoster. 
+##### 
+{32} 
+Mulher, 45 anos de idade, com sintomas constitucionais e 
+sinusite de repetição há cinco meses. Nas últimas três 
+semanas, passou a apresentar poliartralgias, redução da 
+diurese, dispneia progressiva com tosse e escarros 
+hemoptoicos. Não há evidências de infecção ou neoplasia. O 
+padrão de imunofluorescência esperado para o diagnóstico 
+mais provável é: 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{33} 
+Homem, 62 anos de idade, portador de hipertensão arterial sistêmica mal controlada e tabagista de 20 cigarros/dia há 40 anos, 
+procura a Unidade de Pronto Atendimento (UPA) com quadro de dor precordial de forte intensidade com irradiação para nuca e 
+cefaleia associada à visão dupla e vertigem. Refere que o quadro se iniciou há cerca de 1 hora e 30 minutos. Ao exame físico, 
+encontra-se lúcido, porém agitado, com PA de 200×100 mmHg, FC de 108 bpm, FR de 26 irpm, SpO2 de 95% em ar ambiente. 
+Ausculta cardíaca e pulmonar sem alterações, pulsos periféricos presentes e simétricos. No exame neurológico, apresenta-se com 
+piora da diplopia agravada pela movimentação cefálica, nistagmo horizontal e marcha com instabilidade e tendência a queda para 
+o lado esquerdo, sem outros déficits focais ou sinais meníngeos. Diante do quadro, foi solicitado um ECG na sala de emergência, 
+demonstrado a seguir: 
+ 
+ 
+ 
+Em relação ao quadro apresentado, assinale a alternativa que apresenta a conduta mais indicada.  
+ 
+(A) Caso a transferência a um centro de hemodinâmica seja maior que 120 minutos, deve-se prosseguir com administração de AAS 
+300 mg, clopidogrel 300 mg, enoxaparina 30 mg EV e trombólise para infarto agudo do miocárdio. 
+(B) Iniciar nitroprussiato de sódio imediatamente para controle rápido da pressão arterial visando redução de até 25% da PA inicial 
+na primeira hora. 
+(C) Encaminhar o paciente a uma tomografia computadorizada de crânio sem contraste e, na ausência de sangramento, prosseguir 
+com trombólise pelo quadro de acidente vascular cerebral isquêmico. 
+(D) Encaminhar o paciente para angiotomografia de aorta e, na presença de dissecção de aorta, iniciar controle de duplo produto 
+com esmolol e nitroprussiato de sódio. 
+#####
+ 
+{34} 
+Mulher, 38 anos de idade, procura atendimento por astenia 
+progressiva, perda de peso de 7 kg nos últimos 4 meses, 
+hipotensão e hiperpigmentação da pele. Nega uso de 
+medicamentos. Relata episódios de diarreia e tonturas ao 
+levantar-se. Ao exame clínico, apresenta-se emagrecida, com 
+PA de 90×60 mmHg e FC de 96 bpm.  
+ 
+• Exames laboratoriais: 
+Na+: 130 mEq/L 
+K+: 5,8 mEq/L 
+Glicose: 68 mg/dL 
+Cortisol sérico às 8h: 3,2 µg/dL (ref.: 5 a 25 µg/dL) 
+ACTH plasmático 180 pg/mL (ref.: 7 a 46 pg/mL) 
+ 
+A conduta mais adequada no manejo desta paciente é:  
+ 
+(A) Repetir cortisol e ACTH e iniciar fludrocortisona. 
+(B) Iniciar hidrocortisona e fludrocortisona. 
+(C) Confirmar o diagnóstico com teste de estímulo. 
+(D) Solicitar ressonância magnética de hipófise. 
+##### 
+ 
+ 
+ 
+ 
+{35} 
+Um ensaio clínico randomizado de não inferioridade 
+comparou o uso parcial de antibioticoterapia oral à terapia 
+feita toda com antibioticoterapia intravenosa em pacientes 
+com osteomielite crônica. A margem de não inferioridade foi 
+definida em 0,80 para o risco relativo de resposta clínica 
+completa. A análise por intenção de tratar (ITT) mostrou risco 
+relativo de 0,95 (IC95%: 0,82–1,07). A análise por protocolo 
+mostrou risco relativo = 0,88 (IC95%: 0,76–1,02). A 
+interpretação mais adequada para o resultado é: 
+ 
+(A) O resultado por ITT demonstra não inferioridade, 
+independentemente da análise por protocolo. 
+(B) A análise por protocolo deve ser evitada em ensaios de 
+não inferioridade, pois sempre superestima o efeito da 
+intervenção. 
+(C) O estudo confirma a superioridade da estratégia com 
+antibiótico oral sobre o intravenoso. 
+(D) Como o IC da análise por protocolo cruza a margem de 
+0,80, não é possível confirmar não inferioridade. 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{36} 
+Paciente, 50 anos de idade, sem comorbidades relevantes, 
+apresenta dor torácica pleurítica e dispneia súbita. Pela 
+avaliação clínica (escore de Wells), a probabilidade pré-teste 
+de Tromboembolismo Pulmonar (TEP) é estimada em 20%. Foi 
+solicitado um dímero-D, cujo desempenho em meta-análises 
+é: sensibilidade de 95% e especificidade de 40%. O resultado 
+foi negativo. Observe o gráfico a seguir: 
+ 
+ 
+ 
+Em relação às informações apresentadas, a probabilidade 
+pós-teste aproximada de TEP nesse paciente é: 
+ 
+(A) 2%. 
+(B) 5%. 
+(C) 7%. 
+(D) 10%. 
+##### 
+ 
+{37} 
+Homem, 63 anos de idade, com cirrose hepática, internado 
+por infecção de trato urinário e aumento da ascite. Está 
+recebendo ceftriaxone, recebeu dois dias de hidratação com 
+cristaloides e diuréticos foram suspensos. Ao exame clínico, 
+apresenta estado geral regular, PA de 100×50 mmHg, FC de 
+78 bpm, FR de 20 irpm, temperatura de 36,9 °C, SpO2 de 97% 
+em ar ambiente, bem perfundido, sem evidências de 
+encefalopatia, ascite volumosa e depressível, com edema de 
+membros inferiores +/4+. Ao longo dos três primeiros dias de 
+internação, apresentou piora da creatinina de 1,1 mg/dL para 
+2,5 mg/dL. Sódio urinário <10 mEq/L. Em relação ao caso 
+descrito, assinale a alternativa que apresenta a conduta mais 
+adequada. 
+ 
+(A) Iniciar terlipressina e albumina. 
+(B) Iniciar corticoide intravenoso. 
+(C) Trocar antibioticoterapia. 
+(D) Realizar paracentese de alívio. 
+##### 
+ 
+ 
+{38} 
+Homem, 50 anos de idade, internado por pancreatite aguda 
+por litíase biliar. No 12º dia de internação, evoluiu com piora 
+clínica, apresentando PA de 96×52 mmHg, FC de 112 bpm e 
+queda 
+do 
+hematócrito. 
+Foi 
+realizada 
+tomografia 
+computadorizada de abdome contrastada apresentada na 
+imagem a seguir:  
+ 
+ 
+ 
+Considerando o caso apresentado, a próxima conduta mais 
+adequada é: 
+ 
+(A) Necrosectomia aberta. 
+(B) Antibioticoterapia de amplo espectro. 
+(C) Colangiopancreatografia retrógrada endoscópica. 
+(D) Drenagem percutânea do cisto pancreático. 
+##### 
+ 
+{39} 
+Mulher, 23 anos de idade, com anemia desde a infância, 
+tratada diversas vezes com ferro oral. Nega consanguinidade 
+familiar; mãe submetida à colecistectomia aos 32 anos de 
+idade, 
+avó 
+materna 
+esplenectomizada 
+durante 
+uma 
+colecistectomia aos 52 anos de idade. Há seis meses, foi 
+internada por pneumonia, necessitando de transfusão de 
+sangue. Exame clínico: descora

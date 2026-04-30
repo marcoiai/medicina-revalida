@@ -1,0 +1,432 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+que com clopidogrel 600 mg. 
+(D) Realizar ataque com clopidogrel 600 mg e substituir AAS por tirofibam. 
+#####
+ 
+{09} 
+Homem, 66 anos de idade, tabagista e com DPOC, está 
+internado por pneumonia grave, com necessidade de 
+ventilação mecânica. O resultado da cultura de secreção 
+traqueal é apresentado na tabela a seguir: 
+ 
+Candida albicans 
+Fluconazol 
+Sensível 
+Anfotericina B 
+Resistente 
+Voriconazol 
+Resistente 
+Equinocandina 
+Sensível 
+Staphylococcus aureus 
+Benzilpenicilina 
+Resistente 
+Clindamicina 
+Sensível 
+Ciprofloxacina 
+Resistente 
+Eritromicina 
+Resistente 
+Oxacilina 
+Sensível 
+Sulfametoxazol/trimetoprim 
+Sensível 
+Vancomicina 
+Sensível 
+ 
+Considerando o caso apresentado, assinale a alternativa que 
+apresenta o tratamento antimicrobiano mais adequado. 
+ 
+(A) Cefazolina. 
+(B) Clindamicina. 
+(C) Oxacilina e fluconazol. 
+(D) Sulfametoxazol/trimetoprim e micafungina. ##### 
+ 
+{10} 
+Mulher, 78 anos de idade, com diagnóstico de diabetes melito 
+tipo 2 há 20 anos. Teve infarto agudo do miocárdio há cinco 
+anos, tem doença renal crônica estágio 3b e retinopatia 
+diabética não proliferativa leve. Além disso, relatou dois 
+episódios de hipoglicemia que necessitaram de auxílio de 
+terceiros no último ano. Seu tratamento atual consiste em 
+metformina 500 mg/dia, sitagliptina 50 mg/dia e insulina NPH 
+20 unidades à noite, e 10 unidades pela manhã. A meta de 
+HbA1c mais apropriada para esta paciente é: 
+ 
+(A) 6,0% – 6,5%. 
+(B) 6,5% – 7,0%. 
+(C) 7,0% – 7,5%. 
+(D) 7,5% – 8,5%. 
+##### 
+ 
+{11} 
+Mulher, 45 anos de idade, submetida à ultrassonografia 
+cervical por conta de nódulo tireoideano palpado durante a 
+consulta de rotina. Seu médico a tranquilizou, pois os achados 
+do exame não eram suspeitos para malignidade. O laudo mais 
+provável deste exame é: 
+ 
+(A) Nódulo isoecoico com microcalcificações. 
+(B) Nódulo sólido-cístico com margens mal definidas. 
+(C) Nódulo predominantemente cístico com focos hiperrefrin-
+gentes. 
+(D) Nódulo marcadamente hipoecoico e mais alto do que 
+largo. ##### 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Clínica Médica – PROVA AA1 
+{12} 
+Homem, 78 anos de idade, com astenia há quatro meses e 
+dificuldade progressiva de realizar seus exercícios em 
+academia. Refere hipertensão arterial sistêmica e diabetes 
+melito há cinco anos, controlados com losartana e metformina. 
+Nega tabagismo e etilismo. Pai falecido de câncer de intestino 
+e mãe falecida por infarto agudo do miocárdio. Três filhos com 
+boa saúde. Ao exame clínico, apresenta-se descorado++/4+. 
+ 
+• Exames laboratoriais: 
+Hb: 7,5 g/dL 
+VCM: 108 fL 
+Leucócitos: 4.200/mm3 
+Neutrófilos: 2.100/mm3 
+Linfócitos: 1.680/mm3 
+Monócitos: 400/mm3 
+Eosinófilos: 20/mm3 
+Plaquetas: 152.000/mm3 
+Reticulócitos: 40.000/mm3 
+Presença de neutrófilos hipossegmentados e hipogranulares. 
+ 
+Em relação ao caso apresentado, o diagnóstico mais provável 
+para a anemia é: 
+ 
+(A) Síndrome mielodisplásica. 
+(B) Anemia megaloblástica. 
+(C) Deficiência de ferro. 
+(D) Anemia hemolítica. 
+##### 
+ 
+{13} 
+Paciente, 67 anos de idade, ex-tabagista de aprox. 40 anos-
+maço, com queixa de tosse seca há cerca de um mês. 
+Apresenta lesão pulmonar em lobo superior esquerdo visto em 
+tomografia de tórax realizada há um ano. Sem alterações ao 
+exame clínico. Há uma semana, procurou o pronto-socorro 
+com piora da tosse. A tomografia realizada nesta ocasião é 
+mostrada na imagem a seguir: 
+ 
+ 
+ 
+A próxima conduta mais adequada, neste caso, é: 
+ 
+(A) Ressecção do nódulo. 
+(B) Broncoscopia com biópsia. 
+(C) Ressonância magnética do tórax. 
+(D) Corticoide inalatório e broncodilatador.  
+##### 
+Texto para as questões de 14 a 16 
+ 
+Mulher, 58 anos de idade, em avaliação pré-operatória de 
+gastroduodenopancreatectomia por neoplasia de cabeça de 
+pâncreas. A cirurgia tem duração estimada de 8 horas, com 
+perda sanguínea estimada de 500 a 1.000 mL e está 
+programada para ser realizada em duas semanas. Tem 
+antecedente de hipertensão arterial sistêmica, diabetes melito 
+tipo 2, dislipidemia mista e tabagismo de 35 anos-maço. Foi 
+submetida à revascularização miocárdica com colocação de 
+stent farmacológico há 8 meses. Relata dispneia aos 
+moderados esforços. Nega angina, dispneia paroxística 
+noturna, ortopneia e edema de membros inferiores. Está em 
+uso 
+de 
+losartana, 
+anlodipino, 
+atenolol, 
+metformina, 
+dapagliflozina, rosuvastatina, Ácido Acetilsalicílico (AAS) e 
+clopidogrel. Exame clínico sem alterações. Eletrocardiograma 
+(ECG) com alteração de repolarização difusa. 
+ 
+{14} 
+Os riscos cardiovascular e do procedimento são, respectiva-
+mente: 
+ 
+(A) Moderado e moderado. 
+(B) Moderado e alto. 
+(C) Alto e moderado. 
+(D) Alto e alto. 
+##### 
+ 
+{15} 
+Os exames indicados no período perioperatório são: 
+ 
+(A) ECG e troponina nos primeiros dois dias após a cirurgia. 
+(B) Cintilografia de perfusão miocárdica antes da cirurgia. 
+(C) NT-pro-BNP nos três primeiros dias após a cirurgia. 
+(D) Ecocardiograma transtorácico em repouso antes da 
+cirurgia. 
+##### 
+ 
+{16} 
+Além da manutenção de rosuvastatina, losartana, anlodipino e 
+atenolol, deve-se 
+ 
+(A) manter AAS e clopidogrel. Suspender dapagliflozina 3 dias 
+antes do procedimento e metformina no dia do 
+procedimento. 
+(B) manter AAS e clopidogrel. Suspender dapagliflozina no dia 
+e metformina 3 dias antes do procedimento. 
+(C) suspender clopidogrel 5 dias antes do procedimento e 
+manter o AAS. Suspender dapagliflozina 3 dias antes e 
+metformina no dia do procedimento. 
+(D) suspender clopidogrel 5 dias antes do procedimento e 
+manter o AAS. Suspender dapagliflozina no dia e 
+metformina 3 dias antes do procedimento. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Clínica Médica – PROVA AA1 
+{17} 
+Homem, 58 anos de idade, com diagnóstico recente de COVID-19, não vacinado. Tem insuficiência venosa e pré-diabetes e faz 
+uso de metformina e furosemida quando nota piora do inchaço nas pernas. Há seis dias, relata episódios de desmaio, precedidos 
+por mal-estar inespecífico. Para COVID-19, faz uso de ondansetrona, tramadol, azitromicina e hidroxicloroquina. Ao exame clínico, 
+apresenat PA de 100×60 mmHg, FC de 110 bpm, SpO2 de 95% e temperatura de 37,4 °C. Ausculta cardiopulmonar sem alterações. 
+Dermatite ocre e edema simétrico +/4+ em membros inferiores. O ECG está apresentado a seguir: 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que apresenta o diagnóstico mais provável da queixa de seis dias. 
+ 
+(A) Síncope neurogênica. 
+(B) Torsades de Pointes. 
+(C) Arritmia ventricular por miocardite. 
+(D) Disautonomia relacionada à Covid-19. 
+#####
+ 
+{18} 
+Homem, 48 anos de idade, previamente hígido, há 6 meses 
+recebeu diagnóstico de insuficiência cardíaca com fração de 
+ejeção reduzida (32%), de etiologia alcoólica e iniciou 
+tratamento clínico. Compareceu à consulta médica relatando 
+múltiplos episódios de hipotensão sintomática (90×50 mmHg) 
+que correlacionou ao aumento recente da dose de enalapril 
+para 20 mg 2x ao dia. Está abstêmio, em classe funcional II, 
+em uso, além do enalapril, de espironolactona 12,5 mg 1x ao 
+dia, carvedilol 6,25 mg 2x ao dia e furosemida 80 mg 1x ao 
+dia. Assinale a alternativa que apresenta a conduta mais 
+adequada para este paciente. 
+ 
+(A) Suspender a espironolactona. 
+(B) Transicionar carvedilol para ivabradina. 
+(C) Reduzir a dose do enalapril. 
+(D) Reduzir a dose de furosemida. 
+##### 
+ 
+{19} 
+Homem, 25 anos de idade, previamente hígido, é admitido no 
+pronto-socorro após ingestão intencional de 35 g de 
+paracetamol, durante uma tentativa de suicídio, há quatro 
+horas. Está consciente, com PA de 120×80 mmHg, FC de  
+95 bpm, sem alterações neurológicas. A conduta mais 
+adequada é: 
+ 
+(A) Hemodiálise precoce. 
+(B) Acetilcisteína e carvão ativado. 
+(C) Dosagem sérica seriada de paracetamol.  
+(D) Dosagem seriada de AST/ALT. ##### 
+ 
+{20} 
+Mulher, 19 anos de idade, com diagnóstico de diabetes melito 
+tipo 1 há cinco anos. É trazida no pronto-socorro, onde foi 
+realizado diagnóstico de cetoacidose diabética. Exames 
+iniciais apresentaram:  
+ 
+Glicemia capilar: 550 mg/dL 
+pH: 7,10 
+HCO3-: 8 mEq/L 
+Na+: 130 mEq/L 
+K+: 5,8 mEq/L 
+Ur: 60 mg/dL 
+Cr: 1,5 mg/dL 
+Cetonas séricas: +++/4+ 
+ 
+Foi 
+iniciada 
+hidratação 
+venosa 
+com 
+NaC, 
+0,9% 
+e 
+insulinoterapia intravenosa contínua (0,1 U/kg/h). Após quatro 
+horas de tratamento, a paciente está mais alerta, a glicemia é 
+de 240 mg/dL, e os novos exames mostram:  
+ 
+pH: 7,25 
+HCO3-: 15 mEq/L 
+K+: 3,5 mEq/L 
+ 
+A próxima conduta mais adequada é: 
+ 
+(A) Manter a infusão de insulina e adicionar solução glicosada.  
+(B) Administrar cloreto de potássio na solução de hidratação 
+venosa. 
+(C) Aumentar a taxa de infusão da solução salina isotônica. 
+(D) Trocar a insulina por NPH subcutânea e oferecer dieta. 
+##### 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Clínica Médica – PROVA AA1 
+Texto para as questões de 21 a 23 
+ 
+Homem, 30 anos de idade, relata tosse e febre. Ao exame 
+clínico, encontra-se confuso, com FR de 30 irpm e SpO2 de 
+85%, em ar ambiente. Iniciada máscara não reinalante em 
+flush rate e paciente manteve esforço respiratório com SpO2 
+de 87%, com FR de 35 irpm, FC de 120 bpm e PA de  
+100×60 mmHg. A radiografia de tórax é apresentada na 
+imagem a seguir: 
+ 
+ 
+ 
+{21} 
+Em relação ao caso descrito, a conduta mais adequada na 
+intubação orotraqueal deste paciente é: 
+ 
+(A) Intubação com paciente acordado. 
+(B) Realizar resgate com máscara laríngea. 
+(C) Pré-oxigenação com ventilação não invasiva. 
+(D) Pré oxigenação e intubação com ventilação apneica com 
+cateter nasal de alto fluxo. 
+##### 
+ 
+{22} 
+Paciente no segundo dia de ventilação mecânica, em modo 
+volume controlado, com volume corrente de 7 mL/kg, PEEP de 
+10 cmH2O, pressão de platô de 27 cmH2O, pressão de pico 
+de 33 cmH2O, FR de 30 irpm, FiO2 de 70%, apresenta a 
+seguinte gasometria: 
+ 
+pH: 7,19 
+PaCO2: 55 mmHg 
+PaO2: 112 mmHg 
+HCO3-: 19 mEq/L 
+BE: -5  
+ 
+Neste momento, a conduta mais adequada é: 
+ 
+(A) Aumentar a PEEP. 
+(B) Bicarbonato de sódio 1 mEq/kg. 
+(C) Reduzir volume corrente. 
+(D) Reduzir o espaço morto do circuito. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+{23} 
+No quarto dia de ventilação mecânica, o paciente está sedado 
+com propofol 1,4 mg/kg/h e fentanil 2 µg/kg/h, e em uso de 
+bloqueio neuromuscular com cisatracúrio 0,12 mg/kg/h. 
+Apresenta PaO2 de 76 mmHg, ventilando em modo volume 
+controlado com volume corrente de 6 mL/kg, PEEP de  
+10 cmH2O, pressão de platô de 22 cmH2O e FiO2 de 45%. No 
+momento da avaliação, paciente apresenta pontuação na 
+Behavior Pain Scale – BPS de 3 e a capnografia apresentada 
+na imagem a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a conduta mais 
+adequada. 
+ 
+(A) Manter sedação titulada para RASS -5. 
+(B) Aumentar dose de opioide. 
+(C) Suspender bloqueio neuromuscular. 
+(D) Realizar teste de respiração espontânea. 
+##### 
+ 
+{24} 
+Homem, 52 anos de idade, com hipertensão arterial mal 
+controlada e histórico de infarto agudo do miocárdio há um 
+ano, em uso de AAS 100 mg e enalapril 10 mg ao dia. Trazido 
+para a emergência com relato de síncope e queda da própria 
+altura. Realizou a tomografia de crânio apresentada a seguir: 
+ 
+ 
+ 
+Em relação ao caso apresentado, a próxima conduta mais 
+adequada é:  
+ 
+(A) Angiotomografia arterial. 
+(B) Fenitoína endovenosa.  
+(C) Transfusão de plaquetas.  
+(D) Drenagem de hematoma intracraniano. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Clínica Médica – PROVA AA1 
+{25} 
+Mulher, 47 anos de idade, vegana, com sangramento genital 
+há 15 dias e febre há dois dias. Nega doenças prévias. Exame 
+clínico: regular estado geral, descorada++/4+, temperatura 
+axilar de 38 °C, orofaringe hiperemiada e com petéquias em 
+palato, fígado a 2 cm do rebordo cost

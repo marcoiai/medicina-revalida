@@ -1,0 +1,36 @@
+import os
+import json
+from pathlib import Path
+import google.generativeai as genai
+
+genai.configure(api_key=os.getenv("AIzaSyB5Aog_zjnaL8nM3A9aUieIc3veQ1Y-9Is"))
+
+model = genai.GenerativeModel("gemini-2.5-flash")
+
+batch_dir = Path("storage/imports/json/ai_batches")
+output = Path("storage/imports/questions.json")
+
+all_questions = []
+
+for file in batch_dir.glob("*.prompt.txt"):
+    prompt = file.read_text()
+
+    print("Processando", file.name)
+
+    response = model.generate_content(prompt)
+
+    txt = response.text.strip()
+
+    if txt.startswith("```json"):
+        txt = txt.replace("```json", "").replace("```", "").strip()
+
+    data = json.loads(txt)
+
+    all_questions.extend(data)
+
+output.write_text(
+    json.dumps(all_questions, ensure_ascii=False, indent=2),
+    encoding="utf-8"
+)
+
+print("Salvo:", output)

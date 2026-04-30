@@ -1,0 +1,333 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+o por elas. 
+(B) Na relação psicoterapêutica, o paciente deve receber 
+orientações e regras do profissional, já que este possui 
+arcabouço teórico educativo para compartilhar. Inclusive, 
+os sonhos podem ser um recurso valioso de interpretação 
+do psicoterapeuta para auxiliar o paciente. 
+(C) Se a interpretação unilateral do psicoterapeuta estiver 
+apenas concordando com alguma teoria ou opinião 
+preconcebida, o eventual assentimento do paciente, ou um 
+certo êxito terapêutico, estarão essencialmente baseados 
+na sugestão, e poderão ser puramente ilusórios. 
+(D) Do ponto de vista do amadurecimento da personalidade, 
+o trabalho analítico situa-se em plano semelhante ao da 
+sugestão, como uma espécie de recurso psíquico atuando 
+no paciente. Assim, os complexos podem vir à tona e 
+serem trabalhados. 
+##### 
+ 
+{10} 
+No curto artigo “Algumas observações sobre o conceito de 
+inconsciente na psicanálise” (1912), Freud busca distinguir 
+uma noção mais geral de “inconsciente” de uma compreensão 
+mais específica e peculiar à psicanálise. Ele nota como é bem 
+comum que certas ideias, ou outros processos psíquicos, 
+podem estar acessíveis à consciência, ou momentaneamente 
+indisponíveis a essa. Ou seja, uma primeira distinção entre 
+“consciente” e “inconsciente” diz respeito apenas ao fato de 
+certas atividades mentais estarem presentes ou ausentes de 
+nossa percepção imediata. No entanto, há um segundo grupo 
+de fenômenos e atividades anímicas que, apesar de também 
+estarem indisponíveis à consciência imediata, possuem uma 
+qualidade especial: “são prenhes de sentido e eficientes na 
+produção de efeitos e consequências importantes em nossas 
+vidas, moldando-as e estruturando-as”. Freud aqui está 
+fazendo uma distinção: 
+ 
+(A) No primeiro caso, está aludindo ao chamado inconsciente 
+dinâmico; no segundo caso, ao processo secundário.  
+(B) No primeiro caso, está aludindo ao chamado inconsciente 
+descritivo; no segundo caso, ao inconsciente dinâmico. 
+(C) No primeiro caso, está aludindo ao inconsciente; no 
+segundo, aos processos primário e secundário. 
+(D) No primeiro caso, está aludindo ao chamado inconsciente 
+dinâmico; no segundo caso, ao inconsciente descritivo. 
+##### 
+ 
+{11} 
+São marcas das terapias analítico-comportamentais (clínica 
+analítico-comportamental): 
+ 
+(A) Trabalhar self, subjetividade e comportamento simbólico. 
+(B) Usar técnicas da terapia cognitiva para tratar distorções 
+cognitivas. 
+(C) Escolher a técnica terapêutica com base no diagnóstico 
+psiquiátrico. 
+(D) Ser predominantemente baseada em orientações sobre 
+mudanças de comportamentos. 
+##### 
+ 
+{12} 
+Na psicologia analítica de Carl Gustav Jung, o processo de 
+individuação é um dos conceitos fundamentais relacionado ao 
+desenvolvimento psíquico ao longo da vida. Sobre esse 
+processo, assinale a alternativa correta. 
+ 
+(A) A individuação, em última instância, objetiva a dissolução 
+do ego, permitindo que o self assuma integralmente o 
+controle da psique. 
+(B) A individuação requer a integração de opostos psíquicos, 
+com o ego exercendo uma função mediadora em relação 
+ao self. 
+(C) O sujeito individuado abandona completamente as normas 
+culturais e sociais, seguindo seus impulsos internos e 
+simbólicos. 
+(D) O processo de individuação ocorre plenamente na 
+juventude, quando o ego está mais flexível e receptivo ao 
+inconsciente. 
+##### 
+ 
+{13} 
+Sobre a função compensatória da psique, assinale a 
+alternativa INCORRETA. 
+ 
+(A) A função compensatória define o tipo de personalidade 
+que a pessoa apresenta em sua vida cotidiana. Ela é uma 
+função exclusiva dos introvertidos. 
+(B) O tipo extrovertido é sempre tentado a desfazer-se de si 
+mesmo, em benefício (aparentemente) do objeto. É de se 
+esperar que a atitude compensatória do inconsciente seja 
+valorizar o sujeito. 
+(C) A função compensatória faz parte do equilíbrio psíquico. 
+Jung ao elaborar este conceito fala que tal fato já foi tema 
+de inúmeros pensadores ou “homens perspicazes” que 
+atribuíram diferentes nomes ao que viam. (Cita Goethe e 
+sua percepção de um movimento sistólico em oposição ao 
+diastólico como expressões de um ritmo de vida.) 
+(D) Quando 
+as 
+tendências 
+inconscientes 
+não 
+obtém 
+reconhecimento pela consciência, elas podem assumir um 
+caráter destrutivo e deixam de ser compensatórias. 
+##### 
+ 
+{14} 
+São aspectos técnicos próprios da PDB (Psicoterapia 
+Dinâmica Breve): 
+ 
+(A) A observação de que o tratamento terá um começo, um 
+meio e um fim, sendo este variável de acordo com a 
+presença ou manutenção dos sintomas. 
+(B) Em função de ser um processo curto, deve-se impedir o 
+estabelecimento da transferência e da contratransferência. 
+(C) O estabelecimento de uma questão central, o foco, é 
+prioritária e construída teoricamente pelo terapeuta. 
+(D) A interpretação seletiva, a atenção seletiva e a negligência 
+seletiva. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psicoterapia – PROVA A28 
+{15} 
+Considerando as frases atribuídas a Jung a respeito da 
+psique, assinale a alternativa INCORRETA. 
+ 
+(A) A individuação significa precisamente a realização melhor 
+e mais completa das qualidades coletivas do ser humano; 
+é a consideração adequada e não o esquecimento das 
+peculiaridades individuais, o fator determinante de um 
+melhor rendimento social. 
+(B) Individuação significa tornar-se um ser único, na medida 
+em 
+que 
+por 
+“individualidade” entendermos 
+nossa 
+singularidade 
+mais 
+íntima, 
+última 
+e 
+incomparável, 
+significando também que nos tornamos o nosso próprio si-
+mesmo. Podemos, pois, traduzir “individuação” como 
+“tornar-se si-mesmo” ou “o realizar-se do si-mesmo”. 
+(C) Enquanto os conteúdos do inconsciente pessoal são 
+sentidos como fazendo parte da própria alma do indivíduo, 
+os conteúdos do inconsciente coletivo parecem estranhos 
+e como que vindos de fora. A reintegração de um 
+complexo pessoal produz um efeito de alívio ou, 
+frequentemente, até mesmo a cura, ao passo que a 
+irrupção de um complexo do inconsciente coletivo é um 
+fenômeno 
+profundamente 
+desagradável 
+e 
+mesmo 
+perigoso.  
+(D) Uma camada mais ou menos superficial do inconsciente é 
+indubitavelmente 
+pessoal. 
+Nós 
+a 
+denominamos 
+inconsciente pessoal. Este, porém, repousa sobre uma 
+camada mais profunda, que já não tem sua origem em 
+experiências ou aquisições pessoais, sendo inata. Esta 
+camada mais profunda é o que chamamos inconsciente 
+profundo.  
+##### 
+ 
+{16} 
+A respeito das supervisões em psicanálise ou em 
+psicoterapias analiticamente orientadas, qual das alternativas 
+a seguir NÃO está correta? 
+ 
+(A) Trata-se de uma prática que surgiu espontaneamente 
+dentro da história desse ofício, a saber, a necessidade de 
+franquear a um colega de confiança os desafios, 
+conquistas, dificuldades e frustrações da vida clínica. Um 
+marco relevante em sua trajetória foi a criação da 
+Policlínica de Berlim em 1920, que oferecia atendimentos 
+psicanalíticos gratuitos à população como um todo. Nesse 
+contexto, a supervisão foi institucionalizada, e passou a 
+fazer parte da formação oficial daqueles que atendiam 
+nessa instituição. 
+(B) Segue as premissas da supervisão médica, nas quais o 
+encontro clínico deve ser objetivado da forma mais precisa 
+e fidedigna possível por meio de transcrições ou até 
+mesmo gravações de uma sessão. A seguir, os 
+supervisores poderão comentar, corrigir e adequar as 
+ações do aluno em treinamento para que este possa 
+transmiti-las de volta aos seus pacientes. 
+(C) É considerada um dos pilares do tripé da formação 
+psicanalítica, ao lado da análise pessoal do próprio 
+praticante e dos estudos teóricos regulares sobre temas 
+diversos. 
+(D) Uma de suas funções é sublinhar o fato de que o 
+supervisionando não atende seus pacientes como um 
+observador que está “de fora”, mas que participa 
+ativamente dos fenômenos observados. A partir dessa 
+premissa, tenta-se pensar sobre como a nossa própria 
+resposta 
+inconsciente 
+aos 
+pacientes 
+tem 
+papel 
+fundamental no desenrolar do processo analítico. 
+##### 
+{17} 
+Como foco principal, a Psicoterapia Analítico-Funcional (FAP, 
+do inglês Functional Analytic Psychotherapy): 
+ 
+(A) Opera através do reforçamento diferencial de outras 
+respostas, reduzindo a frequência de comportamentos 
+desadaptativos. 
+(B) Trabalha a relação terapêutica para permitir que as 
+técnicas psicoterápicas possam ser aplicadas. 
+(C) Tem a terapia Rogeriana como principal influência externa 
+à análise do comportamento. 
+(D) Trabalha sobre verbalizações com funções “ocultas”, 
+análogas aos atos falhos e mecanismos de defesa 
+Freudianos. 
+##### 
+ 
+{18} 
+Para a Terapia de Aceitação e Compromisso (ACT, do inglês 
+Acceptance and Commitment Therapy): 
+ 
+(A) O compromisso com valores culturalmente compartilhados 
+promove adaptação social. 
+(B) Uma 
+boa 
+conceitualização 
+do 
+passado 
+permite 
+planejamento mais preciso de um futuro desejável. 
+(C) A busca de autoconhecimento é a base para um self bem 
+definido e conceitualizado. 
+(D) A aceitação de pensamentos indesejáveis produz 
+desfusão cognitiva e flexibilidade psicológica. 
+##### 
+ 
+{19} 
+A Psicoterapia Dinâmica Breve de Orientação Psicanalítica 
+pode ser entendida como: 
+ 
+(A) Uma forma de psicoterapia curta e superficial que usa a 
+teoria e a técnica psicanalítica.  
+(B) Uma forma de psicoterapia que se apoia prioritariamente 
+na realidade em detrimento da fantasia inconsciente. 
+(C) Uma forma de psicoterapia que tem como ponto central 
+ser estruturada a partir da experiência humana de tempo. 
+(D) Uma forma de psicoterapia que prioriza a remoção dos 
+sintomas. 
+##### 
+ 
+{20} 
+Numa dramatização com um paciente com características 
+psicóticas, 
+que 
+durante 
+a 
+dramatização 
+encontra-se 
+angustiado, confuso, como se estivesse naquele momento em 
+contato com material de não-identidade, qual seria a técnica 
+psicodramática mais apropriada a ser utilizada pelo diretor?  
+ 
+(A) Concretização. 
+(B) Duplo. 
+(C) Onirodrama. 
+(D) Jornal vivo. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+v2
+

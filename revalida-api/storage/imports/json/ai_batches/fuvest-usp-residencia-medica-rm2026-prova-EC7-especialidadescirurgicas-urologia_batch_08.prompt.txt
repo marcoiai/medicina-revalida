@@ -1,0 +1,384 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ Diagnóstico duvidoso – o FTA-ABS pode ser falso-positivo por reação cruzada com doenças virais. 
+(D) Resposta imunológica esperada – o VDRL caiu adequadamente e o FTA-ABS pode permanecer reagente.  
+#####
+
+
+--- PAGE 25 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Urologia – PROVA EC7 
+{97} 
+Paciente com histórico de múltiplos episódios de cálculo renal 
+desde os 25 anos, procura acompanhamento urológico após 
+passar por nutricionista especializada em nefrolitíase. 
+Algumas orientações dietéticas foram sugeridas antes mesmo 
+da avaliação metabólica completa. Com base nas evidências 
+atuais sobre prevenção de litíase renal, assinale a alternativa 
+correta. 
+ 
+(A) A ingestão adequada de cálcio alimentar, é recomendada, 
+pois 
+reduz 
+a 
+absorção 
+intestinal 
+de 
+oxalato 
+e, 
+consequentemente, o risco de formação de cálculos de 
+oxalato de cálcio. 
+(B) Suplementação de citrato de potássio deve ser iniciada 
+empiricamente em todos os pacientes com cálculos de 
+repetição, independentemente da avaliação metabólica ou 
+pH urinário. 
+(C) A restrição completa de frutas cítricas, especialmente 
+laranja e limão, é indicada devido à sua acidez e potencial 
+de acidificação urinária. 
+(D) A ingestão de cálcio deve ser minimizada sempre que 
+possível, pois mesmo fontes alimentares aumentam 
+diretamente a excreção urinária de cálcio. 
+##### 
+ 
+{98} 
+Mulher, 34 anos de idade, procura o pronto-socorro com dor 
+lombar esquerda em cólica, intensa, associada a náuseas. 
+Relata escurecimento da urina. Ao exame físico, está afebril, 
+hemodinamicamente estável, com sinal de Giordano positivo 
+à esquerda. Nega episódios semelhantes anteriores. Suspeita 
+inicial de cólica nefrética. Diante desse quadro clínico, após 
+iniciar analgésicos e antieméticos via parenteral, qual é a 
+conduta mais adequada?  
+ 
+(A) Solicitar 
+exames 
+séricos, 
+urinários, 
+e 
+iniciar 
+antibioticoterapia empírica. 
+(B) Solicitar ressonância magnética de abdome e pelve para 
+identificação de calculose urinária. 
+(C) Solicitar raio-X simples e ultrassonografia de abdome que 
+apresentam a mesma sensibilidade da tomografia, mas 
+com menor custo. 
+(D) Solicitar 
+exames 
+séricos, 
+urinários, 
+e 
+tomografia 
+computadorizada de abdome e pelve sem contraste. 
+##### 
+ 
+{99} 
+Homem, 39 anos de idade, mestre de obras, comparece ao 
+pronto-socorro queixando-se que apresentou dois episódios de 
+hematúria nos últimos dias. Perguntado sobre os antecedentes, 
+ele referiu ter caído de um andaime, cerca de três metros de 
+altura, em pé, há 4 dias. Foi atendido em um pronto-socorro e 
+tratado uma fratura no pé esquerdo com imobilização. Desde 
+então, também tem apresentado dor lombar ipsilateral à fratura 
+e está usando analgésicos comuns. Foi indicada tomografia 
+contrastada de abdome, que mostrou rim direito normal e 
+exclusão renal completa à esquerda. Diante desse achado, 
+assinale a alternativa que apresenta o melhor diagnóstico e a 
+conduta recomendada, respectivamente. 
+ 
+(A) Trombose de veia renal esquerda; nefrectomia esquerda. 
+(B) Trombose de artéria renal esquerda; observação clínica. 
+(C) Trombose 
+de 
+artéria 
+renal 
+esquerda; 
+trombólise 
+medicamentosa. 
+(D) Lesão do pedículo renal esquerdo; revascularização renal 
+ou angioplastia com stent. ##### 
+{100} 
+Homem, 66 anos de idade, tabagista com carga tabágica de 
+70 anos-maço, hipertenso em uso de atenolol e enalapril, 
+dislipidêmico em uso de atorvastatina, e diabetes melito tipo 2 
+controlado com metformina e empagliflozina, procura 
+atendimento por quadro de hematúria macroscópica terminal 
+e indolor há 10 dias. Nega dor, febre ou perda de peso. Foi 
+submetido à ultrassonografia de rins e vias urinárias, que 
+evidenciou lesão sólida em parede lateral da bexiga, com 
+cerca de 6 cm, apresentando vascularização ao Doppler. 
+Realizou ressonância magnética da pelve, cujo laudo 
+descreveu lesão vegetante de 7 cm em parede lateral 
+esquerda da bexiga, classificada como VI-RADS 4, sem 
+linfonodos pélvicos suspeitos e sem hidronefrose, conforme 
+imagem a seguir: 
+ 
+ 
+ 
+Com base no quadro clínico e nos achados de imagem 
+apresentados, assinale a alternativa que indica a conduta 
+inicial recomendada. 
+ 
+(A) Sendo VIRADS 4, paciente necessita de quimioterapia 
+neoadjuvante 
+baseada em 
+cisplatina, 
+seguida 
+de 
+cistoprostatectomia. 
+(B) Paciente necessita cistoprostatectomia robô assistida 
+upfront e quimioterapia adjuvante baseada em cisplatina. 
+(C) Paciente necessita de quimioterapia baseada em 
+cisplatina, seguida de consolidação com radioterapia, 
+protocolo de preservação vesical. 
+(D) Paciente necessita de ressecção transuretral de bexiga 
+(RTUb) e o resultado anatomopatológico definirá as 
+próximas condutas. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 26 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Urologia – PROVA EC7 
+Texto para as questões 101 e 102 
+ 
+Mulher, 37 anos de idade, vítima de acidente moto x auto há  
+7 anos, apresentando trauma raquimedular com lesão em 
+nível C3-C6 e necessidade de artrodese de coluna na época 
+do acidente, com tetraplegia completa. Apresenta-se em 
+consulta com queixa de perdas urinárias, com necessidade 
+de uso de fraldas contínuas, com grande volume (cerca de  
+7 fraldas/dia). Episódios de infecção urinária de difícil manejo 
+clínico. Exame de urina sempre alterado. 
+ 
+{101} 
+Qual o padrão vesical mais comum, esperado nesse caso? 
+ 
+(A) Presença de hiperatividade detrusora, com déficit 
+miccional devido à incoordenação no relaxamento 
+esfincteriano. 
+(B) Presença de hiperatividade detrusora com aumento 
+significativo da capacidade vesical. 
+(C) Presença de hipotonia do esfíncter uretral, acarretando 
+perdas urinárias contínuas. 
+(D) Presença de hipotonia detrusora, com bexiga flácida de 
+grande capacidade, e perdas devido ao transbordamento. 
+##### 
+ 
+{102} 
+Baseado no padrão de vesical da paciente, assinale a 
+alternativa que apresenta o tratamento mais indicado. 
+ 
+(A) Ampliação vesical com íleo detubulizado. 
+(B) Derivação urinária incontinente com alça intestinal. 
+(C) Tratamento de incontinência urinária com sling uretral de 
+aponeurose do músculo reto abdominal. 
+(D) Realização de auto-cateterismo limpo intermitente com 
+sondas hidrofílicas. 
+##### 
+ 
+{103} 
+Mulher, 
+gestante 
+de 
+32 
+semanas, 
+apresenta 
+em 
+ultrassonografia obstétrica de rotina, que era “previamente 
+normal” (sic), o achado de hidronefrose moderada unilateral à 
+esquerda (pelve renal com diâmetro anteroposterior de  
+18 mm), com parênquima renal preservado, ausência de 
+dilatação ureteral e bexiga de aspecto normal com ciclos 
+normais. O líquido amniótico está em volume normal e a 
+vitalidade fetal é satisfatória. Exame morfológico fetal sem 
+outras alterações. Considerando as evidências atuais no 
+manejo da hidronefrose ante-natal, assinale a alternativa que 
+apresenta a conduta recomendada nesse caso. 
+ 
+(A) Programar antecipação do parto com reserva de UTI 
+neonatal 
+e 
+apoio 
+nefrológico, 
+antes 
+de 
+possível 
+agravamento da hidronefrose e risco de comprometimento 
+da função renal. 
+(B) Solicitar avaliação intrauterina por urologia fetal e análise 
+da 
+urina 
+fetal 
+para 
+discutir 
+derivação 
+urinária 
+vesicoamniótica, 
+dada 
+a 
+presença 
+de 
+dilatação 
+pielocalicinal significativa. 
+(C) Concluir o pré-natal normalmente, sem necessidade de 
+antecipar o parto, e realizar investigação pós-natal com 
+ultrassonografia entre o 3º e 7º dia de vida. 
+(D) Indicar 
+ressonância 
+magnética 
+materno-fetal 
+para 
+avaliação funcional renal e descartar risco iminente de 
+perda renal. 
+##### 
+{104} 
+ 
+Homem, 52 anos de idade, apresenta quadro de curvatura 
+peniana dorsal progressiva há 2 meses, associado a 
+encurtamento peniano. Nega dor. Refere redução da rigidez 
+peniana e perda de sustentação da ereção durante a última 
+relação sexual, embora mantenha ereções matinais e durante a 
+masturbação. Relata importante impacto psicológico e prejuízo 
+na função sexual. Leva fotografia obtida em ereção domiciliar, 
+evidenciando curvatura dorsal de aproximadamente 50°. Ao 
+exame físico, observa-se placa indolor na base do dorso 
+peniano. Nega comorbidades. Considerando a fase atual da 
+doença de Peyronie e as opções terapêuticas disponíveis, qual 
+é a conduta recomendada neste momento? 
+ 
+(A) Explicar o caráter benigno da doença e indicar cirurgia 
+imediata com implante peniano e ressecção da placa para 
+alongamento da haste, uma vez que a ausência de dor 
+caracteriza fase crônica. 
+(B) Prescrever vitamina E associada a antioxidantes, como 
+terapias específicas para impedir progressão da doença na 
+fase inicial, e planejar ondas de choque na fase crônica, 
+após 12 meses. 
+(C) Iniciar suporte clínico com inibidores da fosfodiesterase  
+tipo 5, orientar sobre a evolução natural da Doença de 
+Peyronie e esclarecer que a correção cirúrgica é reservada 
+para a fase crônica, após estabilização da curvatura. 
+(D) Solicitar 
+ressonância 
+magnética 
+com 
+contraste 
+e 
+ultrassonografia peniana com Doppler para confirmar o 
+diagnóstico e afastar neoplasia peniana oculta. 
+##### 
+ 
+{105} 
+Recém-nascido do sexo masculino, encaminhado à urologia 
+após achado pré-natal de agenesia do rim direito. A 
+ultrassonografia pós-natal confirma ausência do rim direito e 
+presença de rim esquerdo tópico e funcional. Ao exame físico, 
+nota-se ausência do testículo direito na bolsa escrotal, sendo 
+este palpável na região inguinal. Feita indicação cirúrgica de 
+orquidopexia, que foi realizada aos 9 meses de vida. Durante 
+o procedimento cirúrgico, observou-se testículo viável na 
+região inguinal direita, porém sem identificação do ducto 
+deferente ipsilateral. O epidídimo estava presente, e não havia 
+alterações significativas em vasos testiculares. Com base nos 
+achados clínicos e cirúrgicos, assinale a alternativa que 
+apresenta o diagnóstico mais provável. 
+ 
+(A) Síndrome de Zinner, considerando origem comum dos 
+ductos de Wolff. 
+(B) Lesão iatrogênica do ducto deferente - sem ducto 
+deferente, o epidídimo não teria se formado. 
+(C) Agenesia renal e ausência do deferente são achados 
+independentes, tendo origem nos ductos mesonéfricos e 
+ductos de Wolff respectivamente. 
+(D) Defeito de diferenciação dos ductos de Müller, sendo a 
+contrapartida 
+masculina 
+da 
+síndrome 
+de 
+Mayer-
+Rokitansky. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 27 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Urologia – PROVA EC7 
+{106} 
+Homem, 29 anos de idade, previamente saudável, com novo 
+relacionamento há 3 meses. Relata dificuldade de manter 
+ereção durante a colocação do preservativo, apesar de boa 
+resposta erétil em masturbação e relato de ereções noturnas 
+mantidas. Não traz dados hormonais. Refere ansiedade e 
+preocupação com desempenho. Em relação à melhor 
+hipótese diagnóstica e à conduta inicial, assinale a alternativa 
+correta. 
+ 
+(A) Disfunção erétil orgânica leve; iniciar testosterona injetável 
+por tempo limitado para melhora de rigidez peniana.  
+(B) Disfunção erétil psicogênica; orientar importância de 
+suporte psicoterápico. Considerar suporte com inibidores 
+da 5-fosfodiesterase com programação de retirada 
+gradual. 
+(C) Disfunção erétil psicogênica; solicitar ultrassom Doppler 
+peniano com indução farmacológica de ereção para 
+avaliação mais precisa de componente orgânico. 
+(D) Discutir cirurgia de implante peniano, visando tratamento 
+definitivo sem necessidade de medicações e restauração 
+da função penetrativa. 
+##### 
+ 
+{107} 
+Homem, 64 anos de idade, submetido à prostatectomia 
+radical há 6 meses, com preservação bilateral dos feixes 
+neurovasculares. Exame anatomopatológico revelou tumor 
+Gleason 6 (3+3), com margens livres, linfonodos negativos e 
+PSA indetectável no pós-operatório. Refere ausência completa 
+de ereções e que mantinha relações sexuais regulares e 
+satisfatórias antes da cirurgia. Exame 

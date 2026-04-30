@@ -1,0 +1,376 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+e crescimento nos meninos ocorre 
+tipicamente antes do desenvolvimento testicular superior a 
+4 mL, coincidindo com a adrenarca.  
+(B) O Hormônio de Crescimento (GH) exerce papel 
+fundamental no estirão, atuando de forma sinérgica com 
+os esteroides sexuais, especialmente por meio da indução 
+do IGF-1. 
+(C) O estirão puberal masculino geralmente se inicia no 
+estágio 2 de Tanner, sendo precipitado principalmente 
+pelo aumento da secreção de gonadotrofinas, com 
+consequente produção testicular de testosterona. 
+(D) Nas meninas, o início do estirão ocorre entre M3 e M4, 
+quando já há maturação gonadal. 
+##### 
+ 
+{48} 
+Menina de 11 anos de idade, previamente hígida, é admitida 
+no pronto-socorro com história de poliúria, polidipsia e perda 
+ponderal de 5 kg nos últimos 2 meses, além de vômitos e dor 
+abdominal nas últimas 24 horas. Ao exame físico, apresenta-
+se desidratada, taquipneica, com FC de 132 bpm, PA de 
+90×60 mmHg, glicemia capilar de 420 mg/dL. Gasometria 
+arterial: pH 7,12; bicarbonato 8 mEq/L; Potássio sérico:  
+4,1 mEq/L. A equipe inicia reposição volêmica com soro 
+fisiológico e insulina regular EV em bomba de infusão contínua 
+(0,1 U/kg/h). Após 6 horas, a glicemia atinge 230 mg/dL, 
+porém o pH permanece 7,20 e o bicarbonato 10 mEq/L. Qual 
+deve ser a próxima conduta? 
+ 
+(A) Acrescentar solução glicosada a 5 a 10%. 
+(B) Suspender insulina EV, iniciar insulina NPH subcutânea 
+associada à correção hídrica e realimentação precoce. 
+(C) Manter a mesma dose de insulina EV até normalização 
+completa do pH e bicarbonato, sem introduzir glicose para 
+evitar nova hiperglicemia. 
+(D) Administrar bicarbonato EV, uma vez que a acidose 
+metabólica não foi corrigida após 6 horas de tratamento. 
+##### 
+ 
+{49} 
+Assinale a alternativa que apresenta o conjunto de sintomas 
+mais compatíveis com a apresentação clínica da encefalite 
+autoimune. 
+ 
+(A) Febre de baixa intensidade, comportamento alterado, 
+crises convulsivas, déficits neurológicos progressivos e 
+sinais de disfunção autonômica, como taquicardia e 
+sudorese irregular. 
+(B) Febre elevada, dor de garganta, linfadenopatia dolorosa, 
+exantema maculopapular e dor articular generalizada. 
+(C) Dor abdominal difusa, icterícia, hepatomegalia, vômitos 
+persistentes e perda de peso não intencional. 
+(D) Fraqueza muscular proximal, diplopia, fadiga ocular, dor 
+nas articulações e erupções cutâneas em áreas 
+específicas. 
+##### 
+ 
+ 
+ 
+{50} 
+Menino de 4 anos de idade, é levado ao pronto-socorro com 
+queixas de febre alta há 2 dias, dor de cabeça intensa, rigidez 
+de nuca e vômitos. Seus pais relatam que ele esteve com um 
+quadro de resfriado comum há uma semana. Ao exame físico, 
+apresenta sinais de irritabilidade, fotofobia e sensibilidade à 
+movimentação do pescoço. Nenhuma alteração neurológica 
+focal foi observada. Com base no quadro, assinale a 
+alternativa que apresenta a hipótese diagnóstica mais 
+provável e a conduta inicial recomendada. 
+ 
+(A) Hemorragia intracraniana; realização de tomografia de 
+crânio de emergência. 
+(B) Encefalite viral; administração de corticosteroides e 
+repouso. 
+(C) Meningite bacteriana; início imediato de antibioticoterapia 
+intravenosa. 
+(D) Meningite viral; suporte clínico e observação, com exames 
+laboratoriais para confirmação. 
+##### 
+ 
+{51} 
+Lactente de 1 ano e três meses de vida, com antecedente de 
+prematuridade tardia – 34 semanas de IG e peso ao 
+nascimento de 1.850 g, sem intercorrências respiratórias 
+perinatais. Relata 4 episódios de sibilância nos últimos  
+9 meses, e uso de corticoide oral em duas ocasiões. A mãe 
+tem antecedente de asma. Assinale a alternativa correta com 
+relação ao diagnóstico e ao tratamento. 
+ 
+(A) Diante da prematuridade e alterações de desenvolvimento 
+alveolar associadas, está indicado tratamento dos 
+episódios de chiado com beta agonista de curta e 
+corticoide inalatório. 
+(B) Pode-se afirmar que a criança tem asma precoce e deve-
+se iniciar tratamento com a associação de montelukast e 
+tiotrópio. 
+(C) O tiotrópio está certamente indicado no esquema, diante 
+do antecedente de prematuridade reportado. 
+(D) O tratamento inicial deve incluir corticoide inalatório em 
+spray com uso de espaçador e máscara. 
+##### 
+ 
+{52} 
+Criança, 4 anos de idade, com histórico de febre até 40 °C há 
+três dias, associada à mialgia e cefaleia. Ao exame físico, 
+paciente apresenta exantema maculopapular em todo o 
+corpo, sem petéquias. Fígado doloroso e palpável a 5 cm do 
+rebordo costal direito. Auscultas pulmonar e cardíacas sem 
+alterações. Prova do laço negativo. Realizado NS1 reagente. 
+Com base no caso descrito, assinale a alternativa correta.  
+ 
+(A) Iniciar reposição volêmica imediata com 10 mL/kg de soro 
+fisiológico 0,9% na primeira hora. 
+(B) Deve-se coletar apenas hemograma e iniciar hidratação 
+oral até obter os resultados de exames. 
+(C) Hemograma, transaminases e dosagem de albumina 
+sérica são exames complementares obrigatórios. 
+(D) O paciente deve ser mantido internado por um período 
+mínimo de 48 horas.  
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 12 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Pediátricas – PROVA EPD 
+{53} 
+Paciente de 1 ano de idade, trazido pelos pais ao pronto-
+socorro devido à irritabilidade. À avaliação inicial, apresenta-
+se muito irritado, taquidispneico, com pele moteada. Foi 
+levado à sala de emergência e monitorizado. Apresentou FC 
+de 230 bpm, FR de 70 irpm, PA de 54×22 mmHg. Ao exame 
+físico, pulsos rápidos e finos, tempo de enchimento capilar de  
+5 segundos. Enquanto era monitorizado, a equipe de 
+enfermagem realizou tentativa de punção de acesso venoso, 
+sem sucesso. Documentado o ritmo conforme imagem a 
+seguir: 
+ 
+ 
+ 
+Com base no caso apresentado, assinale a alternativa que 
+indica a conduta correta neste momento. 
+ 
+(A) Tratando-se de um quadro de taquicardia supraventricular 
+instável, no momento sem acesso venoso, deve ser 
+realizada a cardioversão elétrica sincronizada na dose 
+inicial de 0,5 a 1 J/kg. 
+(B) Tratando-se de um quadro de taquicardia supraventricular 
+instável, no momento sem acesso venoso, deve ser 
+realizada a desfibrilação na dose inicial de 2 J/kg. 
+(C) Tratando-se de um quadro de taquicardia ventricular com 
+pulso, deve ser realizada desfibrilação na dose inicial de  
+2 J/kg. 
+(D) Tratando-se de um quadro de taquicardia supraventricular 
+instável, a prioridade é a realização de adenosina 
+endovenosa, então é necessário insistir na punção do 
+acesso venoso. 
+##### 
+ 
+{54} 
+Recém-nascido a termo, filho de mãe que não realizou pré-
+natal e sem diagnóstico antenatal de cardiopatia. No primeiro 
+dia de vida, apresenta sinais de baixo débito cardíaco, 
+saturação aferida em membro superior direito de 80% e em 
+membro inferior direito de 97%. Assinale a alternativa que 
+indica a cardiopatia mais provável e qual a conduta imediata 
+a ser realizada. 
+ 
+(A) Síndrome de hipoplasia do coração esquerdo com atresia 
+aórtica e atresia mitral; atriosseptostomia por cateter balão 
+(procedimento de Rashkind). 
+(B) Defeito do septo atrioventricular total balanceado; início de 
+alprostadil. 
+(C) Transposição das grandes artérias com comunicação 
+interventricular e interrupção de arco aórtico; início de 
+alprostadil. 
+(D) Atresia pulmonar com septo interventricular íntegro; 
+atriosseptostomia por cateter balão (procedimento de 
+Rashkind). 
+##### 
+Texto para as questões 55 e 56 
+ 
+Paciente de 3 anos de idade, com quadro clínico de 
+meningite, 
+realiza 
+coleta 
+de 
+líquor, 
+que 
+evidenciou 
+celularidade com 2.698/mm3 (80% neutrófilos), glicose de  
+25 mg/dL (glicemia capilar de 72 mg/dL), proteína de  
+60 mg/dL. Bacterioscopia com presença de cocos Gram-
+positivos. Resultado de cultura evidenciou Streptococcus 
+pneumoniae com MIC para penicilina ≥ 0.12 µg/mL 
+(resistente) e MIC para ceftriaxona ≤ 0,5 µg/mL (sensível). 
+ 
+{55} 
+Diante do resultado da cultura, qual o tratamento de escolha? 
+ 
+(A) Ceftriaxone. 
+(B) Vancomicina. 
+(C) Ceftriaxone e vancomicina. 
+(D) Dexametasona, ceftriaxone e oxacilina. 
+##### 
+ 
+{56} 
+Caso o resultado da MIC para ceftriaxona fosse ≥ 1,0 µg/mL 
+(resistente), qual seria o tratamento indicado? 
+ 
+(A) Ceftriaxone. 
+(B) Vancomicina. 
+(C) Ceftriaxone e vancomicina. 
+(D) Dexametasona, ceftriaxone e oxacilina. 
+##### 
+ 
+{57} 
+Assinale a alternativa que apresenta três indicações para a 
+vacina adsorvida difteria, tétano e coqueluche acelular. 
+ 
+(A) Episódio 
+hipotônico-hiporresponsivo 
+nas 
+primeiras  
+48 horas após a vacinação, bebês com peso menor de 
+2.000 g ao nascimento, asplenia anatômica ou funcional. 
+(B) Transplantados de órgãos sólidos, transplantados de 
+células-tronco hematopoiéticas, pacientes vivendo com 
+HIV/AIDS.  
+(C) Pneumopatias crônicas com risco de descompensação 
+em vigência de febre, fístula liquórica e derivação 
+ventrículo-peritoneal, hemoglobinopatias. 
+(D) Doença convulsiva crônica, convulsão febril ou afebril nas 
+primeiras 72 horas após a vacinação, cardiopatias 
+crônicas com risco de descompensação em vigência de 
+febre. 
+##### 
+ 
+{58} 
+Recém-nascido, com 48 horas de vida e Apgar 6 / 8, nasceu 
+com idade gestacional de 31 semanas e 4 dias e peso de 
+1.400 g. Apresenta-se clinicamente estável, com abdome 
+flácido e sem resíduo gástrico. A melhor conduta com relação 
+à alimentação é: 
+ 
+(A) Leite da própria mãe por sonda orogástrica. 
+(B) Leite da própria mãe por sucção. 
+(C) Aleitamento materno ao seio. 
+(D) Fórmula para prematuros por sonda orogástrica. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 13 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Pediátricas – PROVA EPD 
+Texto para as questões 59 e 60 
+ 
+Adolescente, 16 anos de idade, com síndrome nefrótica, comparece ao pronto atendimento com dor torácica e dispneia súbita. Ao 
+exame físico, apresenta SpO2 de 80%, FC de 130 bpm, PA de 80×60 mmHg, taquidispneica, sem sinais de congestão periférica. 
+Foi realizado o eletrocardiograma apresentado a seguir: 
+ 
+ 
+ 
+{59} 
+Considerando o quadro clínico apresentado, o achado eletrocardiográfico e a principal hipótese diagnóstica, assinale a alternativa 
+que apresenta a imagem do Ultrassom Point-of-Care (POCUS) mais compatível com o diagnóstico da intercorrência. 
+ 
+(A) 
+ 
+(C) 
+ 
+(B) 
+ 
+(D) 
+ 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 14 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Pediátricas – PROVA EPD 
+{60} 
+Assinale a alternativa que mostra a posição que o probe 
+deveria ser colocado para obtenção correta da imagem por 
+POCUS. 
+ 
+ 
+ 
+(A) Posição A. 
+(B) Posição B. 
+(C) Posição C. 
+(D) Posição D. 
+##### 
+ 
+{61} 
+Menino, 5 anos de idade, portador de cirrose avançada de 
+etiologia indeterminada e hipertensão portal, comparece ao 
+pronto-socorro por aumento do volume abdominal associado 
+à febre e dor abdominal difusa. 
+ 
+• Exames laboratoriais: 
+Hb: 8 g/dL 
+Ht: 24% 
+Leucócitos: 1.800/mm³ (80% neutrófilos, 10% bastonetes) 
+Plaquetas: 52.000/mm³ 
+Coagulograma: INR 2,0 
+ 
+Foi realizado exame de imagem do abdome, na região do 
+quadrante inferior esquerdo, conforme imagem a seguir: 
+ 
+ 
+ 
+Considerando os achados, em relação à realização de 
+paracentese diagnóstica, assinale a alternativa correta. 
+ 
+(A) Pode ser realizada apenas após transfusão de plasma. 
+(B) Pode ser realizada apenas após transfusão de plaquetas. 
+(C) Não há contraindicações para a sua realização no 
+momento. 
+(D) Está contraindicada devido à ausência de líquido 
+suficiente. 
+##### 
+{62} 
+O principal fator que indica melhor prognóstico na Leucemia 
+Linfoide Aguda (LLA) é: 
+ 
+(A) Fenótipo T. 
+(B) Idade menor que 1 ano ou maior que 10 anos. 
+(C) Leucometria ao diagnóstico < 50.000. 
+(D) Velocidade de resposta ao corticoide. 
+##### 
+ 
+{63} 
+Recém-nascido, 10 dias de vida, apresenta vômitos biliosos, 
+letargia, hipotonia e dificuldade de se alimentar. A mãe relata 
+que o bebê também apresentou episódios de respiração 
+rápida e odor peculiar na urina. O exame físico revela 
+hepatomegalia discr

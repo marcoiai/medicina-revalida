@@ -1,0 +1,387 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+gressiva de creatinina (de 1,1 para 2,5 mg/dL), 
+sem choque ou uso de diuréticos. Sódio urinário < 10 mEq/L. 
+Ausência de melhora após 2 dias de hidratação. Qual a melhor 
+conduta neste caso? 
+ 
+(A) Diálise. 
+(B) Iniciar noradrenalina. 
+(C) Iniciar terlipressina e albumina. 
+(D) Corticoide intravenoso e antibióticos. 
+##### 
+ 
+{12} 
+Mulher, 36 anos de idade, com diagnóstico de retocolite 
+ulcerativa pancolônica há 5 anos, em uso regular de 
+mesalazina oral e retal, procura atendimento por quadro de 
+diarreia aquosa iniciada há cerca de 7 meses, mas com piora 
+na última semana, sem sangue ou muco, associada a cólicas 
+abdominais. Nega febre, vômitos, perda ponderal ou uso 
+recente de antibióticos. Refere boa adesão ao tratamento e 
+remissão clínica há 2 anos. Ao exame físico: sem dor à 
+palpação e sem sinais de desidratação. PCR normal, 
+calprotectina fecal 38 µg/g, PCR para C. difficile negativo. 
+Qual a hipótese diagnóstica mais provável? 
+ 
+(A) Atividade da retocolite ulcerativa. 
+(B) Diarreia funcional. 
+(C) Colite colagenosa associada à mesalazina. 
+(D) Superinfecção viral aguda. 
+##### 
+ 
+{13} 
+Mulher, 50 anos de idade, com colite ulcerativa, pancolite há 
+12 anos, em tratamento com imunobiológico, sem sintomas no 
+momento. Qual a recomendação quanto à vigilância para 
+câncer colorretal? 
+ 
+(A) Colonoscopia a cada 5 anos independentemente do 
+tempo de doença. 
+(B) Pesquisa de sangue oculto anual. 
+(C) Colonoscopia anual com cromoscopia. 
+(D) Colonoscopia a cada 1-3 anos, iniciando 8 anos após o 
+diagnóstico. 
+##### 
+ 
+ 
+ 
+ 
+ 
+{14} 
+Homem, 38 anos de idade, previamente hígido, realiza 
+exames de rotina que mostram elevação de ALT (145 U/L) e 
+AST (112 U/L), com GGT, fosfatase alcalina e bilirrubinas 
+normais. 
+Está 
+assintomático. 
+Nega 
+uso 
+de 
+álcool, 
+medicamentos ou suplementos. Exame físico normal. Assinale 
+a alternativa que apresenta a conduta inicial mais adequada. 
+ 
+(A) Iniciar ácido ursodesoxicólico empírico até solicitação de 
+novos exames. 
+(B) Solicitar sorologias para hepatites virais, ferritina, TSH e 
+autoanticorpos. 
+(C) Solicitar elastografia hepática para já afastar cirrose, já 
+que seria um diagnóstico mais grave. 
+(D) Solicitar 
+TC 
+de 
+abdome 
+para 
+afastar 
+alterações 
+morfológicas antes de pedir qualquer outro exame. 
+##### 
+ 
+{15} 
+Mulher, 27 anos de idade, previamente hígida, procura 
+atendimento por fadiga progressiva, náuseas e leve 
+desconforto abdominal há 3 semanas. Nega febre, uso de 
+medicamentos, álcool ou viagens recentes. Exame físico: 
+icterícia leve, fígado palpável a 2 cm do rebordo costal. 
+Exames laboratoriais: ALT 385 U/L, AST 412 U/L, bilirrubina 
+total 3,2 mg/dL, INR 1,3. Sorologias virais negativas. ANA 
+1:320 homogêneo, IgG sérica 2.130 mg/dL (elevada). 
+Antimúsculo 
+liso 
+e 
+antimitocôndria 
+não 
+reagentes. 
+Ultrassonografia sem alterações. Qual a conduta mais 
+adequada neste momento? 
+ 
+(A) Iniciar corticoide empírico e avaliar resposta. 
+(B) Solicitar elastografia hepática. 
+(C) Confirmar diagnóstico com biópsia hepática. 
+(D) Repetir enzimas hepáticas em 4 semanas. 
+##### 
+ 
+{16} 
+Homem, 52 anos de idade, com histórico de Doença do 
+Refluxo Gastroesofágico (DRGE) há mais de 10 anos, em uso 
+irregular de inibidor de bomba de prótrons, procura avaliação 
+por pirose e regurgitação recorrentes. É submetido à 
+endoscopia digestiva alta, que mostra mucosa salmão acima 
+da linha Z, com biópsia confirmando metaplasia intestinal 
+especializada. 
+Sem 
+displasia. 
+Dentre 
+as 
+alternativas 
+apresentadas, assinale a conduta mais adequada neste caso. 
+ 
+(A) Alta do seguimento endoscópico por ausência de 
+displasia. 
+(B) Repetir endoscopia digestiva alta em 1 ano para 
+confirmação do diagnóstico. 
+(C) Realizar vigilância endoscópica a cada 3 anos. 
+(D) Iniciar ablação por radiofrequência. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Hepatologia – PROVA A07 
+{17} 
+Mulher, 35 anos de idade, com dispepsia funcional, realizou 
+tratamento para erradicação de Helicobacter pylori há  
+6 semanas. Ela deseja confirmar se a infecção foi realmente 
+eliminada, mas prefere um método não invasivo e que possa ser 
+realizado sem suspensão de medicações. Sobre a pesquisa de 
+antígeno fecal para H. pylori, assinale a alternativa correta. 
+ 
+(A) O teste de antígeno fecal é pouco sensível e não 
+recomendado para controle pós-tratamento. 
+(B) O teste pode ser realizado a qualquer momento após o 
+término do tratamento, sem necessidade de suspender 
+Inibidor de Bomba de Prótons (IBP). 
+(C) O teste de antígeno fecal é útil para diagnóstico e controle 
+da erradicação, mas deve ser realizado pelo menos  
+4 semanas após o término do tratamento e com suspensão 
+de IBP por 2 semanas. 
+(D) O teste de antígeno fecal detecta apenas anticorpos, e não 
+proteínas bacterianas. 
+##### 
+ 
+{18} 
+Homem, 50 anos de idade, com história de consumo diário de 
+bebidas alcoólicas há mais de 15 anos, comparece à consulta 
+de check-up. Refere ingestão de cerca de 5 latas de cerveja 
+(350 mL cada) por dia, sem sintomas gastrointestinais ou 
+hepáticos no momento. Exame físico revela apenas discreta 
+hepatomegalia. Exames laboratoriais: AST 45 U/L, ALT 38 U/L, 
+GGT 92 U/L. Ultrassonografia mostra esteatose hepática leve. 
+Considerando as diretrizes internacionais, a ingestão de álcool 
+desse paciente pode ser classificada como consumo 
+ 
+(A) leve, abaixo do limiar de risco. 
+(B) moderado, com risco apenas se houver comorbidades 
+hepáticas. 
+(C) crônico de alto risco, com risco aumentado para doença 
+hepática e cardiovascular. 
+(D) de baixo risco, dentro dos limites aceitáveis pela 
+Organização Mundial de Saúde (OMS). 
+##### 
+ 
+{19} 
+Homem, 43 anos de idade, em uso de anti-inflamatório não 
+hormonal, há 20 dias, devido à dor lombar, comparece ao 
+pronto-socorro com quadro de melena de aparecimento há 24 
+horas, associado a dor epigástrica de forte intensidade. Nega 
+doenças pré-existentes. Apresenta FC de 85 bpm e PA de 
+120×80 mmHg. Exames complementares revelaram Hb de  
+10 g/dL, plaquetas normais, ureia de 45 mg/dL, creatinina de  
+1,2 mg/dL e potássio de 5,4 mEq/L.  A endoscopia revelou 
+múltiplas úlceras rasas em corpo gástrico e antro, recobertas 
+por hematina (lesão aguda de mucosa gástrica), sem 
+evidências de sangue vivo. Em relação ao caso descrito, 
+assinale a alternativa que apresenta a melhor conduta. 
+ 
+(A) Transfusão de concentrado de hemácias em até 3 horas. 
+(B) Reposição volêmica com cristaloides e uso de inibidor de 
+bomba de prótons. 
+(C) Reposição volêmica com cristaloides e transfusão de 
+concentrado de hemácias. 
+(D) Hemostasia endoscópica nas úlceras. 
+##### 
+ 
+ 
+ 
+ 
+{20} 
+Homem, 62 anos de idade, apresenta disfagia progressiva a 
+sólidos há 6 meses, associado à perda de peso de 8 kg. Não 
+relata refluxo ou dor torácica. Exame físico e laboratoriais são 
+normais. Endoscopia Digestiva Alta (EDA) mostra esôfago com 
+mucosa íntegra, sem lesões aparentes, porém com evidência 
+de estenose distal moderada, não ultrapassável pelo 
+endoscópio. Manometria esofágica revela ausência de 
+relaxamento do esfíncter esofágico inferior e aperistalse 
+distal.Em relação ao quadro apresentado, qual o exame mais 
+indicado para confirmar o diagnóstico e qual a provável 
+doença? 
+ 
+(A) Esofagograma baritado; diagnóstico provável de acalasia. 
+(B) Tomografia computadorizada torácica; diagnóstico provável 
+de carcinoma esofágico. 
+(C) pH-metria esofágica de 24 horas; diagnóstico provável de 
+esofagite eosinofílica. 
+(D) Biópsia endoscópica da mucosa esofágica; diagnóstico 
+provável de esofagite por refluxo. 
+##### 
+ 
+{21} 
+Homem, 62 anos de idade, assintomático, realiza tomografia 
+abdominal por investigação de dor lombar e é identificado um 
+nódulo pancreático de 2,5 cm no corpo do pâncreas, sem 
+dilatação do ducto pancreático. Exames laboratoriais estão 
+normais, sem elevação de marcadores tumorais. A ressonância 
+magnética com colangiopancreatografia mostra lesão cística 
+com septações finas. Qual é a conduta mais adequada para 
+esse paciente? 
+ 
+(A) Cirurgia imediata devido alto risco de malignidade. 
+(B) Monitoramento clínico e imagem periódica, considerando 
+lesão cística com características benignas. 
+(C) Biópsia por punção aspirativa com agulha fina para 
+diagnóstico definitivo. 
+(D) Iniciar quimioterapia neoadjuvante antes da cirurgia. 
+##### 
+ 
+{22} 
+Homem, 52 anos de idade, trabalhador rural, apresenta quadro 
+de diarreia crônica, emagrecimento progressivo, febre 
+intermitente, dor articular migratória e sintomas neurológicos 
+recentes como confusão mental e diplopia. Ao exame físico, há 
+linfadenopatia cervical e sinais de má absorção. A endoscopia 
+digestiva alta mostra mucosa duodenal edemaciada. A biópsia 
+revela macrófagos positivos para bacilos PAS positivos. Qual a 
+conduta mais adequada para confirmar o diagnóstico e iniciar 
+o tratamento? 
+ 
+(A) Solicitar sorologia para Tropheryma whipplei e iniciar 
+corticoterapia. 
+(B) Realizar PCR para Tropheryma whipplei em biópsia 
+duodenal e iniciar antibioticoterapia prolongada. 
+(C) Iniciar terapia antifúngica empírica e observar resposta 
+clínica. 
+(D) Solicitar pesquisa de antígenos fecais e iniciar tratamento 
+com metronidazol. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Hepatologia – PROVA A07 
+{23} 
+Mulher, 22 anos de idade, comparece ao pronto-socorro com 
+queixas de dor torácica e odinofagia. Relata ter ingerido, 
+propositalmente, soda cáustica há cerca de 3 horas. A 
+endoscopia digestiva alta é um exame essencial nestes casos, 
+pois permite identificar e avaliar a extensão e gravidade das 
+lesões no esôfago e estômago auxiliando na identificação de 
+pacientes com maior risco de desenvolver complicações, como 
+estenoses. Entretanto, não é um exame isento de risco. Qual 
+seria o melhor momento para solicitar a endoscopia digestiva 
+alta nesta paciente?  
+ 
+(A) A endoscopia deve ser feita imediatamente mesmo se 
+houver 
+suspeita 
+de 
+perfuração, 
+pois 
+os 
+achados 
+endoscópicos predizem a profundidade do tecido lesado 
+(B) A endoscopia deve ser feita imediatamente pois permite a 
+administração precoce de neutralizadores ácidos evitando 
+assim a perfuração do aparelho digestivo 
+(C) A endoscopia digestiva alta só deve ser feita a partir do 
+quinto dia após a ingestão, devido ao menor risco de 
+perfuração neste período. 
+(D) A endoscopia deve ser realizada dentro de 12 a 14 horas 
+para a avaliação da extensão do dano e acompanhamento 
+clínico, já que a maioria das estenoses ocorre dentro das 
+primeiras oito semanas. 
+##### 
+ 
+{24} 
+Homem, 50 anos de idade, é internado por pancreatite aguda 
+grave por litíase biliar. Evolui com febre persistente e queda 
+do hematócrito no 12º dia de internação, além de aumento 
+progressivo de dor abdominal. TC de abdome contrastada 
+mostra coleção peripancreática heterogênea com gás no 
+interior e densidade sugerindo necrose. Qual o diagnóstico 
+mais provável? 
+ 
+(A) Pseudocisto pancreático. 
+(B) Necrose pancreática estéril. 
+(C) Necrose pancreática infectada. 
+(D) Abscesso subfrênico. 
+##### 
+ 
+{25} 
+Homem, 80 anos de idade, apresenta enterorragia há 2 dias. 
+Relata episódio semelhante há 6 meses. Encontra-se lúcido, 
+orientado, com FC de 85 bpm, PA de 100×80 mmHg, Hb de 
+10 g/dL. Em relação à investigação diagnóstica do quadro 
+deste paciente, é correto afirmar: 
+ 
+(A) A moléstia diverticular dos cólons é uma causa pouco 
+comum de sangramento em adultos idosos. 
+(B) Pacientes com enterorragia sempre devem ser submetidos 
+a colonoscopia para hemostasia endoscópica uma vez 
+que é raro a sua resolução espontânea. 
+(C) São 
+considerados 
+fatores 
+preditivos 
+de 
+evolução 
+desfavorável: Idade > 75 anos; Hb <10 g/dL; RNI >2,0. 
+(D) A colonoscopia deve ser realizada nas primeiras 6 horas 
+sem necessidade de preparo do cólon. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{26} 
+Paciente de 34 anos apres

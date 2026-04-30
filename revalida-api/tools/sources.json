@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Revalida INEP - Provas e Gabaritos",
+    "institution": "INEP",
+    "exam": "Revalida",
+    "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos"
+  },
+  {
+    "name": "Revalida INEP - 2024",
+    "institution": "INEP",
+    "exam": "Revalida",
+    "year": "2024",
+    "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2024"
+  },
+  {
+    "name": "Revalida INEP - 2023",
+    "institution": "INEP",
+    "exam": "Revalida",
+    "year": "2023",
+    "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2023"
+  },
+  {
+    "name": "ENARE - Provas 2023/2024",
+    "institution": "EBSERH",
+    "exam": "ENARE",
+    "year": "2023-2024",
+    "url": "https://www.gov.br/ebserh/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2023-2024/provas"
+  },
+  {
+    "name": "ENARE - Provas 2021/2022",
+    "institution": "EBSERH",
+    "exam": "ENARE",
+    "year": "2021-2022",
+    "url": "https://www.gov.br/ebserh/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas"
+  },
+  {
+    "name": "ENARE - Provas 2020/2021",
+    "institution": "EBSERH",
+    "exam": "ENARE",
+    "year": "2020-2021",
+    "url": "https://www.gov.br/ebserh/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2020-2021/provas"
+  },
+  {
+    "name": "FUVEST - Residência Médica Provas e Gabarito",
+    "institution": "FUVEST / USP",
+    "exam": "Residência Médica",
+    "url": "https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]

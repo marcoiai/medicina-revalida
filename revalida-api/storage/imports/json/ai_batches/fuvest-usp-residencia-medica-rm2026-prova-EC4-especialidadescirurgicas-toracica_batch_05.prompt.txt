@@ -1,0 +1,402 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ástrica 
+(B) deficiência de Zinco. 
+(C) deficiência de vitamina A. 
+(D) deficiência de vitamina B1. 
+#####
+
+
+--- PAGE 16 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Cirurgia Torácica – PROVA EC4 
+{51} 
+Mulher, 37 anos de idade, proveniente da Bolívia, mora em São Paulo há 5 anos. Refere dor em região do hipocôndrio direito com 
+piora progressiva há 3 anos, nega emagrecimento. Fez ultrassom de abdome total que evidenciou lesão cística complexa no lobo 
+hepático direito medindo 15 cm, com paredes espessadas, septos grosseiros e “cistos filhos”. Foi solicitada ressonância magnética, 
+a qual pode ser observada nas imagens a seguir:  
+ 
+ 
+ 
+Baseado nos dados clínicos e exame de imagem, assinale a alternativa que apresenta o diagnóstico mais provável e o melhor 
+tratamento para essa paciente. 
+ 
+(A) Cisto hidático (hidatidose) e pericistectomia. 
+(B) Cisto hepático simples e “destelhamento” laparoscópico. 
+(C) Abscesso hepático e drenagem por radiologia intervencionista. 
+(D) Neoplasia cística mucinosa hepática (cistoadenoma biliar) e hepatectomia direita. 
+#####
+ 
+{52} 
+Mulher, 65 anos de idade, assintomática, com achado 
+incidental em ultrassonografia de abdome de cisto em cauda 
+do pâncreas. Realizou ressonância magnética de abdome 
+superior que evidenciou lesão cística na cauda do pâncreas, 
+medindo 2,7 cm, com comunicação com o ducto pancreático 
+principal, o qual tem calibre de 0,5 cm, não foram visualizados 
+nódulos 
+ou 
+vegetações 
+dentro 
+do 
+cisto. 
+Realizou 
+ecoendoscopia que confirmou os achados da ressonância, 
+sendo realizada punção do cisto para análise, a qual revelou 
+presença 
+de 
+mucina 
+e 
+dosagem 
+do 
+Antígeno 
+Carcinoembrionário (CEA) de 350 ng/mL. CA 19-9 sérico 
+normal. O diagnóstico mais provável e a conduta para essa 
+paciente são, respectivamente, 
+ 
+(A) neoplasia mucinosa papilar intraductal (IPMN) de ductos 
+secundários, pancreatectomia caudal com preservação 
+esplênica. 
+(B) neoplasia mucinosa papilar intraductal (IPMN) do tipo 
+misto, pancreatectomia corpocaudal com preservação 
+esplênica. 
+(C) neoplasia mucinosa papilar intraductal (IPMN) de ductos 
+secundários, seguimento com exames de imagem. 
+(D) neoplasia cística mucinosa, pancreatectomia caudal + 
+esplenectomia. 
+##### 
+ 
+{53} 
+É etapa fundamental da cirurgia radical no tratamento do 
+adenocarcinoma gástrico: 
+ 
+(A) Bursectomia. 
+(B) Omentectomia. 
+(C) Coleta de citologia oncótica. 
+(D) Margem de 2 cm nas lesões T1. 
+##### 
+ 
+{54} 
+Considere uma paciente com Tumor Neuroendócrino (TNE) 
+gástrico do tipo clínico 1, bem diferenciado (grau 1) da 
+Organização Mundial de Saúde à biópsia. Pode-se esperar os 
+seguintes achados endoscópicos e laboratoriais: 
+ 
+(A) Gastrite atrófica, múltiplas lesões elevadas pequenas (< 1 
+cm), anticorpo anti-células parietais positivo. 
+(B) Hiperplasia de pregas gástricas, múltiplas lesões elevadas 
+pequenas (< 1 cm), gastrina sérica elevada. 
+(C) Múltiplas lesões elevadas pequenas (< 1 cm), úlceras 
+pépticas, gastrina sérica elevada. 
+(D) Lesão vegetante única, tamanho > 1 cm, gastrina sérica 
+normal. 
+##### 
+ 
+{55} 
+Mulher, 38 anos de idade, no 43º dia pós-operatório de bypass 
+gástrico. Admitida no pronto atendimento com queixa recente 
+de disfagia progressiva. Relata estar seguindo corretamente a 
+dieta orientada pela nutricionista, tendo iniciado dieta sólida 
+há 1 semana, período em que iniciaram os sintomas. Refere 
+piora com disfagia para sólidos nos últimos dias. Ao exame 
+físico, encontra-se com sinais leves de desidratação e 
+abdome inocente. A causa mais provável do quadro e seu 
+tratamento são 
+ 
+(A) hérnia interna, tratamento cirúrgico. 
+(B) esofagite de refluxo, tratamento clínico. 
+(C) distensão aguda do estômago excluso, tratamento 
+cirúrgico. 
+(D) estenose 
+da 
+gastroenteroanastomose, 
+tratamento 
+endoscópico. 
+##### 
+ 
+ 
+
+
+--- PAGE 17 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Cirurgia Torácica – PROVA EC4 
+{56} 
+Homem, 62 anos de idade, sem comorbidades, refere quadro 
+de icterícia e colúria há 15 dias. Realizou exame de 
+ressonância magnética de abdome superior que demonstrou 
+dilatação das vias biliares intra-hepáticas e lesão compatível 
+com colangiocarcinoma hilar Bismuth IIIa medindo 3,1 cm, 
+com acometimento da artéria hepática direita. Tomografia de 
+tórax sem evidência de doença à distância. Ao exame físico, 
+bom estado geral, eutrófico, ictérico ++/4+.  
+ 
+• Exames laboratoriais: 
+Bilirrubina total: 14 mg/dL (VR: 0,2 a 1,1 mg/dL) 
+Bilirrubina direta: 12,3 mg/dL (VR: 0,0 a 0,3 mg/dL) 
+CA 19-9: 5.330 U/mL (VR: < 37 U/mL) 
+ 
+O volume calculado do remanescente hepático foi de 30% do 
+volume hepático total. Qual a melhor conduta para o paciente, 
+neste momento? 
+ 
+(A) Quimio e radioterapia de consolidação. 
+(B) Trissetorectomia esquerda + linfadenectomia hilar + 
+anastomose biliodigestiva. 
+(C) Drenagem transparieto-hepática do lobo esquerdo e 
+embolização por radiologia intervencionista do ramo portal 
+direito. 
+(D) Drenagem transparieto-hepática do lobo direito seguida 
+de trissetorectomia direita + ressecção do segmento 1 + 
+linfadenectomia hilar + anastomose biliodigestiva. 
+##### 
+ 
+{57} 
+Adolescente do sexo feminino, 16 anos de idade, com 
+histórico de obesidade desde a infância. Atualmente, 
+apresenta índice de massa corpórea de 63 kg/m2, hipertensão 
+arterial sistêmica e resistência periférica à insulina. Assinale a 
+alternativa que apresenta a melhor opção terapêutica.  
+ 
+(A) Derivação biliopancreática com desvio duodenal por se 
+tratar da melhor cirurgia para super-obesos. 
+(B) Bypass gástrico por se tratar de um procedimento seguro 
+e levar à remissão das comorbidades. 
+(C) Gastrectomia vertical por se tratar de uma adolescente. 
+(D) Tratamento pré-operatório com balão intragástrico e 
+medidas clinicas para perda de peso; integração com a 
+equipe multidisciplinar de cirurgia bariátrica, sendo a 
+técnica discutida com a participação da família. 
+##### 
+ 
+{58} 
+Homem, 59 anos de idade, submetido à gastrectomia vertical, 
+no 5º dia pós-operatório apresenta sinais de septicemia. O 
+exame 
+tomográfico 
+confirmou 
+o 
+diagnóstico 
+de 
+extravasamento de grande quantidade de contraste para a 
+cavidade abdominal. Assinale a alternativa que apresenta a 
+conduta mais adequada. 
+ 
+(A) Encaminhar para endoscopia para colocação de prótese. 
+(B) Laparoscopia com limpeza da cavidade e colocação de 
+dreno para direcionar a fístula e depois chamar o serviço 
+de endoscopia para posicionar prótese, se necessário. 
+(C) Como se trata de uma fístula precoce, o melhor 
+procedimento é suturar o orifício e realizar a limpeza da 
+cavidade. 
+(D) Suturar uma alça de delgado sobre o orifício para ocluir a 
+fístula e realizar a limpeza da cavidade. 
+##### 
+{59} 
+Assinale a alternativa correta. 
+ 
+(A) A altura da reflexão peritoneal anterior do reto é constante 
+(12 cm) sendo importante reparo anatômico para o 
+tratamento cirúrgico do prolapso retal por via perineal. 
+(B) Os espaços isquioanais dividem-se em proximal e distal, e 
+justificam a fístula em ferradura e seu tratamento cirúrgico. 
+(C) A flexura esplênica do cólon é zona de risco de isquemia 
+devido ao reduzido fluxo da artéria cólica média. 
+(D) A linha pectínea (dentada) representa a verdadeira divisão 
+entre o endoderma e o ectoderma embrionários, sendo as 
+topografias originais do adenocarcinoma e carcinoma 
+espinocelular, respectivamente. 
+##### 
+ 
+{60} 
+Com 
+relação 
+aos 
+pacientes 
+portadores 
+de 
+doença 
+hemorroidária com sangramento esporádico (anual) e indolor, 
+com pequeno componente externo totalmente assintomático, 
+assinale a alternativa correta. 
+ 
+(A) Procedimentos 
+ambulatoriais 
+são 
+eficazes 
+para 
+hemorroidas internas sintomáticas de grau III e IV. 
+(B) São complicações da cirurgia hemorroidária: retenção 
+urinária, sangramento, infecção, estenose, incontinência e 
+recorrência. 
+(C) Têm indicação cirúrgica de princípio: pacientes grávidas, 
+Doença de Crohn, imunodeprimidos e hipertensão portal. 
+(D) Minimizar o esforço evacuatório, melhorar a hidratação e 
+aumentar a ingestão de fibras são pouco eficazes no 
+controle de sintomas e indicados como paliativos. 
+##### 
+ 
+{61} 
+Homem, 26 anos de idade, foi vítima de politraumatismo de 
+acidente auto x auto. Na chegada ao hospital, foi submetido à 
+drenagem torácica bilateral por hemopneumotórax com 
+fraturas de costas à direta do oitavo ao décimo primeiro arco 
+e à esquerda do quinto ao décimo. Estável após a drenagem, 
+realizou radiografia de tórax com velamento do seio 
+costofrênico esquerdo. A próxima conduta recomendada é: 
+ 
+(A) Indicar toracotomia de emergência à esquerda por se 
+tratar de hérnia diafragmática. 
+(B) Indicar toracotomia de emergência à direita por se tratar 
+de hérnia diafragmática. 
+(C) Solicitar tomografia de tórax para diferenciar entre 
+hemotórax retido e hérnia diafragmática à esquerda. 
+(D) Solicitar ressonância magnética, único exame de imagem 
+que pode diferenciar uma paralisia frênica de uma hérnia 
+diafragmática à esquerda. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 18 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Cirurgia Torácica – PROVA EC4 
+{62} 
+Mulher, 29 anos de idade, previamente hígida, refere que, há 
+dois anos, começou a apresentar picos de HAS. A 
+investigação de urina de 24 horas revelou elevação das 
+catecolaminas (repetido e confirmado). Tomografia de 
+abdome 
+sem 
+tumorações 
+nas 
+glândulas 
+adrenais. 
+Ressonância magnética de tórax mostrou lesão expansiva 
+sólida, circunscrita, com realce heterogêneo pelo meio de 
+contraste localizada no mediastino posterior paravertebral à 
+esquerda (plano dos corpos vertebrais D6 a D11), medindo 
+cerca de 10,0 x 5,4 x 5,0 cm, mantendo íntimo contato com o 
+segmento descendente da aorta torácica, envolvendo cerca 
+de 180° de sua circunferência, sem sinais de redução do 
+calibre vascular. Ressonância magnética de coluna dorsal 
+sem sinais de acometimento dos foramens vertebrais. Os 
+exames de imagem podem ser observados nas imagens a 
+seguir: 
+ 
+ 
+ 
+ 
+ 
+Qual o principal diagnóstico do tumor observado? 
+ 
+(A) Schwannoma. 
+(B) Paraganglioma. 
+(C) Linfoma Hodgkin. 
+(D) Linfoma Não-Hodgkin. 
+##### 
+ 
+ 
+ 
+{63} 
+Homem, 25 anos de idade, apresenta cavidade pulmonar em 
+lobo superior esquerdo compatível com doença pulmonar 
+pós-tuberculose. Encaminhado para cirurgia torácica por 
+história de hemoptise de pequena monta. Em relação à 
+avaliação cirúrgica, pode-se afirmar: 
+ 
+(A) As 
+vias 
+de 
+acesso 
+minimamente 
+invasivas 
+são 
+contraindicadas 
+nesses 
+casos 
+por 
+impossibilidade 
+técnica. 
+(B) A taxa de mortalidade dessa cirurgia é alta, próximo 
+superior a 10%. 
+(C) A embolização substituiu a cirurgia no tratamento da 
+hemoptise, não havendo indicação cirúrgica nesse caso. 
+(D) A condição nutricional desse paciente deve ser avaliada 
+no pré-operatório, recuperação nutricional deve ser 
+indicada, se necessária. 
+##### 
+ 
+{64} 
+Homem, 59 anos de idade, assintomático, nunca foi tabagista. 
+Em 
+exames 
+pré-operatórios 
+para 
+prostatectomia 
+foi 
+identificada opacidade em lobo superior do pulmão direito. A 
+tomografia de tórax mostrou opacidade nodular subsólida 
+irregular e heterogênea, localizada entre os segmentos 
+anterior e posterior do lobo superior direito, medindo 5,5 cm 
+no maior eixo, predominantemente sólida (componente sólido 
+mede 4,4 cm), conforme imagem a seguir: 
+ 
+ 
+ 
+Submetido à biópsia transtorácica por agulha que confirmou 
+adenocarcinoma primário do pulmão. PET-FDG captação 
+suspeita apenas na neoplasia pulmonar e na neoplasia 
+prostática. Ressonância magnética de crânio sem sinais de 
+metástases. 
+Prova 
+de 
+função 
+pulmonar 
+normal. 
+Em 
+adenocarcinomas iniciais e localmente avançados, quais 
+genes devem ser testados por possuírem opções de 
+tratamento com terapias alvos? 
+ 
+(A) EGFR e PD-L1. 
+(B) EGFR e ALK. 
+(C) PD-L

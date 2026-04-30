@@ -1,0 +1,20 @@
+[
+  {
+    "area": "Clínica Médica",
+    "tema": "Diabetes",
+    "dificuldade": "Média",
+    "enunciado": "Paciente com diabetes tipo 2 e doença cardiovascular estabelecida apresenta HbA1c acima da meta apesar de metformina. Qual classe deve ser priorizada?",
+    "alternativas": {
+      "A": "Sulfonilureia",
+      "B": "Inibidor de SGLT2 ou agonista de GLP-1 com benefício cardiovascular",
+      "C": "Acarbose obrigatória",
+      "D": "Corticoide em baixa dose",
+      "E": "Antibiótico profilático"
+    },
+    "gabarito": "B",
+    "comentario": "Em DM2 com doença cardiovascular estabelecida, deve-se priorizar classe com benefício cardiovascular comprovado, considerando perfil clínico, contraindicações e disponibilidade.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "Exemplo criado para teste"
+  }
+]

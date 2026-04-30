@@ -1,0 +1,607 @@
+
+
+--- PAGE 1 ---
+
+ 
+A14 
+ 
+ 
+ÁREAS DE ATUAÇÕES 
+Transplante de Pulmão 
+Cirurgia Torácica 
+ 
+ 
+ 
+ 
+ 
+      PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025     
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo A14. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 1 hora. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo fiscal. 
+O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14 h. Não haverá tempo adicional 
+para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 20 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Trans. de Pulmão – Cir. Torácica– PROVA A14 
+{01} 
+Assinale a alternativa que apresenta doença(s) que não 
+corresponde(m) à uma possível indicação de transplante 
+pulmonar. 
+ 
+(A) DPOC, sarcoidose, fibrose cística, hipertensão pulmonar 
+idiopática. 
+(B) Bronquiolite obliterante, deficiência de alfa-1 antitripsina, 
+DPOC, fibrose cística. 
+(C) Bronquiectasia, hipertensão pulmonar tromboembólica, 
+tumor carcinoide de baixo grau, sarcoidose. 
+(D) Síndrome de Eisenmenger, bronquiolite obliterante, 
+linfangioleiomiomatose, fibrose pulmonar idiopática. 
+##### 
+ 
+{02} 
+Em relação ao uso de suporte extracorpóreo em transplante 
+pulmonar, é correto afirmar: 
+ 
+(A) A ECMO possui melhores resultados que ventilação 
+mecânica em pacientes que aguardam transplante 
+pulmonar, uma vez que permite menor sedação e 
+fisioterapia. 
+(B) ECMO 
+possui 
+resultados 
+similares 
+à 
+Circulação 
+Extracorpórea (CEC), uma vez que o uso de heparina e as 
+taxas de PGD são iguais. 
+(C) No pós-operatório de transplante pulmonar, a ECMO é 
+indicada para todo paciente com PGD, independente do 
+grau. 
+(D) A ECMO é indicada no intraoperatório em casos de 
+hipertensão pulmonar severa, disfunção do ventrículo 
+direito e hipertermia maligna na indução anestésica. 
+##### 
+ 
+{03} 
+Em relação à avaliação do doador ideal para transplante de 
+pulmão, assinale a alternativa correta.  
+ 
+(A) História de asma é critério de doador marginal. 
+(B) A presença de neoplasia extratorácica impossibilita a 
+doação de pulmão.  
+(C) Presença de tabagismo, independente da carga tabágica, 
+é um critério de doador marginal. 
+(D) Secreção purulenta na broncoscopia contraindica, por si 
+só, a captação de pulmões de um doador. 
+##### 
+ 
+{04} 
+Qual é a sequência habitual e o tipo de fio que pode ser 
+utilizado nas anastomoses das estruturas hilares durante o 
+transplante pulmonar? 
+ 
+(A) Brônquio (polidioxanona), venosa (polipropileno) e arterial 
+(polipropileno). 
+(B) Brônquio (polidioxanona), arterial (polipropileno) e venosa 
+(polipropileno). 
+(C) Venosa 
+(polidioxanona), 
+arterial 
+(polidioxanona) 
+e 
+brônquio (polidioxanona). 
+(D) Venosa (polipropileno), arterial (polipropileno) e brônquio 
+(polidioxanona). 
+##### 
+ 
+ 
+ 
+{05} 
+Diante de um candidato à transplante pulmonar, como 
+devemos prosseguir com a avaliação? 
+ 
+(A) Exames de imagem e laboratoriais; painel imunológico 
+antes da inclusão em lista; avaliação multiprofissional; 
+estimular ganho de peso. 
+(B) Sem necessidade de novos exames de imagem, visto que 
+paciente já possui diagnóstico; exames laboratoriais; 
+painel 
+viral 
+após 
+inclusão 
+em 
+lista; 
+avaliação 
+multiprofissional; estimular perda de peso. 
+(C) Exames de imagem e laboratoriais; painel imunológico 
+após inclusão em lista; avaliação multiprofissional; almejar 
+IMC entre 17Kg/m2 e 27Kg/m2. 
+(D) Sem necessidade de novos exames de imagem, visto que 
+paciente já possui diagnóstico; exames laboratoriais; 
+painel 
+viral 
+após 
+inclusão 
+em 
+lista; 
+avaliação 
+multiprofissional; almejar IMC entre 17Kg/m2 e 27Kg/m2. 
+##### 
+ 
+{06} 
+Em relação ao transporte do enxerto de acordo com o conceito 
+de tripla proteção, o órgão deve ser transportado em bolsa de 
+plástico de proteção 
+ 
+(A) com soro fisiológico congelado triturado, dentro de 
+plástico de proteção com solução de preservação gelada, 
+dentro de plástico de proteção seco e conjunto colocado 
+em caixa térmica. 
+(B) com soro fisiológico gelado, dentro de plástico de 
+proteção com soro fisiológico congelado triturado, dentro 
+de plástico de proteção seco e conjunto colocado em 
+caixa térmica. 
+(C) com solução de preservação gelada, dentro de plástico de 
+proteção seco, dentro de plástico de proteção com soro 
+fisiológico congelado triturado e conjunto colocado em 
+caixa térmica. 
+(D) seco, dentro de plástico de proteção com soro fisiológico 
+congelado triturado, dentro de plástico de proteção com 
+soro fisiológico gelado e conjunto colocado em caixa 
+térmica. 
+##### 
+ 
+{07} 
+Sobre o uso de ECMO em transplante pulmonar, é correto 
+afirmar: 
+ 
+(A) No intraoperatório, a modalidade venovenosa central 
+configura suporte hemodinâmico e ventilatório de menor 
+risco para complicações. 
+(B) Em transplante realizado com assistência por ECMO, após 
+o implante pulmonar, é necessário manutenção do suporte 
+por 3 a 5 dias, para adequação do fluxo arterial pulmonar. 
+(C) A configuração mais comum de ECMO venoarterial central 
+é com canulação venosa no átrio direito e arterial no tronco 
+da artéria pulmonar. 
+(D) As 
+principais 
+complicações 
+incluem 
+hemorragia, 
+complicações com o sítio de inserção das cânulas, 
+insuficiência renal, complicações neurológicas e sepse. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Trans. de Pulmão – Cir. Torácica– PROVA A14 
+{08} 
+Em relação à captação de pulmões para transplante 
+pulmonar, é correto afirmar: 
+ 
+(A) Em pacientes com instabilidade hemodinâmica que 
+necessite mais de duas drogas vasoativas, é indicado 
+realizar heparinização completa antes da abertura pelo 
+risco elevado de trombose vascular. 
+(B) Para otimizar a distribuição e atividade da solução de 
+preservação, é aconselhado administrar prostaglandina na 
+aorta ascendente imediatamente após o clampeamento. 
+(C) Habitualmente a solução de preservação utilizada para os 
+pulmões é Perfadex Plus® e a quantidade administrada 
+preconizada é de 50-75mL/kg. 
+(D) Após a perfusão com solução de preservação, pode-se 
+desligar 
+a 
+ventilação 
+mecânica, 
+facilitando 
+a 
+pneumonectomia, uma vez que o acondicionamento e 
+implante do enxerto são realizados com pulmões 
+desinsuflados. 
+##### 
+ 
+{09} 
+Homem, 32 anos de idade, em 1º dia pós-operatório do 
+transplante pulmonar lobar bilateral, em ventilação mecânica 
+em modo volume controlado a 6 mL/kg/peso, com FiO2 de 
+100%, PEEP 6. 
+ 
+• Gasometria arterial: 
+pH: 7,36 
+pCO2: 50 mmHg 
+pO2:160 mmHg 
+HCO3-: 25 mEq/L 
+ 
+A radiografia de tórax é apresentada a seguir: 
+ 
+ 
+ 
+Conforme a classificação ISHLT de 2016 de Disfunção 
+Primária do Enxerto (PGD), a classificação do paciente 
+apresentado no caso é PGD grau 
+ 
+(A) 0. 
+(B) 1. 
+(C) 2. 
+(D) 3. 
+##### 
+ 
+ 
+ 
+ 
+ 
+Texto para as questões de 10 a 12 
+ 
+Em plantão no núcleo de transplantes, você recebe uma 
+ligação com uma oferta de doador adequado para captação 
+de pulmões. Trata-se de um homem, tipo sanguíneo A+, de  
+27 anos, vítima de TCE há 3 dias, 1,70 m 85 kg, capacidade 
+pulmonar total predita (CPTp) de 6,38 L e radiografia de tórax 
+sem anormalidades. CPTa: capacidade pulmonar total aferida.  
+ 
+{10} 
+Assinale a alternativa que apresenta o receptor que parece 
+mais compatível. 
+ 
+(A) Mulher, AB+, hipertensão pulmonar idiopática, 1,57 m, 
+CPTa 4,64 CPTp 4,67, desde que sejam utilizadas 
+estratégias de redução como segmentectomia ou 
+lobectomia. 
+(B) Homem, O+, esclerose sistêmica, 1,53 m, CPTa 2,45 CPTp 
+4,91, desde que sejam utilizadas estratégias de redução 
+como segmentectomia ou lobectomia. 
+(C) Mulher, O-, pneumonite por hipersensibilidade, 1,54 m, 
+CPTa 3,09 CPTp 4,43, desde que sejam utilizadas 
+estratégias de redução como segmentectomia ou 
+lobectomia. 
+(D) Homem, A+, histiocitose, 1,85 m, CPTa 9,5 CPTp 8,74, sem 
+necessidade de estratégias de adequação de volume 
+pulmonar. 
+##### 
+ 
+{11} 
+Após a decisão pelo receptor mais compatível, foi solicitado o 
+crossmatch virtual, com o seguinte resultado: locus B51  
+MFI = 3.456. Qual a melhor conduta frente ao resultado? 
+ 
+(A) Prosseguir com o transplante, desde que seja adotado 
+protocolo de dessensibilização com transfusão maciça. 
+(B) Prosseguir com o transplante, desde que seja realizado 
+com assistência em ECMO pelo risco de rejeição celular 
+hiperaguda. 
+(C) Prosseguir com o transplante, desde que seja adotado 
+protocolo de dessensibilização com plasmaférese. 
+(D) Prosseguir com o transplante sem conduta adicional, de 
+imediato, e aguardar o resultado do crossmatch real, já 
+que o crossmatch virtual apresenta baixo valor preditivo 
+positivo.  
+##### 
+ 
+{12} 
+Assinale a alternativa que configura contraindicação absoluta 
+ao transplante pulmonar (referente ao receptor). 
+ 
+(A) História prévia de infarto agudo do miocárdio. 
+(B) Tuberculose pulmonar em atividade. 
+(C) Esclerose sistêmica com acometimento esofágico. 
+(D) Idade maior que 55 anos. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Trans. de Pulmão – Cir. Torácica– PROVA A14 
+{13} 
+A imunossupressão é essencial para o bom resultado do 
+transplante pulmonar, devendo ser iniciada na indução 
+anestésica. Qual é a terapia de indução anestésica atualmente 
+preconizada? 
+ 
+(A) Azatioprina + prednisona. 
+(B) Metiprednisolona + basiliximab. 
+(C) Sirolimus + micofenolato sódico. 
+(D) Ciclosporina + everolimus. 
+##### 
+ 
+{14} 
+A respeito da rejeição aguda, é INCORRETO afirmar: 
+ 
+(A) O tipo mais comum de rejeição é a celular. 
+(B) O diagnóstico é baseado na presença de infiltrado 
+monocelular perivascular e intersticial. 
+(C) Cerca de 28% dos pacientes submetidos ao transplante 
+pulmonar são tratados por rejeição aguda no primeiro ano 
+pós-transplante. 
+(D) A Síndrome da Bronquiolite Obliterante (BOS) é a forma 
+mais grave de rejeição aguda. 
+##### 
+ 
+{15} 
+Durante a avaliação do receptor, deve-se definir se o 
+transplante será unilateral ou bilateral. Na maior parte dos 
+casos, a modalidade de escolha é a bilateral. Dentre as 
+doenças apresentadas a seguir, qual corresponde à possível 
+indicação de transplante unilateral? 
+ 
+(A) Hipertensão arterial pulmonar idiopática. 
+(B) Síndrome de Kartagener.  
+(C) Fibrose pulmonar idiopática. 
+(D) Fibrose cística. 
+##### 
+ 
+{16} 
+Qual das alternativas a seguir NÃO é um possível motivo para 
+recusa do pulmão durante a avaliação intraoperatória do 
+doador (captação)? 
+ 
+(A) Trauma severo não observado nos exames de imagem 
+prévios. 
+(B) Consolidação pulmonar palpável em região de alteração 
+radiológica. 
+(C) Atelectasia reversível com manobras de recrutamento 
+alveolar. 
+(D) Relação PaO2/FiO2 baixa em gasometria colhida no 
+intraopeartório.  
+##### 
+ 
+{17} 
+Dentre as opções de tratamento de disfunção primária de 
+enxerto, assinale a alternativa INCORRETA. 
+ 
+(A) Aumentar doses de imunossupressores. 
+(B) Evitar administração excessiva de fluidos (manter 
+hematócrito 25-30%); calcular balanço hídrico 6/6h. 
+(C) ECMO em casos graves. 
+(D) Ventilação protetora (6-8 mL/kg). 
+##### 
+{18} 
+Residente do setor de transplante pulmonar, recebeu um 
+telefonema às 3h da madrugada com a oferta referente ao 
+seguinte doador: sexo feminino, 43 anos de idade, vítima de 
+trauma cranioencefálico, 4 dias de intubação orotraqueal, 
+relação P/F de 380, com radiografia apresentando infiltrado 
+em base direita e com histórico de tabagismo com carga 
+tabágica de 5 anos-maço. Ao avaliar a qualidade dos pulmões 
+do doador para o transplante pulmonar, trata-se de um doador  
+ 
+(A) ideal.  
+(B) com apenas um critério de doador marginal.  
+(C) com dois critérios de doador marginal.  
+(D) com três critérios de doador marginal. 
+##### 
+ 
+{19} 
+Sobre as anastomoses no transplante pulmonar, assinale a 
+alternativa correta. 
+ 
+(A) Anastomose da via aérea: traqueo-traqueal. 
+(B) Anastomose arterial: tronco da artéria pulmonar. 
+(C) Anastomose venosa: cuff atrial esquerdo. 
+(D) Anastomose venosa: veias pulmonares superior e inferior. 
+##### 
+ 
+{20} 
+Durante a primeira broncoscopia de vigilância de paciente em 
+pós-operatório recente (4 meses) de transplante pulmonar, foi 
+observada estenose de 70% do brônquio intermédio, 
+intransponível ao aparelho. Assinale uma possível conduta 
+adequada para o caso. 
+ 
+(A) Dilatação com balão hidrostático por broncoscopia. 
+(B) Abordagem cirúrgica com ressecção da região estenótica 
+e anastomose brônquica. 
+(C) A técnica adotada no tratamento cirúrgico de estenose da 
+anastomose brônquica é a telescopagem. 
+(D) Infiltração local com corticoide por broncoscopia. 
+##### 
+
+
+--- PAGE 6 ---
+

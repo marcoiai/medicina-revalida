@@ -1,0 +1,206 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+entos em sua
+inteireza (frente e verso) e em arquivo legível.
+Artigo 27 - Serão aceitos como documento de identidade oficial, a que se refere o inciso II do artigo
+24, os seguintes documentos:
+I. documentos de identidade expedidos pelas Secretarias de Segurança Pública (como Registro
+Geral – RG e Carteira de Identidade Nacional – CIN);
+II. documentos de identidade expedidos pelas Forças Armadas ou pela Polícia Militar (como
+Carteira de Identidade Militar – CIM, Cartão Militar de Identificação – CMI e Identidade
+Funcional);
+Este documento pode ser verificado pelo código 2025.10.23.1.1.43.1.4.2.220.1425433
+em https://www.doe.sp.gov.br/autenticidade
+8/14
+Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).
+
+
+--- PAGE 9 ---
+
+III. Carteira Nacional de Habilitação – CNH (com foto);
+IV. Carteira de Trabalho e Previdência Social – CTPS (com foto, exceto no formato eletrônico);
+V. documentos expedidos por Ordens ou Conselhos Profissionais que, por lei federal, valem
+como documento de identidade em todo o país;
+VI. passaporte;
+VII. Carteira de Registro Nacional Migratório (CRNM) ou Carteira de Identidade de Estrangeiro
+(CIE) ou passaporte válido, para o candidato de nacionalidade estrangeira que comprove sua
+condição temporária ou permanente no País;
+VIII. para o candidato solicitando refúgio no Brasil, será aceito Documento Provisório de
+Registro Nacional Migratório emitido pela Polícia Federal do Brasil;
+IX. documentos emitidos de forma eletrônica nos aplicativos oficiais: Carteira de Identidade –
+RG; Carteira Nacional de Habilitação – CNH; Carteira de Identificação Nacional – CIN; e
+Passaporte.
+§ 1º - Não serão aceitos como documentos de identidade oficiais os seguintes documentos:
+I. documentos de identidade em que conste a expressão “não alfabetizado” ou “infantil”;
+II. protocolos de solicitações de novas vias de qualquer documento de identidade;
+III. documentos de identidade que não possuam a foto do candidato;
+IV. Carteira de Trabalho e Previdência Social - CTPS no formato digital (eletrônico).
+Artigo 28 - Os candidatos devem apresentar históricos escolares que comprovem a realização integral
+de seus estudos de Ensino Médio em escolas públicas brasileiras.
+§ 1º - Para ter direito às Políticas de Ações Afirmativas, os candidatos selecionados que
+concorrem às vagas reservadas aos autodeclarados pretos, pardos ou indígenas que tenham
+cursado integralmente o Ensino Médio em escolas públicas brasileiras deverão possuir traços
+fenotípicos que os caracterizem como negro, de cor preta ou parda ou, no caso dos indígenas,
+que não forem registrados civilmente como indígenas, é obrigatória a apresentação de um dos
+seguintes documentos:
+I. Certidão do Registro Administrativo expedida pela FUNAI (Registro Administrativo de
+Nascimento de Indígena – RANI) ou na ausência deste, o RANI de um de seus genitores
+conforme regula o parágrafo 4º do Decreto nº 63.979/2018; ou
+II. Declaração de pertencimento à comunidade indígena com assinatura de 3 (três)
+membros notáveis da comunidade (lideranças, professores, dentre outros); ou
+III. Memorial do candidato por escrito ou em vídeo em que se salientam os aspectos de
+sua trajetória de vida, podendo ser composto por diversos materiais como, por exemplo,
+fotos, participações em eventos, cópia de prontuário de serviços do candidato/família
+Este documento pode ser verificado pelo código 2025.10.23.1.1.43.1.4.2.220.1425433
+em https://www.doe.sp.gov.br/autenticidade
+9/14
+Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).
+
+
+--- PAGE 10 ---
+
+expedido pela Unidade Básica de Saúde da aldeia no qual conste a anotação/informação
+de que o candidato/familiar pertence a um grupo indígena; ou
+IV. Declaração de Associação da Sociedade Civil, com reconhecimento público, para
+comprovar o pertencimento a grupo indígena.
+§ 2º - Os candidatos selecionados que concorrem às vagas reservadas aos autodeclarados
+pretos, pardos ou indígenas deverão autodeclarar-se, durante o período da pré-matrícula
+virtual da chamada para a qual foram convocados.
+§ 3º - Aos candidatos autodeclarados pretos ou pardos, a matrícula na vaga PPI somente será
+confirmada após validação da autodeclaração de raça do candidato por Comissão composta
+especificamente para esse fim, segundo procedimento de heteroidentificação complementar,
+definido pelo Conselho de Inclusão e Pertencimento da USP.
+Artigo 29 - Todos os candidatos devem apresentar histórico escolar do Ensino Médio que comprove
+que seus estudos foram realizados integralmente em escolas públicas brasileiras ou, na falta desse,
+uma declaração para atestar que não frequentaram escolas privadas, conforme artigo 31, a ser
+apresentada no sistema de matrículas da USP no ato da pré-matrícula virtual.
+Artigo 30 - Em situações excepcionais, devidamente justificadas e comprovadas, candidatos que
+ainda não possuam o certificado de conclusão do Ensino Médio e respectivo histórico escolar
+poderão substituir esses documentos, temporariamente, por uma declaração de conclusão, expedida
+em papel timbrado e assinada pelo diretor da escola ou representante escolar, contendo as seguintes
+informações:
+I – ano de conclusão do Ensino Médio na Instituição de Ensino;
+II – ano e local onde cursou todas as séries do Ensino Médio, para efeito de comprovação de ter
+cursado integralmente o Ensino Médio em escola pública para os candidatos convocados que
+concorreram às vagas decorrentes de Políticas específicas de Ações Afirmativas.
+§ 1º – O interessado deverá apresentar o certificado de conclusão e o histórico escolar do
+Ensino Médio na data da efetivação de matrícula referente ao seu processo de ingresso, sob
+pena de ser automaticamente anulado o ato de pré-matrícula, com consequente perda de
+vaga, ressalvado o previsto no § 2º deste artigo.
+§ 2º – Caso seja necessária prorrogação do prazo para a entrega do histórico escolar e do
+certificado de conclusão do Ensino Médio, o interessado deverá apresentar, no ato da
+efetivação da matrícula, uma nova declaração de conclusão, nos mesmos termos previstos no
+caput deste artigo, com a adição da informação do prazo ou previsão de data máxima, pela
+Instituição de Ensino, para emissão do histórico escolar e do certificado de conclusão, não
+podendo exceder a data fim do 1º semestre do referido ano de ingresso, previsto no
+Calendário Escolar da USP.
+§ 3º – Dentro do prazo informado no documento previsto no § 2º, o interessado deverá
+apresentar o certificado de conclusão e o histórico escolar do Ensino Médio, sob pena de,
+esgotado o referido prazo, ser automaticamente anulado o ato de matrícula, com consequente
+perda da vaga.
+Este documento pode ser verificado pelo código 2025.10.23.1.1.43.1.4.2.220.1425433
+em https://www.doe.sp.gov.br/autenticidade
+10/14
+Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).
+
+
+--- PAGE 11 ---
+
+Artigo 31. Será cancelada a matrícula do aluno que:
+I. deixar de apresentar, quando requerido pela USP, o certificado de conclusão e o histórico
+escolar do Ensino Médio;
+II. não concluir o Ensino Médio no ano letivo de 2025 (ainda que no ano-calendário de 2026),
+por motivo de reprovação ou outro;
+III. deixar de apresentar a documentação devida nos prazos estabelecidos;
+IV. prestar informações inverídicas;
+V. realizar nova pré-matrícula em outro processo de ingresso para a USP de 2026;
+VI. não cursou o Ensino Médio integralmente em Escolas Públicas Brasileiras, conforme
+definido no caput e no inciso I do art. 9º.
+Artigo 32 - Para pedir desistência da matrícula, com consequente cancelamento de sua vaga do
+PROVÃO PAULISTA SERIADO 2025,os ingressantes devem acessar o link de cancelamento:
+https://uspdigital.usp.br/jupiterweb/graduacaoMatriculaIngressCancel. O cancelamento realizado por
+este meio será definitivo e não poderá ser tornado sem efeito.
+Artigo 33 - A prestação de informações falsas ou a apresentação de documentação inidônea pelo
+candidato, apurada posteriormente à matrícula, em procedimento que lhe assegure o contraditório e
+a ampla defesa, ensejará o cancelamento de sua matrícula na USP, sem prejuízo das sanções penais
+eventualmente cabíveis.
+Artigo 34 - O candidato deverá providenciar seus documentos com antecedência, pois não haverá
+tempo adicional nos processos de matrícula (pré-matrícula e efetivação de matrícula), conforme
+cronograma de cada chamada.
+DA ETAPA DE EFETIVAÇÃO DE MATRÍCULA VIRTUAL
+Artigo 35 - Todos os ingressantes na USP deverão efetivar sua matrícula no endereço eletrônico
+https://uspdigital.usp.br/jupiterweb/graduacaoMatriculaIngressanteConfirm, no prazo estabelecido
+no cronograma disponível no Anexo II desta Instrução Normativa, sob pena de perda da vaga. Nesse
+ato, o candidato aprovado que realizou a etapa de pré-matrícula virtual deverá efetivar sua matrícula.
+Artigo 36 - Em caso de impossibilidade de o próprio candidato realizar a pré-matrícula virtual e/ou a
+efetivação de matrícula virtual no site da USP, este poderá fazer-se representar por procurador
+legalmente constituído, o qual deverá apresentar virtualmente toda a documentação na data e
+horário estabelecidos no cronograma, conforme Anexo II, inclusive documento de identidade
+atualizado do procurador, instrumento original de procuração simples assinada pelo candidato e
+cópia do documento de identidade do candidato, além da comprovação do atendimento a todos os
+requisitos legais e regulamentares.
+Parágrafo único - A etapa virtual de efetivação da matrícula poderá ser realizada por
+procuração, na seguinte forma:
+I. por instrumento particular ou público, se o outorgante for maior de 18 anos;
+Este documento pode ser verificado pelo código 2025.10.23.1.1.43.1.4.2.220.1425433
+em https://www.doe.sp.gov.br/autenticidade
+11/14
+Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).
+
+
+--- PAGE 12 ---
+
+II. por instrumento público, devidamente assistido por um dos genitores ou responsável
+legal, se o outorgante for menor de 18 anos.
+DAS DISPOSIÇÕES FINAIS
+Artigo 37 - O candidato que não realizar, no prazo estabelecido no Anexo II desta Instrução
+Normativa, qualquer uma das etapas obrigatórias (pré-matrícula, efetivação de matrícula, e aceite da
+banca de heteroidentificação para vagas PPI) terá sua matrícula cancelada.
+Artigo 38 - A Universidade de São Paulo não se responsabilizará por documentos exigidos na pré-
+matrícula virtual e/ou na efetivação de matrícula virtual não recebidas por quaisquer motivos de
+ordem técnica de computadores, falhas de comunicação, congestionamentos das linhas de
+comunicação, por procedimento indevido, bem como por outros fatores que impossibilitem a
+transferência de dados, sendo de responsabilidade exclusiva do candidato acompanhar a situação
+das etapas de matrícula. Também não se responsabiliza pelo descumprimento, por parte do
+candidato, de procedimentos e prazos por quaisquer motivos de ordem técnica de computadores,
+falhas de comunicação, congestionamentos das linhas de comunicação, por procedimento indevido,
+bem como por outros fatores externos à USP que impossibilitem a transferência de dados, sendo de
+responsabilidade exclusiva do candidato acompanhar a situação de sua inscrição e providenciar com
+a antecedência necessária a documentação exigida.
+Artigo 39 - É de exclusiva responsabilidade do candidato entrar em contato com a Central de
+Matrículas da USP, por meio de seus canais de atendimento, para sanar quaisquer dúvidas a respeito
+da matrícula (documentação, pré-matrícula virtual e/ou efetivação de matrícula virtual). O contato
+deve ser realizado antes do final dos prazos definidos, conforme o cronograma de matrícula
+constante no Anexo II desta Instrução Normativa.
+Artigo 40 - Para todos os procedimentos, normas e prazos descritos nesta Instrução Normativa, será
+observado o horário de Brasília - Distrito Federal.
+Artigo 41

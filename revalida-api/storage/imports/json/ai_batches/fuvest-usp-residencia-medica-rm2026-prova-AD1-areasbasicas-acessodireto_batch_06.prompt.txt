@@ -1,0 +1,415 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+duta indicada nesse momento é: 
+ 
+(A) Administrar adrenalina 1:1.000 por via intramuscular. 
+(B) Alta hospitalar, com anti-histamínico e corticosteroide. 
+(C) Monitorização hospitalar e administrar anti-histamínico. 
+(D) Realizar medidas de eliminação com lavagem gástrica. 
+##### 
+ 
+ 
+{58} 
+Criança, sexo feminino, branca, 1 ano e 2 meses de idade, 
+apresenta febre de até 39,5 °C há um dia, sem outros 
+sintomas. Há cerca de uma hora, apresentou crise convulsiva 
+tônico clônica generalizada com duração de 4 minutos na 
+vigência de febre, sendo levada ao hospital. Foi admitida já 
+fora da crise, alerta e sem alterações no exame físico. Paciente 
+previamente hígida, com vacinação em dia, tem antecedente 
+familiar de irmão e pai com histórico de crises convulsivas na 
+vigência de febre até os cinco anos de idade. Frente aos 
+dados apresentados, a conduta indicada para a paciente é 
+ 
+(A) coletar eletrólitos, glicemia capilar e hemograma. 
+(B) coletar urina tipo 1 e urocultura por sondagem vesical. 
+(C) realizar ultrassom transfontanela e eletroencefalograma. 
+(D) manter observação hospitalar por 24h, sem exames. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 23 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{59} 
+Você é responsável pela organização de uma pesquisa sobre obesidade infantil. O objetivo é buscar pacientes do sexo masculino, 
+de 0 a 15 anos de idade, com diagnóstico de obesidade, conforme padronização da Organização Mundial de Saúde (OMS) 
+apresentadas nas tabelas a seguir, a fim de conhecer os hábitos alimentares destas crianças. 
+ 
+ 
+ 
+ 
+Considerando as referências da OMS e o objetivo da pesquisa, assinale a alternativa que apresenta o paciente mais adequado 
+para o estudo. 
+ 
+(A) 1 ano e 10 meses, IMC de 20 kg/m2 
+(B) 3 anos e 2 meses, IMC de 17,5 kg/m2 
+(C) 8 anos e 3 meses, IMC de 21 kg/m2 
+(D) 12 anos e 6 meses, IMC de 22,5 kg/m2 
+##### 
+ 
+
+
+--- PAGE 24 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{60} 
+Criança, sexo masculino, 7 anos de idade é portadora de 
+miopia e usa lentes corretivas. Em mutirão executado por 
+agentes comunitários de saúde treinados previamente, foi 
+submetida ao teste de Snellen em sua escola, usando seus 
+óculos. A mãe da criança procura a unidade básica de saúde 
+solicitando encaminhamento ao oftalmologista após a 
+aplicação do teste, com resultado mostrado na imagem a 
+seguir:  
+ 
+ 
+ 
+Assinale 
+a 
+alternativa 
+que 
+justifica, 
+corretamente, 
+o 
+encaminhamento ao especialista. 
+ 
+(A) O resultado obtido no olho direito está alterado. 
+(B) O resultado obtido foi diferente nos dois olhos. 
+(C) O teste foi realizado com uso das lentes corretivas. 
+(D) O teste foi realizado por profissional não habilitado. 
+##### 
+ 
+{61} 
+Recém-nascido a termo internado na unidade neonatal para 
+tratamento 
+de 
+neurossífilis 
+apresentou 
+hipoglicemia 
+assintomática nas primeiras 24 horas de vida, necessitando 
+de reposição endovenosa de glicose por 72 horas. Com  
+11 dias de vida, apresenta perda ponderal de 12% em relação 
+ao peso de nascimento, recebendo seio materno e, na 
+ausência da mãe, fórmula láctea com oferta adequada, além 
+da antibioticoterapia parenteral. Foram coletados exames 
+laboratoriais que revelaram Na+ de 126 mEq/L e K+ de  
+6,8 mEq/L. Qual é a deficiência que se espera encontrar no 
+Teste do Pezinho? 
+ 
+(A) Deficiência de TREC e KREC. 
+(B) Deficiência de 21-hidroxilase. 
+(C) Deficiência de carnitina. 
+(D) Deficiência na síntese da proteína CFTR. ##### 
+{62} 
+Criança, 4 meses de vida, comparece à consulta em unidade 
+básica de saúde acompanhada da mãe com queixa de 
+assadura há 5 dias, após mudar a marca da fralda. Refere 
+também dor durante a amamentação há uma semana. Mãe 
+nega febre, diarreia, vômitos ou prostração. Ao exame físico, 
+a criança apresenta bom estado geral, ganho pondero-
+estatural 
+adequado, 
+exame 
+abdominal 
+e 
+ausculta 
+cardiopulmonar sem alterações. A região perineal é 
+apresentada na imagem a seguir:  
+ 
+ 
+ 
+Ao avaliar a mamada, a mãe refere dor no momento da pega 
+e durante a sucção. O aspecto da mama pode ser visualizado 
+na imagem a seguir:  
+ 
+ 
+ 
+Assinale a alternativa que apresenta a conduta mais 
+adequada nesse momento. 
+ 
+(A) Retirar leite e derivados da dieta materna. 
+(B) Antifúngico tópico no períneo e na mama da mãe. 
+(C) Retornar à marca da fralda anterior e orientar pega 
+adequada. 
+(D) Pomada de barreira em períneo e lanolina na mama da 
+mãe. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IMAGEM REMOVIDA NOS 
+TERMOS DO ESTATUTO 
+DA CRIANÇA E DO 
+ADOLESCENTE. 
+
+
+--- PAGE 25 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{63} 
+Criança, sexo feminino, 8 anos de idade, portadora de asma, comparece à consulta na unidade básica de saúde referindo que, 
+nas últimas 4 semanas, apresenta tosse e cansaço pelo menos uma vez por semana. Despertou à noite por cansaço apenas uma 
+vez. Tem utilizado medicação de resgate para realizar aula de educação física (3 vezes por semana), conseguindo fazer a aula 
+junto aos seus colegas, sem problemas. Faz uso diário de beclometasona HFA partícula padrão 50 µg, 2 jatos por via inalatória de 
+12/12horas, com técnica de aplicação repetida por duas vezes, conforme imagem a seguir: 
+ 
+ 
+ 
+Qual a conduta na consulta de hoje, conforme recomendações do GINA 2025? 
+ 
+(A) Associar salbutamol 100 µg 4 jatos de 12/12 horas. 
+(B) Ajustar beclometasona para 200 µg 1 jato de 12/12horas. 
+(C) Corrigir técnica de administração, sem alterar medicações. 
+(D) Referenciar paciente ao serviço de pneumologia pediátrica. 
+#####
+ 
+{64} 
+Mãe demonstra preocupação na maternidade com relação à 
+aparência umbilical observada em sua primeira filha, com  
+3 dias de vida, conforme a imagem a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que indica a melhor conduta. 
+ 
+(A) Encaminhar para o cirurgião pediátrico para avaliação 
+ambulatorial. 
+(B) Correção cirúrgica antes da alta, devido ao risco de 
+encarceramento. 
+(C) Manter internação hospitalar e iniciar antibioticoterapia. 
+(D) Conduta expectante, orientar limpeza e não aplicar 
+técnicas compressivas. 
+##### 
+ 
+ 
+ 
+ 
+ 
+{65} 
+Criança, sexo masculino, 2 anos de idade, com antecedente 
+de anemia falciforme (Hb basal de 8,5 g/dL), é admitida no 
+pronto-socorro com queixa de febre de até 38,5 °C há 4 dias, 
+palidez e adinamia há 3 dias. Ao exame físico, apresenta-se 
+descorado 3+/4+, hidratado, com FC de 152 bpm, FR de  
+23 irpm, PA de 80×48 mmHg, SpO2 de 94% em ar ambiente, 
+ausculta pulmonar sem alteração, ausculta cardíaca com 
+sopro holossistóloco 2+/6+, fígado palpável no rebordo costal 
+direito, baço percutível no rebordo costal esquerdo. Coletados 
+exames laboratoriais e liberado hemograma na urgência com 
+resultado de pânico:  
+ 
+Hb: 4,5 g/dL 
+Ht: 16% 
+Leucócitos: 17.350/mm3 
+Plaquetas: 160.000/mm3 
+Reticulócitos: 0,1% 
+ 
+Assinale a alternativa que melhor descreve o mecanismo 
+fisiopatológico do quadro apresentado pelo paciente. 
+ 
+(A) Choque hipovolêmico hipotensivo relacionado à retenção 
+esplênica. 
+(B) Sepse e anemia de consumo decorrente de infecção por 
+agente encapsulado. 
+(C) Hemólise 
+intravascular 
+disseminada 
+decorrente 
+de 
+atividade da doença. 
+(D) Anemia 
+sintomática 
+por 
+supressão 
+transitória 
+da 
+eritropoiese medular. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IMAGEM REMOVIDA NOS TERMOS DO 
+ESTATUTO DA CRIANÇA E DO ADOLESCENTE. 
+
+
+--- PAGE 26 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{66} 
+Criança, sexo masculino, 3 anos e 7 meses de vida, comparece à consulta com a pediatra após infecção urinária, adequadamente 
+diagnosticada no pronto-socorro com exame de urina. Na ocasião, referia febre, dor abdominal e náusea; foi prescrita 
+antibioticoterapia, com melhora dos sintomas em menos de 48 horas. Nega infecções urinárias prévias. A paciente realizou 
+ultrassonografia e compareceu à consulta devido à infecção e à ultrassonografia apresentada a seguir: 
+ 
+ 
+ 
+Assinale a alternativa com a imagem que representa o exame ou monitorização a ser solicitado na consulta, neste momento. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+#####
+
+
+--- PAGE 27 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{67} 
+Criança, sexo masculino, 10 anos de idade, em quimioterapia 
+devido à neuroblastoma diagnosticado há 6 meses, sendo a 
+última sessão realizada há 10 dias, está no terceiro dia de 
+internação na enfermaria de pediatria por neutropenia febril, 
+em uso de cefepime. Está afebril nas últimas 36 horas, sem 
+queixas álgicas. Ao exame físico, está consciente, orientado, 
+hidratado, descorado +/4+, sem alterações no restante do 
+exame. Mãe refere não ter novas queixas, mas comenta que 
+ele está inapetente, tem recusado a dieta e não dormiu bem. 
+Refere também que, nas últimas 3 semanas, está mais 
+abatido, tem dormido durante quase todo o dia e, quando 
+acordado, apresenta-se irritado, menos colaborativo que o 
+usual e recusa-se a sair da cama e interagir com familiares. Na 
+enfermaria, segue sem interagir com outros pacientes e com 
+a equipe multiprofissional.  
+ 
+• Exames laboratoriais na admissão: 
+Hb: 8,8 g/dL 
+Ht: 27% 
+Leucócitos: 400/mm3 (sem diferencial) 
+Plaquetas: 55 mil/mm3 
+ 
+• Exames laboratoriais de hoje:  
+Hb: 8,6 g/dL 
+Ht: 26% 
+Leucócitos: 600/mm3 (sem diferencial) 
+Plaquetas: 59 mil/mm3 
+Na+: 137 mEq/L 
+K+: 4,3 mEq/L 
+ 
+Assinale a alternativa que apresenta a conduta mais indicada 
+para a evolução descrita no caso. 
+ 
+(A) Considerar possibilidade de privação sensorial associada 
+a internações e dar alta hospitalar. 
+(B) Considerar quadro compatível com ajustamento à doença, 
+sem investigações adicionais. 
+(C) Solicitar avaliação psiquiátrica e suporte psicológico por 
+suspeita de depressão. 
+(D) Corrigir parâmetros hematimétricos com transfusão de 
+concentrado de hemácias e observar se há melhora da 
+adinamia. 
+##### 
+ 
+{68} 
+Criança, sexo feminino, 9 anos de idade, previamente hígida, 
+está no 6º dia de internação na enfermaria de pediatria devido 
+a um quadro de pneumonia, em uso de ceftriaxone  
+100 mg/kg/dia. À entrada, apresentava febre, taquipneia e 
+queda do estado geral. A radiografia de tórax evidenciou 
+derrame pleural significativo que foi drenado com envio do 
+líquido para cultura. Realizada tomografia computadorizada 
+de tórax, com achados compatíveis com pneumonia 
+necrotizante. Hoje, na evolução, você percebe que a paciente 
+continua mantendo picos diários de febre de até 39 °C, 
+embora apresente bom estado geral e reduzindo a 
+necessidade de oferta de oxigênio. A cultura do líquido pleural 
+resultou positiva para pneumococo sensível à penicilina. 
+Considerando os dados apresentados, a melhor conduta, 
+nesse momento, é 
+ 
+(A) prescrever cefepime e vancomicina. 
+(B) solicitar nova avaliação da cirurgia. 
+(C) repetir tomografia de tórax. 
+(D) manter antibioticoterapia e suporte. 
+##### 
+{69} 
+Criança, sexo masculino, 2 anos de idade, previamente hígida, 
+iniciou quadro de coriza e febre de até 38 °C há três dias, com 
+evolução para tosse seca, intensa e estridente há um dia. 
+Paciente foi levado de madrugada à unidade de emergência 
+devido à dificuldade para respirar há cerca de 30 minutos. Ao 
+exame, foi notada tiragem subdiafragmática e de fúrcula, com 
+dificuldade e ruído inspiratório, audível em repouso. 
+Considerando a principal hipótese diagnóstica, assinale a 
+alternativa cuja a imagem ilustra, corretamente, a posição 
+anatômica da complicação apresentada pelo paciente e a 
+representação fisiológica do acometimento respiratório. 
+ 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 28 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD1 
+{70

@@ -1,0 +1,840 @@
+
+
+--- PAGE 1 ---
+
+ 
+A15 
+ 
+ 
+ÁREAS DE ATUAÇÕES 
+Transplante de Fígado 
+Cirurgia de Aparelho Digestivo 
+ 
+ 
+ 
+ 
+ 
+      PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025     
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo A15. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 2 horas. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo 
+fiscal. O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14 h. Não haverá tempo 
+adicional para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 40 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L 
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Trans. de Fígado – Cir. do Aparelho Digestivo – PROVA A15 
+{01} 
+Reconstruções fisiológicas são aquelas que drenam, ao 
+menos parte, o fluxo venoso do sistema esplâncnico para o 
+enxerto hepático. Para casos de trombose não-tumoral 
+complexa de veia porta, tais reconstruções têm mostrado 
+resultados aceitáveis. Assinale a alternativa que contém um 
+tipo de tal reconstrução. 
+(A) Anastomose renoportal sem shunt esplenorrenal.
+(B) Arterialização de veia porta.
+(C) Hemitransposição cavo-portal sem shunt portossitêmico.
+(D) Transplante multivisceral.
+##### 
+{02} 
+Homem, 62 anos de idade, com histórico de cirrose hepática 
+alcoólica há 5 anos, comparece ao pronto atendimento com 
+piora progressiva da dispneia, associada ao aumento de ascite 
+e icterícia. Ao exame físico, apresenta temperatura de 38,5 °C, 
+FC de 106 bpm, FR de 24 irpm e PA de 100×60 mmHg. Notam-
+se icterícia, ascite, edema em membros inferiores, circulação 
+colateral abdominal e hepatoesplenomegalia. Apresenta-se 
+consciente e compactuante, porém com fala algo arrastada. 
+• Exames laboratoriais:
+Bilirrubina total: 14,5 mg/dL
+Bilirrubina direta: 9,2 mg/dL
+Albumina: 2,1 g/dL
+INR: 1,9
+Plaquetas: 64 mil/mm3
+Creatinina: 2,6 mg/dL
+Relação PaO2 / FiO2: 250
+Segundo o modelo de falência orgânica, qual o grau de ACLF 
+(do inglês, Acute-on-chronic Liver Failure ou Insuficiência 
+Hepática Crônica Agudizada) que o paciente apresenta?  
+(A) Grau 0.
+(B) Grau 1.
+(C) Grau 2.
+(D) Grau 3.
+##### 
+{03} 
+Qual a principal causa de transplante de fígado pediátrico no 
+Brasil?  
+(A) Atresia de vias biliares.
+(B) Hepatoblastoma.
+(C) Tirosinemia.
+(D) Doença de Crigler-Najjar.
+##### 
+{04} 
+Algumas causas de hepatopatia crônica também podem ser 
+responsáveis por quadros de hepatite aguda fulminante. 
+Assinale a alternativa que contém uma dessas causas. 
+(A) Infecção por vírus da hepatite C.
+(B) Doença de Wilson.
+(C) Colangite esclerosante primária.
+(D) Polineuropatia amiloidótica familiar.
+##### 
+{05} 
+Paciente cirrótico, 56 anos de idade, apresenta um carcinoma 
+hepatocelular de 8,5 cm no segmento IVB / V, próximo à 
+vesícula biliar, com trombose tumoral em ramo hepático 
+direito. Seu escore na escala de Child-Pugh é C14, cursando 
+com ascite importante. Assinale a alternativa que contém uma 
+estratégia válida para o caso apresentado. 
+(A) Bissegmentectomia hepática regrada IVB / V.
+(B) Listar para transplante hepático com doador falecido.
+(C) Realizar radioablação do tumor com micro-ondas.
+(D) Priorizar cuidados paliativos.
+##### 
+{06} 
+Considerando uma captação de múltiplos órgãos de doador 
+falecido (fígado, pâncreas, rins, pulmão e coração), assinale a 
+alternativa correta.  
+(A) Não é necessário clampear a aorta descendente, pois a
+mesma 
+solução 
+de preservação 
+a 
+ser 
+infundida
+retrogradamente na aorta infra-renal é adequada, tanto
+para os órgãos abdominais, quanto para os órgãos
+torácicos.
+(B) Como o pâncreas também será captado, é proibida a
+infusão de solução de preservação no sistema portal.
+(C) Devido à maior quantidade de receptores de rim na fila de
+espera, os rins são os primeiros órgãos a serem retirados
+na parte fria.
+(D) Em geral, a aorta é clampeada em sua porção
+supracelíaca, imediatamente, antes da infusão da solução
+de preservação para os órgãos abdominais.
+##### 
+{07} 
+Em relação aos enxertos hepáticos de doadores falecidos 
+com critérios expandidos, assinale a alternativa correta. 
+(A) A utilização de tais enxertos, apesar de inicialmente
+indicada, 
+mostrou-se 
+associada 
+com 
+resultados
+insatisfatórios, sendo que atualmente tais órgãos não
+devem ser utilizados.
+(B) São uma fonte importante de enxertos para transplante na
+atualidade, com bons resultados, se realizado um
+matching adequado entre doador e receptor.
+(C) Dada à atual era de escassez de órgãos, são amplamente
+utilizados em casos de transplante hepático pediátrico.
+(D) Uma parcela importante de enxertos hepáticos com
+critérios expandidos no Brasil provém da doação após
+morte circulatória (DCD).
+##### 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Trans. de Fígado – Cir. do Aparelho Digestivo – PROVA A15 
+{08} 
+A figura a seguir mostra um enxerto de lobo direito de doador 
+vivo após término de cirurgia de bancada (backtable).  
+Qual estrutura é representada pela seta? 
+(A) Veia cava inferior retrohepática.
+(B) Veia porta.
+(C) Veia mesentérica superior.
+(D) Conduto venoso feito a partir de vasos ilíacos de doador
+falecido.
+##### 
+{09} 
+Os imunossupressores tacrolimo e ciclosporina são ambos 
+inibidores de calcineurina, compartilhando, portanto, vários 
+possíveis efeitos colaterais em comum. Assinale a alternativa 
+que contém um efeito colateral muito mais associado com a 
+ciclosporina em relação ao tacrolimo.  
+(A) Hirsutismo.
+(B) Nefrotoxicidade.
+(C) Hipomagnesemia.
+(D) Tremores.
+##### 
+{10} 
+Em relação ao transplante hepático inter vivos em adultos, 
+assinale a alternativa correta.  
+(A) A ocorrência de variações anatômicas em doadores vivos
+não é infrequente, podendo ser visualizadas usualmente
+em tomografias de abdome superior.
+(B) Não é obrigatória a inclusão da veia hepática média em
+enxertos de lobo direito.
+(C) A trifurcação portal é uma variação anatômica nos ramos
+de veia porta que inviabiliza a utilização de enxertos de
+lobo hepático direito.
+(D) Enxertos de lobo direito contendo 2 artérias hepáticas não
+devem ser utilizados.
+##### 
+{11} 
+A figura a seguir mostra um passo realizado durante uma 
+captação de fígado.  
+Qual passo é esse? 
+(A) Perfusão hepática com solução de preservação.
+(B) Lavagem de bile via vesícula biliar.
+(C) Descontaminação do duodeno com infusão de antibióticos
+tópicos.
+(D) Aspiração de sangue via veia cava infra-hepática.
+##### 
+{12} 
+Quadros graves de febre amarela podem evoluir com 
+insuficiência hepática grave. Em alguns casos excepcionais, 
+o transplante de fígado pode ser indicado. Considerando-se
+tais pacientes, assinale a alternativa correta.
+(A) O tratamento efetivo com sofosbuvir tem reduzido cada
+vez mais a necessidade de transplante de fígado nessa
+população.
+(B) A plasmaferese não deve ser utilizada em tais casos, visto
+que pode induzir a maior replicação viral.
+(C) Em geral, o paciente apresenta coagulopatia importante,
+com níveis baixos de fator V, além de encefalopatia grave,
+ao passo que os níveis séricos de bilirrubinas não são tão
+elevados. Desse modo, é mais comum o paciente
+preencher critério para hepatite fulminante pelos critérios
+de Clichy do que pelos critérios de O’Grady.
+(D) Pelo caráter sistêmico da doença, há também casos que
+cursam com pancreatite aguda importante, para os quais
+o transplante duplo fígado-pâncreas é indicado.
+##### 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Trans. de Fígado – Cir. do Aparelho Digestivo – PROVA A15 
+{13} 
+Assinale a alternativa correta sobre transplante hepático 
+convencional. 
+ 
+(A) Trata-se de uma técnica ultrapassada, que não é mais 
+utilizada nos tempos atuais.  
+(B) Como envolve a resseção da veia cava retrohepática do 
+receptor, o bypass veno-venoso deve ser sempre, 
+obrigatoriamente, utilizado.  
+(C) Apesar da popularização da técnica de piggyback, o 
+transplante hepático convencional ainda pode ser 
+vantajoso em algumas situações específicas, como casos 
+de síndrome de Budd-Chiari ou doença hepática 
+policística. 
+(D) Uma das vantagens do transplante hepático convencional 
+sobre a técnica de piggyback é a manutenção do retorno 
+venoso caval durante a fase anepática. 
+##### 
+ 
+{14} 
+O principal objetivo da imunossupressão após o transplante 
+hepático é: 
+ 
+(A) Induzir a tolerância imunológica ao enxerto. 
+(B) Prevenir a infecção pelo citomegalovírus. 
+(C) Evitar a trombose da veia porta. 
+(D) Tratar a ascite. 
+##### 
+ 
+{15} 
+No transplante hepático inter vivos adulto, utiliza-se o 
+hemifígado direito como enxerto na maior parte das vezes. 
+Isso ocorre devido à 
+ 
+(A) maior massa de parênquima hepático do hemifígado 
+direito. 
+(B) menor incidência de variações anatômicas biliares no 
+hemifígado direito. 
+(C) maior facilidade técnica da hepatectomia direita em 
+doadores vivos, quando comparada à hepatectomia 
+esquerda. 
+(D) impossibilidade técnica de se realizar hepatectomia 
+esquerda minimamente invasiva em doadores vivos.  
+##### 
+ 
+{16} 
+Assinale a alternativa correta sobre causas de transplante 
+hepático no Brasil.  
+ 
+(A) Em virtude da popularização do tratamento antiviral de alta 
+eficácia, a cirrose por infecção por vírus da hepatite C não 
+é mais uma causa relevante de transplante hepático no 
+Brasil. 
+(B) Apesar da existência de vacina para vírus da hepatite B, 
+casos de cirrose causados pela infecção crônica por esse 
+vírus não diminuíram no Brasil na última década, visto que 
+a maioria da população se recusa a tomar essa vacina.   
+(C) O etilismo ainda é uma causa de cirrose e de transplante 
+hepático bastante prevalente em nosso país.  
+(D) Espera-se que a cirrose por hepatite autoimune se torne a 
+principal causa de transplante hepático no mundo em um 
+futuro breve, tendo em vista que a incidência de patologias 
+de fundo autoimune tem aumentado assustadoramente 
+por conta da menor exposição das crianças a patógenos 
+durante a infância. ##### 
+{17} 
+A imagem a seguir mostra uma foto retirada durante uma 
+cirurgia de bancada (backtable) para preparo de enxerto 
+hepático.  
+ 
+ 
+ 
+Qual a estrutura apontada na imagem? 
+ 
+(A) Veia porta. 
+(B) Veia mesentérica superior. 
+(C) Veia mesentérica inferior. 
+(D) Veia cava retrohepática.  
+##### 
+ 
+{18} 
+Uma condição potencialmente grave que pode afetar 
+pacientes cirróticos é a síndrome hepatopulmonar. Em relação 
+à síndrome hepatopulmonar, assinale a alternativa correta. 
+ 
+(A) Trata-se de uma afecção caracterizada pela vasodilatação 
+intrapulmonar em pacientes com doença hepática crônica, 
+levando à hipoxemia. 
+(B) É uma condição rara em que há hipertensão pulmonar 
+associada à hipertensão portal, sem que haja uma causa 
+conhecida para o aumento da pressão arterial pulmonar. 
+(C) Apesar de sua gravidade, não é comtemplada como 
+possível situação especial para pontuação extra em fila no 
+sistema MELD/PELD brasileiro atual.  
+(D) Pacientes portadores de tal síndrome devem ser 
+priorizados em fila para transplante duplo fígado-pulmão.  
+##### 
+ 
+{19} 
+Em relação ao transplante hepático inter vivos em adultos, 
+assinale a alternativa correta.  
+ 
+(A) A ocorrência de variações anatômicas em doadores vivos 
+não é rara, podendo ser visualizas usualmente em 
+tomografias de abdome superior.  
+(B) Não é obrigatória a inclusão da veia hepática média em 
+enxertos de lobo direito.  
+(C) A trifurcação portal é uma variação anatômica nos ramos 
+de veia porta que inviabiliza a utilização de enxertos de 
+lobo hepático direito.  
+(D) Enxertos de lobo direito contendo 2 artérias hepáticas não 
+devem ser utilizados. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Trans. de Fígado – Cir. do Aparelho Digestivo – PROVA A15 
+{20} 
+A imagem a seguir mostra uma foto retirada durante uma 
+captação de fígado.  
+ 
+ 
+ 
+Qual a estrutura apontada na imagem? 
+ 
+(A) Veia porta. 
+(B) Veia mesentérica superior. 
+(C) Veia mesentérica inferior. 
+(D) Via biliar.  
+##### 
+ 
+{21} 
+Sobre a cirrose por MASH (Esteato-hepatite Associada à 
+Disfunção Metabólica), assinale a alternativa correta. 
+ 
+(A) Trata-se de uma causa de transplante que tem diminuído 
+nos últimos anos, em virtude da popularização da cirurgia 
+bariátrica, que tem levado à diminuição do índice de 
+massa corpórea da população.  
+(B) É bastante associada ao desenvolvimento de carcinoma 
+hepatocelular 
+(C) É obrigatória a realização de cirurgia bariátrica em todos 
+os potenciais candidatos a transplante de fígado por 
+cirrose MASH, já que o emagrecimento pode levar à 
+melhora de função hepática e tornar o transplante não mais 
+necessário.  
+(D) O bypass gástrico em Y de Roux é a técnica mais 
+empregada em pacientes com cirrose MASH, nos quais a 
+cirurgia bariátrica é indicada antes do transplante de 
+fígado.  
+##### 
+ 
+{22} 
+Qual o tratamento definitivo para o não-funcionamento 
+primário do enxerto hepático? 
+ 
+(A) Terapia hepática substitutiva contínua pelo sistema 
+Prismaflex/Prismax. 
+(B) Hepatectomia parcial da porção afetada do órgão. 
+(C) Retransplante hepático. 
+(D) Derivação biliodigestiva. 
+##### 
+ 
+{23} 
+Um paciente cirrótico realiza parecentese de repetição de 
+rotina e o resultado da análise do líquido ascítico mostra 
+contagem de polimorfonucleares de 180 células/mm3, além de 
+cultura positiva para Escherichia coli. Com base nessas 
+informações, assinale a alternativa com o diagnóstico correto. 
+ 
+(A) Peritonite Bacteriana Espontânea (PBE).  
+(B) Peritonite secundária.  
+(C) Ascite neutrófila. 
+(D) Bacterascite. 
+##### 
+ 
+{24} 
+Paciente cirrótico encontra-se com escore MELD-Na (Modelo 
+para Doença Hepática Terminal – Sódio) de 34 e é listado para 
+transplante hepático com doador falecido no estado de São 
+Paulo em 2025. Seu tipo sanguíneo é AB. Em relação ao caso 
+descrito, assinale a alternativa correta.  
+ 
+(A) Devido ao valor elevado de MELD-Na, o paciente deve ser 
+priorizado em lista de transplante de fígado. 
+(B) Pela gravidade do caso, ele pode receber um enxerto 
+hepático de doadores de acordo com a compatibilidade 
+ABO. Assim, órgãos de doadores dos tipos A, B, O e AB 
+são disponibilizados para o paciente segundo o escore de 
+gravidade no sistema MELD/PELD.  
+(C) Como a lista de transplante hepático funciona de acordo 
+com critério de identidade ABO, o paciente pode receber 
+um enxerto hepático somente de doadores também do tipo 
+AB.  
+(D) No caso apresentado, o paciente pode receber enxertos 
+de doadores falecidos dos tipos AB e A.  
+##### 
+ 
+{25} 
+Na técnica convencional de transplante hepático, pode ser 
+necessária a utilização de máquina de bypass venoso. Quais 
+são os sítios clássicos de inserção de cânulas para confecção 
+do mesmo?  
+ 
+(A) Veia cava retrohepática e ventrículo esquerdo. 
+(B) Veia porta, veia cava superior e veia mesentérica inferior. 
+(C) Veia femoral, veia porta e veia axilar. 
+(D) Veia subclávia, veia jugular e veia cava superior. 
+##### 
+ 
+{26} 
+Atualmente, o critério para alocação de enxerto hepáticos no 
+Brasil em receptores adultos é a gravidade. A escala utilizada 
+em nosso país para esse fim, nos dias de hoje, é: 
+ 
+(A) MELD (Modelo para Doença Hepática Terminal). 
+(B) MELD-Na. 
+(C) MELD 3.0. 
+(D) Delta-MELD. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Trans. de Fígado – Cir. do Aparelho Digestivo – PROVA A15 
+{27} 
+Em relação ao transplante hepático e às metástases hepáticas 
+de carcinoma colorretal, assinale a alternativa correta. 
+(A) Para casos de metástases hepáticas de carcinoma
+colorretal irressecáveis, o transplante hepático pode ser
+uma opção em pacientes bem selecionados a partir dos
+critérios de Estocolmo.
+(B) Para casos de metástases hepáticas de carcinoma
+colorretal 
+é 
+autorizada 
+a 
+utilização 
+de 
+enxertos
+provenientes de doadores com morte encefálica de modo
+rotineiro em diversos países da América Latina, incluindo
+o Brasil.
+(C) Pacientes que já foram submetidos à hepatectomia parcial
+por metástases de carcinoma colorretal e apresentam
+novas metástases, não podem ser submetidos ao
+transplante hepático, em virtude da presença de
+aderências cavitárias abdominais.
+(D) A técnica RAPID (Rapid Allograft Implantation with Donor
+Liver ou Implantação Rápida de Enxerto com Fígado de
+Doador) pode ser utilizada em casos de transplante
+hepático e metástases hepáticas de carcinoma colorretal.
+##### 
+{28} 
+A rejeição celular aguda contra o enxerto hepático envolve a 
+participação de diversas interleucinas para ativação do 
+sistema imune. Dentre elas, a mais importante é a interleucina 
+(A) 2.
+(B) 4.
+(C) 10.
+(D) 35.
+##### 
+{29} 
+Uma das desvantagens da escala de Child-Pugh é que alguns 
+de seus parâmetros tem carácter parcialmente subjetivo. 
+Assinale a alternativa que apresenta um deles. 
+(A) Encefalopatia.
+(B) Bilirrubina sérica.
+(C) Albumina sérica.
+(D) Tempo de protrombina.
+##### 
+{30} 
+A síndrome hepatorrenal é uma afecção potencialmente grave 
+que 
+pode 
+acometer 
+pacientes 
+cirróticos. 
+Uma 
+das 
+características de tal síndrome é:  
+(A) Vasodilatação renal.
+(B) Aumento da excreção de sódio e água.
+(C) Aumento da taxa de filtração glomerular.
+(D) Ausência de lesões renais histológicas significativas.
+##### 
+{31} 
+Assinale a alternativa correta sobre o transplante auxiliar de 
+fígado. 
+(A) Trata-se de uma técnica descrita para pacientes cirróticos
+devido etilismo, visando à recuperação do fígado nativo
+após o paciente cessar o etilismo.
+(B) Envolve necessariamente a realização de uma hepa-
+tectomia esquerda no receptor.
+(C) Uma 
+das 
+principais 
+vantagens 
+da 
+técnica 
+é 
+a
+possibilidade de se interromper a imunossupressão no
+futuro.
+(D) Atualmente no Brasil, é a única modalidade de transplante
+de fígado disponível para pacientes com hepatite alcóolica
+aguda.
+##### 
+{32} 
+A rejeição aguda do enxerto hepático é geralmente mediada 
+por qual tipo de resposta imune? 
+(A) Imunidade humoral.
+(B) Imunidade inata.
+(C) Resposta citotóxica celular.
+(D) Reação de hipersensibilidade tipo I.
+##### 
+{33} 
+Durante o implante de enxerto hepático proveniente de doador 
+falecido, qual a ordem de realização de anastomoses mais 
+comumente utilizada? 
+(A) Primeiro, a anastomose da via biliar, seguida da artéria, da
+veia porta e por fim da veia cava.
+(B) Primeiro, a anastomose da artéria, seguida da veia porta,
+da veia cava e por fim da via biliar.
+(C) Primeiro, a anastomose da veia porta, seguida da veia
+cava, da via biliar e por fim da artéria.
+(D) Primeiro, a anastomose da veia cava, seguida da veia
+porta, da artéria e por fim da via biliar.
+##### 
+{34} 
+Qual dos seguintes exames é o padrão-ouro para o 
+diagnóstico de rejeição aguda do enxerto hepático?  
+(A) Biópsia hepática percutânea.
+(B) Ressonância magnética do fígado.
+(C) Tomografia computadorizada do abdome.
+(D) Ultrassonografia com Doppler.
+##### 
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Trans. de Fígado – Cir. do Aparelho Digestivo – PROVA A15 
+{35} 
+Em relação às modalidades de transplante hepático no Brasil, 
+assinale a alternativa correta. 
+(A) Todo cidadão brasileiro é considerado por lei um potencial
+doador de órgãos. Assim, em caso de morte encefálica, a
+captação de órgãos sempre ocorrerá, a não ser que a
+família do paciente, ativamente, se mostre contra a
+doação.
+(B) Apesar de não autorizada de rotina no Brasil, a doação de
+órgãos após morte circulatória (DCD) pode ser realizada
+se o paciente tiver registrado uma autorização especial em
+cartório antes de falecer.
+(C) Para combater o trágico cenário de escassez de órgãos,
+segundo a legislação brasileira, qualquer pessoa maior de
+idade pode doar um órgão para outra pessoa, se assim o
+consentir, mesmo envolvendo interesses pecuniários.
+(D) A lista de espera para transplante de fígado é única,
+independentemente se o paciente pertence a um hospital
+público ou privado.
+##### 
+{36} 
+Assinale a alternativa correta sobre a reconstrução biliar do 
+enxerto hepático durante o transplante.  
+(A) A incidência de complicações biliares no transplante
+hepático inter vivos é a mesma que em transplantes com
+doadores falecidos.
+(B) No contexto pediátrico, a derivação biliodigestiva é mais
+comumente utilizada do que a reconstrução primária.
+(C) Em adultos, a derivação biliodigestiva não deve ser
+realizada jamais, pois aumenta o risco de pseudo-
+aneurisma de artéria hepática. Em casos em que a
+anastomose primária não pode ser feita, derivações
+biliocutâneas são assim preconizadas.
+(D) Em casos de estenoses ou fístulas biliares tardias em
+anastomoses primárias, não se deve jamais realizar CPRE
+(Colangiopancreatografia Retrógrada Endoscópica) para
+passagem de próteses, pois isso pode levar ao
+rompimento da anastomose.
+##### 
+{37} 
+A rejeição hiperaguda de enxerto felizmente é muito rara no 
+transplante hepático. Esse tipo de rejeição ocorre tipicamente 
+em: 
+(A) Minutos a horas após o transplante.
+(B) Dias após o transplante.
+(C) Semanas após o transplante.
+(D) Meses ou anos após o transplante.
+##### 
+{38} 
+Qual das seguintes complicações do transplante hepático 
+pode levar à necessidade de retransplante? 
+(A) Rejeição crônica do enxerto.
+(B) Não-funcionamento primário do enxerto
+(C) Trombose aguda da artéria hepática.
+(D) Todas as anteriores estão corretas.
+##### 
+{39} 
+Para tratamento de encefalopatia hepática em cirróticos, 
+assinale a alternativa que apresenta uma medicação que 
+pode ser utilizada com esse fim. 
+(A) Diazepam.
+(B) Rifaximina.
+(C) Furosemida.
+(D) Propranolol.
+##### 
+{40} 
+Assinale a alternativa correta sobre transplante hepático e 
+colangiocarcinoma. 
+(A) Para casos de colangiocarcinoma hilar irressecável, o
+transplante hepático pode ser uma opção em pacientes
+bem selecionados, conforme a experiência pioneira a
+partir de esquema de neoadjuvância denominado
+“protocolo de Paris”.
+(B) Transplante hepático por colangiocarcinoma utilizando-se
+enxertos de doadores com morte encefálica já é
+prontamente autorizado de rotina em diversos países do
+globo, incluindo o Brasil.
+(C) O transplante hepático em pacientes com colangite
+esclerosante primária e colangiocarcinoam hilar, em geral,
+apresentam melhores resultados do que em pacientes
+com colangiocarcinoma esporádico.
+(D) Para o colangiocarcinoma intra-hepático, os resultados do
+transplante são bastante promissores, a ponto de alguns
+países já terem substituído a ressecção pelo transplante
+como tratamento de primeira escolha.
+##### 
+
+
+--- PAGE 9 ---
+
+
+
+--- PAGE 10 ---
+
+v2

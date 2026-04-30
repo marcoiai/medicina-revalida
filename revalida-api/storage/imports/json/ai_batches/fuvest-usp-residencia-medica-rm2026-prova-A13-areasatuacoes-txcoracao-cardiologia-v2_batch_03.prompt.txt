@@ -1,0 +1,73 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+da, a
+patogenia da DPE é multifatorial e envolve fatores
+relacionados ao enxerto, ao procedimento e ao receptor.
+O tratamento padrão é composto de doses escalonadas
+de inotrópicos, vasodilatadores, vasopressores e óxido
+nítrico.
+##### 
+{20} 
+Paciente com IC avançada foi internado para avaliação de 
+elegibilidade para transplante. Apresenta os seguintes dados 
+hemodinâmicos ao CATE-D:  
+DC: 1,7 L/min/m² 
+PCP: 22 mmHg 
+PSAP: 54 mmHg 
+PVC: 14 mmHg 
+RVP: 5,2 Wood 
+IC: 1,8 L/min/m² 
+Em relação aos dados apresentados, assinale a alternativa 
+correta. 
+(A) O paciente não apresenta contraindicação ao transplante.
+(B) A PSAP está dentro da normalidade, o que exclui
+hipertensão pulmonar significativa.
+(C) A RVP > 5 U Wood sem reversibilidade contraindica o
+transplante.
+(D) O índice cardíaco > 1,5 descarta IC avançada.
+Note e adote: 
+DC: débito cardíaco; 
+PCP: pressão capilar pulmonar; 
+PSAP: pressão sistólica na artéria pulmonar; 
+PVC: pressão venosa central; 
+RVP: resistência vascular pulmonar; 
+IC: índice cardíaco. 
+##### 
+
+
+--- PAGE 7 ---
+
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+v2
+

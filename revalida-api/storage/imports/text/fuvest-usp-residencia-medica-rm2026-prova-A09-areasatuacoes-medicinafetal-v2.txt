@@ -1,0 +1,866 @@
+
+
+--- PAGE 1 ---
+
+ 
+A09 
+ 
+ 
+ÁREAS DE ATUAÇÕES 
+Medicina Fetal 
+ 
+ 
+ 
+ 
+ 
+ 
+      PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025     
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo A09. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 1 hora. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo fiscal. 
+O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14 h. Não haverá tempo adicional 
+para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 20 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Medicina Fetal – PROVA A09 
+{01} 
+Gestante, 26 anos de idade, G2A1, com antecedente de rim 
+único, sem outras doenças relevantes, inicia pré-natal com 
+idade gestacional de 8 semanas. Ela relata abortamento de  
+6 semanas há 1 ano, sendo submetida à curetagem uterina. 
+Na ocasião, o obstetra que prestou assistência suspeitou de 
+útero bicorno. Em relação ao rastreio do comprimento do colo 
+uterino pela ultrassonografia transvaginal, é correto afirmar: 
+ 
+(A) Deve seguir o protocolo de rastreio universal, com medida 
+durante o ultrassom morfológico de segundo trimestre. 
+(B) Deve ser realizado a cada uma ou duas semanas, a partir 
+da idade gestacional de 16 semanas, até 24 semanas. 
+(C) Deve ser realizado de maneira seriada, iniciando-se 
+durante a ultrassonografia morfológica de primeiro 
+trimestre. 
+(D) Como não há antecedente de parto prematuro, não há 
+necessidade de submeter a paciente ao rastreio universal. 
+##### 
+ 
+{02} 
+Gestante, 35 anos de idade, primigesta, sem doenças de 
+base, realizou ultrassonografia morfológica de segundo 
+trimestre com idade gestacional de 22 semanas. O 
+desenvolvimento fetal estava adequado e, à avaliação 
+transvaginal, o colo uterino media 20 mm. Foi prescrito 
+progesterona por via vaginal, 200 mg à noite, e a gestante foi 
+orientada a cessar atividades físicas extenuantes e retornar 
+para reavaliação em 1 semana. Na reavaliação, a medida do 
+colo uterino era de 5 mm, sendo também observado 
+afunilamento. Assinale a alternativa que apresenta a melhor 
+conduta para este caso. 
+ 
+(A) Aumento da dose de progesterona para 200 mg 12/12 h e 
+repouso relativo em casa. 
+(B) Aumento da dose de progesterona para 200 mg 12/12 h e 
+repouso absoluto em casa. 
+(C) Manutenção da progesterona 200 mg/dia e realização de 
+cerclagem do colo uterino. 
+(D) Manutenção da progesterona 200 mg/dia e introdução de 
+pessário de Arabin. 
+##### 
+ 
+{03} 
+Mulher, 35 anos de idade, comparece em consulta de pré-
+natal com 6 semanas de gestação com exame de 
+ultrassonografia confirmando a idade gestacional, embrião 
+vivo. Refere que é cardiopata, tem válvula mitral mecânica e 
+faz uso de varfarina. Assinale a alternativa que apresenta a 
+conduta correta. 
+ 
+(A) Ajustar a varfarina para a dose mínima necessária para 
+obter o efeito terapêutico desejado, de acordo com o 
+coagulograma. 
+(B) Suspender a varfarina, iniciar AAS 100 mg/dia e uso de 
+meias elásticas até 13 semanas, então retomar o uso de 
+varfarina. 
+(C) Suspender a varfarina e iniciar a heparina de baixo peso 
+molecular em dose terapêutica (2 mg/kg/dia, divididos em 
+duas doses). 
+(D) Suspender a varfarina e iniciar a heparina de baixo peso 
+molecular em dose terapêutica (1 mg/kg/dia, dose única 
+diária). 
+##### 
+ 
+ 
+Texto para as questões de 04 a 06 
+ 
+Mulher, 30 anos de idade, branca, casada. Diagnóstico de 
+diabetes melito gestacional no teste de tolerância à glicose 
+oral com ingestão de 75 g. O controle de glicemia está com 
+5% de valores alterados. Ela comparece ao pronto-socorro de 
+obstetrícia com queixa de dores tipo cólica de forte 
+intensidade no baixo ventre. Idade gestacional calculada pela 
+DUM: 31 semanas. Ao exame físico, apresenta AU de 30 cm, 
+BCF presente, 2 contrações dolorosas em 10 minutos. Toque: 
+colo médio, medianizado, pérvio para 3,0 cm. Apresentação 
+cefálica e bolsa integra com líquido claro. Cardiotocografia: 
+feto ativo com 2 contrações registradas. Perfil biofísico fetal  
+de 10. 
+ 
+{04} 
+Qual a conduta imediata? 
+ 
+(A) Internação, tocólise, corticoide para maturação pulmonar 
+fetal e iniciar insulina na dose de 0,3 UI/kg de peso atual. 
+(B) Internação, tocólise, corticoide para maturação pulmonar 
+fetal e iniciar insulina na dose de 5 UI/kg de peso atual. 
+(C) Internação, tocólise, corticoide para maturação pulmonar 
+fetal e iniciar administração de sulfato de magnésio. 
+(D) Internação, reavaliação em 1 hora e, se progressão da 
+dilatação do colo uterino, conduzir o trabalho de parto. 
+##### 
+ 
+{05} 
+A paciente ficou internada e o trabalho de parto foi inibido. 
+Como deve ser realizado o controle glicêmico? 
+ 
+(A) Avaliação da glicemia de jejum e glicemia capilar a cada 
+4 horas. 
+(B) Avaliação da glicemia capilar de jejum e pós-prandial 
+(almoço). 
+(C) Avaliação da glicemia capilar de jejum, pós-almoço e pós-
+jantar. 
+(D) Avaliação da glicemia capilar de jejum, pré e pós-prandial 
+e de madrugada. 
+##### 
+ 
+{06} 
+A paciente ficou internada por 2 dias e, após a tocólise, evoluiu 
+com rotura prematura das membranas ovulares e trabalho de 
+parto. Toque: colo uterino com dilatação de 7 cm e 
+apresentação cefálica. Cardiotocografia com aceleração 
+transitória. Assinale a alternativa que apresenta a conduta 
+correta. 
+ 
+(A) Sulfato de magnésio para neuroproteção fetal na dose de  
+4 g, endovenoso, cerca de 4 horas antes do nascimento. 
+(B) Sulfato de magnésio para neuroproteção fetal na dose inicial 
+de 4 g, endovenoso, mantendo 1 g/h até o nascimento. 
+(C) Sulfato de magnésio para neuroproteção fetal na dose de  
+4 g, intramuscular, cerca de 4 horas antes do nascimento. 
+(D) Sulfato de magnésio para neuroproteção fetal na dose de  
+8 g, por via endovenosa, no momento do nascimento. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Medicina Fetal – PROVA A09 
+Texto para as questões 07 e 08 
+ 
+Mulher, 35 anos de idade, primigesta, idade gestacional de 34 semanas e 5 dias, pela DUM. É portadora de diabetes melito tipo 1 
+desde os 10 anos de idade e hipertensão arterial crônica diagnosticada há 3 anos. No momento, está internada na enfermaria de 
+obstetrícia de alto risco para controle clínico. Em uso de insulina humana recombinante (NPH), insulina regular (conforme tabela) e 
+metildopa 750 mg/dia. Na evolução do dia de hoje, a gestante apresenta-se em bom estado geral, hidratada, corada, sem queixas, 
+pressão arterial: 123×84 mmHg, sem edema de membros inferiores. A tabela a seguir mostra o perfil glicêmico (mg/dL) da última 
+semana. 
+ 
+ 
+Jejum 
+1h pós 
+café 
+Pré- 
+almoço 
+1h pós- 
+almoço 
+Pré-
+jantar 
+1h pós- 
+jantar 
+3h 
+NPH diária 
+(UI) 
+Regular 
+diária (UI) 
+Dia 1 
+79 
+134 
+69 
+139 
+63 
+128 
+102 
+32 
+26 
+Dia 2 
+84 
+122 
+65 
+138 
+70 
+126 
+97 
+32 
+26 
+Dia 3 
+86 
+133 
+98 
+139 
+90 
+128 
+100 
+30 
+26 
+Dia 4 
+89 
+139 
+101 
+136 
+87 
+135 
+99 
+30 
+26 
+Dia 5 
+73 
+130 
+84 
+122 
+69 
+121 
+90 
+30 
+26 
+Dia 6 
+62 
+111 
+55 
+118 
+75 
+116 
+85 
+30 
+26 
+Dia 7 
+59 
+130 
+61 
+138 
+74 
+125 
+91 
+30 
+26 
+ 
+Ao ultrassom: idade gestacional de 34 semanas e 5 dias, pela DUM, feto único, cefálico, com batimentos cardíacos ritmicos e 
+presença de movimentos respiratórios, placenta anterior grau I, índice de líquido amniótico 7,5 cm, maior bolsão vertical de 2,3 cm, 
+peso fetal estimado 2.180 g (percentil 12 de Hadlock), Doppler da artéria umbilical com IP acima do percentil 97, diástole presente 
+em todo o trajeto, Doppler da artéria cerebral média abaixo do percentil 3. A imagem a seguir apresenta o traçado cardiotocográfico 
+obtido (o asterisco indica o estímulo sonoro realizado). 
+ 
+ 
+ 
+{07} 
+Classifique o traçado da cardiotocografia e indique a nota do perfil biofísico fetal. 
+ 
+(A) ativo; 8. 
+(B) hipoativo, reativo; 8. 
+(C) hipoativo, reativo; 10. 
+(D) hipoativo, hiporreativo; 10. 
+##### 
+ 
+{08} 
+Considerando os dados clínicos apresentados, qual a hipótese diagnóstica e conduta recomendada, respectivamente? 
+ 
+(A) Insuficiência placentária; vigilância de vitalidade fetal. 
+(B) Sofrimento fetal agudo; resolução imediata da gestação. 
+(C) Oligoamnio; ajuste de insulinoterapia para correção da hipoglicemia. 
+(D) Pré-eclâmpsia superajuntada; pesquisa de proteinúria. ##### 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Medicina Fetal – PROVA A09 
+{09} 
+Mulher, 25 anos de idade, primigesta, sem doenças de base. 
+Inicia pré-natal de risco habitual com idade gestacional de  
+10 semanas. Nos exames de rastreamento, apresentou 
+sorologia reagente para HTLV-1/2. Assinale a alternativa que 
+apresenta a conduta recomendada. 
+ 
+(A) Solicitar teste confirmatório por western blot. 
+(B) Indicar a supressão da lactação após o parto. 
+(C) Iniciar terapia anti-retroviral imediatamente. 
+(D) Indicar a necessidade de parto por cesariana. 
+##### 
+ 
+ 
+Texto para as questões de 10 a 12 
+ 
+Gestante, 42 anos de idade, primigesta, com antecedente de 
+hipertensão arterial sistêmica (diagnosticada há 5 anos), 
+obesidade com IMC pré-gestacional de 38 kg/m2. Manteve 
+bom controle pressórico durante a gestação com uso de 
+metildopa 1 g/dia. Na consulta de pré-natal, com idade 
+gestacional de 29 semanas, apresentava peso de 102 kg,  
+PA de 134×84 mmHg e ausência de edema nos membros 
+inferiores. Na consulta seguinte, com 32 semanas, queixou-se 
+de “inchaço nas mãos e nos pés”. Nessa ocasião, 
+apresentava peso de 106,5 kg, PA de 146×94 mmHg e edema 
+2+ em membros inferiores e mãos.  
+ 
+{10} 
+Com base no caso apresentado, assinale a alternativa correta. 
+ 
+(A) O diagnóstico de pré-eclâmpsia superajuntada poderá ser 
+confirmado 
+caso 
+haja 
+demonstração 
+da 
+relação 
+proteína/creatinina na urina ≤ 0,3. 
+(B) O ganho de peso apresentado pela paciente entre as duas 
+consultas não justifica a realização de exames para pré-
+eclâmpsia. 
+(C) Deve-se considerar a hipótese diagnóstica de pré-
+eclâmpsia superajuntada, pois há descontrole pressórico 
+e edema patológico. 
+(D) Deve-se, inicialmente, descartar a hipótese de descontrole 
+da doença de base aumentando a dose da medicação 
+anti-hipertensiva. 
+##### 
+ 
+{11} 
+Ao ser realizada a ultrassonografia obstétrica da paciente, 
+observou-se: feto único, vivo, em apresentação cefálica com 
+dorso à esquerda, placenta anterior, grau I, peso fetal 
+estimado no percentil 7 de Hadlock, circunferência abdominal 
+no percentil 5 de Hadlock, índice de líquido amniótico de 9 cm, 
+maior bolsão vertical de 3,5 cm, Doppler de artéria umbilical 
+com IP no percentil 30, Doppler de artéria cerebral média com 
+IP no percentil 54, Doppler de artérias uterinas com IP médio 
+no percentil 97. Considerando as informações do texto e os 
+novos dados fornecidos, assinale a alternativa correta. 
+ 
+(A) Considerando o IP das artérias uterinas maternas, 
+recomenda-se a resolução da gestação com 34 semanas. 
+(B) O resultado é inesperado, só a restrição de crescimento 
+tardia está associada à condição materna suspeita. 
+(C) A Dopplervelocimetria fetal de rotina não produz 
+resultados que possam modificar a conduta obstétrica. 
+(D) A restrição de crescimento fetal precoce apresenta forte 
+associação com a condição materna suspeita. 
+##### 
+{12} 
+Com relação às condutas a serem tomadas para o quadro 
+apresentado, assinale a alternativa correta. 
+ 
+(A) Internação hospitalar; solicitar exames laboratoriais 
+(hemograma completo, creatinina sérica, TGO/AST, 
+TGP/ALT, DHL, bilirrubinas – total e frações, proteinúria de 
+24h); aumento da dose de metildopa para 1,5 g/dia; 
+resolução da gestação com 37 semanas, desde que não 
+haja novos comemorativos no quadro. 
+(B) Internação hospitalar; solicitar exames laboratoriais (uréia 
+sérica, creatinina sérica, sódio, potássio, cálcio iônico, 
+ácido úrico sérico, exame de urina tipo I); aumentar dose 
+de metildopa para 1,5 g/dia; resolução da gestação com 
+37 semanas, desde que não haja novos comemorativos no 
+quadro. 
+(C) Retorno ambulatorial em 1 semana; solicitar exames 
+laboratoriais (ureia sérica, creatinina sérica, sódio, 
+potássio, cálcio iônico, ácido úrico sérico, exame de urina 
+tipo I); introduzir anlodipino 5 mg/dia; resolução da 
+gestação com 37 semanas, desde que não haja novos 
+comemorativos no quadro. 
+(D) Retorno ambulatorial em 1 semana; solicitar exames 
+laboratoriais (hemograma completo, creatinina sérica, 
+TGO/AST, TGP/ALT, DHL, bilirrubinas – total e frações, 
+proteinúria de 24h); aumentar dose de metildopa para  
+1,5 g/dia; resolução da gestação com 34 semanas, desde 
+que não haja novos comemorativos no quadro. 
+##### 
+ 
+{13} 
+Mulher, 28 anos de idade, primigesta. Refere que tem 
+diagnóstico de anemia falciforme (HbSS) desde a infância 
+com várias crises dolorosas prévias e em acompanhamento 
+com hematologista. Iniciou pré-natal com 10 semanas. O nível 
+basal de hemoglobina era 9 g/dL, demais exames de rotina 
+normais, seguindo sem intercorrências desde então. Realizou 
+ultrassom morfológico de primeiro e de segundo trimestres 
+mostrando desenvolvimento fetal adequado. Com idade 
+gestacional de 24 semanas, comparece ao pronto-socorro de 
+obstetrícia com queixa de tosse seca, dor torácica em 
+pontada no hemitórax esquerdo, dispneia no repouso e febre 
+há 1 dia. Ao exame físico, apresenta-se em regular estado 
+geral, icterícia escleral leve, em desconforto respiratório 
+moderado. Ausculta: murmúrio vesicular diminuído na base 
+esquerda, crepitações em bases. Sinais vitais com FC de  
+112 bpm, PA de 100×65 mmHg, FR de 30 irpm, SpO2 de 90% 
+em ar ambiente e temperatura axiliar de 38,7 °C. Exame 
+obstétrico sem alterações. Radiografia mostrando infiltrado 
+alveolar em base pulmonar esquerda, sem derrame pleural 
+evidente. Assinale a alternativa que apresenta a principal 
+hipótese diagnóstica e conduta imediata, respectivamente. 
+ 
+(A) Síndrome 
+torácica 
+aguda; 
+hidratação, 
+analgesia, 
+antibioticoterapia e oxigenioterapia. 
+(B) Pneumonia; hemograma, antibioticoterapia e instalação de 
+máscara de oxigênio. 
+(C) Infarto agudo do miocárdio; solicitar enzimas hepáticas e 
+eletrocardiograma. 
+(D) Embolia pulmonar; anticoagulação e angiotomografia de 
+tórax. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Medicina Fetal – PROVA A09 
+{14} 
+Mulher, 38 anos de idade, casada, parda, secundigesta com 
+1 parto vaginal há 7 anos, idade gestacional de 36 semanas e 
+5 dias. É hipertensa crônica em uso de metildopa 2 gramas ao 
+dia. Nos exames de rotina do pré-natal, recebeu o diagnóstico 
+de sorologia para HIV-1/2 positiva. Na avaliação com  
+34 semanas, recebeu o resultado de carga viral de  
+40 cópias/mL e contagem de CD4 de 476 células/mm3. Fez 
+uso de TARV durante toda a gestação. À ultrassonografia 
+obstétrica, realizada na semana anterior, o peso estimado fetal 
+estava 
+no 
+percentil 
+5, 
+líquido 
+amniótico 
+normal 
+e 
+dopplervelocimetria da artéria umbilical com aumento de 
+resistência e cerebral média dentro da normalidade. A 
+paciente comparece ao pronto-socorro de obstetrícia com 
+queixa de dor em baixo ventre, presença de 2 contrações 
+uterinas de moderada intensidade em 10 min, colo médio, 
+posterior, pérvio para 5 cm. Realizada cardiotografia, com feto 
+ativo. Qual a conduta correta para o parto e o puerpério? 
+ 
+(A) Condução do trabalho de parto e suspensão da lactação. 
+(B) Condução do trabalho de parto e amamentação permitida. 
+(C) Realizar parto por cesariana de urgência e suspensão da 
+lactação. 
+(D) Parto por cesariana de urgência e amamentação 
+permitida. 
+##### 
+ 
+{15} 
+Mulher, 40 anos de idade, primigesta, casada, inicia o pré-natal 
+e no exame clínico das mamas, palpa-se nódulo no quadrante 
+superior lateral da mama esquerda de cerca de 3 cm. A idade 
+gestacional é de 10 semanas. No exame de ultrassonografia 
+obstétrica, feto único e vivo. Assinale a alternativa que indica a 
+conduta inicial correta. 
+ 
+(A) Seguimento de pré-natal de rotina e avaliação após o parto. 
+(B) Realizar biópsia por agulha fina (PAAF) guiada por 
+ultrassom. 
+(C) Realizar ressonância magnética e biópsia por agulha 
+grossa. 
+(D) Ultrassom das mamas e mamografia com proteção 
+abdominal.  
+##### 
+ 
+{16} 
+Mulher, 42 anos de idade, G3P2, com 2 filhos de 18 e 14 anos 
+de idade, de um relacionamento anterior, e atualmente, com 8 
+semanas de gestação. A paciente tem desejo de realizar o teste 
+não invasivo de rastreamento de aneuploidias, o NIPT, que uma 
+amiga sua fez, devido ao risco aumentado pela idade materna. 
+Assinale a alternativa que apresenta a conduta correta. 
+ 
+(A) Solicitar o NIPT a partir 10 semanas de gestação, antes da 
+realização da ultrassonografia morfológica de primeiro 
+trimestre. 
+(B) Solicitar o teste após a ultrassonografia morfológica de 
+primeiro trimestre, caso o risco para aneuploidias esteja 
+aumentado. 
+(C) Solicitar o teste após a ultrassonografia morfológica de 
+primeiro trimestre, caso a medida da translucência nucal 
+seja ≥3,5 mm. 
+(D) Caso a ultrassonografia morfológica de primeiro trimestre 
+esteja normal, aguardar até 16 semanas para realizar 
+amniocentese. 
+##### 
+ 
+{17} 
+Mulher, 42 anos de idade, G3P2, realizou ultrassom 
+morfológico de primeiro trimestre com 12 semanas, sendo 
+observado comprimento craniocaudal compatível com a idade 
+gestacional calculada pela DUM, medida translucência nucal 
+3,5 mm, com presença de regurgitação tricúspide, e sem 
+outras alterações. Na sequência, foi realizado o NIPT, com 
+resultado de alto risco para trissomia do cromossomo 18. 
+Compareceà consulta com idade gestacional de 13 semanas. 
+Ela questiona se o resultado do NIPT é definitivo e ela deve se 
+preparar para uma gestação difícil e ter uma criança com 
+tempo limitado de vida. Assinale a alternativa que apresenta a 
+conduta correta. 
+ 
+(A) Acolher, explicar que o NIPT é um teste diagnóstico, mas 
+a seria melhor realizar a amniocentese com 16 semanas 
+de gestação. 
+(B) Acolher, explicar que o NIPT é um teste de rastreamento e 
+orientar sobre a biópsia de vilo corial na idade gestacional 
+atual. 
+(C) Acolher, explicar que o NIPT é um teste diagnóstico e que 
+ela precisa se preparar para o nascimento e procurar 
+orientação multidisciplinar. 
+(D) Acolher, explicar que o NIPT é um teste de rastreamento e 
+orientar sobre a amniocentese na idade gestacional atual. 
+##### 
+ 
+{18} 
+Mulher, 42 anos de idade, advogada, G5P2A2, com 
+antecedente de 2 partos normais a termo de um 
+relacionamento anterior, sem intercorrências durante a 
+gestação e partos. Com o atual marido, apresentou  
+2 abortamentos de primeiro trimestre, há cerca de 1 ano, sem 
+causa aparente. Refere quadro depressivo há 15 anos, após 
+a 
+separação 
+do 
+primeiro 
+marido, 
+com 
+tratamento 
+medicamentoso. Na atual gestação, apresentou alteração no 
+ultrassom morfológico de primeiro trimestre, sendo submetida 
+a biópsia de vilo corial e diagnosticada trissomia do 
+cromossomo 21. Comparece à consulta de pré-natal de rotina 
+com 20 semanas, referindo tristeza, perda de ânimo, com 
+dificuldade para realizar as tarefas domésticas e do trabalho. 
+Refere, também, perda de apetite e dificuldade para acordar. 
+Está ansiosa para realizar o ultrassom morfológico de segundo 
+trimestre, devido à possibilidade de malformações cardíacas 
+fetais, sente-se culpada pela alteração fetal. Assinale a 
+alternativa que apresenta a hipótese diagnóstica e a conduta 
+adequada para o caso, respectivamente. 
+ 
+(A) Depressão maior; iniciar tratamento com sertralina. 
+(B) Transtorno de ansiedade; indicar psicoterapia. 
+(C) Quadro depressivo reacional; indicar psicoterapia. 
+(D) Transtorno de ansiedade; prescrever benzodiazepínico. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Medicina Fetal – PROVA A09 
+{19} 
+Mulher, 32 anos de idade, solteira, tabagista, comparece a 
+primeira consulta de pré-natal. No exame clínico, é realizada 
+a coleta de material para a colpocitologia oncótica e 
+solicitação dos exames de rotina do pré-natal. Na segunda 
+consulta do pré-natal, os resultados estão disponíveis. 
+Resultado 
+da 
+Colpocitologia 
+Oncótica 
+(CCO): 
+lesão 
+intraepitelial de baixo grau (LSIL); sorologias: AgHBs positivo, 
+AgHBe negativo. Qual a conduta neste caso? 
+ 
+(A) Pré-natal de risco habitual, cessar tabagismo e repetir a 
+CCO em 1 mês. 
+(B) Encaminhar para pré-natal de alto risco e CCO 30 dias 
+após o parto. 
+(C) Encaminhar para pré-natal de alto risco e CCO 90 dias 
+após o parto. 
+(D) Encaminhar para pré-natal de alto risco e realização de 
+colposcopia. 
+##### 
+ 
+{20} 
+Mulher, 21 anos de idade, parda, primigesta, pré-natal de 
+risco habitual, sem intercorrências, idade gestacional de  
+37 semanas e 1 dia. Comparece no pronto-socorro de 
+obstetrícia no final da manhã, com queixa de perda de líquido 
+há 2 horas. A paciente nega ter realizado “teste do cotonete” 
+e refere quadro de urticária e dispneia na infância, ao receber 
+penicilina, necessitando atendimento médico. Ao exame 
+obstétrico, foi observada saída de líquido amniótico claro em 
+grande quantidade pela vagina, colo grosso, posterior, 
+dilatação de 1 cm, apresentação cefálica, ausência de 
+contrações uterinas. Cardiotocografia com padrão ativo. Foi 
+indicado o preparo de colo com misoprostol e posterior 
+indução do trabalho de parto com ocitocina, o qual se inicia 
+no final da tarde do dia seguinte. Qual a recomendação para 
+profilaxia da sepse neonatal por estreptococo do grupo B? 
+ 
+(A) Profilaxia com ampicilina. 
+(B) Profilaxia com vancomicina. 
+(C) Profilaxia com azitromicina. 
+(D) A profilaxia está contraindicada. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+v2

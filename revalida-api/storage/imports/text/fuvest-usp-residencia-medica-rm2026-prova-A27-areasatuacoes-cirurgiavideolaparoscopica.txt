@@ -1,0 +1,737 @@
+
+
+--- PAGE 1 ---
+
+ 
+A27 
+ 
+ 
+ÁREAS DE ATUAÇÕES 
+Cirurgia Videolaparoscópica 
+ 
+ 
+ 
+ 
+ 
+ 
+      PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025     
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo A27. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 1 hora. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo fiscal. 
+O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14 h. Não haverá tempo adicional 
+para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 20 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Cirurgia Geral – Programa Avançado – PROVA A19 
+Texto para as questões 01 e 02 
+ 
+Homem, 61 anos de idade, com antecedente de hepatite C desde 2012, tratada na ocasião com resposta virológica sustentada. 
+Apresentou, em seguimento ambulatorial, nódulo em lobo hepático direito à ultrassonografia, medindo 4,5 cm. Nega ascite, 
+episódios de confusão mental ou hemorragia digestiva. Child-Pugh A6, Model for End-Stage Liver Disease (MELD) = 7. 
+Alfafetoproteína de 5,5 µg/L (ref.: < 7,5 µL/L). Realizou ressonância magnética de abdome com contraste, a qual é mostrada abaixo: 
+ 
+ 
+ 
+{01} 
+Considerando a imagem, qual o diagnóstico do paciente e em qual segmento hepático está localizada a lesão? 
+ 
+(A) Carcinoma hepatocelular, segmento 4a. 
+(B) Colangiocarcinoma, segmento 5. 
+(C) Carcinoma hepatocelular, segmento 7. 
+(D) Carcinoma hepatocelular, segmento 8. 
+##### 
+ 
+{02} 
+O caso foi discutido em reunião multidisciplinar e optado pela abordagem cirúrgica do paciente. São apresentadas fotos do aspecto 
+final da cirurgia a seguir:  
+ 
+ 
+ 
+Qual a cirurgia realizada e quais estruturas são apontadas pelas setas 1 e 2, respectivamente? 
+ 
+(A) Ressecção regrada do segmento 4, veia hepática média, veia hepática esquerda. 
+(B) Setorectomia posterior direita, veia hepática média, veia hepática esquerda. 
+(C) Setorectomia anterior direita, veia hepática direita, veia hepática média.  
+(D) Mesohepatectomia não regrada, veia hepática média, veia hepática esquerda. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Cirurgia Geral – Programa Avançado – PROVA A19 
+{03} 
+Homem, 53 anos de idade, tabagista e etilista de longa data, 
+desenvolveu lesão em base de língua, investigada e tratada 
+pela oncologia como carcinoma espinocelular com quimio e 
+radioterapia. Na complementação diagnóstica, foi submetido 
+à endoscopia digestiva alta, que evidenciou lesão elevada 
+avançada e infiltrativa em região de esôfago médio a 23 cm 
+da arcada dentária superior. A biópsia mostrou ser um 
+carcinoma 
+espinocelular 
+moderadamente 
+diferenciado.  
+Durante o estadiamento, a tomografia de tórax evidenciou 
+espessamento do esôfago médio com linfonodos adjacentes 
+e enfisema pulmonar. Em seguida, realizou PET-CT com 18F-
+FDG (fluorodesoxiglicose) com achado de hipercaptação na 
+região do esôfago médio e em pequeno linfonodo adjacente. 
+Qual a melhor opção de tratamento para o paciente descrito? 
+ 
+(A) Realizar ecoendoscopia para avaliar possibilidade de 
+tratamento endoscópico. 
+(B) O paciente deverá ser submetido à esofagectomia pela 
+técnica de Ivor Lewis para evitar anastomose cervical em 
+área irradiada. 
+(C) O caso do paciente deve ser discutido em reunião 
+multidisciplinar 
+e, 
+pelo 
+estadiamento 
+avançado, 
+provavelmente deverá ser encaminhado para tratamento 
+neoadjuvante com quimio e radioterapia.   
+(D) O tratamento com quimioterapia e radioterapia definitivas 
+se impõe, uma vez que este paciente já foi irradiado. 
+##### 
+ 
+{04} 
+Homem, 45 anos de idade, refere disfagia progressiva para 
+sólidos há 2 anos e, recentemente, para alimentos pastosos, 
+com dificuldade de tomar água por vezes. Realizou 
+endoscopia há 10 meses, cujo resultado foi normal. Nega ser 
+de zona endêmica para doença de Chagas, refere ter perdido 
+5 kg no último ano. Em relação ao caso apresentado, assinale 
+a alternativa correta. 
+ 
+(A) Pela disfagia progressiva e perda de peso, trata-se de um 
+câncer de esôfago, sendo necessário repetir a endoscopia 
+o mais rápido possível. 
+(B) Confirmando-se 
+o 
+diagnóstico 
+de 
+acalasia 
+pela 
+manometria esofágica, deve-se encaminhar o paciente 
+para uma cardiomiotomia endoscópica (POEM). 
+(C) Com a endoscopia normal e a epidemiologia negativa para 
+chagas, fica afastada a hipótese de acalasia. 
+(D) Deve-se prosseguir a investigação diagnóstica com raio-X 
+contrastado do esôfago e manometria esofágica. 
+##### 
+ 
+{05} 
+Qual a melhor conduta para um paciente de 67 anos de idade, 
+com adenocarcinoma bem diferenciado de antro gástrico, 
+com boa funcionalidade, estadiado clinicamente como 
+cT2cN+ (lesão restrita à camada muscular e com 1 linfonodo 
+suspeito perilesional)? 
+ 
+(A) Quimioterapia perioperatória. 
+(B) Gastrectomia subtotal com linfadenectomia D1+. 
+(C) Gastrectomia subtotal com linfadenectomia D2. 
+(D) Gastrectomia total com linfadenectomia D2. 
+##### 
+ 
+ 
+ 
+{06} 
+Homem, 52 anos de idade, com história de regurgitação 
+noturna importante e acompanhada de leve queimação há  
+6 meses. Refere que pela regurgitação estava comendo 
+menos e perdeu 3 kg no período. Procurou atendimento 
+médico que solicitou endoscopia digestiva alta, a qual 
+apresentou achado de esofagite erosiva grau A. Tentou 
+tratamento com inibidor de bomba de prótons por 3 meses 
+sem resposta clínica satisfatória. De acordo com o histórico 
+apresentado, 
+foi 
+indicado 
+tratamento 
+cirúrgico 
+com 
+fundoplicatura total + hiatoplastia para tratamento de refluxo 
+refratário, e o paciente evoluiu com disfagia importante no 
+pós-operatório. Em relação ao caso descrito, pode-se afirmar:  
+ 
+(A) O paciente evoluiu com quadro de pseudoacalasia 
+causada por possível hiato apertado. 
+(B) A indicação cirúrgica foi precipitada, pois não foram 
+afastados diagnósticos diferenciais para o quadro clínico. 
+(C) A indicação está correta, pois trata-se de doença do 
+refluxo refratária, sendo o tratamento cirúrgico a melhor 
+opção. 
+(D) A esofagite grau A afasta o diagnóstico de refluxo 
+gastroesofágico, segundo os critérios do consenso de 
+Lyon 2-0. 
+##### 
+ 
+{07} 
+Mulher, 65 anos de idade, assintomática, com achado 
+incidental em ultrassonografia de abdome de cisto em cauda 
+do pâncreas. Realizou ressonância magnética de abdome 
+superior que evidenciou lesão cística na cauda do pâncreas, 
+medindo 2,7 cm, com comunicação com o ducto pancreático 
+principal, o qual tem calibre de 0,5 cm, não foram visualizados 
+nódulos 
+ou 
+vegetações 
+dentro 
+do 
+cisto. 
+Realizou 
+ecoendoscopia que confirmou os achados da ressonância, foi 
+realizada punção do cisto para análise, a qual revelou 
+presença 
+de 
+mucina 
+e 
+dosagem 
+do 
+Antígeno 
+Carcinoembrionário (CEA) de 350 ng/mL. CA 19-9 sérico 
+normal. Assinale a alternativa que apresenta o diagnóstico 
+mais provável e a conduta para essa paciente. 
+ 
+(A) Neoplasia Mucinosa Papilar Intraductal (IPMN) de ductos 
+secundários, seguimento com exames de imagem. 
+(B) Neoplasia Mucinosa Papilar Intraductal (IPMN) de ductos 
+secundários, pancreatectomia caudal com preservação 
+esplênica. 
+(C) Neoplasia cística mucinosa, pancreatectomia caudal + 
+esplenectomia. 
+(D) Neoplasia Mucinosa Papilar Intraductal (IPMN) do tipo 
+misto, pancreatectomia corpocaudal com preservação 
+esplênica. 
+##### 
+ 
+{08} 
+Assinale a alternativa que apresenta a etapa fundamental da 
+cirurgia radical no tratamento do adenocarcinoma gástrico. 
+ 
+(A) Omentectomia. 
+(B) Bursectomia. 
+(C) Margem de 2 cm nas lesões T1. 
+(D) Coleta de citologia oncótica. 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Cirurgia Geral – Programa Avançado – PROVA A19 
+{09} 
+A respeito dos abcessos e fístulas, assinale a alternativa 
+correta. 
+ 
+(A) Raramente (menos de 1/10 dos casos) os abscessos 
+criptoglandulares evoluem para fístulas. 
+(B) Para o tratamento cirúrgico eficaz e eficiente da fístula 
+perianal interesficteriana, o exame sob anestesia na sala 
+cirúrgica é de menor valia que a tomografia de pelve.  
+(C) As prioridades no manejo, geralmente, seguem a esta 
+ordem de importância: cura sem recorrência, preservação 
+da continência e por fim, controle da sepse. 
+(D) O abscesso anorretal deve ser tratado prioritariamente 
+com drenagem cirúrgica, e não com antibioticoterapia. 
+##### 
+ 
+ 
+Texto para as questões 10 e 11 
+ 
+Mulher, 59 anos de idade, com obesidade mórbida, 
+submetida à gastroplastia em Y de Roux minimamente 
+invasiva há 2 anos. Procura o pronto-socorro por quadro de 
+dor abdominal em epigástrico com irradiação para o dorso há 
+1 semana, refere quadro semelhante há alguns meses atrás, 
+mas com melhora espontânea. Ao exame físico, apresentava-
+se desidratada 2+/4+, PA de 110×80 mmHg, FC de 85 bpm, 
+FR de 18 irpm. Abdome flácido, doloroso à palpação difusa, 
+sem sinais de irritação peritoneal.Dados pré cirúrgicos: peso 
+de 120 kg; altura de 160 cm; IMC de 46,9 kg/m2. Atual: peso 
+após a cirurgia de 65 kg; IMC de 25,4 kg/m2. Prosseguiu a 
+investigação com a tomografia mostrada a seguir: 
+ 
+ 
+ 
+Laudo descritivo: Ausência de líquido livre, pneumoperitônio 
+ou coleções abdominais. Ausência de nível hidroaéreo, 
+contrastação habitual das alças intestinais sem espessamento 
+ou pneumatose. Presença de rotação dos vasos mesentéricos 
+em mesogástrio com acúmulo de alças de delgado no 
+hipocôndrio direito. 
+ 
+{10} 
+O exame complementar demonstra alteração presente na 
+seguinte situação clínica: 
+ 
+(A) Hérnia interna.  
+(B) Volvo de sigmoide com obstrução colônica. 
+(C) Pancreatite aguda.  
+(D) Trombose mesentérica com isquemia de alças de 
+delgado. 
+##### 
+{11} 
+Em relação à condição clínica do paciente, foi indicada 
+abordagem por cirurgia robótica. Na imagem a seguir, está 
+demonstrado um dos passos cirúrgicos do procedimento 
+realizado. 
+ 
+ 
+ 
+Considerando a imagem, assinale a alternativa que apresenta 
+as estruturas nomeadas corretamente. 
+ 
+(A) A – mesentério da alça alimentar; B – mesocólon 
+transverso; C – primeira alça jejunal. 
+(B) A – mesentério da alça biliopancreática; B – alça alimentar; 
+C – jejuno. 
+(C) A – mesentério da alça alimentar; B – mesentério da alça 
+biliopancreática; C – alça alimentar. 
+(D) A – epíplon; B – alça biliopancreática; C – primeira alça 
+jejunal. 
+##### 
+ 
+{12} 
+Em relação à neoplasia de cólon, assinale a alternativa 
+correta.  
+ 
+(A) A quimio e radioterapia neoadjuvante total seguida de 
+ressecção cirúrgica do adenocarcinoma de cólon 
+esquerdo estágio III oferece a menor taxa de recidiva local 
+e maior sobrevida. 
+(B) Os 
+objetivos 
+da 
+ressecção 
+são 
+obter 
+margens 
+circunferenciais negativas e remover a região do 
+mesentério com maior risco de disseminação linfática. 
+(C) A região do mesentério com maior risco de disseminação 
+linfática a ser removido é pouco relacionada à sua 
+embriologia, mas principalmente à fisiologia. 
+(D) A 
+extensão 
+da 
+colectomia 
+é 
+determinada 
+pela 
+profundidade, 
+extensão 
+e 
+tamanho 
+luminal 
+do 
+adenocarcinoma localmente avançado. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Cirurgia Geral – Programa Avançado – PROVA A19 
+{13} 
+Homem, 68 anos de idade, com hipertensão e diabetes melito 
+controlados, sedentário, tabagista, com pontuação 1 pela 
+escala de desempenho do Eastern Cooperative Oncology 
+Group (ECOG). Na endoscopia digestiva alta, foi observada 
+lesão ulcerada de 8 mm na grande curvatura, junto à transição 
+entre corpo e antro gástrico. A biópsia demonstrou tratar-se 
+de 
+adenocarcinoma 
+gástrico 
+tipo 
+difuso 
+de Lauren. 
+Ecoendoscopia estadiou a lesão como cT1b (submucosa) 
+cN0 (sem linfonodos suspeitos). Tomografia computadorizada 
+normal. Assinale a alternativa que apresenta a melhor 
+conduta.  
+ 
+(A) Gastrectomia subtotal com linfadenectomia D1+. 
+(B) Gastrectomia total com linfadenectomia D2. 
+(C) Ressecção Endoscópica Submucosa (ESD). 
+(D) Gastrectomia em cunha sem linfadenectomia. 
+##### 
+ 
+{14} 
+Homem, 62 anos de idade, sem comorbidades, refere quadro 
+de icterícia e colúria há 15 dias. Realizou exame de 
+ressonância magnética de abdome superior que demonstrou 
+dilatação das vias biliares intra-hepáticas e lesão compatível 
+com colangiocarcinoma hilar Bismuth IIIa medindo 3,1 cm, 
+com acometimento da artéria hepática direita. Tomografia de 
+tórax sem evidência de doença à distância. Ao exame físico, 
+bom estado geral, eutrófico, ictérico ++/4+. Bilirrubina total de 
+14 mg/dL (0,2 a 1,1 mg/dL), bilirrubina direta de 12,3 mg/dL 
+(0,0 a 0,3 mg/dL), CA 19-9 de 5.330 U/mL (< 37 U/mL). Volume 
+calculado do remanescente hepático de 30% do volume 
+hepático total. Qual a melhor conduta para o paciente neste 
+momento? 
+ 
+(A) Quimio e radioterapia de consolidação. 
+(B) Trissetorectomia esquerda + linfadenectomia hilar + 
+anastomose biliodigestiva. 
+(C) Drenagem transparieto-hepática do lobo esquerdo e 
+embolização por radiologia intervencionista do ramo portal 
+direito. 
+(D) Drenagem transparieto-hepática do lobo direito seguida 
+de trissetorectomia direita + ressecção do segmento 1 + 
+linfadenectomia hilar + anastomose biliodigestiva. 
+##### 
+ 
+{15} 
+Com relação à classificação molecular do adenoma hepático, 
+é correto afirmar: 
+ 
+(A) O subtipo com presença de mutação da beta-catenina tem 
+maior risco de rotura e sangramento. 
+(B) É 
+baseada 
+em 
+achados 
+encontrados 
+em 
+cortes 
+histológicos corados com hematoxilina e eosina. 
+(C) O subtipo inflamatório não tem associação com o uso de 
+anticoncepcionais orais. 
+(D) O subtipo Hepatocyte Nuclear Factor 1 alpha (HNF1 alfa) 
+inativado, 
+também 
+conhecido 
+como 
+“adenoma 
+esteatótico”, 
+tem 
+baixo 
+risco 
+de 
+desenvolver 
+complicações. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+Texto para as questões 16 e 17 
+ 
+Homem, 65 anos de idade, no 5º dia pós-operatório de 
+duodenopancreatectomia por adenocarcinoma de cabeça de 
+pâncreas, apresenta mudança do débito do dreno, com 
+aspecto turvo, associado a episódio de febre (temperatura 
+axilar de 38 ºC), sem instabilidade hemodinâmica. Os exames 
+laboratoriais mostraram: leucócitos de 16.000/mm3 com 
+desvio à esquerda (ref.: 3.400 a 8.300/mm3), proteína C reativa 
+(PCR) de 8,3 mg/dL (ref.: 0,3 a 1,0 mg/dL) e amilase sérica de 
+92 U/mL (ref.: 28 a 100 UI/L). Foi realizada a coleta de amilase 
+do líquido do dreno abdominal de 7.300 mg/dL. Foi 
+encaminhado à tomografia com contraste endovenoso, que 
+evidenciou pâncreas remanescente de aspecto preservado, 
+drenos locados próximos à anastomose pancreatojejunal, 
+densificação local e lâminas de líquido peripancreático, sem 
+coleções mensuráveis.  
+ 
+{16} 
+Com base nos dados clínicos, laboratoriais e radiológicos, 
+qual o diagnóstico do paciente? 
+ 
+(A) Fístula da anastomose biliar. 
+(B) Fístula pancreática grau B. 
+(C) Fístula pancreática grau C. 
+(D) Vazamento bioquímico (biochemical leak) da anastomose 
+pancreatojejunal. 
+##### 
+ 
+{17} 
+Qual a melhor conduta para o paciente nesse momento? 
+ 
+(A) Jejum e observação clínica. 
+(B) Dieta oral e antibioticoterapia endovenosa. 
+(C) Jejum, 
+nutrição 
+parenteral 
+e 
+antibioticoterapia 
+endovenosa. 
+(D) Encaminhamento para a radiologia intervencionista para 
+redrenagem da loja cirúrgica. 
+##### 
+ 
+{18} 
+Com relação ao tratamento cirúrgico da doença inflamatória 
+intestinal, pode-se afirmar: 
+ 
+(A) Diferentes configurações de anastomose devem ser 
+consideradas com base na gravidade e na localização da 
+doença de Crohn. 
+(B) A otimização pré-operatória do paciente, geralmente, não 
+melhora as condições em que o paciente é operado. 
+(C) A radicalidade cirúrgica com ressecção de todas as áreas 
+acometidas é fundamental para diminuir a recidiva da 
+doença de Crohn. 
+(D) Para obter-se os melhores resultados com menor taxa de 
+recidiva, o momento ideal da cirurgia da doença de Crohn 
+do cólon é assim que o paciente começa a apresentar 
+aumento do número de evacuações. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Cirurgia Geral – Programa Avançado – PROVA A19 
+Texto para as questões 19 e 20 
+ 
+Mulher, 36 anos de idade, submetida a bypass gástrico em Y de Roux sem intercorrências, recebeu alta hospitalar no 3º dia pós-
+operatório. Porém, iniciou quadro de forte dor abdominal no 7º dia, retornando ao pronto-socorro. Ao exame físico, apresentava-se 
+em regular estado geral, afebril, FC de 120 bpm, FR de 20 irpm, PA de 70×50 mmHg, dor abdominal difusa à palpação profunda, 
+DB +. Foi realizada tomografia de abdome total com contraste endovenoso e oral, cujos achados são mostrados a seguir:  
+ 
+ 
+ 
+ 
+{19} 
+Em relação ao quadro clínico e achados radiológicos, qual a principal hipótese diagnóstica para a paciente? 
+ 
+(A) Trombose esplenomesentérica. 
+(B) Estenose da gastroenteroanastomose.  
+(C) Hemorragia digestiva. 
+(D) Deiscência de anastomose ou da linha de grampeamento. 
+##### 
+ 
+{20} 
+Qual o melhor tratamento para a paciente neste momento? 
+ 
+(A) Dilatação endoscópica. 
+(B) Endoscopia com passagem de sonda nasogástrica. 
+(C) Laparotomia exploradora.  
+(D) Observação clínica e antibioticoterapia de amplo espectro. 
+##### 
+
+
+--- PAGE 8 ---
+

@@ -1,0 +1,403 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ncia de sarcopenia. A endoscopia pré-operatória 
+mostrou esofagite grau C de Los Angeles. Assinale a 
+alternativa que apresenta a melhor conduta terapêutica para o 
+paciente. 
+ 
+(A) Gastrectomia vertical, por se tratar de um idoso. 
+(B) Balão intragástrico, pois o paciente não tem indicação 
+cirúrgica. 
+(C) Bypass gástrico, se o paciente for clinicamente apto, pois 
+irá se beneficiar com a cirurgia em vários aspectos. 
+(D) Encaminhar para o endocrinologista acompanhar e fazer 
+tratamento clínico, pois o paciente não preenche os 
+critérios de inclusão ao tratamento cirúrgico, segundo a 
+Agência Nacional de Saúde (ANS). 
+##### 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Mastologia – PROVA E04 
+Texto para as questões 07 e 08 
+ 
+Homem, 61 anos de idade, com antecedente de hepatite C desde 2012, tratada com resposta virológica sustentada. Apresentou, 
+em seguimento ambulatorial, nódulo em lobo hepático direito à ultrassonografia, medindo 4,5 cm. Nega ascite, episódios de 
+confusão mental ou hemorragia digestiva. Child-Pugh A6, Model for End-Stage Liver Disease (MELD) = 7. Realizou ressonância 
+magnética de abdome com contraste, apresentada na imagem a seguir: 
+ 
+ 
+ 
+{07} 
+Baseado na imagem, qual o diagnóstico do paciente e em qual segmento hepático está localizada a lesão? 
+ 
+(A) Carcinoma hepatocelular, segmento 4a. 
+(B) Colangiocarcinoma intra-hepático, segmento 5. 
+(C) Carcinoma hepatocelular, segmento 7. 
+(D) Carcinoma hepatocelular, segmento 8. 
+##### 
+ 
+{08} 
+O caso foi discutido em reunião multidisciplinar e optado pela abordagem cirúrgica do paciente, as imagens a seguir mostram o 
+aspecto final da cirurgia. 
+ 
+ 
+ 
+Qual cirurgia foi realizada e quais estruturas são apontadas pelas setas 1 e 2, respectivamente? 
+ 
+(A) Ressecção regrada do segmento 4, veia hepática média, veia hepática esquerda. 
+(B) Mesohepatectomia não regrada, veia hepática média, veia hepática esquerda. 
+(C) Setorectomia anterior direita, veia hepática direita, veia hepática média.  
+(D) Setorectomia posterior direita, veia hepática média, veia hepática esquerda. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Mastologia – PROVA E04 
+{09} 
+Homem, 67 anos de idade, com adenocarcinoma bem 
+diferenciado de antro gástrico, com boa funcionalidade, 
+estadiado clinicamente como cT2cN+ (lesão restrita à camada 
+muscular e com 1 linfonodo suspeito perilesional). Assinale a 
+alternativa que indica a melhor conduta para o paciente 
+apresentado. 
+ 
+(A) Quimioterapia perioperatória. 
+(B) Gastrectomia subtotal com linfadenectomia D1+. 
+(C) Gastrectomia subtotal com linfadenectomia D2. 
+(D) Gastrectomia total com linfadenectomia D2. 
+##### 
+ 
+{10} 
+Mulher, 45 anos de idade, com antecedente de retocolite 
+ulcerativa idiopática, apresenta episódios recorrentes de febre, 
+calafrios, icterícia e hipocolia fecal. Colangiorressonância 
+mostra estenoses multifocais e irregularidades, alternando com 
+dilatações das vias biliares intra e extra-hepáticas. Assinale a 
+alternativa que apresenta a principal hipótese diagnóstica. 
+ 
+(A) Coledocolitiase. 
+(B) Colangiocarcinoma. 
+(C) Cirrose biliar primária. 
+(D) Colangite esclerosante primária. 
+##### 
+ 
+{11} 
+Homem, 85 anos de idade, internado em UTI devido a infarto 
+agudo do miocárdio com supra de ST, submetido à 
+angioplastia com stent há 5 dias, evolui com dor em 
+hipocôndrio direito. Apresenta frequência cardíaca de  
+130 bpm, PAM de 58 mmHg, Exames laboratoriais mostram 
+alterações de transaminases, leucocitose lesão renal aguda e 
+plaquetopenia (45.000/mm3). A ultrassonografia de abdome 
+identificou espessamento da parede da vesícula biliar e 
+cálculo 
+biliar 
+impactado 
+em 
+infundíbulo. 
+Realizada 
+ressuscitação 
+volêmica, 
+iniciados 
+vasopressores 
+e 
+antibioticoterapia. Assinale a alternativa que indica a conduta 
+mais apropriada nesse momento. 
+ 
+(A) Colecistostomia percutânea. 
+(B) Colecistectomia laparoscópica. 
+(C) Suporte intensivo e observação clínica. 
+(D) Colangiopancreatografia retrógrada endoscópica. 
+##### 
+ 
+{12} 
+Com relação à classificação molecular do adenoma hepático, 
+é correto afirmar: 
+ 
+(A) É 
+baseada 
+em 
+achados 
+encontrados 
+em 
+cortes 
+histológicos corados com hematoxilina e eosina. 
+(B) O subtipo hepatocyte nuclear factor 1 alpha (HNF1 alfa) 
+inativado, 
+também 
+conhecido 
+como 
+“adenoma 
+esteatótico”, 
+tem 
+baixo 
+risco 
+de 
+desenvolver 
+complicações. 
+(C) O subtipo com presença de mutação da beta-catenina tem 
+maior risco de rotura e sangramento. 
+(D) O subtipo inflamatório não tem associação com o uso de 
+anticoncepcionais orais. 
+##### 
+ 
+{13} 
+Com relação ao tratamento cirúrgico da doença inflamatória 
+intestinal, pode-se afirmar: 
+ 
+(A) A otimização pré-operatória do paciente geralmente não 
+melhora as condições em que o paciente é operado. 
+(B) Diferentes 
+técnicas 
+de 
+anastomose 
+devem 
+ser 
+consideradas com base na gravidade e na localização da 
+Doença de Crohn. 
+(C) A radicalidade cirúrgica com ressecção de todas as áreas 
+acometidas é fundamental para diminuir a recidiva da 
+Doença de Crohn. 
+(D) Para obter-se os melhores resultados com menor taxa de 
+recidiva, o momento ideal da cirurgia da Doença de Crohn 
+do cólon é assim que o paciente começa a apresentar 
+aumento do número de evacuações. 
+##### 
+ 
+{14} 
+Assinale a alternativa correta quanto à neoplasia de cólon. 
+ 
+(A) Os 
+objetivos 
+da 
+ressecção 
+são 
+obter 
+margens 
+circunferenciais negativas e remover a região do 
+mesentério com maior risco de disseminação linfática. 
+(B) A quimiorradioterapia neoadjuvante total seguida de 
+ressecção cirúrgica do adenocarcinoma de cólon 
+esquerdo estágio III oferece a menor taxa de recidiva local 
+e maior sobrevida. 
+(C) A região do mesentério com maior risco de disseminação 
+linfática a ser removida é pouco relacionada à sua 
+embriologia, mas principalmente à fisiologia. 
+(D) A 
+extensão 
+da 
+colectomia 
+é 
+determinada 
+pela 
+profundidade, 
+extensão 
+e 
+tamanho 
+luminal 
+do 
+adenocarcinoma localmente avançado. 
+##### 
+ 
+{15} 
+Quanto aos abcessos e fístulas perianais, assinale a 
+alternativa correta. 
+ 
+(A) Raramente (menos de 1/10 dos casos) os abscessos 
+criptoglandulares evoluem para fístulas. 
+(B) Para o tratamento cirúrgico eficaz da fístula perianal 
+interesficteriana, o exame sob anestesia na sala cirúrgica 
+é de menor valia que a tomografia de pelve.  
+(C) O abscesso anorretal deve ser tratado prioritariamente 
+com drenagem cirúrgica, e não com antibioticoterapia. 
+(D) As prioridades no manejo, geralmente, seguem a esta 
+ordem de importância: cura sem recorrência, preservação 
+da continência e por fim, controle da sepse. 
+##### 
+ 
+{16} 
+Mulher, 27 anos de idade, submetida à derivação gástrica em 
+Y de Roux (bypass gástrico), apresenta, trinta dias após o 
+procedimento, quadro de vômitos frequentes, evoluindo 
+alguns dias depois com diplopia e confusão mental. Este 
+quadro clínico pode indicar 
+ 
+(A) fístula gástrica 
+(B) deficiência de Zinco. 
+(C) deficiência de vitamina A. 
+(D) deficiência de vitamina B1. 
+#####
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Mastologia – PROVA E04 
+{17} 
+Mulher, 37 anos de idade, proveniente da Bolívia, mora em São Paulo há 5 anos. Refere dor em região do hipocôndrio direito com 
+piora progressiva há 3 anos, nega emagrecimento. Fez ultrassom de abdome total que evidenciou lesão cística complexa no lobo 
+hepático direito medindo 15 cm, com paredes espessadas, septos grosseiros e “cistos filhos”. Foi solicitada ressonância magnética, 
+a qual pode ser observada nas imagens a seguir:  
+ 
+ 
+ 
+Baseado nos dados clínicos e exame de imagem, assinale a alternativa que apresenta o diagnóstico mais provável e o melhor 
+tratamento para essa paciente. 
+ 
+(A) Cisto hidático (hidatidose) e pericistectomia. 
+(B) Cisto hepático simples e “destelhamento” laparoscópico. 
+(C) Abscesso hepático e drenagem por radiologia intervencionista. 
+(D) Neoplasia cística mucinosa hepática (cistoadenoma biliar) e hepatectomia direita. 
+#####
+ 
+{18} 
+Mulher, 65 anos de idade, assintomática, com achado 
+incidental em ultrassonografia de abdome de cisto em cauda 
+do pâncreas. Realizou ressonância magnética de abdome 
+superior que evidenciou lesão cística na cauda do pâncreas, 
+medindo 2,7 cm, com comunicação com o ducto pancreático 
+principal, o qual tem calibre de 0,5 cm, não foram visualizados 
+nódulos 
+ou 
+vegetações 
+dentro 
+do 
+cisto. 
+Realizou 
+ecoendoscopia que confirmou os achados da ressonância, 
+sendo realizada punção do cisto para análise, a qual revelou 
+presença 
+de 
+mucina 
+e 
+dosagem 
+do 
+Antígeno 
+Carcinoembrionário (CEA) de 350 ng/mL. CA 19-9 sérico 
+normal. O diagnóstico mais provável e a conduta para essa 
+paciente são, respectivamente, 
+ 
+(A) neoplasia mucinosa papilar intraductal (IPMN) de ductos 
+secundários, pancreatectomia caudal com preservação 
+esplênica. 
+(B) neoplasia mucinosa papilar intraductal (IPMN) do tipo 
+misto, pancreatectomia corpocaudal com preservação 
+esplênica. 
+(C) neoplasia mucinosa papilar intraductal (IPMN) de ductos 
+secundários, seguimento com exames de imagem. 
+(D) neoplasia cística mucinosa, pancreatectomia caudal + 
+esplenectomia. 
+##### 
+ 
+{19} 
+É etapa fundamental da cirurgia radical no tratamento do 
+adenocarcinoma gástrico: 
+ 
+(A) Bursectomia. 
+(B) Omentectomia. 
+(C) Coleta de citologia oncótica. 
+(D) Margem de 2 cm nas lesões T1. 
+##### 
+ 
+{20} 
+Considere uma paciente com Tumor Neuroendócrino (TNE) 
+gástrico do tipo clínico 1, bem diferenciado (grau 1) da 
+Organização Mundial de Saúde à biópsia. Pode-se esperar os 
+seguintes achados endoscópicos e laboratoriais: 
+ 
+(A) Gastrite atrófica, múltiplas lesões elevadas pequenas (< 1 
+cm), anticorpo anti-células parietais positivo. 
+(B) Hiperplasia de pregas gástricas, múltiplas lesões elevadas 
+pequenas (< 1 cm), gastrina sérica elevada. 
+(C) Múltiplas lesões elevadas pequenas (< 1 cm), úlceras 
+pépticas, gastrina sérica elevada. 
+(D) Lesão vegetante única, tamanho > 1 cm, gastrina sérica 
+normal. 
+##### 
+ 
+{21} 
+Mulher, 38 anos de idade, no 43º dia pós-operatório de bypass 
+gástrico. Admitida no pronto atendimento com queixa recente 
+de disfagia progressiva. Relata estar seguindo corretamente a 
+dieta orientada pela nutricionista, tendo iniciado dieta sólida 
+há 1 semana, período em que iniciaram os sintomas. Refere 
+piora com disfagia para sólidos nos últimos dias. Ao exame 
+físico, encontra-se com sinais leves de desidratação e 
+abdome inocente. A causa mais provável do quadro e seu 
+tratamento são 
+ 
+(A) hérnia interna, tratamento cirúrgico. 
+(B) esofagite de refluxo, tratamento clínico. 
+(C) distensão aguda do estômago excluso, tratamento 
+cirúrgico. 
+(D) estenose 
+da 
+gastroenteroanastomose, 
+tratamento 
+endoscópico. 
+##### 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Mastologia – PROVA E04 
+{22} 
+Homem, 62 anos de idade, sem comorbidades, refere quadro 
+de icterícia e colúria há 15 dias. Realizou exame de 
+ressonância magnética de abdome superior que demonstrou 
+dilatação das vias biliares intra-hepáticas e lesão compatível 
+com colangiocarcinoma hilar Bismuth IIIa medindo 3,1 cm, 
+com acometimento da artéria hepática direita. Tomografia de 
+tórax sem evidência de doença à distância. Ao exame físico, 
+bom estado geral, eutrófico, ictérico ++/4+.  
+ 
+• Exames laboratoriais: 
+Bilirrubina total: 14 mg/dL (VR: 0,2 a 1,1 mg/dL) 
+Bilirrubina direta: 12,3 mg/dL (VR: 0,0 a 0,3 mg/dL) 
+CA 19-9: 5.330 U/mL (VR: < 37 U/mL) 
+ 
+O volume calculado do remanescente hepático foi de 30% do 
+volume hepático total. Qual a melhor conduta para o paciente, 
+neste momento? 
+ 
+(A) Quimio e radioterapia de consolidação. 
+(B) Trissetorectomia esquerda + linfadenectomia hilar + 
+anastomose biliodigestiva. 
+(C) Drenagem transpariet

@@ -1,0 +1,889 @@
+
+
+--- PAGE 1 ---
+
+ 
+AA8 
+ 
+ 
+ANOS ADICIONAIS  
+Psiquiatria 
+ 
+ 
+ 
+ 
+ 
+ 
+      PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025     
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo AA8. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 2 horas. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo 
+fiscal. O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14 h. Não haverá tempo 
+adicional para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 40 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Psiquiatria – PROVA AA8 
+{01} 
+Segundo diversos estudos epidemiológicos realizados no 
+Brasil, cerca de 50% dos entrevistados se declararam 
+abstinentes do álcool nos últimos doze meses anteriores à 
+pesquisa. Já em relação aos padrões de uso e sobre os 
+aspectos demográficos de gênero, foram observadas 
+diferenças importantes. Qual é essa diferença? 
+ 
+(A) O uso moderado de álcool foi menor que o padrão de uso 
+em binge. 
+(B) Proporção semelhante de dependentes do álcool entre os 
+gêneros. 
+(C) Aumento de 34,5% de bebedores frequentes entre o 
+gênero feminino. 
+(D) Redução do padrão de uso nocivo e do padrão de beber 
+em binge. 
+##### 
+ 
+{02} 
+Muitos estudos sugeriram que o risco à saúde relacionado ao 
+consumo de álcool seria mais bem expresso em uma curva J, 
+em que níveis baixos ou altos de consumo representariam o 
+maior nível de risco, enquanto níveis moderados envolveriam 
+menos riscos. Uma revisão da avaliação de riscos associados 
+ao nível teórico mínimo de exposição ao risco pelo álcool 
+(Rehm et al., 2017) sugeriu uma mudança na avaliação do 
+impacto geral do uso de álcool. Qual é esta mudança? 
+ 
+(A) Inclusão dos danos sociais, além dos danos à saúde. 
+(B) Volume seguro de doses igual para homens e mulheres. 
+(C) Usar apenas o risco de câncer para definir o nível seguro. 
+(D) O nível de risco deve ser independente da faixa etária. 
+##### 
+ 
+{03} 
+Um dos fatores que influenciam os efeitos metabólicos do 
+álcool é a velocidade de ingestão. Assinale a alternativa que 
+indica adequadamente essa relação? 
+ 
+(A) Quanto mais lento o consumo, maior o tempo de 
+metabolização e eliminação do conteúdo alcoólico 
+ingerido. 
+(B) Quanto mais rápido o consumo, maior o tempo de 
+metabolização e eliminação do conteúdo alcoólico 
+ingerido. 
+(C) Quanto mais rápido o consumo, menor o tempo de 
+metabolização e eliminação do conteúdo alcoólico 
+ingerido. 
+(D) Quanto mais lento o consumo, menor o tempo de 
+metabolização e eliminação do conteúdo alcoólico 
+ingerido. 
+##### 
+ 
+{04} 
+Qual dos seguintes itens é amplamente reconhecido como 
+fator de risco para progressão de uso de cocaína para um 
+quadro de dependência? 
+ 
+(A) História familiar de uso de cocaína. 
+(B) Exposição intrauterina à cocaína. 
+(C) Transtorno por uso de álcool comórbido. 
+(D) Vulnerabilidade social e familiar. 
+##### 
+ 
+{05} 
+Entre os diversos efeitos da cocaína, pode-se citar: 
+ 
+(A) Ação vasoconstritora. 
+(B) Anestésico central. 
+(C) Vasodilatador periférico. 
+(D) Inibição dopaminérgica. 
+##### 
+ 
+{06} 
+Segundo a Organização Mundial dE Saúde (OMS), os efeitos 
+negativos do consumo de álcool estão associados à 
+ocorrência 
+de 
+mais 
+de 
+200 
+tipos 
+de 
+doenças 
+e 
+acidentes. Entre as mortes atribuídas a problemas causados 
+pelo álcool, qual o grupo populacional mais atingido? 
+ 
+(A) Mulheres na pré-menopausa. 
+(B) Mulheres com 75 anos ou mais. 
+(C) Homens com menos de 40 anos. 
+(D) Homens entre 40 e 50 anos. 
+##### 
+ 
+{07} 
+Dados recentes do III Levantamento Nacional sobre o Uso de 
+Álcool e Outras Drogas (LENAD), apontam que o uso no último 
+ano de cocaína e crack manteve-se estável na população 
+entre 2012 e 2022. Qual dos seguintes dados também revela 
+uma maior gravidade do impacto do uso destas substâncias? 
+ 
+(A) Mais pessoas dirigiram sob efeito de cocaína ou crack. 
+(B) Menor procura por tratamento nas regiões sudeste e sul. 
+(C) Mais pessoas preencheram critérios de dependência. 
+(D) Manutenção da idade de início do uso entre homens. 
+##### 
+ 
+{08} 
+Assinale a alternativa que apresenta o recurso fundamental 
+para o tratamento de mulheres farmacodependentes. 
+ 
+(A) Creches que têm grupos de ajuda mútua. 
+(B) Internação em comunidade terapêutica. 
+(C) Equipe profissional apenas de mulheres. 
+(D) Grupo psicoterápico exclusivo de mulheres. 
+##### 
+ 
+{09} 
+Os opioides constituem um grupo de drogas que apresentam 
+efeitos similares entre si e atuam nos receptores opioides  
+mu (μ), delta (Δ) e kappa (Κ) do corpo, abrangendo desde 
+alcaloides 
+opiáceos 
+naturais, 
+até 
+substâncias 
+semissintéticas. Em relação aos opioides, é correto afirmar:  
+ 
+(A) A metadona é um opioide semissintético 10 vezes mais 
+potente que a morfina. 
+(B) A morfina é o único alcaloide opiáceo natural extraído 
+diretamente do ópio.  
+(C) A naltrexona é um opioide semissintético antagonista de 
+receptores opioides. 
+(D) A oxicodona tem ação analgésica inferior e menor risco de 
+abuso que a morfina.  
+##### 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Psiquiatria – PROVA AA8 
+Texto para as questões de 10 a 12 
+ 
+Homem, 32 anos de idade, usuário de cocaína há 14 anos. 
+Atualmente, usa dois a três pinos por dia. Faz panfletagem e 
+gasta todo o dinheiro com a substância. Teve uma internação 
+há 4 meses. Sentiu muita dificuldade nos primeiros dias de 
+internação. Sentia-se cansado, sem atitude, com vontade de 
+ficar na cama. Ficava irritado com tudo, mas tinha muita 
+vontade de usar a substância. Aceitou a internação porque 
+percebeu que mesmo querendo parar de usar a cocaína, não 
+conseguia evitar o uso. 
+ 
+{10} 
+Entre as diversas neuroadaptações decorrentes do uso 
+crônico de cocaína, assinale a alternativa que apresenta a 
+associação correta entre sítio de ação e repercussão clínica 
+em relação a esta substância. 
+ 
+(A) Aumento de disponibilidade de dopamina no sistema 
+mesolímbico e sintomas de abstinência. 
+(B) Maior excitabilidade glutamatérgica no núcleo accumbens 
+e aumento da saliência do incentivo. 
+(C) Hipomodulação do córtex pré-frontal órbito-frontal e 
+melhora na tomada de decisão. 
+(D) Redução de dopamina no sistema tegmental ventral e 
+melhora dos sintomas de fissura. 
+##### 
+ 
+{11} 
+Após a avaliação criteriosa do quadro descrito, e seguindo as 
+recomendações da Organização Mundial de Saúde e do 
+Escritório das Nações Unidas sobre Drogas e Crime, o 
+tratamento preconizado no quadro de abstinência aguda de 
+cocaína e crack é: 
+ 
+(A) Benzodiazepínico de 2/2 horas. 
+(B) Antipsicóticos diariamente. 
+(C) Uso breve de antidepressivos. 
+(D) Sintomáticos, se necessário. 
+##### 
+ 
+{12} 
+O tratamento baseado em evidências científicas no manejo do 
+quadro de dependência de cocaína e crack é: 
+ 
+(A) Psicoterapia, entrevista motivacional e abordagens de 
+reabilitação psicossocial. 
+(B) Tratamento de substituição com psicoestimulantes (p.ex. 
+metilfenidato, modafinila). 
+(C) Antipsicóticos de 2ª geração em baixa dosagem, como a 
+risperidona e a clozapina. 
+(D) Anticonvulsivantes, como valproato de sódio, topiramato, 
+pregabalina e carbamazepina. 
+##### 
+ 
+{13} 
+Qual dos medicamentos a seguir é contraindicado para 
+pacientes com histórico de convulsões ao tratar a 
+dependência de nicotina? 
+ 
+(A) Vareniclina. 
+(B) Nortriptilina. 
+(C) Bupropiona. 
+(D) Reposição de nicotina. ##### 
+{14} 
+Qual é a recomendação atual do Ministério da Saúde em 
+relação ao uso de cigarros eletrônicos (vapes) como 
+estratégia para cessação do tabagismo? 
+ 
+(A) Não recomendados por falta de comprovação de eficácia 
+e segurança. 
+(B) Recomendados 
+apenas 
+em 
+casos 
+resistentes 
+ao 
+tratamento convencional. 
+(C) Permitidos mediante prescrição médica especializada. 
+(D) Recomendados como primeira linha devido à redução de 
+danos. 
+##### 
+ 
+{15} 
+Em relação à vareniclina, é correto afirmar: 
+ 
+(A) Atua como agonista total nos receptores nicotínicos. 
+(B) É recomendada como primeira escolha apenas para 
+gestantes. 
+(C) Tem maior eficácia quando combinada com bupropiona. 
+(D) Diminui o prazer de fumar ao se ligar parcialmente aos 
+receptores α4β2. 
+##### 
+ 
+{16} 
+A modulação sináptica dos canabinoides endógenos é 
+conhecida como: 
+ 
+(A) Estimulação pós-sináptica. 
+(B) Inibição pós-sináptica. 
+(C) Inibição do fluxo de cálcio. 
+(D) Sinalização retrógrada. 
+##### 
+ 
+{17} 
+Qual a estrutura da planta de Cannabis spp. responsáveis 
+pela produção dos canabinoides e terpenos?  
+ 
+(A) Caule. 
+(B) Pistilo. 
+(C) Raízes. 
+(D) Tricomas. 
+##### 
+ 
+{18} 
+Sobre o consumo de Cannabis spp., pode-se afirmar: 
+ 
+(A) O uso crônico causa downregulation dos receptores CB1. 
+(B) Aumenta a percepção de risco na população em geral. 
+(C) Reduz o risco de sangramento naqueles que usam 
+warfarina. 
+(D) Não há risco de morte por intoxicação entre os usuários. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Psiquiatria – PROVA AA8 
+{19} 
+Assinale a alternativa que está mais alinhada com as atuais 
+evidências neurobiológicas quanto ao impacto do uso crônico 
+de 
+álcool 
+no 
+desenvolvimento 
+cerebral 
+durante 
+a 
+adolescência. 
+ 
+(A) Alterações reversíveis da substância branca sem prejuízos 
+duradouros. 
+(B) Alterações no córtex occipital sem impacto nos circuitos 
+de recompensa. 
+(C) Redução do volume do hipocampo, prejudicando memória 
+e aprendizagem. 
+(D) Comprometimento dos circuitos relacionados ao controle 
+motor fino. 
+##### 
+ 
+{20} 
+Um adolescente apresenta padrão de abuso de múltiplas 
+substâncias 
+e 
+sintomas 
+intensos 
+de 
+impulsividade. 
+Considerando a associação entre impulsividade e Transtornos 
+por Uso de Substâncias (TUS), assinale a alternativa que 
+melhor expressa os achados sobre essa comorbidade. 
+ 
+(A) A impulsividade elevada é consequência do uso 
+recorrente de substâncias, com pouca evidência de 
+predisposição. 
+(B) A impulsividade elevada pode preceder o início do uso de 
+substâncias, assim como pode ser potencializada pelo 
+próprio uso. 
+(C) A impulsividade elevada associa-se, estatisticamente, ao 
+uso de estimulantes por adolescentes sem predisposição. 
+(D) Não há relação documentada entre impulsividade e 
+vulnerabilidade 
+ao 
+desenvolvimento 
+de 
+TUS 
+em 
+adolescentes. 
+##### 
+ 
+{21} 
+Qual alternativa reflete a posição mais atualizada sobre a 
+indicação de tratamento farmacológico para adolescentes 
+com transtorno por uso de substâncias associado à 
+impulsividade? 
+ 
+(A) Indicado em quadros graves, associado a intervenções 
+psicossociais. 
+(B) Psicoestimulantes de ação curta, com ou sem diagnóstico 
+de TDAH. 
+(C) Antidepressivos seletivos como estratégia de prevenção 
+de recaídas. 
+(D) Antagonistas opioides, na ausência de dependência grave 
+do álcool. 
+##### 
+ 
+{22} 
+Assinale a alternativa correta. 
+ 
+(A) Mulheres 
+têm 
+maior 
+vulnerabilidade 
+genética 
+ao 
+alcoolismo que os homens. 
+(B) A maternidade influencia a recuperação das mulheres 
+farmacodependentes. 
+(C) Mulheres iniciam o consumo de álcool e drogas em busca 
+de novas sensações. 
+(D) Homens apresentam uma progressão mais rápida do 
+alcoolismo que as mulheres.  
+##### 
+{23} 
+Na comparação entre homens e mulheres alcoolistas, as 
+mulheres 
+ 
+(A) tentam mais suicídio. 
+(B) bebem mais rapidamente. 
+(C) usam mais drogas ilícitas. 
+(D) têm menos danos clínicos. 
+##### 
+ 
+{24} 
+Sobre gestantes usuárias de crack, pode-se afirmar: 
+ 
+(A) O uso de crack na gestação, por si só, não é indicação de 
+perda de guarda ou afastamento da criança de sua mãe. 
+(B) O acompanhamento pré-natal deve ser realizado em 
+serviços especializados e/ou de alta complexidade. 
+(C) É comum o recém-nascido apresentar síndrome de 
+abstinência e necessitar de cuidados intensivos ao 
+nascimento. 
+(D) Não é necessária nenhuma intervenção especial nesses 
+casos e deve-se aguardar o fim da gestação para abordar 
+a questão. 
+##### 
+ 
+{25} 
+Os Medicamentos para os Tratamentos por Uso de Opioides 
+(MTUO) abrangem tanto as medicações agonistas opioides 
+como os antagonistas opioides. Em relação a esses 
+medicamentos, assinale a alternativa correta. 
+ 
+(A) A terapia substitutiva inclui opioides de meia-via longa, 
+que permitem a redução de dose gradual sem causar 
+sintomas de abstinência. 
+(B) A principal vantagem dos MTUO é a redução de 
+mortalidade, incluindo mortes por suicídio durante 
+períodos estáveis de tratamento. 
+(C) A retirada supervisionada ambulatorial pode ser difícil, 
+tornando a transição para um antagonista mais prática do 
+que um agonista. 
+(D) Os MTUO reforçam a abstinência, porém pioram a 
+retenção ao tratamento, não sendo indicada em casos 
+leves a moderados. 
+##### 
+ 
+{26} 
+No manejo da dependência do zolpidem, devido à sua meia-
+vida curta e por ser administrado uma vez ao dia, pode-se 
+observar menos dependência física do que ao diazepam 
+(presente durante todo o dia). Assim, recomenda-se 
+preferencialmente 
+a 
+redução 
+gradual 
+da 
+dose 
+do 
+zolpidem. Caso o paciente descreva sintomas de abstinência 
+entre doses, qual a medicação indicada? 
+ 
+(A) Benzodiazepínico de ação longa. 
+(B) Benzodiazepínico de ação curta. 
+(C) Pregabalina ou gabapentina. 
+(D) Zolpidem de liberação prolongada. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Psiquiatria – PROVA AA8 
+{27} 
+Qual o grupo com maior risco de efeitos adversos pela 
+continuação do uso de benzodiazepínicos? 
+ 
+(A) Pessoas com 50 anos de idade ou mais. 
+(B) Pessoas com mais de 65 anos de idade. 
+(C) Mulheres na pré-menopausa. 
+(D) Usuários por mais de 1 mês. 
+##### 
+ 
+{28} 
+Quando surgem os sintomas de abstinência ao parar de 
+fumar, e quando eles atingem o pico típico? 
+ 
+(A) Iniciam em 1 hora; pico em 12 h. 
+(B) Iniciam em 8 horas; pico em 3 a 4 dias. 
+(C) Iniciam após 24 horas; pico em 7 a 10 dias. 
+(D) Iniciam após 48 horas; pico em 2 semanas. 
+##### 
+ 
+{29} 
+Qual o esquema inicial recomendado para uso de nicotina em 
+goma de mascar? 
+ 
+(A) 2 mg a cada 2 h no dia todo por 20 dias. 
+(B) 4 mg a cada 1 a 2 h, por até 12 semanas. 
+(C) 8 mg por dia, durante 3 meses. 
+(D) Uso contínuo de 1 mg por 6 semanas. 
+##### 
+ 
+{30} 
+Qual das substâncias apresentadas a seguir é agonista total 
+ou agonista direto dos receptores CB1? 
+ 
+(A) Canabidiol (CBD). 
+(B) Canabinoide sintético K2. 
+(C) Delta-9 tetrahidrocannabinol (THC). 
+(D) Ácido tetrahidrocanabinólico. 
+##### 
+ 
+{31} 
+Segundo o DSM-5, pode-se considerar um sintoma de 
+abstinência de Cannabis spp.: 
+ 
+(A) Boca seca. 
+(B) Olhos vermelhos. 
+(C) Diminuição do apetite. 
+(D) Aumento da sociabilidade. 
+##### 
+ 
+{32} 
+Entre os principais fatores de risco para o mau uso ou adição 
+de opioides de acordo com a Opioid Risk Tool, pode-se citar: 
+ 
+(A) Faixa etária da pessoa entre 50 e 65 anos. 
+(B) Histórico de violência física na adolescência. 
+(C) Histórico pessoal de abuso de substâncias. 
+(D) Transtornos psiquiátricos comórbidos. 
+##### 
+ 
+ 
+{33} 
+No atendimento a um paciente com um quadro clínico de 
+intoxicação medicamentosa por opioide, observam-se os 
+seguintes sintomas: 
+ 
+(A) Miose, sedação e depressão respiratória. 
+(B) Miose, agitação psicomotora e taquicardia. 
+(C) Miose, agitação psicomotora e taquipneia. 
+(D) Midríase, sedação e hipertensão arterial 
+##### 
+ 
+{34} 
+Assinale a alternativa que apresenta um sintoma típico da 
+síndrome de abstinência por opioides. 
+ 
+(A) Arreflexia. 
+(B) Lacrimejamento. 
+(C) Prurido. 
+(D) Rubor facial. 
+##### 
+ 
+{35} 
+Entre os sintomas da tríade clássica da encefalopatia de 
+Wernicke, qual a característica mais consistente? 
+ 
+(A) Anormalidade leve da marcha. 
+(B) Alteração no estado mental. 
+(C) Nistagmo horizontal ou vertical. 
+(D) Paralisia do sexto par craniano. 
+##### 
+ 
+{36} 
+No tratamento da síndrome de abstinência do álcool, o uso da 
+tiamina tem como objetivo prevenir o desenvolvimento da 
+Encefalopatia de Wernicke. Qual a via de administração mais 
+segura da tiamina? 
+ 
+(A) Intravenosa. 
+(B) Intramuscular. 
+(C) Oral. 
+(D) Retal. 
+##### 
+ 
+{37} 
+Homem, 29 anos de idade, faz uso de Cannabis spp. há mais 
+de 11 anos. Refere aumento progressivo do consumo e do 
+tempo 
+gasto 
+consumindo 
+a 
+substância. 
+Reduziu 
+significativamente seu convívio social e não está trabalhando 
+há 5 meses. Refere ansiedade e irritabilidade, cansaço e 
+pensa recorrentemente em usar a droga. Qual medicação 
+pode ser utilizada no tratamento da fissura em pacientes com 
+transtornos relacionados ao uso de Cannabis spp.? 
+ 
+(A) Gabapentina. 
+(B) Fluoxetina. 
+(C) Sertralina. 
+(D) Topiramato. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Psiquiatria – PROVA AA8 
+{38} 
+Adolescente, 17 anos de idade, sexo masculino, iniciou o uso 
+de Cannabis spp.aos 12 anos de idade e nos últimos 2 anos, 
+tem feito uso diário, mais de dois cigarros de maconha por dia 
+e uso quase semanal de haxixe. Há 1 ano e meio, tem 
+apresentado conflitos na escola, que abandonou há 3 meses, 
+e em sua casa. Recentemente, agrediu o pai que o recriminou 
+por ter perdido dinheiro em aplicativos de jogos no 
+celular. Assinale a alternativa que descreve com maior 
+precisão os achados contemporâneos de neuroimagem 
+funcional em adolescentes e adultos jovens usuários de 
+Cannabis spp. 
+ 
+(A) Diminuição da conectividade entre o córtex pré-frontal 
+dorsolateral e o estriado ventral. 
+(B) Elevação do fluxo sanguíneo na substância negra, que 
+pode reverter com a abstinência. 
+(C) Intensificação da atividade do lobo occipital, sem 
+alterações estruturais observáveis. 
+(D) Hipoatividade do cerebelo, com pouca repercussão em 
+circuitos cortico-estriatais. 
+##### 
+ 
+{39} 
+Em 
+relação 
+aos 
+fatores 
+neurocomportamentais 
+que 
+contribuem para o início precoce do uso de substâncias 
+psicoativas em adolescentes, assinale a alternativa que 
+apresenta corretamente as mais recentes descobertas. 
+ 
+(A) O córtex pré-frontal em adolescentes encontra-se 
+amadurecido, reduzindo o risco de tomada de decisão 
+impulsiva relacionada ao uso de substâncias. 
+(B) Os fatores ambientais, como contexto familiar e social de 
+risco, e a reprovação escolar, são os principais 
+responsáveis pelo início precoce do uso. 
+(C) O 
+desenvolvimento 
+neurocomportamental 
+de 
+adolescentes usuários de substâncias impulsivos é 
+semelhante ao de adultos em abstinência. 
+(D) A 
+maturação 
+precoce 
+do 
+sistema 
+límbico 
+e 
+o 
+desenvolvimento tardio do córtex pré-frontal aumentam o 
+risco de comportamentos impulsivos. 
+##### 
+ 
+{40} 
+Assinale a substância psicoativa que traz mais prejuízos ao 
+crescimento fetal e à placenta. 
+ 
+(A) Cafeína. 
+(B) Cocaína. 
+(C) Heroína. 
+(D) Maconha. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+

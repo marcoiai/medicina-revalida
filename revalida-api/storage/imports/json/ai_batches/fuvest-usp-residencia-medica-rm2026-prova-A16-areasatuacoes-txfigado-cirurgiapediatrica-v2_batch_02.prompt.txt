@@ -1,0 +1,260 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+apresentou, nas últimas 
+consultas, alterações dos exames laboratoriais com elevação 
+discreta, porém persistente dos níveis de enzimas hepáticas, 
+em especial a GGT, sem alteração dos níveis de bilirrubinas. 
+Realizou ultrassom e biópsia hepática, cujos achados foram 
+totalmente inespecíficos.  
+ 
+{09} 
+Considerando o período pós-operatório e os resultados, qual 
+o próximo exame de investigação mais adequado e a hipótese 
+diagnóstica mais provável? 
+ 
+(A) PCR para citomegalovírus e hepatite viral. 
+(B) Colangioressonância e estenose biliar. 
+(C) Arteriografia e estenose da artéria hepática. 
+(D) Repetir biópsia hepática e rejeição crônica incipiente. 
+##### 
+ 
+{10} 
+Confirmando-se a hipótese diagnóstica, qual a abordagem 
+terapêutica a ser adotada? 
+ 
+(A) Colangiografia 
+transparietohepática 
+e 
+dilatação 
+e 
+drenagem da anastomose biliar. 
+(B) Aumento 
+da imunossupressão, 
+mantendo-se 
+níveis 
+terapêuticos de tacrolimo entre 8-10. 
+(C) Iniciar tratamento com ganciclovir endovenoso. 
+(D) Dilatação e colocação de stent no local da anastomose 
+arterial. 
+##### 
+ 
+{11} 
+Dentre 
+as 
+complicações 
+técnicas 
+pós-operatórias 
+apresentadas a seguir, isoladamente, qual a mais frequente 
+após o transplante hepático pediátrico? 
+ 
+(A) Estenose da anastomose da veia hepática. 
+(B) Estenose da anastomose da biliodigestiva. 
+(C) Estenose da anastomose da artéria hepática. 
+(D) Estenose da anastomose da veia porta. 
+##### 
+ 
+{12} 
+No transplante inter vivos de um lactente portador de atresia 
+das vias biliares, as etapas cirúrgicas principais na ordem de 
+sequência técnica são: 
+ 
+(A) Hepatectomia total com preservação da veia cava retro-
+hepática; anastomoses venosas e arterial simultânea; 
+reconstrução biliar com anastomose colédoco-colédoco. 
+(B) Hepatectomia total com a veia cava retro-hepática; 
+anastomoses venosas e arterial; reconstrução biliar com 
+anastomose colédoco-colédoco. 
+(C) Hepatectomia total com a veia cava retro-hepática; 
+anastomoses venosas e arterial simultânea; reconstrução 
+biliar. 
+(D) Hepatectomia total com preservação da veia cava retro-
+hepática; anastomoses venosas; anastomose arterial; 
+anastomose biliodigestiva em Y-de-Roux. 
+##### 
+ 
+{13} 
+Com relação à Doença Linfoproliferativa Pós-Transplante 
+hepático pediátrico (PTLD), assinale a alternativa correta. 
+ 
+(A) Na maioria dos casos, não tem relação com o vírus EBV. 
+(B) Não apresenta relação com o grau de imunossupressão. 
+(C) A abordagem inicial consiste em suspender a imunossu-
+pressão. 
+(D) A PTLD é mais comum em adultos do que em crianças. 
+##### 
+ 
+{14} 
+Na rejeição celular aguda pós-transplante, assinale a 
+alternativa que apresenta o achado mais sugestivo de rejeição 
+resistente ao tratamento com corticosteroides (rejeição 
+córtico-resistente). 
+ 
+(A) Agressão ductos biliares. 
+(B) Infiltrado inflamatório periportal. 
+(C) Ductopenia. 
+(D) Perivenulite central. 
+##### 
+ 
+{15} 
+Dentre as opções terapêuticas disponíveis para o tratamento 
+de resgate da rejeição celular aguda córtico-resistente em 
+criança já submetida a vários pulsos de corticosteroides sem 
+resposta, 
+além 
+da 
+maximização 
+do 
+esquema 
+de 
+imunossupressão, qual o próximo passo a ser adotado? 
+ 
+(A) Terapia com globulina antitimócito (timoglobulina). 
+(B) Adicionar 
+sirolimus 
+à 
+terapia 
+imunossupressora 
+e 
+suspender tacrolimo. 
+(C) Retransplante. 
+(D) Plasmaferese. 
+##### 
+ 
+{16} 
+Adolescente, 15 anos de idade, submetido à transplante 
+hepático com doador falecido aos dois anos de idade por 
+atresia das vias biliares, e apresentando excelente evolução 
+pós-transplante, em uso apenas de tacrolimo, retorna à 
+consulta de rotina apresentando icterícia e alteração dos 
+exames laboratoriais, com aumento de bilirrubinas às custas 
+de direta, TGO 203, TGP 316, gama-GT 436. Não compareceu 
+as duas últimas consultas, alegando que os pais estavam 
+muito ocupados no trabalho. Em relação ao caso descrito, 
+assinale a alternativa que apresenta a hipótese mais provável. 
+ 
+(A) Rejeição celular aguda leve, uma vez que o nível de 
+tacrolimo deve estar muito baixo. 
+(B) Estenose da anastomose biliodigestiva de evolução 
+silenciosa, evoluindo para cirrose biliar secundária. 
+(C) Infecção provavelmente por DST com acometimento 
+hepático pela idade do paciente. 
+(D) Rejeição celular grave/crônica, muito provavelmente pela 
+falta de aderência ao tratamento. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Trans. de Fígado – Cir. Pediátrica – PROVA A16 
+{17} 
+Dentre as alternativas a seguir, qual delas NÃO está 
+relacionada à maior incidência de estenose da anastomose 
+biliodigestiva? 
+ 
+(A) Bloqueio de efluxo venoso. 
+(B) Anastomose realizada sob tensão. 
+(C) Complicações vasculares arteriais. 
+(D) Colangite esclerosante primária. 
+##### 
+ 
+{18} 
+Lactente, 2 anos de idade, portador de atresia das vias 
+biliares, no 9° pós-operatório de transplante hepático com 
+doador vivo, evolui com febre, piora do estado geral, exames 
+com elevação acentuada dos níveis de transaminases, 
+icterícia, débito bilioso em grande quantidade pelos drenos. 
+Realizou exame de ultrassonografia com Doppler com achado 
+de fígado heterogêneo e não sendo visualizado fluxo arterial 
+intra-hepático. Durante a cirurgia do transplante, houve muita 
+dificuldade na realização da anastomose da artéria hepática 
+que era muito fina, calibre reduzido, foi refeita por três vezes 
+por ausência de fluxo pela palpação no intra-operatório. Em 
+relação à situação descrita, assinale a alternativa que 
+apresenta a melhor conduta terapêutica para o paciente. 
+ 
+(A) Exploração cirúrgica e injeção de alteplase. 
+(B) Heparinização plena e drenagem da via biliar. 
+(C) Angiotomografia 
+seguida 
+de 
+arteriografia 
+para 
+desobstrução da anastomose arterial. 
+(D) Inclusão em lista com situação especial por trombose de 
+artéria hepática até o 15° dia e re-transplante. 
+##### 
+ 
+{19} 
+Durante o transplante inter vivos de uma criança com atresia 
+das vias biliares, foi identificado uma veia porta muito fina, 
+calibre reduzido e com fluxo muito ruim. Nessa situação, qual 
+a melhor alternativa técnica? 
+ 
+(A) Interposição de enxerto de artéria ilíaca de doador 
+falecido. 
+(B) Anastomose portal utilizando a bifurcação da veia porta do 
+receptor. 
+(C) Enxerto venoso de doador falecido compatível ou veia 
+mesentérica inferior do doador vivo. 
+(D) Shunt mesentérico-ramo esquerdo da veia porta (cirurgia 
+de shunt Rex). 
+##### 
+ 
+{20} 
+Assinale a alternativa que apresenta o(s) achado(s) da biópsia 
+hepática mais característico(s) de rejeição crônica. 
+ 
+(A) Perivenulite central. 
+(B) Ductopenia e arteriopatia obliterativa. 
+(C) Processo inflamatório misto com presença de grande 
+número de plasmócitos. 
+(D) Infiltrado inflamatório misto com agressão de interface. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+v2
+

@@ -1,0 +1,398 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+s de hemograma completo, creatinina, cálcio e radiografias ósseas que estavam normais. Com base nessas 
+informações, assinale a alternativa que apresenta a conduta indicada neste momento. 
+ 
+(A) Imunofixação e pesquisa de cadeias leves livres no sangue. 
+(B) Biópsia de medula óssea e pesquisa por citogenética/FISH. 
+(C) Eletroforese de proteínas séricas a cada 6 meses. 
+(D) Cintilografia óssea ou tomografia de corpo inteiro. 
+#####
+
+
+--- PAGE 28 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{78} 
+Homem, 45 anos de idade, busca atendimento ambulatorial. 
+Refere ter procurado o pronto-socorro 3 vezes nos últimos  
+4 meses, com crises de dor precordial, taquicardia, falta de ar, 
+formigamento nas mãos e tontura. Durante as crises, que 
+ocorriam quando ele estava em casa, ficava muito assustado 
+achando que iria morrer. Nos atendimentos de urgência, 
+realizou eletrocardiogramas, radiografias de tórax e exames 
+de sangue de urgência que apresentaram resultados normais. 
+Devido às crises, passou a evitar andar de elevador por ter 
+medo de ter uma crise e não poder sair ou receber ajuda. Não 
+há queixas descritas entre as crises. Além do transtorno de 
+pânico, qual é o diagnóstico mais apropriado a partir dos 
+sintomas descritos? 
+ 
+(A) Agorafobia. 
+(B) Claustrofobia. 
+(C) Ansiedade generalizada. 
+(D) Fobia específica. 
+##### 
+ 
+{79} 
+Homem, 57 anos de idade, com peso de 74 kg, passa em 
+atendimento ambulatorial. Ele tem hipotireoidismo e faz uso de 
+225 µg/dia de levotiroxina. Descreve que há 8 meses tem 
+episódios progressivos de dor abdominal. A dor é em cólica, 
+difusa, de intensidade leve a moderada. Associa episódios de 
+evacuações amolecidas. Nunca teve saída de sangue, muco 
+ou pus. Nega tenesmo. Acredita que os episódios têm relação 
+com a alimentação, mas não percebe refeições ou alimentos 
+claramente relacionados. Ele é tabagista (24 anos-maço), 
+etilista social ocasional. Nega sibilos, prurido nasal ou 
+congestão nasal. Os sinais vitais e o exame clínico são 
+normais. Traz consigo uma enterotomografia normal.  
+ 
+• Exames laboratoriais:  
+Hb: 10,1 g/dL 
+VCM: 67 fL 
+HCM: 30 pg 
+Leucócitos: 6.750/mm3 
+Plaquetas: 490 mil/mm3 
+ 
+Uma biópsia tecidual do trato gastrointestinal deste paciente, 
+mais provavelmente, identificaria a presença de 
+ 
+(A) granuloma. 
+(B) H. pylori. 
+(C) infiltrado linfocítico. 
+(D) infiltrado eosinofílico. 
+##### 
+ 
+{80} 
+Mulher, 35 anos de idade, em acompanhamento ambulatorial 
+por artrite reumatoide e depressão. Faz uso de metotrexato  
+10 mg semanal, ácido fólico 5 mg semanal e fluoxetina 20 mg 
+à noite. Procura ambulatório por insônia há 2 meses. Exame 
+físico geral sem alterações e articulações sem sinais de 
+flogismo. Assinale a alternativa que apresenta a conduta 
+adequada para a queixa da paciente. 
+ 
+(A) Trocar fluoxetina por clonazepam. 
+(B) Associar fluoxetina com clonazepam. 
+(C) Aumentar dose da fluoxetina. 
+(D) Orientar uso da fluoxetina pela manhã. 
+##### 
+{81} 
+Mulher, 74 anos de idade, tabagista, tem hipertensão e 
+diabetes. Foi encontrada confusa em casa pela filha, que há  
+2 dias atrás havia a visto bem. Na admissão no pronto-socorro, 
+encontrava-se afebril, eupneica, com PA de 170×110 mmHg, 
+FC de 102 bpm, glicemia capilar de 145 mg/dL. Ao exame 
+neurológico, apresentou-se vigil, alerta, irritada, afirmando 
+“estou bem, quero ir para casa”. Tinha o olhar desviado para 
+a direita quando distraída, mas conseguia olhar para a 
+esquerda quando instruída pelo examinador. A paciente 
+percebia o dedo do examinador em todos os quadrantes no 
+exame de campos visuais por confrontação. Quando 
+solicitada a ler um texto, começava a partir do meio da página 
+e lia apenas o lado direito das frases repetidamente. Não 
+apresentava fraqueza muscular. Assinale a alternativa que 
+apresenta uma imagem de ressonância magnética compatível 
+com o quadro da paciente descrita. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+#####
+
+
+--- PAGE 29 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{82} 
+Mulher, 22 anos de idade, procura o pronto-socorro por indisposição. Descreve ter polifagia, poliúria e polidipsia progressivas no 
+último mês, com piora na última semana. Nos últimos dois dias, teve náuseas, alguns vômitos e passou a maior parte do dia sentada 
+por indisposição. Ao exame clínico, apresentou PA de 110×62 mmHg, FC de 106 bpm, FR de 28 irpm, temperatura 36,2 °C, SpO2 
+de 98%, mucosas secas, vigil, sem sinais de desconforto respiratório, força grau IV nos membros inferiores, sem outras 
+anormalidades.  
+ 
+• Exames laboratoriais: 
+Glicemia: 482 mg/dL 
+pH: 7,27 
+HCO3-: 12 mEq/L 
+pCO2: 26 mmHg 
+Cetonas detectadas no sangue.  
+ 
+Um eletrocardiograma foi realizado e pode ser observado na imagem a seguir:  
+ 
+ 
+ 
+Assinale a alternativa que contém o item mais apropriado à prescrição imediata da paciente. 
+ 
+(A) Bicarbonato de sódio. 
+(B) Insulina em bomba de infusão. 
+(C) Adenosina em bólus. 
+(D) Cloreto de potássio. 
+##### 
+ 
+{83} 
+Homem, 58 anos de idade, procura atendimento por dispneia. A médica residente, que realizou o atendimento, observou a presença 
+de um achado clínico que favoreceu, significativamente, a possibilidade de se tratar de um caso de insuficiência cardíaca. A partir 
+da análise da tabela, assinale a alternativa que contém o achado clínico observado. 
+ 
+ 
+Sinal clínico 
+Sensibilidade 
+(%) 
+Especificidade 
+(%) 
+Razão de 
+verossimilhança 
+positiva 
+Razão de 
+verossimilhança 
+negativa 
+(A) 
+Hepatomegalia 
+3,2 
+97 
+1,07 
+1,00 
+(B) 
+Terceira bulha 
+10 
+85 
+0,67 
+1,06 
+(C) 
+Estertores 
+29 
+77 
+1,26 
+0,92 
+(D) 
+Refluxo abdomino jugular 
+33 
+94 
+5,50 
+0,71 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 30 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{84} 
+Mulher, 53 anos de idade, antecedentes desconhecidos. 
+Trazida à sala de emergência com relato de tosse produtiva, 
+febre e prostração nos últimos 3 dias. Durante atendimento, 
+evoluiu com franco desconforto respiratório, foi submetida à 
+intubação orotraqueal e foram realizados procedimentos para 
+estabilização. Ao exame físico, após os procedimentos, 
+apresentou PA de 102×74 mmHg, FC de 112 bpm, SpO2 de 
+92%, temperatura de 37,9 °C. Regular estado geral, corada, 
+hidratada. Murmúrios vesiculares presentes à direita e 
+globalmente reduzidos à esquerda. Ausculta cardíaca e 
+exame abdominal sem alterações. Extremidades com 
+perfusão periférica adequada. Assinale a alternativa que 
+apresenta uma imagem de radiografia compatível com o 
+quadro da paciente. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+{85} 
+Mulher, 23 anos de idade, faz acompanhamento médico por 
+rinite alérgica, dismenorreia e cefaleia tensional, com uso 
+recorrente de anti-inflamatórios e analgésicos. A paciente 
+comparece em consulta ambulatorial de rotina e refere que, 
+nos últimos 8 meses, procurou o pronto-atendimento quatro 
+vezes por edema em pálpebras e lábios. Um dos episódios foi 
+acompanhado de edema de língua. Outro episódio foi 
+acompanhado de lesões de pele eritematosas, edematosas e 
+pruriginosas. Em um dos casos havia ingerido amendoim. Em 
+duas ocasiões, recebeu adrenalina intramuscular com 
+melhora do quadro. Nega que tenha ocorrido hipotensão, 
+dispneia, diarreia ou dor abdominal nos quatro atendimentos. 
+Qual é a causa mais provável do quadro clínico desta 
+paciente? 
+ 
+(A) Urticária aguda. 
+(B) Alergia alimentar. 
+(C) Anafilaxia recorrente. 
+(D) Angioedema hereditário. 
+##### 
+ 
+{86} 
+Mulher, 35 anos de idade, previamente hígida, procura o 
+ambulatório. Há 3 meses, queixa-se de calafrios ocorrendo  
+3 vezes por semana, além de prurido generalizado, sem 
+melhora com uso de hidratantes. Relata edema facial leve ao 
+despertar, com melhora ao longo do dia. Notou gânglio 
+aumentado à direita e passou em odontologista que atribuiu a 
+um procedimento feito no mês anterior. Ao exame clínico, 
+apresentou PA de 113×66 mmHg, FC de 112 bpm, 
+temperatura de 37,1 ºC, FR de 18 irpm, SpO2 de 97% em ar 
+ambiente. Linfonodo cervical direito aumentado, firme, indolor, 
+não aderido, medindo cerca de 2,5 cm. Turgência jugular 
+discreta. Sem sinais de congestão pulmonar ou derrame 
+pleural. Ausência de estertores ou sibilos. Abdome flácido, 
+indolor, sem visceromegalias. Assinale a alternativa que 
+apresenta a conduta apropriada neste momento. 
+ 
+(A) Sorologia para mononucleose. 
+(B) Amoxicilina/clavulanato por 7 dias. 
+(C) Biópsia do linfonodo. 
+(D) Prednisona oral por 5 dias. 
+##### 
+ 
+{87} 
+Homem, 43 anos de idade, possui antecedentes de diabetes 
+melito tipo 2 e sobrepeso. Comparece em consulta para 
+seguimento de controle glicêmico. Marido do paciente refere 
+ronco esporádico em noites após ingestão de álcool e nega 
+pausas respiratórias. Paciente nega sonolência diurna ou 
+cefaleia. Foi realizada aferição de pressão arterial na triagem, 
+que identificou valor de 148×92 mmHg. Qual deve ser o 
+próximo passo na avaliação da pressão arterial em 
+consultório? 
+ 
+(A) Solicitar uma polissonografia tipo 1 (laboratório de sono). 
+(B) Indicar Monitorização Ambulatorial da Pressão Arterial 
+(MAPA). 
+(C) Reavaliar medida de pressão arterial em consulta de 
+retorno. 
+(D) Checar comprimento e largura do manguito utilizado na 
+medição. 
+##### 
+ 
+
+
+--- PAGE 31 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{88} 
+Mulher, 28 anos de idade, saudável, com gestação prévia sem intercorrências, procura atendimento ginecológico para iniciar o uso 
+de contracepção hormonal combinada. Ela não possui história pessoal ou familiar de trombose venosa profunda, tromboembolia 
+pulmonar ou complicações gestacionais. Soube por amigos do risco de trombose relacionado ao uso desse tipo de contraceptivo 
+e solicita a realização de exames para pesquisa de trombofilias hereditárias antes de iniciar o método. A tabela de prevalência de 
+trombofilias hereditárias é apresentada a seguir: 
+ 
+Prevalência de Trombofilias Hereditárias e Risco de Trombembolismo Associado ao Uso de Contraceptivo Oral 
+ 
+Trombofilia hereditária 
+Prevalência na 
+População Geral 
+Prevalência em 
+Pacientes com TEV 
+Risco Relativo para Primeiro 
+Episódio de TEV 
+Deficiência de Antitrombina 
+0,02% 
+1% 
+5 a 10 
+Deficiência de Proteína C 
+0,2% 
+3% 
+4 a 6,5 
+Deficiência de Proteína S 
+0,03% - 0,13% 
+2% 
+1 a 10 
+Fator V de Leiden 
+(heterozigoto) 
+3% - 7% 
+20% 
+3 a 5 
+Mutação G20210A da 
+Protrombina (heterozigoto) 
+0,7% - 4% 
+5% 
+2 a 3 
+* As prevalências populacionais variam conforme a região geográfica. 
+ 
+Com base nas evidências disponíveis na tabela e o risco de tromboembolia em usuárias de contraceptivos orais, qual é o melhor 
+aconselhamento neste caso? 
+ 
+(A) Solicitar a pesquisa das trombofilias mais prevalentes na população. 
+(B) Solicitar as pesquisas das trombofilias com maior risco relativo de TEV. 
+(C) Realizar triagem laboratorial para as trombofilias hereditárias disponíveis. 
+(D) Não há necessidade de investigar trombofilias hereditárias. 
+#####
+ 
+{89} 
+Homem, 73 anos de idade, com antecedente de insuficiência 
+cardíaca de fração de ejeção reduzida e hipertensão arterial 
+sistêmica. Internado por descompensação da insuficiência 
+cardíaca por má adesão. Após 8 dias de internação hospitalar, 
+intercorreu com febre, tosse produtiva, taquicardia e pressão 
+arterial média limítrofe.  
+ 
+• Exames laboratoriais:  
+Hb: 14,2 mg/dL 
+Leucócitos: 9.200/mm3 
+Plaquetas: 184 mil/mm3 
+Cr: 0,9 mg/dL 
+ 
+Hemocultura 
+com 
+identificação 
+de 
+Staphylococcus 
+epidermidis em frasco aeróbio após 22h, frasco anaeróbio e 
+outro par de hemocultura seguem negativos. Assinale a 
+alternativa que apresenta a antibioticoterapia mais pertinente 
+para o caso apresentado. 
+ 
+(A) Ceftriaxone e azitromicina. 
+(B) Piperacilina com tazobactam. 
+(C) Vancomicina. 
+(D) Oxacilina. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{90}

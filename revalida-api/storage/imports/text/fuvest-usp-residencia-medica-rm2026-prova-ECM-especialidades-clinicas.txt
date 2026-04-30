@@ -1,0 +1,3374 @@
+
+
+--- PAGE 1 ---
+
+ 
+ECM 
+ 
+ 
+RESIDÊNCIA MÉDICA 
+Especialidades Clínicas 
+ 
+ 
+ 
+ 
+ 
+ 
+      PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025     
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo ECM. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 6 horas. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo 
+fiscal. O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 16 h. Não haverá tempo 
+adicional para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 120 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{01} 
+Homem, 58 anos de idade, morador de área rural, com 
+astenia, dor e desconforto em hipocôndrio esquerdo há  
+6 meses. Exame clínico: fígado palpável a 3 cm do rebordo 
+costal direito e baço a 12 cm do rebordo costal esquerdo. Sem 
+adenomegalias.  
+ 
+• Exames laboratoriais: 
+Hb: 12 g/dL  
+Leucócitos: 25.000/mm3 
+Mieloblastos: 3% 
+Promielócitos: 3% 
+Mielócitos: 2% 
+Metamielócitos: 3% 
+Bastões: 3% 
+Neutrófilos: 60% 
+Basófilos: 5% 
+Eosinófios: 5% 
+Monócitos: 5% 
+Plaquetas: 460 mil/mm3 
+Índices e morfologia normais 
+ 
+A hipótese diagnóstica mais provável é: 
+ 
+(A) Leucemia mielomonocítica crônica. 
+(B) Leucemia mieloide crônica. 
+(C) Leishmaniose visceral. 
+(D) Mielofibrose primária. 
+##### 
+ 
+{02} 
+Mulher, 29 anos de idade, vítima de acidente de trânsito, com 
+Escala de Coma de Glasgow de 7 na cena. Tomografia de 
+crânio da admissão com contusões frontais bilaterais e edema 
+cerebral difuso. Realizada monitorização com Cateter de 
+Pressão Intracraniana (PIC), implante de derivação ventricular 
+externa e foi transferida para a UTI. Nas primeiras 24 horas, a 
+pressão intracraniana manteve-se controlada com medidas de 
+primeira linha, mas evoluiu nas últimas horas com elevação da 
+PIC e a seguinte curva no monitor: 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta a melhor conduta. 
+ 
+(A) Manitol. 
+(B) Repetir TC de crânio. 
+(C) Doppler transcraniano. 
+(D) Coma com barbitúrico. 
+##### 
+ 
+{03} 
+Mulher, 52 anos de idade, com diarreia crônica, aquosa, pior 
+à 
+noite, 
+sem 
+sintomas constitucionais. 
+Antecedentes: 
+colecistectomia. Calprotectina fecal e Proteína C Reativa 
+normais. O tratamento mais adequado é: 
+ 
+(A) Amitriptilina. 
+(B) Colestiramina. 
+(C) Dieta sem glúten e sem lactose. 
+(D) Corticoide de liberação entérica. ##### 
+{04} 
+Homem, 67 anos de idade, previamente hígido, apresenta 
+prurido difuso há 4 meses. O sintoma é mais intenso à noite, e 
+não respondeu a anti-histamínicos convencionais. Ao exame 
+dermatológico, não há lesões primárias na pele, apenas 
+escoriações pelo ato de coçar. O restante do exame clínico 
+está 
+normal. 
+Exames 
+laboratoriais: 
+hemograma 
+com 
+leucocitose e eosinofilia discreta; funções hepática, renal e 
+tireoidiana normais. Sorologias para HIV e hepatites negativas. 
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta o diagnóstico mais provável. 
+ 
+(A) Linfoma. 
+(B) Escabiose nodular. 
+(C) Dermatite atópica. 
+(D) Prurido psicogênico. 
+##### 
+ 
+{05} 
+Adolescente do sexo feminino, 17 anos de idade, nunca 
+menstruou. Nega uso de medicações hormonais, casos 
+semelhantes na família ou consanguinidade. Ao exame clínico, 
+apresentou peso de 56 kg, altura de 148 cm. PA de  
+110×60 mmHg; FC de 72 bpm. Presença de lipomastia. 
+Ausência de pelos axilares e pubianos. Genitália externa 
+feminina normal. Ultrassonografia pélvica com imagem 
+compatível com útero infantil (não foi possível visualizar a 
+presença de gônadas durante o exame). Considerando o caso 
+descrito, é mais provável que a paciente apresente 
+ 
+(A) cariótipo 45,X0. 
+(B) sinéquias uterinas. 
+(C) insensibilidade a andrógenos. 
+(D) hiperplasia adrenal congênita. 
+##### 
+ 
+{06} 
+Homem, 18 anos de idade, sem comorbidades, comparece no 
+pronto-socorro com queixa de epigastralgia e vômitos que 
+melhoraram com metoclopramida e omeprazol. Evoluiu com 
+dificuldade para fechar a boca e rigidez no pescoço, iniciadas 
+há seis horas. Ao exame neurológico: distonia oromandibular, 
+com abertura involuntária da mandíbula, além de distonia 
+cervical, 
+caracterizada 
+por 
+retrocolo 
+e 
+laterocolo. 
+Considerando o caso apresentado, assinale a alternativa que 
+apresenta o tratamento mais adequado. 
+ 
+(A) Levetiracetam. 
+(B) Fenitoína. 
+(C) Biperideno. 
+(D) Haloperidol. 
+##### 
+ 
+{07} 
+Mulher, 40 anos de idade, com diagnóstico recente de câncer 
+de mama luminal com metástases em sistema nervoso central. 
+Assinale a alternativa que apresenta a melhor programação. 
+ 
+(A) Cirurgia. 
+(B) Radioterapia. 
+(C) Quimioterapia curativa. 
+(D) Quimioterapia paliativa. 
+##### 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{08} 
+Paciente, 72 anos de idade, portador de diabetes melito tipo 2 e doença arterial obstrutiva periférica, comparece ao pronto-socorro 
+com queixa de dor torácica há cerca de 90 minutos com irradiação para ombro esquerdo e sudorese. Foi realizado 
+eletrocardiograma que é apresentado na imagem a seguir. No passado, apresentou quadro de prurido intenso e eritema importante 
+de face e pescoço associado ao uso de aspirina. 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a conduta mais adequada quanto à antiagregação plaquetária. 
+ 
+(A) Realizar ataque de dupla antiagregação plaquetária com AAS 300 e clopidogrel 600 mg. 
+(B) Realizar dupla antiagregação com AAS 100 mg e clopidogrel 600 mg. 
+(C) Omitir a dose de AAS e realizar ataque com clopidogrel 600 mg. 
+(D) Realizar ataque com clopidogrel 600 mg e substituir AAS por tirofibam. 
+#####
+ 
+{09} 
+Homem, 66 anos de idade, tabagista e com DPOC, está 
+internado por pneumonia grave, com necessidade de 
+ventilação mecânica. O resultado da cultura de secreção 
+traqueal é apresentado na tabela a seguir: 
+ 
+Candida albicans 
+Fluconazol 
+Sensível 
+Anfotericina B 
+Resistente 
+Voriconazol 
+Resistente 
+Equinocandina 
+Sensível 
+Staphylococcus aureus 
+Benzilpenicilina 
+Resistente 
+Clindamicina 
+Sensível 
+Ciprofloxacina 
+Resistente 
+Eritromicina 
+Resistente 
+Oxacilina 
+Sensível 
+Sulfametoxazol/trimetoprim 
+Sensível 
+Vancomicina 
+Sensível 
+ 
+Considerando o caso apresentado, assinale a alternativa que 
+apresenta o tratamento antimicrobiano mais adequado. 
+ 
+(A) Cefazolina. 
+(B) Clindamicina. 
+(C) Oxacilina e fluconazol. 
+(D) Sulfametoxazol/trimetoprim e micafungina. ##### 
+ 
+{10} 
+Mulher, 78 anos de idade, com diagnóstico de diabetes melito 
+tipo 2 há 20 anos. Teve infarto agudo do miocárdio há cinco 
+anos, tem doença renal crônica estágio 3b e retinopatia 
+diabética não proliferativa leve. Além disso, relatou dois 
+episódios de hipoglicemia que necessitaram de auxílio de 
+terceiros no último ano. Seu tratamento atual consiste em 
+metformina 500 mg/dia, sitagliptina 50 mg/dia e insulina NPH 
+20 unidades à noite, e 10 unidades pela manhã. A meta de 
+HbA1c mais apropriada para esta paciente é: 
+ 
+(A) 6,0% – 6,5%. 
+(B) 6,5% – 7,0%. 
+(C) 7,0% – 7,5%. 
+(D) 7,5% – 8,5%. 
+##### 
+ 
+{11} 
+Mulher, 45 anos de idade, submetida à ultrassonografia 
+cervical por conta de nódulo tireoideano palpado durante a 
+consulta de rotina. Seu médico a tranquilizou, pois os achados 
+do exame não eram suspeitos para malignidade. O laudo mais 
+provável deste exame é: 
+ 
+(A) Nódulo isoecoico com microcalcificações. 
+(B) Nódulo sólido-cístico com margens mal definidas. 
+(C) Nódulo predominantemente cístico com focos hiperrefrin-
+gentes. 
+(D) Nódulo marcadamente hipoecoico e mais alto do que 
+largo. ##### 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{12} 
+Homem, 78 anos de idade, com astenia há quatro meses e 
+dificuldade progressiva de realizar seus exercícios em 
+academia. Refere hipertensão arterial sistêmica e diabetes 
+melito há cinco anos, controlados com losartana e metformina. 
+Nega tabagismo e etilismo. Pai falecido de câncer de intestino 
+e mãe falecida por infarto agudo do miocárdio. Três filhos com 
+boa saúde. Ao exame clínico, apresenta-se descorado++/4+. 
+ 
+• Exames laboratoriais: 
+Hb: 7,5 g/dL 
+VCM: 108 fL 
+Leucócitos: 4.200/mm3 
+Neutrófilos: 2.100/mm3 
+Linfócitos: 1.680/mm3 
+Monócitos: 400/mm3 
+Eosinófilos: 20/mm3 
+Plaquetas: 152.000/mm3 
+Reticulócitos: 40.000/mm3 
+Presença de neutrófilos hipossegmentados e hipogranulares. 
+ 
+Em relação ao caso apresentado, o diagnóstico mais provável 
+para a anemia é: 
+ 
+(A) Síndrome mielodisplásica. 
+(B) Anemia megaloblástica. 
+(C) Deficiência de ferro. 
+(D) Anemia hemolítica. 
+##### 
+ 
+{13} 
+Paciente, 67 anos de idade, ex-tabagista de aprox. 40 anos-
+maço, com queixa de tosse seca há cerca de um mês. 
+Apresenta lesão pulmonar em lobo superior esquerdo visto em 
+tomografia de tórax realizada há um ano. Sem alterações ao 
+exame clínico. Há uma semana, procurou o pronto-socorro 
+com piora da tosse. A tomografia realizada nesta ocasião é 
+mostrada na imagem a seguir: 
+ 
+ 
+ 
+A próxima conduta mais adequada, neste caso, é: 
+ 
+(A) Ressecção do nódulo. 
+(B) Broncoscopia com biópsia. 
+(C) Ressonância magnética do tórax. 
+(D) Corticoide inalatório e broncodilatador.  
+##### 
+Texto para as questões de 14 a 16 
+ 
+Mulher, 58 anos de idade, em avaliação pré-operatória de 
+gastroduodenopancreatectomia por neoplasia de cabeça de 
+pâncreas. A cirurgia tem duração estimada de 8 horas, com 
+perda sanguínea estimada de 500 a 1.000 mL e está 
+programada para ser realizada em duas semanas. Tem 
+antecedente de hipertensão arterial sistêmica, diabetes melito 
+tipo 2, dislipidemia mista e tabagismo de 35 anos-maço. Foi 
+submetida à revascularização miocárdica com colocação de 
+stent farmacológico há 8 meses. Relata dispneia aos 
+moderados esforços. Nega angina, dispneia paroxística 
+noturna, ortopneia e edema de membros inferiores. Está em 
+uso 
+de 
+losartana, 
+anlodipino, 
+atenolol, 
+metformina, 
+dapagliflozina, rosuvastatina, Ácido Acetilsalicílico (AAS) e 
+clopidogrel. Exame clínico sem alterações. Eletrocardiograma 
+(ECG) com alteração de repolarização difusa. 
+ 
+{14} 
+Os riscos cardiovascular e do procedimento são, respectiva-
+mente: 
+ 
+(A) Moderado e moderado. 
+(B) Moderado e alto. 
+(C) Alto e moderado. 
+(D) Alto e alto. 
+##### 
+ 
+{15} 
+Os exames indicados no período perioperatório são: 
+ 
+(A) ECG e troponina nos primeiros dois dias após a cirurgia. 
+(B) Cintilografia de perfusão miocárdica antes da cirurgia. 
+(C) NT-pro-BNP nos três primeiros dias após a cirurgia. 
+(D) Ecocardiograma transtorácico em repouso antes da 
+cirurgia. 
+##### 
+ 
+{16} 
+Além da manutenção de rosuvastatina, losartana, anlodipino e 
+atenolol, deve-se 
+ 
+(A) manter AAS e clopidogrel. Suspender dapagliflozina 3 dias 
+antes do procedimento e metformina no dia do 
+procedimento. 
+(B) manter AAS e clopidogrel. Suspender dapagliflozina no dia 
+e metformina 3 dias antes do procedimento. 
+(C) suspender clopidogrel 5 dias antes do procedimento e 
+manter o AAS. Suspender dapagliflozina 3 dias antes e 
+metformina no dia do procedimento. 
+(D) suspender clopidogrel 5 dias antes do procedimento e 
+manter o AAS. Suspender dapagliflozina no dia e 
+metformina 3 dias antes do procedimento. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{17} 
+Homem, 58 anos de idade, com diagnóstico recente de COVID-19, não vacinado. Tem insuficiência venosa e pré-diabetes e faz 
+uso de metformina e furosemida quando nota piora do inchaço nas pernas. Há seis dias, relata episódios de desmaio, precedidos 
+por mal-estar inespecífico. Para COVID-19, faz uso de ondansetrona, tramadol, azitromicina e hidroxicloroquina. Ao exame clínico, 
+apresenat PA de 100×60 mmHg, FC de 110 bpm, SpO2 de 95% e temperatura de 37,4 °C. Ausculta cardiopulmonar sem alterações. 
+Dermatite ocre e edema simétrico +/4+ em membros inferiores. O ECG está apresentado a seguir: 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que apresenta o diagnóstico mais provável da queixa de seis dias. 
+ 
+(A) Síncope neurogênica. 
+(B) Torsades de Pointes. 
+(C) Arritmia ventricular por miocardite. 
+(D) Disautonomia relacionada à Covid-19. 
+#####
+ 
+{18} 
+Homem, 48 anos de idade, previamente hígido, há 6 meses 
+recebeu diagnóstico de insuficiência cardíaca com fração de 
+ejeção reduzida (32%), de etiologia alcoólica e iniciou 
+tratamento clínico. Compareceu à consulta médica relatando 
+múltiplos episódios de hipotensão sintomática (90×50 mmHg) 
+que correlacionou ao aumento recente da dose de enalapril 
+para 20 mg 2x ao dia. Está abstêmio, em classe funcional II, 
+em uso, além do enalapril, de espironolactona 12,5 mg 1x ao 
+dia, carvedilol 6,25 mg 2x ao dia e furosemida 80 mg 1x ao 
+dia. Assinale a alternativa que apresenta a conduta mais 
+adequada para este paciente. 
+ 
+(A) Suspender a espironolactona. 
+(B) Transicionar carvedilol para ivabradina. 
+(C) Reduzir a dose do enalapril. 
+(D) Reduzir a dose de furosemida. 
+##### 
+ 
+{19} 
+Homem, 25 anos de idade, previamente hígido, é admitido no 
+pronto-socorro após ingestão intencional de 35 g de 
+paracetamol, durante uma tentativa de suicídio, há quatro 
+horas. Está consciente, com PA de 120×80 mmHg, FC de  
+95 bpm, sem alterações neurológicas. A conduta mais 
+adequada é: 
+ 
+(A) Hemodiálise precoce. 
+(B) Acetilcisteína e carvão ativado. 
+(C) Dosagem sérica seriada de paracetamol.  
+(D) Dosagem seriada de AST/ALT. ##### 
+ 
+{20} 
+Mulher, 19 anos de idade, com diagnóstico de diabetes melito 
+tipo 1 há cinco anos. É trazida no pronto-socorro, onde foi 
+realizado diagnóstico de cetoacidose diabética. Exames 
+iniciais apresentaram:  
+ 
+Glicemia capilar: 550 mg/dL 
+pH: 7,10 
+HCO3-: 8 mEq/L 
+Na+: 130 mEq/L 
+K+: 5,8 mEq/L 
+Ur: 60 mg/dL 
+Cr: 1,5 mg/dL 
+Cetonas séricas: +++/4+ 
+ 
+Foi 
+iniciada 
+hidratação 
+venosa 
+com 
+NaC, 
+0,9% 
+e 
+insulinoterapia intravenosa contínua (0,1 U/kg/h). Após quatro 
+horas de tratamento, a paciente está mais alerta, a glicemia é 
+de 240 mg/dL, e os novos exames mostram:  
+ 
+pH: 7,25 
+HCO3-: 15 mEq/L 
+K+: 3,5 mEq/L 
+ 
+A próxima conduta mais adequada é: 
+ 
+(A) Manter a infusão de insulina e adicionar solução glicosada.  
+(B) Administrar cloreto de potássio na solução de hidratação 
+venosa. 
+(C) Aumentar a taxa de infusão da solução salina isotônica. 
+(D) Trocar a insulina por NPH subcutânea e oferecer dieta. 
+##### 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+Texto para as questões de 21 a 23 
+ 
+Homem, 30 anos de idade, relata tosse e febre. Ao exame 
+clínico, encontra-se confuso, com FR de 30 irpm e SpO2 de 
+85%, em ar ambiente. Iniciada máscara não reinalante em 
+flush rate e paciente manteve esforço respiratório com SpO2 
+de 87%, com FR de 35 irpm, FC de 120 bpm e PA de  
+100×60 mmHg. A radiografia de tórax é apresentada na 
+imagem a seguir: 
+ 
+ 
+ 
+{21} 
+Em relação ao caso descrito, a conduta mais adequada na 
+intubação orotraqueal deste paciente é: 
+ 
+(A) Intubação com paciente acordado. 
+(B) Realizar resgate com máscara laríngea. 
+(C) Pré-oxigenação com ventilação não invasiva. 
+(D) Pré oxigenação e intubação com ventilação apneica com 
+cateter nasal de alto fluxo. 
+##### 
+ 
+{22} 
+Paciente no segundo dia de ventilação mecânica, em modo 
+volume controlado, com volume corrente de 7 mL/kg, PEEP de 
+10 cmH2O, pressão de platô de 27 cmH2O, pressão de pico 
+de 33 cmH2O, FR de 30 irpm, FiO2 de 70%, apresenta a 
+seguinte gasometria: 
+ 
+pH: 7,19 
+PaCO2: 55 mmHg 
+PaO2: 112 mmHg 
+HCO3-: 19 mEq/L 
+BE: -5  
+ 
+Neste momento, a conduta mais adequada é: 
+ 
+(A) Aumentar a PEEP. 
+(B) Bicarbonato de sódio 1 mEq/kg. 
+(C) Reduzir volume corrente. 
+(D) Reduzir o espaço morto do circuito. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+{23} 
+No quarto dia de ventilação mecânica, o paciente está sedado 
+com propofol 1,4 mg/kg/h e fentanil 2 µg/kg/h, e em uso de 
+bloqueio neuromuscular com cisatracúrio 0,12 mg/kg/h. 
+Apresenta PaO2 de 76 mmHg, ventilando em modo volume 
+controlado com volume corrente de 6 mL/kg, PEEP de  
+10 cmH2O, pressão de platô de 22 cmH2O e FiO2 de 45%. No 
+momento da avaliação, paciente apresenta pontuação na 
+Behavior Pain Scale – BPS de 3 e a capnografia apresentada 
+na imagem a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a conduta mais 
+adequada. 
+ 
+(A) Manter sedação titulada para RASS -5. 
+(B) Aumentar dose de opioide. 
+(C) Suspender bloqueio neuromuscular. 
+(D) Realizar teste de respiração espontânea. 
+##### 
+ 
+{24} 
+Homem, 52 anos de idade, com hipertensão arterial mal 
+controlada e histórico de infarto agudo do miocárdio há um 
+ano, em uso de AAS 100 mg e enalapril 10 mg ao dia. Trazido 
+para a emergência com relato de síncope e queda da própria 
+altura. Realizou a tomografia de crânio apresentada a seguir: 
+ 
+ 
+ 
+Em relação ao caso apresentado, a próxima conduta mais 
+adequada é:  
+ 
+(A) Angiotomografia arterial. 
+(B) Fenitoína endovenosa.  
+(C) Transfusão de plaquetas.  
+(D) Drenagem de hematoma intracraniano. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{25} 
+Mulher, 47 anos de idade, vegana, com sangramento genital 
+há 15 dias e febre há dois dias. Nega doenças prévias. Exame 
+clínico: regular estado geral, descorada++/4+, temperatura 
+axilar de 38 °C, orofaringe hiperemiada e com petéquias em 
+palato, fígado a 2 cm do rebordo costal direito.  
+ 
+• Exames laboratoriais:  
+Hb: 9,5 g/dL 
+VCM: 105 fL 
+Leucócitos: 800/mm3 
+Neutrófilos: 100/mm3 
+Linfócitos: 680/mm3 
+Monócitos: 20/mm3  
+Presença de algumas células anômalas, com nucléolos 
+evidentes 
+Plaquetas: 12.000/mm3 
+TP: atividade 50% 
+TTPA: 1,3  
+TT: 27 s 
+Fibrinogênio: 150 mg/dL (ref.: 200 a 400 mg/dL) 
+βHCG: normal 
+ 
+Foi realizado raio-X de tórax, sem alterações. Em relação ao 
+caso apresentado, o diagnóstico mais provável é: 
+ 
+(A) Leucemia aguda. 
+(B) Anemia megaloblástica. 
+(C) Aplasia medular. 
+(D) Septicemia. 
+##### 
+ 
+{26} 
+Mulher, 22 anos de idade, queixa-se de crises de falta de ar 
+associadas à tosse e sibilância, sobretudo quando exposta a 
+ambientes com muita poeira. Raramente acorda à noite com 
+falta de ar. Nega tabagismo. Para confirmação diagnóstica foi 
+solicitada uma prova de função pulmonar.  Assinale a 
+alternativa que apresenta o resultado mais compatível com o 
+diagnóstico da paciente. 
+ 
+(A) 
+CVF = pré-BD: 2,60 (80%) → pós-BD: 2,70 (82%) 
+VEF1 = pré-BD: 1,50 (65%) → pós-BD: 1,92 (85%) 
+VEF1/CVF = pré-BD: 0,57 → pós-BD: 0,71 
+(B) 
+CVF = pré-BD: 2,60 (80%) → pós-BD: 2,60 (80%) 
+VEF1 = pré-BD: 1,50 (65%) → pós-BD: 1,60 (68%) 
+VEF1/CVF = pré-BD: 0,57 → pós-BD: 0,61 
+(C) 
+CVF = pré-BD: 2,60 (80%) → pós-BD: 2,70 (82%) 
+VEF1 = pré-BD: 1,82 (80%) → pós-BD: 1,82 (80%) 
+VEF1/CVF = pré-BD: 0,70 → pós-BD: 0,67 
+(D) 
+CVF = pré-BD: 2,60 (70%) → pós-BD: 2,70 (80%) 
+VEF1 = pré-BD: 1,82 (80%) → pós-BD: 2,02 (90%) 
+VEF1/CVF = pré-BD: 0,70 → pós-BD: 0,75 
+ 
+Note e adote: 
+ 
+CVF: Capacidade Vital Forçada; 
+VEF1: Volume Expiratório Forçado no primeiro segundo; 
+BD: Broncodilatador 
+##### 
+{27} 
+Homem, 61 anos de idade, com sobrepeso, trabalhador 
+braçal, com queixas de dor em mãos, ombros e joelho 
+esquerdo há 5 anos. Relata piora progressiva, principalmente 
+ao final do dia, e rigidez matinal com duração de 30 minutos. 
+Nega sintomas sistêmicos. Ao exame clínico, apresenta 
+aumento de volume nas interfalangeanas proximais e distais, 
+com nódulos palpáveis, além de crepitação nos ombros e nos 
+joelhos. Há redução da mobilidade do joelho esquerdo. A 
+radiografia do joelho esquerdo é apresentada na imagem a 
+seguir: 
+ 
+ 
+ 
+A abordagem inicial mais adequada em relação ao joelho 
+esquerdo é: 
+ 
+(A) Medidas não farmacológicas. 
+(B) Indicação de artroplastia. 
+(C) Infiltração intra-articular com glicorticoide. 
+(D) Glicocorticoide oral sistêmico. 
+##### 
+ 
+{28} 
+Homem, 37 anos de idade, HIV confirmado, sem uso de 
+antirretrovirais e CD4 40 células/µL. Queixa de cefaleia há três 
+semanas, diplopia há cinco dias e dois episódios de vômitos. 
+Tinta da China no líquor com leveduras encapsuladas. Não há 
+flucitosina, nem formulações lipídicas de anfotericina B no 
+hospital. Em relação ao caso apresentado, o tratamento mais 
+adequado é:  
+ 
+(A) Fluconazol 1.200 mg/dia em monoterapia, por 4 semanas. 
+(B) Anfotericina B desoxicolato 0,7 mg/kg/dia + fluconazol 
+1.200 mg/dia, por 2 semanas. 
+(C) Anfotericina B desoxicolato 1 mg/kg/dia + fluconazol  
+800 mg/dia, por 2 semanas. 
+(D) Anfotericina B desoxicolato 5 mg/kg/dia + fluconazol  
+800 mg/dia, por 2 semanas. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{29} 
+Homem, 47 anos de idade, com quadro súbito de vertigem 
+enquanto praticava atividade física na academia há seis 
+horas. Também refere diplopia binocular, que melhora ao 
+fechar um dos olhos, e sensação de que é empurrado para 
+direita. Nega antecedentes médicos ou uso de medicações. 
+Apresenta PA de 180×100 mmHg, FC de 110 bpm, glicemia 
+capilar de 93 mg/dL. Ao exame neurológico, apresenta 
+nistagmo horizontal para esquerda, desalinhamento vertical 
+(com olho hipotrópico à direita) e pupila miótica à direita. 
+Realizou tomografia de crânio sem contraste que não mostrou 
+alterações. Assinale a alternativa que apresenta a próxima 
+conduta mais adequada. 
+ 
+(A) Executar as manobras de Dix-Hallpike e de Epley. 
+(B) Administrar dimenidrato e nitroprussiato de sódio IV. 
+(C) Trombólise com alteplase 0,9 mg/kg intravenosa. 
+(D) Angiotomografia arterial cervical e intracraniana. 
+##### 
+ 
+{30} 
+Mulher, 58 anos de idade, com hipertensão arterial e com 
+histórico de cirurgia bariátrica (gastrectomia vertical tipo 
+sleeve e bypass em Y de Roux), relata fratura vertebral após 
+levantar o neto recém-nascido do chão. Possui os seguintes 
+exames: 
+ 
+• Densitometria óssea: 
+T-score de fêmur total: -2,4 
+Colo de fêmur: -2,4 
+Coluna L1-L4: -2,7 
+ 
+• Exames laboratoriais: 
+Cr: 0,7 mg/dL 
+Ca2+ total: 8,7 mg/dL 
+Fósforo: 2,4 mg/dL 
+25-OH-vitamina D: 9 ng/mL 
+Albumina: 3,7 g/dL 
+Paratormônio: 103 pg/mL 
+TGO/AST: 30 U/L 
+TGP/ALT: 31 U/L 
+FA: 123 U/L 
+GGT:40 U/L 
+ 
+O tratamento inicial mais adequado para esta paciente deve 
+incluir: 
+ 
+(A) Citrato de cálcio + vitamina D. 
+(B) Carbonato de cálcio + vitamina D + zoledrônico. 
+(C) Citrato de cálcio + vitamina D + zoledrônico. 
+(D) Carbonato de cálcio + vitamina D. 
+ 
+##### 
+ 
+{31} 
+Mulher, 32 anos de idade, com artrite reumatoide em uso de 
+metotrexato 25 mg/semana, em programação ambulatorial 
+para troca por adalimumabe. Os imunizantes mais adequados 
+para esta paciente, incluindo tanto os da rede pública como 
+privada, são: 
+ 
+(A) Febre amarela e herpes zoster. 
+(B) Meningocócica ACWY e dengue. 
+(C) Febre amarela e dengue. 
+(D) Meningocóccica ACWY e herpes zoster. 
+##### 
+{32} 
+Mulher, 45 anos de idade, com sintomas constitucionais e 
+sinusite de repetição há cinco meses. Nas últimas três 
+semanas, passou a apresentar poliartralgias, redução da 
+diurese, dispneia progressiva com tosse e escarros 
+hemoptoicos. Não há evidências de infecção ou neoplasia. O 
+padrão de imunofluorescência esperado para o diagnóstico 
+mais provável é: 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{33} 
+Homem, 62 anos de idade, portador de hipertensão arterial sistêmica mal controlada e tabagista de 20 cigarros/dia há 40 anos, 
+procura a Unidade de Pronto Atendimento (UPA) com quadro de dor precordial de forte intensidade com irradiação para nuca e 
+cefaleia associada à visão dupla e vertigem. Refere que o quadro se iniciou há cerca de 1 hora e 30 minutos. Ao exame físico, 
+encontra-se lúcido, porém agitado, com PA de 200×100 mmHg, FC de 108 bpm, FR de 26 irpm, SpO2 de 95% em ar ambiente. 
+Ausculta cardíaca e pulmonar sem alterações, pulsos periféricos presentes e simétricos. No exame neurológico, apresenta-se com 
+piora da diplopia agravada pela movimentação cefálica, nistagmo horizontal e marcha com instabilidade e tendência a queda para 
+o lado esquerdo, sem outros déficits focais ou sinais meníngeos. Diante do quadro, foi solicitado um ECG na sala de emergência, 
+demonstrado a seguir: 
+ 
+ 
+ 
+Em relação ao quadro apresentado, assinale a alternativa que apresenta a conduta mais indicada.  
+ 
+(A) Caso a transferência a um centro de hemodinâmica seja maior que 120 minutos, deve-se prosseguir com administração de AAS 
+300 mg, clopidogrel 300 mg, enoxaparina 30 mg EV e trombólise para infarto agudo do miocárdio. 
+(B) Iniciar nitroprussiato de sódio imediatamente para controle rápido da pressão arterial visando redução de até 25% da PA inicial 
+na primeira hora. 
+(C) Encaminhar o paciente a uma tomografia computadorizada de crânio sem contraste e, na ausência de sangramento, prosseguir 
+com trombólise pelo quadro de acidente vascular cerebral isquêmico. 
+(D) Encaminhar o paciente para angiotomografia de aorta e, na presença de dissecção de aorta, iniciar controle de duplo produto 
+com esmolol e nitroprussiato de sódio. 
+#####
+ 
+{34} 
+Mulher, 38 anos de idade, procura atendimento por astenia 
+progressiva, perda de peso de 7 kg nos últimos 4 meses, 
+hipotensão e hiperpigmentação da pele. Nega uso de 
+medicamentos. Relata episódios de diarreia e tonturas ao 
+levantar-se. Ao exame clínico, apresenta-se emagrecida, com 
+PA de 90×60 mmHg e FC de 96 bpm.  
+ 
+• Exames laboratoriais: 
+Na+: 130 mEq/L 
+K+: 5,8 mEq/L 
+Glicose: 68 mg/dL 
+Cortisol sérico às 8h: 3,2 µg/dL (ref.: 5 a 25 µg/dL) 
+ACTH plasmático 180 pg/mL (ref.: 7 a 46 pg/mL) 
+ 
+A conduta mais adequada no manejo desta paciente é:  
+ 
+(A) Repetir cortisol e ACTH e iniciar fludrocortisona. 
+(B) Iniciar hidrocortisona e fludrocortisona. 
+(C) Confirmar o diagnóstico com teste de estímulo. 
+(D) Solicitar ressonância magnética de hipófise. 
+##### 
+ 
+ 
+ 
+ 
+{35} 
+Um ensaio clínico randomizado de não inferioridade 
+comparou o uso parcial de antibioticoterapia oral à terapia 
+feita toda com antibioticoterapia intravenosa em pacientes 
+com osteomielite crônica. A margem de não inferioridade foi 
+definida em 0,80 para o risco relativo de resposta clínica 
+completa. A análise por intenção de tratar (ITT) mostrou risco 
+relativo de 0,95 (IC95%: 0,82–1,07). A análise por protocolo 
+mostrou risco relativo = 0,88 (IC95%: 0,76–1,02). A 
+interpretação mais adequada para o resultado é: 
+ 
+(A) O resultado por ITT demonstra não inferioridade, 
+independentemente da análise por protocolo. 
+(B) A análise por protocolo deve ser evitada em ensaios de 
+não inferioridade, pois sempre superestima o efeito da 
+intervenção. 
+(C) O estudo confirma a superioridade da estratégia com 
+antibiótico oral sobre o intravenoso. 
+(D) Como o IC da análise por protocolo cruza a margem de 
+0,80, não é possível confirmar não inferioridade. 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{36} 
+Paciente, 50 anos de idade, sem comorbidades relevantes, 
+apresenta dor torácica pleurítica e dispneia súbita. Pela 
+avaliação clínica (escore de Wells), a probabilidade pré-teste 
+de Tromboembolismo Pulmonar (TEP) é estimada em 20%. Foi 
+solicitado um dímero-D, cujo desempenho em meta-análises 
+é: sensibilidade de 95% e especificidade de 40%. O resultado 
+foi negativo. Observe o gráfico a seguir: 
+ 
+ 
+ 
+Em relação às informações apresentadas, a probabilidade 
+pós-teste aproximada de TEP nesse paciente é: 
+ 
+(A) 2%. 
+(B) 5%. 
+(C) 7%. 
+(D) 10%. 
+##### 
+ 
+{37} 
+Homem, 63 anos de idade, com cirrose hepática, internado 
+por infecção de trato urinário e aumento da ascite. Está 
+recebendo ceftriaxone, recebeu dois dias de hidratação com 
+cristaloides e diuréticos foram suspensos. Ao exame clínico, 
+apresenta estado geral regular, PA de 100×50 mmHg, FC de 
+78 bpm, FR de 20 irpm, temperatura de 36,9 °C, SpO2 de 97% 
+em ar ambiente, bem perfundido, sem evidências de 
+encefalopatia, ascite volumosa e depressível, com edema de 
+membros inferiores +/4+. Ao longo dos três primeiros dias de 
+internação, apresentou piora da creatinina de 1,1 mg/dL para 
+2,5 mg/dL. Sódio urinário <10 mEq/L. Em relação ao caso 
+descrito, assinale a alternativa que apresenta a conduta mais 
+adequada. 
+ 
+(A) Iniciar terlipressina e albumina. 
+(B) Iniciar corticoide intravenoso. 
+(C) Trocar antibioticoterapia. 
+(D) Realizar paracentese de alívio. 
+##### 
+ 
+ 
+{38} 
+Homem, 50 anos de idade, internado por pancreatite aguda 
+por litíase biliar. No 12º dia de internação, evoluiu com piora 
+clínica, apresentando PA de 96×52 mmHg, FC de 112 bpm e 
+queda 
+do 
+hematócrito. 
+Foi 
+realizada 
+tomografia 
+computadorizada de abdome contrastada apresentada na 
+imagem a seguir:  
+ 
+ 
+ 
+Considerando o caso apresentado, a próxima conduta mais 
+adequada é: 
+ 
+(A) Necrosectomia aberta. 
+(B) Antibioticoterapia de amplo espectro. 
+(C) Colangiopancreatografia retrógrada endoscópica. 
+(D) Drenagem percutânea do cisto pancreático. 
+##### 
+ 
+{39} 
+Mulher, 23 anos de idade, com anemia desde a infância, 
+tratada diversas vezes com ferro oral. Nega consanguinidade 
+familiar; mãe submetida à colecistectomia aos 32 anos de 
+idade, 
+avó 
+materna 
+esplenectomizada 
+durante 
+uma 
+colecistectomia aos 52 anos de idade. Há seis meses, foi 
+internada por pneumonia, necessitando de transfusão de 
+sangue. Exame clínico: descorada 1+/4+, baço palpável a  
+6 cm do rebordo costal esquerdo. 
+ 
+• Exames laboratoriais:  
+Hb: 10,8 g/dL 
+VCM: 83,5 fL (aguardando avaliação de sangue periférico) 
+Leucócitos: 7.300/mm³ (diferencial normal) 
+Plaquetas: 170.000/mm³ 
+Reticulócitos: 6,4% (192.000/mm³) 
+Bilirrubina total: 2,1 mg/dL 
+Bilirrubina indireta: 1,8 mg/dL) 
+DHL: 420 U/L (ref.: 240 UI/L) 
+Haptoglobina sérica: 32 mg/dL (ref.: 30 a 100 mg/dL) 
+Coombs direto: negativo 
+ 
+A alteração laboratorial com maior probabilidade de ser 
+encontrada é: 
+ 
+(A) Prova de falcização positiva. 
+(B) CD55 negativo em 70% das hemácias.  
+(C) Nível baixo de G6PD em eritrócitos. 
+(D) Curva de resistência globular desviada para direita.  
+##### 
+ 
+ 
+
+
+--- PAGE 12 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{40} 
+Homem, 62 anos de idade, tabagista de 60 anos-maço, 
+procura o pronto atendimento com edema de face, de 
+membros superiores, pletora facial, sudorese e circulação 
+colateral no tórax. Ao exame clínico, apresenta-se consciente 
+e orientado, com FC de 94 bpm, PA de 140×90 mmHg, FR de 
+21 irpm e SpO2 de 95% em ar ambiente. A tomografia de tórax 
+é mostrada nas imagens a seguir: 
+ 
+ 
+ 
+ 
+ 
+Em relação ao caso apresentado, a próxima conduta mais 
+adequada é: 
+ 
+(A) PET-CT. 
+(B) Radioterapia. 
+(C) Biópsia transtorácica. 
+(D) Corticoterapia em altas doses. 
+##### 
+ 
+{41} 
+Homem, 59 anos de idade, em tratamento de adenocarcinoma 
+de pâncreas metastático para fígado com esquema 
+FOLFIRINOX (5-Fluorouracil, irinotecano e oxaliplatina) a cada 
+duas semanas. Apresentou melhora do quadro de dor e 
+queda de antígeno CA 19.9, porém desde o último ciclo tem 
+apresentado piora de náuseas e vômitos. Faz uso de 
+ondansetrona, dexametasona e aprepitanto como profilaxia 
+para êmese. Em relação ao caso apresentado, assinale a 
+alternativa que apresenta o medicamento adicional mais 
+adequado para profilaxia do sintoma. 
+ 
+(A) Metoclopramida. 
+(B) Haloperidol. 
+(C) Dimenidrinato. 
+(D) Olanzapina. 
+##### 
+ 
+{42} 
+Homem, 45 anos de idade, em reabilitação após trauma 
+raquimedular, 
+em 
+uso 
+de 
+paracetamol, 
+codeína 
+e 
+carbamazepina há três semanas. Apresenta-se sem edemas, 
+está alerta e com capacidade normal de se alimentar, sem 
+restrição dietética em prescrição, com PA de 110×70 mmHg 
+e FC de 85 bpm, afebril. 
+ 
+• Exames laboratoriais: 
+Cr: 0,88 mg/dL 
+Ur: 40 mg/dL 
+K+: 4,2 mEq/L 
+Na+: 126 mEq/L 
+pH: 7,37 
+HCO3-: 23,7 mmol/L 
+TSH: 1,33 µUI/mL 
+ 
+• Urina tipo 1: 
+pH: 5,5 (ref.: 5,0 a 6,0) 
+Densidade: 1,020 (ref.: 1,015 a 1,025) 
+Glicose: ausente (ref.: ausente) 
+Proteínas: < 0,05 g/L (ref.: < 0,05 g/L) 
+Leucócitos: 2/campo (ref.: até 10/campo) 
+Eritrócitos: 1/campo (ref.: até 3/campo) 
+ 
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta os resultados mais prováveis e as condutas mais 
+adequadas. 
+ 
+(A) Osmolalidade urinária 95 mOsm/kg H2O, sódio urinário  
+15 mmol/L; suspender a carbamazapina e prescrever 
+restrição hídrica. 
+(B) Osmolalidade urinária 95 mOsm/kg H2O, sódio urinário 
+63 mmol/L; prescrever diurético de alça. 
+(C) Osmolalidade urinária 794 mOsm/kg H2O, sódio urinário 
+15 mmol/L; prescrever 100 mL de solução salina 
+intravenosa 3% em 30 minutos. 
+(D) Osmolalidade urinária 794 mOsm/Kg H2O, sódio urinário 
+63 mmol/L; suspender a carbamazepina e prescrever 
+restrição hídrica. 
+##### 
+ 
+{43} 
+Homem, 64 anos de idade e 15 anos de escolaridade, possui 
+diagnóstico de doença de Parkinson há 5 anos e está, 
+atualmente, em uso de biperideno, pramipexol e levodopa 
+com benserazida. Refere dificuldades de memória e de 
+concentração nas tarefas. Ainda trabalha como comerciante, 
+mas sente que, às vezes, se atrapalha com as contas. Outra 
+queixa, é que passou a ver vultos e ter sensação de que há 
+pessoas passando por trás dele. No mini exame do estado 
+mental, o paciente fez 25 pontos, perdendo 03 pontos nas 
+subtrações em série, 01 ponto na evocação das palavras e  
+01 ponto na cópia do desenho. Ao exame neurológico, 
+apresenta bradicinesia, rigidez com roda denteada, sem 
+tremor de repouso. Assinale a alternativa que apresenta a 
+próxima conduta mais adequada para o caso apresentado. 
+ 
+(A) Suspender a levodopa. 
+(B) Suspender o biperideno. 
+(C) Prescrever a rivastigmina. 
+(D) Prescrever a quetiapina. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 13 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{44} 
+Mulher, 67 anos de idade, atualmente tabagista 50 anos-maço com diagnóstico de doença pulmonar obstrutiva crônica em uso de 
+formoterol. Antecedentes cirúrgicos de colecistectomia, cesárea e abordagem de síndrome do túnel do carpo bilateral. Conta, 
+ainda, rotura de tendão de bíceps enquanto pendurava roupas no varal há 2 anos, em tratamento conservador e sem limitação 
+funcional em braços. Recentemente, suspendeu por conta própria enalapril que usava para hipertensão, pois notou a pressão mais 
+baixa nos últimos meses. Procura atendimento em ambulatório de clínica médica com queixa de falta de ar aos esforços. Nega dor 
+torácica. Ao exame físico, apresenta PA de 90×74 mmHg, FC de 90 bpm, SpO2 de 93% em ar ambiente. Ausculta cardíaca com 
+ritmo irregular, sem sopros, bem perfundida. Ausculta pulmonar com murmúrios globalmente reduzidos, sibilância expiratória e 
+estertores bibasais. Membros com edema 1+ simétrico, pulsos pediosos amplos.  
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que apresenta a melhor conduta para o diagnóstico e manejo desta paciente. 
+ 
+(A) Iniciar apixabana e furosemida, manter sem enalapril, solicitar BNP e ecocardiograma com strain. 
+(B) Iniciar bisoprolol, sacubitril-valsartana e espironolactona, além de furosemida para alívio sintomático inicial e melhor controle 
+volêmico. Solicitar ecocardiograma e BNP. 
+(C) Reiniciar enalapril para controle pressórico e nefroproteção, além de apixabana. Solicitar MAPA 24h para avaliar controle 
+pressórico em domícílio. 
+(D) Associar segundo broncodilatador, solicitar prova de função pulmonar e ecocardiograma para avaliar doença pulmonar 
+obstrutiva crônica e evolução para hipertensão pulmonar. 
+#####
+ 
+{45} 
+Homem, 52 anos de idade, com diabetes melito tipo 2, HAS e 
+obesidade grau 1. Foi solicitado ultrassom de abdome após 
+consulta de rotina, que mostrou fígado de dimensões normais, 
+bordas finas, ecotextura discretamente heterogênea e 
+esteatose de grau moderado.  
+ 
+• Exames laboratoriais:  
+HbA1c: 6,5% 
+LDL colesterol: 110 mg/dL 
+Triglicérides: 130 mg/dL 
+TGO/AST: 35 U/L 
+TGP/ALT: 38 U/L 
+ 
+Considerando o caso apresentado, o próximo passo mais 
+adequado é: 
+ 
+(A) Calcular FIB-4. 
+(B) Realizar biópsia hepática. 
+(C) Repetir transaminases em seis meses. 
+(D) Repetir imagem em um ano. 
+##### 
+ 
+ 
+{46} 
+Homem, 77 anos de idade, bancário aposentado, sedentário, 
+hipertenso, diabético e tabagista, apresenta perda de 
+iniciativa e diminuição da interação social. Ele nega tristeza ou 
+falta de prazer nas atividades. A esposa relata lapsos de 
+memória com piora no último ano. Tem dificuldades para 
+controlar 
+as 
+suas 
+finanças, 
+precisando 
+de 
+ajuda 
+ocasionalmente, mas é independente em suas atividades 
+diárias. Testes cognitivos com alterações significativas nos 
+domínios de atenção e de memória. Exames laboratoriais e de 
+neuroimagem sem alterações. A conduta terapêutica mais 
+adequada é: 
+ 
+(A) Donepezila. 
+(B) Memantina. 
+(C) Reabilitação cognitiva. 
+(D) Estimulação magnética transcraniana. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 14 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{47} 
+Paciente, 57 anos de idade, hospitalizada por quadro de 
+adinamia e confusão nos últimos três dias. Encontra-se 
+emagrecida, hidratada, com taquipneia e afebril. Familiares 
+relatam inapetência há cerca de três meses, associada a luto 
+recente pelo falecimento do marido.  
+ 
+• Exames laboratoriais:  
+Na+: 122 mEq/L 
+Cr: 1,1 mg/dL 
+K+: 3,5 mEq/L 
+C,-: 103 mEq/L 
+Urina tipo 1 com densidade de 1,030 
+ 
+Assinale a alternativa que apresenta o exame de imagem mais 
+compatível com o caso clínico apresentado. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+{48} 
+Em um estudo clínico, 889 pacientes submetidos a tratamento 
+adjuvante para câncer colorretal foram aleatorizados para 
+realizar atividade física estruturada ou receber materiais 
+educativos sobre saúde. Após um seguimento de 7,9 anos, 
+observou-se uma diferença em cinco anos de sobrevida livre 
+de doença de 80,3% para o grupo que realizou atividade física 
+e 73,9% para o grupo de educação em saúde. Isto 
+correspondeu a um hazard ratio de 0,72 com IC95% 0,55 a 0,94. 
+É possível afirmar: 
+ 
+(A) O desenho do estudo apresenta viés de seleção e, 
+portanto, baixa validade externa. 
+(B) O tempo de seguimento é inadequado para a proposta do 
+estudo em questão. 
+(C) A diferença absoluta de 6,4% é clinicamente e 
+estatisticamente significativa. 
+(D) Não é possível inferir a magnitude do ganho pelos dados 
+apresentados. 
+##### 
+ 
+{49} 
+Homem, 42 anos de idade, asmático, está em tratamento com 
+beclometasona 500 µg, inalatória, 12/12 horas e salbutamol 
+100 µg de resgate. Apresentou melhora inicial dos sintomas, 
+porém necessita de resgate quatro vezes por semana. Nos 
+últimos três meses, teve uma crise em que necessitou de 
+corticoterapia oral. Assinale a alternativa que apresenta a 
+conduta mais apropriada. 
+ 
+(A) Manter corticoide inalatório e resgate com β2-agonista de 
+curta duração e associar antileucotrieno 
+(B) Associar broncodilatador anticolinérgico ao corticoide 
+inalatório e manter β2-agonista de curta duração. 
+(C) Aumentar dose do corticoide inalatório e manter resgate 
+com β2-agonista de curta duração. 
+(D) Substituir terapia por β2-agonista de longa duração 
+associado a corticoide inalatório para manutenção e 
+resgate. 
+##### 
+ 
+{50} 
+Homem, 70 anos de idade, ex-tabagista com carga de  
+50 anos-maço e abstêmio há 5 anos. Há 8 anos, com quadro 
+de dispneia progressiva e tosse crônica. No último ano, 
+apresentou duas idas ao pronto-socorro com necessidade de 
+corticoide associada à antibioticoterapia oral. Espirometria 
+com VEF1 38%, sem mudança após broncodilatador.  
+ 
+• Exames laboratoriais:  
+Hemoglobina: 16,5 g/dL 
+Leucócitos: 8.100/mm3 
+Eosinófilos: 380/mm3 
+Ur: 38 mg/dL 
+Cr: 1,2 mg/dL 
+ 
+Além de β2 de longa duração, a terapia mais adequada para 
+este paciente deve incluir: 
+ 
+(A) Metilxantina e corticoide inalatório. 
+(B) Metilxantina e corticoide oral. 
+(C) Anticolinérgico de longa duração e corticoide oral. 
+(D) Anticolinérgico. 
+##### 
+ 
+ 
+
+
+--- PAGE 15 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+Texto para as questões de 51 a 53 
+ 
+Mulher, 61 anos de idade, em avaliação pré-operatória de 
+cirurgia bariátrica com bypass gástrico. Tem antecedente de 
+asma e obesidade. Está em uso de formoterol-budesonida 
+6/200 µg 12/12 horas e salbutamol, se necessário. Relata que 
+consegue subir dois lances de escada. Nega angina e 
+palpitações. Relata que acorda à noite, pelo menos uma vez 
+na semana, com necessidade de salbutamol de resgate. A 
+última exacerbação de asma ocorreu há 1 ano. Queixa-se, 
+também, de roncos noturnos e sonolência diurna. Nega 
+episódios de apneia. Ao exame clínico, apresenta sinais vitais 
+normais e IMC 42,5 kg/m2. Os exames laboratoriais e 
+eletrocardiograma estão normais. 
+ 
+{51} 
+A conduta mais adequada no manejo de asma no 
+perioperatório é: 
+ 
+(A) Prosseguir com a cirurgia, iniciar prednisona 2-3 dias 
+antes e manter por 3 dias após. 
+(B) Fazer step-up do tratamento com terapia MART e 
+prosseguir com a cirurgia. 
+(C) Fazer step-up do tratamento com terapia MART e reavaliar 
+em 30 dias. 
+(D) Postergar a cirurgia até realização de prova de função 
+pulmonar e polissonografia. 
+##### 
+ 
+{52} 
+Além de mobilização precoce, a conduta mais adequada na 
+prevenção de complicações pulmonares no perioperatório 
+inclui: 
+ 
+(A) Analgesia e fisioterapia motora. 
+(B) Anestesia geral. 
+(C) Raquianestesia ou bloqueio. 
+(D) Ventilação não invasiva (CPAP). 
+##### 
+ 
+{53} 
+A 
+conduta 
+mais 
+adequada 
+para 
+profilaxia 
+de 
+tromboembolismo venoso nesta paciente é: 
+ 
+(A) Rivaroxabana 10 mg via oral a cada 24 horas por 35 dias. 
+(B) Fondaparina 2,5 mg SC a cada 24 horas por 28 dias. 
+(C) Enoxaparina 40 mg SC a cada 12 horas por 7 dias. 
+(D) Heparina não fracionada 5.000 U SC a cada 8 horas por 
+10 dias. 
+##### 
+ 
+{54} 
+Mulher, 87 anos de idade, com diagnóstico de fibrilação atrial 
+não valvar, identificada durante avaliação de rotina. Sem 
+histórico de sangramentos ou tromboembolismo. Tem 
+hipertensão arterial em uso de losartana e nefroesclerose, com 
+clearance de creatinina de 47 mL/min, PA de 126×78 mmHg 
+e FC de 90 bpm. A conduta mais adequada é: 
+ 
+(A) Rivaroxabana 20 mg, 1 vez ao dia. 
+(C) Atenolol 25 mg, 1 vez ao dia. 
+(B) AAS 100 mg, 1 vez ao dia. 
+(D) Amiodarona 200 mg, 1 vez ao dia. 
+##### 
+{55} 
+Homem, 55 anos de idade, previamente hígido, com queixa 
+de fraqueza progressiva há 1 ano. A fraqueza teve início em 
+membro inferior direito, evoluindo gradualmente para o 
+membro inferior esquerdo e, posteriormente, para os membros 
+superiores. Exame neurológico: tetraparesia com força grau IV 
+em todos os membros, reflexos exaltados nos membros 
+superiores 
+e 
+hipoativos 
+nos 
+membros 
+inferiores. 
+A 
+sensibilidade está preservada. O único achado no exame dos 
+pares cranianos é apresentado na imagem a seguir: 
+ 
+ 
+ 
+Em relação ao caso apresentado, o exame complementar com 
+maior probabilidade de confirmar o diagnóstico sindrômico é: 
+ 
+(A) Eletroneuromiografia. 
+(B) Ressonância magnética de coluna. 
+(C) Painel de anticorpos onconeurais em soro e líquor. 
+(D) Dosagem de anti-GM1 em soro e líquor. 
+##### 
+ 
+{56} 
+Mulher, 87 anos de idade, com diabetes, insuficiência 
+cardíaca com fração de ejeção reduzida, doença arterial 
+coronariana e depressão. Relata tonturas tipo desequilíbrio, 
+especialmente durante a caminhada. Está em uso de 
+metformina 500 mg 2x/dia, furosemida 40 mg 1x/dia, enalapril 
+20 mg 2x/dia, carvedilol 25 mg 2x/dia, AAS 100 mg 1x/dia e 
+amitriptilina 25 mg à noite. Exame clínico sem alterações 
+significativas, 
+exceto 
+pressão 
+arterial 
+deitada 
+de  
+158×88 mmHg, em pé de 128×70 mmHg e sentada de 
+136×88 mmHg. Glicemia capilar de 88 mg/dL. A conduta mais 
+adequada é: 
+ 
+(A) Diminuir a metformina. 
+(B) Diminuir o enalapril. 
+(C) Associar a hidralazina. 
+(D) Suspender a amitriptilina. 
+##### 
+ 
+{57} 
+Um ensaio clínico randomizado comparou um novo 
+anticoagulante com a varfarina para prevenção de AVC em 
+fibrilação atrial. Após dois anos, a incidência de AVC foi de 
+4,7% no grupo do novo fármaco e 8% no grupo varfarina. O 
+número aproximado de pacientes que precisam ser tratados 
+para que um a mais tenha o benefício deste novo 
+anticoagulante é: 
+ 
+(A) 7. 
+(B) 25. 
+(C) 30. 
+(D) 58. ##### 
+
+
+--- PAGE 16 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{58} 
+Um estudo investigou a associação entre os parâmetros 
+laboratoriais hepáticos no início da fisioterapia pós-operatória 
+(bilirrubina total, aspartato aminotransferase e alanina 
+aminotransferase) 
+e 
+a 
+capacidade 
+de 
+deambulação 
+independente de pacientes submetidos a transplante 
+hepático. A curva ROC é apresentada na figura a seguir: 
+ 
+ 
+Considerando as informações apresentadas, a interpretação 
+mais adequada é: 
+ 
+(A) O teste não deve ser utilizado, pois a AUC é inferior a 0,90. 
+(B) O teste apresenta boa capacidade de discriminar pacientes 
+com e sem deambulação independente. 
+(C) A discriminação não é avaliável, pois o intervalo de 
+confiança chega próximo de 0,5. 
+(D) No ponto ótimo, o teste apresenta alta sensibilidade, mas 
+baixa especificidade. 
+##### 
+ 
+{59} 
+Homem, 78 anos de idade, foi encontrado desacordado em 
+casa e levado ao pronto-socorro. No caminho ao hospital, 
+apresentou crise convulsiva tônica-clônica bilateral com 
+duração de menos de dois minutos, sendo medicado com 
+midazolam intramuscular. Tem diagnóstico recente de 
+nevralgia do trigêmeo e iniciou carbamazepina 400 mg/dia há 
+15 dias. Ao exame clínico, apresenta-se sonolento, sem 
+rigidez de nuca, localiza estímulos dolorosos e emite sons 
+guturais. Sem outras alterações ao exame neurológico. PA de 
+110×70 mmHg, FC de 98 bpm e glicemia capilar de 89 mg/dL. 
+Tomografia de crânio sem contraste mostrou discreta atrofia 
+cortical, sem outras alterações.  
+ 
+• Exames laboratoriais:  
+Hb: 11,4g/dL 
+Leucócitos: 7.600/mm3 
+Plaquetas: 168.000/mm3 
+Ur: 54mg/dL 
+Cr: 0,9 mg/dL 
+Na+:113 mEq/L 
+K+: 4,2 mEq/L 
+ 
+O fármaco anticrise mais adequado no tratamento agudo 
+deste paciente é: 
+ 
+(A) Fenitoína 10 a 20 mg/kg intravenosa. 
+(B) Midazolam em infusão contínua. 
+(C) Levetiracetam 1.000 mg por sonda. 
+(D) Não são necessários fármacos anticrise. ##### 
+{60} 
+Homem, 56 anos de idade, com hipertensão arterial e diabetes 
+melito, apresenta dor intensa e edema em primeira 
+metatarsofalângica esquerda há 4 dias, com dificuldade de 
+deambulação. Há 2 anos, teve crise semelhante no tornozelo 
+direito. Ao exame clínico, apresenta monoartrite, sem outros 
+achados. A imagem que indica tratamento de longo prazo 
+para esse paciente é: 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+
+
+--- PAGE 17 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{61} 
+Mulher, 24 anos de idade, com lúpus eritematoso sistêmico, 
+refere urina espumosa e edema de membros inferiores há 
+duas semanas. Comparece ao pronto-socorro com queixa de 
+perda visual bilateral e cefaleia holocraniana há duas horas. 
+Ao exame clínico, apresenta PA de 200×140 mmHg, FC de 
+104 bpm, rítmica, SpO2 de 98%, em ar ambiente. Sonolenta, 
+sem sinais neurológicos localizatórios.  
+ 
+• Exames laboratoriais:  
+Ur: 120 mg/dL 
+Cr: 4 mg/dL 
+ 
+• Urina tipo 1:  
+25.000 hemácias/mL (com dismorfismo) 
+Proteinúria (>1 g/L) 
+ 
+Foi realizada tomografia de crânio sem alterações. A 
+ressonância magnética de crânio é apresentada na imagem a 
+seguir: 
+ 
+ 
+ 
+A conduta terapêutica inicial desta paciente deve ser: 
+ 
+(A) Plasmaferese. 
+(B) Nitroprussiato de sódio. 
+(C) Hemodiálise. 
+(D) Pulsoterapia com metilprednisolona. 
+##### 
+ 
+{62} 
+Mulher, 60 anos de idade, admitida na emergência com sepse 
+de foco abdominal. Recebeu ressuscitação volêmica inicial de 
+30 mL/kg e ceftriaxona, mantendo tempo de enchimento 
+capilar prolongado, PA de 80×60 mmHg e FC de 130 bpm. Foi 
+realizada manobra de elevação passiva dos membros 
+inferiores, com mudança do Velocity Time Index da via de 
+saída do ventrículo esquerdo de 13%. Assinale a alternativa 
+que apresenta a conduta mais adequada. 
+ 
+(A) Iniciar noradrenalina. 
+(B) Iniciar dobutamina. 
+(C) Aguardar resultado de lactato arterial. 
+(D) Nova expansão volêmica com cristaloide. ##### 
+{63} 
+Mulher, 38 anos de idade, portadora de valvopatia reumática 
+com antecedente de valvoplastia mitral por cateter balão há 3 
+anos, internou por quadro de queda do estado geral, dispneia 
+e febre. Propedêutica de insuficiência aórtica importante e 
+pouca 
+congestão 
+pulmonar. 
+Hemoculturas 
+identificam 
+Streptococcus viridans, com sensibilidade a penicilina (CIM < 
+0,12 µg/mL) e β-lactâmicos. Ecocardiograma: insuficiência 
+aórtica importante, com imagens filamentares aderidas à face 
+ventricular da cúspide não coronariana da valva aórtica. No  
+9º dia de tratamento com ceftriaxona, a paciente apresenta 
+piora súbita da dispneia com congestão pulmonar importante. 
+PA de 150×40 mmHg, FC de 40 bpm. Em relação ao caso 
+apresentado, qual a mais provável complicação, como 
+confirmá-la e qual a conduta terapêutica?  
+ 
+(A) Infarto do miocárdio por embolização da vegetação para 
+coronária. 
+Após 
+eletrocardiograma, 
+está 
+indicado 
+cateterismo cardíaco de emergência e angioplastia 
+coronária.  
+(B) Perfuração valvar com piora aguda da insuficiência 
+cardíaca. 
+Confirmar 
+com 
+novo 
+ecocardiograma 
+transtorácico e encaminhar para cirurgia.  
+(C) Bloqueio atrioventricular por extensão paravalvar da 
+endocardite. Após eletrocardiograma, está indicado 
+ecocardiograma transeofágico. A conduta é cirurgia de 
+urgência.  
+(D) Piora da endocardite por resistência antimicrobiana, o 
+ideal é transicionar o antibiótico para penicilina e 
+gentamicina, além de planejar tratamento cirúrgico. 
+##### 
+ 
+{64} 
+Homem, 55 anos de idade, previamente hígido, com fadiga 
+progressiva, dores articulares e redução da libido no último 
+ano. Refere consumo moderado de álcool. Pai de 2 filhos, sem 
+problemas de saúde, irmão mais velho transplantado de 
+fígado, não sabe o motivo. Exame clínico: fígado a 3 cm do 
+rebordo costal direito. Artrite discreta nas articulações 
+metacarpo-falangianas de 2º e 3º dedos bilateralmente. 
+ 
+• Exames laboratoriais:  
+Ferro sérico: 230 µg/dL 
+Saturação de transferrina: 82% (ref.: 20 a 50%) 
+Ferritina sérica: 1.150 ng/mL 
+TGO/AST: 78 U/L 
+TGP/ALT: 95 U/L 
+GGT: 155 U/L 
+HbA1c: 8,1% 
+Testosterona total: 180 ng/dL (ref.: 300 a 1.000 ng/dL) 
+ 
+Foi realizada ultrassonografia abdominal com hepatomegalia 
+leve, esteatose grau II, ausência de esplenomegalia. Em 
+relação aos dados apresentados, a alteração mais provável é: 
+ 
+(A) Hepcidina sérica elevada. 
+(B) Mutação do gene HJV ou HAMP. 
+(C) Condrocalcinose em radiografia de mãos. 
+(D) Ausência de fibrose hepática no Fibroscan. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 18 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{65} 
+Mulher, 56 anos de idade, procura atendimento médico devido à dispneia progressiva aos mínimos esforços, ortopneia e episódios 
+de palpitação há cerca de seis meses. Ela relata cansaço para subir pequenos lances de escada e edema de membros inferiores 
+no final do dia. Nega dor torácica. O ECG e os dados do cateterismo direito da paciente são apresentados a seguir: 
+ 
+ 
+ 
+Pressão 
+Valor da paciente 
+(mmHg) 
+Valor de referência 
+(mmHg) 
+Artéria pulmonar 
+48/29 (média: 35) 
+Sist.: 15-30  
+Diast.: 4-12 
+(média: 9-19) 
+Capilar pulmonar 
+28 
+6-12 
+Átrio direito 
+8 
+2-8 
+Ventrículo direito 
+49/8 
+Sist.: 15-30 
+Diast.: 2-8 
+Ventrículo esquerdo 
+120/8 
+Sist.: 100-140 
+Diast.: 3-12 
+ 
+Considerando o caso descrito, assinale a alternativa que apresenta o principal diagnóstico anatômico e a terapia medicamentosa 
+mais adequada, além do diurético. 
+ 
+(A) Insuficiência tricúspide e hipertensão pulmonar / Sildenafila. 
+(B) Insuficiência mitral / IECA. 
+(C) Estenose de valva pulmonar / Digitálico. 
+(D) Estenose mitral / Betabloqueador. 
+#####
+ 
+{66} 
+Mulher, 47 anos de idade, com cirrose hepática alcoólica em 
+estágio CHILD C, em lista para transplante hepático, foi 
+internada por hemorragia digestiva alta por varizes esofágicas 
+e evoluiu com Acute-on-Chronic Liver Failure (ACLF). No 
+segundo dia de internação na UTI, encontra-se em RASS -1 
+sem sedação contínua, ventilação mecânica em modo 
+pressão de suporte (PEEP 5 cm H2O, FiO2 35%, pressão de 
+suporte de 10 cm H2O), em uso de noradrenalina  
+0,6 µg/kg/min e em hemodiafiltração venovenosa contínua, 
+apresentando nova piora da acidose metabólica. A conduta 
+mais adequada é: 
+ 
+(A) Avaliação da cetonemia. 
+(B) Avaliação do gap osmolar. 
+(C) Dosagem de sódio, INR e fator V. 
+(D) Dosagem de relação cálcio total/cálcio iônico. 
+##### 
+ 
+{67} 
+Durante investigação de nefrolitíase, uma mulher de 54 anos 
+de idade, com diabetes, hipertensão e histórico de fratura de 
+ossos longos, realiza uma tomografia de abdome que revela 
+nódulo em adrenal esquerda de 2,8 cm, densidade de <10 UH 
+na fase sem contraste. Nega uso de corticoides. Exames 
+laboratoriais: cortisol após 1 mg de dexametasona 2,5 µg/dL 
+(ref.: < 1,8 µg/dL), ACTH plasmático 8 pg/mL (ref.: 7 a  
+45 pg/mL), aldosterona 9 ng/dL, renina não supressa, DHEAS 
+dentro dos limites da normalidade. Em relação ao caso 
+apresentado, a conduta mais adequada é: 
+ 
+(A) Adrenalectomia esquerda. 
+(B) Tomografia de tórax para estadiamento. 
+(C) Controle tomográfico em seis meses. 
+(D) Não são necessárias condutas adicionais. 
+##### 
+
+
+--- PAGE 19 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{68} 
+Mulher, 62 anos de idade, diabética, ex-tabagista de 40 anos-maço, com antecedente de câncer de mama tratado com cirurgia e 
+radioterapia há três anos; atualmente em uso de tamoxifeno. Há duas horas, apresenta dor torácica à esquerda, acompanhada de 
+episódio de síncope. Ao exame clínico, encontra-se eupneica, com PA de 120×70 mmHg FC de 110 bpm, SpO2 de 93% em ar 
+ambiente, sem outras alterações. Exames laboratoriais com hemograma normal e troponina T–us 98 ng/mL na chegada e 131 ng/mL 
+após duas horas (ref.: 14 ng/mL). POCUS: sem alteração na contratilidade global ou segmentar de VE. O ECG é apresentado a 
+seguir: 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que apresenta o manejo mais adequado para esta paciente. 
+ 
+(A) AAS, anticoagulação plena e cateterismo cardíaco. 
+(B) AAS, clopidogrel, anticoagulação plena e cateterismo cardíaco. 
+(C) Anticoagulação plena e angiotomografia de artérias pulmonares. 
+(D) Anti-inflamatório não hormonal associado a colchicina. 
+#####
+ 
+{69} 
+Paciente com carcinoma renal de células claras metastático 
+para pulmão, ossos e fígado, com progressão de doença após 
+duas linhas de tratamento prévias, procura o pronto-socorro 
+por quadro de confusão, hiporexia e edema de membros 
+inferiores. Ao exame clínico, apresenta Glasgow 14, FC de  
+110 bpm.  
+ 
+• Exames laboratoriais:  
+Hb: 6,8 g/dL 
+Albumina: 2,8 g/dL 
+FA: 1150 U/L 
+TGO/AST:  62 U/L 
+TGP/ALT: 88 U/L 
+Bilirrubina total: 1,5 mg/dL 
+Cr: 1,2 mg/dL 
+Fósforo: 2,5 mg/dL 
+ 
+Em casa, permanecia a maior parte do tempo sentado ou 
+deitado nas últimas duas semanas. Em relação ao caso 
+apresentado, as condutas mais adequadas são: 
+ 
+(A) Dosagem de cálcio sérico e realização de tomografia de 
+crânio com contraste. 
+(B) Dosagem de amônia e realização de tomografia de crânio 
+sem contraste. 
+(C) Transfusão de concentrado de hemácias e reposição de 
+fósforo. 
+(D) Infusão de albumina e dosagem de cálcio sérico. 
+##### 
+ 
+{70} 
+Mulher, 65 anos de idade, com doença renal crônica, realiza 
+hemodiálise por cateter duplo lúmen tunelizado de longa 
+permanência 
+em 
+veia 
+jugular 
+interna 
+direita 
+há 
+aproximadamente três anos. Comparece ao pronto-socorro 
+com queixa de febre e tremores durante as últimas três 
+sessões de hemodiálise. Foi coletada hemocultura periférica à 
+chegada, com crescimento em 10 horas de Staphylococcus 
+aureus sensível a oxacilina. A hemocultura de cateter de 
+hemodiálise apresentou crescimento de S. aureus com 
+mesmo perfil de sensibilidade em 4 horas. Em relação ao caso 
+apresentado, as condutas mais adequadas são:  
+ 
+(A) Introduzir 
+vancomicina 
+pós-diálise 
+por 
+ao 
+menos  
+3 semanas; solicitar ecocardiograma e fundo de olho; 
+fechar o cateter com antibiótico local concentrado (lock 
+terapia) com vancomicina. 
+(B) Introduzir 
+vancomicina 
+pós-diálise 
+por 
+ao 
+menos  
+3 semanas, solicitar ecocardiograma e fundo de olho; 
+remover cateter de longa permanência. 
+(C) Introduzir oxacilina ou cefazolina por ao menos 3 semanas; 
+solicitar ecocardiograma e fundo de olho; remover cateter 
+de longa permanência. 
+(D) Introduzir oxacilina por ao menos 3 semanas; solicitar 
+ecocardiograma e fundo de olho; fechar o cateter com 
+antibiótico 
+local 
+concentrado 
+(lock 
+terapia) 
+com 
+vancomicina. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 20 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{71} 
+Homem, 25 anos de idade, com dor precordial. 
+ 
+• Exames laboratoriais: 
+Hb: 13 g/dL 
+Leucócitos: 9.400/mm3 
+Neutrófilos: 2.600/mm3 
+Eosinófilos: 4.200/mm3 
+Linfócitos: 1.800/mm3 
+Monócitos: 400/mm3 
+Troponina e pro-BNP: persistentemente elevados 
+ 
+ECO transtorácico com alteração segmentar e fração de ejeção reduzida. Cateterismo cardíaco sem lesões obstrutivas. O ECG é 
+apresentado na imagem a seguir: 
+ 
+ 
+Em relação ao caso apresentado, a conduta mais adequada deve incluir: 
+ 
+(A) AAS, clopidogrel e enoxaparina. 
+(B) Mesilato de imatinibe.  
+(C) Metilprednisolona. 
+(D) Colchicina.  
+#####
+ 
+{72} 
+Mulher, 18 anos de idade, com rinite alérgica e sinusites de 
+repetição desde a infância. Há um ano, diarreia com restos 
+alimentares e perda ponderal, com piora após ingestão de 
+massas e pão.  
+ 
+• Exames laboratoriais:  
+Hb: 12,5 g/dL 
+Eosinófilos: 200/mm3 
+IgG: 1.200 mg/dL (ref.: 700 a 1.600 mg/dL) 
+IgA: < 5 mg/dL (ref.:70 a 400 mg/dL) 
+IgM: 325 mg/dL (ref.:40 a 230 mg/dL) 
+IgE: 545 UI/mL (ref.: < 100 UI/mL) 
+Parasitológicos de fezes (3): negativos 
+ 
+Em relação ao caso apresentado, o teste mais indicado para 
+o início da investigação é: 
+ 
+(A) Genotipagem para HLA DQ2 e DQ8. 
+(B) Biópsia de 2ª porção do duodeno. 
+(C) Anticorpo IgE específico para glúten. 
+(D) Anticorpo IgG antigliadina deaminada. 
+##### 
+ 
+{73} 
+Mulher, 48 anos de idade, refere que nos últimos dois anos 
+apresentou oito episódios de edema de lábios e lesões 
+eritematosas, edematosas e pruriginosas pelo corpo. As 
+lesões cutâneas desaparecem completamente em algumas 
+horas e o angioedema em até três dias. Em duas ocasiões, 
+associou o quadro com consumo de camarão. Nega 
+broncoespasmo, vômitos ou dor abdominal. Boa resposta a 
+anti-histamínicos e adrenalina, utilizada em algumas ocasiões 
+durante 
+atendimento 
+em 
+pronto 
+atendimento. 
+Em 
+acompanhamento por lombalgia há seis anos, estando 
+medicada com anti-inflamatório não esteroidal de demanda. 
+Hipertensão arterial sistêmica há quatro anos, em uso de 
+diurético. Em relação ao caso apresentado, qual é a melhor 
+hipótese diagnóstica? 
+ 
+(A) Urticária aguda por anti-inflamatório não esteroidal.  
+(B) Alergia alimentar a múltiplos alimentos, como camarão. 
+(C) Anafilaxia recorrente devido aos vários medicamentos. 
+(D) Angioedema hereditário, sem desencadeante específico. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 21 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{74} 
+Homem, 45 anos de idade, com antecedente de trauma 
+raquimedular, em uso crônico de baclofeno e olanzapina, é 
+internado na UTI por sepse secundária à infecção urinária. 
+Durante a internação, evoluiu com delirium hiperativo, 
+necessitando 
+de 
+doses 
+de 
+resgate 
+de 
+haloperidol 
+endovenoso, por impossibilidade de utilização da via oral. No 
+terceiro dia de UTI, passou a apresentar febre persistente de 
+39 °C, tremores e espasticidade, mantendo FC de 140 bpm, 
+PA de 140×60 mmHg, FR de 25 irpm, SpO2 de 95% em ar 
+ambiente. Em relaçãoao caso descrito, assinale a alternativa 
+que apresenta a conduta mais adequada, após a passagem 
+de sonda nasoenteral. 
+ 
+(A) Iniciar bromocriptina e diazepam.  
+(B) Retornar baclofeno e iniciar dexmedetomedina. 
+(C) Retornar baclofeno e iniciar dantrolene. 
+(D) Suspender haloperidol e iniciar amantadina. 
+##### 
+ 
+{75} 
+Mulher, 38 anos de idade, com dor abdominal, metrorragia e 
+perda ponderal há cerca de três meses. Durante a 
+investigação, realizou ressonância de pelve com uma lesão 
+expansiva no ovário direito. Coleta de antígeno CA 125 de 
+221,9 U/mL (ref.: < 35 U/mL) e antígeno carcinoembrionário 
+CEA de 99,3 ng/mL (ref.: < 5 ng/mL). Submetida à 
+videolaparoscopia diagnóstica com lesão oncológica em 
+anexo direito e carcinomatose peritoneal, sem a possibilidade 
+de ressecção total. Realizadas biópsias com o achado de 
+adenocarcinoma com estudo imuno-histoquímico a seguir: 
+ 
+CK7: negativo 
+CK20: positivo 
+CDX2: positivo 
+GATA3: negativo 
+ER (receptor de estrogênio): negativo 
+PR (receptor de progesterona): negativo 
+HER2: negativo 
+PAX8: negativo 
+WT1: negativo 
+ 
+Neste caso, o exame com maior probabilidade de confirmar o 
+sítio primário é: 
+ 
+(A) Mamografia. 
+(B) Colonoscopia.  
+(C) Endoscopia digestiva alta. 
+(D) Não é necessário nenhum exame adicional. 
+##### 
+ 
+{76} 
+Homem, 35 anos de idade, assintomático, realiza check-up 
+com exames que apresentam HBsAg positivo, HBeAg 
+positivo, HBV-DNA 1.500.000 UI/mL, TPG/ALT normal. 
+Sorologias 
+para 
+HIV, 
+HCV 
+e 
+HDV 
+são 
+negativas. 
+Ultrassonografia do fígado sem alterações. Neste momento, a 
+conduta mais adequada inclui: 
+ 
+(A) Prescrição de lamivudina. 
+(B) Indicação de biópsia hepática. 
+(C) Prescrição de tenofovir. 
+(D) Avaliação periódica de ALT. 
+##### 
+ 
+ 
+{77} 
+Mulher, 44 anos de idade, apresenta febre persistente, poliartrite 
+simétrica, dispneia, fenômeno de Raynaud, fraqueza muscular 
+progressiva dos 4 membros e dificuldade para deglutir há  
+3 semanas. Tem dislipidemia e faz uso de atorvastatina. 
+Laboratorialmente, apresenta creatinofosfoquinase sérica de 
+9.500 U/L e biópsia muscular com várias fibras musculares 
+necróticas, além de infiltração inflamatória linfomononuclear. O 
+exame físico das mãos da paciente é apresentado na imagem a 
+seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta o diagnóstico mais 
+provável. 
+ 
+(A) Artrite reumatoide com polimiosite. 
+(B) Síndrome antissintetase. 
+(C) Esclerose sistêmica com miosite. 
+(D) Miopatia necrosante imunomediada. 
+##### 
+ 
+{78} 
+Mulher, 60 anos de idade, queixa-se de dificuldade para 
+iniciar e manter o sono. Deita-se às 21h, adormece com a 
+televisão ligada por volta de 23h e acorda às 8h, com 
+sensação de sono não restaurador e refere sonolência diurna, 
+com escala de sonolência de Epworth de 13 pontos (ref.: até 
+10). Seu esposo comenta que ela tem roncado e que observou 
+pausas respiratórias. Ela ganhou cinco quilos nos últimos dois 
+anos. Peso atual de 80 kg, altura 1,55 m. Polissonografia: 
+índice de apneia e hipopneia de 45 eventos por hora, com 
+eficiência do sono de 85%. Além de perda de peso e atividade 
+física, o tratamento mais adequado deve incluir: 
+ 
+(A) CPAP associado a hipnótico não-benzodiazepínico. 
+(B) CPAP associado à terapia cognitivo-comportamental. 
+(C) Terapia cognitivo-comportamental. 
+(D) Terapia 
+cognitivo-comportamental e 
+hipnótico 
+não-
+benzodiazepínico. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 22 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+Texto para as questões 79 e 80 
+ 
+Homem, 76 anos de idade, em avaliação pré-operatória de 
+ressecção transuretral de próstata por adenocarcinoma. 
+Possui antecedente de estenose aórtica, tendo sido 
+submetido à troca valvar com implante de valva metálica há  
+6 anos. Está em uso de enalapril e varfarina. Ao exame clínico, 
+apresenta estalido de abertura em foco aórtico. Exames 
+complementares e INR dentro da faixa terapêutica. 
+ 
+{79} 
+A conduta mais adequada no manejo da anticoagulação é: 
+ 
+(A) Suspender a varfarina 3 dias antes da cirurgia e iniciar 
+enoxaparina. 
+(B) Suspender a varfarina 5 dias antes da cirurgia e iniciar 
+enoxaparina quando INR < 2. 
+(C) Suspender a varfarina 7 dias antes da cirurgia e iniciar 
+enoxaparina quando INR < 1,5. 
+(D) Manter a varfarina e realizar a cirurgia com INR dentro da 
+faixa terapêutica. 
+##### 
+ 
+{80} 
+A profilaxia de endocardite infecciosa neste paciente deve ser 
+feita com 
+ 
+(A) ceftriaxona 1 g, por via endovenosa. 
+(B) cefazolina 1 g e clindamicina 600 mg, por via endovenosa. 
+(C) amoxicilina 2 g, por via oral. 
+(D) ampicilina 2 g e gentamicina 1,5 mg/kg, por via endovenosa. 
+##### 
+ 
+{81} 
+Mulher, 55 anos de idade, há 4 meses apresenta quadro de 
+poliartrite aditiva e assimétrica de mãos, punhos, pés e joelho 
+direito, com rigidez matinal de 30 minutos. Ao exame clínico, 
+além das artrites, observam-se os achados apresentados nas 
+imagens a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a principal hipótese 
+diagnóstica. 
+ 
+(A) Lúpus eritematoso sistêmico. 
+(B) Artrite reativa. 
+(C) Artrite reumatoide. 
+(D) Artrite psoriásica. ##### 
+{82} 
+Homem, 58 anos de idade, com cirrose alcoólica e 
+insuficiência cardíaca de fração de ejeção preservada com 
+PSAP de 58 mmHg, apresenta dispneia progressiva e derrame 
+pleural direito volumoso recorrente, além de ascite moderada. 
+À admissão na emergência, apresentava SpO2 de 90% em ar 
+ambiente e FR de 28 irpm. Realizada paracentese diagnóstica 
+com gradiente soro–líquido ascítico de albumina de 1.5 g/dL 
+e contagem de neutrófilos de 80 células/mm³. Em relação ao 
+caso descrito, a conduta mais adequada é: 
+ 
+(A) Morfina e albumina 1 g/kg. 
+(B) Repetir toracocentese de alívio. 
+(C) Inserção de dreno tubular de tórax. 
+(D) Derivação portossistêmica intra-hepática transjugular. 
+##### 
+ 
+{83} 
+Mulher, 58 anos de idade, previamente hígida, é admitida com 
+febre alta, cefaleia intensa, rigidez de nuca e confusão mental 
+há 2 dias. A punção lombar revela: aspecto turvo; proteínas 
+350 mg/dL (normal até 45 mg/dL); glicose 20 mg/dL (glicemia 
+capilar: 110 mg/dL); leucócitos 1.500/mm³ (90% neutrófilos); 
+cultura do líquor positiva para Streptococcus pneumoniae. 
+Após 5 dias de antibioticoterapia com ceftriaxona + 
+vancomicina, a paciente apresenta novo quadro de 
+rebaixamento do nível de consciência e hemiparesia à direita. 
+Realizada tomografia de crânio apresentada a seguir: 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta a melhor conduta. 
+ 
+(A) Iniciar anticoagulação plena por suspeita de trombose 
+venosa cerebral. 
+(B) Iniciar corticoide e indicar monitorização invasiva da 
+pressão intracraniana. 
+(C) Solicitar angiotomografia cerebral e iniciar corticoide. 
+(D) Ampliar cobertura antimicrobiana para bactérias Gram-
+negativas multirresistentes. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 23 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{84} 
+Homem, 38 anos de idade, portador de HIV em tratamento irregular, apresenta-se com história de febre diária, sudorese noturna, 
+emagrecimento (8 kg em 2 meses), tosse seca e dor torácica pleurítica há 1 semana. No exame físico, paciente emagrecido com 
+peso de 56 kg, frequência cardíaca de 106 bpm, pressão arterial 105×70 mmHg, bulhas cardíacas hipofonéticas e presença de 
+atrito pericárdico. Apresenta turgência jugular discreta, sem edema periférico. O ecocardiograma revela pericárdio com derrame 
+moderado, sem sinais de restrição ou tamponamento. Foram realizados os exames a seguir: 
+ 
+ 
+• Exames laboratoriais: 
+CD4: 132/mm3 
+Carga viral: detectável 
+Hb: 10,2 g/dL 
+Leucócitos: 4.500/mm3 
+Plaquetas: 180.000/mm3 
+Cr: 0,9 mg/dL 
+Ur: 54 mg/dL 
+VHS: 82 mm 
+PCR: 14 mg/L 
+ 
+ 
+ 
+ 
+Fonte: Escola ECOPE (relato de caso) 
+ 
+Em relação ao caso descrito, assinale a alternativa que apresenta a conduta inicial mais adequada para investigação e manejo 
+neste paciente. 
+ 
+(A) Iniciar tratamento empírico para tuberculose, além de ibuprofeno 600 mg 8/8h e colchicina 0,5 mg 12/12h para tratamento de 
+pericardite, sem necessidade de punção pericárdica. 
+(B) Iniciar tratamento sintomático para pericardite com ibuprofeno 600 mg 8/8h. Considerar colchicina 0,5 mg 12/12h e tratamento 
+para tuberculose após punção do líquido pericárdico. 
+(C) Iniciar tratamento com antibiótico empírico para tuberculose visto paciente com HIV, sem necessidade de punção caso paciente 
+permaneça sem sinais de tamponamento e responda bem ao tratamento antibiótico. 
+(D) Realizar punção do líquido pericárdico para investigação etiológica e iniciar tratamento sintomático com ibuprofeno 600 mg 
+8/8h, colchicina 0,5 mg 1 vez ao dia; iniciar tratamento para tuberculose e considerar corticoide, se confirmado este diagnóstico. 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 24 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{85} 
+Mulher, 73 anos de idade, submetida à colocação de prótese 
+de quadril de emergência. Está em uso de dipirona, morfina, 
+heparina profilática, ondansetrona e cefazolina profilática. No 
+pós-operatório, apresentou fibrilação atrial com FC de 96 bpm, 
+sem instabilidade hemodinâmica e autolimitada. Ao exame 
+físico, foi notado um bócio pequeno. Exames laboratoriais 
+apresentaram T4 livre de 3,2 ng/dL e TSH de 2,8 mIU/L (ref.: 
+0,4 a 4,0 mIU/L). Assinale a alternativa que apresenta a 
+explicação mais adequada para as alterações dos exames. 
+ 
+(B) Bócio multinodular difuso tóxico. 
+(A) Interferente na dosagem de T4 livre. 
+(C) Tireotoxicose induzida por medicação. 
+(D) Doença de Graves em fase inicial. 
+##### 
+ 
+{86} 
+Homem, 96 anos de idade, viúvo há quatro anos, mora 
+sozinho, dirige seu veículo regularmente e realiza suas 
+atividades diárias sem ajuda. Durante consulta de rotina, os 
+filhos expressam preocupação com sua segurança, sugerindo 
+que ele não more mais sozinho e que pare de dirigir. A 
+conduta mais adequada é: 
+ 
+(A) Primeiro orientar parar de dirigir e, depois, morar com os 
+filhos. 
+(B) Primeiro orientar morar com os filhos e, depois, parar de 
+dirigir. 
+(C) Avaliar as habilidades cognitivas, físicas e funcionais. 
+(D) Manter as atividades do paciente e tranquilizar os filhos. 
+##### 
+ 
+{87} 
+Homem, 78 anos de idade, com histórico de depressão, 
+hipertensão arterial, diabetes melito tipo 2 e osteoartrite, faz 
+uso de sertralina, metformina, enalapril, omeprazol e 
+diacereína. Há seis semanas, tem apresentado episódios de 
+diarreia com fezes pastosas, sem febre ou sangue, 
+incontinência fecal ocasional, que impacta sua qualidade de 
+vida. A conduta mais adequada, para o manejo inicial da 
+diarreia, deve incluir: 
+ 
+(A) Iniciar loperamida. 
+(B) Prescrever probióticos. 
+(C) Solicitar retossigmoidoscopia. 
+(D) Suspender a diacereína. 
+##### 
+ 
+{88} 
+Mulher, 87 anos de idade, com perda de 5% do peso corporal 
+nos últimos seis meses, refere engasgos ocasionais, amargor 
+na boca e falta de apetite. Nega sintomas de depressão ou de 
+ansiedade. Tem diabetes e hipertensão tratados com dieta, 
+metformina e losartana. Ao exame clínico, apresenta bom 
+estado geral, sem alterações significativas, com IMC de  
+23,5 kg/m2. Em relação ao caso descrito, assinale a alternativa 
+que apresenta a conduta mais adequada para esta paciente. 
+ 
+(A) Substituir losartana por enalapril. 
+(B) Substituir metformina por dapagliflozina. 
+(C) Flexibilizar uso de sal e carboidratos. 
+(D) Solicitar endoscopia digestiva alta. ##### 
+{89} 
+Homem, 86 anos de idade, diabético, com obesidade 
+sarcopênica, nefropatia diabética (estágio IV) e varizes de 
+membros inferiores, comparece à consulta de rotina com 
+edema em membros inferiores, dificuldade de levantar-se da 
+cadeira e histórico de duas quedas nos últimos quatro meses. 
+A intervenção mais adequada para reduzir o risco de quedas 
+é 
+ 
+(A) tratar a sarcopenia com testosterona. 
+(B) diminuir o edema com hidroclorotiazida. 
+(C) diminuir o peso com dapagliflozina. 
+(D) melhorar o equilíbrio com exercícios multicomponentes. 
+##### 
+ 
+{90} 
+Homem, 79 anos de idade, viúvo há seis meses, mora sozinho, 
+relata dificuldade para manter o sono há três semanas. 
+Costuma dormir facilmente após o jantar, por volta das 20h, 
+mas desperta às 2h da manhã e não consegue voltar a dormir. 
+Refere cansaço ao longo do dia, mas nega sonolência 
+excessiva. A conduta mais adequada é: 
+ 
+(A) Mirtazapina 15 mg. 
+(B) Trazodona 50 mg. 
+(C) Higiene do sono. 
+(D) Polissonografia. 
+##### 
+ 
+{91} 
+Homem, 65 anos de idade, com cirrose hepática Child-Pugh 
+B, 
+em 
+avaliação 
+para biópsia 
+hepática 
+percutânea. 
+Hemodinamicamente estável e sem história prévia de 
+sangramento grave. Apresenta INR de 2,1 e plaquetas de 
+55.000/mm³. 
+A 
+conduta 
+mais 
+adequada 
+antes 
+do 
+procedimento é: 
+ 
+(A) Vitamina K. 
+(B) Plasma fresco congelado ou complexo protrombínico. 
+(C) Transfusão de plaquetas. 
+(D) Nenhum preparo é necessário. 
+##### 
+ 
+{92} 
+Mulher, 57 anos de idade, cirrose hepática Child-Pugh B, 
+internada há dois dias com dor abdominal difusa e sonolência. 
+Estável, sem sangramento ativo ou recente, com programação 
+de 
+paracentese. 
+Exames 
+laboratoriais 
+apresentaram 
+plaquetas de 72.000/mm³ e INR de 1,9. Em relação à 
+tromboprofilaxia, a conduta mais adequada é: 
+ 
+(A) Profilaxia mecânica. 
+(B) Heparina de baixo peso molecular.  
+(C) Rivaroxabana após transfusão de plaquetas. 
+(D) Não há indicação de profilaxia. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 25 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{93} 
+Homem, 28 anos de idade, é atendido após ser ferroado na 
+face por inseto não identificado. Cinco minutos após sentir a 
+ferroada, queixou-se de tontura, visão turva e náuseas, 
+evoluindo com perda da consciência logo a seguir. Uma hora 
+após a ferroada, apresentava eritema com edema em toda 
+face, com PA de 80×50 mmHg, FC de 120 bpm, FR de 22 irpm. 
+O exame laboratorial mais adequado para confirmar o 
+diagnóstico é:  
+ 
+(A) Cortisol sérico. 
+(B) IgE específica. 
+(C) Triptase sérica. 
+(D) Histamina urinária. 
+##### 
+ 
+{94} 
+Homem, 32 anos de idade, com dermatite atópica moderada 
+associada à rinossinusite crônica com pólipos nasais e 
+obstrução 
+nasal 
+grave. 
+Apesar 
+do 
+tratamento 
+com 
+metotrexato, introduzido há seis meses, permanece com baixa 
+resposta terapêutica. Exames complementares: IgE sérica 
+total: 3.500 UI/mL (ref.: < 100 UI/mL); eosinófilos no sangue 
+periférico: 1.200/mm3 Neste momento, o tratamento mais 
+adequado é: 
+ 
+(A) Dupilumabe. 
+(B) Ciclosporina. 
+(C) Omalizumabe. 
+(D) Rituximabe. 
+##### 
+ 
+{95} 
+Mulher, 47 anos de idade, receptora de transplante alogênico 
+de células-tronco hematopoiéticas há 6 meses, encontra-se 
+em uso de prednisona cronicamente. Evolui com neutropenia 
+persistente, febre refratária a antibióticos de amplo espectro e 
+alteração em tomografia de tórax, que é apresentada na 
+imagem a seguir: 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta o tratamento mais adequado. 
+ 
+(A) Itraconazol. 
+(B) Voriconazol. 
+(C) Anfotericina B. 
+(D) Micafungina. 
+##### 
+{96} 
+Mulher, 35 anos de idade, acabou de descobrir que está 
+grávida. Tem parceiro único, HIV positivo com carga viral entre 
+indetectável e 1.000 cópias/mL. Faz uso de PREP HIV e 
+preservativo eventual, último contato desprotegido há dois 
+dias. A orientação mais adequada para a paciente inclui: 
+ 
+(A) Suspender PREP até a 12ª semana de gestação e 
+reintroduzir após teste rápido negativo para HIV e outras 
+ISTs. 
+(B) Suspender PREP, realizar teste rápido para HIV e outras 
+ISTs e, se negativos, iniciar PEP. 
+(C) Manter PREP, realizar teste rápido para HIV e outras ISTs. 
+(D) Manter PREP, solicitar teste rápido para HIV e pesquisa de 
+outras ISTs na 12ª semana. 
+##### 
+ 
+{97} 
+Homem, 17 anos de idade, com tosse produtiva há dois 
+meses, perda ponderal, sudorese e febre noturna, foi 
+internado para investigação. Além de manter isolamento, a 
+orientação mais adequada quanto às precauções é: 
+ 
+ 
+Respiratória 
+Contato 
+Quarto 
+privativo 
+Máscara 
+(A) 
+Aerossol 
+Sim 
+Não 
+N95 
+(B) 
+Aerossol 
+Não 
+Sim 
+N95 
+(C) 
+Gotícula 
+Não 
+Não 
+Cirúrgica 
+(D) 
+Gotícula 
+Sim 
+Sim 
+Cirúrgica 
+##### 
+ 
+{98} 
+Mulher, 38 anos de idade, com doença de Crohn e diarreia 
+crônica, em uso de azatioprina. É internada para tratamento 
+de pneumonia e desconforto respiratório. Evoluiu com injúria 
+renal aguda. Ao exame clínico, apresenta-se alerta, com PA 
+de 110×70 mmHg, FC de 90 bpm, FR de 32 ipm, SpO2 de 
+90%, temperatura de 37,9 °C, ausência de edema de 
+membros inferiores. Ultrassonografia à beira do leito com veia 
+cava inferior de 1,8 cm de diâmetro com variabilidade de 
+cerca de 50% com a inspiração. 
+ 
+• Exames laboratoriais: 
+Cr: 2,9 mg/dL 
+Ur: 178 mg/dL 
+K+: 4,3 mEq/L 
+Na+: 137 mEq/L 
+pH: 7,49 
+HCO3-: 12,0 mmol/L 
+PaCO2: 19,0 mmHg 
+Lactato: 15 mg/dL 
+ 
+Em relação ao caso apresentado, o distúrbio ácido-base 
+primário e o tratamento mais adequado são: 
+ 
+(A) Alcalose respiratória e acetazolamida. 
+(B) Alcalose respiratória e suporte ventilatório. 
+(C) Acidose metabólica e bicarbonato de sódio intravenoso.  
+(D) Acidose metabólica e hemodiálise. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 26 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{99} 
+Homem, 32 anos de idade, HSH, cisgênero. Apresentou febre, 
+tosse e dispneia progressiva há um mês. Foi internado com o 
+diagnóstico 
+de 
+pneumocistose, 
+com 
+resolução 
+após 
+tratamento específico. PPD 3 mm, contagem de CD4  
+249 células/mm3 e carga viral HIV 119.000 cópias/mL. O 
+tratamento de infecção latente de tuberculose 
+ 
+(A) deve ser realizado, pois paciente apresentou doença 
+definidora de AIDS. 
+(B) deve ser realizado, pois a contagem de CD4 é < 350 
+cels/mL. 
+(C) não deve ser realizado, pois o PPD é < 5 mm. 
+(D) não deve ser realizado, pois o paciente ainda não realizou 
+teste IGRA. 
+##### 
+ 
+{100} 
+Homem, 63 anos de idade, comparece ao pronto-socorro com 
+dor lombar progressiva, dificuldade para caminhar e 
+formigamento em membros inferiores. Exame de PSA total 
+com 1.352,0 ng/mL (ref.: < 4,0 ng/mL). Biópsia da próstata 
+confirmou adenocarcinoma acinar usual presente em 18 de  
+18 fragmentos avaliados. Escore global de Gleason detectado 
+8 (4+4). A ressonância de coluna é mostrada na imagem a 
+seguir: 
+ 
+ 
+ 
+Considerando o caso descrito, assinale a alternativa que 
+apresenta a abordagem mais adequada. 
+ 
+(A) Agonista de GnRH. 
+(B) Orquiectomia bilateral. 
+(C) Radioterapia de coluna total. 
+(D) Artrodese de coluna. 
+##### 
+ 
+ 
+{101} 
+Homem, 65 anos de idade, com hipertensão e diabetes, é 
+conduzido ao pronto-socorro por familiares. Foi visto em seu 
+estado basal às 23h da noite anterior, antes de dormir. Ao 
+despertar às 6h, duas horas antes da chegada ao hospital, foi 
+reconhecido com dificuldade para se comunicar e fraqueza 
+em hemicorpo direito. Exame neurológico: afasia global e 
+hemiparesia à direita, com pontuação na escala NIHSS de 11. 
+Tomografia de crânio e angiotomografia intracraniana arterial 
+com ASPECTS 8, ausência de sinais de hemorragia, sem 
+outras alterações. Decidiu-se por prosseguir com ressonância 
+magnética. O conceito essencial para avaliar a elegibilidade e 
+a terapia de reperfusão aguda são: 
+ 
+(A) Mismatch Difusão-FLAIR ; trombólise química. 
+(B) Mismatch NIHSS-Difusão; trombólise química. 
+(C) Mismatch Difusão-FLAIR; trombectomia mecânica. 
+(D) Mismatch NIHSS-Difusão; trombectomia mecânica. 
+##### 
+ 
+{102} 
+Mulher, 21 anos de idade, com sintomas constitucionais, 
+cervicalgia e episódios de síncope, principalmente ao se 
+levantar. Ao exame clínico, apresenta PA indetectável em 
+membro superior esquerdo e 150×100 mmHg no membro 
+superior direito. A angiotomografia realizada pode ser 
+observada na imagem a seguir: 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta a hipótese diagnóstica mais provável. 
+ 
+(A) Sífilis terciária. 
+(B) Displasia fibromuscular. 
+(C) Vasculite primária de grandes vasos. 
+(D) Aterosclerose precoce familiar. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 27 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{103} 
+Mulher, 70 anos de idade, com dor lombar há mais de 2 anos. 
+Relata piora há 4 meses, com surgimento de dor em aperto e 
+formigamento em nádegas e região posterior de ambas as 
+pernas após caminhar cerca de dois quarteirões, que 
+melhoram com repouso. Ao exame clínico, apresenta piora de 
+dor lombar com a extensão da coluna, sem outras alterações. 
+Neste momento, o tratamento mais adequado para esta 
+paciente deve incluir: 
+ 
+(A) Exercícios físicos e analgesia. 
+(B) Repouso e anti-inflamatórios. 
+(C) Infiltração de canal medular. 
+(D) Intervenção cirúrgica. 
+##### 
+ 
+{104} 
+Mulher, 68 anos de idade, com adenocarcinoma de cólon com 
+metástases peritoneais difusas, tomografia com múltiplos 
+pontos de obstrução, apresenta vômitos incoercíveis, 
+distensão abdominal e dor abdominal intensa. Paciente  
+ECOG 3, emagrecida, com ascite moderada. Assinale a 
+alternativa que indica a conduta mais apropriada: 
+ 
+(A) Octreotide. 
+(B) Nutrição parenteral total. 
+(C) Cirurgia de derivação. 
+(D) Quimioterapia paliativa. 
+##### 
+ 
+{105} 
+Mulher, 46 anos de idade, não tabagista, apresenta dispneia 
+e tosse crônica há seis meses. A tomografia de tórax de alta 
+resolução é mostrada na imagem a seguir: 
+ 
+ 
+ 
+Com base nas informações apresentadas, assinale a 
+alternativa que indica o passo seguinte mais adequado. 
+ 
+(A) Biópsia pulmonar videoassistida. 
+(B) Broncoscopia com lavado broncoalveolar. 
+(C) Investigação de exposições ambientais. 
+(D) Corticoterapia via oral. 
+##### 
+{106} 
+Homem, 70 anos de idade, ex-tabagista com carga tabágica 
+de 50 anos-maço e abstêmio há cinco anos. Faz tratamento 
+para DPOC. Durante a consulta, foi observada uma SpO2 em 
+ar ambiente de 90%. Coletada uma gasometria arterial 
+evidenciando PaO2 de 62 mmHg e pCO2 de 38 mmHg. 
+Antecedentes vacinais incluem vacinação para influenza e 
+pneumococo 23v no ano anterior e três doses para COVID-19 
+há cerca de dois anos. Assinale a alternativa que apresenta a 
+conduta mais apropriada. 
+ 
+(A) Oxigenioterapia domiciliar contínua. 
+(B) Reforço anual das vacinas para influenza, pneumococo 
+(23v) e COVID-19. 
+(C) Reabilitação pulmonar quando houver melhora da 
+hipoxemia. 
+(D) Rastreio de câncer de pulmão com tomografia de tórax de 
+baixa dose. 
+##### 
+ 
+{107} 
+Mulher, 59 anos de idade, internada na UTI por quadro de 
+pneumonia comunitária grave, sob ventilação mecânica. Após 
+12 horas, apresenta piora progressiva da oxigenação. Ao 
+exame clínico, encontra-se com PA de 90×60 mmHg, em uso 
+de noradrenalina 0,15 µg/kg/min, SpO2 de 88%, FiO2 de 100%, 
+em modo controlado a volume com Vc 360 mL (6 mL/kg); FR 
+de 30 irpm; PEEP 8 cmH2O; pressão de platô 28 cmH2O. 
+Radiografia de tórax com opacidades bilaterais extensas. 
+Ecocardiograma: dilatação discreta do ventrículo direito, sem 
+disfunção do ventrículo esquerdo. Assinale a alternativa que 
+apresenta a conduta mais adequada. 
+ 
+(A) Posição prona. 
+(B) Trombólise. 
+(C) Recrutamento alveolar. 
+(D) Diureticoterapia. 
+##### 
+ 
+{108} 
+Mulher, 88 anos de idade, previamente sem comorbidades e 
+com boa funcionalidade, internada com CEC de língua oral, 
+T2N2, 
+EC 
+IVA. 
+Há 
+cinco 
+dias, 
+foi 
+submetida 
+à 
+hemiglossectomia e esvaziamento cervical homolateral, níveis 
+I a III, traqueostomia e passagem de sonda nasoenteral. No 
+momento, encontra-se gemente, sonolenta com FC de 
+110 bpm, PA de 80×60 mmHg e SpO2 de 90%. Além de 
+hidratação e radiografia de tórax, as medidas imediatas mais 
+adequadas, para o caso, são: 
+ 
+(A) Dosagem de cálcio sérico e antibioticoterapia. 
+(B) Analgesia, coleta de culturas e antibioticoterapia. 
+(C) Analgesia e acessar familiares em relação à limitação de 
+suporte. 
+(D) Aspiração da traqueostomia e dosagem de cálcio sérico. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 28 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{109} 
+Homem, 56 anos de idade, é conduzido pelos familiares, pois 
+há um ano está mais desinibido e com alterações de 
+personalidade. 
+Durante 
+a 
+consulta, 
+apresentou 
+um 
+comportamento 
+impulsivo 
+e 
+sem 
+crítica. 
+Ao 
+exame 
+neurológico, apresenta pupilas mióticas não fotorreagentes, 
+redução da sensibilidade vibratória e dificuldade para andar 
+de olhos fechados. A ressonância magnética de encéfalo 
+mostrou discreta atrofia global, sem predileção lobar, e 
+ausência de lesões tumorais ou vasculares. O exame com 
+maior probabilidade de confirmar o diagnóstico é: 
+ 
+(A) Eletroencefalograma sono-vigília. 
+(B) Dosagem da ácido fólico sérico. 
+(C) Líquido cefalorraquidiano com VDRL. 
+(D) PET cerebral com marcador para amiloide. 
+##### 
+ 
+{110} 
+Mulher, 28 anos de idade, sem comorbidades, é conduzida ao 
+pronto-socorro com dificuldade para movimentar os 4 
+membros, incontinência urinária e fecal há 2 dias. Exame 
+neurológico: tetraparesia com força grau II nos 4 membros e 
+nível sensitivo cervical. Foi realizada ressonância magnética 
+que é mostrada na imagem a seguir:  
+ 
+ 
+ 
+Considerando o caso apresentado, o exame laboratorial para 
+confirmação da principal hipótese diagnóstica e o tratamento 
+mais adequado são: 
+ 
+(A) Anticorpo anti-aquaporina-4 em soro; natalizumabe. 
+(B) Anticorpo anti-aquaporina-4 em soro; rituximabe. 
+(C) Bandas oligoclonais em soro e líquor; rituximabe. 
+(D) Bandas oligoclonais em soro e líquor; natalizumabe. 
+##### 
+ 
+ 
+ 
+{111} 
+Homem, 62 anos de idade, apresenta antecedentes de HAS e 
+diabetes melito há cerca de 10 anos. Creatinina basal de  
+1,8 mg/dL. Comparece no pronto-socorro com sintomas de 
+dor importante em membro inferior direito e dificuldade de 
+locomoção nos últimos 10 dias, com piora há um dia, apesar 
+do uso de ibuprofeno. Apresentou piora de função renal, 
+conforme demonstrado na tabela a seguir, que indica os 
+exames de entrada (D0) e de seguimento durante os primeiros 
+dois dias de internação. 
+ 
+ 
+D0 
+D1 
+D2 
+Sangue 
+Cr (ref.: 0,72 a 1,25 mg/dL) 
+5,29 
+6,06 
+6,40 
+Ur (ref.: 9,0 a 44,1 mg/dL) 
+141 
+169 
+176 
+K+ (ref.: 3,5 a 5,1 mEq/L) 
+5,9 
+5,7 
+5,3 
+Na+ (ref.: 135 a 145 mEq/L) 
+134 
+134 
+137 
+pH (ref.: 7,35 a 7,45) 
+7,36 
+7,38 
+7,38 
+HCO3- (ref.: 22 a 29 mmol/L) 
+23,2 
+19,2 
+23,1 
+Glicose  
+(ref.: 70 a 99 mg/dL) 
+175 
+ 
+ 
+Hemoglobina 
+(ref.: 12,8 a 17,8 g/dL) 
+12,3 
+11,5 
+11,7 
+Leucócitos  
+(ref.: 4,12 a 11,11 mil/mm³) 
+1.3050 
+13.470 
+12.240 
+Neutrófilos  
+(ref.: 1,57 a 7,97 mil/mm³) 
+7.310 
+9.730 
+8.170 
+Linfócitos  
+(ref.: 1,13 a 3,31 mil/mm³) 
+3.750 
+2.120 
+2.230 
+Eosinófilos  
+(ref.: 0,00 a 0,59 mil/mm³) 
+470 
+610 
+680 
+Plaquetas  
+(ref.: 162 - 425 mil/mm³) 
+368  
+331 
+345 
+NT-proBNP  
+(ref.: <125 pg/mL) 
+4.657 
+14.249 
+ 
+Urina tipo 1 
+pH (ref.: 5,0 a 6,0) 
+6,0 
+ 
+ 
+Densidade  
+(ref.: 1,015 a 1,025) 
+1,025 
+ 
+ 
+Glicose (mg/dL)  
+(ref.: ausente) 
+250 
+ 
+ 
+Proteínas 
+(ref.: Inferior a 0,05 g/L) 
+>1,0 
+ 
+ 
+Leucócitos  
+(ref.: até 10/campo) 
+41 
+ 
+ 
+Eritrócitos  
+(ref.: até 3/campo) 
+3 
+ 
+ 
+Urocultura (ref.: negativa) 
+Negativa 
+ 
+ 
+ 
+Ultrassonografia dos rins: rim direito mede 10,6 cm (espessura 
+do parênquima: 1,7 cm). Rim esquerdo mede 11,1 cm 
+(espessura do parênquima: 1,6 cm). Em relação ao caso 
+descrito, 
+assinale 
+a 
+alternativa 
+que 
+apresenta, 
+respectivamente, o exame complementar e o tratamento mais 
+adequados.  
+ 
+(A) Biópsia renal; prednisona 1 mg/kg. 
+(B) Hemoglobina glicada; insulinoterapia. 
+(C) Albumina/creatinina em urina de amostra isolada; 
+dapagliflozina. 
+(D) ANCA; metilprednisolona em pulsoterapia. 
+##### 
+
+
+--- PAGE 29 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{112} 
+Homem, 63 anos de idade, portador de insuficiência cardíaca de etiologia isquêmica, classe funcional I e diabetes melito tipo 2 
+bem controlados, faz uso regular de enalapril 20 mg 12/12h, espironolactona 25 mg 24/24h, carvedilol 12,5 mg 12/12h, metformina 
+850 mg antes das refeições e empagliflozina 10 mg uma vez ao dia. Comparece ao PS com relato de 2 episódios de palpitação 
+nesta semana, o primeiro auto-limitado, durando menos de 30 minutos e o segundo iniciado há 3 horas. Nega angina ou piora da 
+dispneia e não tem sinais de descompensação da insuficiência cardíaca ao exame físico. O ECG e o ecocardiograma transtorácico 
+são apresentados a seguir: 
+ 
+ 
+Valor 
+Referência 
+ 
+Valor 
+Referência 
+Aorta 
+35 mm 
+30 a 37 mm 
+DSVE 
+44 mm 
+25 a 40 mm 
+Átrio Esquerdo 
+38 mm 
+30 a 40 mm 
+DDVE 
+60 mm 
+42ª 58 mm 
+Septo 
+9 mm 
+6 a 10 mm 
+Índice de Massa 
+90 g/m² 
+49 a 115 g/m² 
+Parede Posterior 
+9 mm 
+6 a 10 mm 
+FEVE 
+37% 
+> 52% 
+Exame realizado em ritmo regular. 
+Presença de acinesia em segmento basal de parede anterior e hipocinesia das demais paredes. PSAP 42 e ausência de 
+trombos intra-cavitários. 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que apresenta o tratamento mais adequado para este paciente. 
+ 
+(A) Aumentar a dose de carvedilol e iniciar anticoagulação plena. 
+(B) Associar ivabradina ou digoxina e iniciar anticoagulação plena. 
+(C) Proceder à cardioversão, sem necessidade de anticoagulação. 
+(D) Anticoagulação apenas se não realizar cardioversão. 
+##### 
+ 
+{113} 
+Mulher, 34 anos de idade, apresenta quadro de dispneia e perda ponderal progressiva. Nega tabagismo. Realizou radiografia de 
+tórax com derrame pleural à direita. Tomografias de tórax, abdome e pelve: inúmeros nódulos pulmonares, além de 
+linfonodomegalias paraórticas, retroperitoneais e supraclavicular. Biópsia do linfonodo supraclavicular evidenciou diagnóstico de 
+carcinoma. Imuno-histoquímica com citoqueratina 5/6 positiva, p63 positivo e p40 positivo, confirmando diagnóstico de carcinoma 
+de células escamosas. Neste caso, a etiologia mais provavelmente relacionada ao tipo de tumor é: 
+ 
+(A) HCV. 
+(B) HPV. 
+(C) HIV. 
+(D) EBV. #####  
+
+
+--- PAGE 30 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{114} 
+Mulher, 73 anos de idade, sem comorbidades, é conduzida 
+para consulta pelo esposo, que relata episódios noturnos de 
+movimentos abruptos como socos e chutes, além de gritar 
+como se estivesse “brigando com alguém” durante o sono há 
+um ano. Pela manhã, não se lembra do ocorrido. Ao exame 
+neurológico, apresenta discreta bradicinesia e rigidez 
+assimétrica, predominando em hemicorpo esquerdo. Assinale 
+a alternativa que apresenta a medicação mais adequada para 
+o caso descrito. 
+ 
+(A) Melatonina. 
+(B) Trazodona. 
+(C) Mirtazapina. 
+(D) Amitriptilina. 
+##### 
+ 
+{115} 
+Homem, 28 anos de idade, com diagnóstico confirmado de 
+esofagite eosinofílica, apresenta-se assintomático após 14 
+meses de tratamento com Inibidor de Bomba de Prótons (IBP) 
+em dose alta. Nova endoscopia com biópsias mostra 
+persistência de infiltrado com 50 eosinófilos por campo de 
+grande 
+aumento. 
+Não 
+há 
+estenoses 
+visíveis, 
+nem 
+complicações endoscópicas. Em relação ao caso descrito, 
+assinale a alternativa que apresenta a próxima conduta mais 
+adequada. 
+ 
+(A) Manter o IBP em dose alta.  
+(B) Iniciar corticosteroide tópico.  
+(C) Associar dieta de exclusão. 
+(D) Suspender o tratamento. 
+##### 
+ 
+{116} 
+Homem, 50 anos de idade, com febre e manchas pelo corpo 
+há 5 dias. Possui hipertensão arterial, em uso de losartana, e 
+gota com tratamento iniciado há 30 dias. Exame clínico: 
+temperatura axilar de 39 °C, exantema maculopapular difuso, 
+adenomegalias dolorosas, cervicais e axilares de 2 cm; 
+espaço de Traube ocupado.  
+ 
+• Exames laboratoriais: 
+Hb: 11 g/dL 
+Leucócitos: 10.000/mm3  
+Neutrófilos: 50% 
+Eosinófilos: 20% 
+Linfócitos atípicos: 8% 
+Plaquetas: 160.000/mm3 
+TGO/AST: 140 U/L 
+TGP/ALT: 178 U/L 
+ 
+Em relação ao caso apresentado, o diagnóstico mais provável 
+é: 
+ 
+(A) Síndrome DRESS. 
+(B) Síndrome de Stevens-Johnson. 
+(C) Mononucleose infecciosa. 
+(D) Linfoproliferação. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+{117} 
+Homem, 38 anos de idade, sem antecedentes, procura 
+atendimento com queixa de náuseas, vômitos e dor abdominal 
+há 1 dia. Nega uso de medicações. Ao exame clínico, 
+apresenta-se em regular estado geral, desidratado 2/4+, FR 
+de 30 irpm, Glasgow 13, pupilas reagentes. Exame abdominal 
+sem alterações significativas. 
+ 
+• Exames laboratoriais: 
+Ph: 7,10 
+PaCO2: 15 mmHg 
+HCO3-: 4 mEq/L 
+Na+: 140 mEq/L 
+C,-: 100 mEq/L 
+Glicose: 100 mg/dL 
+Ur: 20 mg/dL 
+Cr: 1,1 mg/dL 
+Lactato: 2,5 mg/dL 
+Osmolaridade medida: 330 mOsm/kg 
+ 
+A conduta terapêutica prioritária após começo da volemia com 
+hidratação e da acidose com bicarbonato é: 
+ 
+(A) Fomepizol. 
+(B) Carvão ativado. 
+(C) Hidroxi cobalamina. 
+(D) Diálise. 
+##### 
+ 
+{118} 
+Homem, 71 anos de idade, portador de bioprótese aórtica, 
+está internado por endocardite.  
+ 
+Exames laboratoriais:  
+Leucócitos: 9 800/µL (8 % bastonetes) 
+Hb: 11,2 g/dL 
+Plaquetas: 180 000/mm3 
+PCR: 78 mg/L 
+Cr: 1,4 mg/dL 
+ 
+Foram realizados três pares de hemoculturas positivas para 
+Enterococcus 
+faecalis, 
+sensível 
+à 
+ampicilina 
+com 
+Concentração Inibitória Mínima (CIM) de 1 mg/L e com 
+resistência de alto nível a gentamicina. Ecocardiograma 
+transesofágico revela vegetação de 8 mm em cúspide não 
+coronariana da bioprótese e discreto aumento do gradiente 
+transvalvar. Em relação ao caso descrito, assinale a alternativa 
+que apresenta o tratamento mais adequado. 
+ 
+(A) Ampicilina 2 g EV a cada 4 h + ceftriaxona 2 g EV a cada 
+12 h, ≥ 6 semanas. 
+(B) Ampicilina 2 g EV a cada 4 h + gentamicina 1 mg/kg EV a 
+cada 8 h, 6 semanas. 
+(C) Daptomicina 10 mg/kg EV 1×/dia em monoterapia,  
+8 semanas. 
+(D) Linezolida 600 mg EV a cada 12 h, ≥ 6 semanas. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 31 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{119} 
+Paciente com esofagite erosiva grau C (Los Angeles) foi 
+tratado por 8 semanas com Inibidor de Bomba de Prótons 
+(IBP). Qual conduta é recomendada após esse período? 
+ 
+(A) Suspender o IBP se assintomático. 
+(B) Suspender o IBP e iniciar H2-bloqueador. 
+(C) Manter IBP apenas se houver sintomas. 
+(D) Manter IBP em dose de manutenção e repetir a 
+endoscopia.  
+##### 
+ 
+{120} 
+Homem, 40 anos de idade, encaminhado para investigação 
+de alteração persistente no hemograma. Nega problemas de 
+saúde ou uso de medicações. Tem dois filhos com boa saúde, 
+pai faleceu por infarto do miocárdio. Exame clínico sem 
+alterações.  
+ 
+• Exames laboratoriais:  
+Hb: 14,5 g/dL 
+VCM: 88 fL 
+Leucócitos: 2.800/mm3 
+Neutrófilos: 840/mm3 
+Linfócitos: 1.680/mm3 
+Monócitos: 260/mm3 
+Eosinófilos: 20/mm3 
+Plaquetas: 189.000/mm3 
+PCR: normal 
+Anti-HBs: positivo (vacinal) 
+Hepatite C: negativa 
+HIV: negativa 
+ 
+Em relação ao caso apresentado, o exame com maior 
+probabilidade de contribuir para o diagnóstico é: 
+ 
+(A) Avaliação de medula óssea. 
+(B) Fenotipagem eritrocitária do sistema Duffy. 
+(C) Imunofenotipagem de sangue periférico. 
+(D) Esfregaço de sangue periférico. ##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 32 ---
+

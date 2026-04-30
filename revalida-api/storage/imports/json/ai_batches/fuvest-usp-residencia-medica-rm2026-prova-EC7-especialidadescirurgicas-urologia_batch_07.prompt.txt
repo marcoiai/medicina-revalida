@@ -1,0 +1,368 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+mbólica – angioplastia. 
+(C) Oclusão arterial trombótica – tromboembolectomia. 
+(D) Oclusão arterial embólica – tromboembolectomia. 
+##### 
+
+
+--- PAGE 22 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Urologia – PROVA EC7 
+{82} 
+Mulher, 60 anos de idade, portadora de insuficiência renal 
+crônica dialítica através de uma prótese de PTFE braquioaxilar 
+em braço direito, apresenta-se com obstrução do acesso, com 
+relato de ter apresentado hipotensão após a última sessão de 
+hemodiálise. 
+Não 
+há 
+sinais 
+infecciosos. 
+A 
+conduta 
+recomendada no caso é: 
+ 
+(A) Instalar um cateter de longa permanência. 
+(B) Trocar a prótese no mesmo membro. 
+(C) Trombectomia seguida de angiografia.  
+(D) Colocar prótese nova no outro membro. 
+##### 
+ 
+{83} 
+Homem, 62 anos de idade, com hipertensão arterial sistêmica 
+apresenta-se com quadro de dor torácica intensa e súbita, 
+com síncope no local. Encontra-se hipertenso no momento do 
+exame no pronto socorro. Realizado a radiografia a seguir: 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a conduta recomendada. 
+ 
+(A) Morfina, oxigênio, nitrato, AAS, betabloqueadores. 
+(B) Controle pressórico álgico e angiotomografia. 
+(C) Trombólise química imediata com alteplase. 
+(D) Cateterismo de urgência para angioplastia. 
+##### 
+ 
+{84} 
+Homem, 88 anos de idade, previamente ativo, sua única 
+comorbidade é a hipertensão arterial sistêmica, apresentou 
+acidente vascular cerebral com perda de força no braço 
+esquerdo. Nos exames investigativos, foi encontrado: 
+velocidade de pico sistólico 320 cm/s na origem da carótida 
+interna esquerda, e 145 cm/s na origem da carótida interna 
+direita; placa suboclusiva na carótida externa direita, 
+fenômeno de roubo de subclávia esquerda e placa calcificada 
+causando estenose significativa em origem da carótida 
+comum direita. O exame de Doppler transcraniano mostrou 
+ausência 
+de 
+atividade 
+embólica, 
+sinais 
+de 
+doença 
+aterosclerótica intracraniana, e teste de apneia positivo para 
+baixa reserva. A conduta recomendada no caso é intervenção 
+na 
+ 
+(A) subclávia esquerda. 
+(B) carótida interna esquerda. 
+(C) carótida externa direita. 
+(D) origem da carótida comum direita. 
+##### 
+ 
+{85} 
+Homem jovem, vítima de trauma, precisou ser submetido a 
+revascularização e fasciotomia do membro inferior. Ao 
+acordar, apresentou impossibilidade de dorsiflexão do pé. 
+Qual nervo deve ter sido afetado para causar este quadro? 
+ 
+(A) Safeno. 
+(B) Fibular. 
+(C) Tibial anterior. 
+(D) Tibial posterior. 
+##### 
+ 
+{86} 
+Mulher, 58 anos de idade, após artroscopia de joelho usou 
+profilaxia medicamentosa contra tromboembolismo venoso 
+por 30 dias. No 42º dia, logo após exercícios de fisioterapia, 
+apresentou dor súbita na perna, com aumento do volume do 
+membro e dor constante. Suspeitando de trombose venosa, 
+foi reintroduzida medicação anticoagulante, e a paciente 
+evoluiu com piora importante da dor e do volume do membro 
+nas 24 horas que se seguiram. Assinale a alternativa que 
+apresenta a hipótese diagnóstica e a conduta recomendada. 
+ 
+(A) Trombose progressiva; anticoagulação plena. 
+(B) Trombose refratária; trombectomia venosa. 
+(C) Síndrome da pedrada; fasciotomia e drenagem. 
+(D) Oclusão arterial; trombectomia arterial. 
+##### 
+ 
+{87} 
+No atendimento de ambulatório, você recebe um paciente de 
+47 anos de idade, não tabagista, não etilista, com seguinte o 
+encaminhamento: “Ao cirurgião, solicito biópsia de linfonodo 
+cervical à direita”. No exame clínico, trata-se de um nódulo 
+pré-auricular de 1 cm à direita, liso, indolor, de consistência 
+cartilagínea e móvel. Assinale alternativa que apresenta a 
+conduta mais adequada. 
+ 
+(A) Biópsia incisional. 
+(B) Biópsia excisional. 
+(C) Biópsia com agulha grossa. 
+(D) Punção biopsia aspirativa por agulha fina. 
+##### 
+ 
+{88} 
+Homem, 52 anos de idade, com úlceras de repetição tem 
+familiares que morreram de neoplasia “da barriga” (sic). Em 
+admissão no pronto-socorro por cólica nefrética, foram 
+realizados exames. Entre os achados, na tomografia de 
+abdome para avaliação urinária, além de cálculos renais e 
+dilatação ureteral esquerda, foram mencionados dois nódulos 
+pancreáticos, mal caracterizados. Após internação para 
+procedimento urológico, houve resultados de cálcio total de 
+14,5 mg/dL (normal 8,6-10,3 mg/dL) e o paratormônio de  
+312 pg/mL (elevado para o método). Pode-se afirmar que o 
+provável diagnóstico se trata de neoplasia endócrina múltipla 
+do tipo 
+ 
+(A) 1 
+(B) 2a. 
+(C) 2b. 
+(D) 3. 
+##### 
+ 
+
+
+--- PAGE 23 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Urologia – PROVA EC7 
+{89} 
+Homem, 62 anos de idade, tabagista de 20 anos-maço, não 
+etilista, refere ter observado nódulo cervical um pouco abaixo 
+da mandíbula há 3 meses. Ele nega febre, dor, sinais 
+flogísticos, 
+transfusões, 
+viagem 
+para 
+outras 
+regiões, 
+emagrecimento. Ao exame físico, observa-se um nódulo de 3 
+cm no triângulo carotídeo direito, móvel, indolor e um pouco 
+endurecido. A principal suspeita, nesse caso, deve ser 
+ 
+(A) paraganglioma. 
+(B) neoplasia maligna. 
+(C) anomalia congênita. 
+(D) linfonodomegalia reacional. 
+##### 
+ 
+{90} 
+Homem, 32 anos de idade, previamente hígido, procura o 
+pronto-socorro quatro dias após a extração do segundo dente 
+molar inferior esquerdo. Há 2 dias, ele apresenta picos febris, 
+queda do estado geral e aumento do volume cervical. Ao 
+exame físico, há drenagem purulenta no local da extração, 
+entre os pontos de sutura da mucosa. O pescoço está 
+aumentado e com hiperemia, principalmente na região 
+submandibular. O diagnóstico e uma possível complicação 
+são, respectivamente, 
+ 
+(A) actinomicose e sepse. 
+(B) cisto dentígero e necrose de mandíbula. 
+(C) abscesso cervical e necrose de mandíbula. 
+(D) angina de Ludwig e obstrução respiratória. 
+##### 
+ 
+{91} 
+Mulher, 43 anos de idade, apresenta mal-estar com tremores 
+nas mãos, vasodilatação periférica, agitação psicomotora e 
+palpitação. Ao exame físico, há um aumento difuso da tireoide. 
+Não há exoftalmo ou mixedema pré-tibial. A dosagem de TSH 
+foi inferior a 0,01 mUI/mL e T4 livre de 2,2 ng/dL. Assinale a 
+melhor alternativa referente ao caso apresentado. 
+ 
+(A) hipertireoidismo, 
+tireoidite, 
+hipocaptação 
+difusa 
+na 
+cintilografia com iodo 131. 
+(B) hipertireoidismo, tireoidite, hipercaptação difusa na 
+cintilografia com iodo 131. 
+(C) tireotoxicose, 
+tireoidite, 
+hipocaptação 
+difusa 
+na 
+cintilografia com iodo 131. 
+(D) tireotoxicose, 
+tireoidite, 
+hipercaptação 
+difusa 
+na 
+cintilografia com iodo 131. 
+##### 
+ 
+{92} 
+Mulher, 72 anos de idade, é levada ao pronto-socorro com 
+insuficiência respiratória. Os familiares relatam que ela estava 
+bem até o mês passado. Há muitos anos, ela teve nódulos na 
+região anterior do pescoço, mas há três semanas, houve um 
+crescimento muito rápido, levando a uma piora progressiva da 
+voz e da respiração. A hipótese mais provável é: 
+ 
+(A) Carcinoma anaplásico da tireoide. 
+(B) Carcinoma papilífero da tireoide. 
+(C) Carcinoma folicular da tireoide. 
+(D) Carcinoma medular da Tireoide. 
+##### 
+ 
+{93} 
+Homem, 35 anos de idade, é admitido no período manhã para 
+realizar tireoidectomia agendada para o período da tarde, 
+devido a um nódulo de tireoide Bethesda IV. Devido ao 
+cancelamento 
+da 
+primeira 
+operação, 
+o 
+paciente 
+foi 
+encaminhado para o centro cirúrgico. Ele foi considerado ASA 
+I e não teve avaliação pré-anestésica. Diferente do registro 
+prévio em prontuário, na sua anamnese, o paciente relata que, 
+inesperadamente, tem episódios de mal-estar com palidez 
+cutânea e sudorese. Em um desses episódios, a pressão 
+arterial foi aferida em 190×120 mmHg. No exame físico, palpa-
+se uma massa abdominal de 5 cm no quadrante superior 
+esquerdo. No momento, os parâmetros clínicos são normais. 
+A atitude recomendada e o possível diagnóstico são, 
+respectivamente, 
+ 
+(A) suspender a operação; feocromocitoma. 
+(B) suspender a operação; tumor pancreático produtor de 
+Polipeptídeo Vasointestinal (VIP). 
+(C) manter a operação; carcinoma medular da tireoide. 
+(D) manter a operação; paraganglioma intratireoideo. 
+##### 
+ 
+{94} 
+Homem, 42 anos de idade, previamente hígido, procura o 
+pronto-socorro com dor lombar esquerda intensa, de início 
+súbito há 12 horas, irradiada para a região inguinal. Refere 
+episódios de náuseas e uma febre não aferida nas últimas 
+horas. Ao exame físico, apresenta dor à palpação profunda do 
+flanco esquerdo e sinal de Giordano positivo. Apresenta PA de 
+130×80 mmHg, FC de 98 bpm, e temperatura axilar de 
+37,8 °C. O sedimento urinário mostra hematúria microscópica 
+e piúria. A tomografia computadorizada de abdome e pelve, 
+sem contraste, evidencia cálculo de 7 mm em ureter distal 
+esquerdo, com discreta hidronefrose ipsilateral. Durante o 
+acompanhamento no setor de observação, o paciente mantém 
+febre (38,3 °C), dor persistente, mesmo após analgesia 
+adequada, e redução da diurese. Com relação às regras de 
+conduta a serem realizadas, assinale a alternativa correta. 
+ 
+(A) Realizar ressonância magnética, por ser o exame de 
+imagem com melhor sensibilidade e especificidade para 
+diagnóstico de cálculos urinários e quadro inflamatório 
+infeccioso, sendo superior à tomografia. 
+(B) Terapia medicamentosa expulsiva deve ser oferecida para 
+pacientes com cálculos ureterais recém diagnosticados < 
+10 mm, independentemente do quadro infeccioso. 
+(C) Pacientes com cálculo ureteral e história clínica sugestiva 
+de infecção urinária devem ser submetidos à nefrostomia 
+ou colocação de cateter duplo J. 
+(D) Cálculos ureterais com sinais de infecção urinária podem 
+ser tratados ambulatorialmente com antibióticos orais e 
+anti-inflamatórios, se paciente sem comorbidades. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 24 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Urologia – PROVA EC7 
+{95} 
+Homem, 55 anos de idade, com quadro de dor lombar direita e perda de 10 kg de peso em 6 meses. Em investigação, realizou 
+exame de tomografia que evidenciou extensa lesão renal direita com trombo tumoral progredindo para interior da veia renal direita 
+chegando até cava infradiafragmática e ausência de linfonodomegalias. Tomografia de tórax com micro nódulos de 0,5 cm 
+inespecíficos.  
+ 
+• Exames laboratoriais:  
+Hb: 10 g/dL 
+Ht: 30,5 
+Cr: 1,7 mg/dL 
+U: 75mg/dL 
+Albumina: 3,0 g/L 
+PCR: 15 mg/L 
+ 
+O exame de imagem confirmatório pode ser observado nas imagens a seguir: 
+ 
+ 
+ 
+Em relação ao diagnóstico e conduta recomendada para esse paciente, assinale a alternativa correta. 
+ 
+(A) Paciente tumor renal localmente avançado; tratamento sistêmico com cisplatina para cito redução e cirurgia após. 
+(B) Paciente com tumor metastático em cava; tratamento sistêmico seguido de radioterapia. 
+(C) Paciente com tumor renal localmente avançado; nefrectomia radical fireita com trombectomia de cava. 
+(D) Paciente com doença avançada; tratamento paliativo com controle de sintomas. 
+##### 
+ 
+{96} 
+Homem, 32 anos de idade, com histórico de comportamento sexual de risco e múltiplos parceiros, sem uso regular de preservativos. 
+Apresenta lesão ulcerada indolor em genitália há 14 meses, que regrediu espontaneamente. Na época, foi diagnosticado com sífilis 
+primária com testes positivos: FTA-ABS reagente e VDRL 1:64. Sorologias para HIV, hepatite B e C foram negativas. Recebeu 
+tratamento com penicilina benzatina (2,4 milhões UI, dose única). Retorna um ano após o tratamento, assintomático, com novo 
+VDRL mostrando título de 1:4, e FTA-ABS continua reagente. Assinale a alternativa que apresenta a interpretação mais adequada 
+para o caso descrito. 
+ 
+(A) Falha terapêutica –posologia adequada seriam 3 doses. Deve ser tratado novamente com penicilina cristalina ou esquema 
+alternativo. 
+(B) Reinfecção mesmo sem informar lesão genital – novo tratamento está indicado devido à persistência do FTA-ABS reagente. 
+(C)

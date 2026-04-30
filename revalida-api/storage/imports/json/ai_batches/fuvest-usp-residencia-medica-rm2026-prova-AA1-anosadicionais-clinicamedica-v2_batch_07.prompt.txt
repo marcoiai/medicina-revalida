@@ -1,0 +1,405 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ Artrite reativa. 
+(C) Artrite reumatoide. 
+(D) Artrite psoriásica. ##### 
+{82} 
+Homem, 58 anos de idade, com cirrose alcoólica e 
+insuficiência cardíaca de fração de ejeção preservada com 
+PSAP de 58 mmHg, apresenta dispneia progressiva e derrame 
+pleural direito volumoso recorrente, além de ascite moderada. 
+À admissão na emergência, apresentava SpO2 de 90% em ar 
+ambiente e FR de 28 irpm. Realizada paracentese diagnóstica 
+com gradiente soro–líquido ascítico de albumina de 1.5 g/dL 
+e contagem de neutrófilos de 80 células/mm³. Em relação ao 
+caso descrito, a conduta mais adequada é: 
+ 
+(A) Morfina e albumina 1 g/kg. 
+(B) Repetir toracocentese de alívio. 
+(C) Inserção de dreno tubular de tórax. 
+(D) Derivação portossistêmica intra-hepática transjugular. 
+##### 
+ 
+{83} 
+Mulher, 58 anos de idade, previamente hígida, é admitida com 
+febre alta, cefaleia intensa, rigidez de nuca e confusão mental 
+há 2 dias. A punção lombar revela: aspecto turvo; proteínas 
+350 mg/dL (normal até 45 mg/dL); glicose 20 mg/dL (glicemia 
+capilar: 110 mg/dL); leucócitos 1.500/mm³ (90% neutrófilos); 
+cultura do líquor positiva para Streptococcus pneumoniae. 
+Após 5 dias de antibioticoterapia com ceftriaxona + 
+vancomicina, a paciente apresenta novo quadro de 
+rebaixamento do nível de consciência e hemiparesia à direita. 
+Realizada tomografia de crânio apresentada a seguir: 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta a melhor conduta. 
+ 
+(A) Iniciar anticoagulação plena por suspeita de trombose 
+venosa cerebral. 
+(B) Iniciar corticoide e indicar monitorização invasiva da 
+pressão intracraniana. 
+(C) Solicitar angiotomografia cerebral e iniciar corticoide. 
+(D) Ampliar cobertura antimicrobiana para bactérias Gram-
+negativas multirresistentes. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 23 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Clínica Médica – PROVA AA1 
+{84} 
+Homem, 38 anos de idade, portador de HIV em tratamento irregular, apresenta-se com história de febre diária, sudorese noturna, 
+emagrecimento (8 kg em 2 meses), tosse seca e dor torácica pleurítica há 1 semana. No exame físico, paciente emagrecido com 
+peso de 56 kg, frequência cardíaca de 106 bpm, pressão arterial 105×70 mmHg, bulhas cardíacas hipofonéticas e presença de 
+atrito pericárdico. Apresenta turgência jugular discreta, sem edema periférico. O ecocardiograma revela pericárdio com derrame 
+moderado, sem sinais de restrição ou tamponamento. Foram realizados os exames a seguir: 
+ 
+ 
+• Exames laboratoriais: 
+CD4: 132/mm3 
+Carga viral: detectável 
+Hb: 10,2 g/dL 
+Leucócitos: 4.500/mm3 
+Plaquetas: 180.000/mm3 
+Cr: 0,9 mg/dL 
+Ur: 54 mg/dL 
+VHS: 82 mm 
+PCR: 14 mg/L 
+ 
+ 
+ 
+ 
+Fonte: Escola ECOPE (relato de caso) 
+ 
+Em relação ao caso descrito, assinale a alternativa que apresenta a conduta inicial mais adequada para investigação e manejo 
+neste paciente. 
+ 
+(A) Iniciar tratamento empírico para tuberculose, além de ibuprofeno 600 mg 8/8h e colchicina 0,5 mg 12/12h para tratamento de 
+pericardite, sem necessidade de punção pericárdica. 
+(B) Iniciar tratamento sintomático para pericardite com ibuprofeno 600 mg 8/8h. Considerar colchicina 0,5 mg 12/12h e tratamento 
+para tuberculose após punção do líquido pericárdico. 
+(C) Iniciar tratamento com antibiótico empírico para tuberculose visto paciente com HIV, sem necessidade de punção caso paciente 
+permaneça sem sinais de tamponamento e responda bem ao tratamento antibiótico. 
+(D) Realizar punção do líquido pericárdico para investigação etiológica e iniciar tratamento sintomático com ibuprofeno 600 mg 
+8/8h, colchicina 0,5 mg 1 vez ao dia; iniciar tratamento para tuberculose e considerar corticoide, se confirmado este diagnóstico. 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 24 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Clínica Médica – PROVA AA1 
+{85} 
+Mulher, 73 anos de idade, submetida à colocação de prótese 
+de quadril de emergência. Está em uso de dipirona, morfina, 
+heparina profilática, ondansetrona e cefazolina profilática. No 
+pós-operatório, apresentou fibrilação atrial com FC de 96 bpm, 
+sem instabilidade hemodinâmica e autolimitada. Ao exame 
+físico, foi notado um bócio pequeno. Exames laboratoriais 
+apresentaram T4 livre de 3,2 ng/dL e TSH de 2,8 mIU/L (ref.: 
+0,4 a 4,0 mIU/L). Assinale a alternativa que apresenta a 
+explicação mais adequada para as alterações dos exames. 
+ 
+(B) Bócio multinodular difuso tóxico. 
+(A) Interferente na dosagem de T4 livre. 
+(C) Tireotoxicose induzida por medicação. 
+(D) Doença de Graves em fase inicial. 
+##### 
+ 
+{86} 
+Homem, 96 anos de idade, viúvo há quatro anos, mora 
+sozinho, dirige seu veículo regularmente e realiza suas 
+atividades diárias sem ajuda. Durante consulta de rotina, os 
+filhos expressam preocupação com sua segurança, sugerindo 
+que ele não more mais sozinho e que pare de dirigir. A 
+conduta mais adequada é: 
+ 
+(A) Primeiro orientar parar de dirigir e, depois, morar com os 
+filhos. 
+(B) Primeiro orientar morar com os filhos e, depois, parar de 
+dirigir. 
+(C) Avaliar as habilidades cognitivas, físicas e funcionais. 
+(D) Manter as atividades do paciente e tranquilizar os filhos. 
+##### 
+ 
+{87} 
+Homem, 78 anos de idade, com histórico de depressão, 
+hipertensão arterial, diabetes melito tipo 2 e osteoartrite, faz 
+uso de sertralina, metformina, enalapril, omeprazol e 
+diacereína. Há seis semanas, tem apresentado episódios de 
+diarreia com fezes pastosas, sem febre ou sangue, 
+incontinência fecal ocasional, que impacta sua qualidade de 
+vida. A conduta mais adequada, para o manejo inicial da 
+diarreia, deve incluir: 
+ 
+(A) Iniciar loperamida. 
+(B) Prescrever probióticos. 
+(C) Solicitar retossigmoidoscopia. 
+(D) Suspender a diacereína. 
+##### 
+ 
+{88} 
+Mulher, 87 anos de idade, com perda de 5% do peso corporal 
+nos últimos seis meses, refere engasgos ocasionais, amargor 
+na boca e falta de apetite. Nega sintomas de depressão ou de 
+ansiedade. Tem diabetes e hipertensão tratados com dieta, 
+metformina e losartana. Ao exame clínico, apresenta bom 
+estado geral, sem alterações significativas, com IMC de  
+23,5 kg/m2. Em relação ao caso descrito, assinale a alternativa 
+que apresenta a conduta mais adequada para esta paciente. 
+ 
+(A) Substituir losartana por enalapril. 
+(B) Substituir metformina por dapagliflozina. 
+(C) Flexibilizar uso de sal e carboidratos. 
+(D) Solicitar endoscopia digestiva alta. ##### 
+{89} 
+Homem, 86 anos de idade, diabético, com obesidade 
+sarcopênica, nefropatia diabética (estágio IV) e varizes de 
+membros inferiores, comparece à consulta de rotina com 
+edema em membros inferiores, dificuldade de levantar-se da 
+cadeira e histórico de duas quedas nos últimos quatro meses. 
+A intervenção mais adequada para reduzir o risco de quedas 
+é 
+ 
+(A) tratar a sarcopenia com testosterona. 
+(B) diminuir o edema com hidroclorotiazida. 
+(C) diminuir o peso com dapagliflozina. 
+(D) melhorar o equilíbrio com exercícios multicomponentes. 
+##### 
+ 
+{90} 
+Homem, 79 anos de idade, viúvo há seis meses, mora sozinho, 
+relata dificuldade para manter o sono há três semanas. 
+Costuma dormir facilmente após o jantar, por volta das 20h, 
+mas desperta às 2h da manhã e não consegue voltar a dormir. 
+Refere cansaço ao longo do dia, mas nega sonolência 
+excessiva. A conduta mais adequada é: 
+ 
+(A) Mirtazapina 15 mg. 
+(B) Trazodona 50 mg. 
+(C) Higiene do sono. 
+(D) Polissonografia. 
+##### 
+ 
+{91} 
+Homem, 65 anos de idade, com cirrose hepática Child-Pugh 
+B, 
+em 
+avaliação 
+para biópsia 
+hepática 
+percutânea. 
+Hemodinamicamente estável e sem história prévia de 
+sangramento grave. Apresenta INR de 2,1 e plaquetas de 
+55.000/mm³. 
+A 
+conduta 
+mais 
+adequada 
+antes 
+do 
+procedimento é: 
+ 
+(A) Vitamina K. 
+(B) Plasma fresco congelado ou complexo protrombínico. 
+(C) Transfusão de plaquetas. 
+(D) Nenhum preparo é necessário. 
+##### 
+ 
+{92} 
+Mulher, 57 anos de idade, cirrose hepática Child-Pugh B, 
+internada há dois dias com dor abdominal difusa e sonolência. 
+Estável, sem sangramento ativo ou recente, com programação 
+de 
+paracentese. 
+Exames 
+laboratoriais 
+apresentaram 
+plaquetas de 72.000/mm³ e INR de 1,9. Em relação à 
+tromboprofilaxia, a conduta mais adequada é: 
+ 
+(A) Profilaxia mecânica. 
+(B) Heparina de baixo peso molecular.  
+(C) Rivaroxabana após transfusão de plaquetas. 
+(D) Não há indicação de profilaxia. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 25 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Clínica Médica – PROVA AA1 
+{93} 
+Homem, 28 anos de idade, é atendido após ser ferroado na 
+face por inseto não identificado. Cinco minutos após sentir a 
+ferroada, queixou-se de tontura, visão turva e náuseas, 
+evoluindo com perda da consciência logo a seguir. Uma hora 
+após a ferroada, apresentava eritema com edema em toda 
+face, com PA de 80×50 mmHg, FC de 120 bpm, FR de 22 irpm. 
+O exame laboratorial mais adequado para confirmar o 
+diagnóstico é:  
+ 
+(A) Cortisol sérico. 
+(B) IgE específica. 
+(C) Triptase sérica. 
+(D) Histamina urinária. 
+##### 
+ 
+{94} 
+Homem, 32 anos de idade, com dermatite atópica moderada 
+associada à rinossinusite crônica com pólipos nasais e 
+obstrução 
+nasal 
+grave. 
+Apesar 
+do 
+tratamento 
+com 
+metotrexato, introduzido há seis meses, permanece com baixa 
+resposta terapêutica. Exames complementares: IgE sérica 
+total: 3.500 UI/mL (ref.: < 100 UI/mL); eosinófilos no sangue 
+periférico: 1.200/mm3 Neste momento, o tratamento mais 
+adequado é: 
+ 
+(A) Dupilumabe. 
+(B) Ciclosporina. 
+(C) Omalizumabe. 
+(D) Rituximabe. 
+##### 
+ 
+{95} 
+Mulher, 47 anos de idade, receptora de transplante alogênico 
+de células-tronco hematopoiéticas há 6 meses, encontra-se 
+em uso de prednisona cronicamente. Evolui com neutropenia 
+persistente, febre refratária a antibióticos de amplo espectro e 
+alteração em tomografia de tórax, que é apresentada na 
+imagem a seguir: 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta o tratamento mais adequado. 
+ 
+(A) Itraconazol. 
+(B) Voriconazol. 
+(C) Anfotericina B. 
+(D) Micafungina. 
+##### 
+{96} 
+Mulher, 35 anos de idade, acabou de descobrir que está 
+grávida. Tem parceiro único, HIV positivo com carga viral entre 
+indetectável e 1.000 cópias/mL. Faz uso de PREP HIV e 
+preservativo eventual, último contato desprotegido há dois 
+dias. A orientação mais adequada para a paciente inclui: 
+ 
+(A) Suspender PREP até a 12ª semana de gestação e 
+reintroduzir após teste rápido negativo para HIV e outras 
+ISTs. 
+(B) Suspender PREP, realizar teste rápido para HIV e outras 
+ISTs e, se negativos, iniciar PEP. 
+(C) Manter PREP, realizar teste rápido para HIV e outras ISTs. 
+(D) Manter PREP, solicitar teste rápido para HIV e pesquisa de 
+outras ISTs na 12ª semana. 
+##### 
+ 
+{97} 
+Homem, 17 anos de idade, com tosse produtiva há dois 
+meses, perda ponderal, sudorese e febre noturna, foi 
+internado para investigação. Além de manter isolamento, a 
+orientação mais adequada quanto às precauções é: 
+ 
+ 
+Respiratória 
+Contato 
+Quarto 
+privativo 
+Máscara 
+(A) 
+Aerossol 
+Sim 
+Não 
+N95 
+(B) 
+Aerossol 
+Não 
+Sim 
+N95 
+(C) 
+Gotícula 
+Não 
+Não 
+Cirúrgica 
+(D) 
+Gotícula 
+Sim 
+Sim 
+Cirúrgica 
+##### 
+ 
+{98} 
+Mulher, 38 anos de idade, com doença de Crohn e diarreia 
+crônica, em uso de azatioprina. É internada para tratamento 
+de pneumonia e desconforto respiratório. Evoluiu com injúria 
+renal aguda. Ao exame clínico, apresenta-se alerta, com PA 
+de 110×70 mmHg, FC de 90 bpm, FR de 32 ipm, SpO2 de 
+90%, temperatura de 37,9 °C, ausência de edema de 
+membros inferiores. Ultrassonografia à beira do leito com veia 
+cava inferior de 1,8 cm de diâmetro com variabilidade de 
+cerca de 50% com a inspiração. 
+ 
+• Exames laboratoriais: 
+Cr: 2,9 mg/dL 
+Ur: 178 mg/dL 
+K+: 4,3 mEq/L 
+Na+: 137 mEq/L 
+pH: 7,49 
+HCO3-: 12,0 mmol/L 
+PaCO2: 19,0 mmHg 
+Lactato: 15 mg/dL 
+ 
+Em relação ao caso apresentado, o distúrbio ácido-base 
+primário e o tratamento mais adequado são

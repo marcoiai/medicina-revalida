@@ -1,0 +1,385 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ender desta avaliação, pode 
+ser necessária uma avaliação genética tanto do receptor, 
+como do doador. 
+(C) Um indivíduo com menos de 30 anos de idade pode doar 
+o rim para sua mãe, portadora de doença renal policística 
+autossômica 
+dominante, 
+se 
+tiver 
+um 
+exame 
+de 
+ultrassonografia mostrando a presença de apenas 1 cisto 
+renal. 
+(D) Indivíduos com duas artérias renais em um dos dois rins, 
+não deve ser doador, já que apresenta um risco maior de 
+desenvolver doença renal crônica no futuro. 
+##### 
+ 
+{05} 
+O uso de Imunoglobulina Intravenosa Humana (IVIg) é uma 
+das medicações utilizadas no processo de dessensibilização 
+de pacientes com altos títulos de anticorpos anti-HLA e no 
+tratamento de rejeição mediada por anticorpo. Sobre sua 
+administração, é correto afirmar:  
+ 
+(A) A 
+infusão 
+de 
+IVIg 
+pode 
+causar 
+nefrotoxicidade, 
+especialmente nas formulações que utilizam aminoácidos 
+como diluente.  
+(B) Meningite asséptica é um efeito colateral comum e está 
+associado à condição de hiperosmolaridade. 
+(C) Preparações de IVIg que utilizam açúcar como diluente, 
+especialmente a maltose e sacarose, podem causar falsa 
+hiperglicemia durante sua infusão.  
+(D) A meia-vida da IVIg é de 7 a 10 dias.  
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Transplante de Rim - Nefrologia – PROVA A20 
+{06} 
+Homem, 61 anos de anos de idade, portador de nefropatia 
+diabética, foi submetido à transplante renal com doador 
+falecido, do sexo masculino, de 26 anos de idade. Teve boa 
+evolução no pós-operatório, com queda espontânea da 
+creatinina, sem necessidade de diálise após o transplante. Foi 
+retirada a sonda vesical no 3º dia pós-operatório e o ultrassom 
+Doppler do rim transplantado no 4º dia pós-operatório foi 
+normal. O paciente apresentava-se bem em consultas 
+ambulatoriais, com creatinina sérica entre 1,3 a 1,5 mg/dL 
+(taxa de filtração glomerular estimado pelo MDRD entre 48 a 
+54 mL/min), até que no 2º mês após o transplante, passou a 
+referir abaulamento na região da fossa ilíaca do rim 
+transplantado. Sua função renal estava inalterada e o paciente 
+não apresentava queixas de alteração miccional ou febre, 
+apenas leve desconforto no local. O plantonista solicitou 
+exame 
+de 
+ultrassonografia 
+seguido 
+de 
+tomografia 
+computadorizada que mostrou uma coleção de cerca de 500 
+mL ao redor do enxerto renal como mostra a imagem a seguir:  
+ 
+ 
+ 
+Com base no caso descrito, é correto afirmar: 
+ 
+(A) A punção esvaziadora da coleção é a conduta mais 
+adequada neste caso e deverá ser repetida toda semana 
+até que a coleção desapareça. 
+(B) Marsupialização cirúrgica da coleção não estaria indicada 
+neste caso, por ser invasivo. 
+(C) A punção da coleção para análise bioquímica do líquido 
+estaria bem indicada. Neste caso, espera que os valores 
+de sódio, creatinina e potássio do fluido sejam 
+semelhantes aos valores encontrados no soro do paciente. 
+(D) O diagnóstico mais provável é de fístula urinária e o 
+paciente deverá ser tratado com a passagem de cateter 
+de duplo jota. 
+##### 
+ 
+{07} 
+Na avaliação clínica do doador vivo, é correto afirmar: 
+ 
+(A) Indivíduos 
+que 
+apresentam 
+relação 
+urinária 
+de 
+microalbumina/creatinina maior que 30 devem ser 
+excluídos como possíveis doadores, devido à suspeita de 
+doença renal incipiente. 
+(B) Pacientes com cálculos renais bilaterais podem ser 
+doadores de rim, se tiverem cálculos com dimensões 
+menores que 4 mm. 
+(C) Hematúria no doador deve ser investigada somente com a 
+realização de cistoscopia e urocultura. 
+(D) Só devem ser recusados os doadores com histórico  
+de 3 ou mais cálculos renais. 
+##### 
+ 
+{08} 
+Com relação ao tratamento preemptivo para infecção por 
+citomegalovírus que consiste em monitoração do CMV no 
+sangue do paciente transplantado, em intervalos regulares, 
+para detecção precoce da replicação viral, assinale a 
+alternativa correta.  
+ 
+(A) Com a terapia preemptiva é possível reduzir a taxa de CMV 
+tardio, permitindo o uso de medicação de forma mais 
+seletiva, diminuindo o custo e a toxicidade das 
+medicações. 
+(B) A coordenação com relação à logística de coleta e 
+checagem dos resultados, assim como o início precoce da 
+terapia após a positividade, são questões pouco 
+relevantes que não influenciam o sucesso desta estratégia.  
+(C) A terapia preemptiva com coletas de sangue 1 vez na 
+semana por um período de 3 a 4 meses não deve ser 
+utilizada em receptor CMV IgG+ que tenha recebido rim 
+de doador CMV IgG+. 
+(D) Os níveis de viremia com a terapia preemptiva devem ser 
+interpretados da mesma maneira em receptores CMV 
+IgG+/doador IgG- e receptores CMV IgG-/doador IgG+. 
+##### 
+ 
+{09} 
+Sobre as complicações vasculares após o transplante, é 
+correto afirmar:  
+ 
+(A) A estenose de artéria renal é sempre causada por 
+acotovelamento da artéria decorrente da desproporção 
+entre o tamanho da artéria e da veia renal. 
+(B) A trombose de artéria renal cursa na maior parte dos casos 
+com dor no enxerto renal e hematúria macroscópica. 
+(C) Existe uma maior incidência de estenose de artéria renal 
+nos primeiros 6 meses de transplante, decorrente da 
+agressão traumática da íntima arterial durante a 
+manipulação do vaso e do enxerto. 
+(D) A ligadura ou trombose de uma artéria polar inferior está 
+associada à maior incidência de linfocele. 
+##### 
+ 
+{10} 
+Com relação ao sistema de Histocompatibilidade Humana 
+(HLA), assinale a alternativa correta. 
+ 
+(A) Os antígenos HLA de classe I estão expressos nas 
+superfícies de todas as células nucleadas, das plaquetas 
+e das hemácias e os antígenos de classe II estão 
+expressos apenas na superfície dos linfócitos B e das 
+células endoteliais do órgão doado. 
+(B) Os antígenos HLA são as proteínas humanas, codificadas 
+por genes no braço curto do cromossoma 6, por este 
+motivo são pouco polimórficas com apenas 1 alelo por loci. 
+(C) Antígenos de classe I e II são codificados pelo mesmo 
+gene, e tem como principal função a apresentação de 
+antígenos, o que ocorre na fenda da molécula. 
+(D) Os antígenos HLA de classe II estão expressos na 
+superfície das células apresentadoras de antígenos 
+(APCs), linfócitos B e macrófagos e nas células imunes 
+ativadas (ex. célula endotelial do órgão transplantado).  
+##### 
+ 
+ 
+ 
+ 
+ 
+Coleção 
+líquida 
+500 mL 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Transplante de Rim - Nefrologia – PROVA A20 
+{11} 
+Quanto aos mecanismos de ação e metabolismo das drogas 
+imunossupressoras, assinale a alternativa correta. 
+ 
+(A) A ciclosporina reduz a recirculação enterohepática do 
+micofenolato, diminuindo a área sob a curva do ácido 
+micofenólico em até 40% quando comparada ao tacrolimo. 
+(B) Assim como o tacrolimo, o everolimo se liga à FKBP12 e 
+inibe a 
+calcineurina, 
+mas 
+age, 
+preferencialmente, 
+interferindo na via de sinalização desencadeada pelo sinal 
+3 de ativação através da inibição da mTOR. 
+(C) A ciclosporina e o tacrolimo interferem, tanto na via de 
+sinalização desencadeada pelo sinal 1 de ativação através 
+da inibição da calcineurina, quanto na via de sinalização 
+desencadeada pelo sinal 2 de ativação através da inibição 
+da produção de interleucina 2. 
+(D) O micofenolato age através do bloqueio da síntese de 
+novo das purinas de todas as células nucleadas. 
+##### 
+ 
+{12} 
+Sobre a realização de transplante renal com doador falecido 
+em pacientes priorizados por falência de acesso, assinale a 
+alternativa correta. 
+ 
+(A) Pelo caráter de urgência para o procedimento, não é 
+necessária compatibilidade ABO para a realização do 
+transplante renal. 
+(B) Quando priorizados em lista, os pacientes transplantam 
+mais rapidamente. Assim, estes pacientes apresentam os 
+melhores desfechos em relação à sobrevida global e do 
+enxerto. 
+(C) Pela necessidade de maior ganho de função renal para 
+estes pacientes, o uso rotineiro de dois rins do mesmo 
+doador está sempre indicado. 
+(D) Trata-se 
+de 
+um 
+perfil 
+de 
+pacientes 
+com 
+maior 
+complexidade clínica, incluindo maior prevalência de 
+pacientes sensibilizados. Deve-se atentar para adequado 
+manejo imunossupressor – entretanto, observa-se que a 
+perda de enxerto em decorrência de óbito do paciente é 
+mais frequente do que a perda por rejeição. 
+##### 
+ 
+{13} 
+Sobre o diagnóstico e monitorização do CMV após o 
+transplante, é correto afirmar: 
+ 
+(A) Os pacientes soronegativos para CMV que recebem um 
+enxerto de doador CMV positivo devem receber tratamento 
+profilático com ganciclovir endovenoso ou valganciclovir 
+por 6 meses. Após este período, o risco de infecção é 
+muito baixa e não justifica a monitorização de viremia 
+periodicamente. 
+(B) A identificação de partículas virais, proteína ou ácido 
+nucleico, em qualquer fluido corporal ou tecido, mesmo na 
+ausência de sintomas, define o termo “doença por CMV”. 
+(C) Na doença invasiva, a identificação de alterações 
+citopáticas ou detecção de antígenos do CMV por imuno-
+histoquímica são considerados padrão-ouro para o 
+diagnóstico do CMV. 
+(D) A doença invasiva em trato gastrointestinal está sempre 
+associada à elevada viremia no sangue. 
+##### 
+ 
+ 
+ 
+{14} 
+É critério necessário para priorização em lista de espera para 
+transplante renal com doador falecido devido falência de 
+acesso para diálise: 
+ 
+(A) Paciente deve ter feito uso de ao menos um cateter em veia 
+subclávia. 
+(B) Em caso de esgotamento de acesso vascular, paciente 
+deve ter iniciado regime de diálise peritoneal (na ausência 
+de contraindicação clínica para tal modalidade de diálise). 
+(C) Evidência de trombose extensa de veia cava inferior, 
+impossibilitando passagem de cateter em veias femorais. 
+(D) Candidato a retransplante renal que perdeu o primeiro 
+transplante 
+em 
+decorrência 
+de 
+suspensão 
+de 
+imunossupressão no contexto de evento infeccioso. 
+##### 
+ 
+{15} 
+Homem, 19 anos de idade, portador de insuficiência renal 
+crônica secundária à glomeruloesclerose segmentar e focal, 
+realizou primeiro transplante renal com doador vivo parente 
+(tio). O paciente nunca havia recebido transfusão sanguínea 
+prévia, tinha 6 disparidades HLA com o tio em lócus A, B e DR 
+e tinha reatividade contra painel (PRA) por luminex negativo 
+(0%). A cirurgia transcorreu bem, sem intercorrências e o 
+paciente apresentou diurese imediata e queda da creatinina 
+satisfatória até o 3º dia PO. O esquema imunossupressor 
+utilizado foi basiliximabe, como indução, e manutenção com 
+tacrolimo (0,2 mg/kg/dia), micofenolato sódico (1.440 mg/dia) 
+e prednisona (40 mg/dia). No 4º dia PO, o paciente apresentou 
+diminuição da diurese, ganho de peso e aumento de 
+creatinina, como mostra a tabela a seguir. Neste dia (3º dia 
+PO) o nível sérico de tacrolimo era 3,5 ng/mL. A relação 
+proteína/creatinina (g/g) em amostra isolada de urina foi 12 no 
+momento pré- transplante e 3 no 3º dia PO. O USG do rim 
+transplantado mostrou boa perfusão renal, velocidade de 
+artéria 
+renal 
+discretamente 
+aumentada, 
+sem 
+coleção 
+aparente. A tabela a seguir apresenta a evolução clínica e da 
+função renal após o transplante. 
+ 
+Dia de 
+Transplante 
+Creatinina 
+sérica (mg/dL) 
+Diurese 
+mL/24h 
+Peso 
+diário (kg) 
+Pré-transplante 
+11,7 
+300 
+64,2 
+1º dia PO 
+5,7 
+5.200 
+66,7 
+2º dia PO 
+3,0 
+3.300 
+66,2 
+3º dia PO 
+1,7 
+2.200 
+66,0 
+4º dia PO 
+2,0 
+1.000 
+67,8 
+ 
+Com base no caso apresentado, assinale a alternativa correta. 
+ 
+(A) Tratar o paciente com timoglobulina pode ser necessário 
+mesmo que o paciente apresente um infiltrado linfocitário 
+leve (Banff IA) em razão da precocidade da rejeição. 
+(B) O tratamento adequado para este caso seria a realização 
+de plasmaférese precoce, já que o diagnóstico mais 
+provável desse caso seria a recidiva da doença de base 
+(glomeruloesclerose segmentar e focal). 
+(C) O achado histológico de infiltrado linfocitário em túbulos 
+não seria possível, tendo em vista a precocidade do 
+transplante.  
+(D) A conduta mais adequada neste caso é reabordar 
+cirurgicament

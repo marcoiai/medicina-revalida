@@ -1,0 +1,494 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+e. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 26 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{99} 
+Homem, 32 anos de idade, HSH, cisgênero. Apresentou febre, 
+tosse e dispneia progressiva há um mês. Foi internado com o 
+diagnóstico 
+de 
+pneumocistose, 
+com 
+resolução 
+após 
+tratamento específico. PPD 3 mm, contagem de CD4  
+249 células/mm3 e carga viral HIV 119.000 cópias/mL. O 
+tratamento de infecção latente de tuberculose 
+ 
+(A) deve ser realizado, pois paciente apresentou doença 
+definidora de AIDS. 
+(B) deve ser realizado, pois a contagem de CD4 é < 350 
+cels/mL. 
+(C) não deve ser realizado, pois o PPD é < 5 mm. 
+(D) não deve ser realizado, pois o paciente ainda não realizou 
+teste IGRA. 
+##### 
+ 
+{100} 
+Homem, 63 anos de idade, comparece ao pronto-socorro com 
+dor lombar progressiva, dificuldade para caminhar e 
+formigamento em membros inferiores. Exame de PSA total 
+com 1.352,0 ng/mL (ref.: < 4,0 ng/mL). Biópsia da próstata 
+confirmou adenocarcinoma acinar usual presente em 18 de  
+18 fragmentos avaliados. Escore global de Gleason detectado 
+8 (4+4). A ressonância de coluna é mostrada na imagem a 
+seguir: 
+ 
+ 
+ 
+Considerando o caso descrito, assinale a alternativa que 
+apresenta a abordagem mais adequada. 
+ 
+(A) Agonista de GnRH. 
+(B) Orquiectomia bilateral. 
+(C) Radioterapia de coluna total. 
+(D) Artrodese de coluna. 
+##### 
+ 
+ 
+{101} 
+Homem, 65 anos de idade, com hipertensão e diabetes, é 
+conduzido ao pronto-socorro por familiares. Foi visto em seu 
+estado basal às 23h da noite anterior, antes de dormir. Ao 
+despertar às 6h, duas horas antes da chegada ao hospital, foi 
+reconhecido com dificuldade para se comunicar e fraqueza 
+em hemicorpo direito. Exame neurológico: afasia global e 
+hemiparesia à direita, com pontuação na escala NIHSS de 11. 
+Tomografia de crânio e angiotomografia intracraniana arterial 
+com ASPECTS 8, ausência de sinais de hemorragia, sem 
+outras alterações. Decidiu-se por prosseguir com ressonância 
+magnética. O conceito essencial para avaliar a elegibilidade e 
+a terapia de reperfusão aguda são: 
+ 
+(A) Mismatch Difusão-FLAIR ; trombólise química. 
+(B) Mismatch NIHSS-Difusão; trombólise química. 
+(C) Mismatch Difusão-FLAIR; trombectomia mecânica. 
+(D) Mismatch NIHSS-Difusão; trombectomia mecânica. 
+##### 
+ 
+{102} 
+Mulher, 21 anos de idade, com sintomas constitucionais, 
+cervicalgia e episódios de síncope, principalmente ao se 
+levantar. Ao exame clínico, apresenta PA indetectável em 
+membro superior esquerdo e 150×100 mmHg no membro 
+superior direito. A angiotomografia realizada pode ser 
+observada na imagem a seguir: 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta a hipótese diagnóstica mais provável. 
+ 
+(A) Sífilis terciária. 
+(B) Displasia fibromuscular. 
+(C) Vasculite primária de grandes vasos. 
+(D) Aterosclerose precoce familiar. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 27 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{103} 
+Mulher, 70 anos de idade, com dor lombar há mais de 2 anos. 
+Relata piora há 4 meses, com surgimento de dor em aperto e 
+formigamento em nádegas e região posterior de ambas as 
+pernas após caminhar cerca de dois quarteirões, que 
+melhoram com repouso. Ao exame clínico, apresenta piora de 
+dor lombar com a extensão da coluna, sem outras alterações. 
+Neste momento, o tratamento mais adequado para esta 
+paciente deve incluir: 
+ 
+(A) Exercícios físicos e analgesia. 
+(B) Repouso e anti-inflamatórios. 
+(C) Infiltração de canal medular. 
+(D) Intervenção cirúrgica. 
+##### 
+ 
+{104} 
+Mulher, 68 anos de idade, com adenocarcinoma de cólon com 
+metástases peritoneais difusas, tomografia com múltiplos 
+pontos de obstrução, apresenta vômitos incoercíveis, 
+distensão abdominal e dor abdominal intensa. Paciente  
+ECOG 3, emagrecida, com ascite moderada. Assinale a 
+alternativa que indica a conduta mais apropriada: 
+ 
+(A) Octreotide. 
+(B) Nutrição parenteral total. 
+(C) Cirurgia de derivação. 
+(D) Quimioterapia paliativa. 
+##### 
+ 
+{105} 
+Mulher, 46 anos de idade, não tabagista, apresenta dispneia 
+e tosse crônica há seis meses. A tomografia de tórax de alta 
+resolução é mostrada na imagem a seguir: 
+ 
+ 
+ 
+Com base nas informações apresentadas, assinale a 
+alternativa que indica o passo seguinte mais adequado. 
+ 
+(A) Biópsia pulmonar videoassistida. 
+(B) Broncoscopia com lavado broncoalveolar. 
+(C) Investigação de exposições ambientais. 
+(D) Corticoterapia via oral. 
+##### 
+{106} 
+Homem, 70 anos de idade, ex-tabagista com carga tabágica 
+de 50 anos-maço e abstêmio há cinco anos. Faz tratamento 
+para DPOC. Durante a consulta, foi observada uma SpO2 em 
+ar ambiente de 90%. Coletada uma gasometria arterial 
+evidenciando PaO2 de 62 mmHg e pCO2 de 38 mmHg. 
+Antecedentes vacinais incluem vacinação para influenza e 
+pneumococo 23v no ano anterior e três doses para COVID-19 
+há cerca de dois anos. Assinale a alternativa que apresenta a 
+conduta mais apropriada. 
+ 
+(A) Oxigenioterapia domiciliar contínua. 
+(B) Reforço anual das vacinas para influenza, pneumococo 
+(23v) e COVID-19. 
+(C) Reabilitação pulmonar quando houver melhora da 
+hipoxemia. 
+(D) Rastreio de câncer de pulmão com tomografia de tórax de 
+baixa dose. 
+##### 
+ 
+{107} 
+Mulher, 59 anos de idade, internada na UTI por quadro de 
+pneumonia comunitária grave, sob ventilação mecânica. Após 
+12 horas, apresenta piora progressiva da oxigenação. Ao 
+exame clínico, encontra-se com PA de 90×60 mmHg, em uso 
+de noradrenalina 0,15 µg/kg/min, SpO2 de 88%, FiO2 de 100%, 
+em modo controlado a volume com Vc 360 mL (6 mL/kg); FR 
+de 30 irpm; PEEP 8 cmH2O; pressão de platô 28 cmH2O. 
+Radiografia de tórax com opacidades bilaterais extensas. 
+Ecocardiograma: dilatação discreta do ventrículo direito, sem 
+disfunção do ventrículo esquerdo. Assinale a alternativa que 
+apresenta a conduta mais adequada. 
+ 
+(A) Posição prona. 
+(B) Trombólise. 
+(C) Recrutamento alveolar. 
+(D) Diureticoterapia. 
+##### 
+ 
+{108} 
+Mulher, 88 anos de idade, previamente sem comorbidades e 
+com boa funcionalidade, internada com CEC de língua oral, 
+T2N2, 
+EC 
+IVA. 
+Há 
+cinco 
+dias, 
+foi 
+submetida 
+à 
+hemiglossectomia e esvaziamento cervical homolateral, níveis 
+I a III, traqueostomia e passagem de sonda nasoenteral. No 
+momento, encontra-se gemente, sonolenta com FC de 
+110 bpm, PA de 80×60 mmHg e SpO2 de 90%. Além de 
+hidratação e radiografia de tórax, as medidas imediatas mais 
+adequadas, para o caso, são: 
+ 
+(A) Dosagem de cálcio sérico e antibioticoterapia. 
+(B) Analgesia, coleta de culturas e antibioticoterapia. 
+(C) Analgesia e acessar familiares em relação à limitação de 
+suporte. 
+(D) Aspiração da traqueostomia e dosagem de cálcio sérico. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 28 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{109} 
+Homem, 56 anos de idade, é conduzido pelos familiares, pois 
+há um ano está mais desinibido e com alterações de 
+personalidade. 
+Durante 
+a 
+consulta, 
+apresentou 
+um 
+comportamento 
+impulsivo 
+e 
+sem 
+crítica. 
+Ao 
+exame 
+neurológico, apresenta pupilas mióticas não fotorreagentes, 
+redução da sensibilidade vibratória e dificuldade para andar 
+de olhos fechados. A ressonância magnética de encéfalo 
+mostrou discreta atrofia global, sem predileção lobar, e 
+ausência de lesões tumorais ou vasculares. O exame com 
+maior probabilidade de confirmar o diagnóstico é: 
+ 
+(A) Eletroencefalograma sono-vigília. 
+(B) Dosagem da ácido fólico sérico. 
+(C) Líquido cefalorraquidiano com VDRL. 
+(D) PET cerebral com marcador para amiloide. 
+##### 
+ 
+{110} 
+Mulher, 28 anos de idade, sem comorbidades, é conduzida ao 
+pronto-socorro com dificuldade para movimentar os 4 
+membros, incontinência urinária e fecal há 2 dias. Exame 
+neurológico: tetraparesia com força grau II nos 4 membros e 
+nível sensitivo cervical. Foi realizada ressonância magnética 
+que é mostrada na imagem a seguir:  
+ 
+ 
+ 
+Considerando o caso apresentado, o exame laboratorial para 
+confirmação da principal hipótese diagnóstica e o tratamento 
+mais adequado são: 
+ 
+(A) Anticorpo anti-aquaporina-4 em soro; natalizumabe. 
+(B) Anticorpo anti-aquaporina-4 em soro; rituximabe. 
+(C) Bandas oligoclonais em soro e líquor; rituximabe. 
+(D) Bandas oligoclonais em soro e líquor; natalizumabe. 
+##### 
+ 
+ 
+ 
+{111} 
+Homem, 62 anos de idade, apresenta antecedentes de HAS e 
+diabetes melito há cerca de 10 anos. Creatinina basal de  
+1,8 mg/dL. Comparece no pronto-socorro com sintomas de 
+dor importante em membro inferior direito e dificuldade de 
+locomoção nos últimos 10 dias, com piora há um dia, apesar 
+do uso de ibuprofeno. Apresentou piora de função renal, 
+conforme demonstrado na tabela a seguir, que indica os 
+exames de entrada (D0) e de seguimento durante os primeiros 
+dois dias de internação. 
+ 
+ 
+D0 
+D1 
+D2 
+Sangue 
+Cr (ref.: 0,72 a 1,25 mg/dL) 
+5,29 
+6,06 
+6,40 
+Ur (ref.: 9,0 a 44,1 mg/dL) 
+141 
+169 
+176 
+K+ (ref.: 3,5 a 5,1 mEq/L) 
+5,9 
+5,7 
+5,3 
+Na+ (ref.: 135 a 145 mEq/L) 
+134 
+134 
+137 
+pH (ref.: 7,35 a 7,45) 
+7,36 
+7,38 
+7,38 
+HCO3- (ref.: 22 a 29 mmol/L) 
+23,2 
+19,2 
+23,1 
+Glicose  
+(ref.: 70 a 99 mg/dL) 
+175 
+ 
+ 
+Hemoglobina 
+(ref.: 12,8 a 17,8 g/dL) 
+12,3 
+11,5 
+11,7 
+Leucócitos  
+(ref.: 4,12 a 11,11 mil/mm³) 
+1.3050 
+13.470 
+12.240 
+Neutrófilos  
+(ref.: 1,57 a 7,97 mil/mm³) 
+7.310 
+9.730 
+8.170 
+Linfócitos  
+(ref.: 1,13 a 3,31 mil/mm³) 
+3.750 
+2.120 
+2.230 
+Eosinófilos  
+(ref.: 0,00 a 0,59 mil/mm³) 
+470 
+610 
+680 
+Plaquetas  
+(ref.: 162 - 425 mil/mm³) 
+368  
+331 
+345 
+NT-proBNP  
+(ref.: <125 pg/mL) 
+4.657 
+14.249 
+ 
+Urina tipo 1 
+pH (ref.: 5,0 a 6,0) 
+6,0 
+ 
+ 
+Densidade  
+(ref.: 1,015 a 1,025) 
+1,025 
+ 
+ 
+Glicose (mg/dL)  
+(ref.: ausente) 
+250 
+ 
+ 
+Proteínas 
+(ref.: Inferior a 0,05 g/L) 
+>1,0 
+ 
+ 
+Leucócitos  
+(ref.: até 10/campo) 
+41 
+ 
+ 
+Eritrócitos  
+(ref.: até 3/campo) 
+3 
+ 
+ 
+Urocultura (ref.: negativa) 
+Negativa 
+ 
+ 
+ 
+Ultrassonografia dos rins: rim direito mede 10,6 cm (espessura 
+do parênquima: 1,7 cm). Rim esquerdo mede 11,1 cm 
+(espessura do parênquima: 1,6 cm). Em relação ao caso 
+descrito, 
+assinale 
+a 
+alternativa 
+que 
+apresenta, 
+respectivamente, o exame complementar e o tratamento mais 
+adequados.  
+ 
+(A) Biópsia renal; prednisona 1 mg/kg. 
+(B) Hemoglobina glicada; insulinoterapia. 
+(C) Albumina/creatinina em urina de amostra isolada; 
+dapagliflozina. 
+(D) ANCA; metilprednisolona em pulsoterapia. 
+##### 
+
+
+--- PAGE 29 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{112} 
+Homem, 63 anos de idade, portador de insuficiência cardíaca de etiologia isquêmica, classe funcional I e diabetes melito tipo 2 
+bem controlados, faz uso regular de enalapril 20 mg 12/12h, espironolactona 25 mg 24/24h, carvedilol 12,5 mg 12/12h, metformina 
+850 mg antes das refeições e empagliflozina 10 mg uma vez ao dia. Comparece ao PS com relato de 2 episódios de palpitação 
+nesta semana, o primeiro auto-limitado, durando menos de 30 minutos e o segundo iniciado há 3 horas. Nega angina ou piora da 
+dispneia e não tem sinais de descompensação da insuficiência cardíaca ao exame físico. O ECG e o ecocardiograma transtorácico 
+são apresentados a seguir: 
+ 
+ 
+Valor 
+Referência 
+ 
+Valor 
+Referência 
+Aorta 
+35 mm 
+30 a 37 mm 
+DSVE 
+44 mm 
+25 a 40 mm 
+Átrio Esquerdo 
+38 mm 
+30 a 40 mm 
+DDVE 
+60 mm 
+42ª 58 mm 
+Septo 
+9 mm 
+6 a 10 mm 
+Índice de Massa 
+90 g/m² 
+49 a 115 g/m² 
+Parede Posterior 
+9 mm 
+6 a 10 mm 
+FEVE 
+37% 
+> 52% 
+Exame realizado em ritmo regular. 
+Presença de acinesia em segmento basal de parede anterior e hipocinesia das demais paredes. PSAP 42 e ausência de 
+trombos intra-cavitários. 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que apresenta o tratamento mais adequado para este paciente. 
+ 
+(A) Aumentar a dose de carvedilol e iniciar anticoagulação plena. 
+(B) Associar ivabradina ou digoxina e iniciar anticoagula

@@ -1,0 +1,385 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ transfusão de 10 a 15 mL/kg de concentrado de 
+hemácias eleva a concentração de hemoglobina em cerca 
+de 2 a 3 g/dL. 
+(B) O objetivo do uso de filtro de leucócitos nas transfusões de 
+concentrado de hemácias é diminuir o risco de lesão 
+pulmonar aguda relacionada à transfusão. 
+(C) Não existe contraindicação absoluta à transfusão em 
+pacientes com febre. É importante diminuir a febre antes 
+da transfusão, porque o surgimento de febre pode ser um 
+sinal de hemólise ou de outro tipo de reação transfusional. 
+(D) Nenhuma transfusão deve exceder o período de infusão 
+de 4 horas. Quando este período for ultrapassado a 
+transfusão deve ser interrompida e a unidade descartada. 
+##### 
+ 
+{34} 
+Menino, 6 anos de idade, com queixa de cefaleia matinal, 
+vômitos em jato e papiledema. Está lúcido e sem déficits 
+locais. O próximo passo mais adequado é: 
+ 
+(A) Encaminhar para neuroimagem urgente. 
+(B) Solicitar a punção lombar diagnóstica imediata. 
+(C) Deixar o paciente em decúbito dorsal horizontal. 
+(D) Prescrever analgésico e antieméticos, e reavaliar em 48 
+horas. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Pediátricas – PROVA EPD 
+{35} 
+Menino, 4 anos de idade, portador de erro inato de imunidade 
+grave e cardiopatia complexa, é levado ao pronto-socorro 
+com febre há 2 dias, associada a vômitos e episódios 
+recorrentes de cianose súbita, com retorno espontâneo ao 
+estado basal. Ao exame físico, apresenta estado geral regular, 
+bulhas cardíacas normofonéticas sem sopros, perfusão 
+periférica lenta (5 segundos), PA de 60×40 mmHg, FC de  
+210 bpm, tentativas de acesso venoso sem sucesso. Foi 
+realizado o eletrocardiograma apresentado a seguir: 
+ 
+ 
+ 
+Com base no quadro clínico e no achado eletrocardiográfico, 
+assinale a conduta imediata mais adequada. 
+ 
+(A) Desfibrilação. 
+(B) Antibiótico de amplo espectro por IO. 
+(C) Cardioversão elétrica sincronizada. 
+(D) Coleta de exames para o protocolo Phoenix. 
+##### 
+ 
+{36} 
+Menino, 8 meses de vida, mostra-se irritado, choro intenso, 
+regurgitações após a introdução de fórmula infantil à base de 
+proteína do leite de vaca, que ocorreu aos 6 meses de vida. 
+Há 2 semanas, apresentou piora dos sintomas referidos e 
+passou a recusar as mamadas e baixo ganho ponderal. 
+Assinale a alternativa correta. 
+ 
+(A) Doença do refluxo gastroesofágico através dos exames 
+cintilografia e US de abdome. 
+(B) A alergia à proteína do leite de vaca é uma possibilidade 
+diagnóstica e o exame IgE específico para leite de vaca 
+deve ser solicitado para confirmar o diagnóstico. 
+(C) Realizar a prova de exclusão, se a criança apresentar 
+melhora clínica e voltar a ganhar peso, fica confirmado o 
+diagnóstico de alergia alimentar e deve-se manter a 
+fórmula de aminoácidos livres por 1 ano. 
+(D) Doença do refluxo gastroesofágico associado à alergia a 
+proteína do leite de vaca pode ser a causa do desconforto. 
+Para confirmá-la, deve ser realizado a prova de exclusão 
+da proteína do leite e seus derivados por 2 a 4 semanas, 
+seguido sempre pelo teste de provocação oral, mesmo 
+que a criança apresente melhora clínica à dieta de 
+exclusão.  
+##### 
+ 
+{37} 
+Adolescente do sexo feminino, 15 anos de idade, curada de 
+leucemia linfoide aguda, tratada aos 5 anos de idade, com 
+quimioterapia 
+contendo 
+antracíclicos. 
+É 
+importante 
+o 
+seguimento periódico para restreio de 
+ 
+(A) diabetes. 
+(B) cardipatia dilatada. 
+(C) insuficência renal. 
+(D) hipotireoidismo. ##### 
+{38} 
+Menino, 10 anos de idade, apresenta queixa de dor abdominal 
+difusa tipo cólica, diarreia mucossanguinolenta 5 vezes ao dia, 
+aftas recorrentes, poliartralgia, astenia e perda ponderal de  
+5 kg. Os sintomas surgiram há 12 semanas. Nega viagem 
+recente, uso de qualquer medicamento ou contato com 
+alimento ou água contaminada. Assinale a alternativa que 
+apresenta a opção correspondente à hipótese diagnóstica 
+mais provável e qual investigação deve ser realizada. 
+ 
+(A) Síndrome do intestino irritável. Realizar US e endoscopia 
+digestiva alta para confirmar o diagnóstico. 
+(B) Doença inflamatória intestinal. Realizar hemograma com 
+provas 
+inflamatórias, 
+endoscopia 
+digestiva 
+alta, 
+colonoscopia e enterorressonância. Descartar causas 
+infecciosas, dentre elas a tuberculose. 
+(C) Divertículo de Meckel. Solicitar cintilografia com tecnécio 
+e tomografia computadorizada de abdome com contraste. 
+(D) Retocolite ulcerativa. Realizar colonoscopia e não solicitar 
+endoscopia digestiva alta, pois a retocolite ulcerativa 
+acomete apenas o intestino grosso e evitar exames com 
+contraste 
+(entero 
+tomografia 
+computadorizada 
+ou 
+enterossonancia) devido aos efeitos colaterais. 
+##### 
+ 
+{39} 
+Com relação à trombocitopenia imune, assinale a alternativa 
+INCORRETA. 
+ 
+(A) Uma forma benigna da doença ocorre em 80 a 85% das 
+crianças, com recuperação espontânea dos níveis 
+plaquetários dentro de três meses, sem necessidade de 
+tratamento. 
+(B) O principal mecanismo imune que resulta em sangramento 
+deve-se à destruição precoce de plaquetas, por meio do 
+reconhecimento - pelos receptores FC macrofágicos do 
+sistema reticuloendotelial - do complexo de glicoproteínas 
+plaquetárias 
+ligadas 
+a 
+autoanticorpos 
+da 
+classe 
+imunoglobulina G. 
+(C) A maioria das crianças apresenta uma forma benigna da 
+doença e necessita de tratamento nos primeiros dias de 
+evolução, pois raramente recuperam os níveis plaquetários 
+antes de um ano do diagnóstico. 
+(D) A trombocitopenia imune é um diagnóstico de exclusão 
+em que a contagem plaquetária está abaixo de 
+100.000/mm3 e não há outra alteração no hemograma 
+(série vermelha ou branca) ou outras causas associadas. 
+##### 
+ 
+{40} 
+Criança de 5 anos de idade, em tratamento para leucemia 
+mieloide aguda, apresenta febre e neutrófilos de 500/mm³, 
+sem outros sinais ou sintomas. Hemodinamicamente estável. 
+A conduta inicial mais adequada é: 
+ 
+(A) Observar 
+em 
+pronto-socorro 
+por 
+24 
+horas, 
+sem 
+antibioticoterapia. 
+(B) Solicitar hemoculturas e iniciar tratamento, se isolamento 
+de agente infeccioso. 
+(C) Iniciar 
+antibiótico 
+empírico 
+de 
+amplo 
+espectro 
+imediatamente. 
+(D) Iniciar antiviral empírico até esclarecer o quadro. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Pediátricas – PROVA EPD 
+{41} 
+Com relação à Injuria Renal Aguda (IRA) na infância, identifique 
+como verdadeira (V) ou falsa (F) as seguintes afirmações: 
+ 
+(   ) Tanto o aumento da creatinina quanto a diurese são 
+parâmetros independentes para diagnóstico de IRA em 
+pediatria, e juntos aumentam a acurácia do diagnóstico. 
+(   ) O aspecto mais frequente na IRA neonatal é a oliguria. 
+(   ) O uso de furosemida é parte do tratamento da IRA oligúrica, 
+mesmo que haja evidência clínica de hipovolemia. 
+(   ) Aumentos de 0,3 mg/dL na creatinina sérica já são 
+definidores de IRA, e se correlacionam com o prognóstico 
+da criança, mesmo no período neonatal. 
+(   ) A hipervolemia, com volume acumulado acima de 10% do 
+peso corporal, é fator independente para aumento de 
+mortalidade em UTIs pediátricas e neonatais. 
+ 
+Considerando as afirmações, assinale a alternativa que 
+apresenta a sequência correta. 
+ 
+(A) V - F - V - F - F. 
+(B) V - F - F - V - V. 
+(C) F - V - F - V - V. 
+(D) F - V - V - F - F. 
+##### 
+ 
+{42} 
+Garoto de 6 anos de idade, após queda no parquinho, 
+apresentou pequenas lesões na perna, que formaram crostas. 
+Após quase duas semanas, segundo a mãe, a criança estava 
+inchada, e apresentava urina com “cor de Coca-Cola”, 
+levando-o para atendimento médico. No atendimento 
+pediátrico, apresenou edema e hipertensão arterial, com PA 
+acima do P95 para o sexo e estatura. Considerando a mais 
+provável glomerulonefrite que acometeu o paciente, assinale 
+a alternativa correta. 
+ 
+(A) O complemento total está aumentado, na maioria dos 
+casos. 
+(B) Os níveis de IgG e IgM devem estar diminuídos, na maioria 
+dos casos. 
+(C) A fração C3 do complemento deve estar diminuída, na 
+maioria dos casos 
+(D) A fração C4 do complemento retorna ao normal em até  
+12 semanas, na maioria dos casos. 
+##### 
+ 
+{43} 
+Pré-escolar de 3 anos de idade, sexo masculino, comparece 
+à consulta queixando que não quer comer, e a mãe teme que 
+fique desnutrido. A mãe relata que faz de tudo para que o filho 
+coma, mas só aceita alimentos pastosos e líquidos, deixa o 
+biscoito na boca até derreter e tem preferência por alimentos 
+lácteos. Em função disso, a mãe cede e acrescenta 
+suplementos no leite para melhorar a oferta nutricional. A 
+orientação correta é: 
+ 
+(A) Utilizar, inicialmente, a coerção para modificar a 
+preferência alimentar. 
+(B) Evitar o uso de utensílios que a criança rejeite como por 
+exemplo, a colher. 
+(C) Observar clinicamente, pois esse comportamento tende a 
+melhorar espontaneamente até quatro anos de idade. 
+(D) Oferecer alimentos sólidos no almoço e jantar, quando a 
+criança solicitar leite. ##### 
+{44} 
+Pré-escolar, 3 anos de idade, sexo masculino, nascido 
+prematuro, com 27 semanas, 780 g e 36 cm. O paciente 
+evoluiu 
+com 
+hemorragia 
+intraventricular 
+grau 
+IV 
+e 
+comprometimento neurológico (GMFCS V), foi encaminhado 
+para avaliação de quadro de desnutrição e colocação de 
+gastrostomia. Recebe dieta exclusivamente por via oral,  
+5 refeições ao dia (em média 20 minutos cada) com 
+consistência pastosa e líquidos espessados, sem dificuldades 
+para deglutir com a dieta adaptada. A mãe nega quadro 
+convulsivo associado, nunca teve broncopneumonia. Refere 
+que recebeu antibiótico para tratamento de amigdalite aos  
+2 anos e 6 meses, apenas 1 vez, após a alta da maternidade. 
+Nega internações, exceto na ocasião da realização de uma 
+postectomia. 
+Ao 
+exame 
+físico, 
+apresenta-se 
+corado, 
+hidratado, eupneico, contactuante e colaborativo. Sustenta o 
+pescoço, senta sem apoio, anda pequenas distâncias com 
+apoio. 
+Pele 
+e 
+cabelos 
+sem 
+alterações. 
+Apresenta 
+antropometria – 10,1 kg e 85 cm (P/E -1,62; P/I -2,97; E/I -3,23; 
+IMC/I -1,18). Em relação ao estado nutricional do paciente 
+descrito, é correto afirmar: 
+ 
+(A) A classificação nutricional é compatível com desnutrição 
+crônica, pois nasceu PIG e mantém muito baixa estatura 
+para a idade. 
+(B) Com o diagnóstico de desnutrição está indicada a 
+confecção de gastrostomia para complementar a ingestão 
+da dieta por via oral. 
+(C) O paciente encontra-se eutrófico, devendo manter a dieta 
+por via oral e agendar retorno para acompanhar a 
+velocidade de crescimento. 
+(D) O Z-score de peso para idade é compatível com o 
+diagnóstico de desnutrição aguda, com indicação de 
+recuperação nutricional com dieta enteral via sonda 
+nasogástrica. 
+##### 
+ 
+{45} 
+Assinale a alternativa que melhor caracteriza a Síndrome de 
+Guillain-Barré. 
+ 
+(A) É uma doença viral que afeta principalmente os pulmões, 
+causando insuficiência respiratória. 
+(B) É uma doença genética que provoca deterioração 
+cognitiva e perda de memória. 
+(C) É uma condição autoimune que causa fraqueza muscular 
+progressiva e geralmente se apresenta após uma 
+infecção. 
+(D) É uma infecção bacteriana que causa febre alta e 
+erupções cutâneas. 
+##### 
+ 
+{46} 
+Sobre as pneumonias adquiridas na comunidade na infância, 
+assinale a alternativa correta. 
+ 
+(A) A principal etiologia é bacteriana por pneumococo. 
+(B) A principal etiologia é por pneumococo 19A. 
+(C) A proporção de casos com identificação do agente em 
+hemocultura é inferior a 10%. 
+(D) A presença de derrame pleural afasta Mycoplasma 
+pneumoniae como agente etiológico. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Pediátricas – PROVA EPD 
+{47} 
+Menino, 13 anos de idade, apresenta velocidade de 
+crescimento anual de 10 cm, pelos pubianos no estágio 3 de 
+Tanner e testículos de 8 mL. Considerando a fisiologia do 
+crescimento e do estirão puberal, assinale a alternativa 
+correta. 
+ 
+(A) O pico de velocidade d

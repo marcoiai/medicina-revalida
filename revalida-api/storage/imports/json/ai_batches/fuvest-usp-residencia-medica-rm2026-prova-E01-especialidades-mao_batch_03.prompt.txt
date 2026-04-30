@@ -1,0 +1,436 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ da alteração do crescimento da porção palmar/ulnar da 
+fise de crescimento proximal do rádio. 
+##### 
+ 
+{42} 
+Em relação a embriogênese dos MMSS, 
+ 
+(A) o membro superior se forma de distal para proximal, 
+controlado pela Zona Ectodérmica Apical (AER). 
+(B) a maioria das alterações congênitas ocorrem entre a 
+quarta e oitava semana de gestação. 
+(C) a Zona de Atividade Polarizante (ZPA) controla o 
+desenvolvimento dorsoventral. 
+(D) a proteína sonic hedgehog controla a apoptose celular. 
+##### 
+ 
+{43} 
+Em relação a indicação de amputação na macrodactilia, 
+assinale a alternativa correta. 
+ 
+(A) A amputação do polegar deve ser acompanhada pelo 
+segundo dedo. 
+(B) Evitar a amputação transmetacárpica nos dedos centrais. 
+(C) Indicada na presença de dedo único acometido ou 
+crescimento progressivo do dedo. 
+(D) Não deve ser indicada. 
+##### 
+ 
+ 
+ 
+{44} 
+Em relação ao cotovelo na artrogripose, assinale a alternativa 
+correta. 
+ 
+(A) As contraturas em flexão são mais frequentes. 
+(B) A osteotomia do rádio e ulna pode ser utilizada para 
+correção da contratura do cotovelo. 
+(C) A ausência de função do tríceps ocasiona a contratura em 
+extensão. 
+(D) O músculo tríceps está preservado na maioria dos casos. 
+##### 
+ 
+{45} 
+A classificação de Manske na mão em fenda típica se baseia  
+ 
+(A) na presença ou ausência da primeira comissura. 
+(B) na presença ou ausência de “nubbins”. 
+(C) no número de dedos presentes. 
+(D) no comprometimento dos metacarpos. 
+##### 
+ 
+{46} 
+A descompressão do nervo sensitivo radial é entre os 
+músculos/ tendões 
+ 
+(A) braquiorradial e extensor radial curto do carpo. 
+(B) braquiorradial e extensor radial longo do carpo. 
+(C) extensor radial longo do carpo e extensor radial curto do 
+carpo. 
+(D) extensor radial longo do carpo e extensor longo do 
+polegar. 
+##### 
+ 
+{47} 
+Segundo Kanavel, qual o sinal clínico mais confiável e 
+reprodutível para tenossinovite infecciosa? 
+ 
+(A) Edema fusiforme. 
+(B) Dor a extensão passiva dos dedos. 
+(C) Dor a palpação da bainha tendínea. 
+(D) Posição em semiflexão dos dedos. 
+##### 
+ 
+{48} 
+Sobre a anatomia vascular do membro superior, assinale a 
+alternativa correta. 
+ 
+(A) A artéria interóssea comum é normalmente ramo da artéria 
+radial. 
+(B) A artéria radial no punho distal emite um ramo volar para o 
+arco palmar profundo e seu tronco principal se direciona 
+para dorsal em direção a tabaqueira anatômica. 
+(C) A artéria principal do polegar (a. princeps pollicis) é a 
+principal fonte de irrigação deste dígito, localiza-se no lado 
+radial do dedo, e é ramo direto do arco palmar superficial. 
+(D) O tronco principal da artéria axilar passa a se chamar 
+artéria braquial ao ultrapassar o m. redondo maior. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Cirurgia da Mão – PROVA E01 
+{49} 
+Na articulação radio ulnar distal, qual o formato mais comum 
+da fossa sigmoide? 
+ 
+(A) Tipo c. 
+(B) Tipo s. 
+(C) Reta. 
+(D) Rampa de sky. 
+##### 
+ 
+{50} 
+Assinale a alternativa que apresenta uma fratura tipo 3 de 
+capítulo. 
+ 
+(A) Fratura cominuta. 
+(B) Envolve um pequeno pedaço de osso. 
+(C) Estende-se a parte medial da tróclea. 
+(D) Estende-se a parte lateral da tróclea. 
+##### 
+ 
+{51} 
+Assinale a alternativa que apresenta uma contraindicação 
+para uso de fixador externo nas fraturas de rádio distal. 
+ 
+(A) Fraturas do tipo Barton volar. 
+(B) Fraturas cominutivas articulares. 
+(C) Fraturas extrarticulares instáveis. 
+(D) Fraturas com compressão e impacção articular. 
+##### 
+ 
+{52} 
+Uma fratura luxação posterior de Monteggia tipo B envolve 
+uma 
+ 
+(A) cominuição da ulna proximal. 
+(B) fratura do processo coronoide. 
+(C) fratura da metáfise da ulna. 
+(D) fratura da diáfise da ulna. 
+##### 
+ 
+{53} 
+Na técnica de fixação com parafusos interfragmentários para 
+fraturas da diáfise de metacarpo, o comprimento do traço de 
+fratura deve ser, no mínimo, quantas vezes o diâmetro do 
+osso? 
+ 
+(A) duas vezes. 
+(B) duas vezes e meia. 
+(C) três vezes. 
+(D) três vezes e meia. 
+##### 
+ 
+{54} 
+Na paralisia obstétrica, qual parâmetro NÃO faz parte do 
+escore de Mallet modificado? 
+ 
+(A) Rotação externa global. 
+(B) Rotação interna. 
+(C) Adução global do ombro. 
+(D) Abdução global do ombro. 
+##### 
+{55} 
+Assinale a alternativa que apresenta um sítio de compressão 
+do nervo ulnar no cotovelo. 
+ 
+(A) Arcada de Henry. 
+(B) Arcada de Frohse. 
+(C) Ligamento de Struthers. 
+(D) Presença do músculo ânconeo epitroclear. 
+##### 
+ 
+{56} 
+Nas lesões de nervo ulnar, qual técnica cirúrgica pode ser 
+utilizada para correção da deformidade em abdução do dedo 
+mínimo? 
+ 
+(A) Técnica do lasso de Zancolli. 
+(B) Tenodese estática de Parkes com palmar longo. 
+(C) Split do extensor do dedo mínimo. 
+(D) Transferência do extensor radial curto do carpo - técnica 
+de Smith. 
+##### 
+ 
+{57} 
+A luxação palmar do escafoide tipo II envolve a luxação 
+ 
+(A) anterolateral isolada do pólo proximal. 
+(B) anterolateral isolada do pólo distal. 
+(C) associada ao desalinhamento da articulação capitato 
+hamato. 
+(D) associada ao desalinhamento da articulação trapezoide 
+capitato. 
+##### 
+ 
+{58} 
+A aspiração do cotovelo deve ser realizada no centro do 
+triângulo formado por 
+ 
+(A) epicôndilo lateral, ponta do olécrano e cabeça do rádio. 
+(B) epicôndilo lateral, ponta do olécrano e tuberosidade do 
+rádio. 
+(C) epicôndilo medial, ponta do olécrano e tubérculo sublime. 
+(D) epicôndilo medial, epicôndilo lateral e ponta do olecrano. 
+##### 
+ 
+{59} 
+Leia o texto a seguir: 
+ 
+“A primeira artéria metatarsal plantar é dominante  
+em _______ dos pacientes submetidos a transplante do dedo 
+do pé para a mão”. 
+ 
+Assinale a alternativa que preenche corretamente a lacuna 
+do texto. 
+ 
+(A) 10% 
+(B) 20% 
+(C) 30% 
+(D) 70% 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Cirurgia da Mão – PROVA E01 
+{60} 
+Em relação ao protocolo pós-operatório após reimplante de 
+extremidade, assinale a alternativa correta. 
+ 
+(A) O uso de calor local e aspirina são medidas adjuvantes, 
+comumente utilizadas na maioria dos protocolos pós-
+operatórios após reimplante. 
+(B) A vigilância pós-operatória é padronizada e deve incluir 
+avaliações vasculares de hora em hora em todos os 
+pacientes, 
+independentemente 
+do 
+risco 
+ou 
+das 
+características do caso. 
+(C) Em casos de suspeita de isquemia arterial após 
+reimplante, a primeira abordagem recomendada é sempre 
+o uso de medidas conservadoras, como analgesia e 
+aquecimento local, sem indicação de reexploração 
+cirúrgica imediata. 
+(D) O uso rotineiro de anticoagulantes sistêmicos como 
+heparina e dextran é considerado essencial após 
+reimplante, com benefícios comprovados em todos os 
+tipos de casos. 
+##### 
+ 
+{61} 
+Na artrodese total de punho, quantas articulações devem ser 
+cruentizadas? 
+ 
+(A) 2. 
+(B) 3. 
+(C) 4. 
+(D) 5. 
+##### 
+ 
+{62} 
+Sobre o retalho venoso flow-through, assinale a alternativa 
+correta. 
+ 
+(A) As anastomoses são feitas da artéria digital para veia do 
+retalho e desta para uma veia proximal ao defeito. 
+(B) É útil para todos os tamanhos de falhas de cobertura. 
+(C) A veia do retalho é anastomosada proximal e distalmente 
+na artéria digital. 
+(D) A pele dorsal é mais comumente usada para cobertura da 
+mão que a drenada pelo sistema volar. 
+##### 
+ 
+{63} 
+Considerando as características anatômicas e técnicas do 
+retalho ósseo da fíbula, assinale a alternativa correta. 
+ 
+(A) O pedículo vascular da fíbula, proveniente da artéria 
+fibular, possui comprimento médio de 15 a 20 cm e um 
+diâmetro arterial de 5 mm, o que facilita anastomoses em 
+grandes vasos receptores. 
+(B) A pele sobre a fíbula pode ser incluída no retalho através 
+de perfurantes fasciocutâneas oriundas da artéria fibular, 
+frequentemente 
+identificadas 
+próximas 
+ao 
+septo 
+intermuscular lateral. 
+(C) A porção proximal da fíbula deve ser evitada ao dissecar 
+o retalho, devido à completa ausência de suprimento 
+sanguíneo nessa região, aumentando o risco de necrose 
+óssea. 
+(D) Durante a dissecção é comum a visualização direta dos 
+vasos fibulares, já na exposição inicial do tendão do 
+músculo fibular longo. ##### 
+{64} 
+Sobre a ressecção parcial da ulna distal (procedimento de 
+wafer), assinale a alternativa correta. 
+ 
+(A) O objetivo principal é ressecar completamente a cabeça 
+da ulna e o estiloide ulnar, eliminando a sobrecarga do 
+compartimento ulnocarpal e da articulação radioulnar 
+distal. 
+(B) O procedimento de wafer é limitado à remoção de 2 a  
+4 mm do domo ulnar distal, preservando o estiloide ulnar e 
+as inserções do complexo da fibrocartilagem triangular. 
+(C) O procedimento altera significativamente a congruência 
+da ARUD, sendo contraindicado em pacientes com 
+qualquer grau de instabilidade do punho ou alterações 
+degenerativas leves. 
+(D) Em comparação com a osteotomia de encurtamento ulnar, 
+o wafer tem maior risco de complicações relacionadas ao 
+uso de implantes, principalmente pseudoartrose e 
+necessidade de remoção de material. 
+##### 
+ 
+{65} 
+Em relação a lesão do plexo braquial, assinale a alternativa 
+correta. 
+ 
+(A) 20% tem TCE, trauma torácico e fraturas associadas. 
+(B) 75% tem lesão vascular associada. 
+(C) O tipo mais comum é lesão total, seguido de lesão C5, C6 
+e C7. 
+(D) Na lesão total, o padrão mais comum é lesão pré- 
+ganglionar de C5 e C6 com lesão pós ganglionar de C7 a 
+T1. 
+##### 
+ 
+{66} 
+Sobre o tratamento da rizartrose com artroplastia de 
+ressecção da articulação carpometacarpica do polegar, com 
+interposição do tendão flexor radial do carpo, assinale a 
+alternativa correta. 
+ 
+(A) O procedimento exige remoção completa da base do 
+primeiro metacarpo, para evitar impacto residual entre o 
+metacarpo e o escafóide. 
+(B) O ramo sensitivo dorsal do nervo radial é seccionado 
+rotineiramente, para reduzir a dor pós-operatória na base 
+do polegar. 
+(C) A interposição do tendão flexor radial do carpo é fixada 
+diretamente ao escafoide, para restaurar a congruência 
+articular da carpometacarpica do polegar. 
+(D) Durante a ressecção do trapézio, deve-se proteger 
+cuidadosamente o tendão flexor radial do carpo, pois ele 
+se localiza imediatamente profundo a este osso. 
+##### 
+ 
+{67} 
+O plano muscular para abordagem do pedículo na dissecção 
+do retalho do côndilo femoral medial fica entre os músculos 
+adutor 
+ 
+(A) magno e sartório. 
+(B) magno e bíceps femoral. 
+(C) longo e sartório. 
+(D) longo e bíceps femoral. 
+##### 
+
+
+--- PAGE 11 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Cirurgia da Mão – PROVA E01 
+{68} 
+Sobre o teste de Elson na avaliação da integridade da banda 
+central do mecanismo extensor, é correto afirmar. 
+ 
+(A) Quando a IFP está completamente flexionada, a flexão 
+ativa da articulação IFD torna-se mais potente, devido ao 
+aumento da tensão nas bandeletas laterais após lesão. 
+(B) O teste é realizado com a IFP estendida e o paciente tenta 
+flexionar a articulação DIP contra resistência, avaliando a 
+transmissão de força para o tendão extensor terminal. 
+(C) A presença de extensão ativa da IFD com a IFP em 90° de 
+flexão indica falha da banda central, pois o mecanismo 
+normal de folga das bandeletas laterais foi perdido. 
+(D) A resistência aumentada à flexão passiva da IFD quando 
+a IFP está em flexão máxima, confirma a integridade da 
+banda central. 
+##### 
+ 
+{69} 
+Considerando 
+o 
+monitoramento 
+pós-operatório 
+e 
+a 
+reexploração de retalhos livres, assinale a alternativa correta. 
+ 
+(A) A avaliação de cor do retalho é subjetiva e não é útil para 
+diferenciar insuficiência arterial de congestão venosa, já 
+que ambos apresentam palidez semelhante. 
+(B) O sinal clínico mais precoce de insuficiência venosa é a 
+presença 
+de um 
+retalho 
+pálido com 
+tempo 
+de 
+preenchimento capilar lento e ausência de sangramento. 
+(C) O uso de temperatura diferencial é uma ferramenta útil, já 
+que uma diferença superior a 1,8 °C entre o retalho 

@@ -1,0 +1,388 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ame clínico: descorada 1+/4+, baço palpável a  
+6 cm do rebordo costal esquerdo. 
+ 
+• Exames laboratoriais:  
+Hb: 10,8 g/dL 
+VCM: 83,5 fL (aguardando avaliação de sangue periférico) 
+Leucócitos: 7.300/mm³ (diferencial normal) 
+Plaquetas: 170.000/mm³ 
+Reticulócitos: 6,4% (192.000/mm³) 
+Bilirrubina total: 2,1 mg/dL 
+Bilirrubina indireta: 1,8 mg/dL) 
+DHL: 420 U/L (ref.: 240 UI/L) 
+Haptoglobina sérica: 32 mg/dL (ref.: 30 a 100 mg/dL) 
+Coombs direto: negativo 
+ 
+A alteração laboratorial com maior probabilidade de ser 
+encontrada é: 
+ 
+(A) Prova de falcização positiva. 
+(B) CD55 negativo em 70% das hemácias.  
+(C) Nível baixo de G6PD em eritrócitos. 
+(D) Curva de resistência globular desviada para direita.  
+##### 
+ 
+ 
+
+
+--- PAGE 12 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Nutrologia – PROVA E05 
+{40} 
+Homem, 62 anos de idade, tabagista de 60 anos-maço, 
+procura o pronto atendimento com edema de face, de 
+membros superiores, pletora facial, sudorese e circulação 
+colateral no tórax. Ao exame clínico, apresenta-se consciente 
+e orientado, com FC de 94 bpm, PA de 140×90 mmHg, FR de 
+21 irpm e SpO2 de 95% em ar ambiente. A tomografia de tórax 
+é mostrada nas imagens a seguir: 
+ 
+ 
+ 
+ 
+ 
+Em relação ao caso apresentado, a próxima conduta mais 
+adequada é: 
+ 
+(A) PET-CT. 
+(B) Radioterapia. 
+(C) Biópsia transtorácica. 
+(D) Corticoterapia em altas doses. 
+##### 
+ 
+{41} 
+Homem, 59 anos de idade, em tratamento de adenocarcinoma 
+de pâncreas metastático para fígado com esquema 
+FOLFIRINOX (5-Fluorouracil, irinotecano e oxaliplatina) a cada 
+duas semanas. Apresentou melhora do quadro de dor e 
+queda de antígeno CA 19.9, porém desde o último ciclo tem 
+apresentado piora de náuseas e vômitos. Faz uso de 
+ondansetrona, dexametasona e aprepitanto como profilaxia 
+para êmese. Em relação ao caso apresentado, assinale a 
+alternativa que apresenta o medicamento adicional mais 
+adequado para profilaxia do sintoma. 
+ 
+(A) Metoclopramida. 
+(B) Haloperidol. 
+(C) Dimenidrinato. 
+(D) Olanzapina. 
+##### 
+ 
+{42} 
+Homem, 45 anos de idade, em reabilitação após trauma 
+raquimedular, 
+em 
+uso 
+de 
+paracetamol, 
+codeína 
+e 
+carbamazepina há três semanas. Apresenta-se sem edemas, 
+está alerta e com capacidade normal de se alimentar, sem 
+restrição dietética em prescrição, com PA de 110×70 mmHg 
+e FC de 85 bpm, afebril. 
+ 
+• Exames laboratoriais: 
+Cr: 0,88 mg/dL 
+Ur: 40 mg/dL 
+K+: 4,2 mEq/L 
+Na+: 126 mEq/L 
+pH: 7,37 
+HCO3-: 23,7 mmol/L 
+TSH: 1,33 µUI/mL 
+ 
+• Urina tipo 1: 
+pH: 5,5 (ref.: 5,0 a 6,0) 
+Densidade: 1,020 (ref.: 1,015 a 1,025) 
+Glicose: ausente (ref.: ausente) 
+Proteínas: < 0,05 g/L (ref.: < 0,05 g/L) 
+Leucócitos: 2/campo (ref.: até 10/campo) 
+Eritrócitos: 1/campo (ref.: até 3/campo) 
+ 
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta os resultados mais prováveis e as condutas mais 
+adequadas. 
+ 
+(A) Osmolalidade urinária 95 mOsm/kg H2O, sódio urinário  
+15 mmol/L; suspender a carbamazapina e prescrever 
+restrição hídrica. 
+(B) Osmolalidade urinária 95 mOsm/kg H2O, sódio urinário 
+63 mmol/L; prescrever diurético de alça. 
+(C) Osmolalidade urinária 794 mOsm/kg H2O, sódio urinário 
+15 mmol/L; prescrever 100 mL de solução salina 
+intravenosa 3% em 30 minutos. 
+(D) Osmolalidade urinária 794 mOsm/Kg H2O, sódio urinário 
+63 mmol/L; suspender a carbamazepina e prescrever 
+restrição hídrica. 
+##### 
+ 
+{43} 
+Homem, 64 anos de idade e 15 anos de escolaridade, possui 
+diagnóstico de doença de Parkinson há 5 anos e está, 
+atualmente, em uso de biperideno, pramipexol e levodopa 
+com benserazida. Refere dificuldades de memória e de 
+concentração nas tarefas. Ainda trabalha como comerciante, 
+mas sente que, às vezes, se atrapalha com as contas. Outra 
+queixa, é que passou a ver vultos e ter sensação de que há 
+pessoas passando por trás dele. No mini exame do estado 
+mental, o paciente fez 25 pontos, perdendo 03 pontos nas 
+subtrações em série, 01 ponto na evocação das palavras e  
+01 ponto na cópia do desenho. Ao exame neurológico, 
+apresenta bradicinesia, rigidez com roda denteada, sem 
+tremor de repouso. Assinale a alternativa que apresenta a 
+próxima conduta mais adequada para o caso apresentado. 
+ 
+(A) Suspender a levodopa. 
+(B) Suspender o biperideno. 
+(C) Prescrever a rivastigmina. 
+(D) Prescrever a quetiapina. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 13 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Nutrologia – PROVA E05 
+{44} 
+Mulher, 67 anos de idade, atualmente tabagista 50 anos-maço com diagnóstico de doença pulmonar obstrutiva crônica em uso de 
+formoterol. Antecedentes cirúrgicos de colecistectomia, cesárea e abordagem de síndrome do túnel do carpo bilateral. Conta, 
+ainda, rotura de tendão de bíceps enquanto pendurava roupas no varal há 2 anos, em tratamento conservador e sem limitação 
+funcional em braços. Recentemente, suspendeu por conta própria enalapril que usava para hipertensão, pois notou a pressão mais 
+baixa nos últimos meses. Procura atendimento em ambulatório de clínica médica com queixa de falta de ar aos esforços. Nega dor 
+torácica. Ao exame físico, apresenta PA de 90×74 mmHg, FC de 90 bpm, SpO2 de 93% em ar ambiente. Ausculta cardíaca com 
+ritmo irregular, sem sopros, bem perfundida. Ausculta pulmonar com murmúrios globalmente reduzidos, sibilância expiratória e 
+estertores bibasais. Membros com edema 1+ simétrico, pulsos pediosos amplos.  
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que apresenta a melhor conduta para o diagnóstico e manejo desta paciente. 
+ 
+(A) Iniciar apixabana e furosemida, manter sem enalapril, solicitar BNP e ecocardiograma com strain. 
+(B) Iniciar bisoprolol, sacubitril-valsartana e espironolactona, além de furosemida para alívio sintomático inicial e melhor controle 
+volêmico. Solicitar ecocardiograma e BNP. 
+(C) Reiniciar enalapril para controle pressórico e nefroproteção, além de apixabana. Solicitar MAPA 24h para avaliar controle 
+pressórico em domícílio. 
+(D) Associar segundo broncodilatador, solicitar prova de função pulmonar e ecocardiograma para avaliar doença pulmonar 
+obstrutiva crônica e evolução para hipertensão pulmonar. 
+#####
+ 
+{45} 
+Homem, 52 anos de idade, com diabetes melito tipo 2, HAS e 
+obesidade grau 1. Foi solicitado ultrassom de abdome após 
+consulta de rotina, que mostrou fígado de dimensões normais, 
+bordas finas, ecotextura discretamente heterogênea e 
+esteatose de grau moderado.  
+ 
+• Exames laboratoriais:  
+HbA1c: 6,5% 
+LDL colesterol: 110 mg/dL 
+Triglicérides: 130 mg/dL 
+TGO/AST: 35 U/L 
+TGP/ALT: 38 U/L 
+ 
+Considerando o caso apresentado, o próximo passo mais 
+adequado é: 
+ 
+(A) Calcular FIB-4. 
+(B) Realizar biópsia hepática. 
+(C) Repetir transaminases em seis meses. 
+(D) Repetir imagem em um ano. 
+##### 
+ 
+ 
+{46} 
+Homem, 77 anos de idade, bancário aposentado, sedentário, 
+hipertenso, diabético e tabagista, apresenta perda de 
+iniciativa e diminuição da interação social. Ele nega tristeza ou 
+falta de prazer nas atividades. A esposa relata lapsos de 
+memória com piora no último ano. Tem dificuldades para 
+controlar 
+as 
+suas 
+finanças, 
+precisando 
+de 
+ajuda 
+ocasionalmente, mas é independente em suas atividades 
+diárias. Testes cognitivos com alterações significativas nos 
+domínios de atenção e de memória. Exames laboratoriais e de 
+neuroimagem sem alterações. A conduta terapêutica mais 
+adequada é: 
+ 
+(A) Donepezila. 
+(B) Memantina. 
+(C) Reabilitação cognitiva. 
+(D) Estimulação magnética transcraniana. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 14 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Nutrologia – PROVA E05 
+{47} 
+Paciente, 57 anos de idade, hospitalizada por quadro de 
+adinamia e confusão nos últimos três dias. Encontra-se 
+emagrecida, hidratada, com taquipneia e afebril. Familiares 
+relatam inapetência há cerca de três meses, associada a luto 
+recente pelo falecimento do marido.  
+ 
+• Exames laboratoriais:  
+Na+: 122 mEq/L 
+Cr: 1,1 mg/dL 
+K+: 3,5 mEq/L 
+C,-: 103 mEq/L 
+Urina tipo 1 com densidade de 1,030 
+ 
+Assinale a alternativa que apresenta o exame de imagem mais 
+compatível com o caso clínico apresentado. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+{48} 
+Em um estudo clínico, 889 pacientes submetidos a tratamento 
+adjuvante para câncer colorretal foram aleatorizados para 
+realizar atividade física estruturada ou receber materiais 
+educativos sobre saúde. Após um seguimento de 7,9 anos, 
+observou-se uma diferença em cinco anos de sobrevida livre 
+de doença de 80,3% para o grupo que realizou atividade física 
+e 73,9% para o grupo de educação em saúde. Isto 
+correspondeu a um hazard ratio de 0,72 com IC95% 0,55 a 0,94. 
+É possível afirmar: 
+ 
+(A) O desenho do estudo apresenta viés de seleção e, 
+portanto, baixa validade externa. 
+(B) O tempo de seguimento é inadequado para a proposta do 
+estudo em questão. 
+(C) A diferença absoluta de 6,4% é clinicamente e 
+estatisticamente significativa. 
+(D) Não é possível inferir a magnitude do ganho pelos dados 
+apresentados. 
+##### 
+ 
+{49} 
+Homem, 42 anos de idade, asmático, está em tratamento com 
+beclometasona 500 µg, inalatória, 12/12 horas e salbutamol 
+100 µg de resgate. Apresentou melhora inicial dos sintomas, 
+porém necessita de resgate quatro vezes por semana. Nos 
+últimos três meses, teve uma crise em que necessitou de 
+corticoterapia oral. Assinale a alternativa que apresenta a 
+conduta mais apropriada. 
+ 
+(A) Manter corticoide inalatório e resgate com β2-agonista de 
+curta duração e associar antileucotrieno 
+(B) Associar broncodilatador anticolinérgico ao corticoide 
+inalatório e manter β2-agonista de curta duração. 
+(C) Aumentar dose do corticoide inalatório e manter resgate 
+com β2-agonista de curta duração. 
+(D) Substituir terapia por β2-agonista de longa duração 
+associado a corticoide inalatório para manutenção e 
+resgate. 
+##### 
+ 
+{50} 
+Homem, 70 anos de idade, ex-tabagista com carga de  
+50 anos-maço e abstêmio há 5 anos. Há 8 anos, com quadro 
+de dispneia progressiva e tosse crônica. No último ano, 
+apresentou duas idas ao pronto-socorro com necessidade de 
+corticoide associada à antibioticoterapia oral. Espirometria 
+com VEF1 38%, sem mudança após broncodilatador.  
+ 
+• Exames laboratoriais:  
+Hemoglobina: 16,5 g/dL 
+Leucócitos: 8.100/mm3 
+Eosinófilos: 380/mm3 
+Ur: 38 mg/dL 
+Cr: 1,2 mg/dL 
+ 
+Além de β2 de longa duração, a terapia mais adequada para 
+este paciente deve incluir: 
+ 
+(A) Metilxantina e corticoide inalatório. 
+(B) Metilxantina e corticoide oral. 
+(C) Anticolinérgico de longa duração e corticoide oral. 
+(D) Anticolinérgico. 
+##### 
+ 
+ 
+
+
+--- PAGE 15 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Nutrologia – PROVA E05 
+{51} 
+Homem, 52 anos de idade, com história de regurgitação 
+noturna importante, acompanhada de leve queimação há 6 
+meses. Refere que pela regurgitação estava comendo menos 
+e perdeu 3 kg no período. Procurou atendimento médico, 
+sendo solicitada endoscopia digestiva alta, a qual apresentou 
+achado de esofagite erosiva grau A. Tentou tratamento com 
+inibidor de bomba de prótons por 3 meses sem resposta 
+clínica satisfatória. Foi indicado tratamento cirúrgico com 
+fundoplicatura total + hiatoplastia para tratamento de refluxo 
+refratário, o paciente evoluiu com disfagia importante no pós-
+operatório. Com base no caso apresentado, pode-se afirmar: 
+ 
+(A) O paciente evoluiu com quadro de pseudoacalasia 
+causada por possível hiato apertado. 
+(B) A indicação cirúrgica foi precipitada, pois não foram 
+afastados diagnósticos diferenciais para o quadro clínico. 
+(C) A indicação está correta, pois trata-se de doença do 
+refluxo refratária, sendo o tratamento cirúrgico a melhor 
+opção. 
+(D) A esofagite grau A afasta o diagnóstico de refluxo 
+gastroesofágico, segundo os critérios do consenso de 
+Lyon 2-0. 
+##### 
+ 
+{52} 
+Uma 
+das 
+complicações 
+da 
+Doença 
+do 
+Refluxo 
+Gastroesofágico (DRGE) é o 

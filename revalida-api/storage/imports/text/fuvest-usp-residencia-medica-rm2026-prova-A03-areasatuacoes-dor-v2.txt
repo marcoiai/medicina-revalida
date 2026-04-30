@@ -1,0 +1,1019 @@
+
+
+--- PAGE 1 ---
+
+ 
+A03 
+ 
+ 
+ÁREAS DE ATUAÇÕES 
+Dor 
+ 
+ 
+ 
+ 
+ 
+ 
+      PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025     
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo A03. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 2 horas. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo 
+fiscal. O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14 h. Não haverá tempo 
+adicional para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 40 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Dor – PROVA A03 
+{01} 
+Homem, 67 anos de idade, relata dor em queimação e choque 
+elétrico na região torácica direita, onde apresentou lesões 
+vesiculares há 3 meses, refere hipersensibilidade ao toque 
+leve no local e, ao exame físico, apresenta alodinia em 
+dermátomo de T8 à direita. Assinale a alternativa que 
+apresenta o tratamento de primeira linha mais indicado. 
+ 
+(A) Dipirona. 
+(B) Codeína. 
+(C) Amitriptilina. 
+(D) Celecoxibe. 
+##### 
+ 
+{02} 
+Homem, 68 anos de idade, tabagista, diabético, apresenta dor 
+em queimação no pé direito, que piora ao deitar e melhora ao 
+pendurar a perna para fora da cama. Há cianose distal e 
+ausência de pulso pedioso direito. Assinale a alternativa que 
+apresenta a causa mais provável. 
+ 
+(A) Neuropatia diabética dolorosa. 
+(B) Síndrome do túnel do tarso. 
+(C) Fascite plantar. 
+(D) Dor isquêmica por doença arterial periférica obstrutiva. 
+##### 
+ 
+{03} 
+Homem, 60 anos de idade, tem câncer de pâncreas 
+metastático, relata dor abdominal contínua, em queimação e 
+hiperalgesia em abdome superior. Está em uso de morfina de 
+liberação prolongada, 90 mg por via oral de 8/8h, dipirona  
+1,5 g por via oral de 8/8h e duloxetina 60 mg por via oral uma 
+vez ao dia. O controle da dor é ruim. Qual o melhor passo a 
+seguir? 
+ 
+(A) Trocar morfina de liberação prolongada por morfina de 
+liberação simples e passar a dipirona a cada 6 horas. 
+(B) Realizar um bloqueio de plexo celíaco diagnóstico e, se 
+positivo, realizar neurólise química com etanol. 
+(C) Realizar bloqueio simpático lombar diagnóstico, e, se 
+positivo, realizar neurólise química com etanol. 
+(D) Iniciar sedação paliativa com morfina em infusão contínua 
+para conforto do paciente. 
+##### 
+ 
+{04} 
+Mulher, 40 anos de idade, apresenta dor lombar irradiada para 
+a perna direita há 7 semanas, com piora ao sentar, levantar e 
+melhorando quando deitada. Refere que a tosse piora a dor e 
+apresenta formigamento no dorso do pé. Sinal de Lasègue 
+positivo à direita a 30º, reflexo patelar diminuído à direita, sem 
+déficits motores e nega alterações esfincterianas. Assinale a 
+alternativa que apresenta a conduta mais apropriada neste 
+momento. 
+ 
+(A) Solicitação urgente de ressonância magnética. 
+(B) Encaminhamento para cirurgião de coluna para resolução 
+cirúrgica. 
+(C) Analgesia multimodal, envolvendo fisioterapia e tratamento 
+farmacológico, com seguimento ambulatorial. 
+(D) Manter repouso relativo até completar 12 semanas de dor. 
+##### 
+ 
+{05} 
+Quais dos receptores listados podem ser ativados ou 
+bloqueados por opioides, além da ação em receptores 
+opioides? 
+ 
+(A) Receptores NMDA e receptores de acetilcolina. 
+(B) Receptores NMDA e α-2B adrenoceptores. 
+(C) Receptores GABA e canais de cloreto. 
+(D) Receptores de acetilcolina e α-2B adrenoceptores. 
+##### 
+ 
+{06} 
+Quanto à condução do estímulo nociceptivo pelo neurônio de 
+primeira ordem (aferente primário ou nociceptor), quais são as 
+fibras que conduzem e quais os tipos de estímulos que 
+conduzem, respectivamente? 
+ 
+(A) A-beta (dor “rápida”) e C (dor “lenta”). 
+(B) A-delta (dor “rápida”) e A-beta (dor “lenta”). 
+(C) A-delta (dor “lenta”) e C (dor “rápida”). 
+(D) A-delta (dor “rápida”) e C (dor “lenta”). 
+##### 
+ 
+{07} 
+Uma característica importante do uso da metadona por via 
+oral é: 
+ 
+(A) Há baixa chance de interação medicamentosa. 
+(B) Não deve ser usada em pacientes com suspeita de abuso 
+de opioides. 
+(C) Sedação e depressão respiratória podem demorar alguns 
+dias para se manifestarem após iniciar o uso contínuo. 
+(D) Se o paciente ficar sem tomar metadona abruptamente, 
+em geral tem sintomas de abstinência tão intensos e 
+rápidos quanto com a suspensão abrupta da morfina. 
+##### 
+ 
+{08} 
+Homem, 47 anos de idade, 75 kg, com câncer de estômago, 
+sem dor crônica, em primeiro dia de pós-operatório de 
+gastrectomia total com linfadenectomia, realizada sob 
+anestesia geral e peridural. Deixado cateter peridural para 
+analgesia, e instalada bomba de PCA (analgesia controlada 
+pelo paciente) por via peridural. A solução utilizada foi de 
+ropivacaína 0,1% com fentanil 4 µg/mL, programação com 
+bólus de 4 mL, intervalo entre bólus (lockout) de 15 minutos, 
+limite em 1h de até 3 bólus. Além disso, paciente também está 
+em uso de dipirona 2 g IV 6/6h. Paciente relata que nas últimas 
+24h teve episódios de dor moderada em repouso, precisando 
+acionar diversas vezes a bomba de PCA (22 acionamentos e 
+19 administrações), ainda sem a via oral liberada. Com base 
+no caso descrito, assinale a alternativa que apresenta a 
+melhor conduta. 
+ 
+(A) Aumentar a dose do bólus na bomba de PCA peridural para 
+7 mL. 
+(B) Incluir fluxo contínuo de 5 mL/h na bomba de PCA peridural. 
+(C) Iniciar morfina 4 mg IV 4/4h + morfina de resgate e manter 
+PCA. 
+(D) Não mudar a conduta e orientar o paciente que a dor 
+melhorará nos próximos dias. 
+##### 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Dor – PROVA A03 
+{09} 
+De acordo com as diretrizes para tratamento farmacológico da 
+migrânea da Sociedade Internacional de Cefaleia publicadas 
+em 2025, assinale a única medicação administrada por via 
+oral que é recomendada para o tratamento profilático da 
+migrânea crônica. 
+ 
+(A) Topiramato. 
+(B) Propranolol. 
+(C) Ácido valproico. 
+(D) Pregabalina. 
+##### 
+ 
+{10} 
+Terapias não farmacológicas são elemento fundamental no 
+tratamento da fibromialgia, com base nessa informação, 
+assinale a alternativa que apresenta o tratamento não 
+farmacológico 
+mais 
+fortemente 
+recomendado 
+para 
+a 
+fibromialgia. 
+ 
+(A) Ioga. 
+(B) Acupuntura. 
+(C) Terapias cognitivo-comportamentais. 
+(D) Exercícios aeróbicos e de fortalecimento muscular. 
+##### 
+ 
+{11} 
+Homem, 70 anos de idade, portador de diabetes melito 
+insulino-dependente, 
+hipertensão 
+arterial 
+sistêmica 
+e 
+dislipidemia, apresenta há 3 anos queixa de dor em membros 
+inferiores que se iniciou em pododáctilos bilateralmente e 
+propagou-se ao longo do tempo para acometer as regiões 
+plantar e dorsal de ambos os pés. A dor é em queimação, 
+associada a alfinetadas, formigamento e dormência. Com 
+base nas informações fornecidas e de acordo com a 
+Associação Internacional para Estudo da Dor, a dor da 
+paciente deve ser classificada como dor neuropática 
+ 
+(A) possível. 
+(B) provável. 
+(C) definida. 
+(D) improvável. 
+##### 
+ 
+{12} 
+Em 2025, a Associação Internacional para o Estudo da Dor 
+publicou recomendações atualizadas para o tratamento da 
+dor neuropática. Assinale a alternativa correta quanto ao 
+posicionamento destas recomendações em relação ao uso de 
+canabinoides para este fim. 
+ 
+(A) Os canabinoides são recomendados como terceira linha 
+terapêutica para este fim, a serem considerados quando 
+da falha das demais alternativas. 
+(B) Os canabinoides são recomendados como terapia 
+adjuvante às medicações de primeira linha terapêutica 
+para este fim. 
+(C) Estas recomendações posicionam-se contra o uso de 
+canabinoides para este fim como primeira escolha. 
+(D) Há 
+evidências 
+inconclusivas 
+quanto 
+ao 
+uso 
+de 
+canabinoides para este fim. 
+##### 
+ 
+{13} 
+Mulher, 68 anos de idade, sofreu um acidente vascular 
+cerebral isquêmico talâmico à direita há três anos. Desde 
+então, ela apresenta dor neuropática crônica central, 
+acometendo apenas a porção lateral de seu antebraço 
+esquerdo. Para o tratamento desta dor, a paciente recebeu 
+amitriptilina, nortriptilina, duloxetina, venlafaxina, pregabalina 
+e gabapentina, em doses e tempo adequados, sem melhora 
+satisfatória da dor. De acordo com as recomendações atuais 
+da Associação Internacional para o Estudo da Dor para o 
+tratamento da dor neuropática, assinale a alternativa que 
+apresenta a terapia recomendada. 
+ 
+(A) Emplastros de lidocaína 5% tópicos. 
+(B) Toxina botulínica tipo A subcutânea. 
+(C) Creme de capsaicina com concentração de até 0,075% 
+tópico. 
+(D) Estimulação magnética transcraniana repetitiva em córtex 
+motor primário. 
+##### 
+ 
+{14} 
+De acordo com as recomendações atuais da Associação 
+Internacional para o Estudo da Dor para o tratamento da dor 
+neuropática, qual das classes medicamentosas apresenta 
+melhor eficácia analgésica para esta condição? 
+ 
+(A) Emplastros de lidocaína 5%. 
+(B) Antidepressivos tricíclicos. 
+(C) Inibidores de recaptação de serotonina e noradrenalina. 
+(D) ligantes da subunidade alfa-2-delta de canais de cálcio. 
+##### 
+ 
+{15} 
+De acordo com as diretrizes da Academia Europeia de 
+Neurologia para o tratamento da Cefaleia em salvas, 
+publicadas em 2023, a oxigenioterapia é recomendada para o 
+tratamento das crises de dor provocadas por esta doença. 
+Além desta terapia, qual outro tratamento é recomendado, por 
+esta diretriz, para este fim? 
+ 
+(A) Naproxeno 500 mg por via oral. 
+(B) Morfina 2 mg por via endovenosa. 
+(C) Lidocaína 4 a 10% por via intranasal. 
+(D) Quetamina 0,1 mg/kg por via endovenosa. 
+##### 
+ 
+{16} 
+Em relação à escada analgésica desenvolvida pela 
+Organização Mundial de Saúde para o tratamento da dor 
+causada pelo câncer, em decorrência da doença, de 
+procedimentos diagnósticos ou dos tratamentos, pode-se 
+afirmar: 
+ 
+(A) Os fármacos adjuvantes devem ser iniciados a partir do 
+segundo degrau da escada analgésica. 
+(B) Deve-se prescrever opioides mais potentes para dor forte 
+associado a analgésico não-opioide. 
+(C) Na dor leve, deve-se começar o tratamento da dor com 
+analgésicos não-opioides e opioides fracos. 
+(D) Nas dores leve ou moderada, são utilizados opioides 
+fracos, analgésicos não-opioides e adjuvantes. 
+##### 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Dor – PROVA A03 
+{17} 
+Os critérios diagnósticos atuais do Colégio Americano de 
+Reumatologia levam em consideração dois componentes para 
+o diagnóstico da fibromialgia: o índice de dor generalizada e 
+a escala de gravidade de sintomas. Assinale a alternativa 
+correta sobre estes componentes. 
+ 
+(A) O índice de dor generalizada avalia a presença de dor em 
+diferentes regiões do corpo nos últimos três meses. 
+(B) Se o índice de dor generalizada for maior ou igual a 7, é 
+necessário que a escala de dor generalizada seja maior ou 
+igual a 9 para o diagnóstico de fibromialgia. 
+(C) A escala de gravidade de sintomas leva em consideração 
+a presença de cefaleia, dores abdominais e sintomas 
+depressivos no último ano. 
+(D) Apesar de caracterizar um amplo leque de sintomas não 
+dolorosos relacionados à fibromialgia, a escala de 
+gravidade de sintomas não avalia sintomas cognitivos 
+frequentes nesta doença. 
+##### 
+ 
+{18} 
+As sensibilizações periférica e central são mecanismos-chave 
+na fisiopatologia da dor. Sobre a hiperalgesia primária e 
+secundária, assinale a alternativa correta. 
+ 
+(A) A hiperalgesia primária é causada pela sensibilização de 
+nociceptores, 
+enquanto 
+a 
+secundária 
+decorre 
+da 
+sensibilização de neurônios do corno dorsal da medula 
+espinhal e de outras áreas do Sistema Nervoso Central. 
+(B) A hiperalgesia primária resulta da ampliação dos campos 
+receptivos no sistema nervoso central, enquanto a 
+secundária está ligada à sensibilização direta dos 
+nociceptores. 
+(C) A hiperalgesia secundária é caracterizada por dor intensa 
+em áreas não afetadas pela lesão original, ao contrário da 
+primária, que ocorre apenas no local da injúria. 
+(D) Ambas são mediadas, exclusivamente, pela liberação de 
+substância P nos tecidos lesados, sem envolvimento de 
+citocinas inflamatórias. 
+##### 
+ 
+{19} 
+No exame físico de um paciente com suspeita de radiculopatia 
+cervical, testes podem auxiliar no diagnóstico. Sobre esses 
+testes, assinale a alternativa correta. 
+ 
+(A) A manobra de Spurling, que consiste na extensão cervical 
+com rotação para o lado sintomático e compressão axial, 
+é considerada positiva quando há alívio da dor irradiada 
+para o membro superior. 
+(B) O teste de abdução do ombro (elevação ativa do braço 
+acima da cabeça) é utilizado para confirmar mielopatia 
+cervical, pois reduz a tensão nas raízes nervosas 
+comprimidas. 
+(C) O teste de tração cervical (distração manual da coluna) 
+pode aliviar a dor radicular ao diminuir a pressão sobre as 
+estruturas nervosas, enquanto a compressão axial, 
+frequentemente, a exacerba. 
+(D) O sinal de Lhermitte, caracterizado por choques elétricos 
+nos membros inferiores durante a flexão cervical, é 
+patognomônico de hérnia discal cervical em nível C5-C6. 
+##### 
+ 
+ 
+ 
+{20} 
+No contexto da avaliação da dor em pacientes vítimas de 
+trauma, diversos métodos são empregados para mensurar a 
+intensidade álgica. Sobre esses métodos, assinale a 
+alternativa correta. 
+ 
+(A) A Escala de Faces para Dor (EFD) é a mais indicada para 
+adultos conscientes e comunicantes, pois permite a 
+descrição detalhada da qualidade da dor. 
+(B) A Escala Verbal Numérica (EVN) solicita que o paciente 
+atribua um valor entre 0 a 10 à sua dor, sendo rápida e 
+prática para uso em serviços de emergência. 
+(C) A Escala Visual Analógica (EVA) utiliza uma linha 
+numerada de 0 a 10 para quantificar a dor, sendo ideal 
+para pacientes pediátricos ou com déficit cognitivo. 
+(D) A Escala de Descritores Verbais (EDV) classifica a dor em 
+níveis como “sem dor”, “dor leve”, “dor moderada” ou “dor 
+intensa”, e permite diferenciar dor nociceptiva de 
+neuropática. 
+##### 
+ 
+{21} 
+A analgesia multimodal é uma estratégia essencial no controle 
+da dor pós-operatória. Sobre seus princípios e benefícios, 
+assinale a alternativa correta. 
+ 
+(A) Utiliza fármacos com mecanismos de ação distintos, por 
+exemplo anti-inflamatórios não esteroides, paracetamol, 
+opioides, para sinergia analgésica e redução de efeitos 
+colaterais. 
+(B) Combina opioides em doses elevadas com anti-
+inflamatórios não esteroides para potencializar o efeito 
+sedativo e reduzir a ansiedade pós-operatória. 
+(C) Prioriza o uso exclusivo de técnicas regionais (ex.: 
+bloqueio neuroaxial) para evitar totalmente o uso de 
+opioides e seus efeitos adversos gastrointestinais. 
+(D) A cetamina e a gabapentina são contraindicadas em 
+protocolos multimodais, devido ao risco de delirium pós-
+operatório e depressão respiratória. 
+##### 
+ 
+{22} 
+Sobre os critérios diagnósticos e a correlação clínico-
+radiológica na Osteoartrite (OA) de joelho, assinale a 
+alternativa correta. 
+ 
+(A) A classificação de Kellgren-Lawrence considera apenas a 
+presença de osteófitos marginais como critério definitivo 
+para diagnóstico de OA, independentemente de sintomas 
+clínicos. 
+(B) A classificação de Ahlbäck modificada por Keyes é 
+baseada, exclusivamente, em critérios clínicos, como 
+rigidez matinal e crepitação articular. 
+(C) Os critérios do Colégio Americano de Reumatologia para 
+OA de joelho exigem a combinação de dor articular com 
+pelo menos três dos seguintes: idade > 50 anos, rigidez 
+matinal < 30 minutos, crepitação, sensibilidade óssea ou 
+aumento do volume articular. 
+(D) A 
+correlação 
+entre 
+a 
+gravidade 
+das 
+alterações 
+radiográficas e a intensidade dos sintomas é elevada, 
+sendo a radiografia suficiente para definir a abordagem 
+terapêutica. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Dor – PROVA A03 
+{23} 
+A dor crônica, na maioria das vezes, 
+ 
+(A) perdura por tempo definido. 
+(B) é de fácil diagnóstico etiológico. 
+(C) é uma resposta orgânica mal adaptativa. 
+(D) não provoca sensibilização periférica. 
+##### 
+ 
+{24} 
+A Dor Crônica Pós-operatória (DCPO) é uma complicação 
+cirúrgica 
+relativamente 
+comum, 
+com 
+importantes 
+consequências para o paciente. Sobre esta condição, 
+assinale a alternativa correta. 
+ 
+(A) A técnica anestésica utilizada durante a cirurgia não está 
+associada à DCPO, visto esta condição ter surgimento 
+tardio. 
+(B) Nas toracotomias, a incidência de DCPO está em torno de 
+5%. 
+(C) Cirurgias onde há maior chance de lesão de nervo têm 
+incidência maior de DCPO. 
+(D) A catastrofização não é fator de risco para surgimento 
+desta complicação. 
+##### 
+ 
+{25} 
+Em relação aos gabapentinoides, assinale a alternativa correta. 
+ 
+(A) São 
+analgésicos 
+de 
+primeira 
+escolha 
+nas 
+dores 
+nociceptivas. 
+(B) Agem exclusivamente nos canais de cálcio voltagem-
+dependentes. 
+(C) A 
+pregabalina 
+tem 
+características 
+semelhantes 
+à 
+gabapentina, tem posologia mais adequada e melhor 
+biodisponibilidade. 
+(D) A biodisponibilidade da gabapentina é diretamente 
+proporcional à dose administrada. 
+##### 
+ 
+{26} 
+Mulher, 40 anos de idade, apresenta dificuldade para dormir 
+em função de dor miofascial crônica em região cervical. 
+Assinale a alternativa que apresenta a medicação mais 
+apropriada para esta paciente. 
+ 
+(A) Amitriptilina. 
+(B) Bromazepam. 
+(C) Codeína + paracetamol. 
+(D) Diclofenaco + carisoprodol. 
+##### 
+ 
+{27} 
+Os sintomas afetivos que estão presentes no paciente com dor 
+crônica 
+ 
+(A) geralmente se resolvem quando a dor é adequadamente 
+tratada. 
+(B) comumente requerem tratamento associado ao tratamento 
+da dor. 
+(C) são sempre secundários à presença de dor crônica. 
+(D) são mais frequentes em idosos. ##### 
+{28} 
+A acupuntura clássica (manual) modula a transmissão da dor 
+por meio de mecanismos neurofisiológicos. Sobre esses 
+processos, assinale a alternativa correta. 
+ 
+(A) A inserção da agulha em pontos específicos ativa fibras C 
+não mielinizadas, que inibem a liberação de glutamato nas 
+sinapses do corno dorsal da medula, bloqueando a via 
+nociceptiva. 
+(B) A ativação do sistema supressor descendente da dor 
+depende exclusivamente da liberação de GABA no 
+hipotálamo, sem envolvimento de neurotransmissores 
+opioides. 
+(C) A acupuntura clássica induz analgesia, principalmente, 
+por lesão local do tecido conjuntivo, com liberação de 
+histamina e ativação de mastócitos na região periférica. 
+(D) A estimulação mecânica das agulhas ativa principalmente 
+fibras A-delta, promovendo a liberação de encefalinas por 
+interneurônios inibitórios no corno dorsal, segundo a Teoria 
+do Portão. 
+##### 
+ 
+{29} 
+O principal fator que limita a biodisponibilidade da morfina 
+quando administrada por via oral é: 
+ 
+(A) Efeito de primeira passagem hepática. 
+(B) Aumento do tempo de esvaziamento gástrico. 
+(C) Degradação por ação de enzimas intestinais. 
+(D) Alta hidrofilidade da molécula. 
+##### 
+ 
+{30} 
+Qual substância promove ativação e sensibilização neuronal 
+no aferente primário? 
+ 
+(A) Bradicinina. 
+(B) Prostaglandina E2. 
+(C) Substância P. 
+(D) ATP. 
+##### 
+ 
+{31} 
+A Osteoartrite (OA) é uma doença complexa com múltiplos 
+fatores 
+envolvidos 
+em 
+sua 
+fisiopatologia. 
+Sobre 
+os 
+mecanismos moleculares e teciduais associados à essa 
+condição, assinale a alternativa correta. 
+ 
+(A) Alterações no osso subcondral, como o aumento do 
+turnover ósseo não estão presentes na OA. 
+(B) A sinovite na OA está presente apenas em estágios 
+avançados da doença, sendo clinicamente evidente na 
+maioria dos pacientes. 
+(C) O manejo exclusivamente articular é suficiente para 
+controle sintomático da OA.  
+(D) A interleucina-1β (IL-1β) e o fator de necrose tumoral alfa 
+(TNF-α) estimulam a produção de metaloproteinases 
+(MMPs), que degradam a matriz extracelular da 
+cartilagem. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Dor – PROVA A03 
+{32} 
+Sobre o conceito de dor total: 
+ 
+(A) Trata-se de uma dor de tratamento difícil, pois é 
+consequente a fatores físicos, psíquicos, culturais e/ou 
+espirituais. 
+(B) Trata-se de condição dolorosa que acomete todo o corpo, 
+e de difícil controle. 
+(C) Trata-se de um escape intenso da dor, podendo ocorrer 
+de forma Incidental ou sem causa observável. 
+(D) É condição apenas associada à dor oncológica, onde 
+ocorre dor de difícil controle, pois é consequência de 
+sofrimento físico, psíquico, cultural e/ou espiritual. 
+##### 
+ 
+{33} 
+Qual técnica de imagem é mais útil para identificar alterações 
+neuroplásticas em dor crônica? 
+ 
+(A) Radiografia simples. 
+(B) Ultrassonografia. 
+(C) Ressonância magnética funcional.  
+(D) Tomografia computadorizada. 
+##### 
+ 
+{34} 
+Assinale a alternativa que melhor engloba o conceito de 
+disestesia. 
+ 
+(A) A diminuição da dor em resposta a um estímulo 
+normalmente doloroso. 
+(B) Dor devido a um estímulo incapaz de provocar dor em 
+situações normais. 
+(C) Uma sensação anormal e desagradável, seja espontânea 
+ou evocada. 
+(D) Uma sensação anormal, seja espontânea ou evocada. 
+##### 
+ 
+{35} 
+Relaxantes musculares como a ciclobenzaprina são indicados, 
+principalmente, no tratamento da dor 
+ 
+(A) miofascial aguda. 
+(B) neuropática crônica. 
+(C) miofascial crônica. 
+(D) articular crônica. 
+##### 
+ 
+{36} 
+Assinale a alternativa que descreve um tratamento com alta 
+qualidade de evidência e forte recomendação para crises de 
+migrânea, de acordo com as diretrizes para tratamento 
+farmacológico da migrânea da Sociedade Internacional de 
+Cefaleia, publicadas em 2025. 
+ 
+(A) Diclofenaco 50 mg por via oral. 
+(B) Ibuprofeno 400 mg por via oral. 
+(C) Zolmitriptano 2,5 mg por via oral. 
+(D) Paracetamol 1.000 mg por via oral. 
+##### 
+ 
+ 
+ 
+{37} 
+Sobre a epidemiologia da fibromialgia, assinale a alternativa 
+correta. 
+ 
+(A) Na maior parte dos estudos, a prevalência desta condição 
+na população geral é estimada entre 20 a 50 indivíduos a 
+cada 100.000 habitantes. 
+(B) Familiares de primeiro grau de pessoas com fibromialgia 
+apresentam risco aumentado de desenvolver essa 
+condição em relação à população geral. 
+(C) A prevalência desta doença atinge o pico entre 20 e  
+30 anos de idade, reduzindo-se em faixas etárias maiores. 
+(D) Esta condição é mais frequente em indivíduos do gênero 
+masculino. 
+##### 
+ 
+{38} 
+Qual escala é recomendada para avaliação de dor em 
+pacientes idosos com demência? 
+ 
+(A) PAINAD (Pain Assessment in Advanced Dementia). 
+(B) Escala Numérica (0 a 10). 
+(C) Escala Visual Analógica (EVA). 
+(D) McGill Pain Questionnaire adaptado para demências. 
+##### 
+ 
+{39} 
+A dor neuropática resulta de lesão ou doença do sistema 
+nervoso somatossensitivo, seja periférico ou central. Diferente 
+da dor nociceptiva, sua fisiopatologia envolve mecanismos 
+peculiares de geração e manutenção. Assinale a alternativa 
+que descreve corretamente um desses mecanismos. 
+ 
+(A) A dor neuropática é primariamente causada pela 
+estimulação de nociceptores no local de uma lesão 
+tecidual. 
+(B) Um mecanismo central na dor neuropática é a 
+sensibilização periférica, caracterizada pela redução do 
+limiar de ativação e aumento da responsividade dos 
+nociceptores. 
+(C) Fenômenos como a alodinia e sensibilização central são 
+comuns na dor neuropática. 
+(D) A teoria do portão da dor, proposta por Melzack e Wall, em 
+1965, é o mecanismo fisiopatológico fundamental que 
+explica a geração espontânea de dor na neuropatia 
+diabética dolorosa. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Dor – PROVA A03 
+{40} 
+Um paciente submetido à toracotomia póstero-lateral para 
+lobectomia pulmonar desenvolve, na 3ª semana de pós-
+operatório, uma dor em queimação e alodinia mecânica na 
+distribuição do nervo intercostal onde foi feita a incisão. A 
+analgesia com opioide IV, anti-inflamatório não esteroide 
+proporcionam alívio limitado. Como entender estes sintomas e 
+a resposta do paciente? 
+ 
+(A) Trata-se de dor neuropática consequente à supressão 
+inadequada das vias descendentes inibitórias da dor, que 
+são mediadas por norepinefrina e serotonina, no corno 
+dorsal da medula espinhal. 
+(B) Provavelmente, ainda está presente a sensibilização 
+periférica nos aferentes primários ativados durante a 
+incisão, fenômeno, mediado por uma contínua liberação 
+de prostaglandinas e bradicinina pelos tecidos lesados. 
+(C) A desregulação do eixo hipotálamo-hipófise-adrenal leva 
+a uma resposta inadequada ao estresse cirúrgico, 
+havendo amplificação da percepção dolorosa. 
+(D) É consequência provável pela lesão do nervo intercostal 
+durante a cirurgia, com dor neuropática, causando a 
+alodinia mecânica e dor em queimação. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+v2

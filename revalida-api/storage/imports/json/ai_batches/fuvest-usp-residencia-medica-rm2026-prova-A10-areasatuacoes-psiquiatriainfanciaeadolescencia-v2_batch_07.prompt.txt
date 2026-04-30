@@ -1,0 +1,162 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+considerada baixa e filhos de indivíduos com TDM 
+têm um risco de cerca de 20% de desenvolverem 
+depressão ao longo da vida, o que reforça a relevância de 
+fatores de risco ambientais, como a vivência de bullying 
+relatada por Carolina.  
+(D) Estudos 
+genéticos 
+sobre 
+depressão 
+em 
+adultos 
+identificaram mais de uma centena de variantes genéticas 
+de risco comuns, cada uma com um efeito de pequena 
+magnitude. Apesar do efeito limitado destas variantes, os 
+estudos encontram correlações genéticas baixas com 
+outros transtornos mentais, o que indica uma maior 
+especificidade dessas variantes genéticas associadas ao 
+TDM. 
+##### 
+ 
+{39} 
+Sobre a psicopatologia do desenvolvimento, assinale a 
+alternativa correta. 
+ 
+(A) Sintomas externalizantes incluem traços de agressividade, 
+impulsividade e violação de regras. No entanto, podem 
+estar associados a sintomas internalizantes como sintomas 
+de ansiedade e depressão.  
+(B) O relato subjetivo de crianças é um desafio para a busca 
+de sintomas externalizantes, sendo que os sintomas 
+observáveis são menos desafiadores nas crianças com 
+sintomas internalizantes. 
+(C) A irritabilidade crônica como traço fundamental do grupo 
+de crianças com sintomas externalizantes deve ser visto 
+como um fator de risco para transtorno bipolar ao longo do 
+tempo. 
+(D) O TDAH é um diagnóstico marcado por sintomas 
+externalizantes, ao mesmo tempo que a comorbidade mais 
+comum é de transtornos ansiosos, mostrando a relação 
+entre grupos internalizantes e externalizantes.  
+##### 
+ 
+{40} 
+Gabriela, 10 anos de idade, foi encaminhada para avaliação 
+psiquiátrica por dificuldades persistentes no desempenho 
+escolar, linguagem pobre, e dificuldades com habilidades 
+adaptativas, especialmente relacionadas à comunicação e 
+autonomia. Foi avaliada por neuropsicólogo, que identificou QI 
+total de 65 em escala padronizada para a população 
+brasileira. A família relata atrasos em alguns marcos do 
+desenvolvimento. Nega agravos perinatais significativos. Com 
+base nos critérios diagnósticos do DSM-5, assinale a 
+alternativa correta. 
+ 
+(A) A testagem neuropsicológica é parte importante da 
+avaliação diagnóstica de indivíduos com deficiência 
+intelectual. Esses pacientes costumam apresentar escores 
+em torno de um desvio-padrão ou mais abaixo da média 
+populacional, incluindo uma margem de erro de medida 
+(em geral, + 5 pontos).  
+(B) As causas de deficiência intelectual (DI) incluem 
+anomalias genéticas. No entanto, parcela significativa dos 
+casos de DI permanece com etiologia desconhecida. 
+Nesse contexto, investigação etiológica e testes genéticos 
+são indicadas somente diante de suspeita clínica de 
+síndrome genética associada. 
+(C) De acordo com o DSM-5, o nível de gravidade da 
+deficiência intelectual (leve, moderada, grave e profunda) 
+é determinado pela pontuação de QI em avaliação 
+padronizada: leves (QI entre 50 e 69), moderados (QI entre 
+35 e 49), graves (QI entre 20 e 34) ou profundos (QI abaixo 
+de 20). 
+(D) Escores de QI são aproximações do funcionamento 
+conceitual, mas podem ser insuficientes para a avaliação 
+do raciocínio em situações da vida real e do domínio de 
+tarefas práticas. Assim, o julgamento clínico é necessário 
+para 
+a 
+interpretação 
+dos 
+resultados 
+de 
+testes 
+neuropsicológicos e a realização do diagnóstico de 
+deficiência intelectual. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 15 ---
+
+ 
+ 
+ 
+
+
+--- PAGE 16 ---
+
+v2
+

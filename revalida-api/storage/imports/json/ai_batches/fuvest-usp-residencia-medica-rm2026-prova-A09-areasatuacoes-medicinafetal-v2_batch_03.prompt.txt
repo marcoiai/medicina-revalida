@@ -1,0 +1,189 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+mpareceà consulta com idade gestacional de 13 semanas. 
+Ela questiona se o resultado do NIPT é definitivo e ela deve se 
+preparar para uma gestação difícil e ter uma criança com 
+tempo limitado de vida. Assinale a alternativa que apresenta a 
+conduta correta. 
+ 
+(A) Acolher, explicar que o NIPT é um teste diagnóstico, mas 
+a seria melhor realizar a amniocentese com 16 semanas 
+de gestação. 
+(B) Acolher, explicar que o NIPT é um teste de rastreamento e 
+orientar sobre a biópsia de vilo corial na idade gestacional 
+atual. 
+(C) Acolher, explicar que o NIPT é um teste diagnóstico e que 
+ela precisa se preparar para o nascimento e procurar 
+orientação multidisciplinar. 
+(D) Acolher, explicar que o NIPT é um teste de rastreamento e 
+orientar sobre a amniocentese na idade gestacional atual. 
+##### 
+ 
+{18} 
+Mulher, 42 anos de idade, advogada, G5P2A2, com 
+antecedente de 2 partos normais a termo de um 
+relacionamento anterior, sem intercorrências durante a 
+gestação e partos. Com o atual marido, apresentou  
+2 abortamentos de primeiro trimestre, há cerca de 1 ano, sem 
+causa aparente. Refere quadro depressivo há 15 anos, após 
+a 
+separação 
+do 
+primeiro 
+marido, 
+com 
+tratamento 
+medicamentoso. Na atual gestação, apresentou alteração no 
+ultrassom morfológico de primeiro trimestre, sendo submetida 
+a biópsia de vilo corial e diagnosticada trissomia do 
+cromossomo 21. Comparece à consulta de pré-natal de rotina 
+com 20 semanas, referindo tristeza, perda de ânimo, com 
+dificuldade para realizar as tarefas domésticas e do trabalho. 
+Refere, também, perda de apetite e dificuldade para acordar. 
+Está ansiosa para realizar o ultrassom morfológico de segundo 
+trimestre, devido à possibilidade de malformações cardíacas 
+fetais, sente-se culpada pela alteração fetal. Assinale a 
+alternativa que apresenta a hipótese diagnóstica e a conduta 
+adequada para o caso, respectivamente. 
+ 
+(A) Depressão maior; iniciar tratamento com sertralina. 
+(B) Transtorno de ansiedade; indicar psicoterapia. 
+(C) Quadro depressivo reacional; indicar psicoterapia. 
+(D) Transtorno de ansiedade; prescrever benzodiazepínico. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Medicina Fetal – PROVA A09 
+{19} 
+Mulher, 32 anos de idade, solteira, tabagista, comparece a 
+primeira consulta de pré-natal. No exame clínico, é realizada 
+a coleta de material para a colpocitologia oncótica e 
+solicitação dos exames de rotina do pré-natal. Na segunda 
+consulta do pré-natal, os resultados estão disponíveis. 
+Resultado 
+da 
+Colpocitologia 
+Oncótica 
+(CCO): 
+lesão 
+intraepitelial de baixo grau (LSIL); sorologias: AgHBs positivo, 
+AgHBe negativo. Qual a conduta neste caso? 
+ 
+(A) Pré-natal de risco habitual, cessar tabagismo e repetir a 
+CCO em 1 mês. 
+(B) Encaminhar para pré-natal de alto risco e CCO 30 dias 
+após o parto. 
+(C) Encaminhar para pré-natal de alto risco e CCO 90 dias 
+após o parto. 
+(D) Encaminhar para pré-natal de alto risco e realização de 
+colposcopia. 
+##### 
+ 
+{20} 
+Mulher, 21 anos de idade, parda, primigesta, pré-natal de 
+risco habitual, sem intercorrências, idade gestacional de  
+37 semanas e 1 dia. Comparece no pronto-socorro de 
+obstetrícia no final da manhã, com queixa de perda de líquido 
+há 2 horas. A paciente nega ter realizado “teste do cotonete” 
+e refere quadro de urticária e dispneia na infância, ao receber 
+penicilina, necessitando atendimento médico. Ao exame 
+obstétrico, foi observada saída de líquido amniótico claro em 
+grande quantidade pela vagina, colo grosso, posterior, 
+dilatação de 1 cm, apresentação cefálica, ausência de 
+contrações uterinas. Cardiotocografia com padrão ativo. Foi 
+indicado o preparo de colo com misoprostol e posterior 
+indução do trabalho de parto com ocitocina, o qual se inicia 
+no final da tarde do dia seguinte. Qual a recomendação para 
+profilaxia da sepse neonatal por estreptococo do grupo B? 
+ 
+(A) Profilaxia com ampicilina. 
+(B) Profilaxia com vancomicina. 
+(C) Profilaxia com azitromicina. 
+(D) A profilaxia está contraindicada. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+v2
+

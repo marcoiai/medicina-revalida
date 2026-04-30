@@ -1,0 +1,253 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+de risco cardiovascular. 
+(D) A utilização de teste de inclinação na unidade de emergência é necessária para a maioria dos pacientes. 
+##### 
+ 
+{07} 
+Leia as seguintes afirmações sobre as taquicardias ventriculares sem cardiopatia estrutural:  
+ 
+I – As taquicardias ventriculares verapamil-sensíveis são, geralmente, as de via de saída do ventrículo direito. A ablação por cateter 
+é altamente eficaz no tratamento curativo. 
+II – As taquicardias do fascículo póstero-inferior costumam ter um padrão de bloqueio de ramo direito e hemibloqueio póstero-
+inferior (ou BDPI).  O tratamento curativo é a ablação por cateter. 
+III – As taquicardias adrenérgicas-dependentes com padrão bidirecional não estão relacionadas ao mecanismo de reentrada. Deve 
+ser considerado o uso de β-bloqueadores tipo propranolol ou nadolol e investigar causas genéticas.  
+ 
+Está correto o que se afirma em: 
+ 
+(A) II, apenas. 
+(B) III, apenas. 
+(C) I e II, apenas. 
+(D) I, II e III. 
+##### 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Eletrofisiologia Clínica Invasiva – PROVA A25 
+{08} 
+Paciente de 33 anos de idade procura pronto-socorro com episódios de palpitações aos esforços e episódio de síncope ao subir 
+escada. Na avaliação inicial, apresenta PA de 100×60 mmHg, FC de 52 bpm. Relata fazer atividades físicas regulares com 
+pedaladas em estrada. Foi realizado o ECG apresentado a seguir: 
+ 
+ 
+ 
+Com base no caso descrito, assinale a alternativa correta. 
+ 
+(A) A bradicardia sinusal é comum em atletas de endurance, não sendo necessário progredir a investigação. 
+(B) Paciente com bloqueio de ramo direito e bradicardia, deve ser investigado para a presença de doença de Chagas, sendo 
+essencial a realização de raio-X, ecocardiograma e Holter para avaliação do escore de Rassi. 
+(C) Deve-se avaliar a história familiar do paciente, também sendo essencial a realização de ressonância magnética do coração. 
+(D) Como o paciente é jovem e apresenta-se hipotenso e bradicárdico, a hipótese de síncope vasovagal é a mais provável. 
+##### 
+ 
+{09} 
+As afirmações a seguir exibem comentários sobre estudos relacionados ao uso de ACODs no contexto de Doença Arterial Coronária 
+(DAC), com implante de stent eletivo em pacientes com fibrilação atrial. 
+ 
+I - Os dados do estudo AUGUSTUS demonstraram que a dose de apixabana mais adequada para redução de sangramento foi a 
+de 2,5 mg duas vezes ao dia e clopidogrel 75 mg, sem acréscimo de aspirina, por até 12 meses. Depois, apenas apixabana  
+5 mg ou 2,5 mg duas vezes ao dia, a depender do cálculo de peso, idade e creatinina sérica. 
+II - Os dados do estudo PIONEER-AF demonstraram que a dose de rivaroxabana 2,5 mg duas vezes ao dia (associada ao uso de 
+aspirina e clopidogrel por 1 a 3 meses), seguida de dose de 15 mg ou 20 mg associada ao clopidrogrel por 1 ano, é uma 
+estratégia superior em redução de sangramento quando comparada ao uso direto de rivaroxabana 15 mg junto com clopidogrel 
+75 mg por 1 ano. 
+III - Os dados do estudo REDUAL-PCI revelaram que o risco de sangramento foi menor entre aqueles que receberam terapia dupla 
+com dabigatrana (110 mg ou 150 mg duas vezes ao dia) e um inibidor P2Y12, do que entre aqueles que receberam terapia 
+tripla com varfarina, um inibidor P2Y12 e aspirina. A terapia dupla não foi inferior à terapia tripla no que diz respeito ao risco de 
+eventos tromboembólicos. 
+ 
+Está correto o que se afirma em: 
+ 
+(A) I, apenas. 
+(B) II, apenas. 
+(C) III, apenas. 
+(D) I, II e III. 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Eletrofisiologia Clínica Invasiva – PROVA A25 
+{10} 
+Paciente de 18 anos de idade, com Síndrome de Wolff-Parkinson-White com duas tentativas prévias de ablação, submetido a novo 
+procedimento sendo realizadas múltiplas aplicações utilizando cateter irrigado. A seguir, são apresentados o traçado antes da 
+ablação (A) e o traçado realizado na manhã do dia seguinte ao procedimento (B), onde o paciente relata ter apresentado 
+desconforto torácico por toda a noite.  
+ 
+ 
+ 
+ 
+ 
+Com base no caso descrito, assinale a alternativa que apresenta o diagnóstico mais provável. 
+ 
+(A) Recorrência da pré-excitação. 
+(B) Pericardite. 
+(C) Memória elétrica. 
+(D) Infarto do miocárdio em evolução.  
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Eletrofisiologia Clínica Invasiva – PROVA A25 
+{11} 
+O eletrocardiograma apresentado a seguir foi feito no momento de uma crise de palpitações taquicárdicas em um paciente de  
+45 anos de idade, logo após o esforço físico, sem antecedentes prévios de cardiopatia. O paciente estava com PA de  
+110×70 mmHg e a FC em torno de 170 bpm.  
+ 
+Com base neste ECG da crise é, possível afirmar: 
+ 
+(A) A principal hipótese diagnóstica é de se tratar de uma taquicardia ventricular tipo fascicular por reentrada no fascículo póstero-
+inferior e pode responder ao uso de verapamil IV. 
+(B) A principal hipótese diagnóstica é de se tratar de uma taquicardia ventricular idiopática do ventrículo esquerdo por reentrada 
+no fascículo ântero-superior, com boa resposta ao uso de adenosina IV. 
+(C) A principal hipótese diagnóstica é de se tratar de uma taquicardia supraventricular tipo juncional com períodos de dissociação 
+AV, com possibilidade de resposta após uso de β-bloqueador IV.  
+(D) A principal hipótese diagnóstica é de uma taquicardia ventricular idiopática fascicular ântero-medial, por mecanismo automático 
+e boa resposta ao uso de β-bloqueador IV. 
+##### 
+ 
+{12} 
+Mulher, 56 anos de idade, com queixa de palpitação de início há 40 minutos, muito sintomática, porém sem sinais ou sintomas de 
+baixo débito cardíaco. A pressão arterial na admissão era de 130×80 mmHg. O traçado da crise encontra-se a seguir. A paciente 
+não apresenta cardiopatia estrutural e nenhuma outra comorbidade clínica. 
+ 
+ 
+ 
+Assinale a alternativa que apresenta o diagnóstico e o tratamento indicados na emergência. 
+ 
+(A) Trata-se de taquicardia supraventricular com aberrância pelo ramo esquerdo. Administração imediata de adenosina. 
+(B) Trata-se de taquicardia ventricular fascicular. Cardioversão elétrica de imediato. 
+(C) Trata-se de taquicardia ventricular fascicular. Verapamil ou qualquer outro antagonista de cálcio venoso. 
+(D) Trata-se de taquicardia supraventricular com aberrância pelo ramo direito. Administração imediata de adenosina. ##### 
+
+
+--- PAGE 9 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Eletrofisiologia Clínica Invasiva – PROVA A25 
+{13} 
+Paciente de 75 anos de idade, com antecedente de cirurgia valvar aórtica, apresenta episódio de síncope. Encaminhado para 
+estudo eletrofisiológico sendo evidenciado intervalo HV de 65 ms com bloqueio de ramo direito. Na estimulação atrial programada, 
+foi evidenciado ponto de Wenckebach de 760 ms com o traçado apresentado a seguir:  
+ 
+ 
+ 
+Com base no caso apresentado, assinale a alternativa correta. 
+ 
+(A) O estudo eletrofisiológico define bloqueio AV como o principal mecanismo da síncope, estando indicado marcapasso definitivo.  
+(B) O estudo eletrofisiológico é inconclusivo para o mecanismo da síncope, devendo o paciente ser submetido ao implante de loop 
+recorder implantável. 
+(C) O estudo eletrofisiológico foi inconclusivo, devendo o paciente ser seguido com Holter.  
+(D) O ponto de Wenckebach elevado com bloqueio supra-His apresentado no traçado é decorrente do efeito da anestesia, revertido 
+com atropina ou isoproterenol. 
+##### 
+ 
+{14} 
+Paciente de 67 anos de idade com antecedente de infarto agudo do miocárdio com supra de ST de parede inferior há 10 anos, 
+com sequela no ecocardiograma de acinesia inferior e FEVE 45%, comparece em consulta médica se queixando de cansaço aos 
+esforços. Faz uso de terapia médica otimizada para IC. Na investigação, foi realizado um novo ecocardiograma que identificou 
+FEVE 35%, e um Holter com o achado apresentado a seguir:  
+ 
+ 
+Sobre as EV em pacientes com miocardiopatia isquêmica, assinale a alternativa correta. 
+ 
+(A) Em pacientes com cicatriz ventricular, em geral as EV são causadas por reentrada dentro da cicatriz, e não costuma se associar 
+a piora de FEVE. 
+(B) A disfunção ventricular causada por EV, nesses pacientes, pode melhorar com ablação por cateter, tanto quanto em pacientes 
+com EV idiopáticas. 
+(C) Os pacientes com maior carga de cicatriz ventricular costumam responder mais à ablação do que aqueles com pouca cicatriz. 
+(D) O uso de propafenona é uma boa opção no tratamento desses pacientes. ##### 
+
+
+--- PAGE 10 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Eletrofisiologia Clínica Invasiva – PROVA A25 
+{15} 
+Paciente de 55 anos de idade, com quadro de síncope precedida de palpitações durante jogo de futebol, foi trazido via ambulância 
+ao pronto-socorro, identificada FC de 240 bpm e foi realizado um novo ECG apresentado a seguir. O paciente tem antecedente de 
+HAS, fibrilação atrial paroxística, sem cardiopatia estrutural, faz uso de rivaroxabana 20 mg 1x/dia, propafenona 300 mg 2x/dia e 
+losartana 50 mg 1x/dia. 
+ 
+ 
+ 
+Qual o mecanismo mais provável da arritmia apresentada? 
+ 
+(A) Taquicardia ventricular. 
+(B) Flutter atrial tipo Ic. 
+(C) Fibrilação atrial com pré-excitação ventricular. 
+(D) Taquicardia por reentrada nodal com aberrância de condução. 
+##### 
+ 
+{16} 
+Homem, 28 anos de idade, atleta amador de corrida, é diagnosticado com Miocardiopatia Hipertrófica (MCH) durante uma avaliação 
+de rotina. Ele está completamente assintomático do ponto de vista cardiovascular. A investigação revela os seguintes dados: 
+ 
+• Ecocardiograma: Hipertrofia septal assimétrica com espessura máxima de 22 mm. Fração de ejeção do VE de 65%. Ausência de 
+obstrução da via de saída do VE em repouso e sob manobra de Valsalva. 
+• Holter 24h: Ritmo sinusal, sem arritmias ventriculares complexas. Foram registrados 3 episódios de Taquicardia Ventricular não 
+Sustentada (TVNS), o mais longo com 4 batimentos a 150 bpm. 
+• História Familiar: Um tio paterno faleceu subitamente aos 45 anos de idade, com diagnóstico post-mortem de MCH. 
+• Teste Ergométrico: Atingiu 11 METs, sem arritmias. A resposta da pressão arterial ao esforço foi normal (elevação > 20 mmHg no 
+pico). 
+ 
+Com base nos dados apresentados, assinale a alternativa que apresenta a conduta mais apropriada para a prevenção de morte 
+súbita neste paciente. 
+ 
+(A) Indicar o implante de CDI para prevenção primária, pois a presença de múltiplos fatores de risco justifica a intervenção. 
+(B) Realizar uma ressonância magnética cardíaca para avaliar a presença de fibrose miocárdica e decidir a conduta com base 
+nesse achado. 
+(C) Manter seguimento clínico a cada 6 a 12 meses, com orientação para cessar atividades esportivas competitivas, sem indicação 
+de CDI no momento. 
+(D) Iniciar tratamento com betabloqueadores em dose máxima tolerada, e repetir o Holter em 3 meses para reavaliar a carga de 
+TVNS. 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Eletrofisiologia Clínica Invasiva – PROVA A25 
+{17} 
+Paciente de 49 anos de idade, com história de tontura, escurecimento visual, palpitação de início súbito, regular e dor torácica em 
+aperto, sudorese, durando 1 hora. Foi levado ao posto de saúde onde fez ECG e recebeu medicação venosa, não se lembra de 
+detalhes. Refere que teve um quadro semelhante há cerca de 1 ano, estava trabalhando, teve palpitação, tontura e foi ao pronto-
+socorro onde foi orientado a passar em consulta com cardiologista. Foi medicado com AAS e amiodarona porém não tomou as 
+medicações. Apresenta ecocardiograma transtorácico com AO: 33; AE: 35; VE: 55 x 44 mm; Septo 7 PP 7 FEVE 50%. Demais 
+câmaras de tamanhos normais. VE com

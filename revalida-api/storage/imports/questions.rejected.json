@@ -1,0 +1,1202 @@
+[
+  {
+    "batch": "fuvest-usp-residencia-medica-provao2026-resolucao_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-provao2026-resolucao_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-gabarito-E0-especialidades-retificado_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-gabarito-EC-especialidades-cirurgicas-retificado_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-provao2026-resolucao_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A01-areasatuacoes-medicinasono_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-gabarito-A-areasatuacoes-retificado_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A03-areasatuacoes-dor-v2_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A02-areasatuacoes-endoscopiaginecologica-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A02-areasatuacoes-endoscopiaginecologica-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-provao2026-resolucao_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A04-areasatuacoes-endoscopiadigestiva-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A01-areasatuacoes-medicinasono_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-gabarito-AA-anosadicionais-retificado_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A04-areasatuacoes-endoscopiadigestiva-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-gabarito-EPD-especialidades-pediatricas-retificado_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A05-areasatuacoes-medicinapaliativa_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A03-areasatuacoes-dor-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A07-areasatuacoes-hepatologia-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A05-areasatuacoes-medicinapaliativa_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A02-areasatuacoes-endoscopiaginecologica-v2_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A10-areasatuacoes-psiquiatriainfanciaeadolescencia-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A04-areasatuacoes-endoscopiadigestiva-v2_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A09-areasatuacoes-medicinafetal-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A06-areasatuacoes-medicinatropical_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A07-areasatuacoes-hepatologia-v2_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A11-areasatuacoes-psiquiatriaforense-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A09-areasatuacoes-medicinafetal-v2_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A10-areasatuacoes-psiquiatriainfanciaeadolescencia-v2_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A03-areasatuacoes-dor-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A10-areasatuacoes-psiquiatriainfanciaeadolescencia-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A09-areasatuacoes-medicinafetal-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A14-areasatuacoes-txpulmao-cirurgiatoracica_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A15-areasatuacoes-txfigado-aparelhodigestivo-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A13-areasatuacoes-txcoracao-cardiologia-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A10-areasatuacoes-psiquiatriainfanciaeadolescencia-v2_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A11-areasatuacoes-psiquiatriaforense-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-gabarito-ECM-especialidades-clinicas-retificado_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A15-areasatuacoes-txfigado-aparelhodigestivo-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A07-areasatuacoes-hepatologia-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A10-areasatuacoes-psiquiatriainfanciaeadolescencia-v2_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A06-areasatuacoes-medicinatropical_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A17-areasatuacoes-psicogeriatria_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A13-areasatuacoes-txcoracao-cardiologia-v2_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A19-areasatuacoes-cirurgiageral-programavancado_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A25-areasatuacoes-eletrofisiologiaclinicainvasiva-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A19-areasatuacoes-cirurgiageral-programavancado_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A22-areasatuacoes-neurofisiologiaclinica_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A20-areasatuacoes-txrim-nefrologia_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A10-areasatuacoes-psiquiatriainfanciaeadolescencia-v2_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A16-areasatuacoes-txfigado-cirurgiapediatrica-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A14-areasatuacoes-txpulmao-cirurgiatoracica_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A16-areasatuacoes-txfigado-cirurgiapediatrica-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A17-areasatuacoes-psicogeriatria_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A15-areasatuacoes-txfigado-aparelhodigestivo-v2_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A17-areasatuacoes-psicogeriatria_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-provao2026-resolucao_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A20-areasatuacoes-txrim-nefrologia_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A26-areasatuacoes-hemodinamica_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A17-areasatuacoes-psicogeriatria_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A25-areasatuacoes-eletrofisiologiaclinicainvasiva-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A29-areasatuacoes-neurorradiologia_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A28-areasatuacoes-psicoterapia-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A26-areasatuacoes-hemodinamica_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A24-areasatuacoes-txmedulaossea-hematologiahemoterapia_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A29-areasatuacoes-neurorradiologia_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A30-areasatuacoes-txcornea-oftalmologia_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A28-areasatuacoes-psicoterapia-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A30-areasatuacoes-txcornea-oftalmologia_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A13-areasatuacoes-txcoracao-cardiologia-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A31-areasatuacoes-cardiooncologia-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A27-areasatuacoes-cirurgiavideolaparoscopica_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A24-areasatuacoes-txmedulaossea-hematologiahemoterapia_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA1-anosadicionais-clinicamedica-v2_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A32-areasatuacoes-reproducaoassistida_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA2-anosadicionais-obstetriciaeginecologia-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA1-anosadicionais-clinicamedica-v2_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A22-areasatuacoes-neurofisiologiaclinica_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A25-areasatuacoes-eletrofisiologiaclinicainvasiva-v2_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A26-areasatuacoes-hemodinamica_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA1-anosadicionais-clinicamedica-v2_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A10-areasatuacoes-psiquiatriainfanciaeadolescencia-v2_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA3-anosadicionais-patologiaclinica_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA4-anosadicionais-medicinanuclear_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA3-anosadicionais-patologiaclinica_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A32-areasatuacoes-reproducaoassistida_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA1-anosadicionais-clinicamedica-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A31-areasatuacoes-cardiooncologia-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA1-anosadicionais-clinicamedica-v2_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA1-anosadicionais-clinicamedica-v2_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA1-anosadicionais-clinicamedica-v2_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA9-anosadicionais-neurologia_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA5-anosadicionais-endocrinologia_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA4-anosadicionais-medicinanuclear_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA1-anosadicionais-clinicamedica-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A30-areasatuacoes-txcornea-oftalmologia_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD1-areasbasicas-acessodireto_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA9-anosadicionais-neurologia_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA2-anosadicionais-obstetriciaeginecologia-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD1-areasbasicas-acessodireto_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD1-areasbasicas-acessodireto_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA8-anosadicionais-psiquiatria_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A27-areasatuacoes-cirurgiavideolaparoscopica_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD2-areasbasicas-acessodireto_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA8-anosadicionais-psiquiatria_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD2-areasbasicas-acessodireto_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA5-anosadicionais-endocrinologia_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA3-anosadicionais-patologiaclinica_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD1-areasbasicas-acessodireto_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD2-areasbasicas-acessodireto_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD3-areasbasicas-acessodireto_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA9-anosadicionais-neurologia_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA9-anosadicionais-neurologia_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD1-areasbasicas-acessodireto_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA8-anosadicionais-psiquiatria_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD3-areasbasicas-acessodireto_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD2-areasbasicas-acessodireto_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD2-areasbasicas-acessodireto_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD2-areasbasicas-acessodireto_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD1-areasbasicas-acessodireto_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AA5-anosadicionais-endocrinologia_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E01-especialidades-mao_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD2-areasbasicas-acessodireto_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD3-areasbasicas-acessodireto_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD1-areasbasicas-acessodireto_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E02-especialidades-cabecaepescoco_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD3-areasbasicas-acessodireto_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E02-especialidades-cabecaepescoco_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E01-especialidades-mao_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E02-especialidades-cabecaepescoco_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E01-especialidades-mao_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD3-areasbasicas-acessodireto_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E01-especialidades-mao_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E01-especialidades-mao_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E03-especialidades-endoscopia_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E02-especialidades-cabecaepescoco_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E03-especialidades-endoscopia_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E02-especialidades-cabecaepescoco_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD1-areasbasicas-acessodireto_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD3-areasbasicas-acessodireto_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E03-especialidades-endoscopia_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E02-especialidades-cabecaepescoco_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E02-especialidades-cabecaepescoco_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E04-especialidades-mastologia_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD3-areasbasicas-acessodireto_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E03-especialidades-endoscopia_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD3-areasbasicas-acessodireto_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E02-especialidades-cabecaepescoco_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E03-especialidades-endoscopia_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E03-especialidades-endoscopia_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E01-especialidades-mao_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E04-especialidades-mastologia_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E04-especialidades-mastologia_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E03-especialidades-endoscopia_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E05-especialidades-nutrologia-v2_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E05-especialidades-nutrologia-v2_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC1-especialidadescirurgicas-aparelhodigestivo_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E03-especialidades-endoscopia_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E05-especialidades-nutrologia-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC1-especialidadescirurgicas-aparelhodigestivo_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E04-especialidades-mastologia_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E04-especialidades-mastologia_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC1-especialidadescirurgicas-aparelhodigestivo_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E05-especialidades-nutrologia-v2_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC1-especialidadescirurgicas-aparelhodigestivo_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E05-especialidades-nutrologia-v2_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E04-especialidades-mastologia_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC1-especialidadescirurgicas-aparelhodigestivo_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-A20-areasatuacoes-txrim-nefrologia_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC3-especialidadescirurgicas-plastica_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-AD2-areasbasicas-acessodireto_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E05-especialidades-nutrologia-v2_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC2-especialidadescirurgicas-pediatrica_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC2-especialidadescirurgicas-pediatrica_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC3-especialidadescirurgicas-plastica_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC1-especialidadescirurgicas-aparelhodigestivo_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC2-especialidadescirurgicas-pediatrica_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC3-especialidadescirurgicas-plastica_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC2-especialidadescirurgicas-pediatrica_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E04-especialidades-mastologia_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC4-especialidadescirurgicas-toracica_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC4-especialidadescirurgicas-toracica_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC3-especialidadescirurgicas-plastica_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E05-especialidades-nutrologia-v2_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC1-especialidadescirurgicas-aparelhodigestivo_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC3-especialidadescirurgicas-plastica_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-E05-especialidades-nutrologia-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC2-especialidadescirurgicas-pediatrica_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC1-especialidadescirurgicas-aparelhodigestivo_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC2-especialidadescirurgicas-pediatrica_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC4-especialidadescirurgicas-toracica_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC3-especialidadescirurgicas-plastica_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC3-especialidadescirurgicas-plastica_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC6-especialidadescirurgicas-coloproctologia_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC4-especialidadescirurgicas-toracica_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC5-especialidadescirurgicas-vascular_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC5-especialidadescirurgicas-vascular_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC2-especialidadescirurgicas-pediatrica_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC4-especialidadescirurgicas-toracica_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC5-especialidadescirurgicas-vascular_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC6-especialidadescirurgicas-coloproctologia_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC4-especialidadescirurgicas-toracica_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC2-especialidadescirurgicas-pediatrica_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC4-especialidadescirurgicas-toracica_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC7-especialidadescirurgicas-urologia_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC4-especialidadescirurgicas-toracica_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC6-especialidadescirurgicas-coloproctologia_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC6-especialidadescirurgicas-coloproctologia_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC5-especialidadescirurgicas-vascular_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC7-especialidadescirurgicas-urologia_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC6-especialidadescirurgicas-coloproctologia_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC5-especialidadescirurgicas-vascular_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-ECM-especialidades-clinicas_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC5-especialidadescirurgicas-vascular_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC6-especialidadescirurgicas-coloproctologia_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC7-especialidadescirurgicas-urologia_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC6-especialidadescirurgicas-coloproctologia_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC7-especialidadescirurgicas-urologia_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC5-especialidadescirurgicas-vascular_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-ECM-especialidades-clinicas_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC5-especialidadescirurgicas-vascular_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EPD-especialidades-pediatricas-v2_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EPD-especialidades-pediatricas-v2_batch_03.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EPD-especialidades-pediatricas-v2_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-ECM-especialidades-clinicas_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-ECM-especialidades-clinicas_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC7-especialidadescirurgicas-urologia_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-ECM-especialidades-clinicas_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-ECM-especialidades-clinicas_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC7-especialidadescirurgicas-urologia_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC7-especialidadescirurgicas-urologia_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC3-especialidadescirurgicas-plastica_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EPD-especialidades-pediatricas-v2_batch_07.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EPD-especialidades-pediatricas-v2_batch_04.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-ECM-especialidades-clinicas_batch_05.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EPD-especialidades-pediatricas-v2_batch_08.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EC6-especialidadescirurgicas-coloproctologia_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-ECM-especialidades-clinicas_batch_02.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EPD-especialidades-pediatricas-v2_batch_06.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  },
+  {
+    "batch": "fuvest-usp-residencia-medica-rm2026-prova-EPD-especialidades-pediatricas-v2_batch_01.prompt.txt",
+    "reason": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "raw": null
+  }
+]

@@ -1,0 +1,849 @@
+
+
+--- PAGE 1 ---
+
+ 
+A20 
+ 
+ 
+ÁREAS DE ATUAÇÕES 
+Transplante de Rim – Nefrologia 
+ 
+ 
+ 
+ 
+ 
+ 
+      PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025     
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo A20. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 1 hora. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo fiscal. 
+O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14 h. Não haverá tempo adicional 
+para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 20 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Transplante de Rim - Nefrologia – PROVA A20 
+{01} 
+Mulher, 25 anos de idade, iniciou suporte dialítico no contexto 
+de internação por hipertensão acelerada maligna em janeiro 
+de 2025. Recebeu 2 concentrados de hemácias durante a 
+internação, e relata que foi informada que “suas plaquetas 
+estavam 
+baixas 
+durante 
+a 
+internação”. 
+Desconhecia 
+antecedentes de HAS, DM ou outras doenças, porém relata 
+que seu pai apresentou “doença renal com necessidade de 
+diálise, mas não sabe a causa”. Negava tabagismo, etilismo 
+ou uso de drogas ilícitas. Não foi submetida a biópsia renal. 
+Na ocasião da alta, a paciente questiona se o transplante renal 
+está indicado para o seu caso. A respeito da avaliação para 
+transplante renal, assinale a alternativa correta. 
+ 
+(A) O correto entendimento da etiologia da DRC é importante 
+na avaliação pré-transplante renal, pelo potencial risco de 
+recorrência da doença de base. Para o caso em questão, 
+é importante caracterizar se estamos diante de uma 
+paciente com microangiopatia trombótica e prosseguir 
+com investigação das possíveis etiologias. 
+(B) Considerando a história de hipertensão acelerada 
+maligna, a avaliação cardiovascular pré-transplante renal 
+deve incluir realização de CATE para descartar doença 
+arterial coronariana. 
+(C) O transplante com doador vivo é a melhor estratégia de 
+tratamento, e a história familiar de doença renal crônica 
+não é um fator relevante em caso de avaliação de seu 
+irmão como possível doador vivo relacionado. 
+(D) Considerando risco aumentado de câncer em pacientes 
+que serão submetidos à terapia de imunossupressão após 
+o transplante renal, a paciente deverá realizar rastreio 
+neoplásico com mamografia bilateral neste momento. 
+##### 
+ 
+{02} 
+Mulher, 38 anos de idade, sensibilizada anti-HLA com painel de 
+49% classe I e 64% classe II, foi submetida a transplante renal 
+com doador falecido. Tinha 3 incompatibilidades HLA: A24, A29 
+e DQ4, sendo este, doador-específico com Mediana de 
+Intensidade de Fluorescência (MIF) de 3.270. A prova-cruzada 
+por citotoxicicidade dependente de complemento de alocação 
+foi negativa. Paciente recebeu indução com timoglobulina, 
+manutenção com micofenolato mofetil, tacrolimo e prednisona. 
+Teve alta hospitalar no 13º dia pós-transplante, com diurese de 
+1.200 mL e creatinina de 2,5 mg/dL. Manteve creatinina em 
+torno de 1,9 mg/dL, sendo submetida à biópsia renal e coleta 
+de soro para avaliar os anticorpos anti-HLA no 1º mês pós-
+transplante. A biópsia evidenciou glomérulos com presença de 
+linfócitos e de neutrófilos (g2), túbulos sem alterações, interstício 
+com edema, capilares peritubulares com pericapilarite 
+linfocítica (ptc 1); C4d negativo. No teste de painel com a 
+pesquisa de anticorpo doador-específico, foi detectada a 
+presença de anti-A24 com MIF de 2.570 e anti-DQ4 com MIF de 
+5.430. Com base no caso, assinale a alternativa correta. 
+ 
+(A) Trata-se de um caso de rejeição ativa mediada por células, 
+visto que o C4d é negativo e tem infiltrado de linfócitos em 
+glomérulos. 
+(B) Trata-se de rejeição mista, pois tem componente de 
+infiltrado celular túbulo-intersticial e edema. 
+(C) Para diferenciar se a rejeição é mediada por células ou por 
+anticorpos é necessário que se repita a prova-cruzada por 
+citotoxicicidade dependente de completo. 
+(D) Infiltrado inflamatório na microcirculação renal e pesquisa 
+de anticorpo doador-específico positiva, mesmo com C4d 
+negativo, são critérios diagnósticos de rejeição mediada por 
+anticorpos. ##### 
+{03} 
+Sobre o risco de transmissão de infecção através do 
+transplante de órgãos sólidos, assinale a alternativa correta. 
+ 
+(A) Órgãos de doadores com meningite por Listeria sp. podem 
+ser aceitos para transplante desde que os doadores 
+estejam sob tratamento há pelo menos 24 horas. 
+(B) Órgãos de doadores HCV positivos não devem ser aceitos 
+para receptores HCV negativos, sendo considerado de 
+risco inaceitável. 
+(C) Doadores de órgãos com 
+tuberculose ativa 
+são 
+considerados de risco aumentado, mas aceitáveis para 
+risco de transmissão de infecção para os receptores. 
+(D) Doadores com sorologia positiva para Chagas tem risco 
+de transmissão da doença para o receptor em torno de 20 
+a 30%. No entanto, conhecendo previamente esta 
+condição, é possível a utilização de alguns órgãos como 
+rim, fígado e pâncreas desde que o receptor tenha 
+acompanhamento clínico e laboratorial rigoroso e seja 
+tratado precocemente. 
+##### 
+ 
+{04} 
+O estudo do doador vivo envolve uma avaliação médica com 
+realização de exames laboratoriais e imagem, além da 
+avaliação de potenciais riscos futuros para o doador. Pode-se 
+afirmar: 
+ 
+(A) Pacientes com glicemia de jejum alterada, IMC de  
+32 kg/m2 e dislipidemia podem ser doadores, desde que 
+se comprometam a emagrecer após a doação. 
+(B) As 
+tentativas 
+de 
+identificar 
+doenças 
+renais 
+com 
+características de hereditariedade são fundamentais na 
+avaliação do receptor. A depender desta avaliação, pode 
+ser necessária uma avaliação genética tanto do receptor, 
+como do doador. 
+(C) Um indivíduo com menos de 30 anos de idade pode doar 
+o rim para sua mãe, portadora de doença renal policística 
+autossômica 
+dominante, 
+se 
+tiver 
+um 
+exame 
+de 
+ultrassonografia mostrando a presença de apenas 1 cisto 
+renal. 
+(D) Indivíduos com duas artérias renais em um dos dois rins, 
+não deve ser doador, já que apresenta um risco maior de 
+desenvolver doença renal crônica no futuro. 
+##### 
+ 
+{05} 
+O uso de Imunoglobulina Intravenosa Humana (IVIg) é uma 
+das medicações utilizadas no processo de dessensibilização 
+de pacientes com altos títulos de anticorpos anti-HLA e no 
+tratamento de rejeição mediada por anticorpo. Sobre sua 
+administração, é correto afirmar:  
+ 
+(A) A 
+infusão 
+de 
+IVIg 
+pode 
+causar 
+nefrotoxicidade, 
+especialmente nas formulações que utilizam aminoácidos 
+como diluente.  
+(B) Meningite asséptica é um efeito colateral comum e está 
+associado à condição de hiperosmolaridade. 
+(C) Preparações de IVIg que utilizam açúcar como diluente, 
+especialmente a maltose e sacarose, podem causar falsa 
+hiperglicemia durante sua infusão.  
+(D) A meia-vida da IVIg é de 7 a 10 dias.  
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Transplante de Rim - Nefrologia – PROVA A20 
+{06} 
+Homem, 61 anos de anos de idade, portador de nefropatia 
+diabética, foi submetido à transplante renal com doador 
+falecido, do sexo masculino, de 26 anos de idade. Teve boa 
+evolução no pós-operatório, com queda espontânea da 
+creatinina, sem necessidade de diálise após o transplante. Foi 
+retirada a sonda vesical no 3º dia pós-operatório e o ultrassom 
+Doppler do rim transplantado no 4º dia pós-operatório foi 
+normal. O paciente apresentava-se bem em consultas 
+ambulatoriais, com creatinina sérica entre 1,3 a 1,5 mg/dL 
+(taxa de filtração glomerular estimado pelo MDRD entre 48 a 
+54 mL/min), até que no 2º mês após o transplante, passou a 
+referir abaulamento na região da fossa ilíaca do rim 
+transplantado. Sua função renal estava inalterada e o paciente 
+não apresentava queixas de alteração miccional ou febre, 
+apenas leve desconforto no local. O plantonista solicitou 
+exame 
+de 
+ultrassonografia 
+seguido 
+de 
+tomografia 
+computadorizada que mostrou uma coleção de cerca de 500 
+mL ao redor do enxerto renal como mostra a imagem a seguir:  
+ 
+ 
+ 
+Com base no caso descrito, é correto afirmar: 
+ 
+(A) A punção esvaziadora da coleção é a conduta mais 
+adequada neste caso e deverá ser repetida toda semana 
+até que a coleção desapareça. 
+(B) Marsupialização cirúrgica da coleção não estaria indicada 
+neste caso, por ser invasivo. 
+(C) A punção da coleção para análise bioquímica do líquido 
+estaria bem indicada. Neste caso, espera que os valores 
+de sódio, creatinina e potássio do fluido sejam 
+semelhantes aos valores encontrados no soro do paciente. 
+(D) O diagnóstico mais provável é de fístula urinária e o 
+paciente deverá ser tratado com a passagem de cateter 
+de duplo jota. 
+##### 
+ 
+{07} 
+Na avaliação clínica do doador vivo, é correto afirmar: 
+ 
+(A) Indivíduos 
+que 
+apresentam 
+relação 
+urinária 
+de 
+microalbumina/creatinina maior que 30 devem ser 
+excluídos como possíveis doadores, devido à suspeita de 
+doença renal incipiente. 
+(B) Pacientes com cálculos renais bilaterais podem ser 
+doadores de rim, se tiverem cálculos com dimensões 
+menores que 4 mm. 
+(C) Hematúria no doador deve ser investigada somente com a 
+realização de cistoscopia e urocultura. 
+(D) Só devem ser recusados os doadores com histórico  
+de 3 ou mais cálculos renais. 
+##### 
+ 
+{08} 
+Com relação ao tratamento preemptivo para infecção por 
+citomegalovírus que consiste em monitoração do CMV no 
+sangue do paciente transplantado, em intervalos regulares, 
+para detecção precoce da replicação viral, assinale a 
+alternativa correta.  
+ 
+(A) Com a terapia preemptiva é possível reduzir a taxa de CMV 
+tardio, permitindo o uso de medicação de forma mais 
+seletiva, diminuindo o custo e a toxicidade das 
+medicações. 
+(B) A coordenação com relação à logística de coleta e 
+checagem dos resultados, assim como o início precoce da 
+terapia após a positividade, são questões pouco 
+relevantes que não influenciam o sucesso desta estratégia.  
+(C) A terapia preemptiva com coletas de sangue 1 vez na 
+semana por um período de 3 a 4 meses não deve ser 
+utilizada em receptor CMV IgG+ que tenha recebido rim 
+de doador CMV IgG+. 
+(D) Os níveis de viremia com a terapia preemptiva devem ser 
+interpretados da mesma maneira em receptores CMV 
+IgG+/doador IgG- e receptores CMV IgG-/doador IgG+. 
+##### 
+ 
+{09} 
+Sobre as complicações vasculares após o transplante, é 
+correto afirmar:  
+ 
+(A) A estenose de artéria renal é sempre causada por 
+acotovelamento da artéria decorrente da desproporção 
+entre o tamanho da artéria e da veia renal. 
+(B) A trombose de artéria renal cursa na maior parte dos casos 
+com dor no enxerto renal e hematúria macroscópica. 
+(C) Existe uma maior incidência de estenose de artéria renal 
+nos primeiros 6 meses de transplante, decorrente da 
+agressão traumática da íntima arterial durante a 
+manipulação do vaso e do enxerto. 
+(D) A ligadura ou trombose de uma artéria polar inferior está 
+associada à maior incidência de linfocele. 
+##### 
+ 
+{10} 
+Com relação ao sistema de Histocompatibilidade Humana 
+(HLA), assinale a alternativa correta. 
+ 
+(A) Os antígenos HLA de classe I estão expressos nas 
+superfícies de todas as células nucleadas, das plaquetas 
+e das hemácias e os antígenos de classe II estão 
+expressos apenas na superfície dos linfócitos B e das 
+células endoteliais do órgão doado. 
+(B) Os antígenos HLA são as proteínas humanas, codificadas 
+por genes no braço curto do cromossoma 6, por este 
+motivo são pouco polimórficas com apenas 1 alelo por loci. 
+(C) Antígenos de classe I e II são codificados pelo mesmo 
+gene, e tem como principal função a apresentação de 
+antígenos, o que ocorre na fenda da molécula. 
+(D) Os antígenos HLA de classe II estão expressos na 
+superfície das células apresentadoras de antígenos 
+(APCs), linfócitos B e macrófagos e nas células imunes 
+ativadas (ex. célula endotelial do órgão transplantado).  
+##### 
+ 
+ 
+ 
+ 
+ 
+Coleção 
+líquida 
+500 mL 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Transplante de Rim - Nefrologia – PROVA A20 
+{11} 
+Quanto aos mecanismos de ação e metabolismo das drogas 
+imunossupressoras, assinale a alternativa correta. 
+ 
+(A) A ciclosporina reduz a recirculação enterohepática do 
+micofenolato, diminuindo a área sob a curva do ácido 
+micofenólico em até 40% quando comparada ao tacrolimo. 
+(B) Assim como o tacrolimo, o everolimo se liga à FKBP12 e 
+inibe a 
+calcineurina, 
+mas 
+age, 
+preferencialmente, 
+interferindo na via de sinalização desencadeada pelo sinal 
+3 de ativação através da inibição da mTOR. 
+(C) A ciclosporina e o tacrolimo interferem, tanto na via de 
+sinalização desencadeada pelo sinal 1 de ativação através 
+da inibição da calcineurina, quanto na via de sinalização 
+desencadeada pelo sinal 2 de ativação através da inibição 
+da produção de interleucina 2. 
+(D) O micofenolato age através do bloqueio da síntese de 
+novo das purinas de todas as células nucleadas. 
+##### 
+ 
+{12} 
+Sobre a realização de transplante renal com doador falecido 
+em pacientes priorizados por falência de acesso, assinale a 
+alternativa correta. 
+ 
+(A) Pelo caráter de urgência para o procedimento, não é 
+necessária compatibilidade ABO para a realização do 
+transplante renal. 
+(B) Quando priorizados em lista, os pacientes transplantam 
+mais rapidamente. Assim, estes pacientes apresentam os 
+melhores desfechos em relação à sobrevida global e do 
+enxerto. 
+(C) Pela necessidade de maior ganho de função renal para 
+estes pacientes, o uso rotineiro de dois rins do mesmo 
+doador está sempre indicado. 
+(D) Trata-se 
+de 
+um 
+perfil 
+de 
+pacientes 
+com 
+maior 
+complexidade clínica, incluindo maior prevalência de 
+pacientes sensibilizados. Deve-se atentar para adequado 
+manejo imunossupressor – entretanto, observa-se que a 
+perda de enxerto em decorrência de óbito do paciente é 
+mais frequente do que a perda por rejeição. 
+##### 
+ 
+{13} 
+Sobre o diagnóstico e monitorização do CMV após o 
+transplante, é correto afirmar: 
+ 
+(A) Os pacientes soronegativos para CMV que recebem um 
+enxerto de doador CMV positivo devem receber tratamento 
+profilático com ganciclovir endovenoso ou valganciclovir 
+por 6 meses. Após este período, o risco de infecção é 
+muito baixa e não justifica a monitorização de viremia 
+periodicamente. 
+(B) A identificação de partículas virais, proteína ou ácido 
+nucleico, em qualquer fluido corporal ou tecido, mesmo na 
+ausência de sintomas, define o termo “doença por CMV”. 
+(C) Na doença invasiva, a identificação de alterações 
+citopáticas ou detecção de antígenos do CMV por imuno-
+histoquímica são considerados padrão-ouro para o 
+diagnóstico do CMV. 
+(D) A doença invasiva em trato gastrointestinal está sempre 
+associada à elevada viremia no sangue. 
+##### 
+ 
+ 
+ 
+{14} 
+É critério necessário para priorização em lista de espera para 
+transplante renal com doador falecido devido falência de 
+acesso para diálise: 
+ 
+(A) Paciente deve ter feito uso de ao menos um cateter em veia 
+subclávia. 
+(B) Em caso de esgotamento de acesso vascular, paciente 
+deve ter iniciado regime de diálise peritoneal (na ausência 
+de contraindicação clínica para tal modalidade de diálise). 
+(C) Evidência de trombose extensa de veia cava inferior, 
+impossibilitando passagem de cateter em veias femorais. 
+(D) Candidato a retransplante renal que perdeu o primeiro 
+transplante 
+em 
+decorrência 
+de 
+suspensão 
+de 
+imunossupressão no contexto de evento infeccioso. 
+##### 
+ 
+{15} 
+Homem, 19 anos de idade, portador de insuficiência renal 
+crônica secundária à glomeruloesclerose segmentar e focal, 
+realizou primeiro transplante renal com doador vivo parente 
+(tio). O paciente nunca havia recebido transfusão sanguínea 
+prévia, tinha 6 disparidades HLA com o tio em lócus A, B e DR 
+e tinha reatividade contra painel (PRA) por luminex negativo 
+(0%). A cirurgia transcorreu bem, sem intercorrências e o 
+paciente apresentou diurese imediata e queda da creatinina 
+satisfatória até o 3º dia PO. O esquema imunossupressor 
+utilizado foi basiliximabe, como indução, e manutenção com 
+tacrolimo (0,2 mg/kg/dia), micofenolato sódico (1.440 mg/dia) 
+e prednisona (40 mg/dia). No 4º dia PO, o paciente apresentou 
+diminuição da diurese, ganho de peso e aumento de 
+creatinina, como mostra a tabela a seguir. Neste dia (3º dia 
+PO) o nível sérico de tacrolimo era 3,5 ng/mL. A relação 
+proteína/creatinina (g/g) em amostra isolada de urina foi 12 no 
+momento pré- transplante e 3 no 3º dia PO. O USG do rim 
+transplantado mostrou boa perfusão renal, velocidade de 
+artéria 
+renal 
+discretamente 
+aumentada, 
+sem 
+coleção 
+aparente. A tabela a seguir apresenta a evolução clínica e da 
+função renal após o transplante. 
+ 
+Dia de 
+Transplante 
+Creatinina 
+sérica (mg/dL) 
+Diurese 
+mL/24h 
+Peso 
+diário (kg) 
+Pré-transplante 
+11,7 
+300 
+64,2 
+1º dia PO 
+5,7 
+5.200 
+66,7 
+2º dia PO 
+3,0 
+3.300 
+66,2 
+3º dia PO 
+1,7 
+2.200 
+66,0 
+4º dia PO 
+2,0 
+1.000 
+67,8 
+ 
+Com base no caso apresentado, assinale a alternativa correta. 
+ 
+(A) Tratar o paciente com timoglobulina pode ser necessário 
+mesmo que o paciente apresente um infiltrado linfocitário 
+leve (Banff IA) em razão da precocidade da rejeição. 
+(B) O tratamento adequado para este caso seria a realização 
+de plasmaférese precoce, já que o diagnóstico mais 
+provável desse caso seria a recidiva da doença de base 
+(glomeruloesclerose segmentar e focal). 
+(C) O achado histológico de infiltrado linfocitário em túbulos 
+não seria possível, tendo em vista a precocidade do 
+transplante.  
+(D) A conduta mais adequada neste caso é reabordar 
+cirurgicamente o paciente para tratamento de fístula 
+urinária.  
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Transplante de Rim - Nefrologia – PROVA A20 
+{16} 
+Sobre o diagnóstico histológico de rejeição aguda, de acordo 
+com a classificação de Banff 2019, pode-se afirmar:  
+ 
+(A) Na classificação de Banff, o diagnóstico de rejeição aguda 
+mediada por células T grau IIA significa que existe 
+inflamação intersticial com infiltrado linfocítico intenso, mas 
+sem acometimento vascular. 
+(B) A presença de infiltrado linfocitário na íntima arterial, mas 
+sem infiltrado tubular, não fecha o diagnóstico de rejeição 
+aguda mediada por células T. 
+(C) A presença de microangiopatia trombótica aguda com 
+inflamação da microcirculação, depósito de C4d em 
+capilar peritubular e evidência sorológica de anticorpo 
+específico do doador, fecham o diagnóstico de rejeição 
+aguda mediada por anticorpo. 
+(D) Só a presença de necrose tubular aguda com depósito de 
+C4d e presença de anticorpo doador específico, não é 
+suficiente para o diagnóstico de rejeição aguda mediada 
+por anticorpos.  
+##### 
+ 
+{17} 
+Com 
+relação 
+à 
+prova 
+cruzada 
+por 
+Citotoxicicidade 
+Dependente de Complemento (CDC), assinale a alternativa 
+correta. 
+ 
+(A) No teste de prova cruzada por CDC, o resultado positivo 
+contra linfócitos T+AGH e negativo contra linfócitos B 
+indica que os anticorpos circulantes são de classe II. 
+(B) Prova-cruzada por CDC detecta anticorpos anti-HLA 
+doador específicos do isotipo IgG e IgM em altos níveis, 
+mas são incapazes de detectar auto-anticorpos. 
+(C) Adição de antiglobulina humana (AGH) ao CDC contra 
+linfócitos T potencializa o teste, visto que, facilita a 
+detecção de anticorpos anti-HLA doador-específicos em 
+baixos níveis. 
+(D) A prova cruzada por CDC contra linfócitos T positiva e 
+CDC contra linfócitos T, tratada com ditiotreitol (DTT) 
+negativa, indica que o anticorpo envolvido na positividade 
+da prova-cruzada é do isotipo IgG. 
+##### 
+ 
+{18} 
+Em relação aos mecanismos envolvidos no reconhecimento 
+imunológico ao enxerto renal, assinale a alternativa correta. 
+ 
+(A) Células apresentadoras de antígenos provenientes do 
+doador apresentam antígenos HLA aos linfócitos T 
+presentes no enxerto, o que caracteriza a via de 
+apresentação direta de antígenos. 
+(B) Células apresentadoras de antígenos provenientes do 
+receptor apresentam antígenos HLA aos linfócitos T 
+presentes nos linfonodos regionais o que caracteriza a via 
+de apresentação indireta de antígenos. 
+(C) O reconhecimento de antígenos HLA pelo receptor de 
+célula T (sinal 1 de ativação) é uma condição necessária e 
+suficiente para a ativação e proliferação do linfócito T e 
+desencadeamento de rejeição, tanto em receptores 
+sensibilizados, quanto em não sensibilizados. 
+(D) A interação entre o CD28 dos linfócitos T e o CD80 ou 
+CD86 das células apresentadoras de antígenos (sinal 2 de 
+ativação) 
+é 
+uma 
+condição 
+relevante 
+para 
+o 
+desencadeamento de rejeição, apenas em receptores não 
+sensibilizados. ##### 
+{19} 
+Sobre a infecção pelo poliomavírus após o transplante renal, é 
+correto afirmar:  
+ 
+(A) A Nefropatia por poliomavírus é uma complicação 
+infecciosa importante após o transplante, pode ocorrer em 
+40% dos rins transplantados. Em geral, ocorre após o 
+segundo ano de transplante e, frequentemente, está 
+associado a perda do enxerto  
+(B) A prevalência de doadores positivos para poliomavírus é 
+elevada. Em torno de 90% dos indivíduos adultos possuem 
+a presença do poliomavírus no trato urinário, o que 
+favorece quadros de infecção latente após início da 
+imunossupressão. 
+(C) O indivíduo transplantado pode apresentar a presença do 
+poliomavírus na urina e no sangue. Para o diagnóstico da 
+nefropatia pelo poliomavírus, a virúria é o teste que melhor 
+se correlaciona com a presença de nefropatia. 
+(D) Leflunomida e cidofovir são as medicações de escolha 
+para o tratamento da infecção pelo CMV. Assim que 
+detectado a presença do vírus na urina ou no sangue do 
+paciente transplantado, deve ser iniciado o tratamento 
+com uma destas medicações.  
+##### 
+ 
+{20} 
+Mulher, 46 anos de idade, foi convocada para realização de 
+seu primeiro transplante renal com doador falecido. A causa 
+de sua doença renal foi nefropatia da IgA, e a paciente estava 
+em hemodiálise há 60 meses. Recebeu 2 transfusões no ano 
+inicial de diálise e, no passado, teve 2 gestações. Seu painel 
+era 0% em Classe I e 30% em Classe II, sendo detectados 
+anticorpos no soro da paciente contra os antígenos DR3 e 
+DR7. A tipagem HLA da receptora era A30,68 B51,82 e  
+DR 4,13. O doador falecido era do sexo masculino, 57 anos 
+de idade e a causa de morte foi AVC hemorrágico. Tinha 
+antecedente de hipertensão arterial e sua creatinina de 
+entrada era 0,8 mg/dL e de saída de 2,1 mg/dL. A tipagem 
+HLA do doador era A03,02 B35,51 DR 4,15. Em relação a 
+escolha da imunossupressão neste caso, pode-se afirmar: 
+ 
+(A) A utilização de antagonista do receptor de interleucina-2 
+(anti IL-2R) pode ser uma opção como terapia 
+imunossupressora de indução, mas, em razão da 
+presença de anticorpos anti-HLA contra classe II, a 
+paciente deverá receber também Imunoglobulina Humana 
+(IVIg). 
+(B) A imunossupressão com drogas que atuam depletando a 
+população de linfócitos T, não vão interferir na 
+apresentação de antígenos HLA do doador e aumentarão 
+significativamente o risco de infecções virais como o 
+citomegalovírus. 
+(C) O uso da timoglobulina, neste caso, oferece uma 
+imunossupressão inicial potente, reduzindo o risco de 
+rejeição aguda e permitindo a utilização de doses 
+reduzidas de inibidores de calcineurina nos momentos 
+iniciais do transplante. 
+(D) Neste caso, em razão da presença de anticorpos 
+específicos contra o doador, a imunossupressão inicial 
+deverá ser com Imunoglobulina Humana (IVIg). 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+

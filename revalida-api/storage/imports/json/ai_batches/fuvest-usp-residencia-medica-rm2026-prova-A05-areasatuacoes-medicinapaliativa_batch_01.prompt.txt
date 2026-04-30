@@ -1,0 +1,396 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+
+
+--- PAGE 1 ---
+
+ 
+A05 
+ 
+ 
+ÁREAS DE ATUAÇÕES 
+Medicina Paliativa 
+ 
+ 
+ 
+ 
+ 
+ 
+      PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025     
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo A05. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 1 hora. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo fiscal. 
+O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14 h. Não haverá tempo adicional 
+para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 20 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Medicina Paliativa – PROVA A05 
+{01} 
+Mulher, 52 anos de idade, com histórico de tabagismo  
+40 anos-maço, em fase de pré-contemplação. Tem histórico 
+de tosse secretiva há dois anos e dispneia aos grandes 
+esforços. Nos últimos meses, cursando com fadiga, piora da 
+dispneia aos moderados esforços, edema maleolar bilateral e 
+perda de peso. Teve dois episódios de pneumonia nos últimos 
+seis meses. Comparece em consulta ambulatorial queixando-
+se de aumento do volume da secreção, que também se tornou 
+purulenta e inapetência há 3 dias. Sobre o caso descrito, 
+assinale a alternativa correta. 
+ 
+(A) A contagem de eosinófilos é o principal fator preditor de 
+novas exacerbações  
+(B) Durante a exacerbação, o risco de evento cardiovascular 
+agudo é aumentado 
+(C) A melhor alternativa de tratamento antimicrobiano nesse 
+caso é administrar levofloxacino por 10 a 14 dias. 
+(D) O uso de oxigenoterapia está indicado para manejo de 
+dispneia em pacientes levemente hipoxêmicos. 
+##### 
+ 
+{02} 
+Mulher, 20 anos de idade, com antecedente de diabetes 
+melito tipo 1, má-aderente ao tratamento, comparece no 
+pronto-socorro com quadro de mal-estar e vômitos.  
+ 
+• Gasometria arterial:  
+pH: 7,1 
+HCO3-: 6 mEq/L 
+BE: -20 
+Na+: 140 mEq/L 
+K+: 3,2 mEq/L 
+ 
+Exame de urina tipo 1 com cetonúria, dextro 500 mg/dL. 
+Assinale a alternativa que apresenta a conduta imediata. 
+ 
+(A) Observar e coletar novos exames laboratoriais em 2 horas. 
+(B) Expansão volêmica e reposição de potássio. 
+(C) Iniciar imediatamente insulina endovenosa em dose  
+0,1 U/kg/h. 
+(D) Investigação de foco infeccioso. 
+##### 
+ 
+{03} 
+Homem, 77 anos de idade, comparece acompanhado do filho 
+com relato que, nos últimos 2 anos, o paciente tem 
+apresentado 
+esquecimentos 
+frequentes, 
+como 
+repetir 
+perguntas, esquecer onde guarda objetos e faltar a 
+compromissos. O filho também nota que ele tem apresentado 
+maior dificuldade com o manejo das finanças da casa e a 
+preparação de refeições, apesar do paciente negar quaisquer 
+dificuldades. Ele pontuou abaixo do esperado para sua 
+escolaridade no mini exame do estado mental, com prejuízos 
+em memória recente e funções executivas. No questionário de 
+Pfeffer, pontuou 8. Com base nos dados apresentados, qual o 
+diagnóstico sindrômico mais provável? 
+ 
+(A) Comprometimento cognitivo leve. 
+(B) Demência, provavelmente devido à doença de Lewy. 
+(C) Demência, provavelmente devido à doença de Alzheimer. 
+(D) Transtorno 
+depressivo 
+maior 
+com 
+sintomas 
+de 
+pseudodemenciais. 
+##### 
+ 
+ 
+{04} 
+Quanto às drogas sedativas, assinale a alternativa correta. 
+ 
+(A) Midazolam 
+é 
+um 
+sedativo 
+da 
+classe 
+dos 
+benzodiazepínicos e seu uso prolongado em UTI não está 
+associado a delirium. 
+(B) Etomidato é um sedativo com pouco repercussão 
+hemodinâmica e é recomendado para sedação contínua e 
+prolongada. 
+(C) Tiopental é um sedativo potente, porém é contraindicado 
+em hipertensão intracraniana. 
+(D) Propofol é uma emulsão lipídica e pode levar a uma 
+diminuição do débito cardíaco. 
+##### 
+ 
+{05} 
+O entendimento do prognóstico de doenças crônicas é 
+fundamental para estabelecer um plano de cuidados em 
+cuidados paliativos. Assim, é de suma importância a 
+atualização quanto aos tratamentos disponíveis que podem 
+modificar o curso de evolução da doença e interferir 
+positivamente no seu prognóstico. É um tratamento que tem 
+demonstrado relação positiva com o prognóstico favorável na 
+insuficiência cardíaca de fração de ejeção reduzida: 
+ 
+(A) Antagonista da aldosterona. 
+(B) Bloqueador de canal de cálcio. 
+(C) Diurético de alça, para controle de sintomas congestivos. 
+(D) Dapaglifozina, somente quando há presença de diabetes 
+melito tipo 2 concomitante. 
+##### 
+ 
+{06} 
+Paciente trazido à UTI devido a quadro de febre, dores 
+musculares e icterícia.  
+ 
+• Exames laboratoriais:  
+Hb: 12 g/dL 
+Leucócitos: 18.000/mm³ 
+Plaquetas: 40.000/mm³ 
+Ur: 120 mg/dL 
+Cr: 2,9 mg/dL 
+Na+: 145 mEq/L 
+K+: 3,8 mEq/L 
+Bilirrubina direta: 3,2 mg/dL 
+CPK: 2.000 U/L 
+ 
+Radiografia de tórax com infiltrado bilateral difuso. Paciente 
+submetido a intubação orotraqueal devido a desconforto 
+respiratório e encaminhado à UTI. À admissão, apresenta PA 
+de 120×70 mmHg, FC de 110 bpm, anúrico a mais de 24h. 
+Assinale a alternativa que indica a principal hipótese 
+diagnóstica e a conduta inicial, respectivamente. 
+ 
+(A) Sepse de foco pulmonar; cefriaxone e expansão volêmica 
+vigorosa. 
+(B) Hepatite aguda; corticoide e lactulose. 
+(C) Insuficiência cardíaca descompensada; furosemida e 
+vasodilatador. 
+(D) Síndrome de Weil; cefriaxone e hemodiálise precoce. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Medicina Paliativa – PROVA A05 
+{07} 
+Mulher, 35 anos de idade, manicure, comparece à unidade de 
+saúde solicitando creme vaginal porque gostaria de ter 
+medicação reserva em casa. Quando foi atendida, apresentou 
+hálito etílico e em investig

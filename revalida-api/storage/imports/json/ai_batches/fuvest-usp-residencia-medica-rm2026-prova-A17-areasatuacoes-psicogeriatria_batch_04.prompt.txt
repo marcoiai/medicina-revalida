@@ -1,0 +1,172 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ide 
+encaminhar o paciente para um serviço especializado, 
+visando à implementação da imunoterapia antiamiloide por via 
+infusional, 
+utilizando-se 
+o 
+medicamento 
+lecanemab, 
+importado dos Estados Unidos. A avaliação feita pela equipe 
+especializada ratificou a indicação do tratamento, pelas 
+premissas de: (i) adequação do diagnóstico biológico da 
+doença de Alzheimer; (ii) estágio evolutivo compatível com a 
+perspectiva de benefícios clínicos; e (iii) genótipo da 
+apolipoproteína E compatível com a intervenção. Os exames 
+prévios de ressonância magnética foram revisados pela 
+equipe, que identificou: ausência de eventos vasculares 
+corticais 
+prévios, 
+isquêmicos 
+ou 
+hemorrágicos; 
+microangiopatia subcortical leve, sem lesões confluentes; 
+ausência de siderose superficial cortical ou de micro 
+hemorragias sugestivas de angiopatia cerebral amiloide 
+subjacente. 
+Foram 
+prescritas 
+infusões 
+quinzenais 
+do 
+medicamento na dose de 10 mg/kg e programados exames 
+de imagem cerebral por ressonância magnética seriados para 
+monitoramento de segurança. As infusões ocorreram sem 
+intercorrências clínicas e não foram relatados sintomas 
+sugestivos de eventos adversos. Após a 13ª infusão, foi feita 
+uma ressonância magnética de controle que identificou a 
+ocorrência de duas lesões compatíveis com ARIA (Amyloid-
+Related Imaging Abnormalities) em região occipitotemporal 
+esquerda, sugestivas de micro hemorragias de volume inferior 
+a 1 cm3 conforme mostra a imagem a seguir (achado em 
+destaque). 
+ 
+ 
+ 
+O 
+paciente 
+foi 
+convocado 
+para 
+reavaliação 
+clínica, 
+constatando-se que esse achado de imagem não era 
+acompanhado de sintomas ou sinais clínicos. Com base 
+nessas informações, assinale a alternativa que melhor 
+corresponde ao diagnóstico e conduta neste caso. 
+ 
+(A) Ocorrência de eventos de ARIA-E ou ARIA-H considerados 
+leves e assintomáticos, durante o tratamento com 
+lecanemab, 
+não 
+determina 
+necessariamente 
+a 
+descontinuação do tratamento. Neste caso, o evento de 
+ARIA-H 
+é 
+representado 
+por 
+micro 
+hemorragias 
+(microbleeds) de pequeno volume e em número inferior a 
+4, na ausência de sinais ou sintomas clínicos. O paciente 
+pode prosseguir com o tratamento conforme programação 
+inicial, com a recomendação de manter o monitoramento 
+radiológico. 
+(B) Diante da ocorrência dessa complicação hemorrágica 
+associada à imunoterapia antiamiloide com lecanemab, 
+torna-se mandatória a descontinuação imediata do 
+tratamento, independentemente do tipo, número ou 
+tamanho das lesões. 
+(C) Trata-se de um evento adverso grave associado à 
+imunoterapia antiamiloide, independentemente da droga 
+utilizada. Há potencial de causar danos neurológicos, na 
+maioria das vezes irreversíveis. É um dos argumentos mais 
+fortes que sustentam a oposição ao uso clínico dessa 
+modalidade terapêutica. 
+(D) Diante da ocorrência de ARIA-H, a orientação mais correta 
+é interromper a administração do medicamento e monitorar 
+a incidência de sintomas neurológicos até a resolução 
+completa do quadro clínico e o desaparecimento das 
+alterações de imagem. Após esse período, o tratamento 
+poderá ser reiniciado em doses inferiores às inicialmente 
+prescritas. 
+##### 
+ 
+{20} 
+Homem, 76 anos de idade, com histórico de hipertensão e 
+fibrilação atrial, é trazido ao ambulatório pelos filhos por 
+apresentar, há 8 meses, dificuldade de memória, piora do 
+equilíbrio e episódios de irritabilidade. Nas últimas semanas, 
+passou a ter comportamento social inadequado, como rir sem 
+motivo e retirar roupas em locais públicos, além de episódios 
+de incontinência urinária. Ao exame físico, apresenta-se 
+consciente, desinibido, com discurso tangencial. Marcha 
+apraxia. MEEM: 20/30. O teste do desenho do relógio foi 
+profundamente desorganizado.  
+ 
+• RM de encéfalo (FLAIR e T2): múltiplas áreas hiperintensas 
+na substância branca periventricular e nos núcleos da base, 
+além de rarefação da substância branca frontoparietal.  
+• EEG: ritmo de base desorganizado, sem atividade 
+epileptiforme.  
+• Líquor: pressão normal, sem pleocitose, proteínas e glicose 
+normais.  
+• Exames laboratoriais: TSH, B12 e VDRL não reagentes ou 
+normais.  
+ 
+Com base no quadro clínico descrito e nos achados 
+complementares, qual o diagnóstico mais provável? 
+ 
+(A) Demência 
+frontotemporal 
+variante 
+comportamental; 
+ressonância não é compatível. 
+(B) Hidrocefalia de pressão normal; deve-se realizar teste 
+terapêutico com punção lombar. 
+(C) Demência vascular subcortical (Binswanger); controle de 
+fatores de risco é prioritário. 
+(D) Doença de Alzheimer; padrão de neuroimagem e sintomas 
+são típicos. 
+##### 
+ 
+
+
+--- PAGE 9 ---
+
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+

@@ -1,0 +1,368 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+cia – PROVA A10 
+{17} 
+Sobre o transtorno obsessivo-compulsivo (TOC), assinale a 
+alternativa correta. 
+ 
+(A) O TOC, geralmente, começa cedo na vida e tem longa 
+duração. Entre os meninos, os sintomas geralmente têm 
+início antes dos 10 anos de idade. Nas meninas, o início 
+geralmente ocorre durante a adolescência. Estudos 
+clínicos e comunitários longitudinais demonstram que os 
+sintomas do TOC podem persistir por décadas, embora a 
+remissão parcial ou completa pode ocorrer em um número 
+considerável de indivíduos. 
+(B) A maior parte dos pacientes com TOC apresenta alguma 
+comorbidade psiquiátrica ao longo da vida. Entre os 
+transtornos comórbidos mais comuns, estão os transtornos 
+ansiosos, do humor, do controle dos impulsos. Pelo início 
+precoce do TOC, em 80% dos casos, o TOC precede a 
+ocorrência dos transtornos comórbidos. 
+(C) O tratamento do TOC compreende vários componentes, 
+começando com a construção de uma aliança terapêutica 
+e psicoeducação, seguida por abordagens psicológicas 
+e/ou 
+farmacológicas. 
+Os 
+inibidores 
+seletivos 
+da 
+recaptação da serotonina (ISRS) são considerados 
+primeira linha de tratamento. No caso de resposta 
+insatisfatória, os guidelines indicam o uso de clomipramina 
+ou imipramina como tratamentos adjuvantes. 
+(D) Aproximadamente dois terços dos pacientes com TOC, 
+que são tratados com um tratamento de primeira linha, não 
+respondem 
+ao 
+tratamento. 
+Fatores 
+associados 
+a 
+resultados insatisfatórios no tratamento incluem: quadros 
+mais graves, falta de insight, comorbidade com depressão 
+grave, agorafobia ou transtorno de ansiedade social, sexo 
+feminino, baixo nível socioeconómico. 
+##### 
+ 
+{18} 
+Lucas, 12 anos de idade, é levado pelos pais à consulta com 
+queixa de comportamentos repetitivos. Desde os 7 anos de 
+idade, apresenta movimentos repetitivos como piscar os olhos, 
+movimentos bruscos de cabeça e limpeza da garganta, os quais 
+variam de intensidade e se agravam com estresse. Nos últimos 
+dois anos, passou a apresentar comportamentos repetitivos mais 
+complexos, como tocar superfícies em sequência e refazer 
+movimentos corporais para que ambos os lados do corpo sintam 
+a mesma coisa. Relata que precisa realizar essas ações para 
+evitar que “algo ruim aconteça”, como um familiar adoecer. 
+Atualmente, os comportamentos que faz para “evitar que algo 
+ruim aconteça” se intensificaram e Lucas gasta um tempo 
+significativo com rituais de simetria e verificação. Os sintomas têm 
+causado sofrimento emocional e impacto no rendimento escolar. 
+Considerando o caso descrito, assinale a alternativa que 
+descreve o diagnóstico e a conduta de forma mais adequada.  
+ 
+(A) Síndrome de Tourette com comorbidade de TOC e, de acordo 
+com guidelines, paciente deve ser encaminhado para terapia 
+cognitivo comportamental. 
+(B) Transtorno obsessivo-compulsivo e, de acordo com 
+guidelines, o paciente deve receber tratamento com inibidor 
+da recaptação da serotonina, como primeira linha de 
+tratamento. 
+(C) Síndrome de Tourette, e o paciente deve ser encaminhado 
+para terapia cognitivo comportamental, como primeira linha 
+de tratamento. 
+(D) Síndrome de Tourette com comorbidade de TOC e, de acordo 
+com guidelines, deve receber tratamento com inibidor da 
+recaptação da serotonina, como primeira linha de tratamento. 
+##### 
+{19} 
+Uma meta-análise foi conduzida para avaliar a eficácia do 
+medicamento A no tratamento da depressão em crianças e 
+adolescentes, com base em 10 ensaios clínicos controlados 
+randomizados duplo-cego independentes. Os tamanhos de 
+efeito foram expressos como diferenças médias padronizadas 
+(DMP) e analisados utilizando o modelo de efeitos aleatórios. 
+O efeito combinado estimado foi de DMP = -0,25 (IC95%: -0,51 
+a -0,34). A análise de heterogeneidade indicou baixa variação 
+entre os estudos, com Q = 9,32 (p = 0,41), I² = 3,5%, e Tau² = 
+0,0006. Na descrição dos resultados, os autores incluíram o 
+gráfico a seguir: 
+ 
+ 
+ 
+Com base nas informações fornecidas sobre o estudo, 
+assinale a alternativa correta. 
+ 
+(A) A Diferença Média Padronizada (DMP) é uma medida de 
+tamanho de efeito usada para comparar a diferença entre 
+dois grupos em uma escala comum, independentemente 
+da unidade original da variável. 
+(B) A meta-análise incluiu ensaios clínicos controlados 
+randomizados duplo-cego. A randomização é importante, 
+pois evita viés de expectativa; enquanto o desenho duplo-
+cego reduz viés de seleção. 
+(C) O funnel plot apresentado indica que não há viés de 
+publicação entre os estudos incluídos na meta-análise.  
+(D) As análises indicam que o medicamento A teve um 
+tamanho de efeito moderado-grande na redução dos 
+sintomas depressivos em comparação ao placebo.  
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psiquiatria da Infância e Adolescência – PROVA A10 
+{20} 
+Qual informação sobre a etiologia do Transtorno Alimentar 
+Restritivo / Evitativo (TARE) seria mais precisa para orientar 
+uma família sobre os fatores que contribuem para o 
+transtorno? 
+ 
+(A) O TARE apresenta alta herdabilidade (79%), sendo mais 
+influenciado por fatores genéticos do que outros 
+transtornos alimentares, com menor influência de fatores 
+ambientais não compartilhados. 
+(B) O TARE tem herdabilidade moderada (45%), similar à 
+anorexia nervosa, com forte influência de fatores 
+ambientais familiares compartilhados. 
+(C) O TARE é principalmente determinado por fatores 
+ambientais 
+(70%), 
+com 
+menor, 
+mas 
+significativa 
+contribuição genética, especialmente em casos com 
+sensibilidade sensorial. 
+(D) O TARE apresenta herdabilidade baixa (30%), sendo mais 
+influenciado por fatores ambientais como experiências 
+traumáticas com alimentos do que por predisposição 
+genética. 
+##### 
+ 
+{21} 
+André, 22 anos de idade, procurou atendimento psiquiátrico 
+por achar que tem TDAH. Durante a consulta, relata que tem 
+percebido dificuldades crescentes na faculdade, incluindo 
+desatenção nas aulas, e tendência à procrastinação. Relata, 
+também, 
+sensação 
+constante 
+de 
+inquietude 
+mental, 
+dificuldade em organizar tarefas e compromissos mesmo com 
+uso de aplicativos e listas. Nos últimos meses, tem se sentido 
+mais ansioso e com mais dificuldade para finalizar tarefas e 
+cumprir prazos. Refere uso de álcool e cocaína. Quando 
+questionado sobre sua infância, conta que era levado, não 
+gostava de estudar, dava trabalho para os professores e para 
+sua mãe, que precisava acompanhar de perto os seus 
+estudos. Apesar disso, era considerado “inteligente e criativo” 
+e nunca foi reprovado. Considerando seus conhecimentos e o 
+caso apresentado, assinale a alternativa correta. 
+ 
+(A) No caso de André, as principais hipóteses diagnósticas 
+são transtorno ansioso e abuso de substância. O relato de 
+dificuldades crescentes nos últimos meses não é 
+compatível com o diagnóstico de TDAH, uma vez as 
+evidencias apontam um curso crônico, sem flutuações dos 
+sintomas de TDAH ao longo do tempo.  
+(B) No caso de André está indicado o uso de estimulantes. 
+Antes de sua introdução, é importante explicar que o uso 
+de estimulantes pode levar a um discreto aumento da 
+frequência cardíaca e da pressão arterial. Mas que, até o 
+momento, não existem evidências de aumento do risco de 
+desfechos cardiovasculares como hipertensão em adultos. 
+(C) No caso de André, deve-se iniciar o uso de medicamentos 
+não estimulantes incluindo a atomoxetina (inibidor da 
+recaptação da noradrenalina), e clonidina (agonistas ɑ2-
+adrenérgicos). Embora apresentem um menor tamanho de 
+efeito 
+quando 
+comparados 
+aos 
+medicamentos 
+estimulantes, os ensaios clínicos randomizados duplo-
+cegos indicam que ambas as medicações são eficazes 
+para tratamento de pacientes adultos com TDAH.  
+(D) Em pacientes com diagnóstico de TDAH e abuso de 
+substância, 
+o 
+tratamento 
+com 
+medicamento 
+não 
+estimulante pode ser considerado. No entanto, a 
+comorbidade com abuso de substância não exclui o uso 
+de estimulantes, e os dados indicam que os estimulantes 
+podem ser eficazes nesses casos.  
+##### 
+{22} 
+O transtorno de déficit de atenção e hiperatividade (TDAH) é 
+um transtorno comum caracterizado por desatenção, 
+hiperatividade e impulsividade. Em muitos casos, é uma 
+condição associada a prejuízos funcionais significativos. 
+Nesse contexto, dados epidemiológicos são fundamentais 
+para a compreensão do transtorno e elaboração de políticas 
+que ajudem a mitigar o impacto do TDAH. Em relação ao 
+TDAH, é correto afirmar: 
+ 
+(A) O TDAH é um transtorno de neurodesenvolvimento, que 
+comumente se inicia na infancia. De acordo com a 
+literatura, a idade média do diagnóstico é de 6-7 anos. 
+Estima-se que cerca 65% dos indivíduos com TDAH sejam 
+diagnosticados antes dos 10 anos de idade; 85,0% são 
+diagnosticados até os 15 anos. 
+(B) Estudos 
+populacionais 
+realizados 
+com 
+amostras 
+representativas de crianças e adolescentes dos Estados 
+Unidos, Canadá e do Reino Unido indicam que nas últimas 
+décadas houve um aumento significativo na prevalência 
+do TDAH em crianças e adolescentes nestes países. 
+(C) Além da comorbidade com outros transtornos mentais, o 
+TDAH também ocorre de forma comórbida com condições 
+somáticas. Meta-análises encontraram, em crianças e 
+adolescentes, 
+associação 
+entre 
+TDAH, 
+dermatite, 
+obesidade, asma e rinite.  
+(D) Na literatura, os estudos indicam que, em países de baixa 
+e média renda, observa-se um consumo excessivo de 
+medicamentos estimulantes, que supera o consumo 
+esperado pela prevalência do transtorno. Este fato pode 
+estar relacionado a diferentes fatores, como diagnósticos 
+inadequados, 
+e 
+menor 
+controle 
+na 
+prescrição 
+e 
+comercialização destes medicamentos. 
+##### 
+ 
+{23} 
+Ana, 7 anos de idade, com diagnóstico de transtorno do 
+espectro autista (nível 2 de suporte) e ausência de deficiência 
+intelectual, iniciou acompanhamento em um CAPS infanto-
+juvenil (CAPSij). Ela frequenta escola regular com apoio de 
+mediadora, mas apresenta dificuldade em comunicação 
+social e regulação emocional. A equipe do CAPSij discute a 
+construção de um Plano Terapêutico Singular (PTS). De 
+acordo com o Instrutivo Técnico da Rede de Atenção 
+Psicossocial, assinale a alternativa correta. 
+ 
+(A) O PTS deve estabelecer metas terapêuticas centradas em 
+remissão sintomática completa e retorno à autonomia total 
+do paciente. 
+(B) O PTS deve integrar família, escola e rede de apoio, com 
+metas específicas, prazos e monitoramento contínuo, 
+respeitando as necessidades contextuais de cada 
+paciente. 
+(C) O PTS, deve ser elaborado pelos profissionais de saúde e, 
+posteriormente apresentado à família e à escola. 
+(D) O PTS é um documento do CAPSij e não deve ser 
+compartilhado 
+com 
+outros 
+serviços, 
+por 
+conter 
+informações clínicas sensíveis. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psiquiatria da Infância e Adolescência – PROVA A10 
+{24} 
+Joana, 5 anos de idade, vive com a mesma família adotiva há 
+1 ano, após histórico de institucionalização prolongada por 
+negligência grave nos primeiros anos de vida. A equipe da 
+escola relata que Joana é bastante afetiva, mas notam que a 
+criança 
+aborda 
+adultos 
+desconhecidos 
+com 
+extrema 
+familiaridade, tenta abraçá-los, senta-se no colo e busca 
+contato físico de forma inapropriada. Assim como é capaz de 
+sair com um estranho sem hesitação. A mãe acha que a filha 
+tem comportamentos que parecem refletir uma busca por 
+atenção. A mãe fica preocupada, pois percebe que estes 
+comportamentos impactam negativamente na relação que a 
+filha estabelece com os adultos e com outras crianças, tem 
+receio de que este contato indiscriminado com a estranhos 
+possa expor a filha a situações de risco e abusos. Assinale a 
+alternativa correta. 
+ 
+(A) A principal hipótese diagnóstica para o caso descrito é 
+Transtorno de Interação Social Desinibido (TISD). Estudos 
+ind

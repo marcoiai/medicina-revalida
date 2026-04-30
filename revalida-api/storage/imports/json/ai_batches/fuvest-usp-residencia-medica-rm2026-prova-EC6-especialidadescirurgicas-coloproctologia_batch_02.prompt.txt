@@ -1,0 +1,380 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ assinale a alternativa que indica o diagnóstico correto e o tratamento indicado. 
+ 
+(A) Hérnia femoral estrangulada – laparotomia infra-umbelical e ressecção da alça intestinal e reparo da hérnia com tela. 
+(B) Hérnia femoral estrangulada – ressecção da alça e reparo com tela pela incisão inguinal. 
+(C) Hérnia inguinal estrangulada – ressecção da alça e correção com tela e realizar um vídeo laparoscopia para avaliar o restante 
+da cavidade peritoneal. 
+(D) Hérnia inguinal encarcerada – aumentar o anel herniário, aquecer a alça intestinal e reduzir o conteúdo e realizar reparo com 
+tela. 
+#####
+ 
+{07} 
+Observe o gráfico de tromboelastograma apresentado a 
+seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta o segmento que, quando 
+diminuído, representa a falta de plaquetas. 
+ 
+(A) ML. 
+(B) CT. 
+(C) CFT. 
+(D) MCF. 
+##### 
+ 
+ 
+ 
+{08} 
+Paciente vítima de ferimento por arma de fogo no flanco 
+esquerdo é admitido na unidade de emergência consciente e 
+referindo dor abdominal. Ao exame abdominal, observa-se um 
+orifício em flanco esquerdo, com saída na região dorsal 
+esquerda, na altura de L2 a 5 cm da coluna. Foi indicada 
+laparotomia exploradora, onde foram identificadas três lesões 
+transfixantes de intestino delgado há 20, 30 e 35 cm do 
+ligamento de Treitz, visualiza-se um hematoma na zona dois à 
+esquerda não pulsátil e que durante a cirurgia não estava em 
+expansão. A conduta cirúrgica recomendada é:  
+ 
+(A) Somente a ressecção e anastomose primária do intestino 
+delgado. 
+(B) Somente o desbridamento e sutura dos ferimentos de 
+delgado e drenagem da cavidade. 
+(C) Ressecção e anastomose primária do intestino delgado e 
+exploração do hematoma de zona II. 
+(D) Grampeamento das lesões de delgado, colocação de 
+compressas na zona dois e peritoneostomia. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Coloproctologia – PROVA EC6 
+{09} 
+Mulher, 78 anos de idade, procura o pronto-socorro referindo 
+dor abdominal intermitente, localizada em baixo ventre há 2 
+semanas. Refere ser constipada, mas está a duas semanas 
+sem evacuar e está eliminado gases. Refere calafrios, nega 
+náusea, vômitos, nega sangramento. Ao exame físico, 
+apresenta regular estado geral, eupneica, afebril, corada. 
+Abdome globoso, flácido com plastrão palpável em 
+hipogástrio doloroso à palpação sem sinais de irritação 
+peritoneal. Toque retal sem massas tocáveis e sem fezes na 
+ampola retal. Tomografia mostrou coleção de contornos 
+irregulares e paredes espessas no mesogástrio/hipogástrio, 
+com realce periférico e focos gasosos de permeio com 
+densificação dos planos adiposos adjacentes, medindo cerca 
+de 8,0 x 7,0 x 5,0 cm (volume aproximado de 150 mL). 
+Determina aderências entre alças ileais adjacentes e mantém 
+contato com o cólon sigmoide. Assinale a alternativa que 
+apresenta o diagnóstico e tratamento inicial adequado. 
+ 
+(A) Perfuração intestinal por corpo estranho – antibiótico 
+terapia e colonoscopia. 
+(B) Tumor de colo – colonoscopia para diagnóstico e 
+tratamento. 
+(C) Videolaparoscopia diagnostica e drenagem da coleção. 
+(D) Diverticulite complicada – antibiótico terapia e drenagem 
+da coleção por rádio intervenção. 
+##### 
+ 
+{10} 
+Homem, 34 anos de idade, comparece ao pronto-socorro com 
+quadro desconforto abdominal. Ao exame físico, apresentava 
+ascite. O médico assistente realizou paracentese diagnóstica 
+por suspeita de peritonite bacteriana primária. O aspecto do 
+líquido era amarelo citrino. Após 1 hora, o doente refere dor 
+intensa abdominal. Foi realizada uma tomografia abdominal 
+apresentada na imagem a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que indica o diagnóstico e o tratamento 
+correto. 
+ 
+(A) Lesão da artéria epigástrica – angio-embolização. 
+(B) Lesão de veia umbilical – laparotomia e ligadura. 
+(C) Hematoma muscular – drenagem cirúrgica. 
+(D) Tumor de parede abdominal com necrose – realizar uma 
+biópsia. 
+##### 
+ 
+ 
+ 
+{11} 
+Homem, 53 anos de idade, refere que durante um jogo de 
+futebol colidiu contra outro jogador, apresentando dor 
+abdominal intensa, tontura, sudorese e palidez. Foi atendido 
+em um pronto-socorro próximo ao local. Neste atendimento, 
+apresentou FC de 128 bpm, FR de 22 irpm; PA sistólica de  
+88 mmHg. Glasgow coma score de 14. Recebeu 1.750 mL de 
+Ringer lactato e 1 g de transamin. Foi transferido para um 
+pronto-socorro terciário, onde, na sala de emergência, 
+apresentava FC de 133 bpm, FR de 25 irpm, PA de  
+53×34 mmHg. Tempo de enchimento capilar: > 5 segundos. 
+Glasgow coma score de 13. Agitado, descorado, sudorético e 
+FAST positivo em espaço hepatorrenal. Assinale a alternativa 
+que apresenta a conduta recomendada neste momento. 
+ 
+(A) Intubação orotraqueal com sequência rápida, iniciar o 
+protocolo de transfusão maciça, noradrenalina em acesso 
+periférico, e realizar uma tomografia abdominal  
+(B) Intubação orotraqueal com sequência retardada, acesso 
+venoso calibroso, iniciar transfusão de concentrados de 
+hemácia, e realizar uma angiotomografia toracoabdominal. 
+(C) Intubação orotraqueal com sequência retardada, acesso 
+venoso calibroso, iniciar droga vaso ativa em veia 
+periférica, solicitar eletrocardiograma e coleta de exames 
+para curva CKMB e troponina.  
+(D) Iniciar 
+o 
+protocolo 
+de 
+transfusão 
+maciça, 
+iniciar 
+noradrenalina em acesso periférico, e realizar laparotomia 
+exploradora. 
+##### 
+ 
+{12} 
+Mulher, 75 anos de idade, comparece ao serviço de urgência 
+referindo dor em hipocôndrio direito há 3 dias, temperatura em 
+casa de 38 °C, náusea e vômitos. Ao exame físico, apresenta 
+regular estado geral, eupneica, com temperatura de 37,5 °C, 
+apresentava sinal de Murphy, FC de 112 bpm, FR de 14 irpm, 
+PA de 100×75 mmHg.  
+ 
+• Exames laboratoriais: 
+Leucócitos: 23,000/mm3 (Bastonetes: 5% e segmentados: 
+75%) 
+Glicemia: 240 mg/dL 
+Amilase: 120 U/L 
+Bilirrubina total: 2,0mg/dL 
+Bilirrubina direta 1,2 mg/dL 
+ 
+Foi realizado um ultrassom de abdome que evidenciou uma 
+vesícula biliar com cálculos em seu interior, paredes 
+espessadas e delaminadas. Via biliar sem sinais de dilatação. 
+Assinale a alternativa que apresenta o tratamento mais 
+adequado. 
+ 
+(A) Antibioticoterapia e colecistectomia eletiva. 
+(B) Antibioticoterapia e colecistectomia em até 72 horas. 
+(C) Drenagem percutânea biliar e cirurgia em 24 – 48 horas 
+após a drenagem. 
+(D) Estabilização clínica e antibioticoterapia para realização 
+da colecistectomia em 3 meses. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Coloproctologia – PROVA EC6 
+{13} 
+Mulher, 24 anos de idade, refere dor abdominal mais acentuada em fossa ilíaca direita, náusea, vômitos e diarreia há 4 dias. Data 
+da última menstruação há 4 dias. Ao exame físico, apresenta regular estado geral, afebril, eupneica. Pulmões com murmúrio 
+vesicular presente bilateralmente. Abdome plano, normotenso com dor a palpação e dor à descompressão. PA de 110×90 mmHg, 
+FC de 110 bpm; FR de 16 irpm 
+ 
+• Exames laboratoriais: 
+Hb: 13,6 g/dL 
+Ht: 40,6% 
+Leucócitos: 26.500/mm3 
+Proteína C reativa: 38,30 ng/dL 
+Ureia: 54 mg/dL 
+Creatinina: 0,50 mg/dL 
+Amilase:38 U/L 
+ 
+Os exames de imagem realizados podem ser observados nas figuras a seguir: 
+ 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a sequência de tratamento adequada para este paciente. 
+ 
+(A) Videolaparoscopia diagnóstica/terapêutica, antibioticoterapia profilática. 
+(B) Laparotomia exploradora. 
+(C) Antibioticoterapia – tratamento para moléstia inflamatória pélvica. 
+(D) Reposição volêmica, antibiótico terapia, videolaparoscopia. 
+#####
+ 
+{14} 
+Hemotórax retido é: 
+ 
+(A) Presença de 100 mL de coágulos diagnosticados por 
+tomografia após drenagem torácica. 
+(B) Presença de 300 mL de sangue presentes na cavidade 
+pleural após 24 horas de observação diagnosticados por 
+tomografia. 
+(C) Sangue que ocupa um terço do espaço pleural e que não 
+consegue ser removido por um dreno de tórax com  
+< 24 horas. 
+(D) Sangue que ocupa um terço do espaço pleural e que não 
+consegue ser removido por um dreno de tórax após  
+72 horas. 
+##### 
+ 
+ 
+ 
+{15} 
+Paciente, 20 anos de idade, vítima de ferimento penetrante na 
+cavidade abdominal. 
+Estável 
+hemodinamicamente. Foi 
+submetido à laparotomia exploradora e não foi identificada 
+nenhuma lesão relacionada ao trauma. Na revisão das alças, 
+foi encontrado um divertículo de Mekel com um nódulo de 1 
+cm de diâmetro no ápice. Qual é a lesão mais frequente? 
+ 
+(A) Leiomioma. 
+(B) Carcinoide. 
+(C) Adenocarcinoma. 
+(D) Tecido gástrico ectópico. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Coloproctologia – PROVA EC6 
+{16} 
+Mulher, 70 anos de idade, hipertensa, refere dor abdominal epigástrica e no hipocôndrio direito há 5 dias, acompanhada de 
+náuseas, anorexia, nega vômitos ou febre. Antecedente de AVC há 6 anos. Ao exame físico, apresenta regular estado geral, 
+eupneica, afebril. Abdome globoso, flácido, com dor à palpação em epigástrio, flanco direito sem sinais de irritação peritoneal.  
+ 
+• Exames laboratoriais:  
+Hb: 13 g/dL 
+Leucócitos: 23.190/mm3; Segmentados: 20.546/mm3 
+Bilirrubina total: 1,6 mg/dL 
+Bilirrubina direta: 0,8 mg/dL 
+Proteína C reativa: 61,4 mg/dL 
+Glicemia: 162 mg/dL 
+ 
+Foi realizada uma tomografia computadorizada, que pode ser observada nas imagens a seguir: 
+ 
+ 
+ 
+Com base no caso apresentado, a suspeita clínica é de 
+ 
+(A) colangite aguda supurativa. 
+(B) colecistite aguda enfisematosa. 
+(C) obstrução intestinal por íleo biliar. 
+(D) trombose mesentérica. 
+##### 
+ 
+{17} 
+Observe a imagem a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que indica corretamente o nome da manobra cirúrgica apresentada.  
+ 
+(A) Kocher. 
+(B) Matox. 
+(C) Catell. 
+(D) Catell-Braasch. 
+#####
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Coloproctologia – PROVA EC6 
+{18} 
+Paciente, 26 anos de idade, refere dor abdominal de forte 
+intensidade em cólica, localizada em hipogástrio e fossa ilíaca 
+direita há 1 dia, refere temperatura de 38,5 °C, anorexia e 
+astenia. Ao exame físico, apresenta abdome plano, flácido, 
+ruídos hidroaéreos presentes, dor à palpação em fossa ilíaca 
+direita. Sem sinais de irritação peritoneal. A imagem da 
+tomografia realizada pode ser observada a seguir:  
+ 
+ 
+ 
+Assinale a alternativa que apresenta o tratamento adequado. 
+ 
+(A) Colonoscopia. 
+(B) Colectomia parcial com anastomose primária. 
+(C) Apendicectomia por videolaparoscopia. 
+(D) Apendicectomia por laparotomia. 
+##### 
+ 
+{19} 
+Homem, 19 anos de idade, vítima de ferimento por arma 
+branca na região epigástrica. Ao exame físico, apresentou PA 
+de 124×71 mmHg, FC de 71 bpm, FR de 12 irpm, SpO2 de 
+97%. Apresentou abdome plano, doloroso à palpação, 
+conforme imagem a seguir:  
+ 
+ 
+ 
+Foi indicado laparotomia, onde foram encontrados os achados 
+apresentados nas imagens a seguir:  
+ 
+ 
+ 
+ 
+ 
+Assinale a alternativa que apresenta o tratamento cirúrgico 
+recomendado. 
+ 
+(A) Realizar gastroduodenopancratectomia cefálica. 
+(B) Sutura do ferimento gástrico anterior, procura e sutura do 
+ferimento gástrico e colecistectomia com colangiografia 
+intraoperatoria. 
+(C) Sutura do ferimento gástrico anterior, procura e sutura do 
+ferimento gástrico posterior e drenagem do pâncreas. 
+(D) Gastrectomia (diverticulação duodenal), colecistectomia, 
+colocação de um dreno de Kher e drenagem pancreática. 
+##### 
+ 
+{20} 
+Homem, 30 anos de idade, portador de retocolite ulcerativa 
+em tratamento com mesalazina há 5 anos. Comparece ao 
+pronto-socorro referindo diarreia com sangue há 3 dias  
+(8 episódios por dia). Foi internado, realizado hidratação 
+endovenosa e antibioticoterapia. Após 4 horas de internação, 
+começou a apresentar enterorragia em grande quantidade, 
+PA de:90×70 mmHg, FC de 120 bpm. A hemoglobina inicial, 
+que era de 10 g/dL, 

@@ -1,0 +1,394 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ em psicoterapia e não 
+gosta da ideia de tomar antidepressivos. Além de agendar 
+uma consulta para 4 a 6 semanas, a conduta imediata seria: 
+ 
+(A) Encaminhar para psicoterapia cognitivo-comportamental. 
+(B) Prescrever inibidor seletivo de recaptura de serotonina. 
+(C) Orientar e reforçar a necessidade de atividade física. 
+(D) Indicar fitoterápico Hipericum perforatum. 
+##### 
+{66} 
+Homem, 58 anos de idade, em atendimento em unidade 
+básica de saúde, refere estar “mais ou menos”. Queixa-se de 
+intestino “um pouco preso” e boca seca. Durante a consulta 
+diz estar se sentindo mais tenso, com pouca paciência, 
+preocupando-se demais com pequenos problemas. Refere, 
+ainda, tontura quando se levanta e bebe mais água para a 
+boca seca. Fazia tratamento para pressão alta há 1 ano com 
+captopril irregularmente. Há 2 meses, seu médico anterior 
+disse que ele teria transtorno de ansiedade e prescreveu 
+nortriptilina e, para hipertensão, foi substituído o captopril por 
+enalapril, pois a pressão não baixava. No final da consulta, diz 
+não se dar bem com remédios para a pressão. Reconhece 
+que com frequência não toma os medicamentos para pressão, 
+pois tem preguiça e também, eventualmente, não se lembra. 
+Ao exame físico, apresentou PA de 150×95 mmHg, FC de  
+74 bpm. Além de abordar aspectos relativos a hábitos e à 
+adesão ao tratamento, a conduta indicada seria substituir 
+ 
+(A) nortriptilina por fluoxetina. 
+(B) nortriptilina por diazepam. 
+(C) enalapril por anlodipino. 
+(D) enalapril por losartana. 
+##### 
+ 
+{67} 
+Caraiporã é um município de médio porte com 58 mil 
+habitantes. Aproximadamente 35% da população vive abaixo 
+da linha da pobreza, com precariedade em saneamento 
+básico e acesso limitado a serviços públicos. Nos últimos 
+anos, o município notificou cerca de 12 casos novos anuais de 
+Tuberculose (TB). Em 2024, esse número saltou para 27, com 
+5 óbitos, o que ocasionou uma análise da situação de 
+tuberculose em Caraiporã com a apresentação dos seguintes 
+indicadores: 
+ 
+Incidência de TB: 46,6/100 mil; 
+Incidência de TB pulmonar: 32,8/100 mil; 
+Coeficiente de mortalidade por TB: 8,6/100 mil; 
+Letalidade de 18,5%; 
+Proporção de abandono: 20,0%; 
+Prevalência da forma pulmonar: 17,2/100 mil; 
+Proporção da forma miliar: 1,72%. 
+ 
+Assinale a alternativa que descreve um indicador populacional 
+de avaliação da qualidade da assistência aos casos de 
+tuberculose. 
+ 
+(A) Taxa de incidência da forma pulmonar. 
+(B) Taxa de prevalência da forma pulmonar. 
+(C) Proporção de abandono do tratamento. 
+(D) Proporção de tuberculose miliar. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 19 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 
+{68} 
+ 
+Mulher, 23 anos de idade, com 26,7 kg/m² de IMC, refere estar 
+preocupada com suas “gordurinhas a mais”. Relata que, nos 
+últimos meses, apresenta um a dois episódios por mês em 
+que, em meia hora, come muito doce, principalmente 
+chocolate. Está com medo de engordar mais. Uma amiga está 
+tomando lisdexanfetamina e perdeu 2 kg em um mês. Não 
+apresenta alterações no exame físico. Ao exame psíquico, não 
+apresentou alterações. Refere ser uma pessoa pragmática, 
+mas não se adapta bem a rotinas; já tentou fazer atividade 
+física algumas vezes, sem muito sucesso na continuidade. 
+Nega problemas de saúde e gostaria de poder tomar 
+lisdexanfetamina para controlar seu peso e apetite. Qual a 
+conduta adequada? 
+ 
+(A) Discutir riscos da lisdexantetamina e prescrever fluoxetina. 
+(B) Indicar semaglutida se exames hepáticos e pancreáticos 
+normais. 
+(C) Encaminhar para avaliação psiquiátrica de distúrbios 
+alimentares. 
+(D) Orientar sobre hábitos alimentares sem indicação de 
+exames ou medicamentos. 
+##### 
+ 
+{69} 
+ 
+Os gastos diretos em saúde, também chamados de out of 
+pocket ou gastos catastróficos, referem-se aos valores que 
+famílias e indivíduos desembolsam diretamente por serviços 
+de saúde. Segundo a Pesquisa de Orçamento Familiar (POF), 
+do IBGE, cada vez mais as famílias brasileiras dispensam um 
+percentual maior de sua renda mensal com gastos diretos em 
+saúde ao longo do tempo. A edição da POF de 2019 apontava 
+que a saúde respondia por 8% das despesas totais das 
+famílias. Antes, em 2003, respondia por 5,1%. Sobre os gastos 
+out of pocket com saúde no Brasil, assinale a alternativa 
+correta. 
+ 
+(A) Os gastos de indivíduos e famílias com planos e seguros 
+de saúde privados constituem o maior percentual dos 
+gastos out of pocket. 
+(B) O comprometimento proporcional da renda familiar com 
+assistência à saúde no Brasil cresce na medida em que 
+aumenta a renda familiar. 
+(C) Do gasto total com saúde no Brasil, mais da metade é 
+constituída por gastos privados out of pocket. 
+(D) A maior parcela de gastos out of pocket é com 
+medicamentos, em proporção mais elevada nas classes 
+com renda mais baixa. 
+##### 
+ 
+{70} 
+ 
+As equipes Multiprofissionais na Atenção Primária (eMulti) são 
+compostas por profissionais de saúde de diferentes áreas de 
+conhecimento que atuam de maneira complementar e 
+integrada às demais equipes da Atenção Primária à Saúde 
+(APS). Com relação às eMulti, assinale a alternativa correta. 
+ 
+(A) A teleconsulta ou atendimento remoto de pacientes não 
+estão incorporados no processo de trabalho das eMulti. 
+(B) As eMulti estão vinculadas à APS, mas também a unidades 
+de pronto atendimento e ambulatórios de especialidades. 
+(C) Os médicos especialistas em cardiologia, dermatologia, 
+endocrinologia, infectologia e psiquiatria podem compor 
+as eMulti. 
+(D) O financiamento e custeio das eMulti é responsabilidade 
+exclusiva dos municípios (Prefeituras e Secretarias 
+Municipais de Saúde). ##### 
+{71} 
+Considere as seguintes informações referentes a uma mulher 
+de 22 anos de idade: 
+ 
+SUBJETIVO: Paciente comparece a segunda consulta pré-
+natal, relatando que ainda mantém náuseas e vômitos. Não 
+queria engravidar agora, tomou um susto com a gravidez e 
+ainda está buscando aceitá-la. Tem faltado no trabalho, por 
+conta do mal-estar da gravidez, e demonstra preocupação 
+com isso. O supervisor a tem pressionado, dizendo que talvez 
+seja melhor ela se demitir. Fazia academia de ginástica  
+3 vezes por semana e parou por receio de fazer mal à criança.  
+Está usando ácido fólico, sulfato ferroso e carbonato de cálcio. 
+É a sua primeira gestação e não tem nenhuma comorbidade.  
+ 
+OBJETIVO: Idade gestacional de 12 semanas compatível com 
+o primeiro USG feito com 8 semanas de gestação. Vacinação 
+prévia: 3 doses de hepatite B, 3 doses com reforço de DPT,  
+3 doses da vacina de COVID-19 e influenza sazonal. PA de 
+102×60 mmHg. Ausculta (sonar): BCF presente. IMC de  
+24,2 kg/m2. Exames de primeiro trimestre sem alterações 
+significativas.  
+ 
+AVALIAÇÃO: Primigesta de risco habitual, no primeiro 
+trimestre gestacional. Eutrofia, com risco nutricional pelos 
+vômitos. Risco psicossocial. 
+ 
+Em relação ao PLANO para esta consulta, qual é a alternativa 
+mais adequada?  
+ 
+(A) Orientar a paciente a não fazer atividade física em 
+academia, pelo risco de lesão osteomuscular, restrição de 
+crescimento e parto prematuro. 
+(B) Prescrever ondansetrona para a náusea e trocar os 
+medicamentos por um multivitamínico, para melhorar a 
+adesão. 
+(C) Completar vacinação agora com dTpa e encaminhar para 
+a Psicologia, por ser gestação não planejada e ainda não 
+aceita. 
+(D) Suspender temporariamente medicamentos e orientar 
+direitos trabalhistas, pois a gestante não pode ser 
+demitida, exceto por justa causa. 
+##### 
+
+
+--- PAGE 20 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 
+{72} 
+Mortalidade proporcional e taxa de mortalidade ajustada por idade segundo raça/cor por todas as causas 
+Município de Imbaré, 2025. 
+ 
+ 
+Nº de óbitos 
+Mortalidade 
+Proporcional (%) 
+Taxa de mortalidade 
+ajustada por mil hab 
+População 1 
+10.000 
+48,5 
+3,2 
+População 2 
+2.000 
+9,7 
+5,1 
+População 3 
+8.000 
+38,8 
+4,5 
+Total 
+20.600 
+100 
+— 
+ 
+Com base nos dados fornecidos na tabela apresentada, qual população tem maior risco de morte? 
+ 
+(A) População 1, pois apresenta a maior mortalidade proporcional. 
+(B) População 1, pois apresenta maior número de óbitos. 
+(C) População 2, pois apresenta a maior taxa de mortalidade. 
+(D) Não é possível comparar, pois as populações são diferentes. 
+##### 
+ 
+{73} 
+ 
+Durante o atendimento em sala de parto, um recém-nascido apresentou-se hipotônico e sem choro ao nascer. Foi realizado o 
+clampeamento imediato do cordão umbilical, seguido da aplicação dos passos iniciais de reanimação neonatal. A seguir, a 
+avaliação da FC revelou 30 bpm, associada à ausência de movimentos respiratórios. Iniciada ventilação com pressão positiva com 
+máscara, o paciente foi monitorizado e não apresentou melhora após correção da técnica. Assinale a alternativa que apresenta os 
+dispositivos que podem ser usados para a realização da ventilação, como próximo passo da reanimação neonatal. 
+ 
+(A) 
+ 
+ 
+(B) 
+ 
+ 
+(C) 
+ 
+ 
+ 
+(D) 
+ 
+ 
+ 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 21 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 
+Texto para as questões de 74 a 76 
+ 
+Criança, sexo masculino, 1 mês de vida, previamente hígida, 
+é trazida à unidade de emergência após cair do trocador, há 
+cerca de 30 minutos. Segundo a mãe, ela havia tirado a mão 
+dele por alguns segundos para jogar a fralda no lixo e ele teria 
+rolado e caído do trocador. Na admissão, o paciente estava 
+inconsciente, sendo levado à sala de emergência. A seguir, os 
+dados da avaliação sistematizada:  
+ 
+A: pérvia 
+B: murmúrio vesicular e expansibilidade diminuídos, FR  
+de 8 irpm, SpO2 de 89% em ar ambiente; 
+C: tempo de enchimento capilar < 1 segundo, pulsos 
+presentes e simétricos, ausculta com 2BRNF sem sopros, 
+PA de 108×70 mmHg; 
+D: escala de coma de Glasgow 7, pupilas isofotorreagentes; 
+E: hematoma subgaleal em região temporal direita. 
+ 
+{74} 
+Assinale a alternativa que ilustra, corretamente, o suporte 
+respiratório que deve ser prontamente instituído. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+ 
+{75} 
+Foi realizada tomografia de crânio, conforme imagem 
+demonstrada a seguir: 
+ 
+ 
+ 
+Após medidas de estabilização, o caso foi notificado ao 
+serviço social. Com relação a essa decisão da equipe médica, 
+pode-se afirmar: 
+ 
+(A) Foi indicada porque a tomografia não é compatível com o 
+trauma reportado. 
+(B) Foi motivada pela presença de hematoma em localização 
+incomum nos traumas pediátricos. 
+(C) É justificada porque o mecanismo de trauma é 
+incompatível com a faixa etária. 
+(D) Não havia indicação, pois não há incongruências nas 
+circunstâncias do trauma. 
+##### 
+ 
+{76} 
+Com relação aos exames séricos coletados durante o 
+atendimento inicial do paciente, assinale a alternativa que 
+apresenta as alterações laboratoriais esperadas. 
+ 
+(A) 
+pH: 7.28 
+paO2: 58 mmHg 
+pCO2: 55 mmHg 
+HCO3-: 24 mmol/L 
+SpO2: 89% 
+(B) 
+Hb: 5.0 g/dL 
+Ht: 18% 
+Leucócitos: 12.000/mm3 
+Plaquetas: 310.000/µL 
+(C) 
+Relação TTPA: 2.5 RNI 
+Tempo de Protrombina (TP): 1.1 
+Atividade TP: 76% 
+(D) 
+Lactato arterial: 55 mg/dL 
+Ureia: 60 mg/dL 
+Creatinina: 0.7 mg/dL 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 22 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 
+{77} 
+Prematura com idade gestacional ao nascer de 32 semanas, sexo feminino, peso ao nascer de 1.300 g, adequado para idade 
+gestacional, Z-score -1 (Intergrowth-21). Passou em consulta de retorno com a idade cronológica de 56 dias de vida, com peso de 
+2.800 g, em aleitamento materno exclusivo. Os gráficos a seguir são disponibilizados na caderneta da criança pelo Ministério da 
+Saúde.  
+ 
+ 
+ 
+Os pais estão curiosos em saber se o ganho de peso de sua filha está dentro do esperado. Com base nas informações 
+apresentadas, pode-se afirmar que o ganho de peso  
+ 
+(A) é insuficiente, devendo-se iniciar complemento com fórmula láctea e coletar perfil de f

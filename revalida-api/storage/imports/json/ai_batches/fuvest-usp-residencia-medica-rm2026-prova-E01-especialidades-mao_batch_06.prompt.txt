@@ -1,0 +1,324 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+armadilha técnica ou 
+anatômica relevante. 
+ 
+(A) Confundir o nervo supraescapular com um ramo sensitivo 
+da artéria suprascapular na região da incisura da 
+escápula, o que pode levar a anastomose incorreta e falha 
+funcional. 
+(B) Dissecar o nervo acessório abaixo da clavícula, onde ele 
+acompanha o feixe neurovascular axilar, podendo ser 
+confundido com o nervo toracodorsal. 
+(C) Realizar a anastomose do nervo acessório acima do nível 
+do 
+processo 
+coracoide, 
+favorecendo 
+compressão 
+secundária pelo músculo peitoral menor. 
+(D) Utilizar a fossa subescapular na dissecção posterior, o que 
+aumenta o risco de lesão direta ao nervo musculocutâneo. 
+##### 
+ 
+{111} 
+Assinale a alternativa que apresenta o achado artroscópico 
+mais compatível com a lesão da fibrocartilagem triangular tipo 
+1A de Palmer e o tratamento indicado, respectivamente. 
+ 
+(A) Lesão oblíqua periférica vascularizada com flap instável; o 
+tratamento indicado é a ressecção ampla  
+(B) Desinserção do complexo capsuloligamentar ulnar com 
+instabilidade radioulnar distal; o tratamento ideal é a 
+reinserção ulnar. 
+(C) Degeneração da FCT com fragmentação do disco e 
+impacto 
+ulnocarpal; 
+o 
+tratamento 
+indicado 
+é 
+o 
+procedimento de Wafer artroscópico. 
+(D) Defeito central avascular no disco articular, sem 
+instabilidade radioulnar distal associada; o tratamento 
+ideal é o desbridamento artroscópico seletivo. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 17 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Cirurgia da Mão – PROVA E01 
+{112} 
+A respeito do retalho cutâneo lateral do braço, pode-se 
+afirmar: 
+ 
+(A) Seu pedículo vascular contém a artéria colateral radial 
+posterior e comitantes, e a estrutura em risco para 
+dissecção durante o seu levantamento cirúrgico é o nervo 
+radial. 
+(B) Pode ser composto com componente ósseo, no caso, a 
+ulna diafisária. 
+(C) Trata-se de um retalho fasciocutâneo de irrigação septal 
+com pedículo localizado no intervalo entre os músculos 
+tríceps e o bíceps. 
+(D) Sua artéria, a semelhança dos retalhos da cintura 
+escapular, tem diâmetro externo em torno de 3,0 a 4,0 mm. 
+##### 
+ 
+{113} 
+Paciente sofre amputação completa da falange distal polegar, 
+onde o reimplante não é possível pelo grau de esmagamento 
+do dedo. Pode-se lançar mão de algum(ns) retalho(s) 
+pediculado(s) intrínseco(s) para evitar encurtamento adicional 
+deste coto. Idealmente o retalho 
+ 
+(A) P.A.P., retalho S.G.A.P. e retalho T.U.G. 
+(B) o do ancôneo, retalho do braquiorradial e retalho de 
+Corinne Becker. 
+(C) de Bakamjian, Retalho I.M.A.P., retalho delto-peitoral. 
+(D) de Moberg, de Littler e kite (retalho da 1ª a. metacarpiana 
+dorsal). 
+##### 
+ 
+{114} 
+No transplante da fíbula vascularizada para defeito ósseo no 
+antebraço, pode-se esperar, como complicação,  
+ 
+(A) a paresia do m. flexor longo do hálux do membro inferior 
+doador. 
+(B) a redução da massa óssea global nas densitometrias 
+subsequentes. 
+(C) o aumento progressivo do m. flexor ulnar do carpo no 
+membro superior para o qual o osso foi transplantado. 
+(D) o gigantismo do 5º dedo, no caso de esta fíbula ter sido 
+transplantada para a ulna. 
+##### 
+ 
+{115} 
+O retalho do m. latíssimo do dorso tem pedículo proximal 
+constante, o que o torna bom candidato para o transplante 
+microcirúrgico. Normalmente, o seu pedículo neurovascular 
+principal inclui: 
+ 
+(A) Uma artéria toracoacromial, 2 veias comitantes e o n. 
+supraescapular. 
+(B) Uma artéria toracodorsal, uma veia comitante e o n. 
+subescapular médio. 
+(C) Uma artéria circunflexa escapular, uma veia comitante e o 
+n. dorsal da escápula. 
+(D) Uma artéria axilar interna, 2 veias comitantes e o n. 
+torácico longo. 
+##### 
+ 
+ 
+ 
+ 
+{116} 
+Assinale a alternativa que indica um princípio fundamental da 
+transferência nervosa distal, na reconstrução de lesões de 
+nervos periféricos. 
+ 
+(A) Os axônios motores regeneram mais rapidamente quando 
+conectados a nervos mistos, do que quando conectados a 
+nervos exclusivamente motores. 
+(B) A coaptação entre nervos deve ser feita sempre com 
+enxerto interposto, independentemente da distância entre 
+os cotos. 
+(C) A transferência deve ser preferencialmente realizada 
+distalmente ao nível da lesão, próxima ao músculo-alvo, 
+para reduzir o tempo de regeneração. 
+(D) A preferência deve ser por nervos com maior diâmetro, 
+mesmo que distantes do músculo-alvo, para garantir maior 
+aporte axonal. 
+##### 
+ 
+{117} 
+Assinale a alternativa que apresenta as manifestações 
+neurológicas mais características da doença de Hansen na 
+mão, justificando alta suspeita clínica, especialmente em 
+pacientes imigrantes de áreas endêmicas. 
+ 
+(A) Perda da sensibilidade térmica nos primeiros três dedos, 
+com preservação da força intrínseca. 
+(B) Neuropatia periférica do nervo radial, com dor intensa e 
+atrofia do tríceps. 
+(C) Neuropatia periférica do nervo ulnar, com ou sem 
+espessamento do nervo. 
+(D) Hipoestesia 
+palmar 
+difusa 
+com 
+preservação 
+da 
+sensibilidade na área tenar. 
+##### 
+ 
+{118} 
+A estimativa da superfície corporal afetada por queimaduras é 
+determinante para o prognóstico do paciente, durante o 
+atendimento inicial. Em relação ao cálculo estimado das áreas 
+queimadas, assinale a alternativa correta. 
+ 
+(A) Devem ser consideradas no cálculo todas as áreas 
+queimadas, 
+independentemente 
+da 
+espessura 
+de 
+acometimento. 
+(B) O cálculo das áreas queimadas deve ser multiplicado em 
+2 vezes, na vigência de lesão inalatória. 
+(C) O método de Lund e Browder é vantajoso por considerar 
+o fator etário na estimativa do cálculo. 
+(D) A regra da palma da mão estima que a superfície palmar 
+do examinador corresponda a 1% da superfície queimada 
+do paciente.  
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 18 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Cirurgia da Mão – PROVA E01 
+{119} 
+Com relação ao tratamento cirúrgico de pacientes queimados 
+e a cobertura cutânea de áreas queimadas, assinale a 
+alternativa correta. 
+ 
+(A) Quando se utilizam enxertos em malha, quanto maior a 
+ampliação obtida no enxerto, melhor a integração do 
+enxerto. 
+(B) Quando 
+se 
+utilizam 
+matrizes 
+dérmicas 
+sintéticas, 
+recomenda-se o uso de enxertos de pele total sobre estas 
+matrizes. 
+(C) O uso de enxertos de pele parcial de área doadora do 
+couro cabeludo tem como desvantagem o transplante 
+associado dos folículos pilosos à área receptora. 
+(D) Em pacientes com queimaduras extensas e áreas 
+doadoras restritas, a reutilização de uma mesma área 
+doadora pode ser uma alternativa. Áreas doadoras de pele 
+parcial podem ser reutilizadas após cerca de 3 semanas 
+após a retirada anterior. 
+##### 
+ 
+{120} 
+Em relação à Terapia por Pressão Negativa (TPN) no 
+tratamento de feridas complexas, assinale a alternativa 
+correta. 
+ 
+(A) O uso de TPN promove aumento da perfusão local e 
+angiogênese por meio da formação de gradientes de 
+pressão positiva no leito da ferida. 
+(B) A TPN pode ser empregada sobre enxertos cutâneos 
+recém-aplicados para promover adesão ao leito da ferida, 
+reduzir seroma e melhorar o índice de integração do 
+enxerto. 
+(C) A TPN está contraindicada em feridas com exposição de 
+tendões ou ossos, independentemente de qualquer 
+proteção interposta, devido ao risco aumentado de 
+necrose tecidual. 
+(D) A TPN deve ser evitada em feridas colonizadas, uma vez 
+que a presença de qualquer carga bacteriana inviabiliza o 
+seu uso. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 19 ---
+
+ 
+ 
+ 
+
+
+--- PAGE 20 ---
+
+

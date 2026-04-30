@@ -1,0 +1,377 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ Deve ser tratado novamente com penicilina cristalina ou esquema 
+alternativo. 
+(B) Reinfecção mesmo sem informar lesão genital – novo tratamento está indicado devido à persistência do FTA-ABS reagente. 
+(C) Diagnóstico duvidoso – o FTA-ABS pode ser falso-positivo por reação cruzada com doenças virais. 
+(D) Resposta imunológica esperada – o VDRL caiu adequadamente e o FTA-ABS pode permanecer reagente.  
+#####
+
+
+--- PAGE 25 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Cirurgia Vascular – PROVA EC5 
+{97} 
+Paciente com histórico de múltiplos episódios de cálculo renal 
+desde os 25 anos, procura acompanhamento urológico após 
+passar por nutricionista especializada em nefrolitíase. 
+Algumas orientações dietéticas foram sugeridas antes mesmo 
+da avaliação metabólica completa. Com base nas evidências 
+atuais sobre prevenção de litíase renal, assinale a alternativa 
+correta. 
+ 
+(A) A ingestão adequada de cálcio alimentar, é recomendada, 
+pois 
+reduz 
+a 
+absorção 
+intestinal 
+de 
+oxalato 
+e, 
+consequentemente, o risco de formação de cálculos de 
+oxalato de cálcio. 
+(B) Suplementação de citrato de potássio deve ser iniciada 
+empiricamente em todos os pacientes com cálculos de 
+repetição, independentemente da avaliação metabólica ou 
+pH urinário. 
+(C) A restrição completa de frutas cítricas, especialmente 
+laranja e limão, é indicada devido à sua acidez e potencial 
+de acidificação urinária. 
+(D) A ingestão de cálcio deve ser minimizada sempre que 
+possível, pois mesmo fontes alimentares aumentam 
+diretamente a excreção urinária de cálcio. 
+##### 
+ 
+{98} 
+Mulher, 34 anos de idade, procura o pronto-socorro com dor 
+lombar esquerda em cólica, intensa, associada a náuseas. 
+Relata escurecimento da urina. Ao exame físico, está afebril, 
+hemodinamicamente estável, com sinal de Giordano positivo 
+à esquerda. Nega episódios semelhantes anteriores. Suspeita 
+inicial de cólica nefrética. Diante desse quadro clínico, após 
+iniciar analgésicos e antieméticos via parenteral, qual é a 
+conduta mais adequada?  
+ 
+(A) Solicitar 
+exames 
+séricos, 
+urinários, 
+e 
+iniciar 
+antibioticoterapia empírica. 
+(B) Solicitar ressonância magnética de abdome e pelve para 
+identificação de calculose urinária. 
+(C) Solicitar raio-X simples e ultrassonografia de abdome que 
+apresentam a mesma sensibilidade da tomografia, mas 
+com menor custo. 
+(D) Solicitar 
+exames 
+séricos, 
+urinários, 
+e 
+tomografia 
+computadorizada de abdome e pelve sem contraste. 
+##### 
+ 
+{99} 
+Homem, 39 anos de idade, mestre de obras, comparece ao 
+pronto-socorro queixando-se que apresentou dois episódios de 
+hematúria nos últimos dias. Perguntado sobre os antecedentes, 
+ele referiu ter caído de um andaime, cerca de três metros de 
+altura, em pé, há 4 dias. Foi atendido em um pronto-socorro e 
+tratado uma fratura no pé esquerdo com imobilização. Desde 
+então, também tem apresentado dor lombar ipsilateral à fratura 
+e está usando analgésicos comuns. Foi indicada tomografia 
+contrastada de abdome, que mostrou rim direito normal e 
+exclusão renal completa à esquerda. Diante desse achado, 
+assinale a alternativa que apresenta o melhor diagnóstico e a 
+conduta recomendada, respectivamente. 
+ 
+(A) Trombose de veia renal esquerda; nefrectomia esquerda. 
+(B) Trombose de artéria renal esquerda; observação clínica. 
+(C) Trombose 
+de 
+artéria 
+renal 
+esquerda; 
+trombólise 
+medicamentosa. 
+(D) Lesão do pedículo renal esquerdo; revascularização renal 
+ou angioplastia com stent. ##### 
+{100} 
+Homem, 66 anos de idade, tabagista com carga tabágica de 
+70 anos-maço, hipertenso em uso de atenolol e enalapril, 
+dislipidêmico em uso de atorvastatina, e diabetes melito tipo 2 
+controlado com metformina e empagliflozina, procura 
+atendimento por quadro de hematúria macroscópica terminal 
+e indolor há 10 dias. Nega dor, febre ou perda de peso. Foi 
+submetido à ultrassonografia de rins e vias urinárias, que 
+evidenciou lesão sólida em parede lateral da bexiga, com 
+cerca de 6 cm, apresentando vascularização ao Doppler. 
+Realizou ressonância magnética da pelve, cujo laudo 
+descreveu lesão vegetante de 7 cm em parede lateral 
+esquerda da bexiga, classificada como VI-RADS 4, sem 
+linfonodos pélvicos suspeitos e sem hidronefrose, conforme 
+imagem a seguir: 
+ 
+ 
+ 
+Com base no quadro clínico e nos achados de imagem 
+apresentados, assinale a alternativa que indica a conduta 
+inicial recomendada. 
+ 
+(A) Sendo VIRADS 4, paciente necessita de quimioterapia 
+neoadjuvante 
+baseada em 
+cisplatina, 
+seguida 
+de 
+cistoprostatectomia. 
+(B) Paciente necessita cistoprostatectomia robô assistida 
+upfront e quimioterapia adjuvante baseada em cisplatina. 
+(C) Paciente necessita de quimioterapia baseada em 
+cisplatina, seguida de consolidação com radioterapia, 
+protocolo de preservação vesical. 
+(D) Paciente necessita de ressecção transuretral de bexiga 
+(RTUb) e o resultado anatomopatológico definirá as 
+próximas condutas. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 26 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Cirurgia Vascular – PROVA EC5 
+{101} 
+Mulher, 48 anos de idade, com obesidade e tabagismo, 
+apresenta de forma súbita cianose de hálux esquerdo com dor 
+e frialdade local. Ritmo cardíaco regular, todos os pulsos 
+presentes e simétricos, inclusive no pé esquerdo. Assinale a 
+alternativa 
+que 
+indica 
+o 
+diagnóstico 
+e 
+a 
+conduta 
+recomendada, além da analgesia. 
+ 
+(A) Trombose venosa profunda, anticoagulação. 
+(B) Trombose arterial periférica, tromboembolectomia. 
+(C) Embolia paradoxal, antiacoagulação. 
+(D) Síndrome do dedo azul, antiagregantes plaquetários. 
+##### 
+ 
+{102} 
+Homem, 80 anos de idade, apresenta ataque isquêmico 
+transitório com plegia do membro superior esquerdo. Tem 
+hipertensão arterial sistêmica controlada e é independente 
+para as atividades diárias. Realizou o exame a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que indica a conduta recomendada. 
+ 
+(A) Angioplastia com stent da carótida direita. 
+(B) Dupla antiagregação plaquetária e estatinas. 
+(C) Endarterectomia por eversão da carótida direita. 
+(D) Anticoagulação plena e estatinas. 
+##### 
+ 
+{103} 
+Mulher, 68 anos de idade, foi submetida à correção de 
+aneurisma toracoabdominal com cobertura desde a origem da 
+carótida esquerda até a aorta infrarrenal. No pós-operatório, 
+apresentou paraparesia crural. A conduta recomendada que 
+poderia ter evitado ou minimizado o risco dessa complicação 
+é: 
+ 
+(A) Uso de filtro de carótidas bilateralmente. 
+(B) Anticoagulação plena pós-operatória. 
+(C) Revascularização da subclávia esquerda. 
+(D) Extensão da correção incluindo as ilíacas. 
+##### 
+{104} 
+Professora, 35 anos de idade, apresenta espontaneamente 
+edema assimétrico de membros superiores, esquerdo maior 
+que o direito, dor e empastamento do braço. Previamente 
+hígida. Aferição de pressão arterial simétrica nos membros 
+superiores. Assinale a alternativa com duas alterações 
+anatômicas que mais comumente explicam o evento. 
+ 
+(A) Costela extranumerária e inserção anômala dos escalenos. 
+(B) Hipertrofia do escaleno médio e compressão pelo peitoral 
+maior. 
+(C) Compressão costoclavicular e hipertrofia do escaleno 
+médio. 
+(D) Compressão costoclavicular e compressão pelo peitoral 
+menor. 
+##### 
+ 
+{105} 
+Paciente em terapia de substituição renal por hemodiálise 
+através de fístula arteriovenosa braquiocefálica, que tem há  
+2 anos. Refere que nas últimas sessões, apresenta dificuldade 
+de hemostasia da punção arterial, mas não da venosa. É 
+esperado ao exame físico desta fístula, 
+ 
+(A) frêmito contínuo com reforço sistólico sincronizado, mais 
+forte próximo a anastomose e com redução gradual do 
+frêmito ao longo do trajeto fistuloso no braço. 
+(B) somente frêmito sistólico e veia hiperpulsátil até o 
+segmento entre as punções, e frêmito típico contínuo com 
+reforço sistólico em algum ponto entre os locais de 
+punção. 
+(C) ausência de frêmito em todo o trajeto fistuloso, com 
+ausência de aumento de pulsatilidade a manobra de 
+compressão a jusante, e reenchimento lento dos 
+aneurismas. 
+(D) hiperpulsatilidade em todo o trajeto até o ombro, com 
+redução significativa do frêmito em todo o trajeto 
+puncionável, e frêmito na região infraclavicular. 
+##### 
+ 
+{106} 
+Mulher, 62 anos de idade, com insuficiência cardíaca de 
+fração de ejeção reduzida, cefaleia crônica, foi submetida à 
+cirurgia abdominal, necessitando uso de drogas vasoativas na 
+UTI no pós-operatório. No segundo dia pós-operatório, evoluiu 
+com distensão abdominal insidiosa e progressiva, febre e 
+leucocitose. Nas últimas horas, houve necessidade de 
+aumento das doses de vasopressores. Assinale a alternativa 
+correta quanto ao diagnóstico mais provável e à conduta 
+recomendada. 
+ 
+(A) Isquemia mesentérica não oclusiva; vasodilatadores intra-
+arteriais e ressecção de alças inviáveis. 
+(B) Embolia arterial mesentérica; trombectomia com cateter de 
+Fogarty e peritoneostomia. 
+(C) Trombose 
+arterial 
+visceral; 
+confecção 
+de 
+ponte 
+ilíacomesentérica com prótese sintética. 
+(D) Trombose venosa mesentérica; trombólise por cateter por 
+punção venosa central. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 27 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Cirurgia Vascular – PROVA EC5 
+Texto para as questões 107 e 108 
+ 
+Homem, 72 anos de idade, procura o pronto atendimento por 
+ferida na planta do pé esquerdo com 5 dias de evolução. Tem 
+antecedente de tabagismo, revascularização miocárdica e do 
+membro inferior direito prévios. Refere, ainda, diabetes melito 
+com piora recente no controle glicêmico. Apresenta FC de  
+120 bpm, PA de 100×60 mmHg e alguma letargia. Ao exame 
+do membro, encontra-se quente, edemaciado e hiperemiado 
+ao redor de necrose pútrida com ferida puntiforme central. 
+Pulso presente apenas femoral neste membro. 
+ 
+{107} 
+A conduta sequencial recomendada, após as medidas iniciais 
+de normalização hemodinâmica, é: 
+ 
+(A) Drenagem do abscesso e coleta de culturas, antibióticos e 
+estudo para revascularização. 
+(B) Antibióticos imediatos e angiotomografia seguida de 
+revascularização antes de qualquer desbridamento. 
+(C) Antibióticos na sala de emergência, seguida de 
+arteriografia e revascularização do membro. 
+(D) Tratamento da infecção com antibióticos de amplo 
+espectro por 7 dias antes de qualquer intervenção. 
+##### 
+ 
+{108} 
+Ao realizar o exame de imagem, foi evidenciado placas 
+ateromatosas calcificadas em bifurcação da artéria femoral, 
+estenoses de até 70% desde o primeiro centímetro da femoral 
+superficial, com oclusão no seu terço médico por 10 cm, 
+reabertura da luz na artéria poplítea em p1, estenose de 60% 
+em p2 e oclusão em p3, incluindo a origem dos 3 vasos 
+infrageniculares. Tibial posterior com múltiplas estenoses 
+calcificadas, oclusão da tibial anterior e perviedade da fibular 
+desde próximo a sua origem até as comunicantes. A conduta 
+recomendada para o caso é: 
+ 
+(A) Angioplastia anterógrada com uso de stents nas oclusões. 
+(B) Angioplastia com punção retrógrada da artéria fibular na 
+perna. 
+(C) Amputação transfemoral primária devido à gravidade. 
+(D) Enxerto longo com veia própria da femoral comum para a 
+fibular. 
+##### 
+ 
+{109} 
+Homem, 69 anos de idade, foi submetido à correção 
+Endovascular de Aneurisma de Aorta Abdominal (EVAR) há  
+3 semanas. Retorna com febre persistente, dor lombar e 
+leucocitose. 
+Angiotomografia 
+computadorizada 
+mostra 
+coleção 
+periendoprótese 
+contendo 
+pequenas 
+bolhas 
+gasosas, associada à densidade aumentada do tecido 
+adjacente no colo proximal, entre aorta e duodeno e interaorto 
+cava. Assinale a alternativa que apresenta o diagnóstico e a 
+conduta recomendada. 
+ 
+(A) Infecção de endoprótese; antibióticos e troca da prótese 
+por via endovascular. 
+(B) Infecção de endoprótese; antibióticos, explante e enxerto 
+extra-anatômico. 
+(C) Fístula aortoentérica; explante da prótese e reconstrução 
+i

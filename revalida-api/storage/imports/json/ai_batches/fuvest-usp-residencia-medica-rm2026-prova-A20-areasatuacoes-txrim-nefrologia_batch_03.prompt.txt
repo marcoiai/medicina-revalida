@@ -1,0 +1,195 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+e o paciente para tratamento de fístula 
+urinária.  
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Transplante de Rim - Nefrologia – PROVA A20 
+{16} 
+Sobre o diagnóstico histológico de rejeição aguda, de acordo 
+com a classificação de Banff 2019, pode-se afirmar:  
+ 
+(A) Na classificação de Banff, o diagnóstico de rejeição aguda 
+mediada por células T grau IIA significa que existe 
+inflamação intersticial com infiltrado linfocítico intenso, mas 
+sem acometimento vascular. 
+(B) A presença de infiltrado linfocitário na íntima arterial, mas 
+sem infiltrado tubular, não fecha o diagnóstico de rejeição 
+aguda mediada por células T. 
+(C) A presença de microangiopatia trombótica aguda com 
+inflamação da microcirculação, depósito de C4d em 
+capilar peritubular e evidência sorológica de anticorpo 
+específico do doador, fecham o diagnóstico de rejeição 
+aguda mediada por anticorpo. 
+(D) Só a presença de necrose tubular aguda com depósito de 
+C4d e presença de anticorpo doador específico, não é 
+suficiente para o diagnóstico de rejeição aguda mediada 
+por anticorpos.  
+##### 
+ 
+{17} 
+Com 
+relação 
+à 
+prova 
+cruzada 
+por 
+Citotoxicicidade 
+Dependente de Complemento (CDC), assinale a alternativa 
+correta. 
+ 
+(A) No teste de prova cruzada por CDC, o resultado positivo 
+contra linfócitos T+AGH e negativo contra linfócitos B 
+indica que os anticorpos circulantes são de classe II. 
+(B) Prova-cruzada por CDC detecta anticorpos anti-HLA 
+doador específicos do isotipo IgG e IgM em altos níveis, 
+mas são incapazes de detectar auto-anticorpos. 
+(C) Adição de antiglobulina humana (AGH) ao CDC contra 
+linfócitos T potencializa o teste, visto que, facilita a 
+detecção de anticorpos anti-HLA doador-específicos em 
+baixos níveis. 
+(D) A prova cruzada por CDC contra linfócitos T positiva e 
+CDC contra linfócitos T, tratada com ditiotreitol (DTT) 
+negativa, indica que o anticorpo envolvido na positividade 
+da prova-cruzada é do isotipo IgG. 
+##### 
+ 
+{18} 
+Em relação aos mecanismos envolvidos no reconhecimento 
+imunológico ao enxerto renal, assinale a alternativa correta. 
+ 
+(A) Células apresentadoras de antígenos provenientes do 
+doador apresentam antígenos HLA aos linfócitos T 
+presentes no enxerto, o que caracteriza a via de 
+apresentação direta de antígenos. 
+(B) Células apresentadoras de antígenos provenientes do 
+receptor apresentam antígenos HLA aos linfócitos T 
+presentes nos linfonodos regionais o que caracteriza a via 
+de apresentação indireta de antígenos. 
+(C) O reconhecimento de antígenos HLA pelo receptor de 
+célula T (sinal 1 de ativação) é uma condição necessária e 
+suficiente para a ativação e proliferação do linfócito T e 
+desencadeamento de rejeição, tanto em receptores 
+sensibilizados, quanto em não sensibilizados. 
+(D) A interação entre o CD28 dos linfócitos T e o CD80 ou 
+CD86 das células apresentadoras de antígenos (sinal 2 de 
+ativação) 
+é 
+uma 
+condição 
+relevante 
+para 
+o 
+desencadeamento de rejeição, apenas em receptores não 
+sensibilizados. ##### 
+{19} 
+Sobre a infecção pelo poliomavírus após o transplante renal, é 
+correto afirmar:  
+ 
+(A) A Nefropatia por poliomavírus é uma complicação 
+infecciosa importante após o transplante, pode ocorrer em 
+40% dos rins transplantados. Em geral, ocorre após o 
+segundo ano de transplante e, frequentemente, está 
+associado a perda do enxerto  
+(B) A prevalência de doadores positivos para poliomavírus é 
+elevada. Em torno de 90% dos indivíduos adultos possuem 
+a presença do poliomavírus no trato urinário, o que 
+favorece quadros de infecção latente após início da 
+imunossupressão. 
+(C) O indivíduo transplantado pode apresentar a presença do 
+poliomavírus na urina e no sangue. Para o diagnóstico da 
+nefropatia pelo poliomavírus, a virúria é o teste que melhor 
+se correlaciona com a presença de nefropatia. 
+(D) Leflunomida e cidofovir são as medicações de escolha 
+para o tratamento da infecção pelo CMV. Assim que 
+detectado a presença do vírus na urina ou no sangue do 
+paciente transplantado, deve ser iniciado o tratamento 
+com uma destas medicações.  
+##### 
+ 
+{20} 
+Mulher, 46 anos de idade, foi convocada para realização de 
+seu primeiro transplante renal com doador falecido. A causa 
+de sua doença renal foi nefropatia da IgA, e a paciente estava 
+em hemodiálise há 60 meses. Recebeu 2 transfusões no ano 
+inicial de diálise e, no passado, teve 2 gestações. Seu painel 
+era 0% em Classe I e 30% em Classe II, sendo detectados 
+anticorpos no soro da paciente contra os antígenos DR3 e 
+DR7. A tipagem HLA da receptora era A30,68 B51,82 e  
+DR 4,13. O doador falecido era do sexo masculino, 57 anos 
+de idade e a causa de morte foi AVC hemorrágico. Tinha 
+antecedente de hipertensão arterial e sua creatinina de 
+entrada era 0,8 mg/dL e de saída de 2,1 mg/dL. A tipagem 
+HLA do doador era A03,02 B35,51 DR 4,15. Em relação a 
+escolha da imunossupressão neste caso, pode-se afirmar: 
+ 
+(A) A utilização de antagonista do receptor de interleucina-2 
+(anti IL-2R) pode ser uma opção como terapia 
+imunossupressora de indução, mas, em razão da 
+presença de anticorpos anti-HLA contra classe II, a 
+paciente deverá receber também Imunoglobulina Humana 
+(IVIg). 
+(B) A imunossupressão com drogas que atuam depletando a 
+população de linfócitos T, não vão interferir na 
+apresentação de antígenos HLA do doador e aumentarão 
+significativamente o risco de infecções virais como o 
+citomegalovírus. 
+(C) O uso da timoglobulina, neste caso, oferece uma 
+imunossupressão inicial potente, reduzindo o risco de 
+rejeição aguda e permitindo a utilização de doses 
+reduzidas de inibidores de calcineurina nos momentos 
+iniciais do transplante. 
+(D) Neste caso, em razão da presença de anticorpos 
+específicos contra o doador, a imunossupressão inicial 
+deverá ser com Imunoglobulina Humana (IVIg). 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+

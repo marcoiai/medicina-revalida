@@ -1,0 +1,383 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+erapêutica –posologia adequada seriam 3 doses. Deve ser tratado novamente com penicilina cristalina ou esquema 
+alternativo. 
+(B) Reinfecção mesmo sem informar lesão genital – novo tratamento está indicado devido à persistência do FTA-ABS reagente. 
+(C) Diagnóstico duvidoso – o FTA-ABS pode ser falso-positivo por reação cruzada com doenças virais. 
+(D) Resposta imunológica esperada – o VDRL caiu adequadamente e o FTA-ABS pode permanecer reagente.  
+#####
+
+
+--- PAGE 25 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Cirurgia Pediátrica – PROVA EC2 
+{97} 
+Paciente com histórico de múltiplos episódios de cálculo renal 
+desde os 25 anos, procura acompanhamento urológico após 
+passar por nutricionista especializada em nefrolitíase. 
+Algumas orientações dietéticas foram sugeridas antes mesmo 
+da avaliação metabólica completa. Com base nas evidências 
+atuais sobre prevenção de litíase renal, assinale a alternativa 
+correta. 
+ 
+(A) A ingestão adequada de cálcio alimentar, é recomendada, 
+pois 
+reduz 
+a 
+absorção 
+intestinal 
+de 
+oxalato 
+e, 
+consequentemente, o risco de formação de cálculos de 
+oxalato de cálcio. 
+(B) Suplementação de citrato de potássio deve ser iniciada 
+empiricamente em todos os pacientes com cálculos de 
+repetição, independentemente da avaliação metabólica ou 
+pH urinário. 
+(C) A restrição completa de frutas cítricas, especialmente 
+laranja e limão, é indicada devido à sua acidez e potencial 
+de acidificação urinária. 
+(D) A ingestão de cálcio deve ser minimizada sempre que 
+possível, pois mesmo fontes alimentares aumentam 
+diretamente a excreção urinária de cálcio. 
+##### 
+ 
+{98} 
+Mulher, 34 anos de idade, procura o pronto-socorro com dor 
+lombar esquerda em cólica, intensa, associada a náuseas. 
+Relata escurecimento da urina. Ao exame físico, está afebril, 
+hemodinamicamente estável, com sinal de Giordano positivo 
+à esquerda. Nega episódios semelhantes anteriores. Suspeita 
+inicial de cólica nefrética. Diante desse quadro clínico, após 
+iniciar analgésicos e antieméticos via parenteral, qual é a 
+conduta mais adequada?  
+ 
+(A) Solicitar 
+exames 
+séricos, 
+urinários, 
+e 
+iniciar 
+antibioticoterapia empírica. 
+(B) Solicitar ressonância magnética de abdome e pelve para 
+identificação de calculose urinária. 
+(C) Solicitar raio-X simples e ultrassonografia de abdome que 
+apresentam a mesma sensibilidade da tomografia, mas 
+com menor custo. 
+(D) Solicitar 
+exames 
+séricos, 
+urinários, 
+e 
+tomografia 
+computadorizada de abdome e pelve sem contraste. 
+##### 
+ 
+{99} 
+Homem, 39 anos de idade, mestre de obras, comparece ao 
+pronto-socorro queixando-se que apresentou dois episódios de 
+hematúria nos últimos dias. Perguntado sobre os antecedentes, 
+ele referiu ter caído de um andaime, cerca de três metros de 
+altura, em pé, há 4 dias. Foi atendido em um pronto-socorro e 
+tratado uma fratura no pé esquerdo com imobilização. Desde 
+então, também tem apresentado dor lombar ipsilateral à fratura 
+e está usando analgésicos comuns. Foi indicada tomografia 
+contrastada de abdome, que mostrou rim direito normal e 
+exclusão renal completa à esquerda. Diante desse achado, 
+assinale a alternativa que apresenta o melhor diagnóstico e a 
+conduta recomendada, respectivamente. 
+ 
+(A) Trombose de veia renal esquerda; nefrectomia esquerda. 
+(B) Trombose de artéria renal esquerda; observação clínica. 
+(C) Trombose 
+de 
+artéria 
+renal 
+esquerda; 
+trombólise 
+medicamentosa. 
+(D) Lesão do pedículo renal esquerdo; revascularização renal 
+ou angioplastia com stent. ##### 
+{100} 
+Homem, 66 anos de idade, tabagista com carga tabágica de 
+70 anos-maço, hipertenso em uso de atenolol e enalapril, 
+dislipidêmico em uso de atorvastatina, e diabetes melito tipo 2 
+controlado com metformina e empagliflozina, procura 
+atendimento por quadro de hematúria macroscópica terminal 
+e indolor há 10 dias. Nega dor, febre ou perda de peso. Foi 
+submetido à ultrassonografia de rins e vias urinárias, que 
+evidenciou lesão sólida em parede lateral da bexiga, com 
+cerca de 6 cm, apresentando vascularização ao Doppler. 
+Realizou ressonância magnética da pelve, cujo laudo 
+descreveu lesão vegetante de 7 cm em parede lateral 
+esquerda da bexiga, classificada como VI-RADS 4, sem 
+linfonodos pélvicos suspeitos e sem hidronefrose, conforme 
+imagem a seguir: 
+ 
+ 
+ 
+Com base no quadro clínico e nos achados de imagem 
+apresentados, assinale a alternativa que indica a conduta 
+inicial recomendada. 
+ 
+(A) Sendo VIRADS 4, paciente necessita de quimioterapia 
+neoadjuvante 
+baseada em 
+cisplatina, 
+seguida 
+de 
+cistoprostatectomia. 
+(B) Paciente necessita cistoprostatectomia robô assistida 
+upfront e quimioterapia adjuvante baseada em cisplatina. 
+(C) Paciente necessita de quimioterapia baseada em 
+cisplatina, seguida de consolidação com radioterapia, 
+protocolo de preservação vesical. 
+(D) Paciente necessita de ressecção transuretral de bexiga 
+(RTUb) e o resultado anatomopatológico definirá as 
+próximas condutas. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 26 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Cirurgia Pediátrica – PROVA EC2 
+{101} 
+Recém-nascido a termo, com ultrassonografia pré-natal 
+indicativa de polidrâmnio, apresenta salivação aerada na sala 
+de parto. Está em bom estado geral. Realizada radiografia 
+após passagem de sonda gástrica que mostra a imagem 
+apresentada a seguir:  
+ 
+ 
+ 
+O cirurgião pediátrico indica abordagem cirúrgica que deve 
+ser realizada nos próximos dias. Qual é a hipótese diagnóstica 
+e qual é o exame mais importante que deve ser solicitado 
+antes do procedimento cirúrgico? 
+ 
+(A) Atresia de esôfago / Endoscopia digestiva alta. 
+(B) Megacolo congênito / Enema opaco. 
+(C) Megacolo congênito / Colonoscopia. 
+(D) Atresia de esôfago / Ecodopplercardiografia transtorácica. 
+##### 
+ 
+{102} 
+A Doença de Hirschsprung é uma malformação congênita do 
+sistema nervoso entérico que se manifesta clinicamente por 
+meio de obstrução intestinal funcional de graus variados. 
+Assinale a alternativa que traz resultados de exames 
+compatíveis com o diagnóstico desta doença. 
+ 
+(A) Enema opaco demonstrando megarreto e manometria 
+anorretal com presença do reflexo de relaxamento do 
+esfíncter anal interno. 
+(B) Enema opaco demonstrando afilamento do reto e 
+manometria anorretal com reflexo inibitório reto-anal 
+presente. 
+(C) Manometria anorretal com ausência de reflexo inibitório 
+reto-anal e biópsia retal com ausência de células 
+ganglionares. 
+(D) Manometria anorretal com reflexo inibitório reto-anal 
+presente e biópsia retal com ausência de células 
+ganglionares. 
+##### 
+{103} 
+Neonato 
+masculino 
+apresenta 
+a 
+alteração 
+perineal 
+demonstrada na imagem a seguir, notada ao exame físico 
+inicial na sala de parto. 
+ 
+ 
+ 
+Como havia nascido em um hospital com poucos recursos, foi 
+solicitada transferência para serviço terciário, o que ocorreu 
+somente após 5 dias. Ao chegar na UTI neonatal do segundo 
+hospital, encontrava-se gemente e com abdome muito 
+distendido e doloroso. Foi solicitada radiografia de abdome no 
+leito , conforme imagem a seguir: 
+ 
+ 
+ 
+Qual é a conduta apropriada neste momento? 
+ 
+(A) Laparotomia exploradora de urgência. 
+(B) Aguardar eliminação de mecônio e programar colostomia 
+em alça. 
+(C) Solicitar um “invertograma” para programação de 
+proctoplastia. 
+(D) Radiografias seriadas de abdome durante as próximas 
+48h. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+IMAGEM REMOVIDA NOS 
+TERMOS DO ESTATUTO 
+DA CRIANÇA E DO 
+ADOLESCENTE. 
+
+
+--- PAGE 27 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Cirurgia Pediátrica – PROVA EC2 
+{104} 
+Lactente com 4 meses de vida, nascido de parto normal com 
+peso de 3.200 g, apresentou icterícia persistente desde a 
+terceira semana de vida, juntamente com acolia fecal 
+progressiva. Ao exame físico, encontrava-se em bom estado 
+geral, com borda hepática endurecida palpável a 3 cm do 
+rebordo costal direito / baço palpável a 2 cm do rebordo costal 
+esquerdo e com pequeno volume de líquido ascítico 
+identificável no exame abdominal. A ultrassonografia de 
+abdome (realizada logo após a ingestão de 180 mL de fórmula 
+láctea), não descreveu nenhuma alteração. Qual é a principal 
+hipótese diagnóstica e a conduta terapêutica recomendada 
+para o caso descrito? 
+ 
+(A) Atresia das vias biliares / cirurgia de Kasai. 
+(B) Atresia das vias biliares / transplante hepático. 
+(C) Dilatação congênita das vias biliares / transplante 
+hepático. 
+(D) Dilatação congênita das vias biliares / derivação bílio-
+digestiva. 
+##### 
+ 
+{105} 
+Assinale a alternativa que apresenta corretamente os achados 
+histopatológicos característicos encontrados no fragmento 
+hepático obtido por meio de biópsia percutânea de um 
+paciente portador de atresia de vias biliares: 
+ 
+(A) Desarranjo da arquitetura hepática, necrose e tumefação 
+dos hepatócitos e colestase intracelular. 
+(B) Preservação da arquitetura hepática, expansão dos 
+espaços portas com proliferação ductular, fibrose portal e 
+plugs biliares nos ductos biliares. 
+(C) Presença de área fibrótica estrelada circundada por 
+nódulos de hepatócitos. Na área fibrótica, presença de 
+vasos sanguíneos de médio e grande calibre e ductos 
+biliares. 
+(D) Presença de neovasos com uma única camada de células 
+endoteliais dispostas sobre estroma fibrótico. Ductos 
+biliares bem conservados identificados no interior do 
+estroma fibroso. 
+##### 
+ 
+{106} 
+Lactente de 5 meses de vida, chega encaminhado de outro 
+serviço com história de icterícia persistente a partir da terceira 
+semana de vida, associada a acolia fecal, que não melhorou 
+após orientação de manter exposição à luz solar por  
+4 semanas. Os pais procuraram outro serviço devido à 
+persistência dos sintomas e aumento do volume abdominal. 
+No exame físico, paciente já apresentava algum grau de ascite 
+associada à hepatoesplenomegalia com fígado já com 
+consistência endurecida. As dosagens de bilirrubinas 
+mostraram níveis da fração direta de 12 mg/dL e da indireta 
+de 2 mg/dL e transaminases TGO/AST de 87 U/L e TGP/ALT 
+de 96 U/L. Considerando o diagnóstico clínico mais provável 
+e a proposta terapêutica recomendada para o paciente, 
+assinale a alternativa correta. 
+ 
+(A) Cisto de colédoco; anastomose biliodigestiva. 
+(B) Doença de Wilson; transplante hepático. 
+(C) Atresia de vias biliares; porto enteroanastomose. 
+(D) Atresia de vias biliares; transplante hepático. 
+##### 
+ 
+ 
+{107} 
+Recém-nascido pré-termo de 9 dias de vida, com idade 
+gestacional de 30 semanas e peso de nascimento de 1.030 g, 
+com membrana hialina, em respiração mecânica, apresenta 
+piora súbita do estado geral, distensão abdominal e 
+enterorragia. Realizada pausa na dieta enteral mínima com 
+leite materno e mantida sonda orogástrica aberta que 
+apresentava débito bilioso, além de introdução de antibióticos, 
+com boa resposta inicial. Evoluindo, há 6 horas, com piora da 
+distensão e hiperemia de parede abdominal. Apesar da piora 
+no exame físico, encontra-se estável do ponto de vista 
+hemodinâmico, ainda sem necessidade de uso de drogas 
+vaso ativas e sem labilidade durante a manipulação no leito. A 
+radiografia simples de abdome pode ser visualizada na 
+imagem a seguir: 
+ 
+ 
+ 
+Considerando o quadro clínico, assinale a alternativa correta 
+em relação ao diagnóstico e melhor conduta para esse 
+paciente. 
+ 
+(A) Íleo meconeal com perfuração, laparotomia exploradora. 
+(B) Volvo de intestino médio, trânsito intestinal e cirurgia 
+eletiva de correção. 
+(C) Enterocolite 
+necrotizante, 
+drenagem 
+da 
+cavidade 
+abdominal na beira do leito e cirurgia após estabilização 
+clínica do paciente em caráter eletivo. 
+(D) Enterocolite necrotizante, laparotomia exploradora. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 28 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Cirurgia Pediátrica – PROV

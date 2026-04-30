@@ -1,0 +1,246 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+uldade noturna, mantendo jornada dupla. Refere 
+dormir cerca de 5 horas por noite e percebe piora progressiva 
+da sonolência, que tem comprometido seu desempenho 
+acadêmico e profissional. Nega roncos. Considerando o 
+quadro descrito, assinale a alternativa que apresenta as 
+hipóteses diagnósticas mais prováveis. 
+ 
+(A) Narcolepsia, insônia, apneia do sono. 
+(B) Depressão maior, restrição de sono, insônia. 
+(C) Apneia do sono, narcolepsia, hipotireoidismo. 
+(D) Restrição de sono, apneia do sono, hipotireoidismo. 
+##### 
+ 
+{12} 
+Com relação ao diagnóstico da Apneia Obstrutiva do Sono 
+(AOS), assinale a alternativa correta. 
+ 
+(A) A gasometria arterial é imprescindível para confirmar o 
+diagnóstico. 
+(B) O diagnóstico pode ser realizado com base apenas no 
+IMC > 30 kg/m². 
+(C) A polissonografia é o exame padrão-ouro para o 
+diagnóstico de AOS. 
+(D) A cefalometria é obrigatória para avaliação de todos os 
+casos suspeitos. 
+##### 
+ 
+{13} 
+Homem, 54 anos de idade, com hipertensão arterial sistêmica 
+não tratada previamente, foi internado recentemente por 
+emergência hipertensiva. Após alta hospitalar, iniciou 
+múltiplos anti-hipertensivos e passou a relatar pesadelos 
+frequentes. 
+Assinale 
+a 
+alternativa 
+que 
+apresenta 
+o 
+medicamento mais provavelmente associado a esse efeito 
+colateral. 
+ 
+(A) Amlodipina. 
+(B) Propranolol. 
+(C) Losartana. 
+(D) Hidroclortiazida 
+##### 
+ 
+ 
+ 
+ 
+{14} 
+Homem, 38 anos de idade, procura atendimento por 
+congestão nasal, dor facial e secreção nasal purulenta há  
+9 dias. Relata que os sintomas inicialmente melhoraram, mas 
+pioraram novamente nos últimos dois dias, com febre e 
+cefaleia frontal. Assinale a alternativa que indica o diagnóstico 
+mais provável. 
+ 
+(A) Rinoconjuntivite alérgica. 
+(B) Resfriado comum. 
+(C) Rinossinusite crônica. 
+(D) Rinossinusite bacteriana aguda. 
+##### 
+ 
+{15} 
+Homem, 64 anos de idade, hipertenso e tabagista, procura o 
+pronto-socorro com dor torácica em aperto, retroesternal, 
+irradiada para o braço esquerdo, com duração de 20 minutos, 
+iniciada em repouso. No momento da avaliação, está 
+assintomático. O ECG não mostra supradesnivelamento do 
+segmento ST, mas a troponina está discretamente elevada. 
+Assinale a alternativa que indica o diagnóstico mais provável. 
+ 
+(A) IAM sem supradesnivelamento do segmento ST. 
+(B) Angina estável. 
+(C) Pericardite aguda. 
+(D) Embolia pulmonar. 
+##### 
+ 
+{16} 
+Homem, 67 anos de idade, ex-tabagista com carga tabágica 
+de 40 anos-maço, relata dispneia aos esforços há 2 anos, 
+associada à tosse crônica produtiva. Espirometria demonstra 
+relação VEF1/CVF < 0,70 pós-broncodilatador e VEF1 de 55% 
+do previsto. Assinale a alternativa mais compatível com o 
+diagnóstico e sua classificação funcional, segundo o GOLD. 
+ 
+(A) Asma leve persistente. 
+(B) Bronquiectasia por infecção prévia. 
+(C) DPOC moderada (GOLD 2). 
+(D) DPOC grave (GOLD 3). 
+##### 
+ 
+{17} 
+Em relação ao sono na infância, assinale a alternativa correta. 
+ 
+(A) Aos 6 meses, os despertares noturnos são sempre 
+patológicos e indicam insônia comportamental. 
+(B) Recém-nascidos devem ser mantidos acordados durante 
+o dia para promover consolidação do sono noturno. 
+(C) Aos 12 meses, o padrão esperado é que a criança durma 
+apenas à noite, sem necessidade de sonecas. 
+(D) O ritmo circadiano consolida-se gradualmente, e a 
+maturação do ciclo sono-vigília ocorre nos primeiros 
+meses de vida. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Medicina do Sono – PROVA A01 
+{18} 
+Homem, 52 anos de idade, previamente hígido, apresenta dor 
+torácica súbita de padrão pleurítico e dispneia intensa após 
+uma viagem de 10 horas de avião. Está taquicárdico, com 
+saturação de O2 em 89% em ar ambiente. Não apresenta 
+alterações significativas ao exame pulmonar. Qual o exame 
+inicial mais indicado para investigação diagnóstica nesta 
+situação? 
+ 
+(A) Radiografia de tórax. 
+(B) Angiotomografia de tórax com contraste. 
+(C) Cintilografia pulmonar de ventilação/perfusão. 
+(D) Ecocardiograma transtorácico. 
+##### 
+ 
+{19} 
+Durante 
+a 
+adolescência, 
+são 
+observadas 
+mudanças 
+fisiológicas no padrão de sono. Em relação a essas 
+mudanças, assinale a alternativa correta. 
+ 
+(A) Ocorre atraso fisiológico da fase do sono, levando à 
+tendência de dormir e acordar mais tarde. 
+(B) A necessidade total de sono diminui drasticamente, sendo 
+suficiente dormir 5 a 6 horas por noite. 
+(C) A 
+melatonina 
+é 
+secretada 
+mais 
+precocemente, 
+favorecendo o sono vespertino. 
+(D) A 
+fragmentação 
+do 
+sono 
+aumenta 
+por 
+causas 
+exclusivamente 
+comportamentais, 
+sem 
+influência 
+neurobiológica. 
+##### 
+ 
+{20} 
+Um homem de 52 anos, com hipertensão arterial controlada e 
+diabetes melito tipo 2, refere sonolência diurna, roncos 
+intensos e pausas respiratórias observadas pela esposa 
+durante o sono. Qual é o diagnóstico mais provável. 
+ 
+(A) Insônia psicofisiológica. 
+(B) Síndrome da apneia obstrutiva do sono. 
+(C) Narcolepsia tipo 1. 
+(D) Hipersonia idiopática. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+

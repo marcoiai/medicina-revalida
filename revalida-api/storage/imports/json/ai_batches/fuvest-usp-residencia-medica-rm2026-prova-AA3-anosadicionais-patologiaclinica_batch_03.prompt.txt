@@ -1,0 +1,197 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+mentados: 
+51% 
+Eosinófilos: 
+ 6% 
+Basófilos:  
+3% 
+Linfócitos: 
+ 5% 
+ 
+Com base nos achados clínicos e laboratoriais, qual a 
+hipótese diagnóstica mais provável, assinale a alternativa 
+correta. 
+ 
+(A) Leucemia mieloide crônica em crise blástica; nessa fase, 
+mais de 20% dos blastos estão presentes na medula ou 
+sangue periférico. 
+(B) Leucocitose reacional; a presença de mieloblastos e 
+basofilia são esperadas em processos infecciosos graves. 
+(C) Leucemia 
+mieloide 
+crônica 
+em 
+fase 
+crônica; 
+é 
+caracterizada por desvio à esquerda com basofilia e a 
+presença do gene BCR-ABL em todos os casos. 
+(D) Leucemia mieloide aguda; cursa tipicamente com 
+leucocitose intensa e contagem predominante de blastos 
+(>20%). 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Patologia Clínica/Medicina Laboratorial – PROVA AA3 
+{18} 
+Homem, 63 anos de idade, diabético e etilista crônico, é 
+admitido com febre alta (39,2 °C), cefaleia intensa, rigidez de 
+nuca, sonolência e vômitos. Ao exame físico, apresenta sinais 
+meníngeos positivos e rebaixamento do nível de consciência. 
+A tomografia de crânio não mostra contraindicações, e a 
+punção lombar é realizada imediatamente. A análise do líquor 
+é apresentado a seguir: 
+ 
+Parâmetro 
+Resultado 
+Valor de 
+Referência 
+Aspecto 
+Turvo 
+Límpido 
+Pleocitose 
+2.100 células/mm³ 
+(90% neutrófilos) 
+< 5 células/mm³ 
+Glicose 
+20 mg/dL 
+45 – 80 mg/dL 
+Glicemia sérica 
+100 mg/dL 
+— 
+Proteína 
+320 mg/dL 
+15 – 45 mg/dL 
+Lactato 
+7,5 mmol/L 
+< 2,2 mmol/L 
+ 
+A hipótese clínica inicial é de meningite bacteriana aguda. 
+Com base no conhecimento atual sobre o líquor nas 
+meningites infecciosas, assinale a alternativa correta. 
+ 
+(A) A vantagem do exame de PCR para as meningites 
+bacterianas é determinar o perfil de sensibilidade aos 
+antibióticos. 
+(B) A hipoglicorraquia se deve, principalmente, ao consumo 
+de glicose pelos polimorfonucleares neutrófilos. 
+(C) O poder discriminatório do lactato no líquor é baixo no 
+diagnóstico diferencial entre as meningites bacterianas 
+agudas e as meningites virais agudas. 
+(D) O diagnóstico de meningite por Listeria monocytogenes 
+depende de exames imunológicos no líquor. 
+##### 
+ 
+{19} 
+Mulher, 35 anos de idade, previamente saudável, relata ganho 
+de peso progressivo nos últimos 12 meses, associado à 
+fraqueza muscular proximal, face arredondada, estrias 
+violáceas abdominais e equimoses frequentes em membros 
+inferiores e abdome. Refere também episódios de cefaleia 
+leve e irritabilidade. Ao exame físico: IMC de 31 kg/m2; PA de 
+150×100 mmHg Obesidade centrípeta; Face em lua cheia; 
+giba dorsal; Estrias violáceas largas no abdome; Equimoses 
+espontâneas em abdome e membros inferiores. Qual exame é 
+mais apropriado para iniciar a investigação da síndrome de 
+Cushing nessa paciente? 
+ 
+(A) ACTH plasmático. 
+(B) Tomografia computadorizada de abdome com contraste. 
+(C) Insulina basal e glicemia de jejum. 
+(D) Cortisol livre urinário de 24 horas.  
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{20} 
+Homem, 25 anos de idade, apresentou sintomas de síndrome 
+infecciosa mononucleose-símile, e no 5º dia de febre realizou 
+teste para HIV de 4ª geração com resultado positivo, conforme 
+resultado a seguir: 
+ 
+HIV – Pesquisa de Anticorpos anti-HIV1/2 e p24 – Teste de 
+Triagem 
+ 
+Método: Ensaio Quimioluminescente (CLIA) de 4ª geração 
+Amostra: soro 
+Resultado:  
+62 U/dL  
+ 
+ 
+Valor de Referência: 
+Negativo: < 0,9 U/dL 
+Indeterminado: > 0,9 a < 1,1 U/dL 
+Positivo: > 1,1 U/dL 
+ 
+ 
+Obs.: Todo resultado positivo de teste HIV de triagem deve ser 
+submetido ao teste confirmatório (complementares e coleta 
+em uma nova amostra, segundo recomendações pelo Fluxo 
+Min. Saúde (Manual Técnico para o Diagnóstico da Infecção 
+pelo HIV em Adultos e Crianças / Min Saúde, ed. 2018). 
+ 
+O melhor teste para confirmar o resultado do teste de rastreio 
+deste paciente é: 
+ 
+(A) RT PCR ou pesquisa do RNA de HIV, que se positiva antes 
+do surgimento de anticorpos anti-HIV1/2. 
+(B) Western blot, teste que pesquisa anticorpos contra 
+diferentes proteínas do HIV 1 e HIV2, permitindo ver a 
+reatividade de maneira isolada contra cada proteína. 
+(C) Teste anti-HIV 1/2 de 3ª Geração, que demonstra a 
+presença de anticorpos anti-HIV1/2 usando plataforma 
+diferente da inicial. 
+(D) Pesquisa do p24, proteína viral que se positiva durante a 
+fase de infecção aguda. 
+##### 
+
+
+--- PAGE 8 ---
+
+

@@ -1,0 +1,419 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ação subsequente referiu que vem 
+consumindo dois litros de cachaça há duas semanas, desde 
+que sua mãe faleceu. Não apresenta alterações de fala ou de 
+força motora. Considerando as diretrizes gerais da rede de 
+assistência à saúde no Sistema Único de Saúde (SUS), as 
+atribuições da atenção primária e a rede de atenção 
+psicossocial, qual o local mais indicado para atendimento a 
+esta paciente? 
+ 
+(A) Centro de Atenção Psicossocial Álcool e Drogas. 
+(B) Unidade Básica de Saúde para atendimento com 
+ginecologista. 
+(C) Unidade de Saúde da Família para atendimento com 
+médico de família e comunidade. 
+(D) Unidade de Pronto Atendimento. 
+##### 
+ 
+{08} 
+Homem, 72 anos de idade, com diagnóstico de neoplasia de 
+pulmão em estágio avançado. Mora com a esposa e a neta de 
+10 anos de idade, sendo acompanhado pela equipe da 
+estratégia de saúde da família. Faz uso de morfina, bisacodil, 
+metoclopramida e paracetamol. Sua esposa relata cansaço 
+físico e emocional, mas segue dedicada aos cuidados. O 
+paciente apresenta insônia, dor moderada e grande temor da 
+morte. A família demonstrou desejo de discutir planos futuros 
+de cuidado. Com base nesse cenário e nos princípios dos 
+cuidados paliativos, assinale a alternativa correta. 
+ 
+(A) O cuidado paliativo deve se restringir ao paciente, pois 
+envolver 
+familiares 
+pode 
+gerar 
+maior 
+sobrecarga 
+emocional. 
+(B) A revisão medicamentosa pode incluir a desprescrição de 
+fármacos como laxantes, desde que haja orientação 
+nutricional adequada. 
+(C) A espiritualidade do paciente não precisa ser abordada 
+formalmente, caso o paciente não apresente vinculação 
+religiosa. 
+(D) O uso de antidepressivos tricíclicos em baixa dose pode 
+ser uma alternativa adequada, com reavaliação clínica 
+precoce. 
+##### 
+ 
+{09} 
+Paciente de 30 anos de idade, em tratamento quimioterápico 
+devido à leucemia mieloide aguda, foi encaminhado à UTI 
+devido a febre, porém sem instabilidade hemodinâmica e sem 
+disfunções orgânicas. Não estava em uso de antibiotióticos. 
+Hemograma apresenta leucócitos de 400/mm3. Assinale a 
+alternativa que apresenta a melhor conduta. 
+ 
+(A) Coletar novos exames e vigilância infecciosa. 
+(B) Coletar culturas, 
+screening infeccioso e cefepime 
+imediatamente. 
+(C) Coletar culturas, screening infeccioso e somente iniciar 
+antibioticoterapia caso paciente evolua com hipotensão. 
+(D) Aguardar avaliação da hematologista para discussão do 
+caso. 
+##### 
+ 
+ 
+ 
+{10} 
+Um famoso estudo duplo-cego randomizado comparou AAS 
+versus placebo no tratamento do IAM com supra de ST. A 
+mortalidade encontrada no grupo AAS foi 9% e a mortalidade 
+encontrada 
+no 
+grupo 
+placebo 
+foi 
+12%. 
+Qual 
+é, 
+aproximadamente, o Número Necessário para Tratar (NNT) do 
+AAS para reduzir mortalidade no IAM com supra? 
+ 
+(A) NNT = 1,3. 
+(B) NNT = 3. 
+(C) NNT = 33. 
+(D) Não é possível calcular com os dados apresentados. 
+##### 
+ 
+{11} 
+Paciente em unidade de terapia intensiva, intubado devido à 
+broncopneumonia comunitária, com os seguintes parâmetros 
+ventilatórios: modo pressão controlada, PEEP de 8, PIns de 14, 
+FR de 14 irpm, FiO2 de 50%, VT de 400 mL.  
+ 
+• Gasometria arterial com eletrólitos:  
+pH: 7,27 
+pO2: 80 mmHg 
+pCO2: 40 mmHg 
+HCO3-: 14 mEq/L 
+BE: -9 
+SpO2: 92% 
+Na+: 138 mEq/L 
+C,-: 114 mEq/L 
+K+: 6,3 mEq/L 
+Albumina: 2,5 g/dL 
+ 
+Quais são os distúrbio ácido-base presentes nesse caso? 
+ 
+(A) Acidose mista (metabólica + acidose respiratória). 
+(B) Acidose respiratória isolada. 
+(C) Alcalose respiratória + acidose metabólica. 
+(D) Acidose metabólica isolada. 
+##### 
+ 
+{12} 
+Mulher, 70 anos de idade, com diagnóstico de DPOC 
+avançado, frequenta a unidade básica de saúde com queixa 
+de dispneia intensa, ansiedade e dificuldade para conviver 
+com o prognóstico de sua doença. A equipe de atenção 
+primária oferece suporte contínuo, com controle de sintomas, 
+acolhimento familiar e orientação sobre Diretivas Antecipadas 
+de Vontade (DAV). De acordo com a Política Nacional de 
+Cuidados Paliativos (PNCP) instituída pela Portaria GM/MS  
+nº 3.681/2024, assinale a alternativa que melhor descreve um 
+princípio ou diretriz apoiado pela PNCP. 
+ 
+(A) A PNCP valoriza a autonomia do paciente, incluindo o 
+reconhecimento da Diretiva Antecipada de Vontade. 
+(B) Cuidados paliativos devem ser oferecidos em etapa final 
+da doença, em ambiente hospitalar. 
+(C) O foco principal da PNCP é otimizar o controle de sintomas 
+com analgésico simples, evitando o uso de opioides na 
+rede pública. 
+(D) A PNCP recomenda que tratamentos curativos sejam 
+interrompidos ao iniciar cuidados paliativos. 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Medicina Paliativa – PROVA A05 
+{13} 
+Homem, 62 anos de idade, tabagista, com diagnóstico 
+recente de adenocarcinoma de pulmão virgem de tratamento 
+até o momento, procura atendimento com queixa de dispneia 
+progressiva, sensação de peso na cabeça ao se inclinar para 
+frente e inchaço matinal do rosto. Apresentou, também, 
+episódios de síncope após acessos de tosse. Ao exame físico, 
+apresenta turgência jugular, edema facial e circulação 
+colateral em parede torácica anterior. Encontra-se afebril, 
+normotenso, e apresenta roncos esparsos à ausculta 
+pulmonar. Com base no quadro clínico descrito, assinale a 
+alternativa correta. 
+ 
+(A) A presença de tosse-síncope sinaliza quanto a presença 
+de metástase de sistema nervoso central. 
+(B) A circulação colateral em parede torácica está presente na 
+fase tardia do quadro. 
+(C) O edema facial matutino está presente na fase tardia do 
+quadro. 
+(D) Deve-se recomendar repouso absoluto, com cabeceira a 
+zero graus e direticoterapia. 
+##### 
+ 
+{14} 
+A síndrome de fragilidade do idoso é uma entidade clínica que 
+tem despertado grande interesse clínico e científico, além de 
+representar um importante fator a ser considerado nos 
+processos de tomada de decisão. Sobre essa entidade, 
+assinale a alternativa correta. 
+ 
+(A) A fragilidade é sinônimo de incapacidade funcional e está 
+diretamente associada ao número de comorbidades 
+presentes no idoso. 
+(B) A síndrome de fragilidade representa uma condição 
+estática e irreversível, com pouca aplicabilidade clínica no 
+contexto da atenção primária. 
+(C) A 
+fragilidade 
+é 
+definida 
+como 
+um 
+estado 
+de 
+vulnerabilidade fisiológica, associada à diminuição da 
+reserva homeostática e à maior propensão a desfechos 
+adversos. 
+(D) O único modelo conceitual aceito para definição de 
+fragilidade é o de acúmulo de déficits, que utiliza, 
+exclusivamente, variáveis físicas para a avaliação. 
+##### 
+ 
+{15} 
+Homem, 74 anos de idade, portador de hipertensão arterial 
+sistêmica, diabetes melito insulino-dependente e dislipidemia. 
+Há dois dias apresentou um episódio de acidente isquêmico 
+transitório. Sobre o caso descrito, assinale a alternativa 
+correta. 
+ 
+(A) Mesmo se esse paciente não tivesse história de diabetes 
+melito, a meta de pressão arterial continuaria sendo de 
+130×80 mmHg. 
+(B) O uso de fibratos é indicado na prevenção secundária do 
+AVC em pacientes com hiperlipidemia isolada. 
+(C) O uso de AAS e clopidogrel de início precoce está 
+indicado para pacientes com AIT de alto risco por 90 dias 
+após o evento. 
+(D) O uso de dabigatrana é a droga de escolha para pacientes 
+que tenham histórico de AIT no contexto de estenose 
+mitral. 
+##### 
+ 
+ 
+{16} 
+Paciente idosa, internada devido a fratura de colo de fêmur 
+por consequência de queda da própria altura. Submetida à 
+fixação cirúrgica sem intercorrências e, após 7 dias de 
+internação, evoluiu com quadro de pneumonia e instabilidade 
+hemodinâmica. Faleceu 48 horas após, devido a choque 
+séptico refratário. Em relação ao preenchimento 
+da 
+declaração de óbito neste caso, assinale a alternativa correta. 
+ 
+(A) Deve ser colocado como causa de base “pneumonia”, e 
+como causa imediata “choque séptico”. 
+(B) A declaração de óbito não deve ser preenchida e o corpo 
+deve ser encaminhado ao Instituto Médico Legal (IML). 
+(C) A declaração deve ser preenchida como causa de base 
+“fratura de fêmur”, seguido de “pneumonia” e “choque 
+séptico” nas linhas acima. 
+(D) Caso seja desejo da família por cremação da falecida, a 
+declaração de óbito deve possuir 2 carimbos médicos. 
+##### 
+ 
+{17} 
+Assinale a alternativa que apresenta o perfil de paciente 
+cirrótico indicado para a profilaxia primária de sangramento 
+por varizes esofáicas. 
+ 
+(A) Paciente 
+com 
+cirrose 
+compensada, 
+plaquetas 
+de 
+160.000/mm³, nunca realizou endoscopia digestiva alta e 
+não possui diagnóstico prévio de varizes. 
+(B) Paciente com cirrose compensada, varizes pequenas sem 
+sinais de alto risco, Child-Pugh A, assintomático e em 
+acompanhamento regular. 
+(C) Paciente com cirrose compensada, varizes de médio 
+calibre identificadas em endoscopia, sem sangramento 
+prévio, Child-Pugh A. 
+(D) Paciente com cirrose descompensada, com plaquetas de 
+140.000/mm³, sem endoscopia realizada, em uso de 
+diuréticos por ascite moderada. 
+##### 
+ 
+{18} 
+Homem, 55 anos de idade, apresenta cirrose hepática e foi 
+internado há 2 meses por encefalopatia hepática grau II. Foi 
+tratado com lactulose, obteve reversão completa e manteve 
+de 2 a 3 evacuações pastosas diárias. Comparece em retorno 
+ambulatorial desatento, com alteração do ciclo sono-vigília. 
+Em relação ao manejo deste quadro, assinale a alternativa 
+correta. 
+ 
+(A) Haja vista o histórico prévio de encefalopatia hepática, não 
+é necessário descartar outras causas de alteração do nível 
+de consciência. 
+(B) O uso de rifaximina isolado está indicado. 
+(C) O midazolam é a medicação de escolha para manejo de 
+agitação nesse paciente. 
+(D) A hiponatremia é um fator de risco independente para a 
+ocorrência de encefalopatia hepática. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Medicina Paliativa – PROVA A05 
+{19} 
+Homem, 48 anos de idade, com neoplasia de cólon 
+metastática, já submetido a colectomia e quimioterapia 
+adjuvante, é submetido à cirurgia eletiva de ressecção de 
+metástases hepáticas. Foram realizadas, no mesmo tempo 
+cirúrgico, ressecções nos segmentos II, IV, V e VII. Paciente 
+encaminhado à UTI intubado e em uso de dose baixa de droga 
+vasoativa. Após 48 horas, o paciente não apresenta nível de 
+consciência adequado para extubação. Qual seria a principal 
+hipótese e qual/quais exame(s) poderia(m) corroborar a 
+hipótese? 
+ 
+(A) Sepse e dosagem de PCR. 
+(B) Hemorragia e solicitação de tomografia de abdome. 
+(C) Insuficiência hepática e dosagem de bilirrubina, tempo de 
+protrombina, enzimas hepáticas e amônia. 
+(D) Estado de mal epiléptico e solicitação de ressonância 
+magnética de crânio. 
+##### 
+ 
+{20} 
+Homem, 49 anos de idade, etilista importante (meia garrafa de 
+destilado por dia), em tratamento de carcinoma escamoso de 
+laringe, em uso de traqueostomia, comparece no pronto-
+socorro com quadro de piora da secreção traqueal, febre e 
+queda 
+do 
+estado 
+geral. 
+Encaminhado 
+à 
+UTI 
+para 
+antibioticoterapia e monitorização respiratória. Após 48 horas, 
+paciente evoluiu com agitação psicomotora, sudorese, FC de 
+140 bpm (ritmo sinusal), PA de 170×110 mmHg e um episódio 
+de crise convulsiva tônico-clônico generalizada com reversão 
+em menos de um minuto.  
+ 
+• Gasometria arterial:  
+pH: 7,5 
+pO2: 80 mmHg 
+pCO2: 32 mmHg 
+HCO3-: 21 mEq/L 
+BE: -1 
+SpO2: 96% 
+Na+: 154 mEq/L 
+ 
+Restante dos exames laboratoriais normais, dextro de  
+90 mg/dL. Assinale a alternativa que apresenta o provável 
+diagnóstico e tratamento indicado. 
+ 
+(A) Epilepsia e fenitoína. 
+(B) Broncopneumonia e antibioticoterapia de amplo espectro. 
+(C) Síndrome de abstinência e diazepam. 
+(D) Delirium e neuroléptico. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+

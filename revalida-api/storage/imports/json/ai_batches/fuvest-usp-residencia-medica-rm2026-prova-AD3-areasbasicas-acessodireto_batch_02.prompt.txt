@@ -1,0 +1,425 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ade. Nega alteração do hábito intestinal antes do quadro agudo. Tem antecedente de 
+retossigmoidectomia por diverticulite aguda complicada com peritonite. Ao exame físico, encontra-se em bom estado geral, ausculta 
+torácica sem alterações, abdome com ruídos hidroaéreos aumentados, distendido, doloroso à palpação profunda e sem sinais de 
+irritação peritoneal. Assinale a alternativa que apresenta a tomografia esperada para esta paciente. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD3 
+{08} 
+Durante um checklist pré-operatório de retossigmoidectomia 
+para o tratamento de adenocarcinoma de cólon esquerdo, em 
+um paciente de 64 anos de idade com diabetes controlado, o 
+anestesista pergunta ao cirurgião qual é o antibiótico 
+preconizado neste momento. Qual é a melhor opção? 
+ 
+(A) Cefoxitina. 
+(B) Cefuroxima. 
+(C) Cefazolina. 
+(D) Ceftriaxona. 
+##### 
+ 
+{09} 
+Homem, 59 anos de idade, foi diagnosticado com 
+adenocarcinoma pancreático com indicação de quimioterapia 
+neoadjuvante. Relata perda de 10% do peso corpóreo. O peso 
+ideal é de 70 kg. Não possui comorbidades. Considerando o 
+suporte nutricional para tolerar o tratamento sistêmico e, 
+posteriormente, a operação de grande porte, assinale a 
+alternativa que apresenta as metas calórica e proteica 
+preconizadas. 
+ 
+(A) 2.000 calorias; 100 gramas de proteína. 
+(B) 2.000 calorias; 200 gramas de proteína. 
+(C) 3.000 calorias; 200 gramas de proteína. 
+(D) 3.000 calorias; 100 gramas de proteína. 
+##### 
+ 
+{10} 
+Homem, 45 anos de idade, submetido a gastroplastia em Y de 
+Roux para tratamento de obesidade há 2 anos, com perda de 
+40 kg. Em exame de rotina, foi feito o diagnóstico de colelitíase 
+e coledocolitíase. Assinale a alternativa que apresenta a melhor 
+sequência de tratamento. 
+ 
+(A) Colecistectomia e colangiografia transparietohepática. 
+(B) Colecistectomia e exploração cirúrgica do colédoco. 
+(C) Colangiografia endoscópica e colecistectomia laparoscópi-
+ca. 
+(D) Litotripsia extracorpórea e colecistectomia. 
+##### 
+ 
+{11} 
+Homem, 65 anos de idade, procura o serviço de emergência 
+com dor em fossa ilíaca esquerda há 6 dias, associada a 
+constipação, náuseas e hiporexia. Nega febre. Ao exame 
+físico, apresenta-se em bom estado geral, FC de 80 bpm, PA 
+de 130×80 mmHg, com dor à palpação profunda em fossa 
+ilíaca esquerda, sem sinais de irritação peritoneal. Exames 
+laboratoriais apresentaram 15.000/mm3 leucócitos e PCR de 
+180 mg/L. Foi realizada uma tomografia contrastada de 
+abdome, que evidenciou divertículos em cólon descendente e 
+sigmoide com densificação da gordura mesentérica e 
+presença de abscesso pericólico de 2 cm de diâmetro com 
+focos gasosos de permeio. Assinale a alternativa que 
+apresenta a melhor conduta neste momento. 
+ 
+(A) Antibioticoterapia. 
+(B) Colostomia em alça. 
+(C) Retossigmoidectomia. 
+(D) Drenagem percutânea. 
+##### 
+ 
+{12} 
+Homem, 28 anos de idade, vítima de atropelamento com 
+trauma do membro inferior esquerdo. Após 7 dias de 
+internação, observa-se lesão no membro acometido, sem 
+solução de continuidade com meio externo. Ao exame físico, 
+a escara cutânea está descolada da profundidade e 
+apresenta grande hematoma subcutâneo, sem perfusão 
+cutânea adequada, conforme imagem a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta o provável diagnóstico e 
+a conduta cirúrgica mais adequada. 
+ 
+(A) Fasceite necrotizante; Punção diagnóstica para colheita 
+de material para cultura, curativo oclusivo simples. 
+(B) Fasceite necrotizante; Incisão, drenagem de hematoma, 
+colheita de material para cultura e instalação de curativo 
+por pressão negativa. 
+(C) Ferimento 
+descolante 
+oculto; 
+Ressecção 
+da 
+pele 
+desvitalizada, limpeza cirúrgica e realização de curativo 
+por pressão negativa. 
+(D) Ferimento descolante oculto; Ressecção e enxertamento 
+da pele descolada, enxertia da pele emagrecida sobre o 
+leito cruento. 
+##### 
+ 
+{13} 
+Mulher, 40 anos de idade, procura o serviço de emergência 
+com dor lombar há 3 dias e aumento da intensidade nas 
+últimas 12h. No momento relata dor 10 em 10 e incapacidade 
+de trabalhar. Relata múltiplos episódios prévios semelhantes 
+em momentos de aumento da carga de trabalho. Tem 
+obesidade (IMC de 41 kg/m2), insônia e tabagismo de  
+20 anos-maço. Faz uso de benzodiazepínico para dormir. 
+Nega outras comorbidades. Ao exame físico, após analgesia, 
+apresenta dor localizada na região lombar, com irradiação 
+para o membro inferior direito, força motora e sensibilidade 
+dos 
+membros 
+inferiores 
+sem 
+alterações. 
+Qual 
+das 
+características apresentadas pela paciente representa fator 
+de risco para cronificação do episódio de dor lombar? 
+ 
+(A) Dor intensa gerando incapacidade funcional. 
+(B) Índice de massa corpórea maior que 35 kg/m2. 
+(C) Tabagismo com elevada carga tabágica. 
+(D) Insônia com uso de benzodiazepínico. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD3 
+{14} 
+Mulher, 66 anos de idade, apresentou dor abdominal de início súbito e forte intensidade há 4 horas. Tem diabetes melito e tabagismo 
+de 1 maço de cigarro por dia. Ao exame físico, encontra-se em regular estado geral, com FC de 100 bpm e PA de 100×70 mmHg, 
+abdome tenso, doloroso difusamente à palpação, inclusive à percussão.  
+ 
+• Exames laboratoriais:  
+Hb: 14,9 g/dL 
+Ht: 41% 
+Leucócitos: 16.126/mm3 
+PCR: 12 mg/L 
+Amilase: 281 U/L 
+Lipase: 100 U/L 
+ 
+Foi realizada a tomografia apresentada nas imagens a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que representa o achado operatório esperado nesta paciente. 
+ 
+(A) 
+ 
+ 
+(C) 
+ 
+(B) 
+ 
+ 
+(D) 
+ 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD3 
+{15} 
+Durante colecistectomia pós pancreatite aguda leve, foi 
+optado pela realização de colangiografia intraoperatória. A 
+imagem do campo operatório pode ser observada a seguir: 
+ 
+ 
+ 
+Em qual das estruturas, destacadas pelas setas e numeradas 
+de 1 a 4, deve ser introduzido o cateter da colangiografia? 
+ 
+(A) 1. 
+(B) 2. 
+(C) 3. 
+(D) 4. 
+##### 
+ 
+{16} 
+Mulher, 59 anos de idade, foi submetida a colecistectomia 
+laparoscópica devido a colecistite aguda há 1 dia. Na 
+operação não foi realizada colangiografia intraoperatória e não 
+houve colocação de dreno abdominal. Desde o pós-operatório 
+imediato, apresentou vômitos de repetição sem aceitação da 
+dieta e dor abdominal em tratamento com dipirona e tramadol. 
+Ao exame físico, encontra-se em bom estado geral, eupneica, 
+com FC de 95 bpm, PA de 120×70 mmHg, abdome doloroso 
+à palpação profunda, sem sinais de irritação peritoneal. 
+ 
+• Exames laboratoriais: 
+Hb: 12 g/dL 
+Leucócitos: 13.412/mm3 
+PCR: 90 mg/L 
+Bilirrubina total: 1,1 /dL 
+FA: 91 U/L 
+GGT: 110 U/L 
+Amilase: 100 U/L 
+Lipase: 98 U/L 
+ 
+Assinale a alternativa que apresenta a melhor conduta nesse 
+momento. 
+ 
+(A) Suspender tramadol e passar sonda nasogástrica. 
+(B) Suspender tramadol e administrar ondansetrona. 
+(C) Realizar tomografia de abdome. 
+(D) Realizar colangiorressonância. 
+##### 
+ 
+ 
+ 
+ 
+ 
+{17} 
+Mulher, 39 anos de idade, refere cólica em epigástrio e 
+hipocôndrio direito com irradiação para dorso há 2 dias, que 
+melhora com o uso de analgésicos e antiespasmódicos. Nega 
+febre. Sem comorbidades. Ao exame físico, apresenta bom 
+estado geral, corada, hidratada, ictérica +/++++, afebril; 
+abdome distendido, flácido, doloroso em epigástrio e 
+hipocôndrio direito sem sinais de peritonite. 
+ 
+• Exames laboratoriais:  
+Hb: 11,5 g/dL 
+Leucócitos: 9.500/mm3 
+TGO/AST: 230 U/L 
+TGP/ALT: 310 U/L 
+FA: 430 U/l 
+GGT: 352 U/L 
+Amilase: 110 U/L 
+Lipase: 72 U/L 
+Bilirrubina total: 4,5 mg/dL 
+PCR: 8 mg/L 
+ 
+Com base no caso clínico descrito, assinale a alternativa que 
+apresenta a principal hipótese diagnóstica. 
+ 
+(A) Cólica biliar. 
+(B) Colangite. 
+(C) Coledocolitíase. 
+(D) Colecistite aguda. 
+##### 
+ 
+{18} 
+Mulher, 25 anos de idade, foi vítima de ferimento por arma 
+branca em 2º espaço intercostal à direita há 5 dias. Na 
+ocasião, foi submetida a drenagem de hemopneumotórax com 
+dreno tubular multiperfurado 28 Fr. Evoluiu bem com débito 
+seroso de 40 mL/dia e sem borbulhar à inspiração profunda. 
+A imagem obtida na radiografia de tórax pode ser observada 
+a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a conduta correta neste 
+momento.  
+ 
+(A) Manter o dreno em aspiração contínua. 
+(B) Manter o dreno e fisioterapia respiratória. 
+(C) Retirar o dreno com manobra de Valsalva. 
+(D) Retirar o dreno durante a inspiração. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD3 
+{19} 
+Mulher, 65 anos de idade, foi vítima de colisão de carro em 
+alta velocidade contra anteparo fixo. Estava no banco traseiro 
+do veículo com cinto de segurança. Na admissão no serviço 
+de emergência encontrava-se: 
+ 
+A: Intubada em ventilação mecânica; 
+B: Murmúrios vesiculares simétricos; 
+C: PA de 140×90 mmHg e FC de 120 bpm; 
+D: Escala de coma de Glasgow 3T; 
+E: Marca do cinto de segurança em parede abdominal. 
+Diurese clara. Realizado o FAST, apresentado na imagem a 
+seguir: 
+ 
+ 
+ 
+Com base no caso descrito e no achado observado no FAST, 
+assinale 
+a 
+alternativa 
+que 
+apresenta 
+a 
+lesão 
+mais 
+frequentemente associada a esse mecanismo de trauma. 
+ 
+(A) Lesão intestinal. 
+(B) Lesão pancreática. 
+(C) Fratura de bacia. 
+(D) Rotura da parede abdominal. 
+##### 
+ 
+{20} 
+Mulher, 65 anos de idade, refere empachamento pós-prandial 
+eventual. Nega epigastralgia, pirose, regurgitação, disfagia, 
+dor torácica ou náuseas. Ao exame físico, encontra-se em 
+bom estado geral, com IMC de 32 kg/m2; abdome flácido e 
+indolor. Foi submetida a endoscopia digestiva alta que 
+identificou hérnia hiatal volumosa, com mucosa esofágica sem 
+alterações e pangastrite enantematosa leve. Na sequência, 
+realizou exame de radiografia contrastado do esôfago que 
+confirmou hérnia hiatal tipo III. Foi iniciado tratamento com 
+omeprazol e domperidona, com resolução do sintoma. 
+Assinale a alternativa que apresenta a melhor conduta para 
+esta paciente. 
+ 
+(A) Manometria e pH-metria esofágica para definição do 
+diagnóstico e tratamento. 
+(B) Cirurgia para correção da hérnia de hiato com hiatoplastia 
+e fundoplicatura. 
+(C) Cirurgia com correção da hérnia de hiato com hiatoplastia 
+e bypass gástrico. 
+(D) Seguimento ambulatorial sem indicação de cirurgia no 
+momento. 
+##### 
+ 
+ 
+{21} 
+Homem, 58 anos de idade, é trazido ao pronto-socorro com 
+história de ingestão de soda cáustica. Foi realizada passagem 
+de sonda nasoenteral. No segundo dia de internação, estava 
+sem queixas e solicitou continuidade de recuperação 
+domiciliar, pois sua esposa é enfermeira. O paciente 
+apresenta postura reservada, solícito, fala pouco e diz não se 
+conformar por ter ingerido por engano a soda cáustica que 
+estava em uma garrafa igual à que usam para água. Quando 
+o médico sugere uma consulta psiquiátrica, o paciente pede 
+o favor de não chamar um psiquiatra, temendo o estigma, e 
+acrescenta que tomará mais cuidado. Com base neste caso, 
+assinale a alternativa que apresenta a conduta mais 
+adequada.  
+ 
+(A) Dar a alta se ele assinar o termo de responsabilidade por 
+alta a pedido, respeitando a autonomia do doente. 
+(B) Dar a alta considerando que a esposa é capaz de dar 
+continuidade ao cuidado. 
+(C) Não dar a alta e avaliar com familiares a circunstância do 
+evento para dar continuidade ao cuidado. 
+(D) Não dar a alta e pedir avaliação psiquiátrica, omitindo a 
+especialidade do médico avaliador.  
+##### 
+ 
+{22} 
+Homem, 28 anos de idade, foi vítima de queda de motocicleta. 
+Na admissão intra-hospitalar, está consciente e estável 
+hemodinamicamente. Ao exame físico, tem deformidade da 
+coxa esquerda, com ausência d

@@ -1,0 +1,432 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+03/2025 – PROVA AD2 
+{64} 
+Mulher, 66 anos de idade, apresentou dor abdominal de início súbito e forte intensidade há 4 horas. Tem diabetes melito e tabagismo 
+de 1 maço de cigarro por dia. Ao exame físico, encontra-se em regular estado geral, com FC de 100 bpm e PA de 100×70 mmHg, 
+abdome tenso, doloroso difusamente à palpação, inclusive à percussão.  
+ 
+• Exames laboratoriais:  
+Hb: 14,9 g/dL 
+Ht: 41% 
+Leucócitos: 16.126/mm3 
+PCR: 12 mg/L 
+Amilase: 281 U/L 
+Lipase: 100 U/L 
+ 
+Foi realizada a tomografia apresentada nas imagens a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que representa o achado operatório esperado nesta paciente. 
+ 
+(A) 
+ 
+ 
+(C) 
+ 
+(B) 
+ 
+ 
+(D) 
+ 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 24 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{65} 
+Durante colecistectomia pós pancreatite aguda leve, foi 
+optado pela realização de colangiografia intraoperatória. A 
+imagem do campo operatório pode ser observada a seguir: 
+ 
+ 
+ 
+Em qual das estruturas, destacadas pelas setas e numeradas 
+de 1 a 4, deve ser introduzido o cateter da colangiografia? 
+ 
+(A) 1. 
+(B) 2. 
+(C) 3. 
+(D) 4. 
+##### 
+ 
+{66} 
+Mulher, 59 anos de idade, foi submetida a colecistectomia 
+laparoscópica devido a colecistite aguda há 1 dia. Na 
+operação não foi realizada colangiografia intraoperatória e não 
+houve colocação de dreno abdominal. Desde o pós-operatório 
+imediato, apresentou vômitos de repetição sem aceitação da 
+dieta e dor abdominal em tratamento com dipirona e tramadol. 
+Ao exame físico, encontra-se em bom estado geral, eupneica, 
+com FC de 95 bpm, PA de 120×70 mmHg, abdome doloroso 
+à palpação profunda, sem sinais de irritação peritoneal. 
+ 
+• Exames laboratoriais: 
+Hb: 12 g/dL 
+Leucócitos: 13.412/mm3 
+PCR: 90 mg/L 
+Bilirrubina total: 1,1 /dL 
+FA: 91 U/L 
+GGT: 110 U/L 
+Amilase: 100 U/L 
+Lipase: 98 U/L 
+ 
+Assinale a alternativa que apresenta a melhor conduta nesse 
+momento. 
+ 
+(A) Suspender tramadol e passar sonda nasogástrica. 
+(B) Suspender tramadol e administrar ondansetrona. 
+(C) Realizar tomografia de abdome. 
+(D) Realizar colangiorressonância. 
+##### 
+ 
+ 
+ 
+ 
+ 
+{67} 
+Mulher, 39 anos de idade, refere cólica em epigástrio e 
+hipocôndrio direito com irradiação para dorso há 2 dias, que 
+melhora com o uso de analgésicos e antiespasmódicos. Nega 
+febre. Sem comorbidades. Ao exame físico, apresenta bom 
+estado geral, corada, hidratada, ictérica +/++++, afebril; 
+abdome distendido, flácido, doloroso em epigástrio e 
+hipocôndrio direito sem sinais de peritonite. 
+ 
+• Exames laboratoriais:  
+Hb: 11,5 g/dL 
+Leucócitos: 9.500/mm3 
+TGO/AST: 230 U/L 
+TGP/ALT: 310 U/L 
+FA: 430 U/l 
+GGT: 352 U/L 
+Amilase: 110 U/L 
+Lipase: 72 U/L 
+Bilirrubina total: 4,5 mg/dL 
+PCR: 8 mg/L 
+ 
+Com base no caso clínico descrito, assinale a alternativa que 
+apresenta a principal hipótese diagnóstica. 
+ 
+(A) Cólica biliar. 
+(B) Colangite. 
+(C) Coledocolitíase. 
+(D) Colecistite aguda. 
+##### 
+ 
+{68} 
+Mulher, 25 anos de idade, foi vítima de ferimento por arma 
+branca em 2º espaço intercostal à direita há 5 dias. Na 
+ocasião, foi submetida a drenagem de hemopneumotórax com 
+dreno tubular multiperfurado 28 Fr. Evoluiu bem com débito 
+seroso de 40 mL/dia e sem borbulhar à inspiração profunda. 
+A imagem obtida na radiografia de tórax pode ser observada 
+a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a conduta correta neste 
+momento.  
+ 
+(A) Manter o dreno em aspiração contínua. 
+(B) Manter o dreno e fisioterapia respiratória. 
+(C) Retirar o dreno com manobra de Valsalva. 
+(D) Retirar o dreno durante a inspiração. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 25 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{69} 
+Mulher, 65 anos de idade, foi vítima de colisão de carro em 
+alta velocidade contra anteparo fixo. Estava no banco traseiro 
+do veículo com cinto de segurança. Na admissão no serviço 
+de emergência encontrava-se: 
+ 
+A: Intubada em ventilação mecânica; 
+B: Murmúrios vesiculares simétricos; 
+C: PA de 140×90 mmHg e FC de 120 bpm; 
+D: Escala de coma de Glasgow 3T; 
+E: Marca do cinto de segurança em parede abdominal. 
+Diurese clara. Realizado o FAST, apresentado na imagem a 
+seguir: 
+ 
+ 
+ 
+Com base no caso descrito e no achado observado no FAST, 
+assinale 
+a 
+alternativa 
+que 
+apresenta 
+a 
+lesão 
+mais 
+frequentemente associada a esse mecanismo de trauma. 
+ 
+(A) Lesão intestinal. 
+(B) Lesão pancreática. 
+(C) Fratura de bacia. 
+(D) Rotura da parede abdominal. 
+##### 
+ 
+{70} 
+Mulher, 65 anos de idade, refere empachamento pós-prandial 
+eventual. Nega epigastralgia, pirose, regurgitação, disfagia, 
+dor torácica ou náuseas. Ao exame físico, encontra-se em 
+bom estado geral, com IMC de 32 kg/m2; abdome flácido e 
+indolor. Foi submetida a endoscopia digestiva alta que 
+identificou hérnia hiatal volumosa, com mucosa esofágica sem 
+alterações e pangastrite enantematosa leve. Na sequência, 
+realizou exame de radiografia contrastado do esôfago que 
+confirmou hérnia hiatal tipo III. Foi iniciado tratamento com 
+omeprazol e domperidona, com resolução do sintoma. 
+Assinale a alternativa que apresenta a melhor conduta para 
+esta paciente. 
+ 
+(A) Manometria e pH-metria esofágica para definição do 
+diagnóstico e tratamento. 
+(B) Cirurgia para correção da hérnia de hiato com hiatoplastia 
+e fundoplicatura. 
+(C) Cirurgia com correção da hérnia de hiato com hiatoplastia 
+e bypass gástrico. 
+(D) Seguimento ambulatorial sem indicação de cirurgia no 
+momento. 
+##### 
+ 
+ 
+{71} 
+Homem, 58 anos de idade, é trazido ao pronto-socorro com 
+história de ingestão de soda cáustica. Foi realizada passagem 
+de sonda nasoenteral. No segundo dia de internação, estava 
+sem queixas e solicitou continuidade de recuperação 
+domiciliar, pois sua esposa é enfermeira. O paciente 
+apresenta postura reservada, solícito, fala pouco e diz não se 
+conformar por ter ingerido por engano a soda cáustica que 
+estava em uma garrafa igual à que usam para água. Quando 
+o médico sugere uma consulta psiquiátrica, o paciente pede 
+o favor de não chamar um psiquiatra, temendo o estigma, e 
+acrescenta que tomará mais cuidado. Com base neste caso, 
+assinale a alternativa que apresenta a conduta mais 
+adequada.  
+ 
+(A) Dar a alta se ele assinar o termo de responsabilidade por 
+alta a pedido, respeitando a autonomia do doente. 
+(B) Dar a alta considerando que a esposa é capaz de dar 
+continuidade ao cuidado. 
+(C) Não dar a alta e avaliar com familiares a circunstância do 
+evento para dar continuidade ao cuidado. 
+(D) Não dar a alta e pedir avaliação psiquiátrica, omitindo a 
+especialidade do médico avaliador.  
+##### 
+ 
+{72} 
+Homem, 28 anos de idade, foi vítima de queda de motocicleta. 
+Na admissão intra-hospitalar, está consciente e estável 
+hemodinamicamente. Ao exame físico, tem deformidade da 
+coxa esquerda, com ausência de pulso distal, diminuição da 
+temperatura e palidez. Relata intensa dor no membro inferior 
+esquerdo. O exame radiológico pode ser observado na 
+imagem a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a melhor sequência de 
+tratamento. 
+ 
+(A) Revascularização do membro seguida de fixação cirúrgica 
+da fratura. 
+(B) Redução da fratura com tala seguida de revascularização 
+do membro. 
+(C) Embolectomia com cateter de Fogarty seguida de fixação 
+cirúrgica da fratura. 
+(D) Fixação cirúrgica da fratura seguida de revascularização 
+do membro. 
+##### 
+
+
+--- PAGE 26 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{73} 
+Mulher, 72 anos de idade, encontra-se no sexto pós-operatório 
+de troca de valva mitral. Desde a operação não evacuou, e há 
+dois dias não elimina gases. Nas últimas 24 horas, evoluiu com 
+distensão e dor abdominal. Tem diabetes melito controlado e 
+antecedente de apendicectomia por incisão de McBurney. Ao 
+exame físico, encontra-se em regular estado geral, descorada, 
+eupneica em ar ambiente; exame torácico com incisão de 
+esternotomia sem sinais de complicação e dreno de 
+mediastino com baixo débito; abdome: distendido, com ruídos 
+diminuídos, timpânico, pouco doloroso à palpação difusa sem 
+sinais de irritação peritoneal.  
+ 
+• Exames laboratoriais:  
+Hb: 8,9 g/dL 
+Leucócitos: 10.461/mm3 
+Cr: 2,5 mg/dL 
+Ur: 72 mg/dL 
+PCR: 79 mg/L (anterior de dois dias atrás de 101 mg/L) 
+K+: 3,1 mEq/L 
+Na+: 134 mEq/L 
+ 
+Foi realizada tomografia, conforme imagens a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta o diagnóstico mais 
+provável. 
+ 
+(A) Gastroparesia. 
+(B) Pseudo-obstrução cólica. 
+(C) Obstrução por bridas. 
+(D) Isquemia mesentérica. 
+##### 
+ 
+{74} 
+Mulher, 28 anos de idade, previamente hígida, procura 
+atendimento de urgência. Queixa-se de diarreia aquosa há  
+4 dias com febre baixa. Teve 6 episódios por dia, com cólicas 
+intensas, náuseas e hiporexia. O seu filho de 4 anos de idade 
+está com os mesmos sintomas. Sinais vitais com PA de 
+110×68 mmHg, FC de 94 bpm, FR de 18 irpm, SpO2 de 99%, 
+temperatura de 37,1 °C. Ao exame clínico, apresenta regular 
+estado 
+geral, 
+mucosas 
+secas, 
+peristalse 
+aumentada, 
+desconforto abdominal difuso.  
+ 
+• Exames laboratoriais:  
+Hb: 13,7 g/dL 
+Leucócitos: 15.890/mm3 
+Plaquetas: 384 mil/mm3 
+Ur: 47 mg/dL 
+Cr: 1,18 mg/dL 
+Na+: 128 mEq/L 
+K+: 3,7 mEq/L 
+HCO3-: 29 mEq/L 
+ 
+Assinale a alternativa que apresenta um mecanismo 
+fisiopatológico que faz parte do desenvolvimento da 
+hiponatremia desta paciente. 
+ 
+(A) Secreção inapropriada de ADH. 
+(B) Liberação de peptídeo natriurético. 
+(C) Elevação de aldosterona. 
+(D) Perda fecal de potássio. 
+##### 
+ 
+{75} 
+Homem, 
+53 
+anos 
+de 
+idade, 
+tem 
+esquistossomose 
+hepatoesplênica e comparece em consulta ambulatorial de 
+seguimento. Nota edema nos tornozelos desde a última 
+consulta. Já teve episódios prévios de encefalopatia hepática. 
+Faz uso crônico de lactulose. Sinais vitais com PA de 
+154×86 mmHg, FC de 89 bpm, FR de 16 irpm, SpO2 de 98%. 
+Ao exame clínico, apresenta bom estado geral, vigil, orientado 
+no tempo e no espaço, tônus normais, abdome plano, lobo 
+esquerdo do fígado palpável, baço palpável, edema 
+perimaleolar de 2+/4+.  
+ 
+• Exames laboratoriais:  
+Hb:12,9 g/dL 
+Leucócitos: 4.230/mm3 
+Plaquetas: 98 mil/mm3 
+TGO/AST: 37 U/L 
+TGP/ALT: 43 U/L 
+Albumina: 3,1 g/dL 
+INR: 1,8 
+Cr: 1,37 mg/dL 
+Na+: 130 mEq/L 
+Urina tipo 1: normal 
+ 
+Endoscopia digestiva alta com duas varizes esofágicas de 
+grosso calibre, sem sinais de sangramento recente. 
+Ultrassonografia de abdome superior com líquido livre em 
+pequena quantidade na cavidade, aumento do lobo esquerdo 
+do fígado e aumento do baço. Com base no caso clínico 
+apresentado, assinale a alternativa que indica a melhor 
+conduta terapêutica a ser realizada neste momento. 
+ 
+(A) Infundir albumina. 
+(B) Introduzir carvedilol. 
+(C) Indicar paracentese. 
+(D) Restringir água diária. #####
+
+
+--- PAGE 27 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{76} 
+Homem, 53 anos de idade, possui antecedente de hipertensão e diabetes melito tipo 2. Faz uso de hidroclorotiazida, metformina e 
+gliclazida. Comparece ao departamento de emergência com queixa de dor torácica há cerca de uma hora. Ao exame físico, 
+apresenta PA de 90×60 mmHg, FC de 60 bpm, FR de 25 irpm. Regular estado geral, sudoreico. Auscultas cardíaca e pulmonar 
+sem alterações. Abdome e extremidades sem alterações. Foi realizado o eletrocardiograma apresentado a seguir: 
+ 
+ 
+ 
+Com base no caso clínico apresentado, assinale a alternativa indica a terapia intravenosa imediata pertinente. 
+ 
+(A) Dobutamina. 
+(B) Nitroglicerina. 
+(C) Noradrenalina. 
+(D) Cloreto de sódio 0,9%. 
+##### 
+ 
+{77} 
+Homem, 68 anos de idade, passa em consulta ambulatorial. Ele tem fadiga crônica e o exame clínico é normal. Durante investigação, 
+detectou-se uma anormalidade na eletroforese de proteínas, conforme imagem apresentada a seguir: 
+ 
+ 
+ 
+Foram realizados exame

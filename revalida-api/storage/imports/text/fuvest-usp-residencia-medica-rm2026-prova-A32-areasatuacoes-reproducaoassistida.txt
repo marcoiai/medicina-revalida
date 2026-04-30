@@ -1,0 +1,629 @@
+
+
+--- PAGE 1 ---
+
+ 
+A32 
+ 
+ 
+ÁREAS DE ATUAÇÕES 
+Reprodução Assistida 
+ 
+ 
+ 
+ 
+ 
+ 
+      PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025     
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo A32. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 1 hora. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo fiscal. 
+O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14 h. Não haverá tempo adicional 
+para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 20 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Reprodução Assistida – PROVA A32 
+{01} 
+A doação de gametas por pessoas vivas no Brasil, segundo a 
+Resolução CFM nº 2.320/2022, deve seguir, obrigatoriamente, 
+o princípio da 
+ 
+(A) possibilidade de compensação financeira proporcional ao 
+risco do procedimento. 
+(B) divulgação ao receptor da identidade do doador mediante 
+termo de consentimento. 
+(C) gratuidade, anonimato e não consanguinidade direta entre 
+doador e receptor. 
+(D) prioridade de doação dirigida entre parentes de até 
+segundo grau. 
+##### 
+ 
+{02} 
+Mulher, 37 anos de idade, com histórico de infertilidade há  
+4 anos. Relata ciclos menstruais de 45 dias, com 5 dias de 
+sangramento. Avaliação complementar: Ferriman-Gallwey 7, 
+USG TV com CFA 35. Investigação do parceiro mostrou 
+espermograma com os seguintes parâmetros: concentração 
+de espermatozoides 15 milhões/mL, PR 50%, K 2%. O exame 
+de histerossalpingografia da paciente é apresentado a seguir:  
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta a melhor conduta. 
+ 
+(A) Fertilização in vitro com uso de FSHr, bloqueio com 
+antagonista de GnRH, trigger com agonista de GnRH, 
+congelamento de todos os embriões. 
+(B) Fertilização in vitro com uso de FSHr + LHr, bloqueio com 
+progesterona, 
+trigger 
+com 
+alfacoriogonadotropia, 
+congelamento de todos os embriões. 
+(C) Inseminação intrauterina com indução da ovulação com 
+inibidor da aromatase. 
+(D) Inseminação intrauterina com indução da ovulação com 
+citrato de clomifeno. 
+##### 
+ 
+{03} 
+O protocolo com agonista de GnRH, é uma estratégia utilizada 
+em ciclos de fertilização. Em quais situações? 
+ 
+(A) O bloqueio hipofisário ocorre rapidamente após a 
+administração inicial do agonista, permitindo início 
+imediato de gonadotrofinas na fase lútea tardia. 
+(B) O uso do agonista na fase lútea do ciclo anterior previne a 
+ovulação espontânea e permite melhor sincronização 
+folicular. 
+(C) O protocolo longo apresenta menor risco de Síndrome de 
+Hiperestimulação 
+Ovariana 
+(SHO) 
+comparado 
+ao 
+protocolo com antagonista. 
+(D) O prolongamento com o uso do agonista aumenta a 
+sensibilidade ovariana às gonadotrofinas exógenas, o que 
+leva aumento do número de folículos estimulados. 
+##### 
+ 
+{04} 
+Sobre a estimulação ovariana com baixas doses de 
+gonadotrofinas, assinale a alternativa correta. 
+ 
+(A) É uma estratégia indicada retirar para pacientes com risco 
+aumentado de Síndrome de Hiperestimulação Ovariana 
+(SHO). 
+(B) Utiliza doses de FSH de aproximadamente 300 UI/dia para 
+garantir o recrutamento folicular. 
+(C) Não pode ser indicada para pacientes com baixa reserva 
+ovariana. 
+(D) O uso de antagonistas para bloquear o pico de LH é 
+obrigatório. 
+##### 
+ 
+{05} 
+Segundo a Resolução CFM nº 2.320/2022, a gestação 
+compartilhada entre parceiras homoafetivas femininas 
+ 
+(A) só pode ocorrer se uma delas tiver laudo clínico de 
+infertilidade documentada. 
+(B) é vedada quando não houver união civil formalizada no 
+cartório. 
+(C) exige autorização judicial mesmo com consentimento 
+informado mútuo. 
+(D) pode ser realizada mesmo que não haja diagnóstico de 
+infertilidade, desde que ambas estejam de acordo. 
+##### 
+ 
+{06} 
+Segundo o guideline da ASRM (2024), qual é a abordagem 
+recomendada para pacientes com infertilidade e presença de 
+septo uterino? 
+ 
+(A) Indicação formal de histeroscopia para ressecção do 
+septo uterino, independente de outros fatores. 
+(B) Contraindicação à ressecção do septo uterino, pois não há 
+impacto conhecido na taxa de fertilidade. 
+(C) Considerar ressecção histeroscópica com base em 
+decisão compartilhada, após aconselhamento adequado. 
+(D) Adiar intervenção até que ocorra ao menos duas perdas 
+gestacionais. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Reprodução Assistida – PROVA A32 
+{07} 
+A indicação de criopreservação de tecido ovariano é 
+fundamentada e bem estabelecida para mulheres 
+ 
+(A) com 39 anos de idade, com câncer de mama HER2+, com 
+tempo hábil para estimulação ovariana. 
+(B) de 28 anos de idade, nulípara, com câncer de colo uterino 
+inicial, sem previsão de tratamento adjuvante. 
+(C) adolescentes de 14 anos de idade com linfoma de 
+Hodgkin, pré-púbere, com necessidade de quimioterapia 
+imediata. 
+(D) com 33 anos de idade, com câncer de tireoide, em uso de 
+supressão hormonal prolongada. 
+##### 
+ 
+{08} 
+Em relação ao uso do bloqueio com progesterona na 
+estimulação ovariana para FIV, pode-se afirmar: 
+ 
+(A) A progesterona é utilizada para promover a ovulação 
+prematura durante o protocolo de estímulo ovariano. 
+(B) O bloqueio com progesterona é uma alternativa para evitar 
+o pico de LH, promovendo um bloqueio central. 
+(C) A progesterona causa estimulação do eixo hipotálamo-
+hipofisário, aumentando a produção de gonadotrofinas 
+endógenas. 
+(D) O bloqueio com progesterona é contraindicado em ciclos 
+de FIV, devido à interferência na maturação folicular. 
+##### 
+ 
+{09} 
+O protocolo longo com agonista de GnRH para estimulação 
+ovariana na FIV, caracteriza- se por:  
+ 
+(A) Início do agonista na fase folicular do ciclo menstrual atual, 
+seguido de estimulação imediata com gonadotrofinas. 
+(B) Uso de antagonista de GnRH para bloqueio rápido da 
+secreção de LH. 
+(C) Indicado exclusivamente para pacientes com baixa 
+reserva ovariana. 
+(D) Supressão hipofisária prolongada iniciada na fase lútea do 
+ciclo anterior, com estimulação iniciada após confirmação 
+de supressão. 
+##### 
+ 
+{10} 
+Paciente de 40 anos de idade, com 10 folículos antrais em 
+cada ovário e infertilidade por fator masculino, deseja 
+entender o papel do PGT-A em seu tratamento, é correto 
+afirmar: 
+ 
+(A) O PGT-A não aumenta a taxa cumulativa de gestação por 
+ciclo de FIV, mas pode reduzir a taxa de aborto. 
+(B) A boa reserva ovariana é um indicativo de boa qualidade 
+ovular, não tendo, portanto, indicação de biópsia 
+embrionária. 
+(C) Embriões euploides são considerados de alta qualidade, 
+apresentando 
+as 
+mesmas 
+taxas 
+de 
+sucesso 
+independentemente da classificação morfológica e do 
+tempo de cultivo até a biópsia. 
+(D) Por ser um exame com potencial de identificação e 
+correção de aneuploidias, o PGT-A aumenta a taxa de 
+gravidez cumulativa por ciclo. 
+##### 
+{11} 
+Casal, mulher de 36 anos de idade e seu parceiro de 41 anos 
+de idade, com histórico de três abortos espontâneos no 
+primeiro trimestre, passou por investigação que mostrou útero 
+com morfologia adequada, cariótipos e dosagens hormonais 
+normais. Neste cenário e segundo as diretrizes da ASRM, qual 
+é a principal limitação do uso da análise genética pré 
+implantacional para aneuploidias (PGT-A) neste cenário? 
+ 
+(A) O PGT-A não melhora a taxa de nascidos vivos quando 
+usado como tratamento primário para perda gestacional 
+recorrente. 
+(B) O risco de não haver nenhum embrião euploide no ciclo de 
+FIV limita sua indicação. 
+(C) A idade materna abaixo de 40 anos de idade contraindica 
+o PGT-A. 
+(D) A 
+fertilização 
+in 
+vitro 
+com 
+PGT-A 
+aumenta 
+significativamente o risco de gestações múltiplas, o que 
+seria um risco adicional significativo para a paciente. 
+##### 
+ 
+{12} 
+Segundo o Guideline ESHRE de 2022, o uso de técnicas de 
+reprodução assistida em pacientes com endometriose deve 
+seguir: 
+ 
+(A) O uso prolongado de agonista de GnRH por pelo menos 3 
+meses antes de tratamentos de reprodução assistida é 
+recomendado para aumentar taxas de gravidez. 
+(B) Pacientes com endometrioses devem ser alertadas que o 
+uso de técnicas de reprodução assistida está associado 
+ao aumento da recorrência da doença. 
+(C) Não existem evidências que mostrem superioridade do 
+protocolo com agonistas em relação ao protocolo com 
+antagonistas 
+para 
+supressão 
+hipofisária 
+durante 
+estimulação ovariana em pacientes com endometriose. 
+(D) Pacientes com endometriose profunda se beneficiam de 
+uso prolongado de contraceptivos hormonais antes da 
+estimulação ovariana, já que se observa o aumento das 
+taxas de nascido vivo. 
+##### 
+ 
+{13} 
+Paciente de 43 anos de idade, com insuficiência ovariana, 
+realiza tratamento de FIV com óvulos doados. Dos 8 óvulos 
+injetados, dois blastocistos de boa qualidade foram obtidos. 
+Segundo as evidências disponíveis, qual é a conduta 
+recomendada sobre o uso rotineiro do PGT-A nesses casos? 
+ 
+(A) É recomendado para aumentar taxas de implantação. 
+(B) Deve ser realizado para reduzir o risco de aneuploidias, 
+como a síndrome de Down, devido ao risco elevado pela 
+idade da paciente, maior que 40 anos de idade. 
+(C) Deve ser realizado, somente, quando houver mais de  
+3 blastocistos disponíveis para análise. 
+(D) Não é recomendado devido à ausência de benefício 
+comprovado, independentemente da idade da receptora. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Reprodução Assistida – PROVA A32 
+{14} 
+Casal possui um filho anterior com síndrome do X-frágil. O 
+casal deseja uma nova gestação, porém tem medo de que o 
+próximo filho também apresente a doença. Qual estratégia é 
+clinicamente aceitável neste contexto? 
+ 
+(A) Realizar PGT-A para identificar e transferir apenas 
+embriões euploides. 
+(B) A realização do PGT-M permite detectar embriões do sexo 
+feminino, com menor risco de apresentação clássica da 
+doença.  
+(C) Utilizar tecnologia de morfocinética espermática para 
+realizar a FIV com sêmen sexado para aumentar a chance 
+de formar embriões femininos.  
+(D) Transferir apenas embriões do sexo masculino, uma vez 
+que é uma doença genética ligada ao cromossomo X. 
+##### 
+ 
+{15} 
+Na criopreservação de óvulos em mulheres com câncer,  
+ 
+(A) os resultados de sucesso do congelamento de óvulos são 
+inferiores 
+aos 
+das 
+pacientes 
+sem 
+câncer, 
+independentemente da idade. 
+(B) a taxa de embriões formados por óvulo descongelado é 
+diferente entre mulheres com câncer e sem câncer. 
+(C) mulheres 
+que 
+criopreservam 
+óvulos 
+antes 
+da 
+quimioterapia não apresentam melhora significativa em 
+chances futuras de gestação. 
+(D) a idade da paciente no momento do congelamento é o 
+principal fator preditivo de sucesso reprodutivo futuro, 
+independentemente do tipo de câncer. 
+##### 
+ 
+{16} 
+Em relação à Estimulação Ovariana Controlada (EOC) para 
+preservação da fertilidade em pacientes com neoplasia 
+sensível a hormônios, como o câncer de mama receptor 
+hormonal positivo, a conduta a ser considerada é: 
+ 
+(A) Associação de inibidores da aromatase, como o letrozol, 
+ao protocolo de EOC para minimizar o pico estrogênico. 
+(B) Utilização exclusiva de FSH recombinante em altas doses 
+para encurtar a duração do ciclo. 
+(C) Contraindicação absoluta de qualquer tipo de estimulação 
+ovariana para não elevar os níveis de estradiol. 
+(D) Indução com HMG seguida de clomifeno para reduzir os 
+níveis de estradiol e aumentar a segurança oncológica. 
+##### 
+ 
+{17} 
+Na indução da ovulação no protocolo com antagonista para 
+prevenir a Síndrome de Hiperestimulação Ovariana (SHO), a 
+orientação seria usar: 
+ 
+(A) Agonista de GnRH, que provoca pico endógeno rápido e 
+transitório de LH.  
+(B) Gonadotrofina Coriônica Humana (hCG) por sua longa 
+meia-vida e ação luteotrófica prolongada. 
+(C) Agonista de GnRH, por sua longa meia-vida e ação 
+luteotrófica prolongada. 
+(D) Doses altas de FSH recombinante para aumentar o 
+número de folículos maduros. 
+##### 
+{18} 
+Em relação à possibilidade de reprodução assistida em 
+pacientes com diagnóstico de Síndrome de Insensibilidade 
+Completa aos Androgênios (CAIS), é correto afirmar: 
+ 
+(A) Pacientes com CAIS podem utilizar seus próprios ovários, 
+desde que estimulados com altas doses hormonais. 
+(B) A reprodução assistida com uso de gametas próprios é 
+possível, desde que realizada com útero de substituição. 
+(C) A adoção é a única alternativa permitida para essas 
+pacientes, devido à proibição legal da reprodução 
+assistida em casos de cariótipo 46,XY. 
+(D) Como essas pacientes possuem cariótipo XY e ausência 
+de útero e ovários funcionais, a possibilidade reprodutiva 
+é com doação de óvulos e cessão temporária de útero. 
+##### 
+ 
+{19} 
+Em relação a cirurgia de endometrioma antes da FIV, qual é a 
+recomendação segundo o guideline ESHRE de 2022 sobre 
+endometriose? 
+ 
+(A) A cirurgia deve ser evitada antes da FIV, pois pode 
+comprometer a reserva ovariana e não melhora a taxa de 
+nascidos vivos. 
+(B) A cirurgia é recomendada retirar antes da FIV, pois 
+aumenta a taxa de fertilização. 
+(C) A cirurgia só é recomendada quando houver falha prévia 
+em ciclos de FIV. 
+(D) A cirurgia não deve ser cogitada quando o endometrioma 
+dificultar o acesso aos folículos durante punção ovariana. 
+##### 
+ 
+{20} 
+Em relação à indicação de videolaparoscopia para aumentar 
+as chances de gravidez natural em pacientes com 
+endometriose, assinale a alternativa correta segundo o 
+Guideline ESHRE de 2022 sobre endometriose. 
+ 
+(A) A cirurgia pode ser indicada em casos de endometriose 
+estágio I/II ASRM já que pode aumentar as chances de 
+gravidez natural. 
+(B) Não se deve levar em consideração a idade da paciente 
+ou presença de outros fatores de infertilidade, pois esses 
+não são preditores importantes de gravidez em pacientes 
+com endometriose. 
+(C) As melhores chances de gravidez natural após a cirurgia 
+de endometriose ocorrem após um ano do procedimento. 
+(D) Todas as pacientes que têm endometriose e infertilidade 
+devem 
+ser 
+abordadas 
+cirurgicamente, 
+pois 
+o 
+procedimento melhora a qualidade dos óvulos e, portanto, 
+aumentam a chance de gravidez, seja de forma natural ou 
+através de técnicas de reprodução assistida. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+

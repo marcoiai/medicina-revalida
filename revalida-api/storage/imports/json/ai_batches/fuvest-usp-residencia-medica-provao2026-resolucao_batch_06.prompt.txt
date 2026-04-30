@@ -1,0 +1,247 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+/03/2026 
+Divulgação do resultado da 2ª Chamada da Lista de Espera 
+11/03/2026 às 08h até 12/03/2026 às 
+12h 
+Etapa de Pré-Matrícula Virtual para os candidatos convocados na 2ª 
+Chamada da Lista de Espera 
+ 
+Matrícula site USP, por meio do endereço eletrônico 
+https://uspdigital.usp.br/jupiterweb/graduacaoMatriculaIngressante 
+A Pré-Matrícula Virtual deve ser concluída até às 12 horas do dia 12 de março. O sistema responsável pelo recebimento da solicitação e documentação 
+fica disponível a partir das 08 horas do dia 11 de março até às 12 horas do dia 12 de março, de forma ininterrupta. 
+ 
+Todo candidato matriculado em decorrência da Pré-Matrícula Virtual da 2ª Chamada da Lista de Espera deve realizar a Etapa de Efetivação da 
+Matrícula Virtual entre o dia 23 de março, a partir das 08 horas, até o dia 25 de março, até às 12 horas. 
+
+
+--- PAGE 23 ---
+
+3 
+ 
+ 
+ 
+ 
+PRÉ-MATRÍCULA VIRTUAL - 3ª CHAMADA DA LISTA DE ESPERA 
+17/03/2026 
+Divulgação do resultado da 3ª Chamada da Lista de Espera 
+18/03/2026 às 08h até 19/03/2026 às 
+12h 
+Etapa de Pré-Matrícula Virtual para os candidatos convocados na 3ª 
+Chamada da Lista de Espera 
+ 
+Matrícula site USP, por meio do endereço eletrônico 
+https://uspdigital.usp.br/jupiterweb/graduacaoMatriculaIngressante 
+A Pré-Matrícula Virtual deve ser concluída até às 12 horas do dia 19 de março. O sistema responsável pelo recebimento da solicitação e documentação 
+fica disponível a partir das 08 horas do dia 18 de março até às 12 horas do dia 19 de março, de forma ininterrupta. 
+ 
+Todo candidato matriculado em decorrência da Pré-Matrícula Virtual da 3ª Chamada da Lista de Espera deve realizar a Etapa de Efetivação da 
+Matrícula Virtual entre o dia 23 de março, a partir das 08 horas, até o dia 25 de março, até às 12 horas. 
+ 
+ 
+ETAPA DE EFETIVAÇÃO DE MATRÍCULA VIRTUAL (1ª, 2ª e 3ª LISTAS DE ESPERA) 
+23/03/2026 às 08h até 25/03/2026 às 
+12h 
+Etapa de Efetivação de Matrícula Virtual para os convocados na 1ª, na 
+2ª e na 3ª Listas de Espera que realizaram a Etapa de Pré-Matrícula 
+Virtual. 
+ 
+Site USP, por meio do endereço eletrônico  
+https://uspdigital.usp.br/jupiterweb/graduacaoMatriculaIngressanteConfirm 
+A Etapa de Efetivação de Matrícula Virtual é uma etapa obrigatória. A não realização resulta na perda da vaga. 
+ 
+A Etapa de Efetivação de Matrícula Virtual deve ser realizada até às 12 horas do dia 25 de março. O sistema responsável pelo recebimento da 
+solicitação e documentação fica disponível a partir das 08 horas do dia 23 de março até às 12 horas do dia 25 de março. 
+ 
+ 
+
+
+--- PAGE 24 ---
+
+UNIDADE
+CURSO
+OBSERVAÇÕES
+Gerontologia (Bacharelado) - vespertino 
+Disciplinas teórico-práticas, ministradas ao longo do curso, utilizarão eventualmente o período 
+matutino ou vespertino para o desenvolvimento de algumas de suas atividades.
+Ciências da Natureza (Licenciatura) - noturno
+Gestão Ambiental (Bacharelado) - noturno
+Lazer e Turismo (Bacharelado) - vespertino/noturno 
+Têxtil e Moda (Bacharelado) - matutino 
+O curso, na medida de suas peculiaridades, poderá, eventualmente, alocar atividades didáticas 
+dos alunos (aulas expositivas, laboratórios e visitas técnicas) também nos períodos vespertino e 
+noturno.
+EEFE
+Educação Física (Bacharelado/Licenciatura) - integral
+Ao final do núcleo comum (4º semestre), o aluno deverá optar, em função das notas obtidas 
+nas disciplinas obrigatórias, por um dos dois cursos oferecidos pela Unidade: 1. Bacharelado 
+em Educação Física ou 2. Licenciatura em Educação Física. Quando o aluno optar pelo 
+Bacharelado em Educação Física, deve optar por uma de suas ênfases: a. Desenvolvimento 
+Humano ou b. Treinamento e Gestão no Esporte.
+EERP
+Enfermagem (Bacharelado e Licenciatura) - noturno
+No período vespertino, serão realizadas aulas (teóricas e práticas) e estágio curricular, de 
+acordo com a programação divulgada previamente.
+EESC
+Engenharia de Computação (Bacharelado) - integral 
+Curso interunidades com ICMC
+Engenharia Metalúrgica, ou Engenharia de Materiais 
+ou Engenharia Nuclear (Bacharelado) - integral 
+Após o 3º ano básico, o aluno escolherá, conforme os critérios vigentes na EP/USP, uma das 
+três opções disponíveis: Engenharia de Materiais ou Engenharia Metalúrgica ou Engenharia 
+Nuclear.
+Engenharia de Minas ou Engenharia de Petróleo 
+(Bacharelado) - integral 
+Após o 2º ano básico, o aluno escolherá, conforme os critérios vigentes na EP/USP, uma das 
+duas opções disponíveis: Engenharia de Minas ou Engenharia de Petróleo.
+Engenharia de Computação (Bacharelado) - integral 
+Curso Quadrimestal 
+Engenharia Elétrica (Bacharelado) - integral 
+Os alunos ingressantes farão as opções pelas habilitações ao final do 3º ano comum da 
+estrutura curricular, com base nas notas obtidas nas disciplinas obrigatórias constantes dessa 
+estrutura, a contar do ano de ingresso.
+Ciências Biológicas (Bacharelado/Licenciatura) - 
+noturno
+O curso terá aulas de campo aos sábados, no período matutino e/ou vespertino, e um estágio 
+no 10º semestre.
+Ciências dos Alimentos (Bacharelado) - noturno
+O curso poderá ter aulas aos sábados, no período matutino e/ou vespertino .
+Engenharia Agrônomica (Bacharelado) - integral 
+Engenharia Florestal (Bacharelado) - integral 
+Gestão Ambiental (Bacharelado) - noturno
+O curso terá aulas de campo aos sábados, no período matutino e/ou vespertino.
+FAU
+Design (Bacharelado) - noturno 
+Curso interunidades (FAU, FEA, ECA e EP). O Serviço de Graduação ficará nas dependências 
+da FAU, mesmo local onde as aulas serão ministradas.
+FEA
+Administração (Bacharelado) - integral/noturno 
+No 3º e no 4º anos do curso, as atividades são desenvolvidas no período matutino. 
+Ciências Biológicas (Bacharelado/Licenciatura) - 
+integral 
+O curso tem duração de 10 semestres no bacharelado ou 8 semestres na licenciatura.
+Matemática Aplicada a Negócios (Bacharelado) - 
+integral 
+O curso tem a participação da FEA-RP, Unidade responsável pelas disciplinas das áreas de 
+Economia, Administração e Contabilidade.
+Química (Bacharelado) - integral 
+Após o 1º ano básico, o aluno escolherá, de acordo com os critérios vigentes na Faculdade, 
+uma das três opções seguintes: 1. Química Bacharelado; 2. Quimíca Bacharelado - Habilitação 
+em Química Forense; 3. Química Bacharelado - Habilitação em Química Tecnológica, 
+Biotecnologia e Agroindústria.
+Pedagogia (Licenciatura) - noturno 
+O curso inclui estágios no período matutino e/ou vespertino.
+FFLCH
+Letras (Bacharelado/Licenciatura) - matutino/noturno
+A duração do curso varia de acordo com a habilitação escolhida. Período Matutino:  Duração 
+de 8 semestres para Alemão; Árabe; Armênio; Chinês; Coreano; Espanhol; Francês; Grego; 
+Inglês; Italiano; Japonês; Latim; Linguística; Português; Russo. Duração de 10 semestres para 
+Português e mais uma das seguintes: Alemão; Árabe; Armênio; Chinês; Coreano; Espanhol;  
+Francês;  Grego;  Inglês;  Italiano;  Japonês;  Latim;  Linguística;  Russo. Período Noturno: 
+Duração 8 semestres Alemão;  Espanhol;  Francês;  Grego;  Hebraico; inglês; Italiano;  
+Japonês;  Latim;  Linguística; Português. Duração 10 semestres para Português e mais uma 
+das seguintes: Alemão; Espanhol; Francês; Grego; Hebraico; Inglês; Italiano; Japonês; Latim; 
+Linguística.
+ESALQ
+Os cursos prevêm, também, a opção por Licenciatura em Ciências Agrárias. O calendário 
+escolar prevê aulas aos sábados. 
+FFCLRP
+EP
+UNIVERSIDADE DE SÃO PAULO
+PROVÃO PAULISTA SERIADO - ingresso 2026
+ANEXO III - OBSERVAÇÕES ESPECÍFICAS DOS CURSOS
+EACH
+Algumas disciplinas dos cursos possuem atividades práticas, todas agendadas com 
+antecedência, inclusive atividades de campo, fora do horário normal ou nos finais de semana.
+PRÓ-REITORIA DE GRADUAÇÃO
+1
+
+
+--- PAGE 25 ---
+
+Fisioterapia (Bacharelado) - integral 
+Fonoaudiologia (Bacharelado) - integral 
+Terapia Ocupacional (Bacharelado) - integral
+FO
+Odontologia (Bacharelado) - noturno 
+O curso terá aulas teóricas e laboratoriais aos sábados pela manhã. Ao longo do curso, os 
+alunos cumprirão horas de estágio e atividades clínicas nos períodos da manhã e da tarde. 
+Nutrição (Bacharelado) - matutino/noturno
+Os estágios curriculares são obrigatórios, podendo ser realizados em período integral ou em 
+meio período, pela manhã ou à tarde. Aulas do curso serão ministradas também aos sábados 
+pela manhã, tanto para o período matutino quanto para o período noturno.
+Saúde Pública (Bacharelado) - vespertino 
+Os estágios curriculares são obrigatórios, podendo ser realizados em período integral ou em 
+meio período, pela manhã ou à tarde. Aulas do curso serão ministradas também aos sábados 
+pela manhã. 
+Astronomia (Bacharelado) - integral 
+Geofísica (Bacharelado) - integral 
+Meteorologia (Bacharelado) - integral 
+IB
+Ciências Biológicas (Bacharelado/Licenciatura) - 
+integral/noturno
+Ao longo do curso, os alunos terão atividades programadas fora dos horários regulares. 
+Eventualmente, poderão ser ministradas aulas aos sábados, tanto para o período integral 
+quanto para o noturno.
+IF
+Física Médica (Bacharelado) - noturno
+Curso Interunidades com FM.
+Ciências Exatas (Licenciatura) - noturno 
+Curso interunidades com ICMC e IQSC.
+Física Biomolecular (Bacharelado) - integral 
+8 semestres para o Bacharelado e 9 semestres para os alunos que optarem também pela 
+Ênfase Tecnológica.
+IQ
+Química (Bacharelado/Licenciatura) - integral/noturno 
+Cada curso permite que o aluno escolha entre diferentes opções formativas.                                 
+Período integral:  Licenciatura em Química,  Bacharelado em Química,  Bacharelado em 
+Química com Ênfase em Química Tecnológica,  Bacharelado em Química com Ênfase em 
+Biotecnologia ou  Bacharelado em Química com Ênfase em Bioquímica e Biologia Molecular.      
+Período noturno: Licenciatura em Química, Bacharelado em Química ou Bacharelado em 
+Química com Ênfase em Química Ambiental.
+Havendo disponibilidade de vagas, alunos de ambos os cursos podem escolher qualquer opção 
+formativa.
+IQSC
+Química (Bacharelado/Licenciatura) - integral
+Duração de 8 semestres para o Bacharelado e 9 semestres para o Bacharelado com 
+Habilitação Tecnológica. Ao final do segundo ano, o aluno deve optar entre as seguintes 
+alternativas: 1. Bacharelado em Química - Habilitação Fundamental; 2. Bacharelado em 
+Química - Habilitação: Tecnológica - Ênfase: Alimentos; 3. Bacharelado em Química - 
+Habilitação: Tecnológica - Ênfase: Ambiental; 4. Bacharelado em Química - Habilitação: 
+Tecnológica - Ênfase em Gestão de Qualidade e Materiais
+FSP
+IAG
+A partir do 3º ano as atividades dos cursos são concentradas em um dos períodos 
+(matutino/vespertino).
+IFSC
+FM
+Os cursos terão aulas nos campi São Paulo Butantã e São Paulo Quadrilátero, com eventuais 
+atividades no Hospital das Clínicas.
+2
+

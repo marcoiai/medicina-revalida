@@ -1,0 +1,414 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Endocrinologia e Metabologia – PROVA AA5 
+{06} 
+Criança, sexo masculino, nascido a termo de parto normal, 
+sem intercorrências com apresentação cefálica. Nasceu 
+adequado 
+para 
+a 
+idade 
+gestacional. 
+Apresentou 
+desaceleração do crescimento a partir dos 8 anos de idade, 
+coincidente com cefaleia diária associada à náusea e vômito. 
+A mãe procurou serviço médico para avaliação neurológica e 
+o exame físico apresentava altura com – 2,5 DP comparada 
+com as crianças de mesma idade e sexo. O raio-X simples de 
+crânio apresentava alargamento da sela com sinais de 
+microcalcificação e a RM de hipófise apresentava lesão 
+supraselar de característica cística e solida. Os exames 
+laboratoriais confirmaram deficiência de GH e TSH. Qual o 
+diagnóstico que melhor caracteriza o quadro de deficiência 
+hormonal múltipla associado à lesão supraselar com aspecto 
+cístico e microcalcificação ao raio-X simples de crânio?  
+ 
+(A) Hamartoma. 
+(B) Craniofaringioma. 
+(C) Ependimoma. 
+(D) Adenoma hipofisario não funcionante. 
+##### 
+ 
+{07} 
+Menina, 12 anos e 6 meses de idade, com excesso de peso 
+desde o nascimento, em seguimento com nutricionista e 
+psicólogo há 3 anos, é encaminhada pelo pediatra para 
+consulta com endocrinologista devido à piora progressiva da 
+obesidade. Tem um bom rendimento na escola, onde faz 
+atividade física 2 vezes por semana. A menarca foi com  
+11 anos. O peso é 69 kg, a estatura 146 cm (normal para a 
+idade), IMC de 32 kg/m² e Z-IMC de +2,87, com predomínio 
+de gordura em tronco e estadiamento de Tanner M4P4. 
+Considerando o quadro da paciente e a obesidade, assinale 
+a alternativa correta. 
+ 
+(A) Apresenta indicação de tratamento da obesidade com 
+liraglutida. 
+(B) Há 
+recomendação 
+de 
+rastreio 
+para 
+obesidade 
+monogênica. 
+(C) Até os 16 anos, o tratamento deve ser somente com 
+nutrição saudável e atividade física. 
+(D) Deve ser pedida a dosagem de cortisol às 8 horas por 
+suspeita de obesidade de causa endócrina. 
+ 
+##### 
+ 
+{08} 
+Paciente de 80 anos de idade apresenta diabetes melito 
+tratado com metformina. Apresenta dores articulares em mãos 
+e joelhos. Seu ortopedista pediu avaliação da função 
+tireoidiana, conforme resultados a seguir:  
+ 
+TSH: 6,0 mUI/L (ref.: 0,8 a 4,2 mUI/L) 
+T4 livre: 1,3 ng/dL (ref.: 0,9 a 1,5 ng/dL) 
+ 
+Assinale a alternativa que apresenta a conduta adequada. 
+ 
+(A) Repetir a dosagem em 1 semana. 
+(B) Introduzir levotiroxina na dose de 50 µg/dia. 
+(C) Introduzir levotiroxina na dose de 25 µg/dia, com aumento 
+a cada 4 semanas.  
+(D) Somente observação, e repetir a dosagem em 3 meses. 
+##### 
+ 
+ 
+{09} 
+Homem, 26 anos de idade é encaminhado por história familiar 
+de doença arterial coronariana, avô paterno e pai faleceram 
+por IAM, aos 45 e 55 anos de idade, respectivamente. Pai 
+tabagista e dislipidêmico. Paciente assintomático, saudável, 
+pratica 
+esporte 
+regularmente 
+e 
+mantém 
+alimentação, 
+razoavelmente, 
+pobre 
+em 
+gorduras. 
+Sem 
+uso 
+de 
+medicamentos 
+contínuos. 
+Mãe 
+diabética 
+e 
+sem 
+comorbidades. Nega tabagismo. Refere ingestão de bebidas 
+alcoólicas nos finais de semana, preferencialmente vinho. Ao 
+exame físico, apresentou IMC de 26,7 kg/m2, PA de  
+120×80 mmHg. Ausência de xantelasmas. Presença de 
+espessamento em tendões de Aquiles bilateralmente. Sem 
+mais alterações. 
+ 
+• Exames laboratoriais: 
+Colesterol total: 290 mg/dL 
+LDL-C: 215 mg/dL 
+Triglicérides: 110 mg/dL 
+HDL-C: 53 mg/dL 
+Não-HDL-C: 237 mg/dL 
+Hb A1c: 5,7% 
+TSH: 1,5 μUI/mL 
+ 
+Qual é o diagnóstico mais provável para esse paciente? 
+ 
+(A) Dislipidemia secundária ao alcoolismo. 
+(B) Hiperlipemia familiar combinada. 
+(C) Hipercolesterolemia familial heterozigótica. 
+(D) Dislipidemia mista de causa secundária. 
+##### 
+ 
+{10} 
+Mulher, 61 anos de idade, procura atendimento devido ao 
+aparecimento de hirsutismo e queda de cabelo nos últimos  
+5 anos. Ela também relata aumento do clitóris. Refere que 
+durante a menacme tinha ciclos regulares, G3P2A1, e teve 
+menopausa aos 52 anos. Não fez terapia hormonal da 
+menopausa e nega uso de medicamentos ou suplementos. Ao 
+exame físico, observa-se pelos faciais espessos e rarefação 
+de cabelo na região temporal.  
+ 
+• Exames laboratoriais:  
+Testosterona total: 160 ng/dL (ref.: para mulheres < 40 ng/dL) 
+DHEAS: 45 µg/dL (ref.: 35 a 430 µg/dL),  
+FSH e LH: com padrão de pós-menopáusica;  
+Estradiol: < 10 pg/mL 
+Qual é a causa mais provável do excesso de andrógenos 
+desta paciente? 
+ 
+(A) Hipertecose ovariana. 
+(B) Hiperplasia adrenal congênita forma não clássica. 
+(C) Exposição exógena à testosterona.  
+(D) Carcinoma adrenal. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Endocrinologia e Metabologia – PROVA AA5 
+Texto para as questões 11 e 12 
+ 
+Homem, 52 anos de idade, apresentava zumbido em ouvido 
+direito. Na avaliação pelo otorrinolaringologista, foi solicitada 
+ressonância magnética de crânio. O exame evidenciou uma 
+massa, de características sólidas, ocupando toda a região 
+selar, de 1,7 x 2,0 cm, com expansão supraselar, tocando o 
+quiasma óptico. Não havia qualquer anormalidade no exame 
+físico.  
+ 
+{11} 
+Em relação ao caso clínico apresentado, é correto afirmar:  
+ 
+(A) O diagnóstico mais provável, pelas características da 
+imagem, é de um craniofaringioma. 
+(B) O paciente apresenta um incidentaloma de hipófise, que 
+acomete menos de 5% dos adultos que realizam imagem 
+de crânio.  
+(C) Pela extensão da lesão, indica-se a avaliação hormonal 
+completa da função hipofisária anterior, e posterior, 
+incluindo teste de restrição hídrica. 
+(D) Apesar de não apresentar queixas visuais, a avaliação 
+neuro-oftamológica é indicada pela proximidade da lesão 
+com as vias ópticas.  
+##### 
+ 
+{12} 
+Considerando o caso apresentado, pode-se afirmar:  
+ 
+(A) Em geral, o tratamento indicado é a neurocirurgia. 
+(B) A radioterapia é o tratamento mais adequado, uma vez que 
+esses tumores apresentam crescimento lento. 
+(C) Esse tipo de lesão em geral é familiar, sendo necessária 
+investigação genética. 
+(D) A avaliação de reposição hormonal deve ser feita apenas 
+após o tratamento, pois deficiências hormonais podem ser 
+reversíveis 
+##### 
+ 
+{13} 
+Homem, 40 anos de idade, com episódios esparsos de 
+tremores e sudorese há 3 anos, que ocorrem, principalmente 
+no período matinal antes do café da manhã ou quando atrasa 
+as refeições. Vem apresentando ganho progressivo de peso. 
+Sem doenças prévias. Foi levado ao pronto socorro com 
+quadro de confusão mental após episódio convulsivo. Nesta 
+ocasião a glicemia capilar era de 20 mg/dL. Houve 
+recuperação completa do estado mental após a injeção de 
+glicose. Assinale a alternativa correta. 
+ 
+(A) A hipótese de insulinoma não deve ser considerada, 
+porque o paciente ganhou peso.  
+(B) A hipótese de um tumor produtor de IGF2 deve ser 
+considerada e investigada com as determinações de IGF1 
+e de IGF2. Nesses casos, na vigência de hipoglicemia, a 
+insulina está baixa. 
+(C) O teste da refeição mista deve ser considerado prioritário. 
+(D) Podemos afirmar que a hipoglicemia deve-se ao tumor 
+pancreático produtor de insulina.  
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{14} 
+Mulher, 25 anos de idade, previamente saudável, procura 
+atendimento com queixas de ganho de peso progressivo nos 
+últimos 18 meses, fraqueza muscular proximal, hipertensão de 
+difícil controle, diabetes melito de início recente e alterações 
+menstruais (oligomenorreia). Nega uso de medicamentos 
+crônicos, exceto anti-hipertensivos (anlodipino 5 mg 2x ao 
+dia). Ao exame físico, apresenta pletora facial, preenchimento 
+das fossas supracalviculares, equimoses espontâneas em 
+membros superiores. atrofia muscular proximal, PA de  
+156×98 mmHg e IMC de 27 kg/m2. 
+ 
+• Exames laboratoriais: 
+Cortisol Livre Urinário (CLU): 285 µg/24h (ref.: < 50 µg/24h)  
+Volume urinário: 1.500 mL 
+ACTH plasmático: <5 pg/mL (ref.: 5 a 46 pg/mL) 
+Cortisol sérico: 20 µg/dL (ref.: 6 a 25 µg/dL) 
+ 
+Qual é a hipótese diagnóstica mais provável e qual a conduta 
+recomendada? 
+ 
+(A) Síndrome 
+de 
+Cushing 
+ACTH-dependente; 
+solicitar 
+ressonância de hipófise. 
+(B) Síndrome de Cushing de origem adrenal; solicitar CT de 
+abdômen protocolo adrenal. 
+(C) Pseudo-Cushing relacionada obesidade realizar teste da 
+dexametasona com 8 mg. 
+(D) Solicitar US de abdômen para evitar radiação ionizante.  
+##### 
+ 
+{15} 
+Mulher, 44 anos de idade, relata que nos últimos 6 meses vem 
+apresentando dificuldade para deglutir, cansaço discreto e 
+aumento de peso de aproximadamente 8 kg, com inchaço de 
+mãos e pés. Refere ainda, cefaleia discreta/moderada e 
+irregularidade menstrual há um ano. Hipertensão arterial e 
+diabetes melito há dois anos. Cirurgia prévia de síndrome do 
+túnel do carpo. Ao exame: face com pele espessada, nariz e 
+lábios grossos e aumento dos sulcos faciais. Tireoide 
+discretamente aumentada, superfície regular, consistência 
+firme, indolor à palpação, ausência de nódulos e móvel à 
+deglutição. Mãos e pés aumentados. Ao exame físico, altura: 
+de 1,62 m, peso de 76 kg (IMC: 29 kg/m2), FC de 72 bpm e PA 
+de 130×110 mmHg. Restante do exame normal. Assinale a 
+alternativa que apresenta o procedimento correto para 
+confirmação da hipótese diagnóstica. 
+ 
+(A) Investigação por imagem do bócio tireoidiano. 
+(B) Avaliação cardiovascular. 
+(C) Avaliação completa da função hipofisária. 
+(D) Avaliação reumatológica. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Endocrinologia e Metabologia – PROVA AA5 
+{16} 
+Menino, 6 anos de idade, foi levado ao pediatra por apresentar 
+baixa estatura. Mãe referia dificuldade escolar leve e 
+antecedente cirúrgico de orquidopexia bilateral. Ao exame 
+físico, foi observado: face triangular, hipertelorismo ocular e 
+ptose palpebral além de pescoço alado. Z escore de altura:  
+-3 DP. Ausculta cardíaca revelou presença de sopro sistólico. 
+Ecocardiograma confirmou o diagnóstico de estenose de 
+valvar pulmonar.  Em relação a esta condição de baixa 
+estatura genética, é correto afirmar:  
+ 
+(A) Está 
+associada 
+a 
+criptorquia 
+em 
+meninos, 
+e 
+o 
+hipogonadismo 
+hipogonadotrófico 
+é 
+frequente 
+em 
+meninas.  
+(B) Essa condição clínica compartilha muitos estigmas com a 
+síndrome de Turner e seu diagnóstico é confirmado pelo 
+cariótipo.  
+(C) Malformações cardíacas esquerdas são frequentes, assim 
+como a presença de déficit cognitivo grave. 
+(D) Variantes alélicas patogênicas do gene PTPN11 são 
+identificadas em cerca de 50% dos casos com diagnóstico 
+molecular estabelecido.  
+##### 
+ 
+{18} 
+Mulher, 71 anos de idade, com hipercalcemia leve e 
+diagnóstico de hiperparatireoidismo primário assintomático 
+com indicação de tratamento cirúrgico. Foram realizados 
+exames de imagem com resultado concordante entre achado 
+de cintilografia de paratireoides com MIBI e ultrassom 
+cervical. A paciente foi submetida a uma paratireoidectomia 
+minimamente invasiva. No terceiro dia pós-operatório, foram 
+realizados os seguintes exames laboratoriais: 
+ 
+Calcio: de 8,9 mg/dL (ref.: 8,6 a 10,3 mg/dL) 
+Fosfato: de 2,3 mg/dL (ref.: 2,5 a 4,5 mg/dL) 
+Creatinina: 0,8 mg/dL (ref.: 0,6 a 1,1 mg/dL) 
+Albumina: 4,0 g/dL (ref.: 3,5 a 5,2 g/dL) 
+25 hidroxi-vitamina D: 36 ng/mL 
+PTH: 96 pg/mL (ref.: 20 a 58 pg/mL) 
+ 
+Em relação ao caso descrito, pode-se afirmar: 
+ 
+(A) Trata-se 
+de 
+um 
+caso 
+de 
+persistência 
+de 
+hiperparatireoidismo primário. 
+(B) Deve-se solicitar uma tomografia de pescoço com 
+protocolo 4D para reoperação ainda nesta internação. 
+(C) Deve-se suplementar a paciente com carbonato de cálcio 
+considerando hiperparatireoidismo secundário. 
+(D) Trata-se de um caso de fome óssea e a paciente tem 
+indicação de uso de calcitriol. 
+##### 
+ 
+{19} 
+Homem, 52 anos de idade, foi encaminhado por fraqueza e 
+formigamento nas extremidades superiores e infer

@@ -1,0 +1,413 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+uada é: 
+ 
+(A) Adrenalectomia esquerda. 
+(B) Tomografia de tórax para estadiamento. 
+(C) Controle tomográfico em seis meses. 
+(D) Não são necessárias condutas adicionais. 
+##### 
+
+
+--- PAGE 19 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{68} 
+Mulher, 62 anos de idade, diabética, ex-tabagista de 40 anos-maço, com antecedente de câncer de mama tratado com cirurgia e 
+radioterapia há três anos; atualmente em uso de tamoxifeno. Há duas horas, apresenta dor torácica à esquerda, acompanhada de 
+episódio de síncope. Ao exame clínico, encontra-se eupneica, com PA de 120×70 mmHg FC de 110 bpm, SpO2 de 93% em ar 
+ambiente, sem outras alterações. Exames laboratoriais com hemograma normal e troponina T–us 98 ng/mL na chegada e 131 ng/mL 
+após duas horas (ref.: 14 ng/mL). POCUS: sem alteração na contratilidade global ou segmentar de VE. O ECG é apresentado a 
+seguir: 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que apresenta o manejo mais adequado para esta paciente. 
+ 
+(A) AAS, anticoagulação plena e cateterismo cardíaco. 
+(B) AAS, clopidogrel, anticoagulação plena e cateterismo cardíaco. 
+(C) Anticoagulação plena e angiotomografia de artérias pulmonares. 
+(D) Anti-inflamatório não hormonal associado a colchicina. 
+#####
+ 
+{69} 
+Paciente com carcinoma renal de células claras metastático 
+para pulmão, ossos e fígado, com progressão de doença após 
+duas linhas de tratamento prévias, procura o pronto-socorro 
+por quadro de confusão, hiporexia e edema de membros 
+inferiores. Ao exame clínico, apresenta Glasgow 14, FC de  
+110 bpm.  
+ 
+• Exames laboratoriais:  
+Hb: 6,8 g/dL 
+Albumina: 2,8 g/dL 
+FA: 1150 U/L 
+TGO/AST:  62 U/L 
+TGP/ALT: 88 U/L 
+Bilirrubina total: 1,5 mg/dL 
+Cr: 1,2 mg/dL 
+Fósforo: 2,5 mg/dL 
+ 
+Em casa, permanecia a maior parte do tempo sentado ou 
+deitado nas últimas duas semanas. Em relação ao caso 
+apresentado, as condutas mais adequadas são: 
+ 
+(A) Dosagem de cálcio sérico e realização de tomografia de 
+crânio com contraste. 
+(B) Dosagem de amônia e realização de tomografia de crânio 
+sem contraste. 
+(C) Transfusão de concentrado de hemácias e reposição de 
+fósforo. 
+(D) Infusão de albumina e dosagem de cálcio sérico. 
+##### 
+ 
+{70} 
+Mulher, 65 anos de idade, com doença renal crônica, realiza 
+hemodiálise por cateter duplo lúmen tunelizado de longa 
+permanência 
+em 
+veia 
+jugular 
+interna 
+direita 
+há 
+aproximadamente três anos. Comparece ao pronto-socorro 
+com queixa de febre e tremores durante as últimas três 
+sessões de hemodiálise. Foi coletada hemocultura periférica à 
+chegada, com crescimento em 10 horas de Staphylococcus 
+aureus sensível a oxacilina. A hemocultura de cateter de 
+hemodiálise apresentou crescimento de S. aureus com 
+mesmo perfil de sensibilidade em 4 horas. Em relação ao caso 
+apresentado, as condutas mais adequadas são:  
+ 
+(A) Introduzir 
+vancomicina 
+pós-diálise 
+por 
+ao 
+menos  
+3 semanas; solicitar ecocardiograma e fundo de olho; 
+fechar o cateter com antibiótico local concentrado (lock 
+terapia) com vancomicina. 
+(B) Introduzir 
+vancomicina 
+pós-diálise 
+por 
+ao 
+menos  
+3 semanas, solicitar ecocardiograma e fundo de olho; 
+remover cateter de longa permanência. 
+(C) Introduzir oxacilina ou cefazolina por ao menos 3 semanas; 
+solicitar ecocardiograma e fundo de olho; remover cateter 
+de longa permanência. 
+(D) Introduzir oxacilina por ao menos 3 semanas; solicitar 
+ecocardiograma e fundo de olho; fechar o cateter com 
+antibiótico 
+local 
+concentrado 
+(lock 
+terapia) 
+com 
+vancomicina. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 20 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{71} 
+Homem, 25 anos de idade, com dor precordial. 
+ 
+• Exames laboratoriais: 
+Hb: 13 g/dL 
+Leucócitos: 9.400/mm3 
+Neutrófilos: 2.600/mm3 
+Eosinófilos: 4.200/mm3 
+Linfócitos: 1.800/mm3 
+Monócitos: 400/mm3 
+Troponina e pro-BNP: persistentemente elevados 
+ 
+ECO transtorácico com alteração segmentar e fração de ejeção reduzida. Cateterismo cardíaco sem lesões obstrutivas. O ECG é 
+apresentado na imagem a seguir: 
+ 
+ 
+Em relação ao caso apresentado, a conduta mais adequada deve incluir: 
+ 
+(A) AAS, clopidogrel e enoxaparina. 
+(B) Mesilato de imatinibe.  
+(C) Metilprednisolona. 
+(D) Colchicina.  
+#####
+ 
+{72} 
+Mulher, 18 anos de idade, com rinite alérgica e sinusites de 
+repetição desde a infância. Há um ano, diarreia com restos 
+alimentares e perda ponderal, com piora após ingestão de 
+massas e pão.  
+ 
+• Exames laboratoriais:  
+Hb: 12,5 g/dL 
+Eosinófilos: 200/mm3 
+IgG: 1.200 mg/dL (ref.: 700 a 1.600 mg/dL) 
+IgA: < 5 mg/dL (ref.:70 a 400 mg/dL) 
+IgM: 325 mg/dL (ref.:40 a 230 mg/dL) 
+IgE: 545 UI/mL (ref.: < 100 UI/mL) 
+Parasitológicos de fezes (3): negativos 
+ 
+Em relação ao caso apresentado, o teste mais indicado para 
+o início da investigação é: 
+ 
+(A) Genotipagem para HLA DQ2 e DQ8. 
+(B) Biópsia de 2ª porção do duodeno. 
+(C) Anticorpo IgE específico para glúten. 
+(D) Anticorpo IgG antigliadina deaminada. 
+##### 
+ 
+{73} 
+Mulher, 48 anos de idade, refere que nos últimos dois anos 
+apresentou oito episódios de edema de lábios e lesões 
+eritematosas, edematosas e pruriginosas pelo corpo. As 
+lesões cutâneas desaparecem completamente em algumas 
+horas e o angioedema em até três dias. Em duas ocasiões, 
+associou o quadro com consumo de camarão. Nega 
+broncoespasmo, vômitos ou dor abdominal. Boa resposta a 
+anti-histamínicos e adrenalina, utilizada em algumas ocasiões 
+durante 
+atendimento 
+em 
+pronto 
+atendimento. 
+Em 
+acompanhamento por lombalgia há seis anos, estando 
+medicada com anti-inflamatório não esteroidal de demanda. 
+Hipertensão arterial sistêmica há quatro anos, em uso de 
+diurético. Em relação ao caso apresentado, qual é a melhor 
+hipótese diagnóstica? 
+ 
+(A) Urticária aguda por anti-inflamatório não esteroidal.  
+(B) Alergia alimentar a múltiplos alimentos, como camarão. 
+(C) Anafilaxia recorrente devido aos vários medicamentos. 
+(D) Angioedema hereditário, sem desencadeante específico. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 21 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+{74} 
+Homem, 45 anos de idade, com antecedente de trauma 
+raquimedular, em uso crônico de baclofeno e olanzapina, é 
+internado na UTI por sepse secundária à infecção urinária. 
+Durante a internação, evoluiu com delirium hiperativo, 
+necessitando 
+de 
+doses 
+de 
+resgate 
+de 
+haloperidol 
+endovenoso, por impossibilidade de utilização da via oral. No 
+terceiro dia de UTI, passou a apresentar febre persistente de 
+39 °C, tremores e espasticidade, mantendo FC de 140 bpm, 
+PA de 140×60 mmHg, FR de 25 irpm, SpO2 de 95% em ar 
+ambiente. Em relaçãoao caso descrito, assinale a alternativa 
+que apresenta a conduta mais adequada, após a passagem 
+de sonda nasoenteral. 
+ 
+(A) Iniciar bromocriptina e diazepam.  
+(B) Retornar baclofeno e iniciar dexmedetomedina. 
+(C) Retornar baclofeno e iniciar dantrolene. 
+(D) Suspender haloperidol e iniciar amantadina. 
+##### 
+ 
+{75} 
+Mulher, 38 anos de idade, com dor abdominal, metrorragia e 
+perda ponderal há cerca de três meses. Durante a 
+investigação, realizou ressonância de pelve com uma lesão 
+expansiva no ovário direito. Coleta de antígeno CA 125 de 
+221,9 U/mL (ref.: < 35 U/mL) e antígeno carcinoembrionário 
+CEA de 99,3 ng/mL (ref.: < 5 ng/mL). Submetida à 
+videolaparoscopia diagnóstica com lesão oncológica em 
+anexo direito e carcinomatose peritoneal, sem a possibilidade 
+de ressecção total. Realizadas biópsias com o achado de 
+adenocarcinoma com estudo imuno-histoquímico a seguir: 
+ 
+CK7: negativo 
+CK20: positivo 
+CDX2: positivo 
+GATA3: negativo 
+ER (receptor de estrogênio): negativo 
+PR (receptor de progesterona): negativo 
+HER2: negativo 
+PAX8: negativo 
+WT1: negativo 
+ 
+Neste caso, o exame com maior probabilidade de confirmar o 
+sítio primário é: 
+ 
+(A) Mamografia. 
+(B) Colonoscopia.  
+(C) Endoscopia digestiva alta. 
+(D) Não é necessário nenhum exame adicional. 
+##### 
+ 
+{76} 
+Homem, 35 anos de idade, assintomático, realiza check-up 
+com exames que apresentam HBsAg positivo, HBeAg 
+positivo, HBV-DNA 1.500.000 UI/mL, TPG/ALT normal. 
+Sorologias 
+para 
+HIV, 
+HCV 
+e 
+HDV 
+são 
+negativas. 
+Ultrassonografia do fígado sem alterações. Neste momento, a 
+conduta mais adequada inclui: 
+ 
+(A) Prescrição de lamivudina. 
+(B) Indicação de biópsia hepática. 
+(C) Prescrição de tenofovir. 
+(D) Avaliação periódica de ALT. 
+##### 
+ 
+ 
+{77} 
+Mulher, 44 anos de idade, apresenta febre persistente, poliartrite 
+simétrica, dispneia, fenômeno de Raynaud, fraqueza muscular 
+progressiva dos 4 membros e dificuldade para deglutir há  
+3 semanas. Tem dislipidemia e faz uso de atorvastatina. 
+Laboratorialmente, apresenta creatinofosfoquinase sérica de 
+9.500 U/L e biópsia muscular com várias fibras musculares 
+necróticas, além de infiltração inflamatória linfomononuclear. O 
+exame físico das mãos da paciente é apresentado na imagem a 
+seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta o diagnóstico mais 
+provável. 
+ 
+(A) Artrite reumatoide com polimiosite. 
+(B) Síndrome antissintetase. 
+(C) Esclerose sistêmica com miosite. 
+(D) Miopatia necrosante imunomediada. 
+##### 
+ 
+{78} 
+Mulher, 60 anos de idade, queixa-se de dificuldade para 
+iniciar e manter o sono. Deita-se às 21h, adormece com a 
+televisão ligada por volta de 23h e acorda às 8h, com 
+sensação de sono não restaurador e refere sonolência diurna, 
+com escala de sonolência de Epworth de 13 pontos (ref.: até 
+10). Seu esposo comenta que ela tem roncado e que observou 
+pausas respiratórias. Ela ganhou cinco quilos nos últimos dois 
+anos. Peso atual de 80 kg, altura 1,55 m. Polissonografia: 
+índice de apneia e hipopneia de 45 eventos por hora, com 
+eficiência do sono de 85%. Além de perda de peso e atividade 
+física, o tratamento mais adequado deve incluir: 
+ 
+(A) CPAP associado a hipnótico não-benzodiazepínico. 
+(B) CPAP associado à terapia cognitivo-comportamental. 
+(C) Terapia cognitivo-comportamental. 
+(D) Terapia 
+cognitivo-comportamental e 
+hipnótico 
+não-
+benzodiazepínico. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 22 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Clínicas – PROVA ECM 
+Texto para as questões 79 e 80 
+ 
+Homem, 76 anos de idade, em avaliação pré-operatória de 
+ressecção transuretral de próstata por adenocarcinoma. 
+Possui antecedente de estenose aórtica, tendo sido 
+submetido à troca valvar com implante de valva metálica há  
+6 anos. Está em uso de enalapril e varfarina. Ao exame clínico, 
+apresenta estalido de abertura em foco aórtico. Exames 
+complementares e INR dentro da faixa terapêutica. 
+ 
+{79} 
+A conduta mais adequada no manejo da anticoagulação é: 
+ 
+(A) Suspender a varfarina 3 dias antes da cirurgia e iniciar 
+enoxaparina. 
+(B) Suspender a varfarina 5 dias antes da cirurgia e iniciar 
+enoxaparina quando INR < 2. 
+(C) Suspender a varfarina 7 dias antes da cirurgia e iniciar 
+enoxaparina quando INR < 1,5. 
+(D) Manter a varfarina e realizar a cirurgia com INR dentro da 
+faixa terapêutica. 
+##### 
+ 
+{80} 
+A profilaxia de endocardite infecciosa neste paciente deve ser 
+feita com 
+ 
+(A) ceftriaxona 1 g, por via endovenosa. 
+(B) cefazolina 1 g e clindamicina 600 mg, por via endovenosa. 
+(C) amoxicilina 2 g, por via oral. 
+(D) ampicilina 2 g e gentamicina 1,5 mg/kg, por via endovenosa. 
+##### 
+ 
+{81} 
+Mulher, 55 anos de idade, há 4 meses apresenta quadro de 
+poliartrite aditiva e assimétrica de mãos, punhos, pés e joelho 
+direito, com rigidez matinal de 30 minutos. Ao exame clínico, 
+além das artrites, observam-se os achados apresentados nas 
+imagens a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a principal hipótese 
+diagnóstica. 
+ 
+(A) Lúpus eritematoso sistêmico. 
+(B) Artrite reativa. 
+(C) Artrite reumatoide. 
+(D) Artrite psoriásica. ##### 
+{82} 
+Homem, 58 anos de idade, com cirrose alcoólica e 
+insuficiência cardíaca de fração de ej

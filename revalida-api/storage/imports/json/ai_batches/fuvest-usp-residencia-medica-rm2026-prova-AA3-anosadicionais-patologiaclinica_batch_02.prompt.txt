@@ -1,0 +1,437 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ pulmonar revela crepitações finas 
+difusas. Radiografía de tórax mostra infiltrado nodular bilateral. 
+Uma TC de tórax revela lesões em “halo” (área de vidro fosco 
+ao redor de nódulos pulmonares). O resultado de 
+galactomanana sérica é positivo. Com base no quadro clínico 
+e 
+laboratorial, 
+qual 
+dos 
+seguintes 
+fungos 
+é 
+mais 
+frequentemente associado a esse tipo de infecção pulmonar 
+em pacientes imunocomprometidos? 
+ 
+(A) Aspergillus fumigatus.  
+(B) Cryptococcus neoformans.  
+(C) Histoplasma capsulatum.  
+(D) Candida albicans. ##### 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Patologia Clínica/Medicina Laboratorial – PROVA AA3 
+{06} 
+A leucemia prolinfocítica T é uma neoplasia de células T 
+maduras tipicamente caracterizada por curso clínico 
+ 
+(A) indolente, perda frequente de antígenos pan-T e 
+expressão do antígeno TCL-1. 
+(B) indolente, perda frequente de antígenos pan-T e ausência 
+de expressão do antígeno TCL-1. 
+(C) agressivo, ausência de perda de expressão de antígenos 
+pan-T e expressão do antígeno TCL1. 
+(D) agressivo, perda frequente de expressão de antígenos 
+pan-T e ausência de expressão do antígeno TCL1. 
+##### 
+ 
+{07} 
+O linfoma de Burkitt é uma neoplasia de células B maduras 
+que 
+ 
+(A) apresenta a expressão dos antígenos CD10 e CD38, 
+também encontrados em alguns linfomas difusos de 
+grandes células B e em linfomas foliculares. 
+(B) está associado à infecção pelo vírus HTLV-1. 
+(C) apresenta a expressão de CD5, CD200 e de CD23, 
+também encontrados em células de leucemia linfocítica 
+crônica. 
+(D) apresenta a expressão de CD5 na ausência de CD200 e 
+CD23, perfil também observado em linfomas de células do 
+manto. 
+##### 
+ 
+{08} 
+Mulher, 28 anos de idade, com queixa de adinamia há  
+6 meses, acompanhada de ganho de peso, constipação 
+intestinal, 
+pele 
+e 
+cabelos 
+ressecados, 
+sonolência, 
+irregularidade menstrual nos últimos meses (ciclos a cada 40 
+dias). Nega uso de medicamentos. Na investigação 
+laboratorial, apresenta o seguinte perfil hormonal: 
+ 
+TSH: 32 mg/mL. (ref.: 0,45 a 4,5 mUI/L) 
+T4 livre: 0,4 ng/dL (ref.: 0,9 a 1,8 ng/dL) 
+Prolactina: 45 pg/mL (ref.: até 29 pg/mL) 
+Prolactina após precipitação com PEG (polietilenoglicol):  
+36 pg/mL 
+LH: 3,5 U/L (ref.: até 12 UI/L) 
+FSH: 12,5 UI/L (ref.: até 12 UI/L) 
+Estradiol: 4,3 ng/dL (ref.: 1,2 a 23,3 ng/dL) 
+ 
+Sobre o quadro clínico e laboratorial desta paciente, é correto 
+afirmar: 
+ 
+(A) A 
+hiperprolactinemia 
+deve-se 
+à 
+presença 
+de 
+macroprolactina. 
+(B) A hiperprolactinemia é a causa da alteração no TSH e T4 
+livre. 
+(C) A 
+hiperprolactinemia 
+deve-se 
+ao 
+quadro 
+de 
+hipotireoidismo primário. 
+(D) Os valores de FSH e estradiol sugerem que esta paciente 
+está em menopausa precoce. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{09} 
+Homem, 68 anos de idade, com história de DPOC e 
+insuficiência cardíaca, é admitido no pronto-socorro com 
+dispneia progressiva nas últimas 12 horas, sonolência e uso 
+de musculatura acessória. A oximetria mostra SpO₂ de 85% 
+em ar ambiente. Foi coletada gasometria arterial antes de 
+qualquer intervenção, com os seguintes resultados: 
+ 
+Parâmetro 
+Resultado 
+Valor de Referência 
+pH 
+7,26 
+7,35 – 7,45 
+pCO₂ 
+68 mmHg 
+35 – 45 mmHg 
+pO₂ 
+52 mmHg 
+80 – 100 mmHg 
+HCO₃⁻ 
+28 mEq/L 
+22 – 26 mEq/L 
+Excesso de base (BE) 
++2 
+-2 a +2 mEq/L 
+SpO₂ 
+84% 
+> 95% 
+ 
+Assinale a alternativa correta. 
+ 
+(A) Acidose 
+respiratória 
+aguda 
+com 
+hipoxemia; 
+descompensação de DPOC com retenção de CO₂. 
+(B) Alcalose respiratória aguda com hipoxemia; provável 
+hiperventilação compensatória. 
+(C) Acidose metabólica com compensação respiratória 
+incompleta; provável choque séptico. 
+(D) Alcalose metabólica crônica; provável perda de H⁺ por 
+vômitos e hipoxemia leve associada. 
+##### 
+ 
+{10} 
+Homem, 45 anos de idade, previamente saudável, procura 
+atendimento com queixa de fadiga, náuseas, leve icterícia e 
+colúria iniciadas há cerca de uma semana. Refere uso de 
+antibiótico (amoxicilina com clavulanato) prescrito para 
+sinusite 10 dias antes. Nega etilismo e hepatopatias 
+conhecidas. Ao exame físico, apresenta icterícia leve e fígado 
+palpável a 2cm do rebordo costal. 
+Os exames laboratoriais revelam: 
+ 
+Exame 
+Resultado 
+Valor de Referência 
+AST (TGO) 
+320 U/L 
+10 – 40 U/L 
+ALT (TGP) 
+410 U/L 
+7 – 56 U/L 
+Fosfatase alcalina 
+640 U/L 
+40 – 129 U/L 
+GGT 
+210 U/L 
+9 – 36 U/L 
+Bilirrubina total 
+5,6 mg/dL 
+0,2 – 1,2 mg/dL 
+Bilirrubina direta 
+3,8 mg/dL 
+0,0 – 0,3 mg/dL 
+ 
+Assinale a alternativa correta. 
+ 
+(A) Hepatite viral aguda, com padrão hepatocelular puro, 
+sendo a fosfatase alcalina elevada por outra causa. 
+(B) Cirrose 
+descompensada 
+com 
+padrão 
+colestático, 
+tipicamente associada à hiperbilirrubinemia conjugada. 
+(C) Lesão hepática alcoólica com elevação desproporcional 
+de GGT e discreta citólise. 
+(D) Padrão de lesão hepática mista (hepatocelular e 
+colestático), com provável hepatotoxicidade induzida por 
+fármaco. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Patologia Clínica/Medicina Laboratorial – PROVA AA3 
+{11} 
+ 
+Você está trabalhando no laboratório de microbiologia do Hospital e o médico ligou para discutir o antibiograma, apresentado a 
+seguir, de um caso em uma hemocultura.  
+ 
+ 
+ 
+Após checar a pureza do inóculo e controle de qualidade dos insumos utilizados, assinale a alternativa correta sobre como você 
+conduziria este caso citando os possíveis mecanismos de resistência e como você os investigaria. 
+ 
+(A) Pode-se afirmar que é uma Klebsiella pneumoniae multi-drogarresistente por associação de outros mecanismos que não 
+enzimáticos, pois ceftazidima-avibactam esta resistente. 
+(B) Trata-se de uma Klebsiella pneumoniae multi-drogarresistente. Investigar com testes fenotípicos o mecanismo de produção de 
+Beta-lactamase de espectro estendido (ESBL) com o teste de disco-aproximação, que associado a hiperexpressão de Amp C 
+justifica a cepa multi-drogarresistente. 
+(C) Este perfil de Klebsiella pneumoniae multi-drogarresistente não é condizente com a situação atual dos hospitais brasileiros na 
+Era pós-COVID, e trata-se de um erro do laboratório, sendo necessário encaminhar para um Laboratório de referência para 
+pesquisar mecanismos de resistência raros. O texto do enunciado deve ser inserido aqui. 
+(D) Trata-se de uma Klebsiella pneumoniae multi-drogarresistente por provável produção de carbapenemases, sendo necessário 
+um teste fenotípico para avaliar sua produção como o teste de inativação de carbapenêmico (ex: “sCIM”/ EDTA) ou ainda um 
+teste imunocromatográfico, que abrangeria a maioria das carbapenemases impactantes nesse gênero no Brasil. 
+#####
+ 
+{12} 
+A pesquisa de infecção por arbovírus (vírus transmitidos por 
+picadas de artrópodes: Dengue, Zika, Chikungunya, Febre 
+Amarela, Mayaro, Oropouche), tem se tornado cada vez mais 
+necessária no país.  Há vários testes diagnósticos para a 
+pesquisa destes agentes.  Em presença de suspeita de 
+infecção por estes agentes, a abordagem ideal é realizar  
+ 
+(A) pesquisa do ácido nucleico viral (DNA ou RNA) por PCR 
+ou a pesquisa de antígenos virais (ex.: NS1 da Dengue), 
+em amostra de sangue, colhida após o 5º dia do início dos 
+sintomas. 
+(B) pesquisa do ácido nucleico viral (DNA ou RNA) por PCR 
+ou a pesquisa de antígenos virais (ex.: NS1 Dengue) em 
+amostra de sangue colhida até o 5º dia do início dos 
+sintomas. 
+(C) pesquisa de anticorpos anti-virais (ex.: anticorpos anti-
+Dengue IgM e IgG) em amostra de sangue colhida até o 5º 
+dia após o início dos sintomas. 
+(D) pesquisa de anticorpos anti-virais (ex.: anticorpos anti-
+Dengue), em amostra de urina colhida até o 5º dia do início 
+dos sintomas. 
+##### 
+ 
+ 
+{13} 
+Homem, 64 anos de idade, estudo superior completo, 
+apresenta, desde há uns seis meses, dificuldade para se 
+concentrar nas atividades diárias e no raciocínio, insônia e, 
+mais recentemente, a acompanhante relata episódios de 
+confusão mental e irritabilidade. A avaliação laboratorial não 
+revelou alterações hematológicas e bioquímicas significativas, 
+porém os exames de VDRL e de hemaglutinação para sífilis no 
+soro mostraram títulos de 1/8 e 1/64, respectivamente. 
+Realizado exame de líquor, que evidenciou 45 células/mm³ 
+(ref.: até 4), perfil linfomonocitário, proteinorraquia 81 mg/dL 
+(ref.: até 40), glicorraquia 52 mg/dL (ref.: 2/3 glicemia), VDRL 
+não reagente, hemaglutinação para sífilis 1/8 (ref.: não 
+reagente). Diante do exposto, é correto afirmar: 
+ 
+(A) O paciente não tem neurossífilis 
+(B) A pleocitose liquórica afasta a possibilidade de ser 
+neurossífilis 
+(C) O paciente tem neurossífilis. 
+(D) A certeza diagnóstica de neurossífilis só pode ser 
+confirmada pela reatividade do teste não treponêmico no 
+líquor. 
+##### 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Patologia Clínica/Medicina Laboratorial – PROVA AA3 
+{14} 
+Homem, 58 anos de idade, com histórico de gastrectomia total 
+há 3 anos, procura atendimento com queixa de cansaço 
+progressivo e parestesias em membros inferiores. O 
+hemograma revela: 
+ 
+Exame 
+Resultado 
+Valor de Referência 
+Hemoglobina 
+8,9 g/dL 
+13,0 a 17,0 g/dL 
+VCM 
+116 fL 
+80 a 98 fL 
+HCM 
+36 pg 
+29 a 33 pg 
+Leucócitos 
+3.200/mm³ 
+4.000 a 11.000/mm³ 
+Plaquetas 
+90.000/mm³ 
+150.000 a 450.000/mm³ 
+ 
+Diante do quadro clínico-laboratorial, qual o diagnóstico mais 
+provável e o exame laboratorial inicial mais apropriado para 
+confirmá-lo? 
+ 
+(A) Anemia ferropriva; solicitar ferritina e ferro sérico. 
+(B) Anemia megaloblástica; solicitar dosagem de vitamina B12 
+e/ou ácido fólico. 
+(C) Anemia da doença crônica; solicitar PCR e eletroforese de 
+proteínas. 
+(D) Síndrome mielodisplásica; solicitar mielograma e cariótipo 
+medular. 
+##### 
+ 
+{15} 
+Homem, 48 anos de idade, comparece ao pronto-socorro com 
+queixa de cansaço, adinamia, tosse seca e dificuldade para 
+respirar há cerca de 15 dias. Refere episódios vespertinos de 
+febre e discreta perda de peso, não mensurados. Ao exame 
+físico, encontra-se discretamente descorado e afebril. À 
+percussão, nota-se macicez no hemitórax esquerdo, com 
+murmúrio vesicular diminuído no mesmo lado. Não há 
+visceromegalias nem outros achados relevantes. A radiografia 
+de tórax revela velamento de metade do hemitórax esquerdo. 
+Realiza-se toracocentese diagnóstica, com retirada de 800 mL 
+de líquido pleural amarelado e turvo, enviado ao laboratório de 
+análises clínicas para avaliação complementar. Considerando 
+a principal hipótese diagnóstica e a abordagem inicial 
+laboratorial mais adequada, assinale a alternativa correta. 
+(A) A hipótese mais provável é pneumonia bacteriana; no 
+líquido pleural, deve-se solicitar DHL, Interferon gama e 
+diferencial de células. 
+(B) A hipótese mais provável é tromboembolismo pulmonar; 
+no líquido pleural, deve-se solicitar DHL, ADA e proteína C 
+reativa. 
+(C) A hipótese mais provável é tuberculose pleural; no líquido 
+pleural, deve-se solicitar proteínas, diferencial de células e 
+Adenosina Deaminase (ADA). 
+(D) A hipótese mais provável é pneumotórax; no líquido 
+pleural, deve-se calcular o gradiente de proteínas, DHL e 
+PCR. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+{16} 
+Com relação ao padrão de anticorpos anticélulas HEp-2 
+(FAN), o padrão nuclear pontilhado fino é associado à 
+presença de qual anticorpo? 
+ 
+(A) Anti-Sm. 
+(B) Anti-Scl-70. 
+(C) Anti-Jo1. 
+(D) Anti-Ro/SS-A. 
+##### 
+ 
+{17} 
+Homem, 55 anos de idade, procura atendimento por fadiga 
+progressiva nas últimas semanas. Ao exame físico, apresenta 
+esplenomegalia palpável a 8 cm abaixo do rebordo costal 
+esquerdo. O hemograma revela: 
+ 
+Parâmetro 
+Resultado 
+Valor 
+de 
+Referência 
+Hemoglobina 
+11,5 g/dL 
+13,0 – 17,0 g/dL 
+Plaquetas 
+550.000/mm³ 
+150.000 a 
+450.000/mm³ 
+Leucócitos totais 
+110.000/mm³ 
+4.000 a 
+11.000/mm³ 
+Contagem diferencial: 
+Mieloblastos: 
+ 1% 
+Promielócitos 
+2% 
+Mielócitos:  
+10% 
+Metamielócitos: 
+7% 
+Bastonetes: 
+12% 
+Seg

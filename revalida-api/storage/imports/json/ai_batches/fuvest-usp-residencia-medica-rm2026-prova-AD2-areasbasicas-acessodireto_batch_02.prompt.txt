@@ -1,0 +1,380 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+s de 
+gestação, 
+procura 
+pronto 
+atendimento 
+por 
+vômitos 
+persistentes há 10 dias, com dificuldade para manter líquidos 
+e alimentos. Refere dor abdominal discreta e perda de 5 kg no 
+período. Nega febre e perdas vaginais. Traz cartão de pré-
+natal com rotina de exames sem alterações. Relata ter iniciado 
+dimenidrinato oral há cerca de 5 dias, prescrito em outro 
+serviço, mas sem melhora significativa dos sintomas. Ao 
+exame físico, apresenta-se em BEG, PA de 100×60 mmHg, FC  
+de 104 bpm, mucosa oral levemente seca. Abdome flácido, 
+levemente doloroso em epigástrio, sem visceromegalias.  
+ 
+• Exames laboratoriais:  
+TGO/AST: 58 U/L 
+TGP/ALT: 65 U/L 
+Bilirrubina total: 0,9 mg/dL 
+β-hCG: 215.000 mUI/mL 
+Urina tipo 1: cetonúria ++/4+ 
+TSH: 0,05 mUI/L 
+T4 livre: 1,1 ng/dL 
+ 
+Assinale a alternativa que apresenta a interpretação e conduta 
+mais adequadas para o caso descrito. 
+ 
+(A) Cetoacidose diabética; solicitar glicemia, gasometria e 
+eletrólitos e iniciar hidratação endovenosa. 
+(B) Hiperêmese gravídica com hipertiroidismo transitório; 
+hidratação venosa e otimização dos antieméticos. 
+(C) Hepatite medicamentosa por uso de dimenidrinato; 
+suspender a medicação e iniciar corticoide sistêmico. 
+(D) Hipertireoidismo autoimune associado à hepatopatia; 
+iniciar propiltiouracil e monitorar função hepática. 
+##### 
+ 
+{08} 
+Mulher, 25 anos de idade, busca atendimento por atraso 
+menstrual e teste de gravidez positivo. Sem doenças, refere 
+ciclos menstruais prévios regulares, com variação entre 27 e 
+31 dias de intervalo. A data da última menstruação foi  
+em 10/08/2025. Refere que foi vítima de violência sexual  
+em 23/08/2025, mas não verbalizou por receio de ser punida 
+pelo agressor conhecido. A relação não consensual ocorreu 
+com penetração vaginal, sem uso de preservativo. Após o 
+ocorrido, apresentou corrimento amarelado, que tratou por 
+conta própria com clotrimazol em dose única. Manifesta 
+desejo de interromper a gravidez. Assinale a alternativa 
+correta. 
+ 
+(A) Como a idade gestacional e o evento são compatíveis, a 
+interrupção de gravidez pode ser realizada diante de relato 
+circunstanciado. 
+(B) Diante da idade gestacional avançada, indicar suporte 
+multiprofissional integral e iniciar pré-natal de alto risco. 
+(C) Orientar para que realize boletim de ocorrência para 
+prosseguir com a interrupção de gravidez. 
+(D) Não há correlação direta entre a gravidez e o evento e, por 
+isso, deve-se garantir assistência pré-natal. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{09} 
+Mulher, 64 anos de idade, multípara, obesa, apresenta 
+sintomas de perda urinária imediata quando há vontade para 
+urinar e também ao elevar seu neto de dois anos de idade. O 
+estudo urodinâmico é compatível com as queixas. Assinale a 
+alternativa que apresenta a conduta imediata mais apropriada. 
+ 
+(A) Realizar uretrotomia interna. 
+(B) Realizar cirurgia de colpouretropexia. 
+(C) Prescrever estrogênio tópico. 
+(D) Prescrever anticolinérgicos. 
+##### 
+ 
+{10} 
+Mulher, 29 anos de idade, com cólica menstrual e 
+menstruação excessiva, apresenta diagnóstico confirmado de 
+endometriose peritoneal por laparoscopia, ocasião em que as 
+lesões peritoniais visíveis foram excisadas. Assinale a 
+alternativa que apresenta a melhor conduta terapêutica neste 
+momento. 
+ 
+(A) Anti-inflamatório não hormonal. 
+(B) Contraceptivo hormonal oral combinado. 
+(C) Dispositivo intrauterino de progestagênio. 
+(D) Análogo do GnRH. 
+##### 
+ 
+{11} 
+Mulher, 42 anos de idade, apresenta menstruações com fluxo 
+intenso e duração de 10 dias há mais de 6 meses. Ao exame 
+ginecológico, 
+apresenta 
+útero 
+aumentado, 
+móvel, 
+de 
+superfície regular. Ultrassonografia revela miomas subserosos 
+e intramurais, o maior com 5 cm. Foi indicada a inserção de 
+DIU de progesterona. Qual é o objetivo deste tratamento? 
+ 
+(A) Reduzir o fluxo sanguíneo ao útero. 
+(B) Bloquear o ciclo ovulatório. 
+(C) Promover a involução dos leiomiomas. 
+(D) Promover atrofia endometrial. 
+##### 
+ 
+{12} 
+Tercigesta secundípara, com estenose mitral reumática, 
+comparece na maternidade com gestação de 37 semanas e  
+6 dias em trabalho de parto espontâneo. Refere perda de 
+líquido amniótico típica há 8 horas. Pesquisa de Estreptococo 
+grupo B não realizada. Considerando parto vaginal não 
+complicado, qual é a profilaxia antibiótica indicada? 
+ 
+(A) Ampicilina. 
+(B) Cefazolina. 
+(C) Ampicilina e clindamicina. 
+(D) Não há indicação. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{13} 
+Secundigesta com uma cesárea prévia, sem doenças, comparece ao pré-natal com 34 semanas e 3 dias de gravidez, queixa-se 
+de edema importante na última semana. Boa movimentação, sem perdas vaginais. Ao exame físico, apresenta bom estado geral, 
+corada, PA de 148×90 mmHg, abdome gravídico, altura uterina de 29 cm, útero normotônico, BCF presente rítmico de 128 bpm. 
+Edema mãos e face 2+/4+, edema membros inferiores 3+/4+, simétrico e sem sinais de TVP. Avaliação fetal realizada com os 
+seguintes achados: 
+ 
+ 
+ 
+ 
+ 
+A conduta obstétrica é: 
+ 
+(A) Parto cesárea. 
+(B) Indução de parto. 
+(C) Iniciar metildopa e reavaliar. 
+(D) Sulfato de magnésio endovenoso. 
+#####
+ 
+{14} 
+Quintigesta com quatro partos vaginais anteriores, internada 
+com 38 semanas de gravidez e trabalho de parto espontâneo, 
+com recém-nascido nativivo, 4.020 g, Apgar 7-9-10 após  
+3 horas de trabalho de parto. Após a dequitação, apresenta 
+atonia uterina com sangramento vaginal e, em 4 minutos, o 
+monitor revela PA de 76×54 mmHg e FC de 120 bpm. São 
+tomadas medidas adequadas, como acesso venoso, 
+reposição de cristaloide, coleta de exames, aquecimento e 
+oxigenioterapia. Em paralelo, medidas para corrigir a atonia. 
+Do ponto de vista hemodinâmico, deve-se 
+ 
+(A) manter reanimação volêmica com Ringer lactato. 
+(B) avaliar necessidade de transfusão com Hb/Ht. 
+(C) iniciar protocolo de transfusão maciça. 
+(D) iniciar noradrenalina em bomba de infusão. 
+##### 
+ 
+ 
+{15} 
+Mulher, 26 anos de idade, procura atendimento na Unidade 
+Básica de Saúde (UBS) por disúria e urgência miccional há 3 
+dias. Nega febre, nega corrimento vaginal, usa DIU de cobre 
+há  
+2 anos. Não faz uso de medicação de uso contínuo e teve 
+sintomas semelhantes há cerca de 1 ano e meio. Exame físico 
+sem alterações. Assinale a alternativa que apresenta a 
+conduta recomendada para o caso. 
+ 
+(A) Ciprofloxacino, após coleta de urina 1 e urocultura. 
+(B) Ceftriaxona, sem necessidade de coleta de exame. 
+(C) Sulfametoxazol/trimetoprima, após coleta de urina 1 e 
+urocultura. 
+(D) Nitrofurantoína, sem necessidade de coleta de exame. 
+##### 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{16} 
+Adolescente, sexo feminino, 15 anos de idade, sem 
+desenvolvimento mamário ou menarca. Altura está no  
+z-score -2. Avaliação hormonal revela LH de 0,2 mUI/mL, FSH 
+de 1,1 mUI/mL e estradiol indetectável. Qual a hipótese mais 
+provável?  
+ 
+(A) Hiperprolactinemia. 
+(B) Disgenesia gonadal. 
+(C) Hiperplasia adrenal congênita. 
+(D) Síndrome de insensibilidade androgênica. 
+ 
+Note e adote: 
+ 
+Valor de referência para pré-puberes: 
+LH: < 0,3 mUI/mL 
+FSH: < 4,0 mUI/mL 
+##### 
+ 
+{17} 
+Menina, 6 anos de idade, apresenta telarca bilateral 
+progressiva e aceleração da velocidade de crescimento. O 
+exame físico mostra desenvolvimento mamário estágio M2 e a 
+estatura no z-score +3 para a idade. Exame neurológico é 
+normal. Assinale a alternativa que apresenta a conduta 
+adequada. 
+ 
+(A) Análise do cariótipo. 
+(B) Dosagem de hormônio do crescimento. 
+(C) Ressonância magnética de SNC. 
+(D) Ultrassom pélvico. 
+##### 
+ 
+{18} 
+Adolescente, 17 anos de idade, chega ao hospital 
+acompanhada da mãe, relatando violência sexual ocorrida há 
+aproximadamente 80 horas. O teste rápido para HIV foi 
+negativo. Qual das condutas é mais apropriada em relação à 
+Profilaxia Pós-exposição (PEP) ao HIV? 
+ 
+(A) Iniciar PEP com esquema de 28 dias. 
+(B) Não iniciar PEP, pois o prazo máximo é 72 horas. 
+(C) Não há indicação, pois o teste rápido para HIV é negativo. 
+(D) Aguardar a avaliação da soroconversão em sete dias. 
+##### 
+ 
+{19} 
+Mulher, 24 anos de idade, com queixa de corrimento vaginal 
+amarelado e aumento da secreção nas últimas 48 horas, sem 
+prurido vaginal. Refere dor leve no hipogástrio, sem febre. Ao 
+exame especular, observa-se conteúdo mucopurulento na 
+endocérvice e discreto sangramento. Ao toque, o colo é 
+friável. O teste rápido de Amplificação de Ácido Nucleico 
+(NAAT) é positivo para Neisseria gonorrhoeae e Chlamydia 
+trachomatis. Assinale a alternativa que apresenta o tratamento 
+mais adequado e eficaz atualmente. 
+ 
+(A) Doxiciclina 100 mg VO por 7 dias em monoterapia. 
+(B) Ceftriaxona 500 mg IM em dose única e doxiciclina 100 mg 
+VO por 7 dias. 
+(C) Ceftriaxona 500 mg IM em dose única e azitromicina 1 g 
+VO em dose única. 
+(D) Azitromicina 1 g VO em duas doses com 7 dias de 
+intervalo. ##### 
+{20} 
+Mulher, 26 anos de idade, secundigesta com um parto vaginal 
+anterior com recém-nascido de 1.800 g, retorna em consulta 
+pré-natal com 20 semanas de gravidez. Está bem, sem 
+queixas. Traz ultrassonografia morfológica realizada hoje, com 
+feto único, sem malformações diagnosticadas, placenta 
+fúndica. Avaliação do colo via transvaginal apresentada nas 
+imagens a seguir: 
+ 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a conduta a ser adotada. 
+ 
+(A) Medida do colo seriada. 
+(B) Repouso absoluto. 
+(C) Inserção de pessário. 
+(D) Cerclagem de emergência. 
+##### 
+ 
+{21} 
+Primigesta, 22 anos de idade, 34 semanas e 3 dias de 
+gravidez, comparece ao pronto atendimento com queixa de 
+dor em baixo ventre há 2 dias, que se intensificou na última 
+hora. Nega perdas vaginais. Nega sintomas urinários. Tem 
+registro em cartão de pré-natal de sorologias de 3º trimestre 
+negativas, não coletou pesquisa de Estreptococo B. Ao 
+exame, apresenta bom estado geral, corada, PA de  
+122×84 mmHg, FC de 92 bpm, abdome gravídico, altura 
+uterina de 28 cm, cefálico, dorso à esquerda, dinâmica uterina 
+2 contrações moderadas em 10 minutos, BCF presente de  
+156 bpm. Ao toque vaginal, colo médio, medianizado, 3 cm de 
+dilatação, bolsa íntegra. A conduta imediata recomendada no 
+pronto atendimento é: 
+ 
+(A) Escopolamina endovenosa e reavaliação em duas horas. 
+(B) Betametasona intramuscular e inibição do trabalho de 
+parto. 
+(C) Ampicilina endovenosa e condução do trabalho de parto. 
+(D) Sulfato de magnésio endovenoso e cesárea imediata. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{22} 
+Mulher, 52 anos de idade, em consulta de rotina refere ciclos 
+menstruais com intervalos de 45 dias há 5 meses. Também 
+notou perda progressiva de interesse sexual e prejuízo no 
+relacionamento conjugal. Nesses meses, relata dificuldade 
+com a memória. Tem estado cansada e já não está mais indo 
+aos almoços com as amigas. Está se alimentando bem, até 
+com mais apetite do que o costume e ganhou peso no último 
+mês. Nega antecedente de trombose venosa ou doença 
+cardiovascular. Exame pélvico mostra mucosa vaginal sem 
+atrofia significativa; restante do exame físico é normal. Ela se 
+considera uma mulher forte, nega tristeza e expressa vontade 
+de tomar um medicamento que pudesse melhorar o sono e 
+reduzir o apetite. Considerando o quadro descrito, assinale a 
+alternativa que apresenta o tratamento medicamentoso mais 
+indicado. 
+ 
+(A) Testosterona. 
+(B) Estrogênio + progesterona. 
+(C) Topiramato. 
+(D) Sertralina. 
+##### 
+ 
+{23} 
+Mulher, 36 anos de idade, HIV-positiva, com carga viral 
+indetectável e CD4 = 830 células/mm³. Não teve alterações 
+em duas citologias cervicovaginais oncológicas anteriores. 
+Assinale a alternativa que apresenta a melhor estratégia de 
+rastreio para câncer do colo do útero, para esta paciente. 
+ 
+(A) C

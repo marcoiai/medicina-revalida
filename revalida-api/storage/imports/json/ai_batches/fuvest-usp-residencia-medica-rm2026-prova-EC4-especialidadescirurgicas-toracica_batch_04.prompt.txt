@@ -1,0 +1,394 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+com história de regurgitação 
+noturna importante, acompanhada de leve queimação há 6 
+meses. Refere que pela regurgitação estava comendo menos 
+e perdeu 3 kg no período. Procurou atendimento médico, 
+sendo solicitada endoscopia digestiva alta, a qual apresentou 
+achado de esofagite erosiva grau A. Tentou tratamento com 
+inibidor de bomba de prótons por 3 meses sem resposta 
+clínica satisfatória. Foi indicado tratamento cirúrgico com 
+fundoplicatura total + hiatoplastia para tratamento de refluxo 
+refratário, o paciente evoluiu com disfagia importante no pós-
+operatório. Com base no caso apresentado, pode-se afirmar: 
+ 
+(A) O paciente evoluiu com quadro de pseudoacalasia 
+causada por possível hiato apertado. 
+(B) A indicação cirúrgica foi precipitada, pois não foram 
+afastados diagnósticos diferenciais para o quadro clínico. 
+(C) A indicação está correta, pois trata-se de doença do 
+refluxo refratária, sendo o tratamento cirúrgico a melhor 
+opção. 
+(D) A esofagite grau A afasta o diagnóstico de refluxo 
+gastroesofágico, segundo os critérios do consenso de 
+Lyon 2-0. 
+##### 
+ 
+{36} 
+Uma 
+das 
+complicações 
+da 
+Doença 
+do 
+Refluxo 
+Gastroesofágico (DRGE) é o esôfago de Barrett, quanto à essa 
+complicação, pode-se afirmar: 
+ 
+(A) A fundoplicatura ideal no esôfago de Barrett é a 
+fundoplicatura parcial, uma vez que estes pacientes 
+apresentam 
+grande 
+prevalência 
+de 
+dismotilidade 
+esofágica. 
+(B) O tratamento cirúrgico da doença do refluxo, em pacientes 
+com esôfago de Barrett, pode estabilizar o epitélio colunar 
+e reduzir o risco de desenvolvimento de adenocarcinoma, 
+porém, o seguimento endoscópico dos pacientes 
+operados 
+deve 
+ser 
+mantido 
+segundo 
+protocolos 
+específicos. 
+(C) O tratamento cirúrgico do refluxo gastroesofágico, nos 
+pacientes com esôfago de Barrett, libera esses pacientes 
+do seguimento endoscópico, uma vez que, diminui a 
+inflamação do epitélio e o risco de carcinogênese. 
+(D) A pH-metria de 24 horas deve ser realizada em todos os 
+pacientes com esôfago de Barrett para a programação do 
+tratamento adequado. 
+##### 
+ 
+{37} 
+Homem, 52 anos de idade, com história de etilismo crônico, 
+apresenta dor epigástrica recorrente há vários anos, com 
+episódios de piora pós-prandial e irradiação para o dorso. 
+Refere perda de peso de 7 kg nos últimos 6 meses, com 
+progressiva piora da dor, mesmo após suspender uso de 
+álcool. Tomografia de abdome revela pâncreas atrófico, ducto 
+pancreático principal dilatado (9 mm) e presença de 
+calcificações intraductais. Não há lesão focal ou sinais de 
+complicação aguda. Assinale a alternativa que apresenta a 
+melhor conduta para o paciente. 
+ 
+(A) Pancreatoscopia e litotripsia. 
+(B) Derivação pancreatojejunal. 
+(C) Alcoolização do plexo celíaco. 
+(D) Reposição de enzimas pancreáticas. ##### 
+{38} 
+Homem, 45 anos de idade, referindo disfagia progressiva para 
+sólidos há 2 anos e, recentemente, para alimentos pastosos, 
+com dificuldade de tomar água por vezes, realizou 
+endoscopia há 10 meses que veio normal. Nega ser de zona 
+endêmica para Doença de Chagas, refere ter perdido 5 kg no 
+último ano. Com relação ao caso descrito, assinale a 
+alternativa correta. 
+ 
+(A) Deve-se prosseguir a investigação diagnóstica com raio-X 
+contrastado do esôfago e manometria esofágica. 
+(B) Pela disfagia progressiva e perda de peso, deve tratar-se 
+de um câncer de esôfago, sendo necessário repetir a 
+endoscopia o mais rápido possível. 
+(C) Confirmando-se 
+o 
+diagnóstico 
+de 
+acalasia 
+pela 
+manometria esofágica, deve-se encaminhar o paciente 
+para uma cardiomiotomia endoscópica (POEM). 
+(D) Com a endoscopia normal e a epidemiologia negativa para 
+Chagas, fica afastada a hipótese de acalasia. 
+##### 
+ 
+{39} 
+Homem, 63 anos de idade, realizou endoscopia digestiva alta 
+devido a queixas dispépticas pós-prandiais. No exame, foi 
+notada gastrite leve em antro e abaulamento subepitelial em 
+pequena curvatura de corpo alto, medindo 1,7 cm. Na 
+investigação, realizou ecoendoscopia que mostrou que a 
+massa se originava na 4ª camada da parede gástrica e a 
+punção com agulha fina revelou neoplasia fusocelular, com < 
+5 mitoses por 50 campos de alta potência. A imuno-
+histoquímica mostrou os seguintes marcadores positivos: 
+actina de músculo liso, DOG-1, CD117. O diagnóstico e a 
+conduta são, respectivamente: 
+ 
+(A) Leiomioma gástrico, seguimento endoscópico. 
+(B) Leiomioma gástrico, ressecção cirúrgica. 
+(C) Tumor do Estroma Gastrointestinal (GIST), ressecção 
+cirúrgica. 
+(D) Tumor do Estroma Gastrointestinal (GIST), seguimento 
+endoscópico. 
+##### 
+ 
+{40} 
+Homem, 66 anos de idade, portador de diabetes melito tipo 2 
+controlado (em uso de apenas um medicamento diário), 
+dislipidêmico e sem hipertensão arterial. Ao exame físico, 
+apresentava-se em bom estado geral, com índice de massa 
+corpórea de 43 kg/m2, sendo a restrição de mobilidade 
+relacionada ao excesso de peso sua principal queixa, sem 
+evidência de sarcopenia. A endoscopia pré-operatória 
+mostrou esofagite grau C de Los Angeles. Assinale a 
+alternativa que apresenta a melhor conduta terapêutica para o 
+paciente. 
+ 
+(A) Gastrectomia vertical, por se tratar de um idoso. 
+(B) Balão intragástrico, pois o paciente não tem indicação 
+cirúrgica. 
+(C) Bypass gástrico, se o paciente for clinicamente apto, pois 
+irá se beneficiar com a cirurgia em vários aspectos. 
+(D) Encaminhar para o endocrinologista acompanhar e fazer 
+tratamento clínico, pois o paciente não preenche os 
+critérios de inclusão ao tratamento cirúrgico, segundo a 
+Agência Nacional de Saúde (ANS). 
+##### 
+ 
+ 
+
+
+--- PAGE 14 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Cirurgia Torácica – PROVA EC4 
+Texto para as questões 41 e 42 
+ 
+Homem, 61 anos de idade, com antecedente de hepatite C desde 2012, tratada com resposta virológica sustentada. Apresentou, 
+em seguimento ambulatorial, nódulo em lobo hepático direito à ultrassonografia, medindo 4,5 cm. Nega ascite, episódios de 
+confusão mental ou hemorragia digestiva. Child-Pugh A6, Model for End-Stage Liver Disease (MELD) = 7. Realizou ressonância 
+magnética de abdome com contraste, apresentada na imagem a seguir: 
+ 
+ 
+ 
+{41} 
+Baseado na imagem, qual o diagnóstico do paciente e em qual segmento hepático está localizada a lesão? 
+ 
+(A) Carcinoma hepatocelular, segmento 4a. 
+(B) Colangiocarcinoma intra-hepático, segmento 5. 
+(C) Carcinoma hepatocelular, segmento 7. 
+(D) Carcinoma hepatocelular, segmento 8. 
+##### 
+ 
+{42} 
+O caso foi discutido em reunião multidisciplinar e optado pela abordagem cirúrgica do paciente, as imagens a seguir mostram o 
+aspecto final da cirurgia. 
+ 
+ 
+ 
+Qual cirurgia foi realizada e quais estruturas são apontadas pelas setas 1 e 2, respectivamente? 
+ 
+(A) Ressecção regrada do segmento 4, veia hepática média, veia hepática esquerda. 
+(B) Mesohepatectomia não regrada, veia hepática média, veia hepática esquerda. 
+(C) Setorectomia anterior direita, veia hepática direita, veia hepática média.  
+(D) Setorectomia posterior direita, veia hepática média, veia hepática esquerda. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 15 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Cirúrgicas – Cirurgia Torácica – PROVA EC4 
+{43} 
+Homem, 67 anos de idade, com adenocarcinoma bem 
+diferenciado de antro gástrico, com boa funcionalidade, 
+estadiado clinicamente como cT2cN+ (lesão restrita à camada 
+muscular e com 1 linfonodo suspeito perilesional). Assinale a 
+alternativa que indica a melhor conduta para o paciente 
+apresentado. 
+ 
+(A) Quimioterapia perioperatória. 
+(B) Gastrectomia subtotal com linfadenectomia D1+. 
+(C) Gastrectomia subtotal com linfadenectomia D2. 
+(D) Gastrectomia total com linfadenectomia D2. 
+##### 
+ 
+{44} 
+Mulher, 45 anos de idade, com antecedente de retocolite 
+ulcerativa idiopática, apresenta episódios recorrentes de febre, 
+calafrios, icterícia e hipocolia fecal. Colangiorressonância 
+mostra estenoses multifocais e irregularidades, alternando com 
+dilatações das vias biliares intra e extra-hepáticas. Assinale a 
+alternativa que apresenta a principal hipótese diagnóstica. 
+ 
+(A) Coledocolitiase. 
+(B) Colangiocarcinoma. 
+(C) Cirrose biliar primária. 
+(D) Colangite esclerosante primária. 
+##### 
+ 
+{45} 
+Homem, 85 anos de idade, internado em UTI devido a infarto 
+agudo do miocárdio com supra de ST, submetido à 
+angioplastia com stent há 5 dias, evolui com dor em 
+hipocôndrio direito. Apresenta frequência cardíaca de 130 
+bpm, PAM de 58 mmHg, Exames laboratoriais mostram 
+alterações de transaminases, leucocitose lesão renal aguda e 
+plaquetopenia (45.000/mm3). A ultrassonografia de abdome 
+identificou espessamento da parede da vesícula biliar e 
+cálculo 
+biliar 
+impactado 
+em 
+infundíbulo. 
+Realizada 
+ressuscitação 
+volêmica, 
+iniciados 
+vasopressores 
+e 
+antibioticoterapia. Assinale a alternativa que indica a conduta 
+mais apropriada nesse momento. 
+ 
+(A) Colecistostomia percutânea. 
+(B) Colecistectomia laparoscópica. 
+(C) Suporte intensivo e observação clínica. 
+(D) Colangiopancreatografia retrógrada endoscópica. 
+##### 
+ 
+{46} 
+Com relação à classificação molecular do adenoma hepático, 
+é correto afirmar: 
+ 
+(A) É 
+baseada 
+em 
+achados 
+encontrados 
+em 
+cortes 
+histológicos corados com hematoxilina e eosina. 
+(B) O subtipo hepatocyte nuclear factor 1 alpha (HNF1 alfa) 
+inativado, 
+também 
+conhecido 
+como 
+“adenoma 
+esteatótico”, 
+tem 
+baixo 
+risco 
+de 
+desenvolver 
+complicações. 
+(C) O subtipo com presença de mutação da beta-catenina tem 
+maior risco de rotura e sangramento. 
+(D) O subtipo inflamatório não tem associação com o uso de 
+anticoncepcionais orais. 
+##### 
+ 
+{47} 
+Com relação ao tratamento cirúrgico da doença inflamatória 
+intestinal, pode-se afirmar: 
+ 
+(A) A otimização pré-operatória do paciente geralmente não 
+melhora as condições em que o paciente é operado. 
+(B) Diferentes 
+técnicas 
+de 
+anastomose 
+devem 
+ser 
+consideradas com base na gravidade e na localização da 
+Doença de Crohn. 
+(C) A radicalidade cirúrgica com ressecção de todas as áreas 
+acometidas é fundamental para diminuir a recidiva da 
+Doença de Crohn. 
+(D) Para obter-se os melhores resultados com menor taxa de 
+recidiva, o momento ideal da cirurgia da Doença de Crohn 
+do cólon é assim que o paciente começa a apresentar 
+aumento do número de evacuações. 
+##### 
+ 
+{48} 
+Assinale a alternativa correta quanto à neoplasia de cólon. 
+ 
+(A) Os 
+objetivos 
+da 
+ressecção 
+são 
+obter 
+margens 
+circunferenciais negativas e remover a região do 
+mesentério com maior risco de disseminação linfática. 
+(B) A quimiorradioterapia neoadjuvante total seguida de 
+ressecção cirúrgica do adenocarcinoma de cólon 
+esquerdo estágio III oferece a menor taxa de recidiva local 
+e maior sobrevida. 
+(C) A região do mesentério com maior risco de disseminação 
+linfática a ser removida é pouco relacionada à sua 
+embriologia, mas principalmente à fisiologia. 
+(D) A 
+extensão 
+da 
+colectomia 
+é 
+determinada 
+pela 
+profundidade, 
+extensão 
+e 
+tamanho 
+luminal 
+do 
+adenocarcinoma localmente avançado. 
+##### 
+ 
+{49} 
+Quanto aos abcessos e fístulas perianais, assinale a 
+alternativa correta. 
+ 
+(A) Raramente (menos de 1/10 dos casos) os abscessos 
+criptoglandulares evoluem para fístulas. 
+(B) Para o tratamento cirúrgico eficaz da fístula perianal 
+interesficteriana, o exame sob anestesia na sala cirúrgica 
+é de menor valia que a tomografia de pelve.  
+(C) O abscesso anorretal deve ser tratado prioritariamente 
+com drenagem cirúrgica, e não com antibioticoterapia. 
+(D) As prioridades no manejo, geralmente, seguem a esta 
+ordem de importância: cura sem recorrência, preservação 
+da continência e por fim, controle da sepse. 
+##### 
+ 
+{50} 
+Mulher, 27 anos de idade, submetida à derivação gástrica em 
+Y de Roux (bypass gástrico), apresenta, trinta dias após o 
+procedimento, quadro de vômitos frequentes, evoluindo 
+alguns dias depois com diplopia e confusão mental. Este 
+quadro clínico pode indicar 
+ 
+(A) fístula g

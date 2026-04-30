@@ -1,0 +1,440 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+da na imagem 
+a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que classifica, corretamente, a lesão 
+observada e o tratamento indicado. 
+ 
+(A) Forrest 1B – tratamento endoscópico com esclerose e 
+bloqueador H2 em dose plena + profilaxia de peritonite 
+bacteriana espontânea. 
+(B) Forrest 2B – remoção endoscópica do coágulo e esclerose 
+se necessário – bloqueador H2 em dose plena. 
+(C) Forrest 2A – tratamento endoscópico com duas técnicas e 
+bloqueador H2 em dose plena. 
+(D) Forrest 2A – tratamento endoscópico e endovascular para 
+embolização do vaso e bloqueador H2 em dose plena. 
+##### 
+ 
+{50} 
+O hemotórax tardio pode ocorrer em qualquer paciente vítima 
+de trauma, em geral, pode ser detectado entre 2 e 40 dias 
+após o trauma. Qual é origem mais provável relacionada a este 
+hemotórax? 
+ 
+(A) Fratura de costela. 
+(B) Fratura de externo. 
+(C) Lesão pulmonar. 
+(D) Lesão da artéria intercostal. 
+##### 
+Texto para as questões de 51 a 53 
+ 
+Homem, 45 anos de idade, hipertenso bem controlado, não 
+diabético, não tabagista, comparece ao pronto-socorro com 
+queixa de perda dos movimentos da face há 2 dias. Ao exame 
+físico, apresenta paralisia facial completa (House-Brackmann 
+VI) sem outras alterações, não há vertigem ou déficit auditivo. 
+ 
+{51} 
+Com base no caso apresentado, a principal suspeita 
+diagnóstica é: 
+ 
+(A) Paralisia de Bell. 
+(B) Síndrome de Ramsay Hunt 
+(C) Acidente vascular encefálico. 
+(D) Síndrome de Guillain-Barré. 
+##### 
+ 
+{52} 
+A conduta recomendada para este paciente, é: 
+ 
+(A) Aciclovir. 
+(B) Prednisona. 
+(C) Alteplase (rt-PA). 
+(D) Imunoglobulina intravenosa. 
+##### 
+ 
+{53} 
+Caso o paciente apresentasse paralisia incompleta, com 
+movimentação da região frontal preservada, deve-se suspeitar 
+de lesão 
+ 
+(A) no gânglio geniculado do VII nervo. 
+(B) segmento canalicular do VII nervo. 
+(C) segmento extra-temporal do VII nervo. 
+(D) supra nuclear do VII nervo. 
+##### 
+ 
+{54} 
+A disfagia é um sintoma comum na prática clínica, sendo a 
+causa mais comum 
+ 
+(A) a candidíase. 
+(B) a neoplásica. 
+(C) o refluxo gastresofágico. 
+(D) a esofagite eosinofílica. 
+##### 
+ 
+{55} 
+A perda auditiva é uma afecção com grande impacto na 
+qualidade de vida. Sobre a perda auditiva é correto afirmar: 
+ 
+(A) É um processo inevitável do envelhecimento e se associa 
+a processos vasculares. 
+(B) O Schwannoma vestibular é uma causa de surdez 
+neurossensorial. 
+(C) A doença de Alport em homens e mulheres é detectada na 
+fase adulta. 
+(D) A síndrome de Apert pode causar perda neurossensorial 
+no período perinatal. 
+##### 
+ 
+ 
+
+
+--- PAGE 15 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Cirurgia de Cabeça e Pescoço – PROVA E02 
+Texto para as questões 56 e 57 
+ 
+Mulher, 18 anos de idade, queixa-se de dor na face, dor na 
+fronte, tosse, congestão nasal e secreção nasal espessa, há  
+9 dias. Ela refere que o quadro parecia melhorar no 3º dia, mas 
+acha que está progressivamente pior nos últimos três dias e 
+um pouco mais intenso à esquerda. 
+ 
+{56} 
+Sobre o provável diagnóstico, pode-se afirmar: 
+ 
+(A) Trata-se de infecção viral, sem sinais de complicação, que 
+deve ser tratada com analgésicos e irrigação nasal. 
+(B) Uma complicação rara é o abscesso subperiosteal do 
+osso frontal (“tumor edematoso de Pott”). 
+(C) A piora mais recente sugere sinusite fúngica associada, e 
+o tratamento com fluconazol é o mais indicado. 
+(D) A piora recente sugere imunossupressão de base e 
+demanda investigação das possíveis causas, junto com 
+antibiótico parenteral. 
+##### 
+ 
+{57} 
+Considerando que a paciente desconhece alergias, assinale 
+a alternativa que apresenta a conduta recomendada. 
+ 
+(A) Itraconazol 100 mg duas vezes ao dia, por 30 dias. 
+(B) Dipirona 1 g cada 6 horas e irrigação nasal com solução 
+fisiológica quatro vezes ao dia. 
+(C) Meropenem 1 g intra-venoso, a cada 8 horas, por 14 dias. 
+(D) Amoxacilina-clavulanato 875/125 mg duas vezes ao dia, 
+por 7 dias. 
+##### 
+ 
+{58} 
+Observe a imagem a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que indica corretamente o diagnóstico 
+da lesão apresentada. 
+ 
+(A) Glossite rômbica. 
+(B) Tireoide lingual. 
+(C) Eritroplasia de língua. 
+(D) Deficiência de vitamina B12. 
+##### 
+ 
+Texto para as questões 59 e 60 
+ 
+Adolescente, 15 anos de idade, apresenta obstrução nasal 
+esquerda e episódios de epistaxe de grande volume. A mãe 
+refere que ele já chegou a ficar internado duas vezes por isso. 
+Ao exame físico, observa-se uma massa esbranquiçada na 
+cavidade nasal à esquerda. 
+ 
+{59} 
+Com base no caso apresentado, o provável diagnóstico é de 
+ 
+(A) fibrossarcoma. 
+(B) nasoangiofibroma juvenil. 
+(C) carcinoma mucoepidermoide. 
+(D) granulomatose de Wegener. 
+##### 
+ 
+{60} 
+Assinale a alternativa que indica a conduta recomendada de 
+investigação para esse caso. 
+ 
+(A) Biópsia ambulatorial. 
+(B) Biópsia em centro cirúrgico. 
+(C) Exame de imagem seccional. 
+(D) Tomografia por Emissão de Pósitrons (PET). 
+##### 
+ 
+ 
+Texto para as questões 61 e 62 
+ 
+Homem, 35 anos de idade, procedente do altiplano andino, 
+apresenta um nódulo na região cervical alta à direita. Esse 
+nódulo é fibroelástico e tem mobilidade anteroposterior, mas 
+não crânio caudal. 
+ 
+{61} 
+Entre as hipóteses diagnósticas, pode-se afirmar suspeita de 
+ 
+(A) doença de Kikuchi. 
+(B) cisto branquial. 
+(C) doença linfoproliferativa. 
+(D) paraganglioma de corpo carotídeo. 
+##### 
+ 
+{62} 
+Considerando a principal suspeita diagnóstica, o exame 
+recomendado para o diagnóstico e o achado esperado são, 
+respectivamente, 
+ 
+(A) biopsia incisional e necrose caseosa. 
+(B) angiotomografia computadorizada e afastamento das 
+artérias carótidas interna e externa. 
+(C) punção biópsia aspirativa por agulha fina (PAAF) e 
+população linfocitária monomórfica. 
+(D) punção biópsia aspirativa com agulha fina (PAAF) e 
+cristais de colesterol. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 16 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Cirurgia de Cabeça e Pescoço – PROVA E02 
+Texto para as questões 63 e 64 
+ 
+Adolescente, 17 anos de idade, procura o pronto-socorro com 
+a queixa de dor cervical progressiva e febre há três dias. A dor 
+ocorreu num “caroço” que já havia sido notado há 1 ano, mas 
+como era amolecido, ela não procurou atendimento médico. 
+Ao exame físico, observa-se um nódulo doloroso de 5 cm, 
+móvel, com hiperemia da pele e situado na projeção do terço 
+superior do músculo esternocleidomastoideo, demonstrado 
+na imagem a seguir: 
+ 
+ 
+ 
+{63} 
+Com base no caso apresentado, assinale o diagnóstico mais 
+provável. 
+ 
+(A) Cisto branquial infectado. 
+(B) Metástase cervical com necrose e infecção. 
+(C) Mastoidite e linfonodomegalia reacional. 
+(D) Tuberculose linfonodal com abscesso frio. 
+##### 
+ 
+{64} 
+Assinale a alternativa que mais se relaciona ao caso. 
+ 
+(A) Seio cervical. 
+(B) Complexo primário de Ghon. 
+(C) Otite média aguda. 
+(D) Metástase de carcinoma papilífero da tireoide com 
+degeneração cística. 
+##### 
+ 
+{65} 
+Em casos de câncer da rinofaringe, a presença de metástases 
+cervicais no diagnóstico é bastante frequente. Em relação a 
+essas metástases, pode-se dizer que são encontradas, 
+principalmente, nos níveis 
+ 
+(A) I e II. 
+(B) II e III. 
+(C) II e V. 
+(D) I, II, III e IV. ##### 
+Texto para as questões 66 e 67 
+ 
+Mulher, 47 anos de idade, apresenta nódulo pré-auricular há 
+3 anos. A paciente relata não ter notado crescimento e nunca 
+apresentou sinais flogísticos. Ao exame físico, identifica-se 
+nódulo de 1,5 cm na região pré-auricular esquerda, móvel, de 
+consistência um pouco mais firme, levemente irregular e 
+indolor. 
+O 
+exame 
+ultrassonográfico 
+descreveu 
+lesão 
+homogênea e hipoecoica. 
+ 
+{66} 
+Com base no caso descrito, assinale a alternativa que 
+apresenta o diagnóstico mais provável. 
+ 
+(A) Adenoma Pleomórfico. 
+(B) Cisto de Retenção Salivar. 
+(C) Carcinoma Mucoepidermoide. 
+(D) Cisto da Primeira Fenda Branquial. 
+##### 
+ 
+{67} 
+Assinale a alternativa que indica a conduta recomendada. 
+ 
+(A) Alcoolização guiada por ultrassonografia. 
+(B) Radioablação guiada por ultrassonografia. 
+(C) Ressecção cirúrgica com dissecção do nervo facial. 
+(D) Enucleação com monitorização do nervo facial. 
+##### 
+ 
+{68} 
+Em relação à perda auditiva, assinale a alternativa que associa 
+corretamente o tipo de mecanismo e a estrutura anatômica, 
+respectivamente. 
+ 
+(A) Trompa de eustáquio e perda neurossensorial. 
+(B) Canais semicirculares e perda condutiva. 
+(C) Ossículo martelo e perda condutiva. 
+(D) Ossículo estribo e perda neurossensorial. 
+##### 
+ 
+{69} 
+Homem, 55 anos de idade, foi submetido à terapia com  
+iodo-131 há 6 meses. Ele estava almoçando e teve dor forte 
+na face à esquerda e aumento de volume na região  
+pré-auricular ipsilateral. O diagnóstico mais provável é: 
+ 
+(A) Parotidite epidêmica. 
+(B) Mononucleose infecciosa. 
+(C) Aneurisma de artéria temporal. 
+(D) Sialoadenite de glândula parótida. 
+##### 
+ 
+{70} 
+Em uma família, cinco irmãos apresentam surdez desde a 
+infância e três deles eram portadores de bócio. A mãe tinha 
+hipotireoidismo. O diagnóstico mais provável é: 
+ 
+(A) Síndrome de Von Recklinghausen.  
+(B) Síndrome de Humbodlt. 
+(C) Síndrome de Pendred. 
+(D) Síndrome de MacCune-Albright. 
+##### 
+ 
+
+
+--- PAGE 17 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Cirurgia de Cabeça e Pescoço – PROVA E02 
+{71} 
+Mulher, 60 anos de idade, com diabetes melito controlada, 
+apresenta-se no pronto-socorro com queixa de zumbido no 
+ouvido esquerdo há dois dias. Ela refere ter ocorrido após 
+participar de uma festa de formatura da filha, onde o som 
+estava muito alto. Em relação ao caso apresentado, é correto 
+afirmar: 
+ 
+(A) Deve-se iniciar imipramina e fazer audiometria. 
+(B) A dissecção da artéria carótida pode ser uma causa do 
+zumbido. 
+(C) O trauma acústico agudo não se relaciona ao surgimento 
+do zumbido. 
+(D) O diabetes é a principal causa de zumbido nessa faixa 
+etária. 
+##### 
+ 
+{72} 
+Mulher, 45 anos de idade, apresenta queixa de dor na região 
+auricular direita há 3 meses. A dor é leve, mas há dias com 
+piora. Não teve febre. Com base no caso apresentado, 
+assinale a alternativa mais adequada. 
+ 
+(A) Deve-se 
+solicitar 
+tomografia 
+computadorizada, 
+por 
+provável causa neoplásica. 
+(B) A miosite crônica temporal é a causa mais provável e 
+responde bem a anti-inflamatório. 
+(C) A estenose da tuba auditiva é uma causa comum para a 
+faixa etária. 
+(D) A observação da abertura bucal é importante para o 
+diagnóstico. 
+##### 
+ 
+{73} 
+Assinale a alternativa que indica o exame importante na 
+avaliação pré-operatória, o tipo de paciente contraindicado 
+para o procedimento e o motivo da contraindicação, 
+respectivamente. 
+ 
+(A) Angiotomografia de coronárias; portador de doença 
+coronária; infarto agudo do miocárdio. 
+(B) Ressonância magnética de encéfalo; portador de doença 
+de Alzheimer; acidente vascular cerebral. 
+(C) Deglutograma; portador de acalasia; obstrução respiratória. 
+(D) Prova de função pulmonar; portador de doença pulmonar 
+crônica obstrutiva; pneumonia aspirativa. 
+##### 
+ 
+{74} 
+Na avaliação de um paciente com disfonia, é correto afirmar: 
+ 
+(A) A laringoscopia é realizada se houver persistência dos 
+sintomas após tratamento empírico com medicação 
+antirrefluxo, que é a primeira medida recomendada. 
+(B) A tomografia da laringe deve ser solicitada precocemente 
+para análise de estruturas não visíveis no exame 
+endoscópico. 
+(C) A percepção de uma voz tensa e fragmentada sugere 
+infecção viral e deve se resolver em 7 a 10 dias.  
+(D) Verificar se o paciente está em uso de alguns 
+medicamentos 
+como 
+anti-histamínicos 
+ou 
+descon-
+gestionantes nasais, por exemplo. 
+##### 
+ 
+Texto para as questões 75 e 76 
+ 
+Mulher, 55 anos de idade, busca o pronto atendimento por 
+queixa de vertigem há 3 dias. Tem duração rápida e ocorre 
+após se levantar da cama. A paciente relata náuseas e 
+vômitos, mas nega zumbido ou diminuição da acuidade 
+auditiva. 
+ 
+{75

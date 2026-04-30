@@ -1,0 +1,420 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+itologia oncótico anual. 
+(B) Citologia e teste de HPV a cada 3 anos. 
+(C) Colposcopia e citologia oncótica anual. 
+(D) Teste de HPV a cada 5 anos. 
+##### 
+ 
+{24} 
+Mulher, 25 anos de idade, nuligesta, procura aconselhamento 
+sobre métodos de planejamento familiar. Ela deseja evitar 
+métodos hormonais por motivos pessoais e busca uma opção 
+natural. Qual a orientação que deve ser fornecida sobre o 
+reconhecimento do período fértil segundo o método de 
+Billings? 
+ 
+(A) Muco transparente, viscoso e escorregadio. 
+(B) Muco espesso, opaco e não aderente ao dedo. 
+(C) Muco opaco com filância de até dois centímetros. 
+(D) Muco esbranquiçado, grumoso e aderente ao dedo. 
+##### 
+ 
+{25} 
+Mulher, 30 anos de idade, faz acompanhamento por lúpus 
+eritematoso sistêmico com síndrome do anticorpo anti-
+fosfolípide. Teve atividade articular, cutânea e renal, além de 
+duas tromboses venosas profundas. Faz uso atual de 
+varfarina, prednisona, hidroxicloroquina e azatioprina. Está em 
+remissão e deseja iniciar contracepção. Assinale a alternativa 
+que apresenta a opção mais segura. 
+ 
+(A) Dispositivo intrauterino de cobre. 
+(B) Dispositivo intrauterino com levonorgestrel. 
+(C) Pílula com etinilestradiol e levonorgestrel. 
+(D) Contraceptivo transdérmico combinado. 
+##### 
+{26} 
+Recém-nascido (RN) a termo, parto cesáreo eletivo, com  
+40 semanas de idade gestacional, com peso de 3.300 g, é 
+encaminhado ao alojamento conjunto. O pré-natal transcorreu 
+sem intercorrências. Com 48 horas de vida, recebe 
+aleitamento materno por livre demanda e apresenta icterícia e 
+evolução de peso, conforme demonstrado no gráfico a seguir: 
+ 
+ 
+ 
+Além de estimular, orientar e corrigir o aleitamento materno, 
+qual conduta deverá ser realizada após RN completar  
+48 horas de vida? 
+ 
+(A) Manter RN internado em alojamento conjunto, iniciar a 
+fototerapia e coletar bilirrubinas totais e frações. 
+(B) Manter RN internado em alojamento conjunto, reavaliar 
+icterícia, peso e diurese em 6 horas. 
+(C) Dar a alta hospitalar, uma vez que a icterícia é fisiológica 
+e a perda de peso está dentro do esperado, com 
+orientações sobre icterícia. 
+(D) Dar a alta hospitalar, uma vez que a icterícia é fisiológica, 
+orientar banho de sol, iniciar complemento após o seio e 
+agendar reavaliação em 48 horas. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+Texto para as questões de 27 a 29 
+ 
+Criança, sexo masculino, 1 mês de vida, previamente hígida, 
+é trazida à unidade de emergência após cair do trocador, há 
+cerca de 30 minutos. Segundo a mãe, ela havia tirado a mão 
+dele por alguns segundos para jogar a fralda no lixo e ele teria 
+rolado e caído do trocador. Na admissão, o paciente estava 
+inconsciente, sendo levado à sala de emergência. A seguir, os 
+dados da avaliação sistematizada:  
+ 
+A: pérvia 
+B: murmúrio vesicular e expansibilidade diminuídos, FR  
+de 8 irpm, SpO2 de 89% em ar ambiente; 
+C: tempo de enchimento capilar < 1 segundo, pulsos 
+presentes e simétricos, ausculta com 2BRNF sem sopros, 
+PA de 108×70 mmHg; 
+D: escala de coma de Glasgow 7, pupilas isofotorreagentes; 
+E: hematoma subgaleal em região temporal direita. 
+ 
+{27} 
+Assinale a alternativa que ilustra, corretamente, o suporte 
+respiratório que deve ser prontamente instituído. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+ 
+{28} 
+Foi realizada tomografia de crânio, conforme imagem 
+demonstrada a seguir: 
+ 
+ 
+ 
+Após medidas de estabilização, o caso foi notificado ao 
+serviço social. Com relação a essa decisão da equipe médica, 
+pode-se afirmar: 
+ 
+(A) Foi indicada porque a tomografia não é compatível com o 
+trauma reportado. 
+(B) Foi motivada pela presença de hematoma em localização 
+incomum nos traumas pediátricos. 
+(C) É justificada porque o mecanismo de trauma é 
+incompatível com a faixa etária. 
+(D) Não havia indicação, pois não há incongruências nas 
+circunstâncias do trauma. 
+##### 
+ 
+{29} 
+Com relação aos exames séricos coletados durante o 
+atendimento inicial do paciente, assinale a alternativa que 
+apresenta as alterações laboratoriais esperadas. 
+ 
+(A) 
+pH: 7.28 
+paO2: 58 mmHg 
+pCO2: 55 mmHg 
+HCO3-: 24 mmol/L 
+SpO2: 89% 
+(B) 
+Hb: 5.0 g/dL 
+Ht: 18% 
+Leucócitos: 12.000/mm3 
+Plaquetas: 310.000/µL 
+(C) 
+Relação TTPA: 2.5 RNI 
+Tempo de Protrombina (TP): 1.1 
+Atividade TP: 76% 
+(D) 
+Lactato arterial: 55 mg/dL 
+Ureia: 60 mg/dL 
+Creatinina: 0.7 mg/dL 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{30} 
+Prematura com idade gestacional ao nascer de 32 semanas, sexo feminino, peso ao nascer de 1.300 g, adequado para idade 
+gestacional, Z-score -1 (Intergrowth-21). Passou em consulta de retorno com a idade cronológica de 56 dias de vida, com peso de 
+2.800 g, em aleitamento materno exclusivo. Os gráficos a seguir são disponibilizados na caderneta da criança pelo Ministério da 
+Saúde.  
+ 
+ 
+ 
+Os pais estão curiosos em saber se o ganho de peso de sua filha está dentro do esperado. Com base nas informações 
+apresentadas, pode-se afirmar que o ganho de peso  
+ 
+(A) é insuficiente, devendo-se iniciar complemento com fórmula láctea e coletar perfil de ferro. 
+(B) é insuficiente, devendo-se iniciar complemento com fórmula láctea após o seio e reavaliar em 1 semana. 
+(C) está adequado, devendo-se manter o aleitamento exclusivo e realizar seguimento pediátrico mensal. 
+(D) está adequado, mas abaixo do esperado para idade, devendo-se complementar para acelerar a recuperação nutricional. 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{31} 
+Criança, sexo masculino, 7 anos de idade, portadora de 
+refluxo vesicoureteral bilateral, retornou hoje ao hospital por 
+febre de até 38,8 °C. No exame físico inicial, o paciente está 
+letárgico e sonolento, apresenta FC de 140 bpm, FR de  
+26 irpm, PA de 90×40 mmHg, SpO2 de 96% em ar ambiente, 
+ausculta pulmonar e cardíaca normais, fígado no rebordo 
+costal direito, perfusão com retorno rápido (< 1 segundo), 
+pulsos amplos, escore de coma de Glasgow 14, pupilas 
+isofotorreagentes. Temperatura atual de 37,2 °C, após uma 
+hora do antitérmico administrado em casa. O paciente 
+recebeu alta há dois dias do hospital, onde esteve internado 
+em leito de terapia intensiva pediátrico devido a quadro de 
+infecção do trato urinário grave por Escherichia coli sensível 
+aos antibióticos testados. Durante internação, ficou com sonda 
+vesical de demora e cateter venoso central, retirado no dia da 
+alta, sem sinais flogísticos no exame físico de hoje. 
+Considerando os dados apresentados, a conduta indicada 
+nesse momento é 
+ 
+(A) iniciar expansão volêmica com cristaloide e antibiótico de 
+espectro estendido para infecção nosocomial. 
+(B) iniciar fluidoterapia em velocidade de manutenção e 
+cefalosporina de terceira geração. 
+(C) aguardar lactato, coagulograma, D-dímero e fibrinogênio 
+para definir necessidade de antibiótico. 
+(D) aguardar coleta e resultados de sedimento urinário para 
+definir necessidade de antibiótico. 
+##### 
+ 
+{32} 
+Criança, sexo masculino, 4 anos de idade, foi admitido no 
+pronto-socorro devido a quadro de diarreia e vômitos há  
+3 dias, em grande quantidade. Na admissão, apresentava 
+sinais de instabilidade hemodinâmica, sendo iniciada 
+expansão volêmica. O resultado da gasometria venosa 
+coletada na admissão foi o seguinte: 
+ 
+pH: 7,29  
+HCO3-: 15 mmol/L 
+Na+: 128 mEq/L  
+K+: 3,9 mEq/L 
+Ca2+: 4,92 mg/dL 
+ 
+Frente aos dados clínicos e laboratoriais apresentados, qual é 
+o traçado eletrocardiográfico esperado? 
+ 
+(A) 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+{33} 
+Criança, sexo masculino, 4 anos de idade, com antecedente 
+de insuficiência renal crônica dialítica, portador de cateter de 
+longa permanência, apresentou quadro de febre e tremores 
+durante sessão de hemodiálise há 48 horas. Após 
+estabilização inicial, foi internado em enfermaria de pediatria 
+com prescrição de antibiótico parenteral. Ele está afebril há  
+24 horas, sem queixas, com sinais vitais dentro da 
+normalidade. Ao exame físico, encontra-se em bom estado 
+geral, descorado +/4+, hidratado, anictérico, afebril e 
+eupneico. Ausculta pulmonar e cardíaca sem alterações, 
+exame físico abdominal indolor, sem visceromegalias. A 
+hemocultura central resultou positiva para Staphylococcus 
+aureus, conforme tabela a seguir: 
+ 
+CULTURA AERÓBIA – SANGUE (CATETER) 
+Coletado em: 22/04/2025 às 10:47 
+ 
+T. Detecção: 00 Dias – 12 Horas 41 Minutos 19 Segundos 
+ 
+1 – Staphylococcus aureus 
+ANTIBIOGRAMA – 1 
+Clindamicina 
+0,25 S 
+Daptomicina 
+0,5 S 
+Eritromicina 
+> = 8 R 
+Gentamicina 
+< = 0,5S 
+Levofloxacina 
+4 R 
+Linezolida 
+2 S 
+Oxacilina 
+> = 4 R 
+Penicilina 
+> = 0,5 R 
+Rifampicina 
+< = 0,03 S 
+Sulfa + Trimethoprim 
+< = 10 S 
+Teicoplanina 
+< = 0,5 S 
+Tigeciclina 
+< = 0,12 S 
+Vancomicina 
+1 S 
+Legenda: 
+S – Sensível 
+I – Intermediário 
+R – Resistente 
+D – (SDD) Sínsivel Dose-Dependente 
+P – Positivo 
+N – Negativo 
+ 
+Não foi coletada hemocultura periférica na admissão por 
+dificuldade de acesso. Foi realizado ecocardiograma, sem 
+achados de vegetação, e retirado cateter de longa 
+permanência. Qual a melhor conduta para esse paciente? 
+ 
+(A) Manter vancomicina parenteral. 
+(B) Alta hospitalar com sulfametoxazol trimetropina. 
+(C) Suspender antibioticoterapia e considerar contaminação. 
+(D) Descalonar para clindamicina oral, mantendo internação. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{34} 
+Criança, sexo feminino, 5 meses e duas semanas de vida, compareceu no pronto-socorro, com relato de tosse há cerca de  
+1 semana. A mãe nega contactantes sintomáticos e não observou coriza ou obstrução nasal. Refere que a criança tem crises de 
+tosse e chegou a ficar com coloração arroxeada, cerca de duas vezes no dia, nos últimos quatro dias. Ao exame físico, está em 
+BEG, corada, hidratada, anictérica, acianótica. Ausculta cardíaca e pulmonar sem alterações. Apresenta FR de 36 irpm, FC de  
+120 bpm. Oroscopia com leve hiperemia de orofaringe. Restante do exame clínico sem alterações. Carteira de vacinação e de parto 
+conforme imagens a seguir: 
+ 
+ 
+ 
+ 
+Considerando o principal agente etiológico envolvido, o quadro atual poderia ter sido prevenido com a vacina 
+ 
+(A) DTPa para a mãe, às 20 semanas de gestação. 
+(B) VSR para a mãe, às 20 semanas de gestação. 
+(C) VPC10 aos 4 meses para a paciente (2ª dose). 
+(D) INF3 aos 5 meses para a paciente (1ª dose). 
+#####
+ 
+{35} 
+Criança, sexo masculino, 4 anos de idade, alérgica a 
+amendoim, comparece à unidade de emergência devido à 
+ingestão acidental de um doce contendo o alérgeno há cerca 
+de 40 minutos. Há 10 minutos, iniciou o surgimento de placas 
+urticariformes por todo o corpo, sem outras queixas. Na 
+avaliação inicial, paciente encontra-se em bom estado geral, 
+corado, hidratado, ausculta cardíaca com 2BRNF sem sopros, 
+FC de 102 bpm, PA de 88×54 mmHg, extremidades bem 
+perfundidas, ausculta pulmonar com múrmurio vesicular 
+presente, sem ruídos adventícios, FR de 24 irpm, SpO2 de 97% 
+em ar ambiente. Abdome flácido, normotenso, indolor. A 
+conduta indicada nesse momento é: 
+ 
+(A) Administrar adrenalina 1:1.000 por via intramuscular. 
+(B) Alta hospitalar, com anti-histamínico e corticosteroide. 
+(C) Monitorização hospitalar e administrar anti-histamínico. 
+(D) Realizar medidas de eliminação com lavagem gástrica. 
+##### 
+ 
+ 
+{36} 
+Criança, sexo feminino, branca, 1 ano e 2 meses de idade, 
+apresenta febre de até 39,5 °C há um dia, sem outros 
+sintomas. Há cerca de uma hora, apresentou crise convulsiva 
+tônico clônica generalizada com duração de 4 minutos na 
+vigência de febre, sendo levada ao hospital. Foi admitida já 
+fora da crise

@@ -1,0 +1,652 @@
+
+
+--- PAGE 1 ---
+
+ 
+A24 
+ 
+ 
+ÁREAS DE ATUAÇÕES 
+Transplante de Medula Óssea 
+Hematologia e Hemoterapia 
+ 
+ 
+ 
+ 
+ 
+      PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025     
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo A24. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 1 hora. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo fiscal. 
+O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14 h. Não haverá tempo adicional 
+para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 20 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Trans. de Medula Óssea – Hematologia e Hemoterapia – PROVA A24 
+Texto para as questões 01 e 02 
+ 
+Homem, 65 anos de idade, em seguimento por mielofibrose 
+primária há cinco anos. Queixa-se de astenia, empachamento 
+pós-prandial e dor abdominal. Ao exame clínico, apresentou 
+baço a 5 cm de BCE. Hemograma com Hb de 8 g/dL, 
+leucócitos de 12.000/mm3, com desvio a esquerda, sem 
+mieloblastos, plaquetas de 450 mil/mm3. Avaliação molecular 
+com mutação CALR tipo 1. Cariótipo normal. Avaliação 
+medular com atipia megacariocítica e MF2. O paciente fez uso 
+de eritropoetina por três meses, sem melhora. 
+ 
+{01} 
+Assinale a alternativa que apresenta o fator de bom 
+prognóstico mais relevante no caso. 
+ 
+(A) Idade. 
+(B) MF2. 
+(C) Nível plaquetário. 
+(D) CALR tipo 1. 
+##### 
+ 
+{02} 
+Assinale a alternativa que apresenta o tratamento mais 
+indicado. 
+ 
+(A) Ruxolitinibe. 
+(B) Fedratinibe.  
+(C) Momelotinibe. 
+(D) Hidroxiureia. 
+##### 
+ 
+{03} 
+Homem, 50 anos de idade, com diagnóstico de linfoma não-
+Hodgkin difuso de grandes células B Estádio Clínico IV, com 
+massa abdominal de 6 cm em retroperitônio. Foi realizado 
+tratamento com 6 ciclos de R-Pola-CHP. PET ao final do 
+tratamento com Deauville score 2. Após 10 meses do término 
+do tratamento, houve progressão da doença. Assinale a 
+alternativa que apresenta a melhor conduta. 
+ 
+(A) Axicabtagene citoleucel. 
+(B) R-ICE seguido por consolidação com TMO autólogo. 
+(C) R-ICE seguido por consolidação com TMO alogênico. 
+(D) R-DHAP seguido por consolidação com TMO autólogo. 
+##### 
+ 
+{04} 
+Mulher, 45 anos de idade, obesa, internada há oito dias por 
+fratura de tíbia esquerda, tratada com imobilização. Foi 
+iniciada tromboprofilaxia com heparina não fracionada, sem 
+outras medicações. Há um dia, apresenta queixa de dor e 
+edema em MID. US Doppler apresentou trombose da veia 
+poplítea. Exames laboratoriais normais à admissão, porém 
+evoluiu com plaquetopenia isolada há dois dias (inicial: 
+180.000/mm3 -> 60.000 mm3 -> 34.000 mm3). Assinale a 
+alternativa que apresenta a conduta mais adequada. 
+ 
+(A) Varfarina. 
+(B) Rivaroxabana. 
+(C) Enoxaparina. 
+(D) Filtro de veia cava inferior. 
+##### 
+ 
+Texto para as questões 05 e 06 
+ 
+Mulher, 34 anos de idade, diagnosticada com Leucemia 
+Mieloide Aguda (LMA). Mielograma com 60% de blastos com 
+morfologia monoblástica. Imunofenotipagem com expressão 
+de MPO+, CD33+, CD64+. CTG com t(9;11)(p22;q23). 
+ 
+{05} 
+Assinale a alternativa que apresenta a alteração genética 
+compatível. 
+ 
+(A) CBFB::MYH11. 
+(B) GATA2::MECOM. 
+(C) DEK::NUP214. 
+(D) KTM2A::MLLT3. 
+##### 
+ 
+{06} 
+Após o tratamento com quimioterapia intensiva (7+3) e 1 ciclo 
+de consolidação com citarabina em doses intermediárias, o 
+mielograma indicou remissão citomorfológica e imuno-
+fenotipagem: DRM positiva em 0.5%. Assinale a alternativa 
+que apresenta a melhor consolidação. 
+ 
+(A) TMO autólogo. 
+(B) TMO alogênico sem reindução. 
+(C) Citarabina em doses intermediárias por 2 ciclos. 
+(D) Reindução com Ida-FLAG-Ven e consolidação com TMO 
+alogênico. 
+##### 
+ 
+{07} 
+Homem, 75 anos de idade, com hematomas subcutâneos 
+extensos e sangramento espontâneo de mucosa oral. Em uso 
+de varfarina (35 mg/semana) por fibrilação atrial. História 
+pessoal e familiar negativas para doenças hemorrágicas.  
+ 
+• Exames laboratoriais:  
+TP: INR = 2,10 (ref.: <1,4) 
+TTPa: 72 segundos (ref.: < 35 segundos) 
+Plaquetas: normais 
+ 
+• Teste da mistura (1:1 com plasma normal):  
+TP: INR = 1,2 
+TTPa: imediatamente após a mistura = 34 segundos e após 
+incubação (2 horas a 37 °C) = 68 segundos 
+ 
+A interpretação correta e a hipótese diagnóstica mais 
+prováveis são: 
+ 
+(A) Interferência laboratorial da varfarina; efeito adverso da 
+anticoagulação. 
+(B) Presença de anticoagulante lúpico; síndrome do anticorpo 
+antifosfolípide. 
+(C) Presença de inibidor contra o fator VIII; hemofilia A 
+adquirida. 
+(D) Presença de inibidor contra o fator von Willebrand; DVW 
+adquirida. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Trans. de Medula Óssea – Hematologia e Hemoterapia – PROVA A24 
+{08} 
+Homem, 45 anos de idade, ECOG 0, sem comorbidades, com 
+linfoma de células do manto clássico, Estádio clínico IV com 
+massa retroperitoneal de 6 cm ao diagnóstico. Submetido à 
+quimioimunoterapia com R-DHAP, com resposta completa. 
+Assinale a alternativa que apresenta a próxima conduta. 
+ 
+(A) Observação. 
+(B) Radioterapia. 
+(C) Ibrutinibe de manutenção até progressão. 
+(D) Transplante autólogo de células-tronco hematopoiéticas. 
+##### 
+ 
+{09} 
+Homem, 70 anos de idade, em seguimento por Leucemia 
+Linfocítica Crônica (LLC) em uso de ibrutinibe há 2 anos, sem 
+complicações. Necessita hernioplastia umbilical. Assinale a 
+alternativa que indica, corretamente, o manejo perioperatório 
+do ibrutinibe. 
+ 
+(A) Suspensão 7 dias antes do procedimento. 
+(B) Suspensão 7 dias antes do procedimento e prednisona 
+profilática. 
+(C) Suspensão 30 dias antes do procedimento. 
+(D) Evitar suspensão da medicação pelo risco de progressão 
+de doença. 
+##### 
+ 
+{10} 
+Mulher, 50 anos de idade, com linfoma folicular tratado com 
+R-CHOP 6 ciclos. PET ao final do tratamento indicou remissão 
+completa. 
+A 
+conduta 
+e 
+o 
+efeito 
+esperado 
+são, 
+respectivamente, 
+ 
+(A) consolidação com transplante autólogo e ganho de 
+sobrevida global. 
+(B) expectante, sem benefício de outras terapias no momento. 
+(C) manutenção com rituximabe e ganho de sobrevida livre de 
+progressão. 
+(D) manutenção com rituximabe e ganho de sobrevida global. 
+##### 
+ 
+{11} 
+Analise os pacientes a seguir: 
+ 
+• Paciente 1 - Cariótipo com deleção 5q22q32 e mutação 
+SF3B1. 
+• Paciente 2 - Cariótipo normal e painel somático com 
+mutação SF3B1. 
+• Paciente 3 - Cariótipo normal e biópsia de medula óssea com 
+10% de celularidade e com raras células CD34+. 
+ 
+Considerando os pacientes 1, 2 e 3 com diagnóstico de SMD, 
+IPSS-R 2.5, dependentes de 1 unidade de concentrado de 
+hemácias por mês e dosagem de eritropoetina sérica 1.900/L 
+assinale a alternativa que indica os tratamentos adequados, 
+respectivamente. 
+ 
+(A) Lenalidomida, luspatercept e azacitidina. 
+(B) Luspatercept, luspatercept e azacitidina. 
+(C) Luspatercept, lenalidomida e imunossupressão. 
+(D) Lenalidomida, luspatercept e imunossupressão. 
+##### 
+ 
+{12} 
+Mulher, 30 anos de idade, com Leucemia Promielocítica 
+Aguda (LPA) de risco intermediário tratada com ATO + ATRA. 
+No D30 da indução, apresenta remissão citomorfológica, com 
+PCR para PML::RARA positivo. Assinale a alternativa que 
+apresenta a conduta mais apropriada. 
+ 
+(A) Prosseguir com consolidação. 
+(B) Prolongar indução até, no máximo, D60 com reavaliações 
+semanais. 
+(C) Iniciar nova indução com antracíclico e ATRA. 
+(D) Transplante autólogo de medula óssea. 
+##### 
+ 
+{13} 
+Mulher, 54 anos de idade, recém-diagnosticada com mieloma 
+múltiplo 
+IgG 
+lambda, 
+ECOG 
+0, 
+sem 
+comorbidades. 
+Citogenética com deleção do 17p. Apresenta anemia, 
+múltiplas lesões líticas, hipercalcemia e função renal normal. 
+Assinale a alternativa que apresenta o melhor esquema para 
+tratamento inicial. 
+ 
+(A) Bortezomibe + lenalidomida + dexametasona (VRD). 
+(B) Carfilzomib + dexametasona + lenalidomida (KRd). 
+(C) Teclistamabe ou talquetamabe. 
+(D) Daratumumab 
++ 
+bortezomibe 
++ 
+lenalidomida 
++ 
+dexametasona (D-VRd). 
+##### 
+ 
+{14} 
+Homem, 65 anos de idade, em primeira remissão após 
+transplante autólogo por mieloma, tendo sido exposto no 
+tratamento inicial a bortezomibe e lenalidomida. Risco 
+citogenético padrão. Assinale a alternativa que apresenta a 
+manutenção mais adequada. 
+ 
+(A) Lenalidomida + daratumumabe por 1 ano. 
+(B) Lenalidomida diária contínua até progressão. 
+(C) Daratumumabe até progressão. 
+(D) Nenhuma manutenção é necessária. 
+##### 
+ 
+{15} 
+Mulher, 49 anos de idade, submetida à cirurgia bariátrica por 
+método bypass gástrico há 12 anos. Evolui com anemia 
+macrocítica há três anos, a despeito de reposição de ferro e 
+vitamina 
+B12. 
+Há 
+dois 
+anos, 
+apresenta 
+parestesias 
+progressivas nos pés e mãos, com dificuldade de 
+deambulação. Assinale a alternativa que apresenta o aspecto 
+medular que sugere o diagnóstico mais provável. 
+ 
+(A) Plasmocitose com células de Mott. 
+(B) Hemofagocitose com necrose medular. 
+(C) Transformação gelatinosa da medula óssea. 
+(D) Sideroblastos em anel e corpúsculos ferrosos em 
+plasmócitos. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Trans. de Medula Óssea – Hematologia e Hemoterapia – PROVA A24 
+{16} 
+Mulher, 50 anos de idade, com diagnóstico de Leucemia 
+Mielóide Aguda (LMA) refratária ao esquema de indução, com 
+doença 
+residual 
+mínima 
+negativa 
+após 
+esquema 
+quimioterápico de resgate. Assinale a alternativa que 
+apresenta a melhor escolha quanto a fonte de células-tronco 
+hematopoiéticas e sua justificativa. 
+ 
+(A) Coleta 
+de 
+células-tronco 
+periféricas 
+pela 
+menor 
+quantidade de CD34 do enxerto, quando comparada com 
+a coleta obtida da medula óssea. 
+(B) Coleta de células-tronco periféricas pela maior quantidade 
+de células T do enxerto, quando comparada com a coleta 
+obtida da medula óssea. 
+(C) Coleta de células-tronco da medula óssea pela maior 
+quantidade de células T do enxerto, quando comparada 
+com as células obtidas do sangue periférico. 
+(D) Coleta de células-tronco da medula óssea pela maior 
+quantidade de CD34 do enxerto, quando comparada com 
+as células obtidas do sangue periférico. 
+##### 
+ 
+{17} 
+Homem, 32 anos de idade, com epistaxes recorrentes desde 
+a adolescência, episódios esporádicos de sangue nas fezes e 
+fadiga leve. Pai e tia paterna também apresentavam epistaxes 
+frequentes. Ao exame clínico, apresentou lesões puntiformes 
+em lábios, língua e dedos. Oximetria de pulso com saturação 
+de 93%. Hemoglobina de 11,2 g/dL. Ferritina de 10 ng/mL. 
+Sangue oculto nas fezes positivo. Ecocardiograma com 
+contraste apresentou shunt direita-esquerda. TC de tórax com 
+contraste demonstrou lesão sugestiva de Malformação 
+Arteriovenosa Pulmonar (MAVP). Assinale a alternativa correta 
+em relação ao provável diagnóstico. 
+ 
+(A) A principal complicação da MAVP é o sangramento 
+pulmonar. 
+(B) Ferropenia está associada à hemólise nas MAVs 
+pulmonares. 
+(C) Pacientes são de risco elevado para abscessos cerebrais. 
+(D) O diagnóstico é feito apenas com teste genético positivo. 
+##### 
+ 
+{18} 
+Mulher, 34 anos de idade, previamente hígida, com confusão 
+mental, fadiga e petéquias difusas há dois dias.  
+ 
+• Exames laboratoriais:  
+Hb: 7,9 g/dL 
+Reticulócitos: 150.000/mm³;  
+Esquizócitos: 5% 
+Leucócitos: normais 
+Plaquetas: 18.000/mm3 
+DHL: 1.000 U/L (ref.: < 220 U/L) 
+Creatinina: 1,1 mg/dL 
+Coombs direto: negativo 
+ 
+A opção mais adequada para confirmar o diagnóstico é: 
+ 
+(A) Dosagem do fibrinogênio e dímero-D. 
+(B) Pesquisa de anticorpos antifosfolípides. 
+(C) Dosagem sérica da ADAMTS13 e do inibidor anti-
+ADAMTS13). 
+(D) Dosagem de complemento e autoanticorpos do fator H. 
+##### 
+ 
+{19} 
+Homem, 36 anos de idade, com dor lombar progressiva, falta 
+de ar, sibilância e tosse com expectoração mucoide há três 
+dias. Possui diagnóstico de anemia leve desde a infância e 
+aos 23 anos teve um episódio de priapismo. Atualmente, 
+realiza acompanhamento com oftalmologista por doença na 
+retina. Ao exame clínico, apresentou mucosas descoradas 
+1+/4 e ictéricas 1+/4. FC de 124 bpm, PA de 110×80 mmHg, 
+FR de 28 irpm, SpO2 de 83% em ar ambiente. Abdome 
+doloroso, fígado a 2 cm do BCD e baço a 5 cm do BCE.  
+ 
+• Exames laboratoriais:  
+Hb: 10.1 g/dL 
+VCM: 84 fl 
+Eritroblastos: 36/100 leucócitos 
+Hemácias em alvo ++ 
+Leucocitose com desvio à esquerda 
+Plaquetas: 115.000/mm3 
+DHL: 870 UI/L 
+Bilirrubina total: 2.6 mg/dL 
+Bilirrubina indeira:1,8 mg/dL 
+ 
+A TC de tórax apresentou opacidades em vidro fosco peri-
+hilares bilaterais com pequenas consolidações. Foi tratado 
+com hidratação agressiva, antibioticoterapia e opioides para a 
+dor. Melhorou nas primeiras 12h e, nos dois dias seguintes, 
+evoluiu com dores generalizadas, vômitos, taquipneia (FR de 
+36 irpm), hipoxemia e confusão mental.  
+ 
+• Exames do 3º dia de internação:  
+Hb: 5,7 g/dL 
+Eritroblastos: 250/100 leucócitos 
+Plaquetas: 68.000/mm3 
+DHL 8500 UI/L,  
+Bilirrubina direta: 4 mg/dL 
+Bilirrubina indireta: 2,1 mg/dL 
+Cr: 3,1 mg/dL 
+ 
+O paciente veio a óbito no quarto dia de internação. Com base 
+no caso descrito, assinale a alternativa que apresenta a 
+principal hipótese diagóstica. 
+ 
+(A) Sequestro esplênico. 
+(B) Intoxicação por opioide. 
+(C) Cor pulmonale agudo. 
+(D) Embolia gordurosa sistêmica. 
+##### 
+ 
+{20} 
+Homem, 25 anos de idade, com anemia falciforme, em 
+programa transfusional crônico. A tipagem ABO/RhD é A+. A 
+pesquisa de anticorpos irregulares é positiva com anti-C e anti-
+Jkb identificados. O fenótipo do paciente é R0r (C-, c+, E-, e+), 
+Jk(a+b-), Fy(a+b+). Com base no histórico imunohematológico, 
+as unidades que devem ser selecionadas para transfusão são: 
+ 
+(A) C-, E-, Jkb-; filtradas. 
+(B) C-, Jkb-; filtradas . 
+(C) C-, Jkb-; filtradas e irradiadas. 
+(D) C-, E-, Jkb-; filtradas e irradiadas. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+

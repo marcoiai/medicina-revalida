@@ -1,0 +1,385 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ vezes ao 
+dia, sem produtos patológicos e náuseas, que melhoraram após 
+2 a 3 dias de sintomas, segundo a mãe. Evoluiu bem no período, 
+mas há 3 dias passou a apresentar icterícia em escleras, 
+evoluindo com acolia e colúria há 2 dias. Hoje, a mãe procurou 
+a UPA, pois além de piora da icterícia, de persistência da acolia 
+e da colúria, notou que a criança está alternando períodos de 
+sonolência diurna excessiva com irritabilidade e choro, fora do 
+seu comportamento habitual. Nega antecedentes patológicos 
+ou 
+atraso 
+do 
+neurodesenvolvimento, 
+nega 
+uso 
+de 
+medicamentos recentemente, nega história familiar de 
+comorbidades. A mãe diz que perdeu a caderneta de vacinas 
+da criança poucas semanas antes dela completar 1 ano de 
+idade, e que está desatualizada desde então. Ao exame físico, 
+o paciente apresenta-se em REG, pálido, hipocorado +2/4 
+icterícia em escleras e pele +3/4, sem lesões de pele, ECG 12 
+(3 abre os olhos ao comando verbal; 3 desorientado; 5 localiza 
+a dor), hepatomegalia com fígado palpável a 4 cm do RCD, 
+fibroelástico e superfície lisa, baço não palpável, sem outras 
+alterações ao exame físico. Você monitora o paciente, realiza os 
+primeiros os cuidados na sala de emergência, solicita a coleta 
+de exames laboratoriais, que retornam com os seguintes 
+resultados:  
+ 
+Bilirrubina total: 20 mg/L 
+Bilirrubina direta: 12 mg/dL 
+Bilirrubina indireta: 8 mg/dL 
+TGP/ALT: 2.420 U/L 
+TGO/AST: 1.980 U/L 
+GGT: 98 U/L 
+FA: 120 U/L 
+CPK: 350 U/L 
+Cr: 0,7 mg/dL 
+Ur: 38 mg/dL 
+TP: 40 seg 
+INR: 2,8 
+Hb: 8 g/dL 
+Glóbulos brancos: 18.000/mm3 (neutrófilos: 8% leucócitos: 
+75% monócitos: 12% eosinófilos: 3% basófilos: 2%) 
+Plaquetas: 90.000/mm3 
+Proteína C Reativa: 120 mg/dL 
+Urina tipo 1: sem alterações 
+ 
+{08} 
+Diante dos exames realizados, assinale a alternativa que 
+apresenta os únicos exames com resultados que sugerem 
+gravidade clínica neste momento, e também indicam uma 
+conduta clínica imediata. 
+ 
+(A) TP 40 seg e INR 2,8. 
+(B) Hb 8 g/dL e plaquetas 90.000/mm3. 
+(C) Glóbulos brancos 18.000/mm3 e PCR 120 mg/dL. 
+(D) TGP/ALT 2.420 U/L, TGO/AST 1.980 U/L, CPK 350 U/L,  
+Cr 0,7 mg/dL e Ur 38 mg/dL. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{09} 
+Diante do quadro e dos exames apresentados inicialmente, 
+você tomou a medida clínica mais importante a ser realizada 
+naquele momento, tendo repetido exames de controle após  
+12 horas e solicitado transferência a um hospital terciário, que 
+estava prevista para cerca de 12 a 24 horas dos exames de 
+controles coletados. Assinale a alternativa que indica 
+corretamente qual medida foi tomada, um possível resultado 
+para os exames de controle solicitados posteriormente e quais 
+eventuais modificações na conduta se fizeram necessárias 
+neste momento. 
+ 
+(A) Transfusão de concentrado de hemácias e plaquetas via 
+endovenosa; Hb 10 g/dL e plaquetas 110.000/mm3; 
+nenhuma medida a ser tomada no momento, além de 
+suporte clínico até a transferência. 
+(B) Administração de vitamina K parenteral; INR 3,2; modificar 
+a solicitação de transferência para um centro de 
+transplante hepático pediátrico e medidas de suporte 
+clínico. 
+(C) Hiperidratação; TGP/ALT de 2.580 U/L, TGO/AST de  
+2.105 U/L, CPK de 400 U/L, Cr de 0,6 mg/dL Ur de  
+37 mg/dL; modificar a solicitação de transferência para um 
+centro de referência com diálise e medidas de suporte 
+clínico. 
+(D) Iniciar ceftriaxona e metronidazol via endovenosa; 
+glóbulos brancos 24.500/mm3 e Proteína C reativa  
+115 
+mg/dL; 
+ampliar 
+o 
+esquema 
+de 
+tratamento 
+antimicrobiano com meropenem e vancomicina, mantendo 
+o metronidazol, além de suporte clínico até a transferência. 
+##### 
+ 
+{10} 
+Considerando o caso clínico, a faixa etária do paciente e a 
+epidemiologia da principal hipótese diagnóstica em questão, 
+assinale a alternativa que apresenta uma provável etiologia 
+para esta hipótese diagnóstica. 
+ 
+(A) Hepatite A. 
+(B) Herpes vírus. 
+(C) Febre amarela. 
+(D) Leptospirose. 
+##### 
+ 
+{11} 
+Com relação ao uso de opioides no manejo da dor em 
+pediatria, assinale a alternativa correta. 
+ 
+(A) O uso de tramadol em recém-nascidos é a primeira 
+escolha para o tratamento da dor em osteogênese 
+imperfecta. 
+(B) Codeína é amplamente recomendada para uso em 
+crianças devido à sua segurança em doses convencionais. 
+(C) Pequenas doses de opioides “fortes” podem ter a mesma 
+potência analgésica que grandes doses de opioides 
+“fracos”. 
+(D) Opioides não atuam no sistema nervoso central e não se 
+ligam a receptores específicos no corpo. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Pediátricas – PROVA EPD 
+{12} 
+Em relação à marcha atópica, assinale a alternativa correta. 
+ 
+(A) A ausência da dermatite atópica afasta a evolução para 
+alergia alimentar. 
+(B) A migração dos queratinócitos promove a evolução para 
+asma e rinite. 
+(C) A introdução precoce de leite e ovo previne a marcha 
+atópica. 
+(D) Fatores ambientais e da microbiota interferem nessa 
+evolução. 
+##### 
+ 
+{13} 
+Menina, 11 anos de idade, iniciou queixa de febre intermitente, 
+associado a indisposição e inapetência há 3 meses. Passou 
+em diversos serviços de saúde, sem definição diagnóstica. Há 
+cerca de um mês, começou com queixa progressiva de dor 
+em panturrilhas ao deambular maiores distâncias. Há 15 dias, 
+refere dor abdominal intensa pós-prandial. Há um dia, 
+compareceu no pronto-socorro com sintomas de hemiparesia 
+à direita e afasia. Ao exame físico, além dos sintomas 
+neurológicos, chamava atenção à hipertensão arterial (PA de 
+150×90 mmHg), abdome resistente à palpação e redução de 
+pulsos em membros inferiores.  
+ 
+• Exames laboratoriais: 
+Hb: 10,9 g/dL 
+Leucócitos: 16.900/mm3 com 68% neutrófilos 
+Plaquetas: 583.000/mm3 
+PCR: 79 mg/L 
+VHS: 87 mm/1ªh 
+Ur: 38 mg/dL 
+Cr: 0,73 mg/dL 
+ 
+Sedimento urinário com 28.000 hemácias/mL, sem proteinúria. 
+Frente aos dados apresentados, qual o diagnóstico mais 
+provável e o(s) exame(s) que comprovariam essa suspeita? 
+ 
+(A) Lúpus eritematoso sistêmico; FAN, anti-DNA e biópsia 
+renal. 
+(B) Poliarterite nodosa; angiorressonância de sistema nervoso 
+central. 
+(C) Arterite de Takayasu; angiotomografia de aorta total e seus 
+ramos. 
+(D) Doença 
+inflamatória 
+intestinal; 
+endoscopia 
+e 
+colonoscopia. 
+##### 
+ 
+{14} 
+Menino, 36 meses de vida, apresenta sibilância recorrente, 
+com mais de três episódios nos últimos seis meses. O pediatra 
+considera iniciar tratamento farmacológico para controle dos 
+sintomas. Qual é a recomendação terapêutica mais 
+apropriada? 
+ 
+(A) Prescrever b 2-agonista 
+de 
+longa 
+duração 
+como 
+monoterapia. 
+(B) Utilizar corticosteroide oral de forma contínua para 
+prevenção. 
+(C) Iniciar corticosteroide inalatório contínuo como primeira 
+escolha. 
+(D) Iniciar corticosteroide inalatório intermitente + b2-agonista 
+de longa duração como primeira escolha.  
+##### 
+{15} 
+Menina, 3 anos de idade, apresentou quadro de monoartrite 
+crônica em joelho direito. Após afastados os diagnósticos 
+diferenciais, a paciente foi diagnosticada com artrite idiopática 
+juvenil. Inicialmente optou-se por infiltração intra-articular com 
+triancinolona, porém a família recusou o procedimento, sendo 
+então, iniciado metotrexato 0,5 mg/kg/semana. A paciente 
+apresentou excelente resposta ao tratamento, entrando em 
+remissão da doença após 2 meses do início do medicamento. 
+Após 1 ano de seguimento, a paciente passou em avaliação 
+de rotina com o oftalmologista, que identificou a presença de 
+uveíte anterior no olho esquerdo. Com base no caso descrito, 
+assinale a alternativa correta. 
+ 
+(A) Deve-se iniciar o medicamento imunobiológico anti-IL6, 
+dada a falha do comprometimento ocular com o uso do 
+metotrexato. 
+(B) Deve-se trocar o metotrexato por ciclofosfamida pelo risco 
+de a paciente evoluir precocemente com perda da 
+acuidade visual. 
+(C) A causa da uveíte é possivelmente infecciosa, pois a 
+paciente está sem atividade articular e faz uso de 
+medicamento imunossupressor. 
+(D) Pode-se iniciar corticosteroide tópico, associado a colírio 
+midriático, como primeira linha de tratamento. 
+##### 
+ 
+{16} 
+Em relação à Osteomielite Não-bacteriana Crônica (CNO), 
+pode-se afirmar: 
+ 
+(A) Trata-se de uma síndrome autoinflamatória relacionada à 
+presença de mutação no gene NLRP3. 
+(B) A identificação de agentes como Cutibacteriun acnes e 
+Propionibacteriae na biópsia óssea exclui o diagnóstico de 
+CNO. 
+(C) Dada a natureza inflamatória da CNO, não se justifica o 
+uso de bifosfonatos em sua terapêutica. 
+(D) Causa lesões que afetam predominantemente a região 
+das metáfises de ossos longos, clavícula, mandíbula e 
+ossos da bacia. 
+##### 
+ 
+{17} 
+Em relação aos agonistas b2-adrenérgicos utilizados no 
+manejo da asma e outras doenças pulmonares, assinale a 
+alternativa correta. 
+ 
+(A) A terbutalina possui alta seletividade pelos receptores b2 
+sendo indicada em pacientes com risco cardiovascular 
+elevado. 
+(B) Os broncodilatadores b2 de curta duração reduzem o risco 
+de dessensibilização dos receptores, o que permite seu 
+uso contínuo e isolado. 
+(C) O salmeterol é um agonista b2 de longa duração com início 
+de ação comparável ao salbutamol, sendo indicado como 
+medicação de resgate nas exacerbações. 
+(D) O formoterol, por ter início de ação rápido e efeito 
+prolongado, pode ser utilizado na manutenção e no alívio, 
+associado a corticosteroide inalatório. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades Pediátricas – PROVA EPD 
+{18} 
+Lactente de sete meses apresentou urticária e vômitos 
+intensos minutos após a ingestão de fórmula contendo leite de 
+vaca. Foi levado ao pronto atendimento, onde recebeu 
+adrenalina, anti-histamínico e corticosteroide, com resolução 
+do quadro. A dosagem de IgE específica para caseína foi 
+positiva, e os pais estão preocupados com novas reações. 
+Considerando a forma de apresentação clínica e os exames, 
+assinale a alternativa que apresenta a conduta mais 
+adequada. 
+ 
+(A) Restrição do leite de vaca e prescrever adrenalina 
+autoinjetável para situações de risco. 
+(B) Introdução gradual de leite de vaca sob supervisão 
+domiciliar. 
+(C) Prescrição 
+de 
+fórmula 
+parcialmente 
+hidrolisada 
+e 
+acompanhamento ambulatorial. 
+(D) Realizar teste de provocação oral em ambiente hospitalar 
+para avaliar possível tolerância. 
+##### 
+ 
+{19} 
+Menina, 9 anos de idade, foi encaminhada para atendimento 
+devido a um histórico de fadiga crônica, baixa estatura, 
+distensão abdominal e fezes pastosas. Exames laboratoriais 
+revelaram anemia ferropriva resistente à suplementação, além 
+de uma leve elevação de transaminases. A sorologia revelou 
+anticorpos 
+anti-transglutaminase 
+tecidual 
+(anti-tTG) 
+fortemente positivos. Os anticorpos anti-endomísio (EMA) 
+também foram detectados. Foi realizada endoscopia digestiva 
+alta com biópsia de intestino delgado, que mostrou atrofia 
+vilositária moderada acentuada (classificação de Marsh 3b). 
+Após a introdução da dieta isenta de glúten, a paciente 
+apresentou melhora significativa nos sintomas e normalização 
+da sorologia e dos exames laboratoriais em 6 meses. Com 
+relação à abordagem e manejo do caso apresentado, assinale 
+a alternativa INCORRETA. 
+ 
+(A) Mesmo após a normalização clínica e sorológica, uma 
+biópsia de controle é indicada para confirmar a 
+recuperação histológica do intestino delgado. 
+(B) A confirmação diagnóstica da doença celíaca requer a 
+presença de anticorpos anti-tTG e EMA positivos e estudo 
+anátomo patológico com classificação March 2 ou 3. 
+(C) A elevação das transaminases pode estar associada à 
+doença celíaca, e tende a normalizar após a adoção de 
+uma dieta sem glúten. 
+(D) A adoção estrita de uma dieta sem glúten é essencial para 
+a prevenção de complicações como subnutrição, baixa 
+estatura osteoporose, infertilidade e linfoma. 
+##### 
+ 
+{20} 
+As alterações hematológicas da síndrome hemolítico-urêmica 
+secundária à gastroenterite por Escherichia coli, são: 
+ 
+(A) Anemi

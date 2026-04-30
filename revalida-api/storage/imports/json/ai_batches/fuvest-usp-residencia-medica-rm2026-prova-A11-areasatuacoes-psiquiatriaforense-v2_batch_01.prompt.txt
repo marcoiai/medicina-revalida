@@ -1,0 +1,320 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+
+
+--- PAGE 1 ---
+
+A11 
+ÁREAS DE ATUAÇÕES 
+Psiquiatria Forense 
+ PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar.
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo A11.
+Informe ao fiscal de sala eventuais divergências.
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e
+de aparelhos de telecomunicação.
+4. Duração da prova: 1 hora. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo fiscal.
+O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14 h. Não haverá tempo adicional
+para preenchimento da folha de respostas.
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos
+adotados para a aplicação deste processo seletivo.
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei.
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 20 questões objetivas,
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências.
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha
+não será substituída em caso de rasura.
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões.
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L 
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psiquiatria Forense – PROVA A11 
+Texto para as questões de 01 a 20 
+Quando era jovem, Carlos nunca tivera problemas para 
+dormir. Mas depois que os cabelos começaram a branquear, 
+por volta dos quarenta anos, tornou-se difícil desligar o 
+cérebro ao se deitar. Pensava na filha, Beatriz, que nos últimos 
+meses andava até alta madrugada no bar onde os traficantes 
+do bairro faziam festa toda noite. Como ela vai cuidar do meu 
+neto desse jeito? O Cauã precisa de um exemplo melhor, 
+pensava. Preocupava-se com a mãe, cada vez mais frágil. 
+Depois que quebrou a perna – o colo do fêmur, disse o 
+médico, nunca mais voltou a andar direito, hoje só com 
+bengala. Pelo menos agora ele estaciona na vaga especial 
+quando a leva no mercado para as compras da semana. 
+Notou que as sacolas estão ficando menores – o que estaria 
+diminuindo, o apetite ou o dinheiro? A cabeça da Dona Maria 
+ainda era boa, mas ela estava falando muito num tal 
+missionário que sempre precisava de doação para as obras. 
+Será que está gastando demais? Impossível dormir com tudo 
+isso na cabeça. Hoje em dia, só com o zolpidem que o médico 
+do posto indicou. No começo, um comprimido de 10 mg dava 
+conta. Mas, quando a filha passou a responder um processo 
+criminal por acompanhar o novo namorando num assalto, 
+havia noites que precisava de dois, até três para dormir. Ela 
+alegava que havia usado maconha, que não se lembrava, mas 
+isso não parecia que iria convencer o juiz. 
+Numa dessas noites de mais preocupação, Carlos perdeu 
+a conta de quantos comprimidos tomou. De manhã, encontrou 
+a esposa, Cláudia, discutindo com a empregada, Tânia, que 
+morava num quarto dos fundos com a filha pequena. Ainda 
+zonzo, demorou a entender que a mulher o estava acusando 
+de abusar da menina durante a noite. A menina, de quatro 
+anos, fizera xixi na cama e acordara chorando. Quando a mãe 
+acordou e foi atrás dela, encontrou-o no banheiro com a 
+garota, tocando suas partes íntimas. Tânia dizia que iria 
+chamar a polícia, mas a esposa afirmava que ele só deveria 
+estar a ajudando a se limpar. Carlos não se lembrava de nada. 
+De repente, se via na mesma situação da filha, alegando não 
+lembrar. Durante a discussão, as duas entraram numa breve 
+altercação física, quando Cláudia empurrou Tânia, que bateu 
+a cabeça sofrendo um corte.  
+Embora sua esposa o defendesse publicamente, o 
+relacionamento foi fortemente abalado. Cláudia se afastou e 
+se fechou, parecia murchar a cada dia. Carlos a flagrava 
+chorando. Ela não dormia, não conversava com mais 
+ninguém. Deixou de ir à igreja. Mal saía da cama. O médico 
+da família passou um antidepressivo para ela, fluoxetina 20 
+mg, dizendo que era depressão, e uma semana depois ela 
+tomou todas as cartelas de fluoxetina de uma vez, sendo 
+levada ao pronto-socorro, onde permaneceu internada por 
+dois dias. Tânia deixou o emprego e voltou para sua cidade 
+natal – além de processar os patrões – e Cláudia assumiu os 
+cuidados com a casa, mas não conseguia manter as coisas 
+em ordem, sequer preparava as refeições do neto. 
+Ao saber da situação toda, o pai de Cauã, neto de Carlos, 
+pediu a guarda do filho. Afirmava que a mãe era doente 
+mental, sem condições de cuidar do menino, e que a criança 
+estava sendo negligenciada. Ele já tinha seis anos, e a mãe 
+tentara algum tempo fazer a cabeça do menino contra o pai, 
+só parando depois que começou a namorar.  
+Diante do delegado, Carlos pensava em tudo isso. Sobre 
+a sua acusação? Queria lembrar, mas não conseguia. Todo o 
+resto queria esquecer. Mas não poderia. 
+{01} 
+Considerando que Carlos tenha tocado as partes íntimas da 
+menina durante a noite e realmente não tivesse consciência 
+em função da medicação, assinale a alternativa correta. 
+(A) A alegação de amnésia não pode ser diferenciada de
+simulação, por se difícil de comprovação.
+(B) Tendo sido voluntário, o uso de substância psicotrópica no
+caso não o isenta de responsabilidade penal.
+(C) Se fosse de fato um cuidado com a higiene de menor de
+idade sob sua responsabilidade no momento, não se
+poderia falar em abuso.
+(D) A parassonia induzida pelo zolpidem é caso fortuito,
+isentando de pena caso impedisse o entendimento ou
+autocontrole.
+##### 
+{02} 
+Com relação à simulação de amnésia, durante a perícia 
+psiquiátrica, assinale a alternativa correta. 
+(A) Seria necessário a aplicação de testes específicos de
+memória.
+(B) Não deve ser levada em conta já que é um sintoma comum
+no uso de zolpidem.
+(C) A coerência entre sintomas, histórico e plausibilidade
+reduz sua probabilidade.
+(D) Demanda 
+avaliação 
+neuropsicológica 
+para 
+melhor
+esclarecimento.
+##### 
+{03} 
+Considerando que Beatriz tenha participado de assalto sob 
+efeito de maconha, assinale a alternativa correta. 
+(A) Os efeitos do uso crônico de maconha sobre a memória
+podem dificultar que Beatriz se lembre do crime, tornando-
+se inimputável.
+(B) A pena pode ser reduzida de um a dois terços caso o uso
+recreativo da maconha tenha prejudicado o entendimento
+ou autocontrole.
+(C) Beatriz pode ser considerada imput

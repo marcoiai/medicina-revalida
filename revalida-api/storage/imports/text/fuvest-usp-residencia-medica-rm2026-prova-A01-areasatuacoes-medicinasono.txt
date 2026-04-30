@@ -1,0 +1,589 @@
+
+
+--- PAGE 1 ---
+
+ 
+A01 
+ 
+ 
+ÁREAS DE ATUAÇÕES 
+Medicina do Sono 
+ 
+ 
+ 
+ 
+ 
+ 
+      PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025     
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo A01. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 1 hora. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo fiscal. 
+O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14 h. Não haverá tempo adicional 
+para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 20 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Medicina do Sono – PROVA A01 
+Texto para as questões 01 e 02 
+ 
+Mãe de adolescente de 12 anos de idade relata que há 3 anos 
+o filho apresenta comportamento agitado, impulsivo e 
+episódios frequentes de irritabilidade durante o dia. Nega 
+sonolência diurna e informa que o filho não apresenta 
+dificuldade para iniciar o sono. Durante a noite, porém, 
+observa respiração oral e episódios de pausas respiratórias. 
+ 
+{01} 
+Com base no quadro clínico descrito, assinale a alternativa 
+que apresenta o diagnóstico mais provável. 
+ 
+(A) Narcolepsia. 
+(B) Transtorno do Déficit de Atenção e Hiperatividade (TDAH). 
+(C) Insônia. 
+(D) Síndrome da Apneia Obstrutiva do Sono (SAOS). 
+##### 
+ 
+{02} 
+Qual é a causa etiológica mais provável para esse distúrbio? 
+ 
+(A) Estado de hiperalerta. 
+(B) Hipertrofia de tecido linfoide. 
+(C) Disfunção dopaminérgica. 
+(D) Deficiência na produção de hipocretina. 
+##### 
+ 
+{03} 
+Assinale a alternativa que descreve, corretamente, os 
+principais fatores de risco para apneia obstrutiva do sono em 
+adultos. 
+ 
+(A) Hipertrofia de amígdalas palatinas e adenoides. 
+(B) Retrognatia e desvio de septo nasal. 
+(C) Obesidade e tabagismo. 
+(D) Idade e obesidade. 
+##### 
+ 
+{04} 
+Assinale a alternativa que apresenta um fator de risco 
+conhecido para a Síndrome da Morte Súbita do Lactente 
+(SMSL). 
+ 
+(A) Colocar o bebê para dormir em posição prona. 
+(B) Abstinência de álcool durante a gestação. 
+(C) Dormir em superfície firme e plana. 
+(D) Compartilhamento do quarto dos pais com o bebê, sem 
+compartilhamento da cama. 
+##### 
+ 
+{05} 
+Em relação ao acidente vascular cerebral isquêmico, assinale 
+a alternativa correta. 
+ 
+(A) A trombólise intravenosa está indicada até 12 horas do 
+início dos sintomas em todos os casos. 
+(B) A ausência de déficit motor exclui o diagnóstico de AVC 
+isquêmico. 
+(C) O AVC isquêmico, geralmente, apresenta-se com início 
+súbito de sintomas neurológicos focais. 
+(D) A tomografia de crânio sem contraste é pouco útil nas 
+primeiras horas de suspeita de AVC. ##### 
+{06} 
+Em relação ao diagnóstico laboratorial do diabetes melito  
+tipo 2, assinale a alternativa correta. 
+ 
+(A) O diagnóstico pode ser feito com hemoglobina glicada  
+≥ 6,5%, confirmado em uma segunda amostra. 
+(B) A glicemia de jejum isolada ≥ 100 mg/dL já é suficiente 
+para diagnóstico definitivo. 
+(C) A curva glicêmica oral com glicemia de 140 mg/dL em  
+2 horas confirma o diagnóstico. 
+(D) A hemoglobina glicada não é recomendada para 
+diagnóstico, apenas para controle glicêmico. 
+##### 
+ 
+{07} 
+Com relação à cefaleia do tipo tensional, assinale a alternativa 
+correta. 
+ 
+(A) É tipicamente unilateral e pulsátil, com piora à atividade 
+física. 
+(B) Está frequentemente associada a náuseas e vômitos. 
+(C) Caracteriza-se por dor em pressão ou aperto, geralmente 
+bilateral. 
+(D) Está sempre associada a fotofobia e fonofobia intensas. 
+##### 
+ 
+{08} 
+Em relação à anatomia da via aérea superior, assinale a 
+alternativa correta. 
+ 
+(A) A rinofaringe estende-se da base da língua até a epiglote. 
+(B) A orofaringe é delimitada superiormente pela abertura das 
+coanas. 
+(C) A laringe situa-se posterior ao esôfago e anterior à 
+traqueia. 
+(D) A epiglote atua como estrutura móvel que impede a 
+entrada de alimentos na laringe durante a deglutição. 
+##### 
+ 
+{09} 
+Durante consulta de puericultura, uma criança de 12 meses 
+de vida é avaliada. Ela engatinha, senta-se sem apoio, emite 
+sons variados (como “mamama” e “dadada”), mas ainda não 
+aponta para objetos, nem realiza gestos sociais, como acenar 
+“tchau”. Em relação ao desenvolvimento infantil, assinale a 
+alternativa correta. 
+ 
+(A) A ausência de marcha independente aos 12 meses indica 
+atraso motor importante. 
+(B) O padrão observado é compatível com o desenvolvimento 
+esperado para a idade. 
+(C) A ausência de gesto intencional como apontar ou acenar 
+pode ser sinal de alerta. 
+(D) O fato de emitir sons variados exclui qualquer risco para 
+transtornos do espectro autista. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Medicina do Sono – PROVA A01 
+{10} 
+Paciente de 28 anos de idade, apresenta quadro de euforia 
+persistente há 10 dias, com redução da necessidade de sono, 
+aumento da autoestima, comportamento sexual de risco, 
+gastos excessivos e fuga de ideias. Relata episódio prévio de 
+humor 
+deprimido 
+com 
+anedonia 
+e 
+hipersonia 
+por 
+aproximadamente 3 semanas, há 1 ano. Assinale a alternativa 
+que apresenta o diagnóstico mais provável. 
+ 
+(A) Transtorno bipolar tipo I. 
+(B) Transtorno bipolar tipo II. 
+(C) Transtorno ciclotímico. 
+(D) Transtorno de personalidade borderline. 
+##### 
+ 
+{11} 
+Mulher, 28 anos de idade, IMC de 30,5 kg/m², procura 
+atendimento por queixa de sonolência excessiva diurna. 
+Trabalha desde os 18 anos de idade e relata que gasta cerca 
+de 3 horas por dia no deslocamento até o trabalho. Há 3 anos, 
+frequenta faculdade noturna, mantendo jornada dupla. Refere 
+dormir cerca de 5 horas por noite e percebe piora progressiva 
+da sonolência, que tem comprometido seu desempenho 
+acadêmico e profissional. Nega roncos. Considerando o 
+quadro descrito, assinale a alternativa que apresenta as 
+hipóteses diagnósticas mais prováveis. 
+ 
+(A) Narcolepsia, insônia, apneia do sono. 
+(B) Depressão maior, restrição de sono, insônia. 
+(C) Apneia do sono, narcolepsia, hipotireoidismo. 
+(D) Restrição de sono, apneia do sono, hipotireoidismo. 
+##### 
+ 
+{12} 
+Com relação ao diagnóstico da Apneia Obstrutiva do Sono 
+(AOS), assinale a alternativa correta. 
+ 
+(A) A gasometria arterial é imprescindível para confirmar o 
+diagnóstico. 
+(B) O diagnóstico pode ser realizado com base apenas no 
+IMC > 30 kg/m². 
+(C) A polissonografia é o exame padrão-ouro para o 
+diagnóstico de AOS. 
+(D) A cefalometria é obrigatória para avaliação de todos os 
+casos suspeitos. 
+##### 
+ 
+{13} 
+Homem, 54 anos de idade, com hipertensão arterial sistêmica 
+não tratada previamente, foi internado recentemente por 
+emergência hipertensiva. Após alta hospitalar, iniciou 
+múltiplos anti-hipertensivos e passou a relatar pesadelos 
+frequentes. 
+Assinale 
+a 
+alternativa 
+que 
+apresenta 
+o 
+medicamento mais provavelmente associado a esse efeito 
+colateral. 
+ 
+(A) Amlodipina. 
+(B) Propranolol. 
+(C) Losartana. 
+(D) Hidroclortiazida 
+##### 
+ 
+ 
+ 
+ 
+{14} 
+Homem, 38 anos de idade, procura atendimento por 
+congestão nasal, dor facial e secreção nasal purulenta há  
+9 dias. Relata que os sintomas inicialmente melhoraram, mas 
+pioraram novamente nos últimos dois dias, com febre e 
+cefaleia frontal. Assinale a alternativa que indica o diagnóstico 
+mais provável. 
+ 
+(A) Rinoconjuntivite alérgica. 
+(B) Resfriado comum. 
+(C) Rinossinusite crônica. 
+(D) Rinossinusite bacteriana aguda. 
+##### 
+ 
+{15} 
+Homem, 64 anos de idade, hipertenso e tabagista, procura o 
+pronto-socorro com dor torácica em aperto, retroesternal, 
+irradiada para o braço esquerdo, com duração de 20 minutos, 
+iniciada em repouso. No momento da avaliação, está 
+assintomático. O ECG não mostra supradesnivelamento do 
+segmento ST, mas a troponina está discretamente elevada. 
+Assinale a alternativa que indica o diagnóstico mais provável. 
+ 
+(A) IAM sem supradesnivelamento do segmento ST. 
+(B) Angina estável. 
+(C) Pericardite aguda. 
+(D) Embolia pulmonar. 
+##### 
+ 
+{16} 
+Homem, 67 anos de idade, ex-tabagista com carga tabágica 
+de 40 anos-maço, relata dispneia aos esforços há 2 anos, 
+associada à tosse crônica produtiva. Espirometria demonstra 
+relação VEF1/CVF < 0,70 pós-broncodilatador e VEF1 de 55% 
+do previsto. Assinale a alternativa mais compatível com o 
+diagnóstico e sua classificação funcional, segundo o GOLD. 
+ 
+(A) Asma leve persistente. 
+(B) Bronquiectasia por infecção prévia. 
+(C) DPOC moderada (GOLD 2). 
+(D) DPOC grave (GOLD 3). 
+##### 
+ 
+{17} 
+Em relação ao sono na infância, assinale a alternativa correta. 
+ 
+(A) Aos 6 meses, os despertares noturnos são sempre 
+patológicos e indicam insônia comportamental. 
+(B) Recém-nascidos devem ser mantidos acordados durante 
+o dia para promover consolidação do sono noturno. 
+(C) Aos 12 meses, o padrão esperado é que a criança durma 
+apenas à noite, sem necessidade de sonecas. 
+(D) O ritmo circadiano consolida-se gradualmente, e a 
+maturação do ciclo sono-vigília ocorre nos primeiros 
+meses de vida. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Medicina do Sono – PROVA A01 
+{18} 
+Homem, 52 anos de idade, previamente hígido, apresenta dor 
+torácica súbita de padrão pleurítico e dispneia intensa após 
+uma viagem de 10 horas de avião. Está taquicárdico, com 
+saturação de O2 em 89% em ar ambiente. Não apresenta 
+alterações significativas ao exame pulmonar. Qual o exame 
+inicial mais indicado para investigação diagnóstica nesta 
+situação? 
+ 
+(A) Radiografia de tórax. 
+(B) Angiotomografia de tórax com contraste. 
+(C) Cintilografia pulmonar de ventilação/perfusão. 
+(D) Ecocardiograma transtorácico. 
+##### 
+ 
+{19} 
+Durante 
+a 
+adolescência, 
+são 
+observadas 
+mudanças 
+fisiológicas no padrão de sono. Em relação a essas 
+mudanças, assinale a alternativa correta. 
+ 
+(A) Ocorre atraso fisiológico da fase do sono, levando à 
+tendência de dormir e acordar mais tarde. 
+(B) A necessidade total de sono diminui drasticamente, sendo 
+suficiente dormir 5 a 6 horas por noite. 
+(C) A 
+melatonina 
+é 
+secretada 
+mais 
+precocemente, 
+favorecendo o sono vespertino. 
+(D) A 
+fragmentação 
+do 
+sono 
+aumenta 
+por 
+causas 
+exclusivamente 
+comportamentais, 
+sem 
+influência 
+neurobiológica. 
+##### 
+ 
+{20} 
+Um homem de 52 anos, com hipertensão arterial controlada e 
+diabetes melito tipo 2, refere sonolência diurna, roncos 
+intensos e pausas respiratórias observadas pela esposa 
+durante o sono. Qual é o diagnóstico mais provável. 
+ 
+(A) Insônia psicofisiológica. 
+(B) Síndrome da apneia obstrutiva do sono. 
+(C) Narcolepsia tipo 1. 
+(D) Hipersonia idiopática. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+

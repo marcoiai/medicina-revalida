@@ -1,0 +1,2151 @@
+
+
+--- PAGE 1 ---
+
+A10 
+ÁREAS DE ATUAÇÕES 
+Psiquiatria da Infância e Adolescência 
+ PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar.
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo A10.
+Informe ao fiscal de sala eventuais divergências.
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e
+de aparelhos de telecomunicação.
+4. Duração da prova: 2 horas. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo
+fiscal. O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14 h. Não haverá tempo
+adicional para preenchimento da folha de respostas.
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos
+adotados para a aplicação deste processo seletivo.
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei.
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 40 questões objetivas,
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências.
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha
+não será substituída em caso de rasura.
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões.
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L 
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psiquiatria da Infância e Adolescência – PROVA A10 
+{01} 
+Em relação à psicose na infância e adolescência, assinale a 
+alternativa correta. 
+(A) Na investigação clínica do primeiro episódio psicótico em
+crianças e adolescentes, o uso de exames de imagem e
+testes laboratoriais são desnecessários caso haja história
+familiar de psicose.
+(B) Do ponto de vista neurobiológico, a redução generalizada
+do 
+volume 
+cortical, 
+especialmente 
+em 
+áreas
+frontotemporais e hipertrofia do hipocampo e da amigdala
+são achados consistentes de neuroimagem associada a
+esquizofrenia de início precoce.
+(C) Déficits na teoria da mente e prejuízo da sociabilidade
+desde os primeiros anos de vida são os principais
+sintomas que diferenciam o transtorno do espectro do
+autismo da esquizofrenia de início precoce.
+(D) Ao contrário da esquizofrenia de início precoce, as
+experiências psicóticas na infância são comuns, mas
+podem não representar preocupação clínica, pois a
+maioria delas é transitória.
+##### 
+{02} 
+Juliana, 17 anos de idade, está em Terapia Comportamental 
+Dialética para Adolescentes (DBT-A), há 2 meses, para tratar 
+um quadro de Transtorno de Personalidade Borderline (TPB). 
+Apesar da boa adesão terapêutica, os sintomas permanecem 
+intensos. Ela relata flutuações de humor rápidas e intensas ao 
+longo do dia, descrevendo-se como “no fundo do poço” em 
+um momento e “paralisada” pela ansiedade horas depois. 
+Esses 
+estados 
+emocionais 
+são 
+frequentemente 
+acompanhados por episódios de raiva que ela sente como 
+incontroláveis, resultando em conflitos interpessoais graves 
+que prejudicam seu convívio social. Além disso, quando se 
+sente 
+mais 
+pressionada, 
+Juliana 
+desenvolve 
+uma 
+desconfiança 
+intensa, 
+chegando 
+a 
+ter 
+pensamentos 
+recorrentes de que está sendo secretamente observada e que 
+seus colegas de trabalho conspiram ativamente contra ela, 
+embora, com esforço, consiga manter um distanciamento 
+crítico dessas ideias. Diante da persistência e da gravidade 
+desses sintomas, seu psiquiatra avalia a introdução de um 
+tratamento farmacológico adjuvante. Considerando o cenário 
+clínico e as evidências atuais sobre a psicofarmacologia no 
+TPB, assinale a alternativa que apresenta a conduta mais 
+apropriada. 
+(A) Iniciar um inibidor seletivo da recaptação de serotonina
+(ISRS) em dose plena, para tratar a instabilidade do humor,
+e adicionar um benzodiazepínico para uso conforme
+necessário durante os picos de raiva e desconfiança.
+(B) Priorizar o uso de um estabilizador de humor, como o
+carbonato de lítio, uma vez que a desregulação afetiva é o
+sintoma-alvo principal, sendo a terapia farmacológica mais
+validada para a base do transtorno.
+(C) Introduzir um antipsicótico atípico em baixa dose, visando
+a redução dos sintomas cognitivo-perceptuais e da
+reatividade da raiva, domínios para os quais esta classe
+de medicação apresenta eficácia.
+(D) Iniciar um anticonvulsivante estabilizador de humor, como
+a lamotrigina, focando na melhora da instabilidade afetiva,
+por ser a classe de medicações com evidência mais
+robusta para o do TPB.
+##### 
+{03} 
+Em relação ao tratamento da esquizofrenia na infância e 
+adolescência, assinale a alternativa correta: 
+(A) Apesar de uma maior gravidade psicopatológica, crianças
+e adolescentes com esquizofrenia apresentam menor taxa
+de resistência ao tratamento quando comparadas com a
+esquizofrenia de início na vida adulta.
+(B) O aripiprazol, por ser um agonista parcial dopaminérgico,
+apresenta menor risco de hiperprolactinemia, podendo ser
+uma opção no tratamento da esquizofrenia de início
+precoce.
+(C) O manejo da neutropenia moderada secundária à
+clozapina é o mesmo estabelecido para os adultos:
+monitoramento diário dos neutrófilos sem necessidade de
+suspensão da clozapina.
+(D) Diante de poucos estudos, guidelines indicam a
+eletroconvulsoterapia como tratamento da esquizofrenia
+na infância e adolescência apenas nos casos com
+apresentação catatônica.
+##### 
+{04} 
+Desde junho de 2018, a Organização Mundial de Saúde 
+(OMS) deixou de classificar a transexualidade como uma 
+condição patológica, reconhecendo-a como uma expressão 
+legítima da diversidade sexual e de gênero. Ainda que a 
+identidade de gênero seja subjetiva e autoatribuída, a 
+formulação de um diagnóstico clínico permanece necessária 
+para, por exemplo, justificar possíveis intervenções médicas. 
+Com base neste cenário e considerando o DSM-5 (5ª edição 
+do Manual Diagnóstico e Estatístico de Transtornos Mentais) e 
+a CID-11 (11ª edição da Classificação Internacional de 
+Doenças), assinale a alternativa correta sobre critérios 
+diagnósticos relacionados à transexualidade. 
+(A) O DSM-5 traz o diagnóstico de disforia de gênero,
+ressaltando 
+o 
+sofrimento 
+subjetivo 
+causado 
+pela
+incongruência entre o gênero experimentado/expresso e o
+gênero designado de uma pessoa. O DSM-5, além de
+estabelecer critérios distintos de acordo com o estágio de
+desenvolvimento, também inclui o especificador “com um
+transtorno do desenvolvimento sexual”.
+(B) A nova edição da Classificação Internacional de Doenças,
+CID-11, apresenta a terminologia “incongruência de
+gênero”, com duas codificações: a incongruência de
+gênero na infância e adolescência (HA61) e incongruência
+de gênero em adultos (HA60).
+(C) Segundo o DSM-5, não há necessidade de um tempo
+mínimo 
+de 
+apresentação 
+de 
+comportamentos 
+de
+variabilidade de gênero para poder se definir que uma
+criança ou adolescente apresente disforia de gênero.
+(D) Na criança (pré-púbere), é possível estabelecer os
+diagnósticos de incongruência de gênero e/ou de disforia
+de gênero utilizando-se os manuais do CID-11 e DSM-5
+respectivamente. Entretanto nesta faixa etária, não é
+levada em consideração a aversão por características
+sexuais secundárias do sexo biológico já que essas ainda
+não se desenvolveram.
+##### 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psiquiatria da Infância e Adolescência – PROVA A10 
+{05} 
+Uma adolescente de 16 anos apresenta, ao longo do último 
+ano, 
+diversos 
+episódios 
+recorrentes 
+de 
+irritabilidade 
+acentuada, redução da necessidade de sono, aumento de 
+energia, distratibilidade, fuga de ideias e engajamento em 
+múltiplos projetos escolares com produtividade reduzida. Os 
+episódios duram cerca de 4 a 6 dias e se alternam com 
+períodos de apatia, isolamento social, ideação negativa e 
+hipersonia. Não há histórico familiar de transtorno bipolar, mas 
+há antecedente de TDAH na infância. Com base nos critérios 
+diagnósticos atuais, assinale a alternativa correta. 
+(A) No caso descrito, a ocorrência de diversos episódios de
+alternância entre sintomas de ativação e sintomas
+depressivos apresentados ao longo do último ano sugere
+o diagnóstico de transtorno bipolar na adolescência com
+ciclagem rápida.
+(B) De acordo com o critério A do DSM-5, em crianças e
+adolescentes, particularmente, a presença de humor
+irritável isoladamente não é suficiente para considerar um
+episódio de mania/hipomania, sendo necessário o relato
+de euforia/humor elevado persistente, o que afasta a
+hipótese de transtorno bipolar no caso descrito.
+(C) No caso descrito, a ausência de histórico familiar afasta a
+hipótese de transtorno bipolar, sendo a principal hipótese
+diagnóstica um quadro de depressão resistente com
+comorbidade de transtorno externalizante.
+(D) No caso descrito, a presença de sintomas de ativação
+comportamental por menos de uma semana exclui a
+hipótese transtorno afetivo bipolar e indica a ocorrência de
+transtornos 
+externalizantes 
+e 
+alterações 
+do
+desenvolvimento da personalidade.
+##### 
+{06} 
+Sobre os mecanismos psicopatológicos e neurobiológicos 
+que fundamentam a compreensão atual dos transtornos por 
+uso de substâncias (TUS) e dos comportamentos aditivos 
+digitais, como o transtorno de jogos eletrônicos, assinale a 
+alternativa correta. 
+(A) Diferentemente da CID-11, o DSM-5 não reconhece o
+transtorno de jogos eletrônicos como um diagnóstico
+formal, refletindo divergência na robustez da evidência e
+no consenso clínico internacional sobre o transtorno. No
+entanto, devido ao aumento do risco de problemas
+clinicamente 
+significativos 
+associados, 
+o 
+DSM-5
+recomendou a inclusão do transtorno de jogos eletrônicos,
+bem como de outros comportamentos aditivos não
+relacionados a substâncias, em sua Seção 3.
+(B) Dados provenientes de estudos transdiagnósticos indicam
+que o TUS e os comportamentos aditivos digitais
+apresentam sobreposição significativa nos domínios de
+controle cognitivo, particularmente nas funções mediadas
+pelo córtex pré-frontal dorsolateral.
+(C) Evidências provenientes de neuroimagem funcional,
+genética e psicopatologia apoiam a noção de que os
+comportamentos aditivos digitais diferem do TUS por não
+apresentarem engajamento consistente dos circuitos de
+habituação, o que explica sua menor propensão à
+transição para padrões compulsivos.
+(D) Por 
+ser 
+caracterizado 
+pelo 
+desequilíbrio 
+no
+desenvolvimento dos sistemas de recompensa e controle
+inibitório, o funcionamento neuropsicológico típico da
+adolescência favorece uma maior sensibilidade a
+estímulos reforçadores, como os oferecidos por jogos
+eletrônicos, mas não por substâncias psicoativas. #####
+{07} 
+Os pais levam Julia (ainda sem nome social), adolescente de 
+14 anos do sexo biológico feminino e que tem se identificado 
+com o gênero masculino, ao atendimento psiquiátrico no 
+CAPS 
+Infanto-Juvenil. 
+Desde 
+criança, 
+Julia 
+tem 
+um 
+comportamento socialmente tido como mais masculino: seu 
+esporte preferido é o futebol, sempre teve muito mais amigos 
+homens, evitava usar roupas rosas ou vestidos e saias, dentre 
+outros. Os pais permitiam que ela tivesse essas vivências, mas 
+aos 13 anos ela falou que se entendia como um garoto, o que 
+eles não aceitaram muito bem e consideraram apenas como 
+uma fase, não buscando nenhum suporte profissional. 
+Entretanto, com o decorrer do tempo, além de manter este 
+discurso, os pais notaram que a adolescente tem estado 
+cabisbaixa, vem faltando a escola, não frequenta mais os 
+treinos de futebol por se sentir cansada e se afastou de 
+amigos. Mais recentemente, ela vem apresentando crises 
+intensas de raiva e se cortando, o que despertou a urgência 
+dos pais em buscarem cuidado em saúde mental. Sobre o 
+acompanhamento em saúde mental de adolescentes trans, 
+assinale a alternativa correta. 
+(A) A impressão clínica que se tem a partir desta vinheta é de
+que parece se tratar de uma adolescente mulher-trans com
+um quadro depressivo. É necessário que seja estabelecido
+um projeto terapêutico singular (PTS) que envolva o
+tratamento do quadro de humor, bem como o cuidado
+psicossocial de sua questão de gênero.
+(B) O 
+encaminhamento 
+para 
+o 
+acompanhamento 
+endocrinológico em serviço especializado deve ser feito 
+imediatamente, tendo em vista que há evidências 
+científicas que comprovam que a transição médica de 
+gênero (isso é, uso bloqueio puberal e uso de hormônios 
+do gênero identificado) melhora a saúde mental de 
+adolescentes transgênero. 
+(C) Nesse caso, deve-se realizar uma ampla avaliação
+biopsicossocial, em que sintomas psiquiátricos, vivência e
+consolidação da identidade de gênero, incômodos com o
+próprio corpo, entendimento da dinâmica familiar,
+exposição a violências psicológicas, físicas e sexuais,
+avaliação do ambiente escolar, dentre outros aspectos,
+sejam investigados e aprofundados.
+(D) Considerando que a paciente citada apresenta uma
+questão de identidade, comportamento de autolesão,
+episódios de raiva e isolamento social, pode-se levantar a
+hipótese de transtorno de personalidade borderline. Caso
+esta hipótese se confirme, ficam contraindicadas as
+intervenções médicas (hormonais e cirúrgicas) para
+transição de gênero.
+##### 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psiquiatria da Infância e Adolescência – PROVA A10 
+{08} 
+Caio, 16 anos de idade, com diagnóstico de esquizofrenia, 
+mora com a mãe e um irmão de 5 anos de idade, e realiza 
+acompanhamento por equipe multiprofissional em um CAPS 
+infantojuvenil (CAPSij) há 5 meses. No entanto, nas últimas 
+duas semanas, apresentou piora importante do quadro clínico, 
+com 
+desorganização 
+do 
+comportamento, 
+agitação 
+psicomotora, agressividade verbal e episódios de agressão 
+física contra a mãe e o irmão. Durante visita domiciliar, a mãe 
+relata que Caio abandonou a medicação há mais de um mês. 
+Inicialmente, a mãe tentou convencê-lo a tomar a medicação, 
+mas devido piora da agressividade, desistiu. Equipe observa 
+que o paciente está com higiene precária, emagrecido, com 
+comportamento persecutório, dizendo que “precisa atacar 
+antes que o machuquem”. A equipe tentou aproximação, mas 
+Caio recusou qualquer contato com os profissionais. A mãe, 
+exausta e preocupada com a integridade do filho menor, 
+solicita ajuda da equipe. Com base na organização da RAPS 
+e nas diretrizes da Política Nacional de Saúde Mental para 
+adolescentes, nesse caso, a equipe deve 
+(A) encaminhar o paciente para internação psiquiátrica
+hospitalar devido a urgência clínica e da ameaça à
+integridade física do paciente e de terceiros.
+(B) acionar o Conselho Tutelar, por se tratar de uma situação
+de risco social e ausência de adesão familiar ao
+tratamento.
+(C) encaminhar o caso para uma Unidade de Acolhimento
+(UA), devido gravidade clínica e da ameaça à integridade
+física de terceiros.
+(D) acionar a Vara da Infância e Juventude para que autorize
+a internação compulsória do adolescente em um hospital
+psiquiátrico.
+##### 
+{09} 
+Paciente do sexo masculino, de 15 anos de idade, com 
+histórico de negligência parental, foi criado pela avó desde a 
+primeira infância devido ao uso abusivo de substâncias por 
+ambos os pais. Quando era criança, foi vítima de abuso sexual 
+intrafamiliar, perpetrado pelo avô paterno. No último ano, o 
+adolescente foi denunciado por furtos, envolveu-se em brigas 
+recorrentes com colegas, fugiu de casa em múltiplas ocasiões 
+para fazer uso de substâncias com amigos e, recentemente, 
+foi internado na Fundação Casa após cometer um assalto 
+contra um pedestre. Em relação ao transtorno de conduta, 
+assinale a alternativa correta. 
+(A) O transtorno de conduta na maior parte dos casos tem
+início no final da adolescência, com a possibilidade de
+comportamentos 
+criminosos 
+e 
+desenvolvimento 
+de
+transtornos de personalidade na vida adulta.
+(B) A força da associação entre maus-tratos e o transtorno de
+conduta é semelhante em meninos e meninas.
+(C) Os estudos indicam que apenas cerca de 10% dos
+indivíduos com transtorno de conduta apresentam
+remissão dos sintomas ao longo do tempo. A grande
+maioria evolui com sintomas crônicos.
+(D) O DSM-5-TR (Manual Diagnóstico e Estatístico de
+Transtornos Mentais) considera a idade de 12 anos como
+ponto de corte para definir o subtipo com início na infância,
+diferenciando-o do subtipo de início na adolescência.
+##### 
+{10} 
+Adolescente, 17 anos de idade, está concluindo um ano de 
+tratamento intensivo em Terapia Comportamental Dialética 
+para Adolescentes (DBT-A) para autolesão não suicida (ANS) 
+repetitiva, com melhora significativa na regulação emocional e 
+cessação da ANS nos últimos 4 meses. Ela não preenche 
+critérios para o diagnóstico de Transtorno de Personalidade 
+(geral ou específico), mas apresenta traços marcantes de 
+baixa autoestima, sensibilidade à rejeição e perfeccionismo. 
+Os pais, aliviados com a melhora, perguntam sobre o 
+prognóstico 
+a 
+longo 
+prazo 
+e 
+a 
+necessidade 
+de 
+acompanhamento futuro, expressando a esperança de que 
+“essa fase difícil tenha passado para sempre”. Com base nos 
+achados dos principais estudos longitudinais da área, qual 
+orientação em relação ao prognóstico e ao planejamento 
+terapêutico seria a mais precisa, ética e clinicamente 
+informada? 
+(A) A orientação deve ser primariamente otimista, informando
+que, como o ANS naturalmente diminui do final da
+adolescência para o início da idade adulta e a paciente
+respondeu bem a um tratamento baseado em evidências,
+a probabilidade de problemas futuros é agora equivalente
+à da população geral. O acompanhamento pode ser
+encerrado com segurança após a alta.
+(B) A orientação deve enfatizar e validar o progresso
+significativo da paciente, mas explicar que o histórico de
+ANS é um marcador importante de vulnerabilidade que
+justifica 
+um 
+acompanhamento 
+ambulatorial 
+com
+espaçamento progressivo das consultas. O planejamento
+terapêutico neste momento, portanto, deve focar na
+prevenção de recaídas, psicoeducação e na manutenção
+de um suporte terapêutico, mesmo que de menor
+intensidade, para apoiar a transição para a vida adulta e
+sedimentar os ganhos obtidos.
+(C) O prognóstico deve focar no risco de suicídio. Deve-se
+informar aos pais que, embora a ANS tenha parado, a
+“capacidade adquirida para o suicídio” (Teoria de Joiner)
+é um traço permanente. Portanto, o principal risco a longo
+prazo é a reemergência de ideação suicida em momentos
+de estresse, sendo os riscos para outras psicopatologias
+menores em comparação.
+(D) A orientação deve ser que, como a paciente não preenche
+critérios completos para transtorno de personalidade
+borderline (TPB), os riscos a longo prazo associados ao
+ANS são muito baixos. Os estudos que mostram resultados
+negativos na vida adulta (ex. desemprego, depressão)
+aplicam-se, primariamente, a indivíduos que desenvolvem
+TPB, o que não é o caso. O foco deve ser na consolidação
+dos ganhos terapêuticos atuais sem a necessidade de
+planejar um acompanhamento futuro.
+##### 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psiquiatria da Infância e Adolescência – PROVA A10 
+{11} 
+Sobre o Transtorno de Estresse Pós-Traumático (TEPT) na 
+infância e adolescência, assinale a alternativa correta. 
+(A) A CID-11 (Classificação Internacional de Doenças) incluiu
+a categoria de TEPT complexo. Embora este diagnóstico
+possa ser feito em crianças e adolescentes, ainda não há
+evidências sobre a eficácia das intervenções para este
+grupo de pacientes.
+(B) O TEPT em crianças de 6 anos ou menos não considera o
+domínio de alterações negativas em cognições, devido à
+limitação de acesso a esse sintoma nessa fase do
+desenvolvimento.
+(C) O TEPT em crianças e adolescentes pela CID-11
+(Classificação Internacional de Doenças) omite sintomas
+de TEPT como alteração de sono e dificuldade de
+concentração.
+(D) A idade de início do trauma é um dos fatores de risco mais
+importantes de TEPT, sendo mais determinante para o
+risco de TEPT do que a presença de transtornos
+psiquiátricos comórbidos.
+##### 
+{12} 
+O Transtorno do Espectro Autista (TEA) afeta cerca de 2% das 
+crianças, com uma proporção de 4:1 entre meninos e meninas 
+com uma estimativa de herdabilidade entre 70 e 90%. A 
+etiologia do TEA envolve uma interação complexa entre 
+herança genética e fatores ambientais influenciados pela 
+epigenética. Mais de 800 genes e dezenas de síndromes 
+genéticas estão associados ao TEA. Sobre os aspectos 
+genéticos envolvendo o TEA, pode-se  afirmar: 
+(A) Estima-se que 20% dos indivíduos com TEA são
+diagnosticados 
+com 
+deleções 
+ou 
+duplicações
+cromossômicas (por exemplo, 15q11.2, BP1-BP2, 16p11.2
+e 15q13.3), síndromes identificadas (por exemplo,
+Williams, Phelan-McDermid e Shprintzen velocardiofacial)
+ou distúrbios de gene único.
+(B) O TEA essencial consiste em indivíduos nos quais há
+evidências de alguma anormalidade na morfogênese
+precoce, manifestada por dismorfologia significativa ou
+microcefalia. Os demais casos de TEA se encaixam na
+definição de complexo.
+(C) Assim como os testes genéticos, os testes metabólicos
+abrangem uma vasta gama de testes que vão desde a
+triagem não específica de múltiplas condições (lactato em
+distúrbios mitocondriais) até grupos categóricos de
+distúrbios (aminoácidos plasmáticos para distúrbios do
+ciclo da ureia). No entanto, as evidências genéticas e
+bioquímicas implicam uma ampla variedade de erros
+inatos do metabolismo, na patogênese de um subconjunto
+- estimado, atualmente, em 10%, - de crianças com TEA.
+(D) As associações genéticas patogênicas com o TEA incluem
+variantes de nucleotídeo único, variantes de número de
+cópias (CNVs; microdeleções e duplicações), aneuploidia
+cromossômica (números anormais de cromossomos),
+expansões de repetições de trinucleotídeos, distúrbios de
+impressão/metilação e alterações genéticas poligênicas-
+multifatoriais. Não existe um único teste genético que
+possa capturar com precisão todas as potenciais
+associações etiológicas com o TEA.
+##### 
+{13} 
+Embora TEA seja um diagnóstico com muita heterogeneidade, 
+para que o mesmo seja feito é necessário que seja preenchido 
+o critério A do DSM5-TR. Assinale a alternativa que melhor
+descreve esse critério.
+(A) Déficits na reciprocidade socioemocional, com dificuldade
+para compartilhar interesses e estabelecer uma conversa;
+déficits nos comportamentos de comunicação não verbal
+usados para interação social, variando entre comunicação
+verbal e não verbal pouco integrada e com dificuldade no
+uso de gestos e expressões faciais; déficits em iniciar,
+manter e entender relacionamentos, com variações na
+dificuldade de adaptação do comportamento para se
+ajustar nas situações sociais, compartilhar brincadeiras
+imaginárias e ausência de interesse por pares.
+(B) Déficits na reciprocidade emocional e social, com
+dificuldade para compartilhar interesses e estabelecer
+uma 
+conversa; 
+déficits 
+nos 
+comportamentos 
+de
+comunicação não verbal usados para interação social,
+variando entre comunicação verbal e não verbal pouco
+integrada e com dificuldade no uso de gestos e
+expressões faciais; movimentos motores, uso de objetos
+ou fala repetitiva e estereotipada (estereotipias, alinhar
+brinquedos, girar objetos, ecolalias).
+(C) Insistência nas mesmas coisas, adesão inflexível a
+padrões e rotinas ritualizadas de comportamentos verbais
+ou não verbais (sofrimento extremo a pequenas
+mudanças, dificuldade com transições, necessidade de
+fazer as mesmas coisas todos os dias); interesses
+altamente restritos ou fixos em intensidade, ou foco muito
+maiores 
+do 
+que 
+os 
+esperados 
+(forte apego 
+ou
+preocupação a objetos, interesse preservativo ou
+excessivo 
+em 
+assuntos 
+específicos); 
+hiper 
+ou
+hiporreatividade a estímulos sensoriais ou interesses
+incomuns 
+por 
+aspectos 
+sensoriais 
+do 
+ambiente
+(indiferença aparente a dor/temperaturas, reação contrária
+a texturas e sons específicos, fascinação visual por
+movimentos ou luzes).
+(D) Déficits em iniciar, manter e entender relacionamentos,
+com 
+variações 
+na 
+dificuldade 
+de 
+adaptação 
+do
+comportamento para se ajustar nas situações sociais,
+compartilhar brincadeiras imaginárias e ausência de
+interesse por pares; movimentos motores, uso de objetos
+ou fala repetitiva e estereotipada (estereotipias, alinhar
+brinquedos, girar objetos, ecolalias); insistência nas
+mesmas coisas, adesão inflexível a padrões e rotinas
+ritualizadas de comportamentos verbais ou não verbais
+(sofrimento extremo a pequenas mudanças, dificuldade
+com transições, necessidade de fazer as mesmas coisas
+todos os dias).
+##### 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psiquiatria da Infância e Adolescência – PROVA A10 
+{14} 
+Os transtornos de ansiedade são transtornos mentais comuns 
+na população geral e representam um importante problema de 
+saúde pública. Com base nas evidências epidemiológicas 
+disponíveis sobre os transtornos de ansiedade, assinale a 
+alternativa correta. 
+(A) Globalmente, a prevalência em 12 meses dos transtornos
+ansiosos é ligeiramente inferior à prevalência ao longo da
+vida, indicando que os transtornos de ansiedade são
+relativamente persistentes.
+(B) Os estudos indicam que, globalmente, o impacto em
+termos de anos vividos com incapacidade (years lived with
+disability) dos transtornos ansiosos é menor que o impacto
+do transtorno do espectro autista.
+(C) Entre os adolescentes, o transtorno ansioso mais comum
+é a ansiedade social. E entre os adultos, o transtorno
+ansioso mais frequente é o transtorno de ansiedade
+generalizada.
+(D) A prevalência global de 12 meses para transtornos
+ansiosos é estimada em 14%. Após o ajuste para
+diferenças metodológicas, os estudos não encontram
+diferenças significativas na prevalência de transtornos
+ansiosos em diferentes países.
+##### 
+{15} 
+Sobre os transtornos de personalidade, assinale a 
+alternativa correta. 
+(A) Os critérios do DSM-5 definem o transtorno de
+personalidade 
+narcisista 
+como 
+um 
+padrão 
+de
+funcionamento caracterizado por grandiosidade (em
+fantasias 
+ou 
+comportamentos), 
+necessidade 
+de
+admiração, senso de direito e falta de empatia, associado
+a autoestima vulnerável, vazio e tédio; reatividade afetiva e
+angústia.
+(B) De acordo com o DSM 5, a característica fundamental do
+transtorno de personalidade antissocial é um padrão
+difuso de desconsideração e violação dos direitos das
+outras 
+pessoas. 
+Estes 
+indivíduos, 
+frequentemente
+carecem de empatia e tendem a ser insensíveis aos
+sentimentos, direitos e sofrimentos dos outros. Estudos de
+neuroimagem associam estes traços psicopáticos ao
+aumento da atividade da amígdala, em conjunto com uma
+falha no controle regulatório descendente do córtex pré-
+frontal ventral.
+(C) Atualmente, acredita-se que, experiências adversas na
+infância, como vivencias de abuso físico e sexual,
+modulam a expressão gênica, através de mecanismos
+epigenéticos, e levam ao desenvolvimento de traços de
+personalidade que podem predispor a ocorrência do
+Transtorno de Personalidade Borderline (TPB). Nesse
+contexto, 
+estudos 
+familiares 
+genéticos 
+estimam 
+a
+herdabilidade do TPB em 15%, o que reforça o papel
+relevante dos fatores ambientais.
+(D) O “modelo alternativo do DSM-5 para os transtornos de
+personalidade” propõe uma combinação de abordagens
+categóricas e dimensionais, formando um esquema de
+diagnóstico híbrido. Neste modelo, os transtornos da
+personalidade são caracterizados por prejuízos no
+funcionamento individual e interpessoal avaliados em um
+continuum, e por traços de personalidade patológicos,
+incluindo 
+afetividade 
+negativa, 
+distanciamento,
+antagonismo, desinibição e psicoticismo.
+##### 
+{16} 
+Mariana, 17 anos de idade, está em tratamento há 6 meses, 
+com diagnóstico de Transtorno de Personalidade Borderline 
+(TPB), preenchendo 7 dos 9 critérios do DSM-5. Ela participa 
+de um tratamento especializado em psicoterapia (Terapia 
+Comportamental Dialética -DBT), porém com aderência 
+irregular e baixo aproveitamento. A psicoterapeuta relata que 
+Mariana apresenta extrema dificuldade em focar nas sessões, 
+seguir as tarefas de casa e generalizar o uso das habilidades 
+aprendidas, atribuindo o insucesso a uma “falta de atenção e 
+organização que a impede de aprender”. A paciente tem 
+histórico de longa data de dificuldades escolares, com 
+múltiplos relatórios mencionando “desatenção e inquietude” 
+desde a infância, e um diagnóstico prévio de Transtorno 
+Oposição Desafiante (TOD). Não há uso de substâncias 
+psicoativas ou sinais de mania e hipomania no histórico da 
+paciente. Diante do impasse terapêutico, qual é o plano de 
+manejo mais adequado para o caso?  
+(A) Propor uma abordagem integrada: realizar psicoeducação
+com Mariana e sua família sobre como a desatenção e a
+impulsividade relacionadas ao Transtorno de Déficit de
+Atenção e Hiperatividade (TDAH) podem exacerbar a
+desregulação emocional do TPB e dificultar a psicoterapia;
+iniciar, de forma criteriosa um psicoestimulante em dose
+baixa com titulação lenta, monitorando ativamente tanto os
+benefícios na atenção quanto os possíveis impactos na
+labilidade afetiva.
+(B) Priorizar a estabilização do humor e da impulsividade do
+TPB antes de abordar os sintomas relacionados ao TDAH.
+O plano seria otimizar ou introduzir um estabilizador de
+humor (por ex.: lamotrigina) ou neuroléptico atípico (por
+ex.: aripiprazol), explicando à família que a instabilidade
+afetiva é a causa primária da desatenção e que o
+diagnóstico e tratamento do TDAH só deve ser
+considerado após a estabilização do quadro de base.
+(C) Informar à família e à paciente sobre os elevados riscos de
+abuso de substâncias e de piora da desregulação
+emocional com aumento do risco de suicídio com o uso de
+psicoestimulantes em pacientes com TPB. Contraindicar
+seu uso e sugerir a intensificação da psicoterapia para 2
+sessões 
+semanais, 
+focando 
+especificamente 
+em
+habilidades de mindfulness para a atenção.
+(D) Concordar com a hipótese de que o TDAH é o transtorno
+primário e que o TPB é uma manifestação secundária. O
+manejo seria iniciar tratamento com psicoestimulante em
+doses-padrão para remissão rápida dos sintomas de
+TDAH, mantendo a psicoterapia como um tratamento
+adjuvante, com a expectativa de que a melhora do foco
+resolverá a instabilidade relacional e afetiva.
+##### 
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psiquiatria da Infância e Adolescência – PROVA A10 
+{17} 
+Sobre o transtorno obsessivo-compulsivo (TOC), assinale a 
+alternativa correta. 
+ 
+(A) O TOC, geralmente, começa cedo na vida e tem longa 
+duração. Entre os meninos, os sintomas geralmente têm 
+início antes dos 10 anos de idade. Nas meninas, o início 
+geralmente ocorre durante a adolescência. Estudos 
+clínicos e comunitários longitudinais demonstram que os 
+sintomas do TOC podem persistir por décadas, embora a 
+remissão parcial ou completa pode ocorrer em um número 
+considerável de indivíduos. 
+(B) A maior parte dos pacientes com TOC apresenta alguma 
+comorbidade psiquiátrica ao longo da vida. Entre os 
+transtornos comórbidos mais comuns, estão os transtornos 
+ansiosos, do humor, do controle dos impulsos. Pelo início 
+precoce do TOC, em 80% dos casos, o TOC precede a 
+ocorrência dos transtornos comórbidos. 
+(C) O tratamento do TOC compreende vários componentes, 
+começando com a construção de uma aliança terapêutica 
+e psicoeducação, seguida por abordagens psicológicas 
+e/ou 
+farmacológicas. 
+Os 
+inibidores 
+seletivos 
+da 
+recaptação da serotonina (ISRS) são considerados 
+primeira linha de tratamento. No caso de resposta 
+insatisfatória, os guidelines indicam o uso de clomipramina 
+ou imipramina como tratamentos adjuvantes. 
+(D) Aproximadamente dois terços dos pacientes com TOC, 
+que são tratados com um tratamento de primeira linha, não 
+respondem 
+ao 
+tratamento. 
+Fatores 
+associados 
+a 
+resultados insatisfatórios no tratamento incluem: quadros 
+mais graves, falta de insight, comorbidade com depressão 
+grave, agorafobia ou transtorno de ansiedade social, sexo 
+feminino, baixo nível socioeconómico. 
+##### 
+ 
+{18} 
+Lucas, 12 anos de idade, é levado pelos pais à consulta com 
+queixa de comportamentos repetitivos. Desde os 7 anos de 
+idade, apresenta movimentos repetitivos como piscar os olhos, 
+movimentos bruscos de cabeça e limpeza da garganta, os quais 
+variam de intensidade e se agravam com estresse. Nos últimos 
+dois anos, passou a apresentar comportamentos repetitivos mais 
+complexos, como tocar superfícies em sequência e refazer 
+movimentos corporais para que ambos os lados do corpo sintam 
+a mesma coisa. Relata que precisa realizar essas ações para 
+evitar que “algo ruim aconteça”, como um familiar adoecer. 
+Atualmente, os comportamentos que faz para “evitar que algo 
+ruim aconteça” se intensificaram e Lucas gasta um tempo 
+significativo com rituais de simetria e verificação. Os sintomas têm 
+causado sofrimento emocional e impacto no rendimento escolar. 
+Considerando o caso descrito, assinale a alternativa que 
+descreve o diagnóstico e a conduta de forma mais adequada.  
+ 
+(A) Síndrome de Tourette com comorbidade de TOC e, de acordo 
+com guidelines, paciente deve ser encaminhado para terapia 
+cognitivo comportamental. 
+(B) Transtorno obsessivo-compulsivo e, de acordo com 
+guidelines, o paciente deve receber tratamento com inibidor 
+da recaptação da serotonina, como primeira linha de 
+tratamento. 
+(C) Síndrome de Tourette, e o paciente deve ser encaminhado 
+para terapia cognitivo comportamental, como primeira linha 
+de tratamento. 
+(D) Síndrome de Tourette com comorbidade de TOC e, de acordo 
+com guidelines, deve receber tratamento com inibidor da 
+recaptação da serotonina, como primeira linha de tratamento. 
+##### 
+{19} 
+Uma meta-análise foi conduzida para avaliar a eficácia do 
+medicamento A no tratamento da depressão em crianças e 
+adolescentes, com base em 10 ensaios clínicos controlados 
+randomizados duplo-cego independentes. Os tamanhos de 
+efeito foram expressos como diferenças médias padronizadas 
+(DMP) e analisados utilizando o modelo de efeitos aleatórios. 
+O efeito combinado estimado foi de DMP = -0,25 (IC95%: -0,51 
+a -0,34). A análise de heterogeneidade indicou baixa variação 
+entre os estudos, com Q = 9,32 (p = 0,41), I² = 3,5%, e Tau² = 
+0,0006. Na descrição dos resultados, os autores incluíram o 
+gráfico a seguir: 
+ 
+ 
+ 
+Com base nas informações fornecidas sobre o estudo, 
+assinale a alternativa correta. 
+ 
+(A) A Diferença Média Padronizada (DMP) é uma medida de 
+tamanho de efeito usada para comparar a diferença entre 
+dois grupos em uma escala comum, independentemente 
+da unidade original da variável. 
+(B) A meta-análise incluiu ensaios clínicos controlados 
+randomizados duplo-cego. A randomização é importante, 
+pois evita viés de expectativa; enquanto o desenho duplo-
+cego reduz viés de seleção. 
+(C) O funnel plot apresentado indica que não há viés de 
+publicação entre os estudos incluídos na meta-análise.  
+(D) As análises indicam que o medicamento A teve um 
+tamanho de efeito moderado-grande na redução dos 
+sintomas depressivos em comparação ao placebo.  
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psiquiatria da Infância e Adolescência – PROVA A10 
+{20} 
+Qual informação sobre a etiologia do Transtorno Alimentar 
+Restritivo / Evitativo (TARE) seria mais precisa para orientar 
+uma família sobre os fatores que contribuem para o 
+transtorno? 
+ 
+(A) O TARE apresenta alta herdabilidade (79%), sendo mais 
+influenciado por fatores genéticos do que outros 
+transtornos alimentares, com menor influência de fatores 
+ambientais não compartilhados. 
+(B) O TARE tem herdabilidade moderada (45%), similar à 
+anorexia nervosa, com forte influência de fatores 
+ambientais familiares compartilhados. 
+(C) O TARE é principalmente determinado por fatores 
+ambientais 
+(70%), 
+com 
+menor, 
+mas 
+significativa 
+contribuição genética, especialmente em casos com 
+sensibilidade sensorial. 
+(D) O TARE apresenta herdabilidade baixa (30%), sendo mais 
+influenciado por fatores ambientais como experiências 
+traumáticas com alimentos do que por predisposição 
+genética. 
+##### 
+ 
+{21} 
+André, 22 anos de idade, procurou atendimento psiquiátrico 
+por achar que tem TDAH. Durante a consulta, relata que tem 
+percebido dificuldades crescentes na faculdade, incluindo 
+desatenção nas aulas, e tendência à procrastinação. Relata, 
+também, 
+sensação 
+constante 
+de 
+inquietude 
+mental, 
+dificuldade em organizar tarefas e compromissos mesmo com 
+uso de aplicativos e listas. Nos últimos meses, tem se sentido 
+mais ansioso e com mais dificuldade para finalizar tarefas e 
+cumprir prazos. Refere uso de álcool e cocaína. Quando 
+questionado sobre sua infância, conta que era levado, não 
+gostava de estudar, dava trabalho para os professores e para 
+sua mãe, que precisava acompanhar de perto os seus 
+estudos. Apesar disso, era considerado “inteligente e criativo” 
+e nunca foi reprovado. Considerando seus conhecimentos e o 
+caso apresentado, assinale a alternativa correta. 
+ 
+(A) No caso de André, as principais hipóteses diagnósticas 
+são transtorno ansioso e abuso de substância. O relato de 
+dificuldades crescentes nos últimos meses não é 
+compatível com o diagnóstico de TDAH, uma vez as 
+evidencias apontam um curso crônico, sem flutuações dos 
+sintomas de TDAH ao longo do tempo.  
+(B) No caso de André está indicado o uso de estimulantes. 
+Antes de sua introdução, é importante explicar que o uso 
+de estimulantes pode levar a um discreto aumento da 
+frequência cardíaca e da pressão arterial. Mas que, até o 
+momento, não existem evidências de aumento do risco de 
+desfechos cardiovasculares como hipertensão em adultos. 
+(C) No caso de André, deve-se iniciar o uso de medicamentos 
+não estimulantes incluindo a atomoxetina (inibidor da 
+recaptação da noradrenalina), e clonidina (agonistas ɑ2-
+adrenérgicos). Embora apresentem um menor tamanho de 
+efeito 
+quando 
+comparados 
+aos 
+medicamentos 
+estimulantes, os ensaios clínicos randomizados duplo-
+cegos indicam que ambas as medicações são eficazes 
+para tratamento de pacientes adultos com TDAH.  
+(D) Em pacientes com diagnóstico de TDAH e abuso de 
+substância, 
+o 
+tratamento 
+com 
+medicamento 
+não 
+estimulante pode ser considerado. No entanto, a 
+comorbidade com abuso de substância não exclui o uso 
+de estimulantes, e os dados indicam que os estimulantes 
+podem ser eficazes nesses casos.  
+##### 
+{22} 
+O transtorno de déficit de atenção e hiperatividade (TDAH) é 
+um transtorno comum caracterizado por desatenção, 
+hiperatividade e impulsividade. Em muitos casos, é uma 
+condição associada a prejuízos funcionais significativos. 
+Nesse contexto, dados epidemiológicos são fundamentais 
+para a compreensão do transtorno e elaboração de políticas 
+que ajudem a mitigar o impacto do TDAH. Em relação ao 
+TDAH, é correto afirmar: 
+ 
+(A) O TDAH é um transtorno de neurodesenvolvimento, que 
+comumente se inicia na infancia. De acordo com a 
+literatura, a idade média do diagnóstico é de 6-7 anos. 
+Estima-se que cerca 65% dos indivíduos com TDAH sejam 
+diagnosticados antes dos 10 anos de idade; 85,0% são 
+diagnosticados até os 15 anos. 
+(B) Estudos 
+populacionais 
+realizados 
+com 
+amostras 
+representativas de crianças e adolescentes dos Estados 
+Unidos, Canadá e do Reino Unido indicam que nas últimas 
+décadas houve um aumento significativo na prevalência 
+do TDAH em crianças e adolescentes nestes países. 
+(C) Além da comorbidade com outros transtornos mentais, o 
+TDAH também ocorre de forma comórbida com condições 
+somáticas. Meta-análises encontraram, em crianças e 
+adolescentes, 
+associação 
+entre 
+TDAH, 
+dermatite, 
+obesidade, asma e rinite.  
+(D) Na literatura, os estudos indicam que, em países de baixa 
+e média renda, observa-se um consumo excessivo de 
+medicamentos estimulantes, que supera o consumo 
+esperado pela prevalência do transtorno. Este fato pode 
+estar relacionado a diferentes fatores, como diagnósticos 
+inadequados, 
+e 
+menor 
+controle 
+na 
+prescrição 
+e 
+comercialização destes medicamentos. 
+##### 
+ 
+{23} 
+Ana, 7 anos de idade, com diagnóstico de transtorno do 
+espectro autista (nível 2 de suporte) e ausência de deficiência 
+intelectual, iniciou acompanhamento em um CAPS infanto-
+juvenil (CAPSij). Ela frequenta escola regular com apoio de 
+mediadora, mas apresenta dificuldade em comunicação 
+social e regulação emocional. A equipe do CAPSij discute a 
+construção de um Plano Terapêutico Singular (PTS). De 
+acordo com o Instrutivo Técnico da Rede de Atenção 
+Psicossocial, assinale a alternativa correta. 
+ 
+(A) O PTS deve estabelecer metas terapêuticas centradas em 
+remissão sintomática completa e retorno à autonomia total 
+do paciente. 
+(B) O PTS deve integrar família, escola e rede de apoio, com 
+metas específicas, prazos e monitoramento contínuo, 
+respeitando as necessidades contextuais de cada 
+paciente. 
+(C) O PTS, deve ser elaborado pelos profissionais de saúde e, 
+posteriormente apresentado à família e à escola. 
+(D) O PTS é um documento do CAPSij e não deve ser 
+compartilhado 
+com 
+outros 
+serviços, 
+por 
+conter 
+informações clínicas sensíveis. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psiquiatria da Infância e Adolescência – PROVA A10 
+{24} 
+Joana, 5 anos de idade, vive com a mesma família adotiva há 
+1 ano, após histórico de institucionalização prolongada por 
+negligência grave nos primeiros anos de vida. A equipe da 
+escola relata que Joana é bastante afetiva, mas notam que a 
+criança 
+aborda 
+adultos 
+desconhecidos 
+com 
+extrema 
+familiaridade, tenta abraçá-los, senta-se no colo e busca 
+contato físico de forma inapropriada. Assim como é capaz de 
+sair com um estranho sem hesitação. A mãe acha que a filha 
+tem comportamentos que parecem refletir uma busca por 
+atenção. A mãe fica preocupada, pois percebe que estes 
+comportamentos impactam negativamente na relação que a 
+filha estabelece com os adultos e com outras crianças, tem 
+receio de que este contato indiscriminado com a estranhos 
+possa expor a filha a situações de risco e abusos. Assinale a 
+alternativa correta. 
+ 
+(A) A principal hipótese diagnóstica para o caso descrito é 
+Transtorno de Interação Social Desinibido (TISD). Estudos 
+indicam que crianças com TISD, podem apresentar 
+trajetórias variáveis dos sintomas, sendo que uma parcela 
+destes pacientes pode apresentar sintomas persistentes 
+ao longo do desenvolvimento. 
+(B) O quadro descrito é típico do transtorno de apego reativo, 
+que se caracteriza por dificuldade de vinculação a figuras 
+de apego, após experiências de negligência graves e 
+institucionalização precoce. 
+(C) Os comportamentos descritos não são classificados como 
+um transtorno pelo DSM-5, pois são considerados 
+comportamentos compreensíveis e reativos à experiência 
+de institucionalização.  
+(D) Os estudos indicam que a maior parte das crianças com 
+transtorno de interação social desinibido apresentam 
+redução dos sintomas após serem colocadas em lares 
+adotivos. No entanto, somente uma parcela pequena das 
+crianças com transtorno de apego reativo apresenta 
+resposta a este tipo de intervenção.  
+##### 
+ 
+{25} 
+Sobre os transtornos alimentares na infância e adolescência, 
+assinale a alternativa correta. 
+ 
+(A) Não existem evidências de superioridade de uma 
+abordagem psicoterápica específica para adolescentes 
+ou adultos com anorexia nervosa, assim como a 
+velocidade da recuperação ponderal costuma ser similar 
+independentemente da idade. 
+(B) A prevalência de Transtorno de Compulsão Alimentar 
+(TCA) antes dos 18 anos é substancialmente menor do que 
+anorexia nervosa e bulimia nervosa nessa mesma faixa 
+etária. 
+(C) O 
+transtorno 
+alimentar 
+mais 
+frequentemente 
+em 
+comorbidade com o Transtorno de Déficit de Atenção e 
+Hiperatividade (TDAH) entre crianças e adolescentes é a 
+Bulimia Nervosa (BN), seguida pelo Transtorno de 
+Compulsão Alimentar (TCA) e Transtorno Alimentar 
+Restritivo Evitativo (TARE).  
+(D) Nos casos de adolescentes com anorexia nervosa, o 
+tratamento especializado em formato de hospital-dia após 
+internação hospitalar breve para estabilização clínica 
+mostra-se tão eficaz quanto a internação hospitalar 
+continuada.  
+##### 
+ 
+ 
+ 
+{26} 
+Um estudo realizado com dados de uma coorte comunitária 
+de crianças de São Paulo e Porto Alegre (n=2511), investigou 
+o uso ao longo da vida de serviços de saúde mental entre 
+crianças diagnosticadas com transtornos mentais. Os 
+resultados mostraram que, entre as crianças diagnosticadas 
+com transtorno mental (N=651), 81,0% (IC 95%=76,6% - 
+84,7%) não receberam nenhum tratamento de saúde mental 
+ao longo da vida (descritas a seguir como “não atendidas”). 
+Entre as crianças que receberam tratamento (descritas a 
+seguir como “atendidas”), a duração média do tratamento 
+entre aqueles que receberam medicação e aqueles que 
+receberam psicoterapia foi de 25,8 meses (IC 95% = 17,1–
+34,4) e 22,7 meses (IC 95% = 16,5–29,2), respectivamente. 
+    A Tabela 1 mostra a relação entre as características da 
+criança e da família e o acesso a serviços de saúde mental 
+entre crianças diagnosticadas com transtorno mental.  
+ 
+Tabela 1. Características associadas às necessidades atendidas e não 
+atendidas 
+de 
+tratamento 
+de 
+saúde 
+mental 
+entre 
+651 
+crianças 
+diagnosticadas com transtornos mentais em duas cidades do Brasil a 
+ 
+atendidas 
+não atendidas 
+ 
+ 
+ 
+Característica 
+% 
+95% IC % 
+95% IC OR 
+95% 
+IC 
+p 
+Cidade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  São Paulo 
+13,5 
+8,9-
+20,0 
+86,4 
+80,0-
+91,0 
+2,1 
+0,9-
+4,2 
+0,056 
+  Porto Alegre 
+21,8 
+16,8-
+27,7 
+78,2 
+72,3-
+83,2 
+ 
+ 
+ 
+Sexo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Masculino 
+19,8 
+15,0-
+25,6 
+80,2 
+74,4-
+85,0 
+0,8 
+0,5-
+1,5 
+0,0536 
+  Feminino (Ref) 
+17,9 
+12,4-
+25,1 
+82,1 
+74,9-
+87,5 
+ 
+ 
+ 
+Idade (anos) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  >10 
+16,4 
+11,3-
+23,3 
+83,6 
+76,7-
+88,4 
+0,8 
+0,4-
+1,5 
+0,499 
+  6-9 (Ref) 
+21,5 
+16,6-
+27,5 
+78,4 
+72,5-
+83,4 
+ 
+ 
+ 
+Raça 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Preta 
+14,0 
+6,8-
+93,2 
+86,0 
+73,3-
+93,2 
+1,7 
+0,7-
+4,4 
+0,234 
+  Parda 
+12,3 
+7,2-
+19,8 
+87,8 
+80,2-
+92,8 
+2,0 
+1,2 – 
+4,0 
+0,036 
+  Branca (Ref) 
+22,5 
+17,3-
+28,8 
+77,4 
+71,2-
+82,6 
+ 
+ 
+ 
+ 
+De acordo com os dados apresentados, assinale a alternativa 
+correta. 
+ 
+(A) De acordo com os resultados, a chance de uma criança 
+parda não ter suas necessidades atendidas é 2% maior em 
+comparação com crianças brancas.  
+(B) Foi 
+encontrada 
+uma 
+diferença 
+estatisticamente 
+significativa na proporção de crianças com necessidades 
+atendidas em São Paulo quando comparadas às crianças 
+em Porto Alegre. 
+(C) É possível afirmar que, se repetíssemos o estudo inúmeras 
+vezes, em 95% dos casos, o tempo médio de tratamento 
+em psicoterapia estaria entre 16,5–29,2.  
+(D) Os resultados indicam que a chance de uma criança 
+branca ser atendida é significativamente maior do que 
+crianças pardas e pretas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psiquiatria da Infância e Adolescência – PROVA A10 
+{27} 
+Em relação ao desenvolvimento humano e a psicopatologia 
+desenvolvimental, assinale a alternativa correta. 
+ 
+(A) Crianças e adolescentes avaliadas em serviços clínicos 
+tendem a ter diagnósticos com comorbidades homotípicas 
+e não heterotípicas. 
+(B) Estudos longitudinais sugerem que a maior parte dos 
+transtornos mentais surgem antes dos 21 anos de idade, 
+sendo que uma menor parte surge antes dos 11 anos de 
+idade. 
+(C) O início precoce de sintomas psiquiátricos está associado, 
+de forma paradoxal, a diagnósticos sem comorbidades, 
+porém com maior duração de tempo.  
+(D) Em diferentes estudos, a psicopatologia desenvolvimental 
+está associada a números de prevalência de diagnósticos 
+psiquiátricos na infância e adolescência de 5 a 8%.  
+##### 
+ 
+{28} 
+Paciente foi encaminhado para avaliação, devido sinais de 
+agitação 
+importante, 
+queixas 
+frequentes 
+sobre 
+comportamento na escola e comportamento opositor em casa. 
+Pais suspeitam de que possa ter transtorno de déficit de 
+atenção e hiperatividade, e trazem relatório de avaliação 
+neuropsicológica feito recentemente. Este relatório diz:  
+ 
+“De acordo com a escala WISC-IV, seu QI global 
+situou-se na faixa superior quando comparado a indivíduos da 
+mesma idade (QIT: 124 pts.). Além disso, o paciente 
+apresentou recursos preservado em relação a resolução de 
+problemas pela via verbal/compreensão verbal (IF: 138 pts.), 
+situada na faixa muito superior e, de forma discrepante, a 
+velocidade de processamento das informações (IF: 111 pts.), 
+as habilidades de planejamento, organização e integração 
+das informações/organização perceptual (IF: 110 pts.), 
+situaram 
+na 
+faixa 
+média-superior 
+e 
+a 
+memória 
+operacional/processos atencionais (IF: 106 pts.), situou-se na 
+faixa média, quando comparado a indivíduos da mesma 
+idade”. 
+ 
+Considerando o caso clínico descrito, assinale a alternativa 
+correta. 
+ 
+(A) A Memória operacional é a habilidade de manter 
+informações em mente enquanto realiza-se uma operação 
+mental simultânea sobre elas. No WISC-IV é avaliada por 
+subtestes como dígitos e sequência de números-letras. 
+(B) O resultado da avaliação neuropsicológica apresentado 
+indica que paciente apresenta funções cognitivas 
+preservadas e afasta a hipótese de transtorno de déficit de 
+atenção/hiperatividade.  
+(C) O uso de testes neuropsicológicos contribui de maneira 
+significativa para o diagnóstico de TDAH e deve ser 
+solicitado sempre que possível como parte da avaliação 
+clínica. 
+(D) Resultados discrepantes entre os domínios avaliados no 
+teste neuropsicológico indicam que algum fator externo 
+pode ter interferido no processo de avaliação, de modo 
+que a validade dos resultados deve ser questionada. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{29} 
+Henrique, 10 anos de idade, foi encaminhado ao ambulatório 
+de psiquiatria infantil por dificuldades comportamentais e 
+escolares. Segundo a mãe, desde os primeiros anos 
+escolares, Henrique é inquieto e desatento. Frequentemente, 
+se acidenta, perde objetos e tem dificuldade de manter o foco 
+em atividades, mesmo quando motivado. Professores relatam 
+que ele levanta diversas vezes da cadeira, interrompe os 
+colegas e fala em momentos inapropriados. Além disso, 
+desde a idade pré-escolar, Henrique apresenta episódios 
+frequentes de explosões de raiva, geralmente em resposta a 
+frustrações banais, como ser contrariado ou perder em jogos. 
+As explosões envolvem gritos, palavrões, bater portas e, por 
+vezes, agressividade física. Esses episódios ocorrem ao 
+menos quatro vezes por semana, principalmente em casa, e 
+são desproporcionais à situação por sua intensidade e 
+duração. Além disso, entre os episódios, Henrique mantém um 
+humor persistentemente irritável. Costuma ficar emburrado 
+com facilidade para se envolver em conflitos com colegas e 
+adultos. Os quais, muitas vezes ocorrem por comportamentos 
+provocativos apresentados por Henrique. A mãe nega 
+episódios de euforia, grandiosidade ou períodos de sono 
+reduzido. Com base no caso apresentado, assinale a 
+alternativa correta. 
+ 
+(A) De acordo com o DSM-5, as hipóteses diagnósticas são: 
+Transtorno de Déficit de Atenção/Hiperatividade (TDAH) e 
+Transtorno Opositor Desafiante (TOD). Neste caso, além 
+do encaminhamento para tratamento psicoterápico, deve-
+se indicar o uso de psicoestimulantes, considerado pelos 
+guidelines como primeira linha de tratamento para o TDAH. 
+(B) De acordo com o DSM-5, as hipóteses diagnósticas são: 
+Transtorno de Déficit de Atenção/Hiperatividade (TDAH) e 
+com Transtorno Disruptivo da Desregulação do Humor 
+(TDDH). Neste caso, além do encaminhamento para 
+tratamento psicoterápico, deve-se indicar o uso de 
+medicamentos não estimulantes, como atomoxetina, uma 
+vez que os guidelines contra-indicam o uso de 
+psicoestimulantes em pacientes com altos níveis de 
+irritabilidade. 
+(C) De acordo com o DSM-5, as hipóteses diagnósticas são: 
+Transtorno de Déficit de Atenção/Hiperatividade (TDAH) e 
+transtorno disruptivo da desregulação do humor (TDDH). 
+Neste caso, além do encaminhamento para tratamento 
+psicoterápico, deve-se indicar o uso de metilfenidato, 
+considerado pelos guidelines como primeira linha de 
+tratamento para o TDAH. 
+(D) De acordo com o DSM-5, as hipóteses diagnósticas são: 
+Transtorno de Déficit de Atenção/Hiperatividade (TDAH) e 
+Transtorno Opositor Desafiante (TOD). Neste caso, além 
+do encaminhamento para tratamento psicoterápico, deve-
+se iniciar o tratamento com o uso de risperidona devido à 
+gravidade dos sintomas de irritabilidade. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 12 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psiquiatria da Infância e Adolescência – PROVA A10 
+{30} 
+Sobre o transtorno afetivo bipolar (TAB), assinale a alternativa 
+correta. 
+ 
+(A) Globalmente prevalência estimada de TAB tipo 1, em 
+crianças e adolescentes é de aproximadamente 2% 
+(B) O TAB é o transtorno afetivo associado com as maiores 
+taxas de suicídio ao longo da vida, sendo a idade de início 
+precoce, um fator de risco. Os estudos indicam um risco 
+cerca de 8 vezes maior do que o observado na população 
+em geral. 
+(C) Os estudos indicam que fatores ambientais como 
+adversidades da infância e o consumo de drogas durante 
+a adolescência estão associados a maior risco de 
+desenvolvimento do transtorno afetivo bipolar (TAB), além 
+de um curso mais grave da doença. 
+(D) Os estudos demonstraram a eficácia da estimulação 
+magnética transcraniana repetitiva do córtex pré-frontal 
+direito para o tratamento da mania aguda em adultos e 
+adolescentes. 
+##### 
+ 
+{31} 
+Lucas, de 8 anos de idade, foi levado à UBS por sua mãe, 
+devido a preocupações em relação ao comportamento do filho 
+e possíveis impactos em seu desenvolvimento. Segundo a 
+mãe, diariamente o filho se recusa a obedecer, tem 
+dificuldade em aceitar limites, é respondão, discute com 
+adultos, perde a paciência e se descontrola com facilidade. A 
+mãe diz que tenta colocar limites, coloca-o de castigo, no 
+entanto, Lucas culpa os outros por seus erros e não muda o 
+seu comportamento. A mãe acha que estes comportamentos 
+começaram por volta dos 5 anos de idade e se intensificaram 
+nos últimos 12 meses. Na escola, o comportamento de Lucas 
+é semelhante, e a mãe observa prejuízos no relacionamento 
+do filho com professores e colegas. Ela mostra-se cansada, 
+conta que cuida do filho sozinha e percebe um desgaste 
+importante na relação entre os dois. Além disso, tem estado 
+mais nervosa, nos últimos meses, pois está passando por 
+situação financeira difícil, desde que ficou desempregada. 
+Tem tido dificuldade, inclusive, para comprar alimentos. 
+Assinale a alternativa correta.   
+ 
+(A) A preocupação da mãe de Lucas é pertinente. Pois, a 
+principal hipótese diagnóstica para o caso é de transtorno 
+de oposição desafiante (TOD), e estudos longitudinais 
+mostram que este transtorno está associado com 
+ocorrência de diferentes transtornos mentais, incluindo 
+transtornos internalizantes e externalizantes.  
+(B) No caso de Lucas, a principal hipótese diagnóstica é a de 
+TOD. Para pacientes em idade escolar, os guidelines, 
+como o do NICE, recomendam tratamento com terapia 
+cognitivo 
+comportamental 
+individual 
+ou 
+terapia 
+psicodinâmica individual, que já se mostraram eficazes em 
+ensaios clínicos controlados e randomizados.  
+(C) Embora a situação de vulnerabilidade econômica seja um 
+fator estressor para mãe de Lucas, e um fator associado 
+ao transtorno de conduta, não há, na literatura, evidências 
+sobre a associação entre pobreza e o transtorno de 
+oposição desafiante.  
+(D) No caso de Lucas, devido à presença de sintomas de 
+agressividade, os guidelines como o NICE, recomendam o 
+uso de antipsicótico atípico, que já se mostrou eficaz para 
+tratamento do TOD em ensaios clínicos controlados, 
+randomizados.  
+##### 
+{32} 
+“Ele não tem Transtorno de Oposição Desafiante (TOD), ele é 
+assim por causa dos pais que não dão limite”. Sobre essa fala 
+que expõe a problemática de diagnósticos na infância e 
+adolescência, assinale a alternativa correta. 
+ 
+(A) Os diagnósticos nosográficos são adequados para a 
+prática clínica enquanto a formulação diagnóstica é mais 
+restrita à pesquisa pela análise de fatores de risco para os 
+diagnósticos estudados.  
+(B) Há uma confusão importante entre o que são sintomas e 
+seus fatores causais, sendo que a falta de limite parental 
+pode ser sintoma ambiental e neste caso exclui o TOD.  
+(C) O diagnóstico nosográfico se limita a descrição e 
+categorização 
+sindrômica 
+baseada 
+em 
+sistemas 
+classificatórios, mesmo que isso seja específico de um 
+ambiente como indica o enunciado.  
+(D) A formulação diagnóstica traça um paralelismo importante 
+de que fatores biológicos sugerem intervenções biológicas 
+enquanto 
+fatores 
+sociais 
+indicam 
+tratamentos 
+psicossociais como orientação de pais.  
+##### 
+ 
+{33} 
+Rafaela, 16 anos de idade, é levada pela mãe à consulta com 
+queixas de recusa escolar, crises de choro matinais 
+associados a sintomas de ansiedade intensa. Quando 
+questionada, a paciente relata preocupação frequente de que 
+algo ruim aconteça com seus pais (doença, ferimentos, 
+desastres ou morte) ou consigo mesma (perder-se, ser 
+sequestrada, sofrer um acidente, ficar doente). Acha que os 
+sintomas se intensificaram após a morte da avó materna há 
+um ano. Antes de apresentar recusa escolar, a paciente tinha 
+bom rendimento escolar, referia poucos amigos, mas não 
+relatava situações de conflitos com colegas. Quando 
+questionada, diz que é caseira, que gosta de ficar com a 
+família, e refere que nunca dormiu fora de casa (na casa de 
+amigos ou parentes), e nunca viajou sem os pais. Está 
+preocupada porque em breve terá uma viagem de estudo do 
+meio com a escola. Com base no caso descrito, assinale a 
+alternativa correta.  
+ 
+(A) A principal hipótese diagnóstica é transtorno de ansiedade 
+social do tipo somente desempenho, cujos sintomas 
+costumam aparecer no início da adolescência, por volta 
+dos 13 anos.  
+(B) A principal hipótese diagnóstica é transtorno de ansiedade 
+e separação, que de acordo com o DSM-5 pode ser 
+diagnosticado em crianças, adolescentes e adultos.  
+(C) A principal hipótese diagnóstica é transtorno de pânico, 
+que está associado ao aumento da ocorrência de ideação 
+e tentativas de suicídio. 
+(D) A principal hipótese diagnóstica é transtorno de ansiedade 
+generalizada, cujos sintomas tendem a ser crônicos, com 
+remissões e recidivas ao longo da vida.  
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 13 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psiquiatria da Infância e Adolescência – PROVA A10 
+{34} 
+O tratamento do Transtorno do Espectro Autista (TEA) é 
+baseado em intervenções terapêuticas de acordo com a 
+expressão sintomática de cada paciente, envolvendo, a 
+grosso modo, intervenção comportamental, fonoaudiológica e 
+terapia 
+ocupacional. 
+No 
+entanto, 
+a 
+intervenção 
+medicamentosa em crianças pode ser indicada para a 
+melhora de sintomas alvo e tratamento de comorbidades. Em 
+relação ao uso de psicofármacos em crianças com TEA, 
+assinale a alternativa correta. 
+ 
+(A) Ensaios clínicos controlados randomizados duplo-cegos 
+demonstram a eficácia do uso de sertralina e fluoxetina no 
+tratamento de TOC e transtornos ansiosos e crianças com 
+TEA. 
+(B) Meta-análises demonstram a eficácia do uso de 
+metilfenidato para tratamento do TDAH em crianças com 
+TEA. No entanto, a qualidade da evidência é considerada 
+baixa. 
+(C)  De acordo com meta-análises, a fluoxetina é eficaz para a 
+redução de comportamentos restritos e repetitivos em 
+ciranças com TEA. 
+(D) Rusperidona, aripripazol e ziprasidona são antipsicóticos 
+eficazes e aprovados pela FDA para redução de 
+irritabilidade e agressividade em pacientes com TEA. 
+##### 
+ 
+{35} 
+Paciente do sexo masculino, 16 anos de idade, é trazido pelos 
+pais à consulta devido a uso excessivo de jogos online 
+(MMORPGs - Massively Multiplayer Online Role-Playing 
+Game), com duração diária superior a 10 horas, inclusive 
+durante 
+a 
+madrugada. 
+Relatam 
+importante 
+prejuízo 
+acadêmico, isolamento social progressivo, agressividade 
+quando confrontado e recusa em participar de atividades 
+offline. O paciente admite dificuldade de controle sobre o 
+tempo de jogo, mesmo com tentativas prévias de limitação. 
+Durante a avaliação, observa-se humor deprimido, anedonia, 
+hipersonia, 
+sentimentos 
+de 
+inutilidade 
+e 
+irritabilidade 
+persistente há pelo menos dois meses. Não há história de uso 
+de substâncias, sintomas psicóticos ou transtornos do 
+neurodesenvolvimento. 
+O 
+paciente 
+aceita 
+iniciar 
+acompanhamento, mas demonstra resistência à redução 
+imediata do tempo de jogo. Os pais mostram-se dispostos a 
+participar do tratamento. Com base nas evidências mais 
+recentes, qual é a estratégia terapêutica inicial mais adequada 
+para esse caso?  
+ 
+(A) Encaminhar o paciente para programa de internação 
+parcial com foco em reabilitação digital e regulação 
+comportamental, pois o comprometimento funcional e a 
+comorbidade depressiva justificam a intensificação 
+imediata do cuidado. 
+(B) Adotar, inicialmente, uma abordagem motivacional breve, 
+com foco exclusivo no uso problemático da internet, 
+postergando intervenções familiares ou farmacológicas 
+até que o adolescente aceite voluntariamente modificar 
+seus hábitos digitais. 
+(C) Introduzir antidepressivo de primeira linha (como ISRS) de 
+forma isolada, considerando que a remissão dos sintomas 
+depressivos tende a reduzir o uso disfuncional de 
+eletrônicos secundariamente. 
+(D) Iniciar terapia cognitivo-comportamental individual com 
+módulos específicos para regulação do humor e manejo 
+do uso problemático de internet, associada a envolvimento 
+estruturado dos pais e avaliação psiquiátrica para eventual 
+farmacoterapia antidepressiva. ##### 
+{36} 
+Beatriz, 3 anos e 4 meses de idade, é trazida à consulta de 
+puericultura por sua mãe. Durante a avaliação, observa-se 
+que Beatriz: 
+ 
+ Corre, pula com dois pés. Mas, não consegue pular com 
+um pé só. 
+ Empilha blocos, e traça linhas com o lápis. 
+ Usa frases com 3 ou mais palavras, faz perguntas simples. 
+Apresenta fala inteligível na maior parte do tempo. 
+Compreende instruções simples de duas etapas (ex: 
+“pegue o brinquedo e coloque na caixa”).  
+ Tem um amigo imaginário. 
+ 
+Em relação ao caso descrito, assinale a alternativa correta. 
+ 
+(A) Beatriz 
+deve 
+ser 
+encaminhada 
+para 
+avaliação 
+fonoaudiológica. Nessa faixa etária espera-se que a 
+totalidade do discurso da criança seja inteligível. 
+(B) A mãe deve ser orientada desenvolvimento de Beatriz está 
+ocorrendo de maneira adequada, dentro do que se espera 
+para sua idade. 
+(C) Nessa faixa etária, é esperado que a criança consiga pular 
+com um pé só, sendo necessário um acompanhamento 
+atento do desenvolvimento motor de Beatriz, com retorno 
+precoce com o pediatra 
+(D) Nessa faixa etária, não é esperado que a criança 
+apresente um amigo imaginário. Assim, a mãe deve ser 
+encaminhada para uma avaliação com um psiquiatra da 
+infância e adolescência. 
+##### 
+ 
+{37} 
+Em relação aos modelos etiopatogênicos contemporâneos 
+dos transtornos mentais, assinale a alternativa correta. 
+ 
+(A) O framework RDoC (Research Domain Criteria) tem 
+catalisado atividades em múltiplas áreas de pesquisa 
+sobre transtornos mentais, contribuindo para futuros 
+sistemas de classificação alinhados com os caminhos da 
+medicina de precisão no que se refere ao diagnóstico, 
+tratamento e prevenção. 
+(B) O modelo do neurodesenvolvimento tem aplicação restrita 
+a transtornos do início da infância, como o transtorno do 
+espectro autista, a deficiência intelectual e os transtornos 
+específicos da aprendizagem, não sendo considerado 
+central na compreensão de transtornos do humor ou 
+transtornos psicóticos. 
+(C) Uma limitação significativa dos sistemas diagnósticos 
+baseados em sintomas é que, por definição, algum 
+processo patológico já está estabelecido no momento em 
+que o diagnóstico pode ser realizado. No entanto, a 
+abordagem dimensional de amplo espectro, que é a base 
+do RDoC, também não amplia a capacidade de detecção 
+muito precoce do risco futuro para psicopatologias. 
+(D) Segundo os modelos contemporâneos e dado o avanço 
+das ciências genômicas e da neurobiologia, a influência 
+dos fatores psicossociais, como adversidades precoces, 
+pobreza e violência, embora relevante, é considerada de 
+impacto secundário na etiologia dos transtornos mentais. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 14 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Psiquiatria da Infância e Adolescência – PROVA A10 
+{38} 
+Carolina, 15 anos de idade, foi trazida para atendimento pela 
+mãe, que percebeu uma piora da irritabilidade, além de maior 
+isolamento social e queda no rendimento escolar nos últimos 
+quatro meses, depois que sofreu bullying na escola. No 
+atendimento, Carolina relata tristeza, baixa autoestima, 
+dificuldade de concentração e episódios mais frequentes de 
+choro. Nega uso de substâncias, mas admite pensamentos 
+negativos sobre si mesma, desesperança em relação ao futuro 
+e ideação suicida sem planejamento. A mãe refere 
+preocupação com o futuro de Carolina, pois o pai tem histórico 
+de ansiedade e episódios depressivos recorrentes desde a 
+adolescência, após episódio de abuso sexual, e está 
+passando um momento difícil, pois está desempregado e tem 
+tido dificuldade de encontrar trabalho devido sua baixa 
+escolaridade.  
+ 
+(A) Alguns fatores de risco ambientais associados ao 
+transtorno depressivo maior (TDM) não podem ser 
+considerados exclusivamente ambientais, pois alguns 
+deles também têm influência genética (como baixo nível 
+de 
+escolaridade 
+e 
+renda) 
+e 
+pleiotropia 
+genética 
+compartilhada com a TDM. 
+(B) Diante da preocupação da mãe, é importante orientá-la 
+que, com exceção do histórico familiar de recorrência da 
+depressão, Carolina não apresenta em sua história outros 
+fatores de risco associados a ocorrência de episódios 
+depressivos recorrentes.  
+(C) Embora o histórico de depressão do pai seja um fator de 
+risco, a herdabilidade estimada do transtorno depressivo 
+maior é considerada baixa e filhos de indivíduos com TDM 
+têm um risco de cerca de 20% de desenvolverem 
+depressão ao longo da vida, o que reforça a relevância de 
+fatores de risco ambientais, como a vivência de bullying 
+relatada por Carolina.  
+(D) Estudos 
+genéticos 
+sobre 
+depressão 
+em 
+adultos 
+identificaram mais de uma centena de variantes genéticas 
+de risco comuns, cada uma com um efeito de pequena 
+magnitude. Apesar do efeito limitado destas variantes, os 
+estudos encontram correlações genéticas baixas com 
+outros transtornos mentais, o que indica uma maior 
+especificidade dessas variantes genéticas associadas ao 
+TDM. 
+##### 
+ 
+{39} 
+Sobre a psicopatologia do desenvolvimento, assinale a 
+alternativa correta. 
+ 
+(A) Sintomas externalizantes incluem traços de agressividade, 
+impulsividade e violação de regras. No entanto, podem 
+estar associados a sintomas internalizantes como sintomas 
+de ansiedade e depressão.  
+(B) O relato subjetivo de crianças é um desafio para a busca 
+de sintomas externalizantes, sendo que os sintomas 
+observáveis são menos desafiadores nas crianças com 
+sintomas internalizantes. 
+(C) A irritabilidade crônica como traço fundamental do grupo 
+de crianças com sintomas externalizantes deve ser visto 
+como um fator de risco para transtorno bipolar ao longo do 
+tempo. 
+(D) O TDAH é um diagnóstico marcado por sintomas 
+externalizantes, ao mesmo tempo que a comorbidade mais 
+comum é de transtornos ansiosos, mostrando a relação 
+entre grupos internalizantes e externalizantes.  
+##### 
+ 
+{40} 
+Gabriela, 10 anos de idade, foi encaminhada para avaliação 
+psiquiátrica por dificuldades persistentes no desempenho 
+escolar, linguagem pobre, e dificuldades com habilidades 
+adaptativas, especialmente relacionadas à comunicação e 
+autonomia. Foi avaliada por neuropsicólogo, que identificou QI 
+total de 65 em escala padronizada para a população 
+brasileira. A família relata atrasos em alguns marcos do 
+desenvolvimento. Nega agravos perinatais significativos. Com 
+base nos critérios diagnósticos do DSM-5, assinale a 
+alternativa correta. 
+ 
+(A) A testagem neuropsicológica é parte importante da 
+avaliação diagnóstica de indivíduos com deficiência 
+intelectual. Esses pacientes costumam apresentar escores 
+em torno de um desvio-padrão ou mais abaixo da média 
+populacional, incluindo uma margem de erro de medida 
+(em geral, + 5 pontos).  
+(B) As causas de deficiência intelectual (DI) incluem 
+anomalias genéticas. No entanto, parcela significativa dos 
+casos de DI permanece com etiologia desconhecida. 
+Nesse contexto, investigação etiológica e testes genéticos 
+são indicadas somente diante de suspeita clínica de 
+síndrome genética associada. 
+(C) De acordo com o DSM-5, o nível de gravidade da 
+deficiência intelectual (leve, moderada, grave e profunda) 
+é determinado pela pontuação de QI em avaliação 
+padronizada: leves (QI entre 50 e 69), moderados (QI entre 
+35 e 49), graves (QI entre 20 e 34) ou profundos (QI abaixo 
+de 20). 
+(D) Escores de QI são aproximações do funcionamento 
+conceitual, mas podem ser insuficientes para a avaliação 
+do raciocínio em situações da vida real e do domínio de 
+tarefas práticas. Assim, o julgamento clínico é necessário 
+para 
+a 
+interpretação 
+dos 
+resultados 
+de 
+testes 
+neuropsicológicos e a realização do diagnóstico de 
+deficiência intelectual. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 15 ---
+
+ 
+ 
+ 
+
+
+--- PAGE 16 ---
+
+v2

@@ -1,0 +1,1367 @@
+
+
+--- PAGE 1 ---
+
+ 
+AA9 
+ 
+ 
+ANOS ADICIONAIS  
+Neurologia 
+ 
+ 
+ 
+ 
+ 
+ 
+      PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025     
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo AA9. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 2 horas. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo 
+fiscal. O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14 h. Não haverá tempo 
+adicional para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 40 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Neurologia – PROVA AA9 
+{01} 
+Homem, 55 anos de idade, engenheiro, é trazido pela esposa. 
+Há 1 ano, notou que o esposo passou a ter comportamento 
+inadequados, com piadas fora de contexto e comentários 
+impulsivos. Há 6 meses, passou a ter alteração do hábito 
+alimentar, com maior preferência por doces. Há 4 meses, foi 
+demitido de seu emprego e a esposa notou que o paciente 
+passa a maior parte do dia no quarto. Ao exame físico, 
+apresenta-se apático, pouco cooperativo aos testes de 
+triagem 
+cognitiva, 
+com 
+perseveração 
+verbal. 
+Exame 
+neurológico somático sem achados relevantes. TC de crânio e 
+exames laboratoriais sem achados relevantes. Realizado  
+PET-FDG, para prosseguir investigação. Qual é a provável 
+área com hipometabolismo e qual o tratamento sintomático 
+mais adequado para o caso descrito? 
+ 
+(A) Cíngulo anterior; sertralina. 
+(B) Cíngulo anterior; donepezila. 
+(C) Pré-cuneo; donepezila. 
+(D) Pré-cuneo anterior; memantina. 
+##### 
+ 
+{02} 
+Mulher, 38 anos de idade, pianista, com múltiplos fatores de 
+risco cardiovasculares, chega na sala de emergência com 
+hemiparesia direita há 1 hora. NIHSS 0. Qual dos seguintes 
+déficits, não avaliados no NIHSS, pode indicar trombólise 
+nessa paciente? 
+ 
+(A) Fraqueza em mão. 
+(B) Disartria. 
+(C) Componente espacial de heminegligência. 
+(D) Ataxia de membros. 
+##### 
+ 
+{03} 
+Mulher, 83 anos de idade, procura atendimento por quadro de 
+fechamento ocular involuntário há cerca de 20 anos, em piora 
+progressiva, acompanhado de movimentos incessantes de 
+mastigação e movimentação de língua. Relata dificuldade de 
+enxergar em períodos do dia por conta de fechamento ocular, 
+já tendo levado a quedas. Nega prejuízo de alimentação. Sem 
+comorbidades ou uso de medicações ao longo de toda sua 
+vida. Sobre o diagnóstico, etiologia e tratamento adequado, 
+assinale a alternativa correta. 
+ 
+(A) Os movimentos em face sugerem blefaroespasmo, de 
+etiologia comumente genética, esperando-se controle com 
+antipsicóticos, benzodiazepínicos, ou anticolinérgicos, 
+entre outros. 
+(B) O quadro de distonia oromandibular sugere a etiologia 
+iatrogênica, deve-se iniciar clozapina ou quetiapina em 
+altas doses ou inibidor de vmat-2 para melhora clínica. 
+(C) O diagnóstico correto é de uma distonia segmentar, sendo 
+o gene mais frequentemente alterado nesse quadro o 
+TOR1A, e o tratamento mais adequado para a paciente é 
+a estimulação cerebelar profundar de núcleo globo pálido 
+interno.. 
+(D) A combinação de movimentos faz o diagnóstico adequado 
+ser síndrome de Meige, na maior parte dos casos 
+idiopática, e o tratamento mais eficaz para a paciente, em 
+geral, envolve a toxina botulínica. 
+##### 
+ 
+ 
+ 
+{04} 
+Homem, 48 anos de idade, ensino médio completo, 
+encaminhado por queixa de dificuldades de memória no 
+último 
+ano. 
+Perdeu 
+o 
+emprego, 
+recentemente, 
+em 
+supermercado por não conseguir reter instruções passadas 
+pelo supervisor, e passou a ter dificuldades em operar o caixa 
+após troca de sistema. Adicionalmente, relata quadro de 
+depressão grave com diagnóstico há 3 anos, relacionando, 
+tanto com o fim de um relacionamento na época, quanto ao 
+falecimento do pai por doença neurológica grave, segundo o 
+paciente sem diagnóstico, mas com grave quadro demencial 
+e com movimentação ampla e contínua de membros. Tem 
+quatro irmãos mais novos assintomáticos, não possui filhos, e 
+não tem conhecimento de outras doenças na família. Ao 
+exame neurológico: quadro predominantemente disexecutivo 
+associado a movimentos coreicos discretos em mãos e face, 
+incluindo fronte. Considerando a doença mais provável nesse 
+contexto clínico, assinale a alternativa correta. 
+ 
+(A) É uma doença causada por expansão CCG no 
+cromossomo quatro, e o paciente provavelmente tem entre 
+10 e 40 repetições. 
+(B) O tratamento sintomático motor objetiva atenuar os 
+movimentos coreicos com uso de antipsicóticos como 
+haldol ou olanzapina. 
+(C) Estudo de imagem mostra predomínio de atrofia em córtex 
+frontal, mesencéfalo e ponte. 
+(D) É esperada a presença de acantócitos no sangue, se 
+confirmada a hipótese mais prevalente. 
+##### 
+ 
+{05} 
+Homem, 27 anos de idade, previamente saudável, é trazido à 
+emergência com febre alta há 2 dias, cefaleia intensa e 
+sonolência progressiva. Ao exame neurológico, apresenta-se 
+sonolento, responde com palavras inadequadas e localiza 
+estímulos dolorosos (GCS 11), rigidez de nuca. Exame motor, 
+de nervos cranianos e fundo de olho, sem alterações. Nenhum 
+episódio convulsivo foi relatado, e não há história de 
+imunossupressão. Com base nas diretrizes de 2025 da OMS 
+sobre o manejo da meningite aguda, em relação à indicação 
+de neuroimagem antes da punção lombar, pode-se afirmar: 
+ 
+(A) Tomografia de crânio deve sempre ser realizada antes da 
+punção lombar em suspeitas de meningite. 
+(B) A tomografia deve ser realizada, pois o paciente apresenta 
+suspeita de meningite com rebaixamento de consciência. 
+(C) A punção lombar deve ser realizada sem necessidade de 
+neuroimagem, pois o paciente não apresenta critérios 
+como déficit focal, papiledema, imunossupressão ou 
+crises convulsivas recentes, ou rebaixamento grave de 
+consciência com GCS < 10. 
+(D) Depende da facilidade de acesso à neuroimagem no 
+serviço. Em um serviço com fácil acesso, a tomografia 
+computadorizada deve ser realizada se GCS < 15. Em 
+áreas remotas ou com acesso limitado à neuroimagem, a 
+tomografia é imperativa quando GCS < 8. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Neurologia – PROVA AA9 
+{06} 
+Homem, 60 anos de idade, sem comorbidades. Na 
+madrugada, foi levado ao pronto-socorro após um primeiro 
+episódio sugestivo de crise epiléptica, durante o sono, 
+descrito pela sua esposa como “abalos nos quatro membros”, 
+com supraversão ocular e mordedura na lateral da língua, 
+duração aproximada de 2 minutos e quadro confusional pós- 
+ictal. Na admissão, apresentava recuperação plena, sem 
+déficits neurológicos. A investigação com TC de crânio 
+mostrou uma lesão lacunar na região nucleocapsular direita e 
+a 
+investigação 
+laboratorial 
+não 
+mostrou 
+alterações 
+eletrolíticas, metabólicas ou infecciosas. Em relação ao caso 
+apresentado e à avaliação do risco de recorrência de crise, 
+assinale a alternativa correta. 
+ 
+(A) O paciente não apresenta achados que sugiram risco 
+aumentado de recorrência de crise. 
+(B) O paciente apresenta um achado associado ao risco 
+aumentado de recorrência de crise (crise durante o sono). 
+(C) O paciente apresenta lesão estrutural de risco para 
+recorrência 
+de 
+crise 
+(lesão 
+lacunar 
+em 
+região 
+nucleocapsular direita). 
+(D) Sem a realização de um EEG e uma RM de crânio, não é 
+possível afirmar o risco de recorrência de crise. 
+##### 
+ 
+{07} 
+Homem, 70 anos de idade, procurou o pronto-socorro por 
+vertigem, desde que acordou, há cerca de 4 horas. Ao chegar 
+ao hospital, melhorou. Assinale a alternativa que apresenta o 
+paciente, com essa mesma história, que tem maior chance de 
+ter apresentado um AIT. 
+ 
+(A) Paciente diabético, com zumbido e hipoacusia unilateral 
+há algum tempo. 
+(B) Paciente que apresentou diversos episódios de vertigem 
+hoje ao estender e fletir o pescoço. 
+(C) Paciente com dor crânio cervical, que apresentou 
+formigamento em hemiface hoje pela manhã. 
+(D) Paciente vivendo com HIV, que apresentou 5 episódios de 
+vertigem em uma semana. 
+##### 
+ 
+{08} 
+Criança, 6 meses de vida, com fraqueza muscular iniciada 
+após 3 meses de vida, evoluindo com dificuldade respiratória 
+rapidamente progressiva. Ao exame, apresenta hipotonia 
+generalizada, presença de respiração paradoxal, reflexos 
+tendinosos abolidos, presença de fasciculações em língua. 
+Sobre 
+a 
+investigação 
+diagnóstica 
+desta 
+criança 
+e 
+considerando a principal hipótese diagnóstica, assinale a 
+alternativa correta. 
+ 
+(A) A 
+biópsia 
+muscular 
+provavelmente 
+demonstra 
+grupamentos de tipo de fibras, áreas de atrofias 
+agrupadas, e fibras em alvo, e deve ser solicitada neste 
+caso. 
+(B) A técnica de MLPA (Multiplex-Ligation-dependent Probe 
+Amplification) é o método de escolha para o diagnóstico 
+molecular neste caso. 
+(C) A dosagem de CPK é determinante para estabelecer o 
+diagnóstico.   
+(D) A eletroneuromiografia é o exame mais indicado para 
+seguir a investigação neste momento. 
+##### 
+ 
+{09} 
+Mulher, 25 anos de idade, iniciou fraqueza muscular proximal 
+há 6 meses, com dificuldade de se levantar e subir escadas, 
+além de cabeça caída. Ao exame apresenta tetraparesia  
+grau 4, rash malar, em cotovelos, joelhos e lateral da coxa. 
+Dosagem de CPK 108 U/L e aldolase 12,1 U/L. Em relação ao 
+caso descrito, assinale a alternativa que apresenta o 
+diagnóstico mais provável e a melhor forma de investigação 
+neste momento. 
+ 
+(A) Polimiosite; solicitar biópsia muscular. 
+(B) Polimiosite; 
+solicitar 
+eletroneuromiografia 
+e 
+biópsia 
+muscular. 
+(C) Dermatomiosite amiopática; solicitar eletroneuromiografia 
+e biópsia muscular. 
+(D) Dermatomiosite; solicitar exame de imagem muscular (RM) 
+e painel de anticopos para miosite. 
+##### 
+ 
+{10} 
+Mulher, 51 anos de idade, refere que há cerca de três anos 
+apresenta dificuldade para adormecer, com latência referida 
+de 50 minutos, associada a despertares frequentes, cerca de 
+cinco por noite, com demora de aproximadamente 10 a 15 
+minutos para retomar o sono. Não sabe referir sobre ronco, 
+porque mora só. Refere sonolência excessiva diurna com  
+10 pontos na escala de sonolência de Epworth. Noctúria 
+associada. Refere que o quadro começou na vigência de um 
+episódio depressivo que foi tratado com o uso de fluoxetina  
+20 mg/dia, suspensa há um ano após melhora dos sintomas 
+de humor. Neste período, teve ganho de peso, cerca de 12 kg 
+e refere dificuldade para recuperar seu peso anterior. Peso de 
+85 kg, altura de 1,63 m, IMC de 32 kg/m2, Malampati III, 
+circunferência cervical 38 cm. Com base nestas informações, 
+qual hipótese diagnóstica pode ser elaborada? 
+ 
+(A) Comorbidade insônia - apneia obstrutiva do sono.  
+(B) Transtorno de ansiedade generalizada associada à insônia  
+(C) Apneia obstrutiva do sono comórbida a transtorno afetivo 
+bipolar. 
+(D) Insônia secundária à síndrome das pernas inquietas, 
+associada ao uso de antidepressivo. 
+##### 
+ 
+{11} 
+Mulher, 62 anos de idade, professora aposentada, é trazida 
+ao consultório por dificuldade progressiva na linguagem há 
+cerca de 2 anos. Refere pausas frequentes para encontrar 
+palavras, apesar de manter compreensão preservada para 
+sentenças simples. Ao exame: linguagem com hesitações e 
+dificuldade em encontrar palavras e dificuldade para repetir 
+frases longas, mantendo definição de palavras e elementos de 
+ligação e conexão entre vocábulos adequados.  Qual a área 
+principal de hipometabolismo em PET-FDG, e a mais 
+frequente 
+proteinopatia 
+associada 
+ao 
+diagnóstico 
+da 
+paciente? 
+ 
+(A) Temporal; TDP-43. 
+(B) Frontoinsular ; tau. 
+(C) Temporo-parietal; β-amiloide. 
+(D) Temporo-parietal; tau. 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Neurologia – PROVA AA9 
+{12} 
+Os sintomas não-motores são prevalentes na doença de 
+Parkinson e sua frequência aumenta com o decorrer da 
+doença. Alguns podem preceder o início dos sintomas 
+motores, 
+sendo 
+chamados 
+de 
+sintomas 
+não-motores 
+prodrômicos. Outros são mais característicos de uma fase 
+mais tardia na doença e tornam-se causas importantes de 
+institucionalização. Sobre os sintomas não-motores da doença 
+de Parkinson, assinale a alternativa correta. 
+ 
+(A) Os sintomas neuropsiquiátricos como delírios, alucinações 
+e ilusões visuais são apenas encontrados na fase 
+moderada a avançada da doença.  
+(B) Os principais sintomas não-motores prodrômicos são 
+constipação, transtorno comportamental do sono REM, 
+depressão e hiposmia.  
+(C) A disautonomia na doença de Parkinson costuma ser leve 
+e não impacta desfechos cognitivos.  
+(D) O comprometimento cognitivo leve é praticamente 
+exclusivo da fase moderada a avançada, e se caracteriza, 
+principalmente, por dificuldades de memória e disfunção 
+executiva.  
+##### 
+ 
+{13} 
+Homem, 65 anos de idade, destro, iniciou quadro de alteração 
+na fala há 18 meses. Sua esposa descrevia que o paciente 
+apresentava “gagueira”, dificuldade para encontrar as 
+palavras, seu vocabulário parecia estar “empobrecido”. 
+Associadamente, o paciente também estava mais lento e 
+rígido. Ao exame neurológico somático, parkinsonismo rígido-
+acinético assimétrico, pior à direita, com rigidez e distonia em 
+membro superior direito, e na motricidade ocular observava-
+se lentificação de sacadas verticais, pior para baixo. 
+Ressonância de encéfalo: atrofia assimétrica de predomínio 
+em regiões frontal e parietal à esquerda, sem outras 
+alterações 
+isquêmicas, 
+neoplásicas 
+ou 
+inflamatórias. 
+Considerando o caso descrito, assinale a alternativa correta. 
+ 
+(A) Apesar da alteração de linguagem, a doença de Parkinson 
+é o diagnóstico mais provável.  
+(B) A presença de alterações de linguagem torna o 
+diagnóstico de um parkinsonismo atípico como a paralisia 
+supranuclear progressiva improvável.  
+(C) O diagnóstico patológico mais provável neste caso é a 
+degeneração corticobasal, tendo em vista que a 
+apresentação foi assimétrica.  
+(D) O caso, possivelmente, refere-se a uma taupatia da 
+isoforma 4R, sendo impossível distinguir com certeza se há 
+uma paralisia supranuclear progressiva ou degeneração 
+corticobasal subjacente. 
+##### 
+ 
+{14} 
+Em relação ao exame de Eletroencefalograma (EEG), é correto 
+afirmar: 
+ 
+(A) Diferentes tipos de epilepsia têm alterações epileptiformes 
+patognomônicas. 
+(B) A incidência de alterações epileptiformes em pessoas sem 
+epilepsia varia com a idade e comorbidades. 
+(C) A presença de descargas epileptiformes no EEG não é um 
+critério associado ao risco de recorrência após uma 
+primeira crise não provocada. 
+(D) Atividade delta rítmica na região temporal é específica da 
+epilepsia do lobo temporal mesial. ##### 
+{15} 
+Homem, 58 anos de idade, diagnóstico de epilepsia focal 
+sintomática por traumatismo cranioencefálico, em uso regular 
+de lamotrigina, em dose otimizada, sem controle adequado de 
+crises. Sugere-se associar ácido valproico ao esquema 
+medicamentoso. Assinale a alternativa que descreve a 
+interação entre essas duas medicações. 
+ 
+(A) A lamotrigina aumenta significativamente a meia-vida do 
+ácido valpróico. 
+(B) O ácido valpróico diminui significativamente a meia-vida 
+da lamotrigina. 
+(C) O ácido valpróico aumenta significativamente a meia-vida 
+da lamotrigina. 
+(D) A lamotrigina diminui significativamente a meia-vida do 
+ácido valpróico. 
+##### 
+ 
+{16} 
+Mulher, 20 anos de idade, apresenta episódios de crise 
+epiléptica, caracterizados por desvio do olhar conjugado para 
+esquerda, seguido de versão cefálica para esquerda, postura 
+tônica de rotação externa e abdução do ombro e extensão do 
+braço esquerdos, flexão do braço direito junto ao corpo. Os 
+eventos duram cerca de 40 segundos e ocorrem várias vezes 
+durante o dia. Assinale a alternativa que apresenta a origem 
+mais provável das crises epilépticas. 
+ 
+(A) Lobo parietal esquerdo. 
+(B) Lobo parietal direito. 
+(C) Área motora suplementar esquerda. 
+(D) Área motora suplementar direita. 
+##### 
+ 
+{17} 
+Em relação à ataxia de Friedreich, são achados, diagnóstico 
+diferencial e a forma de diagnosticar a doença: 
+ 
+(A) Ataxia mista (sensitiva profunda maior que cerebelar) com 
+reflexos miotáticos fasicos abolidos, cutâneo-plantar em 
+extensão e grave hipopalestsia com degradê distal. 
+Diferencial: abetalipoproteinemia e ataxia por deficiência 
+de vitamina E. Diagnóstico molecular por exoma com 
+leituras curtas (NGS). 
+(B) Ataxia mista (cerebelar pior que sensitiva profunda), 
+reflexos miotáticos fasicos vivos e cutâneo-plantar em 
+flexão bilateralmente. Diferencial: ataxia espinocerebelar 
+tipo 3 e tipo 5. Diagnóstico molecular por NGS (exoma). 
+(C) Ataxia mista (sensitiva profunda maior que cerebelar) com 
+reflexos miotáticos fasicos abolidos, cutâneo-plantar em 
+extensão e grave hipopalestsia com degradê distal. 
+Diferencial: abetalipoproteinemia e ataxia por deficiência 
+de vitamina E. Diagnóstico molecular por PCR (busca da 
+expansão) no gene FXN. 
+(D) Ataxia mista (cerebelar em mesmo nível que sensitiva 
+profunda), reflexos miotáticos fasicos normais e cutâneo-
+plantar 
+em 
+extensão. 
+Diferencial 
+com 
+Refsum 
+e 
+adrenoleucodistrofia ligada ao X. Diagnóstico molecular 
+por PCR (busca da expansão) no gene FXN. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Neurologia – PROVA AA9 
+{18} 
+A RM a seguir evidencia uma alteração classicamente muito 
+relacionada a dois tipos de paraplegia espástica hereditária: 
+SPG11 e SPG 15.  
+ 
+ 
+ 
+Em relação à imagem apresentada, qual é o achado 
+radiológico? 
+ 
+(A) Sinal do Girino. 
+(B) Sinal da Orelha de Lince. 
+(C) Sinal do Panda Japonês. 
+(D) Sinal da Borboleta. 
+##### 
+ 
+{19} 
+Mulher, 35 anos de idade, com antecedente de neuromielite 
+óptica anti-AQP4 positivo em uso de azatioprina, busca o 
+pronto atendimento por perda visual em olho direito, indolor há 
+3 dias. Apresenta acuidade visual 20/800, com defeito pupilar 
+aferente relativo no olho direito. Em relação ao tratamento do 
+surto da doença, é correto afirmar: 
+ 
+(A) Deve-se iniciar pulsoterapia e, após quinto dia, na 
+ausência de resposta a corticoide, deve-se indicar 
+plasmaférese por 3 a 5 sessões. 
+(B) Caso seja indicada plasmaferese, deve-se passar cateter 
+venoso central, dado que o procedimento não pode ser 
+feiro por acesso venoso periférico.  
+(C) Pode-se esperar a ressonância de órbita para definir 
+imunoterapia, porque o atraso de até 5 dias não impacta 
+no prognóstico de recuperação funcional.  
+(D) Pulsoterapia e plasmaferese devem ser iniciadas, 
+simultaneamente, nesse caso. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+{20} 
+Mulher, 36 anos de idade, faz seguimento por esclerose 
+múltipla, com uso prévio de fumarato de dimetila, fingolimode 
+e natalizumabe, está em programação de realização da 
+medicação alentuzumabe. Sobre o uso de alentuzumabe em 
+pacientes com esclerose múltipla, é correto afirmar: 
+ 
+(A) O alentuzumabe deve ser prescrito com terapia 
+antimicrobiana profilática para evitar infeção viral grave no 
+contexto de linfopenia.  
+(B) O alentuzumabe exige monitoramento mensal de exames 
+de sangue e urina, para avaliar lesão renal, tireodeana e 
+hematológica por um ano após a última dose.  
+(C) O número máximo de doses de alentuzumabe são duas 
+doses, sendo que após o paciente deve ficar sem 
+imunossupressor e em observação por anos.  
+(D) Alentuzumabe é uma droga anti-CD68, com ampla 
+depleção de linfócitos e macrófagos. 
+##### 
+ 
+{21} 
+Mulher, 42 anos de idade, apresentou primeiro episódio de 
+vertigem durante aula de Pilates e agora tem vertigem 
+desencadeada por alguns movimentos, como virar na cama, 
+pegar objetos em armário alto da cozinha, amarrar os sapatos. 
+Quais as características do nistagmo esperado na pr 
+ 
+(A) Horizonto rotatório que não muda de direção, que piora 
+quando a paciente olha na direção da fase rápida. 
+(B) Horizontal, ausente na posição primária e evocado pelo 
+olhar para ambos os lados. 
+(C) Vertical para cima com componente torcional, que 
+aumenta e diminui sua intensidade até sumir em menos de 
+um minuto. 
+(D) Vertical para baixo que piora durante manobra de Dix-
+Hallpike. 
+##### 
+ 
+{22} 
+Mulher, 33 anos de idade, há cerca de 6 meses, apresenta 
+episódios de vertigem aproximadamente 1x por mês, sempre 
+no período menstrual, com duração de várias horas. Durante 
+as crises, faz uso de dimenidrinato, com alguma melhora. Nos 
+episódios, apresenta também fotofobia e fonofobia. Não 
+costuma ter cefaleia, raramente apresenta dor holocraniana, 
+mais ao final do dia, sem foto ou fonofobia, sem náuseas ou 
+vômitos. Avaliada fora da crise, seu exame físico é normal. Em 
+relação ao caso descrito, assinale a alternativa correta. 
+ 
+(A) A hipótese de migrânea vestibular é remota, pois a 
+paciente não tem cefaleia migranosa. 
+(B) O exame físico normal diminui a probabilidade da paciente 
+apresentar patologia vestibular e sugere causas clínicas 
+para a tontura.  
+(C) Provavelmente, trata-se de patologia vestibular periférica 
+e deve-se solicitar exames otoneurológicos para melhor 
+avaliação. 
+(D) A paciente deve ser orientada e avaliada quanto à 
+necessidade de profilaxia para migrânea e de ajuste no 
+tratamento de resgate. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Neurologia – PROVA AA9 
+{23} 
+São pistas clínicas para o diagnóstico de AME (Atrofia 
+Muscular Espinhal) forma intermediária, ou tipo II: 
+ 
+(A) Atraso de marcos motores desde o nascimento. 
+(B) Sinal de Gowers. 
+(C) Espinha rígida sem escoliose. 
+(D) Fraqueza proximal e polimioclonias. 
+##### 
+ 
+{24} 
+Sobre o manejo da ventilação e da deglutição na ELA 
+(Esclerose Lateral Amiotrófica), é correto afirmar: 
+ 
+(A) Perda de peso de mais de 10% do peso prévio não indica 
+isoladamente uso de gastrostomia na ELA. 
+(B) Caso paciente tenha CVF (capacidade vital forçada) 
+menor que 80%, ou dessaturação na oximetria noturna, 
+está indicada ventilação não invasiva com aparelho de 
+CPAP. 
+(C) O uso de aparelho de tosse assistida é contra-indicado na 
+ELA, pelo risco de broncoaspiração. 
+(D) Gastrostomia endoscópica pode ser realizada com relativa 
+segurança após uma avaliação da função ventilatória e 
+CVF maior que 50%. 
+##### 
+ 
+{25} 
+Homem, 58 anos de idade, em investigação de Síndrome 
+Parkinsoniana. Há cerca de 1 ano, apresenta sono referido 
+como agitado. Familiares referem que o paciente faz 
+movimentos amplos e violentos em algumas noites, já tendo 
+caído da cama nesse contexto. Há relato de pesadelos pelo 
+paciente, geralmente com conteúdo violento. Negam roncos 
+ou pausas respiratórias observadas por familiares. Nega 
+sonolência excessiva diurna. Ao exame físico, apresenta IMC 
+24, Mallampati 1, bradicinesia pior à direita com rigidez 1+/4+, 
+tremor de repouso em membros superiores, melhor na postura 
+e ação. Atualmente faz uso de: AAS 100 mg/dia; atorvastatina 
+20 mg/dia; pramipexol 0.25 mg 8/8h; escitalopram 10 mg/dia; 
+metoprolol 50 mg 12/12h. Qual a principal suspeita 
+diagnóstica frente ao quadro apresentado?  
+ 
+(A) Parassonia REM. 
+(B) Apneia obstrutiva do sono. 
+(C) Parassonia NREM. 
+(D) Síndrome das pernas inquietas 
+##### 
+ 
+{26} 
+Homem, 45 anos de idade, com histórico de epilepsia de difícil 
+controle, é admitido no pronto-socorro em estado de mal 
+epiléptico convulsivo, há mais de 30 minutos, sem resposta a 
+duas doses de benzodiazepínicos e uma dose de fenitoína  
+(20 mg/kg). Segundo os protocolos atuais (Guidelines 
+Neurocritical Care Society e ILAE), o próximo passo adequado 
+na conduta neurológica é: 
+ 
+(A) Administrar nova dose de diazepam intravenoso. 
+(B) Iniciar infusão contínua de midazolam ou propofol com 
+monitorização intensiva. 
+(C) Realizar intubação profilática e aguardar resolução 
+espontânea. 
+(D) Repetir a dose de fenitoína intravenosa. ##### 
+{27} 
+Homem, superior completo, dominância manual direita. Há  
+2 anos, iniciou quadro de tremor de repouso em MSD, 
+evoluindo após alguns meses para o MSE. A esposa 
+caracteriza que o mesmo ocorre, preferencialmente, após 
+manter os braços suspensos, sentado no sofá com os braços 
+sobre as coxas e ao deambular. Não apresenta quedas, 
+entretanto encontra-se com raciocínio e movimentação algo 
+lentificados. TC de crânio e exames laboratoriais sem 
+alterações. Há 1 ano, piora significativa da atenção e memória, 
+com episódios eventuais de alucinação visual complexa 
+(visualiza pessoas e bichos, principalmente à noite), sem 
+crítica ou agitação. Não se encontra deprimido, mas está 
+apático. Ao exame neurológico, vigil, desatento, bradicinesia 
+assimétrica pior à direita, sem tremor ou rigidez, marcha 
+lentificada com passos curtos, virada em bloco e pull test com 
+tendência à queda, hipomimia facial, fala monotônica e 
+micrografia. Coordenação, motricidade ocular extrínseca e 
+exame dos outros pares cranianos sem alterações. Realizado 
+MoCA com pontuação de 21/30. Em relação ao caso descrito, 
+assinale a alternativa correta. 
+ 
+(A) Para confirmação diagnóstica e tratamento adequado, é 
+necessária realização de RM de crânio de alta resolução 
+(3-Tesla).  
+(B) O biperideno pode auxiliar no controle do tremor, sendo 
+medicamento 
+com 
+boa 
+tolerabilidade 
+neste 
+caso 
+específico. 
+(C) O paciente poderia beneficiar-se de forma significativa 
+pela introdução dos inibidores da acetilcolinesterase 
+(donepezila, rivastigmina ou galantamina). 
+(D) Pelos sintomas de alucinação visual, deve-se iniciar o 
+tratamento 
+com 
+medicação 
+antipsicótica, 
+como 
+risperidona. 
+##### 
+ 
+{28} 
+Homem, 30 anos de idade, é admitido com quadro de 
+piscamentos de difícil controle, para o qual nunca buscou 
+atendimento. Relata que, desde por volta dos 6 anos de idade, 
+tem piscamentos que costumavam ser muito piores, 
+lembrando que era frequentemente retirado de sala de aula 
+por não conseguir controlar estalos de língua, movimento de 
+ombros ou sons de garganta. Relata que na infância foi 
+formalizado diagnóstico de ansiedade e de déficit de atenção, 
+com uso de metilfenidato até os 20 anos de idade. Em relação 
+à doença, qual a hipótese mais correta? 
+ 
+(A) Os movimentos podem persistir durante o sono, e caso 
+haja interesse em tratamento medicamentoso, clonidina 
+seria uma opção indicada. 
+(B) Os movimentos provavelmente podem ser suprimidos, e 
+antipsicóticos seriam a melhor opção inicial. 
+(C) Um quadro funcional deve ser a principal hipótese dada 
+as comorbidades psiquiátricas, devendo ser realizada 
+psicoterapia. 
+(D) Blefaroespasmo é a principal suspeita sendo uma distonia 
+de início na infância, com toxina botulínica ou DBS como 
+opções indicadas para o caso. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Neurologia – PROVA AA9 
+{29} 
+Analise o laudo de um exoma solicitado para um paciente com 
+forte 
+suspeita 
+de 
+paraplegia 
+espástica 
+hereditária 
+apresentado a seguir. O paciente tem história familiar de 
+consanguinidade parental, é o terceiro filho de uma prole  
+de 5, apenas ele comprometido, iniciado com dificuldade de 
+marcha ao redor dos 8 anos, em caráter progressivo, hoje, aos 
+19 anos, restrito em cadeira de rodas. Laudo: Encontrado uma 
+Variante de Significado Incerto - VUS (de acordo com a 
+classificação ACMG), em heterozigose, no gene CAPN1, 
+responsável 
+pela 
+SPG76, 
+condição 
+geneticamente 
+determinada autossômica recessiva. Nenhum outro achado 
+relevante. Em relação ao laudo apresentado, é correto afirmar: 
+ 
+(A) Confirma o diagnóstico do paciente em questão. Ele deve 
+ser 
+encaminhado 
+para 
+geneticista 
+para 
+realizar 
+aconselhamento genético e tratamento sintomático deve 
+ser iniciado. 
+(B) Pode confirmar a hipótese de paraplegia espástica 
+hereditária no paciente em questão, contudo, por se tratar 
+de variante de significado incerto, o estudo de segregação 
+deve ser realizado. 
+(C) O paciente em questão permanece sem diagnóstico, pois 
+foi encontrada apenas uma variante em um único alelo, o 
+que não é suficiente para determinar tal condição (SPG76). 
+(D) A VUS encontrada deve ser melhor avaliada à luz de 
+frequência populacional, preditores in silico e preservação 
+entre as espécies, a fim de ser ou não valorizada para o 
+diagnóstico do paciente. 
+##### 
+ 
+{30} 
+Mulher, 71 anos de idade, nível educacional superior 
+incompleto, destra e sem comorbidades relatadas. Há  
+14 meses, quadro de dificuldade em deambulação. Apresenta 
+dificuldade em levantar-se da cadeira, assim como iniciar a 
+marcha, que é caracterizada por passos curtos, base 
+ligeiramente alargada, dificuldade em mudança de direção e 
+certa 
+lentificação. 
+Acompanhantes 
+referem 
+raciocínio 
+lentificado, 
+desatenção 
+e 
+memória 
+de 
+curto 
+prazo 
+prejudicada. Paciente diz que quando tem vontade de urinar, 
+tem que ir rápido ao banheiro para “não perder urina nas 
+calças”, fato que já ocorreu algumas poucas vezes. Ao exame 
+neurológico, observa-se marcha semelhante ao descrito pela 
+família. A RM de crânio apresenta uma ventriculomegalia 
+bilateral simétrica e um achatamento dos sulcos corticais em 
+alta convexidade. Em relação ao caso descrito, assinale a 
+alternativa que apresenta o provável diagnóstico. 
+ 
+(A) Uma melhora no tempo total no Timed Up and Go (TUG) 
+acima de 10% após a realização do tap teste não é 
+significativa, sendo necessário pelo menos 30% para 
+considerar o resultado positivo. 
+(B) Caso o paciente seja submetido ao tratamento pertinente, 
+é muito provável que ocorra melhora da incontinência e 
+urgência urinária. 
+(C) O paciente não se beneficiaria de fisioterapia motora e 
+atividades de estímulo cognitivo pela alteração anatômica 
+observada no exame de RM de crânio. 
+(D) Mesmo com um tap teste negativo, em caso de sintomas 
+típicos e neuroimagem compatível, excluindo-se outras 
+causas, é possível indicar tratamento cirúrgico para a 
+patologia diagnóstica do caso descrito. 
+##### 
+ 
+ 
+ 
+ 
+{31} 
+Mulher, 60 anos de idade, hipertensa e obesidade grau I, 
+comparece à consulta ambulatorial por cefaleia nova há 6 
+meses, holocraniana, em aperto de leve à moderada 
+intensidade, que surge apenas durante a madrugada, 
+chegando a despertá-la. Ela nega náuseas, vômitos, fotofobia, 
+fonofobia, fenômenos trigêmino-autonômicos ou agitação 
+psicomotora. Desde o seu início, a dor ocorre quase todos os 
+dias da semana. Devido à dor, a paciente levanta-se da cama 
+e tenta tomar banho ou ler um livro, para se distrair, até que a 
+dor passe. Ela conta alívio modesto com uso de dipirona. A 
+dor tende a resolver-se completamente entre 30 e 60 minutos, 
+e após, a paciente retorna a dormir. Ela nega outros sintomas. 
+O exame neurológico é normal, incluindo o fundo de olho, no 
+qual nota-se pulso venoso presente. A paciente apresenta 
+uma ressonância magnética de crânio com angioressonância 
+magnética venosa intracraniana realizada há 2 meses, sem 
+alterações. Considerando a provável causa dos sintomas da 
+paciente, assinale a alternativa que apresenta o melhor 
+tratamento a ser administrado. 
+ 
+(A) Lítio. 
+(B) Mirtazapina. 
+(C) Verapamil. 
+(D) Acetozolamida 
+##### 
+ 
+{32} 
+Mulher, 40 anos de idade, antecedente de rinite alérgica. 
+Desde os 20 anos de idade, tem episódios recorrentes de 
+dores de cabeça. A dor é holocraniana, pulsátil, com 
+irradiação para a região cervical posterior. Os episódios de 
+dor têm duração de 4 a 12 horas, são de moderada a forte 
+intensidade, e vêm associados a intolerância à luz, cheiros e 
+sons, porém não há náuseas ou vômitos. Durante os episódios 
+de dor, a paciente prefere evitar qualquer tipo de atividade e 
+ficar deitada. Inicialmente, as dores ocorriam de 3 a 4 dias por 
+mês, habitualmente próximas ao período menstrual. No 
+entanto, houve aumento progressivo da frequência das 
+mesmas e, há 5 anos, as dores ocorrem cerca de 10 a 14 dias 
+por mês. A paciente faz uso de dispositivo intrauterino e não 
+tem pretensão de gestação. Ela nega uso prévio de 
+medicações de uso contínuo para o tratamento de suas dores 
+de cabeça. De acordo com as diretrizes atuais da Sociedade 
+Internacional de Cefaleia para tratamento farmacológico da 
+doença que provavelmente justifica os sintomas da paciente, 
+publicadas em 2025, assinale a alternativa que descreve 
+corretamente 
+um 
+tratamento 
+farmacológico 
+com 
+recomendação forte para esta paciente. 
+ 
+(A) Candesartana 16 mg/dia. 
+(B) Topiramato 100 mg/dia. 
+(C) Propranolol 160 mg/dia 
+(D) Onabotulinumtoxina A 155 a 195 UI intramuscular a cada 
+3 meses. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Neurologia – PROVA AA9 
+{33} 
+Em investigação de um paciente com AVCi foi detectado um 
+shunt direita-esquerda no ECOTT com microbolhas. Em qual 
+das seguintes situações haveria indicação de fechamento 
+percutâneo de um FOP? 
+ 
+(A) Paciente de 30 anos de idade, com grande passagem de 
+microbolhas no 5º ciclo. 
+(B) Paciente de 43 anos de idade, com shunt importante 
+direita-esquerda, com aneurisma de septo interatrial e 
+terceiro episódio de TVP espontânea. 
+(C) Paciente de 85 anos de idade, com aneurisma de septo e 
+passagem de mais de 40 microbolhas. 
+(D) Paciente de 58 anos de idade, com passagem de 25 
+microbolhas no segundo ciclo, com aneurisma de septo 
+interatrial. 
+##### 
+ 
+{34} 
+Mulher, 52 anos de idade, soropositiva para HTLV-1, com 
+diagnóstico confirmado de mielopatia associada ao HTLV-1 
+(HAM/TSP) há 5 anos. Os sintomas motores evoluíram nos três 
+primeiros anos com fraqueza progressiva e rigidez em 
+membros inferiores, e encontram-se estáveis nos últimos dois 
+anos. Há cerca de 2 anos, deambula com uso de muletas, tem 
+episódios ocasionais de urgência urinária e espasmos 
+dolorosos 
+nos 
+membros 
+inferiores, 
+controlados 
+com 
+baclofeno. Expanded Disability Status Scale (EDSS) de 6,0. 
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta a conduta mais apropriada. 
+ 
+(A) Pulsoterapia mensal com metilprednisolona para reduzir a 
+progressão da doença em paciente com grande perda 
+funcional. 
+(B) Tratamento de suporte e sintomático, pois a doença está 
+clinicamente estável. 
+(C) Início de metotrexato oral semanal como imunomodulador 
+de manutenção. 
+(D) Início de tenofovir oral para controle virológico 
+##### 
+ 
+{35} 
+Mulher, 22 anos de idade, está no segundo mês de tratamento 
+de trombose venosa cerebral de seio sagital superior com uso 
+de varfarina. Comparece no ambulatório com queixa de que 
+não está conseguindo manter o alvo do TP/INR e que tem 
+muita aversão a agulhas. Questiona se não há nenhum 
+tratamento medicamentoso que dispensa a coleta de exames 
+laboratoriais de forma rotineira. Sobre o uso de DOACs no 
+tratamento da trombose venosa cerebral, assinale a alternativa 
+correta. 
+ 
+(A) O último guideline da AHA/Stroke orienta que o DOAC 
+pode ser usado na fase aguda e como tratamento inicial 
+da TVC.  
+(B) O uso dos DOACs é respaldado por mais de um ensaio 
+clínico randomizado controlado por placebo.  
+(C) Os DOACs são uma boa opção no tratamento de 
+gestantes com TVC, já que a varfarina é contraindicação 
+absoluta devido ao seu risco teratogênico. 
+(D) Apesar de não existir a recomendação de um DOAC 
+específico, a dabigatrana foi o DOAC estudado no 
+principal ensaio clínico da área. 
+##### 
+ 
+ 
+{36} 
+Homem, 65 anos de idade, iniciou quadro de afasia súbita e 
+hemiparesia direita há 50 minutos, enquanto realizava um 
+exame diagnóstico no hospital. A tomografia de crânio sem 
+contraste mostra ausência de hemorragia e não há 
+contraindicações conhecidas à trombólise intravenosa. A 
+angiotomografia ainda não foi realizada, pois aguarda a 
+liberação do radiologista. O serviço conta com a equipe e o 
+setor de neurorradiologia intervencionista. Qual é a conduta 
+mais apropriada em relação à administração do trombolítico? 
+ 
+(A) Administrar a trombólise em dose reduzida, caso a 
+angiotomografia revele oclusão de grande vaso, para 
+diminuir o risco hemorrágico da trombectomia.  
+(B) Administrar a trombólise em dose plena imediatamente, 
+independentemente da presença de oclusão proximal ou 
+não. 
+(C) Decidir sobre a trombólise somente depois de estabelecer 
+se há oclusão proximal com indicação de trombectomia. 
+(D) Começar 
+imediatamente 
+a 
+trombólise. 
+Se 
+a 
+angiotomografia mostrar oclusão de grandes vasos, 
+suspender a trombólise e dar preferência para a realização 
+da trombectomia. 
+##### 
+ 
+{37} 
+Homem, 29 anos de idade, é admitido no pronto-socorro com 
+episódio de movimentos tônicos generalizados, com duração 
+de aproximadamente 10 minutos. Médico emergencista 
+responsável pelo transporte ao pronto atendimento relata que, 
+durante o episódio, o paciente mantinha os olhos fechados e 
+resistia à abertura ocular. Não houve cianose, nem perda de 
+controle esfincteriano. O EEG de emergência feito após o 
+episódio não mostra alterações ictais ou pós-ictais. O 
+diagnóstico mais provável é: 
+ 
+(A) Crise convulsiva disperceptiva tônica bilateral. 
+(B) Estado de mal não convulsivo. 
+(C) Evento não epiléptico psicogênico (CNEP). 
+(D) Síncope neurocardiogênica prolongada. 
+##### 
+ 
+{38} 
+Homem, 38 anos de idade, previamente hígido, é atendido por 
+uma primeira crise epiléptica não provocada, sem déficits 
+neurológicos pós-ictais. Exame clínico está normal, assim 
+como a glicemia capilar e os eletrólitos séricos. Não há febre, 
+nem 
+história 
+de 
+trauma 
+recente. 
+De 
+acordo 
+com 
+recomendações da American Academy of Neurology (AAN) e 
+diretrizes atuais, qual é a conduta mais adequada em relação 
+à neuroimagem na emergência? 
+ 
+(A) Solicitar TC de crânio de urgência e líquor se não houver 
+contraindicações na neuroimagem. 
+(B) Postergar neuroimagem para investigação ambulatorial 
+com RNM, colher exames gerais e provas infecciosas. 
+(C) Não realizar neuroimagem se o exame clínico for normal, 
+mas apenas exame de líquor. 
+(D) Iniciar antiepiléptico e realizar neuroimagem apenas em 
+caso de recorrência. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Anos Adicionais – Neurologia – PROVA AA9 
+{39} 
+Homem, 22 anos de idade, no pronto-socorro, refere que 
+iniciou com lombalgia, formigamento nos pés e fraqueza nas 
+pernas 
+há 
+3 
+dias, 
+com 
+envolvimento 
+dos 
+braços 
+posteriormente. Acha que os sintomas ainda estão piorando. 
+Refere que há 20 dias teve quadro gripal leve, sem 
+necessidade de uso de antibiótico. O exame clínico geral é 
+normal e o exame neurológico mostrou fraqueza muscular leve 
+em braços e, acentuada nas pernas, reflexos profundos vivos, 
+hipoestesia superficial nos pés e hipopalestesia em hálux 
+bilateralmente. 
+Marcha 
+independente, 
+com 
+algum 
+desequilíbrio. Em relação ao caso apresentado, é correto 
+afirmar: 
+ 
+(A) O diagnóstico mais provável é crise aguda de porfiria, 
+considerando a idade do paciente, a preservação de 
+reflexos e a presença precoce de dor (lombalgia). 
+(B) O paciente não precisa de tratamento imunomodulador e 
+deve ser mantido em observação por 48h, e então liberado 
+caso não haja comprometimento da marcha.  
+(C) O estudo eletrofisiológico, se realizado nesse momento, 
+definirá 
+o 
+substrato 
+lesional, 
+entre 
+axonal 
+ou 
+desmielinizante, na maioria dos casos, necessário para 
+definir o diagnóstico.  
+(D) O dano lesional pode ser axonal, desmielinizante ou 
+paranodal, necessitando de estudos eletrofisiológicos 
+seriados para a correta classificação diagnóstica. 
+##### 
+ 
+{40} 
+Mulher, 68 anos de idade, com antecedentes de acidente 
+vascular cerebral isquêmico, hipertensão arterial sistêmica, 
+doença renal crônica não dialítica, dislipidemia, tabagismo, 
+artrite reumatoide e diabetes melito. Há cerca de dois anos, 
+apresenta dificuldade para iniciar o sono, caracterizada por 
+sensação de desconforto que tem dificuldade para descrever. 
+Acontece sempre à noite, ao deitar para dormir e seu marido 
+passou a fazer massagens todas as noites em suas pernas 
+para aliviar o sintoma. Após alguns meses de tratamento com 
+um mesmo medicamento e aumento de dose gradual, a 
+paciente apresentou piora dos sintomas, que ficaram mais 
+intensos, acometendo coxas e genitália, e começam mais 
+cedo, logo no início da noite. Qual foi este medicamento e qual 
+a conduta proposta? 
+ 
+(A) Pregabalina. Sugere-se trocar por fluoxetina. 
+(B) Pregabalina. Sugere-se trocar por amitriptilina.  
+(C) Pramipexol. Sugere-se reduzir a dose ou trocar de 
+fármaco. 
+(D) Pramipexol. Sugere-se aumentar a dose ou associar 
+antidepressivo. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+ 
+ 
+ 
+
+
+--- PAGE 12 ---
+

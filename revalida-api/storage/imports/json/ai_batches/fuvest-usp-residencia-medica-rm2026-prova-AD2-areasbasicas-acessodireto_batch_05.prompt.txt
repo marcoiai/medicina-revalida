@@ -1,0 +1,415 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+ão neonatal. 
+ 
+(A) 
+ 
+ 
+(B) 
+ 
+ 
+(C) 
+ 
+ 
+ 
+(D) 
+ 
+ 
+ 
+#####
+
+
+--- PAGE 18 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{49} 
+Criança, sexo masculino, 6 anos de idade, portadora de asma 
+não controlada, foi admitida na unidade de emergência em 
+insuficiência respiratória devido à exacerbação asmática. O 
+paciente recebeu corticosteroide sistêmico, salbutamol 
+inalatório a cada 20 minutos por três vezes e sulfato de 
+magnésio. Teve melhora, apenas discreta, e agora está 
+recebendo β2-agonista endovenoso contínuo. Na evolução, o 
+monitor do paciente começou a sinalizar alteração dos sinais 
+vitais. As imagens a seguir apresentam os dados de 
+monitorização dos últimos cinco minutos (prévio) e o do 
+momento atual. 
+ 
+Prévio: 
+ 
+ 
+Atual: 
+ 
+ 
+Assinale 
+a 
+alternativa 
+que 
+ilustra, 
+corretamente, 
+o 
+procedimento de urgência a ser realizado no paciente 
+descrito. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+ 
+{50} 
+Homem, 30 anos de idade, queixa-se de abaulamento anal 
+associado a dor intensa, contínua e sangramento vivo. A 
+sintomatologia piora em todas as suas evacuações e ficou 
+ainda mais intensa há duas semanas. O hábito evacuatório era 
+de uma evacuação ao dia, fezes endurecidas, e passou a ser 
+de uma vez por semana devido a piora da dor Relata ter uma 
+“hemorroida/verruga” (sic), na borda anal, que parece ter 
+aumentado com o tempo. Informa relações sexuais com 
+parceiros do mesmo sexo, sem maiores detalhes. Ao exame 
+físico, observou-se a seguinte lesão: 
+ 
+ 
+ 
+Com base no relato do paciente e no exame físico 
+apresentado, assinale a alternativa que indica o diagnóstico 
+mais provável. 
+ 
+(A) Adenocarcinoma. 
+(B) Carcinoma espinocelular. 
+(C) Condiloma acuminado. 
+(D) Hemorroida interna grau IV. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 19 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{51} 
+Homem, 23 anos de idade, foi vítima de queda da motocicleta há 1 hora. No atendimento pré-hospitalar estava inconsciente, com 
+PA de 110×80 mmHg e FC de 90 bpm. Foi realizada intubação orotraqueal e encaminhamento para centro de trauma. Na admissão, 
+encontrava-se: 
+ 
+A: SpO2 de 97%; 
+B: Expansibilidade preservada e ausculta sem alterações; 
+C: PA de120×80 mmHg; FC de 94bpm; FAST positivo no espaço hepatorrenal e esplenorrenal; 
+D: Escala de Coma de Glasgow: 3T (sedado); 
+E: Deformidade na perna direita, sem sangramento. Realizada sondagem vesical com diurese clara. 
+ 
+Após o atendimento inicial, foi realizada tomografia de corpo inteiro. Na imagem a seguir, é possível observar a região do abdome 
+com os achados relevantes. 
+ 
+ 
+ 
+Diante da condição clínica do paciente e dos achados no exame de imagem, assinale a alternativa com a provável lesão e a melhor 
+conduta. 
+ 
+(A) Mesentério e laparotomia. 
+(B) Mesentério e tratamento não operatório. 
+(C) Fígado e laparotomia. 
+(D) Fígado e tratamento não operatório. 
+#####
+ 
+{52} 
+Mulher, 49 anos de idade, está no primeiro pós-operatório de 
+cirurgia 
+de 
+bypass 
+gástrico 
+para 
+obesidade 
+por 
+videolaparoscopia. Ao exame físico, encontra-se descorada, 
+com FC de 130 bpm, PA de 100×80 mmHg e FR de 23 irpm, 
+SpO2 de 94%; abdome flácido e indolor à palpação, exceto 
+nos locais das punções. Assinale a alternativa que apresenta 
+a principal hipótese diagnóstica. 
+ 
+(A) Hérnia interna. 
+(B) Atelectasia pulmonar. 
+(C) Deiscência da anastomose. 
+(D) Sangramento da anastomose. 
+##### 
+ 
+ 
+ 
+{53} 
+Lactente, 1 ano de idade, foi submetido à esofagocoloplastia 
+devido a atresia de esôfago. Após 24 horas de cirurgia, 
+apresenta-se gemente, com má perfusão periférica, oligúria e 
+débito vinhoso fétido pela gastrostomia. Ao exame físico, 
+apresenta FC de 190 bpm e PA de 70×40 mmHg. Saturação 
+de oxigênio não aferível. Murmúrios vesiculares reduzidos em 
+bases. Assinale a alternativa que apresenta a complicação 
+mais provável. 
+ 
+(A) Deiscência da anastomose. 
+(B) Pneumotórax hipertensivo. 
+(C) Perfuração de cólon. 
+(D) Necrose de cólon. 
+#####
+
+
+--- PAGE 20 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{54} 
+Homem, 73 anos de idade, refere alteração do hábito intestinal há 4 meses, com constipação e necessidade progressiva de 
+laxativos. Realizou colonoscopia que evidenciou lesão ulcerada no sigmoide intransponível ao aparelho. Procura o serviço de 
+emergência devido a dor abdominal em cólica, distensão e parada de evacuação há 5 dias. Ao exame físico, encontra-se em 
+regular estado geral, desidratado, abdome pouco distendido, fígado palpável até 4 cm abaixo do rebordo costal direito, doloroso 
+à palpação profunda, sem irritação peritoneal.  
+ 
+• Exames laboratoriais:  
+Hb: 10,8 g/dL 
+Ht: 30% 
+Ur: 43 mg/dL 
+Cr: 1,4 mgdL 
+Albumina: 3,3 mg/dL 
+ 
+Foi realizada a tomografia, com o resultado apresentado na imagem a seguir: 
+ 
+ 
+ 
+ 
+Diante da condição clínica do paciente e dos achados no exame de imagem, assinale a alternativa que apresenta a melhor conduta 
+neste momento. 
+ 
+(A) Retossigmoidectomia com linfadenectomia com anastomose. 
+(B) Retossigmoidectomia com linfadenectomia sem anastomose. 
+(C) Laparotomia exploradora com colostomia em alça. 
+(D) Laparotomia exploradora com ileostomia em alça. 
+#####
+ 
+{55} 
+Mulher, 67 anos de idade, notou lesão pigmentada na face 
+anterior da perna esquerda. Foi realizada biópsia excisional 
+que revelou tratar-se de melanoma com Breslow de 4,5 mm e 
+ulceração. Qual é o próximo passo na condução do caso? 
+ 
+(A) Ampliação de margens de 1 cm e pesquisa de linfonodo 
+sentinela. 
+(B) Ampliação de margens de 2 cm e pesquisa de linfonodo 
+sentinela. 
+(C) Ultrassom de região inguinal e ressonância de abdome 
+total. 
+(D) Tomografia de tórax, abdome superior e pelve com 
+contraste. 
+##### 
+ 
+ 
+{56} 
+Homem, 27 anos de idade, refere dor testicular à direita há 
+cerca de 15 dias, acompanhada de aumento de volume do 
+testículo e disúria leve. Nega trauma. Sem febre ou corrimento 
+uretral. Não tem parceira sexual fixa e usa preservativo 
+ocasionalmente. Foi realizado ultrassom Doppler de escroto 
+que evidenciou testículo direito aumentado, hipoecoico e 
+heterogêneo com aumento difuso da vascularização. Assinale 
+a alternativa que apresenta a melhor conduta. 
+ 
+(A) Ciprofloxacino e azitromicina por 5 dias. 
+(B) Ceftriaxona dose única e doxiciclina por 10 dias. 
+(C) PET-CT com FDG18, βHCG e alfa feto proteína. 
+(D) Tomografia de tórax e abdome, βHCG e alfa feto proteína. 
+##### 
+ 
+
+
+--- PAGE 21 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{57} 
+Mulher, 64 anos de idade, procura o serviço de emergência com distensão e dor abdominal em cólica há 24 horas, acompanhada 
+de vômitos em grande quantidade. Nega alteração do hábito intestinal antes do quadro agudo. Tem antecedente de 
+retossigmoidectomia por diverticulite aguda complicada com peritonite. Ao exame físico, encontra-se em bom estado geral, ausculta 
+torácica sem alterações, abdome com ruídos hidroaéreos aumentados, distendido, doloroso à palpação profunda e sem sinais de 
+irritação peritoneal. Assinale a alternativa que apresenta a tomografia esperada para esta paciente. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 22 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 03/2025 – PROVA AD2 
+{58} 
+Durante um checklist pré-operatório de retossigmoidectomia 
+para o tratamento de adenocarcinoma de cólon esquerdo, em 
+um paciente de 64 anos de idade com diabetes controlado, o 
+anestesista pergunta ao cirurgião qual é o antibiótico 
+preconizado neste momento. Qual é a melhor opção? 
+ 
+(A) Cefoxitina. 
+(B) Cefuroxima. 
+(C) Cefazolina. 
+(D) Ceftriaxona. 
+##### 
+ 
+{59} 
+Homem, 59 anos de idade, foi diagnosticado com 
+adenocarcinoma pancreático com indicação de quimioterapia 
+neoadjuvante. Relata perda de 10% do peso corpóreo. O peso 
+ideal é de 70 kg. Não possui comorbidades. Considerando o 
+suporte nutricional para tolerar o tratamento sistêmico e, 
+posteriormente, a operação de grande porte, assinale a 
+alternativa que apresenta as metas calórica e proteica 
+preconizadas. 
+ 
+(A) 2.000 calorias; 100 gramas de proteína. 
+(B) 2.000 calorias; 200 gramas de proteína. 
+(C) 3.000 calorias; 200 gramas de proteína. 
+(D) 3.000 calorias; 100 gramas de proteína. 
+##### 
+ 
+{60} 
+Homem, 45 anos de idade, submetido a gastroplastia em Y de 
+Roux para tratamento de obesidade há 2 anos, com perda de 
+40 kg. Em exame de rotina, foi feito o diagnóstico de colelitíase 
+e coledocolitíase. Assinale a alternativa que apresenta a melhor 
+sequência de tratamento. 
+ 
+(A) Colecistectomia e colangiografia transparietohepática. 
+(B) Colecistectomia e exploração cirúrgica do colédoco. 
+(C) Colangiografia endoscópica e colecistectomia laparoscópi-
+ca. 
+(D) Litotripsia extracorpórea e colecistectomia. 
+##### 
+ 
+{61} 
+Homem, 65 anos de idade, procura o serviço de emergência 
+com dor em fossa ilíaca esquerda há 6 dias, associada a 
+constipação, náuseas e hiporexia. Nega febre. Ao exame 
+físico, apresenta-se em bom estado geral, FC de 80 bpm, PA 
+de 130×80 mmHg, com dor à palpação profunda em fossa 
+ilíaca esquerda, sem sinais de irritação peritoneal. Exames 
+laboratoriais apresentaram 15.000/mm3 leucócitos e PCR de 
+180 mg/L. Foi realizada uma tomografia contrastada de 
+abdome, que evidenciou divertículos em cólon descendente e 
+sigmoide com densificação da gordura mesentérica e 
+presença de abscesso pericólico de 2 cm de diâmetro com 
+focos gasosos de permeio. Assinale a alternativa que 
+apresenta a melhor conduta neste momento. 
+ 
+(A) Antibioticoterapia. 
+(B) Colostomia em alça. 
+(C) Retossigmoidectomia. 
+(D) Drenagem percutânea. 
+##### 
+ 
+{62} 
+Homem, 28 anos de idade, vítima de atropelamento com 
+trauma do membro inferior esquerdo. Após 7 dias de 
+internação, observa-se lesão no membro acometido, sem 
+solução de continuidade com meio externo. Ao exame físico, 
+a escara cutânea está descolada da profundidade e 
+apresenta grande hematoma subcutâneo, sem perfusão 
+cutânea adequada, conforme imagem a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta o provável diagnóstico e 
+a conduta cirúrgica mais adequada. 
+ 
+(A) Fasceite necrotizante; Punção diagnóstica para colheita 
+de material para cultura, curativo oclusivo simples. 
+(B) Fasceite necrotizante; Incisão, drenagem de hematoma, 
+colheita de material para cultura e instalação de curativo 
+por pressão negativa. 
+(C) Ferimento 
+descolante 
+oculto; 
+Ressecção 
+da 
+pele 
+desvitalizada, limpeza cirúrgica e realização de curativo 
+por pressão negativa. 
+(D) Ferimento descolante oculto; Ressecção e enxertamento 
+da pele descolada, enxertia da pele emagrecida sobre o 
+leito cruento. 
+##### 
+ 
+{63} 
+Mulher, 40 anos de idade, procura o serviço de emergência 
+com dor lombar há 3 dias e aumento da intensidade nas 
+últimas 12h. No momento relata dor 10 em 10 e incapacidade 
+de trabalhar. Relata múltiplos episódios prévios semelhantes 
+em momentos de aumento da carga de trabalho. Tem 
+obesidade (IMC de 41 kg/m2), insônia e tabagismo de  
+20 anos-maço. Faz uso de benzodiazepínico para dormir. 
+Nega outras comorbidades. Ao exame físico, após analgesia, 
+apresenta dor localizada na região lombar, com irradiação 
+para o membro inferior direito, força motora e sensibilidade 
+dos 
+membros 
+inferiores 
+sem 
+alterações. 
+Qual 
+das 
+características apresentadas pela paciente representa fator 
+de risco para cronificação do episódio de dor lombar? 
+ 
+(A) Dor intensa gerando incapacidade funcional. 
+(B) Índice de massa corpórea maior que 35 kg/m2. 
+(C) Tabagismo com elevada carga tabágica. 
+(D) Insônia com uso de benzodiazepínico. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 23 ---
+
+Processo Seletivo aos Programas de Residência Médica – Áreas Básicas e de Acesso Direto – Edital COREME/FM Nº 

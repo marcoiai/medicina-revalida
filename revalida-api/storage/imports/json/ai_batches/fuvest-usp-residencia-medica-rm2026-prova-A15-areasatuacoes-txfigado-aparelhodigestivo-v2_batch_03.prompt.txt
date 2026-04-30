@@ -1,0 +1,172 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema e estilo. NÃO copie enunciados.
+Gere até 10 questões inéditas em JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  }
+]
+
+TEXTO-BASE:
+eceptor.
+(C) Uma 
+das 
+principais 
+vantagens 
+da 
+técnica 
+é 
+a
+possibilidade de se interromper a imunossupressão no
+futuro.
+(D) Atualmente no Brasil, é a única modalidade de transplante
+de fígado disponível para pacientes com hepatite alcóolica
+aguda.
+##### 
+{32} 
+A rejeição aguda do enxerto hepático é geralmente mediada 
+por qual tipo de resposta imune? 
+(A) Imunidade humoral.
+(B) Imunidade inata.
+(C) Resposta citotóxica celular.
+(D) Reação de hipersensibilidade tipo I.
+##### 
+{33} 
+Durante o implante de enxerto hepático proveniente de doador 
+falecido, qual a ordem de realização de anastomoses mais 
+comumente utilizada? 
+(A) Primeiro, a anastomose da via biliar, seguida da artéria, da
+veia porta e por fim da veia cava.
+(B) Primeiro, a anastomose da artéria, seguida da veia porta,
+da veia cava e por fim da via biliar.
+(C) Primeiro, a anastomose da veia porta, seguida da veia
+cava, da via biliar e por fim da artéria.
+(D) Primeiro, a anastomose da veia cava, seguida da veia
+porta, da artéria e por fim da via biliar.
+##### 
+{34} 
+Qual dos seguintes exames é o padrão-ouro para o 
+diagnóstico de rejeição aguda do enxerto hepático?  
+(A) Biópsia hepática percutânea.
+(B) Ressonância magnética do fígado.
+(C) Tomografia computadorizada do abdome.
+(D) Ultrassonografia com Doppler.
+##### 
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Áreas de Atuações – Trans. de Fígado – Cir. do Aparelho Digestivo – PROVA A15 
+{35} 
+Em relação às modalidades de transplante hepático no Brasil, 
+assinale a alternativa correta. 
+(A) Todo cidadão brasileiro é considerado por lei um potencial
+doador de órgãos. Assim, em caso de morte encefálica, a
+captação de órgãos sempre ocorrerá, a não ser que a
+família do paciente, ativamente, se mostre contra a
+doação.
+(B) Apesar de não autorizada de rotina no Brasil, a doação de
+órgãos após morte circulatória (DCD) pode ser realizada
+se o paciente tiver registrado uma autorização especial em
+cartório antes de falecer.
+(C) Para combater o trágico cenário de escassez de órgãos,
+segundo a legislação brasileira, qualquer pessoa maior de
+idade pode doar um órgão para outra pessoa, se assim o
+consentir, mesmo envolvendo interesses pecuniários.
+(D) A lista de espera para transplante de fígado é única,
+independentemente se o paciente pertence a um hospital
+público ou privado.
+##### 
+{36} 
+Assinale a alternativa correta sobre a reconstrução biliar do 
+enxerto hepático durante o transplante.  
+(A) A incidência de complicações biliares no transplante
+hepático inter vivos é a mesma que em transplantes com
+doadores falecidos.
+(B) No contexto pediátrico, a derivação biliodigestiva é mais
+comumente utilizada do que a reconstrução primária.
+(C) Em adultos, a derivação biliodigestiva não deve ser
+realizada jamais, pois aumenta o risco de pseudo-
+aneurisma de artéria hepática. Em casos em que a
+anastomose primária não pode ser feita, derivações
+biliocutâneas são assim preconizadas.
+(D) Em casos de estenoses ou fístulas biliares tardias em
+anastomoses primárias, não se deve jamais realizar CPRE
+(Colangiopancreatografia Retrógrada Endoscópica) para
+passagem de próteses, pois isso pode levar ao
+rompimento da anastomose.
+##### 
+{37} 
+A rejeição hiperaguda de enxerto felizmente é muito rara no 
+transplante hepático. Esse tipo de rejeição ocorre tipicamente 
+em: 
+(A) Minutos a horas após o transplante.
+(B) Dias após o transplante.
+(C) Semanas após o transplante.
+(D) Meses ou anos após o transplante.
+##### 
+{38} 
+Qual das seguintes complicações do transplante hepático 
+pode levar à necessidade de retransplante? 
+(A) Rejeição crônica do enxerto.
+(B) Não-funcionamento primário do enxerto
+(C) Trombose aguda da artéria hepática.
+(D) Todas as anteriores estão corretas.
+##### 
+{39} 
+Para tratamento de encefalopatia hepática em cirróticos, 
+assinale a alternativa que apresenta uma medicação que 
+pode ser utilizada com esse fim. 
+(A) Diazepam.
+(B) Rifaximina.
+(C) Furosemida.
+(D) Propranolol.
+##### 
+{40} 
+Assinale a alternativa correta sobre transplante hepático e 
+colangiocarcinoma. 
+(A) Para casos de colangiocarcinoma hilar irressecável, o
+transplante hepático pode ser uma opção em pacientes
+bem selecionados, conforme a experiência pioneira a
+partir de esquema de neoadjuvância denominado
+“protocolo de Paris”.
+(B) Transplante hepático por colangiocarcinoma utilizando-se
+enxertos de doadores com morte encefálica já é
+prontamente autorizado de rotina em diversos países do
+globo, incluindo o Brasil.
+(C) O transplante hepático em pacientes com colangite
+esclerosante primária e colangiocarcinoam hilar, em geral,
+apresentam melhores resultados do que em pacientes
+com colangiocarcinoma esporádico.
+(D) Para o colangiocarcinoma intra-hepático, os resultados do
+transplante são bastante promissores, a ponto de alguns
+países já terem substituído a ressecção pelo transplante
+como tratamento de primeira escolha.
+##### 
+
+
+--- PAGE 9 ---
+
+
+
+--- PAGE 10 ---
+
+v2
+

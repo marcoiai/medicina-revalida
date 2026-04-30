@@ -1,0 +1,3154 @@
+
+
+--- PAGE 1 ---
+
+ 
+E03 
+ 
+ 
+ESPECIALIDADES 
+Endoscopia 
+ 
+ 
+ 
+ 
+ 
+ 
+      PROCESSO SELETIVO – EDITAL COREME/FM/Nº 03/2025     
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo E03. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 6 horas. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo 
+fiscal. O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 16 h. Não haverá tempo 
+adicional para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 120 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{01} 
+Homem, 58 anos de idade, morador de área rural, com 
+astenia, dor e desconforto em hipocôndrio esquerdo há  
+6 meses. Exame clínico: fígado palpável a 3 cm do rebordo 
+costal direito e baço a 12 cm do rebordo costal esquerdo. Sem 
+adenomegalias.  
+ 
+• Exames laboratoriais: 
+Hb: 12 g/dL  
+Leucócitos: 25.000/mm3 
+Mieloblastos: 3% 
+Promielócitos: 3% 
+Mielócitos: 2% 
+Metamielócitos: 3% 
+Bastões: 3% 
+Neutrófilos: 60% 
+Basófilos: 5% 
+Eosinófios: 5% 
+Monócitos: 5% 
+Plaquetas: 460 mil/mm3 
+Índices e morfologia normais 
+ 
+A hipótese diagnóstica mais provável é: 
+ 
+(A) Leucemia mielomonocítica crônica. 
+(B) Leucemia mieloide crônica. 
+(C) Leishmaniose visceral. 
+(D) Mielofibrose primária. 
+##### 
+ 
+{02} 
+Mulher, 29 anos de idade, vítima de acidente de trânsito, com 
+Escala de Coma de Glasgow de 7 na cena. Tomografia de 
+crânio da admissão com contusões frontais bilaterais e edema 
+cerebral difuso. Realizada monitorização com Cateter de 
+Pressão Intracraniana (PIC), implante de derivação ventricular 
+externa e foi transferida para a UTI. Nas primeiras 24 horas, a 
+pressão intracraniana manteve-se controlada com medidas de 
+primeira linha, mas evoluiu nas últimas horas com elevação da 
+PIC e a seguinte curva no monitor: 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta a melhor conduta. 
+ 
+(A) Manitol. 
+(B) Repetir TC de crânio. 
+(C) Doppler transcraniano. 
+(D) Coma com barbitúrico. 
+##### 
+ 
+{03} 
+Mulher, 52 anos de idade, com diarreia crônica, aquosa, pior 
+à 
+noite, 
+sem 
+sintomas constitucionais. 
+Antecedentes: 
+colecistectomia. Calprotectina fecal e Proteína C Reativa 
+normais. O tratamento mais adequado é: 
+ 
+(A) Amitriptilina. 
+(B) Colestiramina. 
+(C) Dieta sem glúten e sem lactose. 
+(D) Corticoide de liberação entérica. ##### 
+{04} 
+Homem, 67 anos de idade, previamente hígido, apresenta 
+prurido difuso há 4 meses. O sintoma é mais intenso à noite, e 
+não respondeu a anti-histamínicos convencionais. Ao exame 
+dermatológico, não há lesões primárias na pele, apenas 
+escoriações pelo ato de coçar. O restante do exame clínico 
+está 
+normal. 
+Exames 
+laboratoriais: 
+hemograma 
+com 
+leucocitose e eosinofilia discreta; funções hepática, renal e 
+tireoidiana normais. Sorologias para HIV e hepatites negativas. 
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta o diagnóstico mais provável. 
+ 
+(A) Linfoma. 
+(B) Escabiose nodular. 
+(C) Dermatite atópica. 
+(D) Prurido psicogênico. 
+##### 
+ 
+{05} 
+Adolescente do sexo feminino, 17 anos de idade, nunca 
+menstruou. Nega uso de medicações hormonais, casos 
+semelhantes na família ou consanguinidade. Ao exame clínico, 
+apresentou peso de 56 kg, altura de 148 cm. PA de  
+110×60 mmHg; FC de 72 bpm. Presença de lipomastia. 
+Ausência de pelos axilares e pubianos. Genitália externa 
+feminina normal. Ultrassonografia pélvica com imagem 
+compatível com útero infantil (não foi possível visualizar a 
+presença de gônadas durante o exame). Considerando o caso 
+descrito, é mais provável que a paciente apresente 
+ 
+(A) cariótipo 45,X0. 
+(B) sinéquias uterinas. 
+(C) insensibilidade a andrógenos. 
+(D) hiperplasia adrenal congênita. 
+##### 
+ 
+{06} 
+Homem, 18 anos de idade, sem comorbidades, comparece no 
+pronto-socorro com queixa de epigastralgia e vômitos que 
+melhoraram com metoclopramida e omeprazol. Evoluiu com 
+dificuldade para fechar a boca e rigidez no pescoço, iniciadas 
+há seis horas. Ao exame neurológico: distonia oromandibular, 
+com abertura involuntária da mandíbula, além de distonia 
+cervical, 
+caracterizada 
+por 
+retrocolo 
+e 
+laterocolo. 
+Considerando o caso apresentado, assinale a alternativa que 
+apresenta o tratamento mais adequado. 
+ 
+(A) Levetiracetam. 
+(B) Fenitoína. 
+(C) Biperideno. 
+(D) Haloperidol. 
+##### 
+ 
+{07} 
+Mulher, 40 anos de idade, com diagnóstico recente de câncer 
+de mama luminal com metástases em sistema nervoso central. 
+Assinale a alternativa que apresenta a melhor programação. 
+ 
+(A) Cirurgia. 
+(B) Radioterapia. 
+(C) Quimioterapia curativa. 
+(D) Quimioterapia paliativa. 
+##### 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{08} 
+Paciente, 72 anos de idade, portador de diabetes melito tipo 2 e doença arterial obstrutiva periférica, comparece ao pronto-socorro 
+com queixa de dor torácica há cerca de 90 minutos com irradiação para ombro esquerdo e sudorese. Foi realizado 
+eletrocardiograma que é apresentado na imagem a seguir. No passado, apresentou quadro de prurido intenso e eritema importante 
+de face e pescoço associado ao uso de aspirina. 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a conduta mais adequada quanto à antiagregação plaquetária. 
+ 
+(A) Realizar ataque de dupla antiagregação plaquetária com AAS 300 e clopidogrel 600 mg. 
+(B) Realizar dupla antiagregação com AAS 100 mg e clopidogrel 600 mg. 
+(C) Omitir a dose de AAS e realizar ataque com clopidogrel 600 mg. 
+(D) Realizar ataque com clopidogrel 600 mg e substituir AAS por tirofibam. 
+#####
+ 
+{09} 
+Homem, 66 anos de idade, tabagista e com DPOC, está 
+internado por pneumonia grave, com necessidade de 
+ventilação mecânica. O resultado da cultura de secreção 
+traqueal é apresentado na tabela a seguir: 
+ 
+Candida albicans 
+Fluconazol 
+Sensível 
+Anfotericina B 
+Resistente 
+Voriconazol 
+Resistente 
+Equinocandina 
+Sensível 
+Staphylococcus aureus 
+Benzilpenicilina 
+Resistente 
+Clindamicina 
+Sensível 
+Ciprofloxacina 
+Resistente 
+Eritromicina 
+Resistente 
+Oxacilina 
+Sensível 
+Sulfametoxazol/trimetoprim 
+Sensível 
+Vancomicina 
+Sensível 
+ 
+Considerando o caso apresentado, assinale a alternativa que 
+apresenta o tratamento antimicrobiano mais adequado. 
+ 
+(A) Cefazolina. 
+(B) Clindamicina. 
+(C) Oxacilina e fluconazol. 
+(D) Sulfametoxazol/trimetoprim e micafungina. ##### 
+ 
+{10} 
+Mulher, 78 anos de idade, com diagnóstico de diabetes melito 
+tipo 2 há 20 anos. Teve infarto agudo do miocárdio há cinco 
+anos, tem doença renal crônica estágio 3b e retinopatia 
+diabética não proliferativa leve. Além disso, relatou dois 
+episódios de hipoglicemia que necessitaram de auxílio de 
+terceiros no último ano. Seu tratamento atual consiste em 
+metformina 500 mg/dia, sitagliptina 50 mg/dia e insulina NPH 
+20 unidades à noite, e 10 unidades pela manhã. A meta de 
+HbA1c mais apropriada para esta paciente é: 
+ 
+(A) 6,0% – 6,5%. 
+(B) 6,5% – 7,0%. 
+(C) 7,0% – 7,5%. 
+(D) 7,5% – 8,5%. 
+##### 
+ 
+{11} 
+Mulher, 45 anos de idade, submetida à ultrassonografia 
+cervical por conta de nódulo tireoideano palpado durante a 
+consulta de rotina. Seu médico a tranquilizou, pois os achados 
+do exame não eram suspeitos para malignidade. O laudo mais 
+provável deste exame é: 
+ 
+(A) Nódulo isoecoico com microcalcificações. 
+(B) Nódulo sólido-cístico com margens mal definidas. 
+(C) Nódulo predominantemente cístico com focos hiperrefrin-
+gentes. 
+(D) Nódulo marcadamente hipoecoico e mais alto do que 
+largo. ##### 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{12} 
+Homem, 78 anos de idade, com astenia há quatro meses e 
+dificuldade progressiva de realizar seus exercícios em 
+academia. Refere hipertensão arterial sistêmica e diabetes 
+melito há cinco anos, controlados com losartana e metformina. 
+Nega tabagismo e etilismo. Pai falecido de câncer de intestino 
+e mãe falecida por infarto agudo do miocárdio. Três filhos com 
+boa saúde. Ao exame clínico, apresenta-se descorado++/4+. 
+ 
+• Exames laboratoriais: 
+Hb: 7,5 g/dL 
+VCM: 108 fL 
+Leucócitos: 4.200/mm3 
+Neutrófilos: 2.100/mm3 
+Linfócitos: 1.680/mm3 
+Monócitos: 400/mm3 
+Eosinófilos: 20/mm3 
+Plaquetas: 152.000/mm3 
+Reticulócitos: 40.000/mm3 
+Presença de neutrófilos hipossegmentados e hipogranulares. 
+ 
+Em relação ao caso apresentado, o diagnóstico mais provável 
+para a anemia é: 
+ 
+(A) Síndrome mielodisplásica. 
+(B) Anemia megaloblástica. 
+(C) Deficiência de ferro. 
+(D) Anemia hemolítica. 
+##### 
+ 
+{13} 
+Paciente, 67 anos de idade, ex-tabagista de aprox. 40 anos-
+maço, com queixa de tosse seca há cerca de um mês. 
+Apresenta lesão pulmonar em lobo superior esquerdo visto em 
+tomografia de tórax realizada há um ano. Sem alterações ao 
+exame clínico. Há uma semana, procurou o pronto-socorro 
+com piora da tosse. A tomografia realizada nesta ocasião é 
+mostrada na imagem a seguir: 
+ 
+ 
+ 
+A próxima conduta mais adequada, neste caso, é: 
+ 
+(A) Ressecção do nódulo. 
+(B) Broncoscopia com biópsia. 
+(C) Ressonância magnética do tórax. 
+(D) Corticoide inalatório e broncodilatador.  
+##### 
+Texto para as questões de 14 a 16 
+ 
+Mulher, 58 anos de idade, em avaliação pré-operatória de 
+gastroduodenopancreatectomia por neoplasia de cabeça de 
+pâncreas. A cirurgia tem duração estimada de 8 horas, com 
+perda sanguínea estimada de 500 a 1.000 mL e está 
+programada para ser realizada em duas semanas. Tem 
+antecedente de hipertensão arterial sistêmica, diabetes melito 
+tipo 2, dislipidemia mista e tabagismo de 35 anos-maço. Foi 
+submetida à revascularização miocárdica com colocação de 
+stent farmacológico há 8 meses. Relata dispneia aos 
+moderados esforços. Nega angina, dispneia paroxística 
+noturna, ortopneia e edema de membros inferiores. Está em 
+uso 
+de 
+losartana, 
+anlodipino, 
+atenolol, 
+metformina, 
+dapagliflozina, rosuvastatina, Ácido Acetilsalicílico (AAS) e 
+clopidogrel. Exame clínico sem alterações. Eletrocardiograma 
+(ECG) com alteração de repolarização difusa. 
+ 
+{14} 
+Os riscos cardiovascular e do procedimento são, respectiva-
+mente: 
+ 
+(A) Moderado e moderado. 
+(B) Moderado e alto. 
+(C) Alto e moderado. 
+(D) Alto e alto. 
+##### 
+ 
+{15} 
+Os exames indicados no período perioperatório são: 
+ 
+(A) ECG e troponina nos primeiros dois dias após a cirurgia. 
+(B) Cintilografia de perfusão miocárdica antes da cirurgia. 
+(C) NT-pro-BNP nos três primeiros dias após a cirurgia. 
+(D) Ecocardiograma transtorácico em repouso antes da 
+cirurgia. 
+##### 
+ 
+{16} 
+Além da manutenção de rosuvastatina, losartana, anlodipino e 
+atenolol, deve-se 
+ 
+(A) manter AAS e clopidogrel. Suspender dapagliflozina 3 dias 
+antes do procedimento e metformina no dia do 
+procedimento. 
+(B) manter AAS e clopidogrel. Suspender dapagliflozina no dia 
+e metformina 3 dias antes do procedimento. 
+(C) suspender clopidogrel 5 dias antes do procedimento e 
+manter o AAS. Suspender dapagliflozina 3 dias antes e 
+metformina no dia do procedimento. 
+(D) suspender clopidogrel 5 dias antes do procedimento e 
+manter o AAS. Suspender dapagliflozina no dia e 
+metformina 3 dias antes do procedimento. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{17} 
+Homem, 58 anos de idade, com diagnóstico recente de COVID-19, não vacinado. Tem insuficiência venosa e pré-diabetes e faz 
+uso de metformina e furosemida quando nota piora do inchaço nas pernas. Há seis dias, relata episódios de desmaio, precedidos 
+por mal-estar inespecífico. Para COVID-19, faz uso de ondansetrona, tramadol, azitromicina e hidroxicloroquina. Ao exame clínico, 
+apresenat PA de 100×60 mmHg, FC de 110 bpm, SpO2 de 95% e temperatura de 37,4 °C. Ausculta cardiopulmonar sem alterações. 
+Dermatite ocre e edema simétrico +/4+ em membros inferiores. O ECG está apresentado a seguir: 
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que apresenta o diagnóstico mais provável da queixa de seis dias. 
+ 
+(A) Síncope neurogênica. 
+(B) Torsades de Pointes. 
+(C) Arritmia ventricular por miocardite. 
+(D) Disautonomia relacionada à Covid-19. 
+#####
+ 
+{18} 
+Homem, 48 anos de idade, previamente hígido, há 6 meses 
+recebeu diagnóstico de insuficiência cardíaca com fração de 
+ejeção reduzida (32%), de etiologia alcoólica e iniciou 
+tratamento clínico. Compareceu à consulta médica relatando 
+múltiplos episódios de hipotensão sintomática (90×50 mmHg) 
+que correlacionou ao aumento recente da dose de enalapril 
+para 20 mg 2x ao dia. Está abstêmio, em classe funcional II, 
+em uso, além do enalapril, de espironolactona 12,5 mg 1x ao 
+dia, carvedilol 6,25 mg 2x ao dia e furosemida 80 mg 1x ao 
+dia. Assinale a alternativa que apresenta a conduta mais 
+adequada para este paciente. 
+ 
+(A) Suspender a espironolactona. 
+(B) Transicionar carvedilol para ivabradina. 
+(C) Reduzir a dose do enalapril. 
+(D) Reduzir a dose de furosemida. 
+##### 
+ 
+{19} 
+Homem, 25 anos de idade, previamente hígido, é admitido no 
+pronto-socorro após ingestão intencional de 35 g de 
+paracetamol, durante uma tentativa de suicídio, há quatro 
+horas. Está consciente, com PA de 120×80 mmHg, FC de  
+95 bpm, sem alterações neurológicas. A conduta mais 
+adequada é: 
+ 
+(A) Hemodiálise precoce. 
+(B) Acetilcisteína e carvão ativado. 
+(C) Dosagem sérica seriada de paracetamol.  
+(D) Dosagem seriada de AST/ALT. ##### 
+ 
+{20} 
+Mulher, 19 anos de idade, com diagnóstico de diabetes melito 
+tipo 1 há cinco anos. É trazida no pronto-socorro, onde foi 
+realizado diagnóstico de cetoacidose diabética. Exames 
+iniciais apresentaram:  
+ 
+Glicemia capilar: 550 mg/dL 
+pH: 7,10 
+HCO3-: 8 mEq/L 
+Na+: 130 mEq/L 
+K+: 5,8 mEq/L 
+Ur: 60 mg/dL 
+Cr: 1,5 mg/dL 
+Cetonas séricas: +++/4+ 
+ 
+Foi 
+iniciada 
+hidratação 
+venosa 
+com 
+NaC, 
+0,9% 
+e 
+insulinoterapia intravenosa contínua (0,1 U/kg/h). Após quatro 
+horas de tratamento, a paciente está mais alerta, a glicemia é 
+de 240 mg/dL, e os novos exames mostram:  
+ 
+pH: 7,25 
+HCO3-: 15 mEq/L 
+K+: 3,5 mEq/L 
+ 
+A próxima conduta mais adequada é: 
+ 
+(A) Manter a infusão de insulina e adicionar solução glicosada.  
+(B) Administrar cloreto de potássio na solução de hidratação 
+venosa. 
+(C) Aumentar a taxa de infusão da solução salina isotônica. 
+(D) Trocar a insulina por NPH subcutânea e oferecer dieta. 
+##### 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+Texto para as questões de 21 a 23 
+ 
+Homem, 30 anos de idade, relata tosse e febre. Ao exame 
+clínico, encontra-se confuso, com FR de 30 irpm e SpO2 de 
+85%, em ar ambiente. Iniciada máscara não reinalante em 
+flush rate e paciente manteve esforço respiratório com SpO2 
+de 87%, com FR de 35 irpm, FC de 120 bpm e PA de  
+100×60 mmHg. A radiografia de tórax é apresentada na 
+imagem a seguir: 
+ 
+ 
+ 
+{21} 
+Em relação ao caso descrito, a conduta mais adequada na 
+intubação orotraqueal deste paciente é: 
+ 
+(A) Intubação com paciente acordado. 
+(B) Realizar resgate com máscara laríngea. 
+(C) Pré-oxigenação com ventilação não invasiva. 
+(D) Pré oxigenação e intubação com ventilação apneica com 
+cateter nasal de alto fluxo. 
+##### 
+ 
+{22} 
+Paciente no segundo dia de ventilação mecânica, em modo 
+volume controlado, com volume corrente de 7 mL/kg, PEEP de 
+10 cmH2O, pressão de platô de 27 cmH2O, pressão de pico 
+de 33 cmH2O, FR de 30 irpm, FiO2 de 70%, apresenta a 
+seguinte gasometria: 
+ 
+pH: 7,19 
+PaCO2: 55 mmHg 
+PaO2: 112 mmHg 
+HCO3-: 19 mEq/L 
+BE: -5  
+ 
+Neste momento, a conduta mais adequada é: 
+ 
+(A) Aumentar a PEEP. 
+(B) Bicarbonato de sódio 1 mEq/kg. 
+(C) Reduzir volume corrente. 
+(D) Reduzir o espaço morto do circuito. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+{23} 
+No quarto dia de ventilação mecânica, o paciente está sedado 
+com propofol 1,4 mg/kg/h e fentanil 2 µg/kg/h, e em uso de 
+bloqueio neuromuscular com cisatracúrio 0,12 mg/kg/h. 
+Apresenta PaO2 de 76 mmHg, ventilando em modo volume 
+controlado com volume corrente de 6 mL/kg, PEEP de  
+10 cmH2O, pressão de platô de 22 cmH2O e FiO2 de 45%. No 
+momento da avaliação, paciente apresenta pontuação na 
+Behavior Pain Scale – BPS de 3 e a capnografia apresentada 
+na imagem a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a conduta mais 
+adequada. 
+ 
+(A) Manter sedação titulada para RASS -5. 
+(B) Aumentar dose de opioide. 
+(C) Suspender bloqueio neuromuscular. 
+(D) Realizar teste de respiração espontânea. 
+##### 
+ 
+{24} 
+Homem, 52 anos de idade, com hipertensão arterial mal 
+controlada e histórico de infarto agudo do miocárdio há um 
+ano, em uso de AAS 100 mg e enalapril 10 mg ao dia. Trazido 
+para a emergência com relato de síncope e queda da própria 
+altura. Realizou a tomografia de crânio apresentada a seguir: 
+ 
+ 
+ 
+Em relação ao caso apresentado, a próxima conduta mais 
+adequada é:  
+ 
+(A) Angiotomografia arterial. 
+(B) Fenitoína endovenosa.  
+(C) Transfusão de plaquetas.  
+(D) Drenagem de hematoma intracraniano. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{25} 
+Mulher, 47 anos de idade, vegana, com sangramento genital 
+há 15 dias e febre há dois dias. Nega doenças prévias. Exame 
+clínico: regular estado geral, descorada++/4+, temperatura 
+axilar de 38 °C, orofaringe hiperemiada e com petéquias em 
+palato, fígado a 2 cm do rebordo costal direito.  
+ 
+• Exames laboratoriais:  
+Hb: 9,5 g/dL 
+VCM: 105 fL 
+Leucócitos: 800/mm3 
+Neutrófilos: 100/mm3 
+Linfócitos: 680/mm3 
+Monócitos: 20/mm3  
+Presença de algumas células anômalas, com nucléolos 
+evidentes 
+Plaquetas: 12.000/mm3 
+TP: atividade 50% 
+TTPA: 1,3  
+TT: 27 s 
+Fibrinogênio: 150 mg/dL (ref.: 200 a 400 mg/dL) 
+βHCG: normal 
+ 
+Foi realizado raio-X de tórax, sem alterações. Em relação ao 
+caso apresentado, o diagnóstico mais provável é: 
+ 
+(A) Leucemia aguda. 
+(B) Anemia megaloblástica. 
+(C) Aplasia medular. 
+(D) Septicemia. 
+##### 
+ 
+{26} 
+Mulher, 22 anos de idade, queixa-se de crises de falta de ar 
+associadas à tosse e sibilância, sobretudo quando exposta a 
+ambientes com muita poeira. Raramente acorda à noite com 
+falta de ar. Nega tabagismo. Para confirmação diagnóstica foi 
+solicitada uma prova de função pulmonar.  Assinale a 
+alternativa que apresenta o resultado mais compatível com o 
+diagnóstico da paciente. 
+ 
+(A) 
+CVF = pré-BD: 2,60 (80%) → pós-BD: 2,70 (82%) 
+VEF1 = pré-BD: 1,50 (65%) → pós-BD: 1,92 (85%) 
+VEF1/CVF = pré-BD: 0,57 → pós-BD: 0,71 
+(B) 
+CVF = pré-BD: 2,60 (80%) → pós-BD: 2,60 (80%) 
+VEF1 = pré-BD: 1,50 (65%) → pós-BD: 1,60 (68%) 
+VEF1/CVF = pré-BD: 0,57 → pós-BD: 0,61 
+(C) 
+CVF = pré-BD: 2,60 (80%) → pós-BD: 2,70 (82%) 
+VEF1 = pré-BD: 1,82 (80%) → pós-BD: 1,82 (80%) 
+VEF1/CVF = pré-BD: 0,70 → pós-BD: 0,67 
+(D) 
+CVF = pré-BD: 2,60 (70%) → pós-BD: 2,70 (80%) 
+VEF1 = pré-BD: 1,82 (80%) → pós-BD: 2,02 (90%) 
+VEF1/CVF = pré-BD: 0,70 → pós-BD: 0,75 
+ 
+Note e adote: 
+ 
+CVF: Capacidade Vital Forçada; 
+VEF1: Volume Expiratório Forçado no primeiro segundo; 
+BD: Broncodilatador 
+##### 
+{27} 
+Homem, 61 anos de idade, com sobrepeso, trabalhador 
+braçal, com queixas de dor em mãos, ombros e joelho 
+esquerdo há 5 anos. Relata piora progressiva, principalmente 
+ao final do dia, e rigidez matinal com duração de 30 minutos. 
+Nega sintomas sistêmicos. Ao exame clínico, apresenta 
+aumento de volume nas interfalangeanas proximais e distais, 
+com nódulos palpáveis, além de crepitação nos ombros e nos 
+joelhos. Há redução da mobilidade do joelho esquerdo. A 
+radiografia do joelho esquerdo é apresentada na imagem a 
+seguir: 
+ 
+ 
+ 
+A abordagem inicial mais adequada em relação ao joelho 
+esquerdo é: 
+ 
+(A) Medidas não farmacológicas. 
+(B) Indicação de artroplastia. 
+(C) Infiltração intra-articular com glicorticoide. 
+(D) Glicocorticoide oral sistêmico. 
+##### 
+ 
+{28} 
+Homem, 37 anos de idade, HIV confirmado, sem uso de 
+antirretrovirais e CD4 40 células/µL. Queixa de cefaleia há três 
+semanas, diplopia há cinco dias e dois episódios de vômitos. 
+Tinta da China no líquor com leveduras encapsuladas. Não há 
+flucitosina, nem formulações lipídicas de anfotericina B no 
+hospital. Em relação ao caso apresentado, o tratamento mais 
+adequado é:  
+ 
+(A) Fluconazol 1.200 mg/dia em monoterapia, por 4 semanas. 
+(B) Anfotericina B desoxicolato 0,7 mg/kg/dia + fluconazol 
+1.200 mg/dia, por 2 semanas. 
+(C) Anfotericina B desoxicolato 1 mg/kg/dia + fluconazol  
+800 mg/dia, por 2 semanas. 
+(D) Anfotericina B desoxicolato 5 mg/kg/dia + fluconazol  
+800 mg/dia, por 2 semanas. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{29} 
+Homem, 47 anos de idade, com quadro súbito de vertigem 
+enquanto praticava atividade física na academia há seis 
+horas. Também refere diplopia binocular, que melhora ao 
+fechar um dos olhos, e sensação de que é empurrado para 
+direita. Nega antecedentes médicos ou uso de medicações. 
+Apresenta PA de 180×100 mmHg, FC de 110 bpm, glicemia 
+capilar de 93 mg/dL. Ao exame neurológico, apresenta 
+nistagmo horizontal para esquerda, desalinhamento vertical 
+(com olho hipotrópico à direita) e pupila miótica à direita. 
+Realizou tomografia de crânio sem contraste que não mostrou 
+alterações. Assinale a alternativa que apresenta a próxima 
+conduta mais adequada. 
+ 
+(A) Executar as manobras de Dix-Hallpike e de Epley. 
+(B) Administrar dimenidrato e nitroprussiato de sódio IV. 
+(C) Trombólise com alteplase 0,9 mg/kg intravenosa. 
+(D) Angiotomografia arterial cervical e intracraniana. 
+##### 
+ 
+{30} 
+Mulher, 58 anos de idade, com hipertensão arterial e com 
+histórico de cirurgia bariátrica (gastrectomia vertical tipo 
+sleeve e bypass em Y de Roux), relata fratura vertebral após 
+levantar o neto recém-nascido do chão. Possui os seguintes 
+exames: 
+ 
+• Densitometria óssea: 
+T-score de fêmur total: -2,4 
+Colo de fêmur: -2,4 
+Coluna L1-L4: -2,7 
+ 
+• Exames laboratoriais: 
+Cr: 0,7 mg/dL 
+Ca2+ total: 8,7 mg/dL 
+Fósforo: 2,4 mg/dL 
+25-OH-vitamina D: 9 ng/mL 
+Albumina: 3,7 g/dL 
+Paratormônio: 103 pg/mL 
+TGO/AST: 30 U/L 
+TGP/ALT: 31 U/L 
+FA: 123 U/L 
+GGT:40 U/L 
+ 
+O tratamento inicial mais adequado para esta paciente deve 
+incluir: 
+ 
+(A) Citrato de cálcio + vitamina D. 
+(B) Carbonato de cálcio + vitamina D + zoledrônico. 
+(C) Citrato de cálcio + vitamina D + zoledrônico. 
+(D) Carbonato de cálcio + vitamina D. 
+ 
+##### 
+ 
+{31} 
+Mulher, 32 anos de idade, com artrite reumatoide em uso de 
+metotrexato 25 mg/semana, em programação ambulatorial 
+para troca por adalimumabe. Os imunizantes mais adequados 
+para esta paciente, incluindo tanto os da rede pública como 
+privada, são: 
+ 
+(A) Febre amarela e herpes zoster. 
+(B) Meningocócica ACWY e dengue. 
+(C) Febre amarela e dengue. 
+(D) Meningocóccica ACWY e herpes zoster. 
+##### 
+{32} 
+Mulher, 45 anos de idade, com sintomas constitucionais e 
+sinusite de repetição há cinco meses. Nas últimas três 
+semanas, passou a apresentar poliartralgias, redução da 
+diurese, dispneia progressiva com tosse e escarros 
+hemoptoicos. Não há evidências de infecção ou neoplasia. O 
+padrão de imunofluorescência esperado para o diagnóstico 
+mais provável é: 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{33} 
+Homem, 62 anos de idade, portador de hipertensão arterial sistêmica mal controlada e tabagista de 20 cigarros/dia há 40 anos, 
+procura a Unidade de Pronto Atendimento (UPA) com quadro de dor precordial de forte intensidade com irradiação para nuca e 
+cefaleia associada à visão dupla e vertigem. Refere que o quadro se iniciou há cerca de 1 hora e 30 minutos. Ao exame físico, 
+encontra-se lúcido, porém agitado, com PA de 200×100 mmHg, FC de 108 bpm, FR de 26 irpm, SpO2 de 95% em ar ambiente. 
+Ausculta cardíaca e pulmonar sem alterações, pulsos periféricos presentes e simétricos. No exame neurológico, apresenta-se com 
+piora da diplopia agravada pela movimentação cefálica, nistagmo horizontal e marcha com instabilidade e tendência a queda para 
+o lado esquerdo, sem outros déficits focais ou sinais meníngeos. Diante do quadro, foi solicitado um ECG na sala de emergência, 
+demonstrado a seguir: 
+ 
+ 
+ 
+Em relação ao quadro apresentado, assinale a alternativa que apresenta a conduta mais indicada.  
+ 
+(A) Caso a transferência a um centro de hemodinâmica seja maior que 120 minutos, deve-se prosseguir com administração de AAS 
+300 mg, clopidogrel 300 mg, enoxaparina 30 mg EV e trombólise para infarto agudo do miocárdio. 
+(B) Iniciar nitroprussiato de sódio imediatamente para controle rápido da pressão arterial visando redução de até 25% da PA inicial 
+na primeira hora. 
+(C) Encaminhar o paciente a uma tomografia computadorizada de crânio sem contraste e, na ausência de sangramento, prosseguir 
+com trombólise pelo quadro de acidente vascular cerebral isquêmico. 
+(D) Encaminhar o paciente para angiotomografia de aorta e, na presença de dissecção de aorta, iniciar controle de duplo produto 
+com esmolol e nitroprussiato de sódio. 
+#####
+ 
+{34} 
+Mulher, 38 anos de idade, procura atendimento por astenia 
+progressiva, perda de peso de 7 kg nos últimos 4 meses, 
+hipotensão e hiperpigmentação da pele. Nega uso de 
+medicamentos. Relata episódios de diarreia e tonturas ao 
+levantar-se. Ao exame clínico, apresenta-se emagrecida, com 
+PA de 90×60 mmHg e FC de 96 bpm.  
+ 
+• Exames laboratoriais: 
+Na+: 130 mEq/L 
+K+: 5,8 mEq/L 
+Glicose: 68 mg/dL 
+Cortisol sérico às 8h: 3,2 µg/dL (ref.: 5 a 25 µg/dL) 
+ACTH plasmático 180 pg/mL (ref.: 7 a 46 pg/mL) 
+ 
+A conduta mais adequada no manejo desta paciente é:  
+ 
+(A) Repetir cortisol e ACTH e iniciar fludrocortisona. 
+(B) Iniciar hidrocortisona e fludrocortisona. 
+(C) Confirmar o diagnóstico com teste de estímulo. 
+(D) Solicitar ressonância magnética de hipófise. 
+##### 
+ 
+ 
+ 
+ 
+{35} 
+Um ensaio clínico randomizado de não inferioridade 
+comparou o uso parcial de antibioticoterapia oral à terapia 
+feita toda com antibioticoterapia intravenosa em pacientes 
+com osteomielite crônica. A margem de não inferioridade foi 
+definida em 0,80 para o risco relativo de resposta clínica 
+completa. A análise por intenção de tratar (ITT) mostrou risco 
+relativo de 0,95 (IC95%: 0,82–1,07). A análise por protocolo 
+mostrou risco relativo = 0,88 (IC95%: 0,76–1,02). A 
+interpretação mais adequada para o resultado é: 
+ 
+(A) O resultado por ITT demonstra não inferioridade, 
+independentemente da análise por protocolo. 
+(B) A análise por protocolo deve ser evitada em ensaios de 
+não inferioridade, pois sempre superestima o efeito da 
+intervenção. 
+(C) O estudo confirma a superioridade da estratégia com 
+antibiótico oral sobre o intravenoso. 
+(D) Como o IC da análise por protocolo cruza a margem de 
+0,80, não é possível confirmar não inferioridade. 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{36} 
+Paciente, 50 anos de idade, sem comorbidades relevantes, 
+apresenta dor torácica pleurítica e dispneia súbita. Pela 
+avaliação clínica (escore de Wells), a probabilidade pré-teste 
+de Tromboembolismo Pulmonar (TEP) é estimada em 20%. Foi 
+solicitado um dímero-D, cujo desempenho em meta-análises 
+é: sensibilidade de 95% e especificidade de 40%. O resultado 
+foi negativo. Observe o gráfico a seguir: 
+ 
+ 
+ 
+Em relação às informações apresentadas, a probabilidade 
+pós-teste aproximada de TEP nesse paciente é: 
+ 
+(A) 2%. 
+(B) 5%. 
+(C) 7%. 
+(D) 10%. 
+##### 
+ 
+{37} 
+Homem, 63 anos de idade, com cirrose hepática, internado 
+por infecção de trato urinário e aumento da ascite. Está 
+recebendo ceftriaxone, recebeu dois dias de hidratação com 
+cristaloides e diuréticos foram suspensos. Ao exame clínico, 
+apresenta estado geral regular, PA de 100×50 mmHg, FC de 
+78 bpm, FR de 20 irpm, temperatura de 36,9 °C, SpO2 de 97% 
+em ar ambiente, bem perfundido, sem evidências de 
+encefalopatia, ascite volumosa e depressível, com edema de 
+membros inferiores +/4+. Ao longo dos três primeiros dias de 
+internação, apresentou piora da creatinina de 1,1 mg/dL para 
+2,5 mg/dL. Sódio urinário <10 mEq/L. Em relação ao caso 
+descrito, assinale a alternativa que apresenta a conduta mais 
+adequada. 
+ 
+(A) Iniciar terlipressina e albumina. 
+(B) Iniciar corticoide intravenoso. 
+(C) Trocar antibioticoterapia. 
+(D) Realizar paracentese de alívio. 
+##### 
+ 
+ 
+{38} 
+Homem, 50 anos de idade, internado por pancreatite aguda 
+por litíase biliar. No 12º dia de internação, evoluiu com piora 
+clínica, apresentando PA de 96×52 mmHg, FC de 112 bpm e 
+queda 
+do 
+hematócrito. 
+Foi 
+realizada 
+tomografia 
+computadorizada de abdome contrastada apresentada na 
+imagem a seguir:  
+ 
+ 
+ 
+Considerando o caso apresentado, a próxima conduta mais 
+adequada é: 
+ 
+(A) Necrosectomia aberta. 
+(B) Antibioticoterapia de amplo espectro. 
+(C) Colangiopancreatografia retrógrada endoscópica. 
+(D) Drenagem percutânea do cisto pancreático. 
+##### 
+ 
+{39} 
+Mulher, 23 anos de idade, com anemia desde a infância, 
+tratada diversas vezes com ferro oral. Nega consanguinidade 
+familiar; mãe submetida à colecistectomia aos 32 anos de 
+idade, 
+avó 
+materna 
+esplenectomizada 
+durante 
+uma 
+colecistectomia aos 52 anos de idade. Há seis meses, foi 
+internada por pneumonia, necessitando de transfusão de 
+sangue. Exame clínico: descorada 1+/4+, baço palpável a  
+6 cm do rebordo costal esquerdo. 
+ 
+• Exames laboratoriais:  
+Hb: 10,8 g/dL 
+VCM: 83,5 fL (aguardando avaliação de sangue periférico) 
+Leucócitos: 7.300/mm³ (diferencial normal) 
+Plaquetas: 170.000/mm³ 
+Reticulócitos: 6,4% (192.000/mm³) 
+Bilirrubina total: 2,1 mg/dL 
+Bilirrubina indireta: 1,8 mg/dL) 
+DHL: 420 U/L (ref.: 240 UI/L) 
+Haptoglobina sérica: 32 mg/dL (ref.: 30 a 100 mg/dL) 
+Coombs direto: negativo 
+ 
+A alteração laboratorial com maior probabilidade de ser 
+encontrada é: 
+ 
+(A) Prova de falcização positiva. 
+(B) CD55 negativo em 70% das hemácias.  
+(C) Nível baixo de G6PD em eritrócitos. 
+(D) Curva de resistência globular desviada para direita.  
+##### 
+ 
+ 
+
+
+--- PAGE 12 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{40} 
+Homem, 62 anos de idade, tabagista de 60 anos-maço, 
+procura o pronto atendimento com edema de face, de 
+membros superiores, pletora facial, sudorese e circulação 
+colateral no tórax. Ao exame clínico, apresenta-se consciente 
+e orientado, com FC de 94 bpm, PA de 140×90 mmHg, FR de 
+21 irpm e SpO2 de 95% em ar ambiente. A tomografia de tórax 
+é mostrada nas imagens a seguir: 
+ 
+ 
+ 
+ 
+ 
+Em relação ao caso apresentado, a próxima conduta mais 
+adequada é: 
+ 
+(A) PET-CT. 
+(B) Radioterapia. 
+(C) Biópsia transtorácica. 
+(D) Corticoterapia em altas doses. 
+##### 
+ 
+{41} 
+Homem, 59 anos de idade, em tratamento de adenocarcinoma 
+de pâncreas metastático para fígado com esquema 
+FOLFIRINOX (5-Fluorouracil, irinotecano e oxaliplatina) a cada 
+duas semanas. Apresentou melhora do quadro de dor e 
+queda de antígeno CA 19.9, porém desde o último ciclo tem 
+apresentado piora de náuseas e vômitos. Faz uso de 
+ondansetrona, dexametasona e aprepitanto como profilaxia 
+para êmese. Em relação ao caso apresentado, assinale a 
+alternativa que apresenta o medicamento adicional mais 
+adequado para profilaxia do sintoma. 
+ 
+(A) Metoclopramida. 
+(B) Haloperidol. 
+(C) Dimenidrinato. 
+(D) Olanzapina. 
+##### 
+ 
+{42} 
+Homem, 45 anos de idade, em reabilitação após trauma 
+raquimedular, 
+em 
+uso 
+de 
+paracetamol, 
+codeína 
+e 
+carbamazepina há três semanas. Apresenta-se sem edemas, 
+está alerta e com capacidade normal de se alimentar, sem 
+restrição dietética em prescrição, com PA de 110×70 mmHg 
+e FC de 85 bpm, afebril. 
+ 
+• Exames laboratoriais: 
+Cr: 0,88 mg/dL 
+Ur: 40 mg/dL 
+K+: 4,2 mEq/L 
+Na+: 126 mEq/L 
+pH: 7,37 
+HCO3-: 23,7 mmol/L 
+TSH: 1,33 µUI/mL 
+ 
+• Urina tipo 1: 
+pH: 5,5 (ref.: 5,0 a 6,0) 
+Densidade: 1,020 (ref.: 1,015 a 1,025) 
+Glicose: ausente (ref.: ausente) 
+Proteínas: < 0,05 g/L (ref.: < 0,05 g/L) 
+Leucócitos: 2/campo (ref.: até 10/campo) 
+Eritrócitos: 1/campo (ref.: até 3/campo) 
+ 
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta os resultados mais prováveis e as condutas mais 
+adequadas. 
+ 
+(A) Osmolalidade urinária 95 mOsm/kg H2O, sódio urinário  
+15 mmol/L; suspender a carbamazapina e prescrever 
+restrição hídrica. 
+(B) Osmolalidade urinária 95 mOsm/kg H2O, sódio urinário 
+63 mmol/L; prescrever diurético de alça. 
+(C) Osmolalidade urinária 794 mOsm/kg H2O, sódio urinário 
+15 mmol/L; prescrever 100 mL de solução salina 
+intravenosa 3% em 30 minutos. 
+(D) Osmolalidade urinária 794 mOsm/Kg H2O, sódio urinário 
+63 mmol/L; suspender a carbamazepina e prescrever 
+restrição hídrica. 
+##### 
+ 
+{43} 
+Homem, 64 anos de idade e 15 anos de escolaridade, possui 
+diagnóstico de doença de Parkinson há 5 anos e está, 
+atualmente, em uso de biperideno, pramipexol e levodopa 
+com benserazida. Refere dificuldades de memória e de 
+concentração nas tarefas. Ainda trabalha como comerciante, 
+mas sente que, às vezes, se atrapalha com as contas. Outra 
+queixa, é que passou a ver vultos e ter sensação de que há 
+pessoas passando por trás dele. No mini exame do estado 
+mental, o paciente fez 25 pontos, perdendo 03 pontos nas 
+subtrações em série, 01 ponto na evocação das palavras e  
+01 ponto na cópia do desenho. Ao exame neurológico, 
+apresenta bradicinesia, rigidez com roda denteada, sem 
+tremor de repouso. Assinale a alternativa que apresenta a 
+próxima conduta mais adequada para o caso apresentado. 
+ 
+(A) Suspender a levodopa. 
+(B) Suspender o biperideno. 
+(C) Prescrever a rivastigmina. 
+(D) Prescrever a quetiapina. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 13 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{44} 
+Mulher, 67 anos de idade, atualmente tabagista 50 anos-maço com diagnóstico de doença pulmonar obstrutiva crônica em uso de 
+formoterol. Antecedentes cirúrgicos de colecistectomia, cesárea e abordagem de síndrome do túnel do carpo bilateral. Conta, 
+ainda, rotura de tendão de bíceps enquanto pendurava roupas no varal há 2 anos, em tratamento conservador e sem limitação 
+funcional em braços. Recentemente, suspendeu por conta própria enalapril que usava para hipertensão, pois notou a pressão mais 
+baixa nos últimos meses. Procura atendimento em ambulatório de clínica médica com queixa de falta de ar aos esforços. Nega dor 
+torácica. Ao exame físico, apresenta PA de 90×74 mmHg, FC de 90 bpm, SpO2 de 93% em ar ambiente. Ausculta cardíaca com 
+ritmo irregular, sem sopros, bem perfundida. Ausculta pulmonar com murmúrios globalmente reduzidos, sibilância expiratória e 
+estertores bibasais. Membros com edema 1+ simétrico, pulsos pediosos amplos.  
+ 
+ 
+ 
+Em relação ao caso descrito, assinale a alternativa que apresenta a melhor conduta para o diagnóstico e manejo desta paciente. 
+ 
+(A) Iniciar apixabana e furosemida, manter sem enalapril, solicitar BNP e ecocardiograma com strain. 
+(B) Iniciar bisoprolol, sacubitril-valsartana e espironolactona, além de furosemida para alívio sintomático inicial e melhor controle 
+volêmico. Solicitar ecocardiograma e BNP. 
+(C) Reiniciar enalapril para controle pressórico e nefroproteção, além de apixabana. Solicitar MAPA 24h para avaliar controle 
+pressórico em domícílio. 
+(D) Associar segundo broncodilatador, solicitar prova de função pulmonar e ecocardiograma para avaliar doença pulmonar 
+obstrutiva crônica e evolução para hipertensão pulmonar. 
+#####
+ 
+{45} 
+Homem, 52 anos de idade, com diabetes melito tipo 2, HAS e 
+obesidade grau 1. Foi solicitado ultrassom de abdome após 
+consulta de rotina, que mostrou fígado de dimensões normais, 
+bordas finas, ecotextura discretamente heterogênea e 
+esteatose de grau moderado.  
+ 
+• Exames laboratoriais:  
+HbA1c: 6,5% 
+LDL colesterol: 110 mg/dL 
+Triglicérides: 130 mg/dL 
+TGO/AST: 35 U/L 
+TGP/ALT: 38 U/L 
+ 
+Considerando o caso apresentado, o próximo passo mais 
+adequado é: 
+ 
+(A) Calcular FIB-4. 
+(B) Realizar biópsia hepática. 
+(C) Repetir transaminases em seis meses. 
+(D) Repetir imagem em um ano. 
+##### 
+ 
+ 
+{46} 
+Homem, 77 anos de idade, bancário aposentado, sedentário, 
+hipertenso, diabético e tabagista, apresenta perda de 
+iniciativa e diminuição da interação social. Ele nega tristeza ou 
+falta de prazer nas atividades. A esposa relata lapsos de 
+memória com piora no último ano. Tem dificuldades para 
+controlar 
+as 
+suas 
+finanças, 
+precisando 
+de 
+ajuda 
+ocasionalmente, mas é independente em suas atividades 
+diárias. Testes cognitivos com alterações significativas nos 
+domínios de atenção e de memória. Exames laboratoriais e de 
+neuroimagem sem alterações. A conduta terapêutica mais 
+adequada é: 
+ 
+(A) Donepezila. 
+(B) Memantina. 
+(C) Reabilitação cognitiva. 
+(D) Estimulação magnética transcraniana. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 14 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{47} 
+Paciente, 57 anos de idade, hospitalizada por quadro de 
+adinamia e confusão nos últimos três dias. Encontra-se 
+emagrecida, hidratada, com taquipneia e afebril. Familiares 
+relatam inapetência há cerca de três meses, associada a luto 
+recente pelo falecimento do marido.  
+ 
+• Exames laboratoriais:  
+Na+: 122 mEq/L 
+Cr: 1,1 mg/dL 
+K+: 3,5 mEq/L 
+C,-: 103 mEq/L 
+Urina tipo 1 com densidade de 1,030 
+ 
+Assinale a alternativa que apresenta o exame de imagem mais 
+compatível com o caso clínico apresentado. 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+##### 
+{48} 
+Em um estudo clínico, 889 pacientes submetidos a tratamento 
+adjuvante para câncer colorretal foram aleatorizados para 
+realizar atividade física estruturada ou receber materiais 
+educativos sobre saúde. Após um seguimento de 7,9 anos, 
+observou-se uma diferença em cinco anos de sobrevida livre 
+de doença de 80,3% para o grupo que realizou atividade física 
+e 73,9% para o grupo de educação em saúde. Isto 
+correspondeu a um hazard ratio de 0,72 com IC95% 0,55 a 0,94. 
+É possível afirmar: 
+ 
+(A) O desenho do estudo apresenta viés de seleção e, 
+portanto, baixa validade externa. 
+(B) O tempo de seguimento é inadequado para a proposta do 
+estudo em questão. 
+(C) A diferença absoluta de 6,4% é clinicamente e 
+estatisticamente significativa. 
+(D) Não é possível inferir a magnitude do ganho pelos dados 
+apresentados. 
+##### 
+ 
+{49} 
+Homem, 42 anos de idade, asmático, está em tratamento com 
+beclometasona 500 µg, inalatória, 12/12 horas e salbutamol 
+100 µg de resgate. Apresentou melhora inicial dos sintomas, 
+porém necessita de resgate quatro vezes por semana. Nos 
+últimos três meses, teve uma crise em que necessitou de 
+corticoterapia oral. Assinale a alternativa que apresenta a 
+conduta mais apropriada. 
+ 
+(A) Manter corticoide inalatório e resgate com β2-agonista de 
+curta duração e associar antileucotrieno 
+(B) Associar broncodilatador anticolinérgico ao corticoide 
+inalatório e manter β2-agonista de curta duração. 
+(C) Aumentar dose do corticoide inalatório e manter resgate 
+com β2-agonista de curta duração. 
+(D) Substituir terapia por β2-agonista de longa duração 
+associado a corticoide inalatório para manutenção e 
+resgate. 
+##### 
+ 
+{50} 
+Homem, 70 anos de idade, ex-tabagista com carga de  
+50 anos-maço e abstêmio há 5 anos. Há 8 anos, com quadro 
+de dispneia progressiva e tosse crônica. No último ano, 
+apresentou duas idas ao pronto-socorro com necessidade de 
+corticoide associada à antibioticoterapia oral. Espirometria 
+com VEF1 38%, sem mudança após broncodilatador.  
+ 
+• Exames laboratoriais:  
+Hemoglobina: 16,5 g/dL 
+Leucócitos: 8.100/mm3 
+Eosinófilos: 380/mm3 
+Ur: 38 mg/dL 
+Cr: 1,2 mg/dL 
+ 
+Além de β2 de longa duração, a terapia mais adequada para 
+este paciente deve incluir: 
+ 
+(A) Metilxantina e corticoide inalatório. 
+(B) Metilxantina e corticoide oral. 
+(C) Anticolinérgico de longa duração e corticoide oral. 
+(D) Anticolinérgico. 
+##### 
+ 
+ 
+
+
+--- PAGE 15 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{51} 
+Homem, 52 anos de idade, com história de regurgitação 
+noturna importante, acompanhada de leve queimação há 6 
+meses. Refere que pela regurgitação estava comendo menos 
+e perdeu 3 kg no período. Procurou atendimento médico, 
+sendo solicitada endoscopia digestiva alta, a qual apresentou 
+achado de esofagite erosiva grau A. Tentou tratamento com 
+inibidor de bomba de prótons por 3 meses sem resposta 
+clínica satisfatória. Foi indicado tratamento cirúrgico com 
+fundoplicatura total + hiatoplastia para tratamento de refluxo 
+refratário, o paciente evoluiu com disfagia importante no pós-
+operatório. Com base no caso apresentado, pode-se afirmar: 
+ 
+(A) O paciente evoluiu com quadro de pseudoacalasia 
+causada por possível hiato apertado. 
+(B) A indicação cirúrgica foi precipitada, pois não foram 
+afastados diagnósticos diferenciais para o quadro clínico. 
+(C) A indicação está correta, pois trata-se de doença do 
+refluxo refratária, sendo o tratamento cirúrgico a melhor 
+opção. 
+(D) A esofagite grau A afasta o diagnóstico de refluxo 
+gastroesofágico, segundo os critérios do consenso de 
+Lyon 2-0. 
+##### 
+ 
+{52} 
+Uma 
+das 
+complicações 
+da 
+Doença 
+do 
+Refluxo 
+Gastroesofágico (DRGE) é o esôfago de Barrett, quanto à essa 
+complicação, pode-se afirmar: 
+ 
+(A) A fundoplicatura ideal no esôfago de Barrett é a 
+fundoplicatura parcial, uma vez que estes pacientes 
+apresentam 
+grande 
+prevalência 
+de 
+dismotilidade 
+esofágica. 
+(B) O tratamento cirúrgico da doença do refluxo, em pacientes 
+com esôfago de Barrett, pode estabilizar o epitélio colunar 
+e reduzir o risco de desenvolvimento de adenocarcinoma, 
+porém, o seguimento endoscópico dos pacientes 
+operados 
+deve 
+ser 
+mantido 
+segundo 
+protocolos 
+específicos. 
+(C) O tratamento cirúrgico do refluxo gastroesofágico, nos 
+pacientes com esôfago de Barrett, libera esses pacientes 
+do seguimento endoscópico, uma vez que, diminui a 
+inflamação do epitélio e o risco de carcinogênese. 
+(D) A pH-metria de 24 horas deve ser realizada em todos os 
+pacientes com esôfago de Barrett para a programação do 
+tratamento adequado. 
+##### 
+ 
+{53} 
+Homem, 52 anos de idade, com história de etilismo crônico, 
+apresenta dor epigástrica recorrente há vários anos, com 
+episódios de piora pós-prandial e irradiação para o dorso. 
+Refere perda de peso de 7 kg nos últimos 6 meses, com 
+progressiva piora da dor, mesmo após suspender uso de 
+álcool. Tomografia de abdome revela pâncreas atrófico, ducto 
+pancreático principal dilatado (9 mm) e presença de 
+calcificações intraductais. Não há lesão focal ou sinais de 
+complicação aguda. Assinale a alternativa que apresenta a 
+melhor conduta para o paciente. 
+ 
+(A) Pancreatoscopia e litotripsia. 
+(B) Derivação pancreatojejunal. 
+(C) Alcoolização do plexo celíaco. 
+(D) Reposição de enzimas pancreáticas. ##### 
+{54} 
+Homem, 45 anos de idade, referindo disfagia progressiva para 
+sólidos há 2 anos e, recentemente, para alimentos pastosos, 
+com dificuldade de tomar água por vezes, realizou 
+endoscopia há 10 meses que veio normal. Nega ser de zona 
+endêmica para Doença de Chagas, refere ter perdido 5 kg no 
+último ano. Com relação ao caso descrito, assinale a 
+alternativa correta. 
+ 
+(A) Deve-se prosseguir a investigação diagnóstica com raio-X 
+contrastado do esôfago e manometria esofágica. 
+(B) Pela disfagia progressiva e perda de peso, deve tratar-se 
+de um câncer de esôfago, sendo necessário repetir a 
+endoscopia o mais rápido possível. 
+(C) Confirmando-se 
+o 
+diagnóstico 
+de 
+acalasia 
+pela 
+manometria esofágica, deve-se encaminhar o paciente 
+para uma cardiomiotomia endoscópica (POEM). 
+(D) Com a endoscopia normal e a epidemiologia negativa para 
+Chagas, fica afastada a hipótese de acalasia. 
+##### 
+ 
+{55} 
+Homem, 63 anos de idade, realizou endoscopia digestiva alta 
+devido a queixas dispépticas pós-prandiais. No exame, foi 
+notada gastrite leve em antro e abaulamento subepitelial em 
+pequena curvatura de corpo alto, medindo 1,7 cm. Na 
+investigação, realizou ecoendoscopia que mostrou que a 
+massa se originava na 4ª camada da parede gástrica e a 
+punção com agulha fina revelou neoplasia fusocelular, com < 
+5 mitoses por 50 campos de alta potência. A imuno-
+histoquímica mostrou os seguintes marcadores positivos: 
+actina de músculo liso, DOG-1, CD117. O diagnóstico e a 
+conduta são, respectivamente: 
+ 
+(A) Leiomioma gástrico, seguimento endoscópico. 
+(B) Leiomioma gástrico, ressecção cirúrgica. 
+(C) Tumor do Estroma Gastrointestinal (GIST), ressecção 
+cirúrgica. 
+(D) Tumor do Estroma Gastrointestinal (GIST), seguimento 
+endoscópico. 
+##### 
+ 
+{56} 
+Homem, 66 anos de idade, portador de diabetes melito tipo 2 
+controlado (em uso de apenas um medicamento diário), 
+dislipidêmico e sem hipertensão arterial. Ao exame físico, 
+apresentava-se em bom estado geral, com índice de massa 
+corpórea de 43 kg/m2, sendo a restrição de mobilidade 
+relacionada ao excesso de peso sua principal queixa, sem 
+evidência de sarcopenia. A endoscopia pré-operatória 
+mostrou esofagite grau C de Los Angeles. Assinale a 
+alternativa que apresenta a melhor conduta terapêutica para o 
+paciente. 
+ 
+(A) Gastrectomia vertical, por se tratar de um idoso. 
+(B) Balão intragástrico, pois o paciente não tem indicação 
+cirúrgica. 
+(C) Bypass gástrico, se o paciente for clinicamente apto, pois 
+irá se beneficiar com a cirurgia em vários aspectos. 
+(D) Encaminhar para o endocrinologista acompanhar e fazer 
+tratamento clínico, pois o paciente não preenche os 
+critérios de inclusão ao tratamento cirúrgico, segundo a 
+Agência Nacional de Saúde (ANS). 
+##### 
+ 
+ 
+
+
+--- PAGE 16 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+Texto para as questões 57 e 58 
+ 
+Homem, 61 anos de idade, com antecedente de hepatite C desde 2012, tratada com resposta virológica sustentada. Apresentou, 
+em seguimento ambulatorial, nódulo em lobo hepático direito à ultrassonografia, medindo 4,5 cm. Nega ascite, episódios de 
+confusão mental ou hemorragia digestiva. Child-Pugh A6, Model for End-Stage Liver Disease (MELD) = 7. Realizou ressonância 
+magnética de abdome com contraste, apresentada na imagem a seguir: 
+ 
+ 
+ 
+{57} 
+Baseado na imagem, qual o diagnóstico do paciente e em qual segmento hepático está localizada a lesão? 
+ 
+(A) Carcinoma hepatocelular, segmento 4a. 
+(B) Colangiocarcinoma intra-hepático, segmento 5. 
+(C) Carcinoma hepatocelular, segmento 7. 
+(D) Carcinoma hepatocelular, segmento 8. 
+##### 
+ 
+{58} 
+O caso foi discutido em reunião multidisciplinar e optado pela abordagem cirúrgica do paciente, as imagens a seguir mostram o 
+aspecto final da cirurgia. 
+ 
+ 
+ 
+Qual cirurgia foi realizada e quais estruturas são apontadas pelas setas 1 e 2, respectivamente? 
+ 
+(A) Ressecção regrada do segmento 4, veia hepática média, veia hepática esquerda. 
+(B) Mesohepatectomia não regrada, veia hepática média, veia hepática esquerda. 
+(C) Setorectomia anterior direita, veia hepática direita, veia hepática média.  
+(D) Setorectomia posterior direita, veia hepática média, veia hepática esquerda. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 17 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{59} 
+Homem, 67 anos de idade, com adenocarcinoma bem 
+diferenciado de antro gástrico, com boa funcionalidade, 
+estadiado clinicamente como cT2cN+ (lesão restrita à camada 
+muscular e com 1 linfonodo suspeito perilesional). Assinale a 
+alternativa que indica a melhor conduta para o paciente 
+apresentado. 
+ 
+(A) Quimioterapia perioperatória. 
+(B) Gastrectomia subtotal com linfadenectomia D1+. 
+(C) Gastrectomia subtotal com linfadenectomia D2. 
+(D) Gastrectomia total com linfadenectomia D2. 
+##### 
+ 
+{60} 
+Mulher, 45 anos de idade, com antecedente de retocolite 
+ulcerativa idiopática, apresenta episódios recorrentes de febre, 
+calafrios, icterícia e hipocolia fecal. Colangiorressonância 
+mostra estenoses multifocais e irregularidades, alternando com 
+dilatações das vias biliares intra e extra-hepáticas. Assinale a 
+alternativa que apresenta a principal hipótese diagnóstica. 
+ 
+(A) Coledocolitiase. 
+(B) Colangiocarcinoma. 
+(C) Cirrose biliar primária. 
+(D) Colangite esclerosante primária. 
+##### 
+ 
+{61} 
+Homem, 85 anos de idade, internado em UTI devido a infarto 
+agudo do miocárdio com supra de ST, submetido à 
+angioplastia com stent há 5 dias, evolui com dor em 
+hipocôndrio direito. Apresenta frequência cardíaca de  
+130 bpm, PAM de 58 mmHg, Exames laboratoriais mostram 
+alterações de transaminases, leucocitose lesão renal aguda e 
+plaquetopenia (45.000/mm3). A ultrassonografia de abdome 
+identificou espessamento da parede da vesícula biliar e 
+cálculo 
+biliar 
+impactado 
+em 
+infundíbulo. 
+Realizada 
+ressuscitação 
+volêmica, 
+iniciados 
+vasopressores 
+e 
+antibioticoterapia. Assinale a alternativa que indica a conduta 
+mais apropriada nesse momento. 
+ 
+(A) Colecistostomia percutânea. 
+(B) Colecistectomia laparoscópica. 
+(C) Suporte intensivo e observação clínica. 
+(D) Colangiopancreatografia retrógrada endoscópica. 
+##### 
+ 
+{62} 
+Com relação à classificação molecular do adenoma hepático, 
+é correto afirmar: 
+ 
+(A) É 
+baseada 
+em 
+achados 
+encontrados 
+em 
+cortes 
+histológicos corados com hematoxilina e eosina. 
+(B) O subtipo hepatocyte nuclear factor 1 alpha (HNF1 alfa) 
+inativado, 
+também 
+conhecido 
+como 
+“adenoma 
+esteatótico”, 
+tem 
+baixo 
+risco 
+de 
+desenvolver 
+complicações. 
+(C) O subtipo com presença de mutação da beta-catenina tem 
+maior risco de rotura e sangramento. 
+(D) O subtipo inflamatório não tem associação com o uso de 
+anticoncepcionais orais. 
+##### 
+ 
+{63} 
+Com relação ao tratamento cirúrgico da doença inflamatória 
+intestinal, pode-se afirmar: 
+ 
+(A) A otimização pré-operatória do paciente geralmente não 
+melhora as condições em que o paciente é operado. 
+(B) Diferentes 
+técnicas 
+de 
+anastomose 
+devem 
+ser 
+consideradas com base na gravidade e na localização da 
+Doença de Crohn. 
+(C) A radicalidade cirúrgica com ressecção de todas as áreas 
+acometidas é fundamental para diminuir a recidiva da 
+Doença de Crohn. 
+(D) Para obter-se os melhores resultados com menor taxa de 
+recidiva, o momento ideal da cirurgia da Doença de Crohn 
+do cólon é assim que o paciente começa a apresentar 
+aumento do número de evacuações. 
+##### 
+ 
+{64} 
+Assinale a alternativa correta quanto à neoplasia de cólon. 
+ 
+(A) Os 
+objetivos 
+da 
+ressecção 
+são 
+obter 
+margens 
+circunferenciais negativas e remover a região do 
+mesentério com maior risco de disseminação linfática. 
+(B) A quimiorradioterapia neoadjuvante total seguida de 
+ressecção cirúrgica do adenocarcinoma de cólon 
+esquerdo estágio III oferece a menor taxa de recidiva local 
+e maior sobrevida. 
+(C) A região do mesentério com maior risco de disseminação 
+linfática a ser removida é pouco relacionada à sua 
+embriologia, mas principalmente à fisiologia. 
+(D) A 
+extensão 
+da 
+colectomia 
+é 
+determinada 
+pela 
+profundidade, 
+extensão 
+e 
+tamanho 
+luminal 
+do 
+adenocarcinoma localmente avançado. 
+##### 
+ 
+{65} 
+Quanto aos abcessos e fístulas perianais, assinale a 
+alternativa correta. 
+ 
+(A) Raramente (menos de 1/10 dos casos) os abscessos 
+criptoglandulares evoluem para fístulas. 
+(B) Para o tratamento cirúrgico eficaz da fístula perianal 
+interesficteriana, o exame sob anestesia na sala cirúrgica 
+é de menor valia que a tomografia de pelve.  
+(C) O abscesso anorretal deve ser tratado prioritariamente 
+com drenagem cirúrgica, e não com antibioticoterapia. 
+(D) As prioridades no manejo, geralmente, seguem a esta 
+ordem de importância: cura sem recorrência, preservação 
+da continência e por fim, controle da sepse. 
+##### 
+ 
+{66} 
+Mulher, 27 anos de idade, submetida à derivação gástrica em 
+Y de Roux (bypass gástrico), apresenta, trinta dias após o 
+procedimento, quadro de vômitos frequentes, evoluindo 
+alguns dias depois com diplopia e confusão mental. Este 
+quadro clínico pode indicar 
+ 
+(A) fístula gástrica 
+(B) deficiência de Zinco. 
+(C) deficiência de vitamina A. 
+(D) deficiência de vitamina B1. 
+#####
+
+
+--- PAGE 18 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{67} 
+Mulher, 37 anos de idade, proveniente da Bolívia, mora em São Paulo há 5 anos. Refere dor em região do hipocôndrio direito com 
+piora progressiva há 3 anos, nega emagrecimento. Fez ultrassom de abdome total que evidenciou lesão cística complexa no lobo 
+hepático direito medindo 15 cm, com paredes espessadas, septos grosseiros e “cistos filhos”. Foi solicitada ressonância magnética, 
+a qual pode ser observada nas imagens a seguir:  
+ 
+ 
+ 
+Baseado nos dados clínicos e exame de imagem, assinale a alternativa que apresenta o diagnóstico mais provável e o melhor 
+tratamento para essa paciente. 
+ 
+(A) Cisto hidático (hidatidose) e pericistectomia. 
+(B) Cisto hepático simples e “destelhamento” laparoscópico. 
+(C) Abscesso hepático e drenagem por radiologia intervencionista. 
+(D) Neoplasia cística mucinosa hepática (cistoadenoma biliar) e hepatectomia direita. 
+#####
+ 
+{68} 
+Mulher, 65 anos de idade, assintomática, com achado 
+incidental em ultrassonografia de abdome de cisto em cauda 
+do pâncreas. Realizou ressonância magnética de abdome 
+superior que evidenciou lesão cística na cauda do pâncreas, 
+medindo 2,7 cm, com comunicação com o ducto pancreático 
+principal, o qual tem calibre de 0,5 cm, não foram visualizados 
+nódulos 
+ou 
+vegetações 
+dentro 
+do 
+cisto. 
+Realizou 
+ecoendoscopia que confirmou os achados da ressonância, 
+sendo realizada punção do cisto para análise, a qual revelou 
+presença 
+de 
+mucina 
+e 
+dosagem 
+do 
+Antígeno 
+Carcinoembrionário (CEA) de 350 ng/mL. CA 19-9 sérico 
+normal. O diagnóstico mais provável e a conduta para essa 
+paciente são, respectivamente, 
+ 
+(A) neoplasia mucinosa papilar intraductal (IPMN) de ductos 
+secundários, pancreatectomia caudal com preservação 
+esplênica. 
+(B) neoplasia mucinosa papilar intraductal (IPMN) do tipo 
+misto, pancreatectomia corpocaudal com preservação 
+esplênica. 
+(C) neoplasia mucinosa papilar intraductal (IPMN) de ductos 
+secundários, seguimento com exames de imagem. 
+(D) neoplasia cística mucinosa, pancreatectomia caudal + 
+esplenectomia. 
+##### 
+ 
+{69} 
+É etapa fundamental da cirurgia radical no tratamento do 
+adenocarcinoma gástrico: 
+ 
+(A) Bursectomia. 
+(B) Omentectomia. 
+(C) Coleta de citologia oncótica. 
+(D) Margem de 2 cm nas lesões T1. 
+##### 
+ 
+{70} 
+Considere uma paciente com Tumor Neuroendócrino (TNE) 
+gástrico do tipo clínico 1, bem diferenciado (grau 1) da 
+Organização Mundial de Saúde à biópsia. Pode-se esperar os 
+seguintes achados endoscópicos e laboratoriais: 
+ 
+(A) Gastrite atrófica, múltiplas lesões elevadas pequenas (< 1 
+cm), anticorpo anti-células parietais positivo. 
+(B) Hiperplasia de pregas gástricas, múltiplas lesões elevadas 
+pequenas (< 1 cm), gastrina sérica elevada. 
+(C) Múltiplas lesões elevadas pequenas (< 1 cm), úlceras 
+pépticas, gastrina sérica elevada. 
+(D) Lesão vegetante única, tamanho > 1 cm, gastrina sérica 
+normal. 
+##### 
+ 
+{71} 
+Mulher, 38 anos de idade, no 43º dia pós-operatório de bypass 
+gástrico. Admitida no pronto atendimento com queixa recente 
+de disfagia progressiva. Relata estar seguindo corretamente a 
+dieta orientada pela nutricionista, tendo iniciado dieta sólida 
+há 1 semana, período em que iniciaram os sintomas. Refere 
+piora com disfagia para sólidos nos últimos dias. Ao exame 
+físico, encontra-se com sinais leves de desidratação e 
+abdome inocente. A causa mais provável do quadro e seu 
+tratamento são 
+ 
+(A) hérnia interna, tratamento cirúrgico. 
+(B) esofagite de refluxo, tratamento clínico. 
+(C) distensão aguda do estômago excluso, tratamento 
+cirúrgico. 
+(D) estenose 
+da 
+gastroenteroanastomose, 
+tratamento 
+endoscópico. 
+##### 
+ 
+ 
+
+
+--- PAGE 19 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{72} 
+Homem, 62 anos de idade, sem comorbidades, refere quadro 
+de icterícia e colúria há 15 dias. Realizou exame de 
+ressonância magnética de abdome superior que demonstrou 
+dilatação das vias biliares intra-hepáticas e lesão compatível 
+com colangiocarcinoma hilar Bismuth IIIa medindo 3,1 cm, 
+com acometimento da artéria hepática direita. Tomografia de 
+tórax sem evidência de doença à distância. Ao exame físico, 
+bom estado geral, eutrófico, ictérico ++/4+.  
+ 
+• Exames laboratoriais: 
+Bilirrubina total: 14 mg/dL (VR: 0,2 a 1,1 mg/dL) 
+Bilirrubina direta: 12,3 mg/dL (VR: 0,0 a 0,3 mg/dL) 
+CA 19-9: 5.330 U/mL (VR: < 37 U/mL) 
+ 
+O volume calculado do remanescente hepático foi de 30% do 
+volume hepático total. Qual a melhor conduta para o paciente, 
+neste momento? 
+ 
+(A) Quimio e radioterapia de consolidação. 
+(B) Trissetorectomia esquerda + linfadenectomia hilar + 
+anastomose biliodigestiva. 
+(C) Drenagem transparieto-hepática do lobo esquerdo e 
+embolização por radiologia intervencionista do ramo portal 
+direito. 
+(D) Drenagem transparieto-hepática do lobo direito seguida 
+de trissetorectomia direita + ressecção do segmento 1 + 
+linfadenectomia hilar + anastomose biliodigestiva. 
+##### 
+ 
+{73} 
+Adolescente do sexo feminino, 16 anos de idade, com 
+histórico de obesidade desde a infância. Atualmente, 
+apresenta índice de massa corpórea de 63 kg/m2, hipertensão 
+arterial sistêmica e resistência periférica à insulina. Assinale a 
+alternativa que apresenta a melhor opção terapêutica.  
+ 
+(A) Derivação biliopancreática com desvio duodenal por se 
+tratar da melhor cirurgia para super-obesos. 
+(B) Bypass gástrico por se tratar de um procedimento seguro 
+e levar à remissão das comorbidades. 
+(C) Gastrectomia vertical por se tratar de uma adolescente. 
+(D) Tratamento pré-operatório com balão intragástrico e 
+medidas clinicas para perda de peso; integração com a 
+equipe multidisciplinar de cirurgia bariátrica, sendo a 
+técnica discutida com a participação da família. 
+##### 
+ 
+{74} 
+Homem, 59 anos de idade, submetido à gastrectomia vertical, 
+no 5º dia pós-operatório apresenta sinais de septicemia. O 
+exame 
+tomográfico 
+confirmou 
+o 
+diagnóstico 
+de 
+extravasamento de grande quantidade de contraste para a 
+cavidade abdominal. Assinale a alternativa que apresenta a 
+conduta mais adequada. 
+ 
+(A) Encaminhar para endoscopia para colocação de prótese. 
+(B) Laparoscopia com limpeza da cavidade e colocação de 
+dreno para direcionar a fístula e depois chamar o serviço 
+de endoscopia para posicionar prótese, se necessário. 
+(C) Como se trata de uma fístula precoce, o melhor 
+procedimento é suturar o orifício e realizar a limpeza da 
+cavidade. 
+(D) Suturar uma alça de delgado sobre o orifício para ocluir a 
+fístula e realizar a limpeza da cavidade. 
+##### 
+{75} 
+Assinale a alternativa correta. 
+ 
+(A) A altura da reflexão peritoneal anterior do reto é constante 
+(12 cm) sendo importante reparo anatômico para o 
+tratamento cirúrgico do prolapso retal por via perineal. 
+(B) Os espaços isquioanais dividem-se em proximal e distal, e 
+justificam a fístula em ferradura e seu tratamento cirúrgico. 
+(C) A flexura esplênica do cólon é zona de risco de isquemia 
+devido ao reduzido fluxo da artéria cólica média. 
+(D) A linha pectínea (dentada) representa a verdadeira divisão 
+entre o endoderma e o ectoderma embrionários, sendo as 
+topografias originais do adenocarcinoma e carcinoma 
+espinocelular, respectivamente. 
+##### 
+ 
+{76} 
+Com 
+relação 
+aos 
+pacientes 
+portadores 
+de 
+doença 
+hemorroidária com sangramento esporádico (anual) e indolor, 
+com pequeno componente externo totalmente assintomático, 
+assinale a alternativa correta. 
+ 
+(A) Procedimentos 
+ambulatoriais 
+são 
+eficazes 
+para 
+hemorroidas internas sintomáticas de grau III e IV. 
+(B) São complicações da cirurgia hemorroidária: retenção 
+urinária, sangramento, infecção, estenose, incontinência e 
+recorrência. 
+(C) Têm indicação cirúrgica de princípio: pacientes grávidas, 
+Doença de Crohn, imunodeprimidos e hipertensão portal. 
+(D) Minimizar o esforço evacuatório, melhorar a hidratação e 
+aumentar a ingestão de fibras são pouco eficazes no 
+controle de sintomas e indicados como paliativos. 
+##### 
+ 
+{77} 
+Mulher, 78 anos de idade, apresenta quadro asmático de 
+longa data. Foi encaminhada por médico pneumologista após 
+apresentar, em tomografia de tórax, grande hérnia hiatal com 
+migração de grande parte do estômago para o tórax. Paciente 
+com obesidade grau I (IMC de 30,5 kg/m2), nega disfagia, 
+vômitos ou dores. Refere leve empachamento quando se 
+alimenta de forma exagerada. Assinale a alternativa que 
+apresenta a melhor opção para a condução do caso. 
+ 
+(A) Programar tratamento cirúrgico com colocação de tela 
+inabsorvível no hiato para evitar recidiva. 
+(B) Programar tratamento cirúrgico com colocação de tela 
+absorvível no hiato para diminuir a chance de recidiva e 
+risco de obstrução gástrica pela hérnia. 
+(C) Afastar complicações clínicas como anemia ou doenças 
+esofágicas e gástricas, sendo que após isto, a conduta 
+expectante pode ser realizada tendo em vista que a 
+paciente é oligossintomática. 
+(D) Manometria esofágica para programar cirurgia, uma vez 
+que a paciente precisa de fundoplicatura para completar 
+a hiatoplastia. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 20 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{78} 
+Homem, 53 anos de idade, tabagista e etilista de longa data, 
+desenvolveu lesão em base de língua, investigada e tratada 
+pela 
+oncologia 
+como 
+carcinoma 
+espinocelular 
+com 
+quimioterapia 
+e 
+radioterapia. 
+Na 
+complementação 
+diagnóstica, foi submetido à endoscopia digestiva alta, que 
+evidenciou lesão elevada avançada e infiltrativa em região de 
+esôfago médio a 23 cm da arcada dentária superior. A biópsia 
+mostrou ser um carcinoma espinocelular moderadamente 
+diferenciado. Durante o estadiamento, a tomografia de tórax 
+evidenciou espessamento do esôfago médio com linfonodos 
+adjacentes e enfisema pulmonar. Em seguida, foi realizada 
+PET-CT com 18F-FDG (fluorodesoxiglicose) com achado de 
+hipercaptação na região do esôfago médio e em pequeno 
+linfonodo adjacente. Com base no caso descrito, assinale a 
+alternativa que apresenta a melhor opção de tratamento para 
+o paciente. 
+ 
+(A) O paciente deverá ser submetido à esofagectomia pela 
+técnica de Ivor Lewis para evitar anastomose cervical em 
+área irradiada. 
+(B) O tratamento com quimioterapia e radioterapia definitivas 
+se impõe, uma vez que este paciente já foi irradiado. 
+(C) Realizar ecoendoscopia para avaliar possibilidade de 
+tratamento endoscópico. 
+(D) O caso do paciente deverá ser discutido em reunião 
+multidisciplinar 
+e, 
+pelo 
+estadiamento 
+avançado, 
+provavelmente deverá ser encaminhado para tratamento 
+neoadjuvante com quimioterapia e radioterapia.  
+##### 
+ 
+{79} 
+Homem, 65 anos de idade, com achado incidental em 
+ressonância magnética de abdome, de nódulo sólido na 
+cauda do pâncreas. A lesão tem limites precisos, mede 4,0 cm 
+e 
+é 
+hipervascularizada 
+na 
+fase 
+arterial 
+do 
+exame, 
+apresentando restrição à difusão na fase específica. Qual 
+exame é mais adequado para complementar o estadiamento? 
+ 
+(A) Laparoscopia diagnóstica. 
+(B) PET-CT Ga68 DOTATATE. 
+(C) PET-CT com 18F-FDG (fluorodesoxiglicose). 
+(D) Tomografia computadorizada de tórax, abdome e pelve. 
+##### 
+ 
+{80} 
+Homem, 68 anos de idade, com hipertensão e diabetes melito 
+controlados, sedentário, tabagista, com pontuação 1 pela 
+escala de desempenho do Eastern Cooperative Oncology 
+Group (ECOG). Lesão ulcerada de 8 mm na grande curvatura, 
+junto à transição entre corpo e antro gástrico foi observada na 
+endoscopia digestiva alta. A biópsia demonstrou tratar-se de 
+adenocarcinoma 
+gástrico 
+tipo 
+difuso 
+de 
+Lauren. 
+Ecoendoscopia estadiou a lesão como cT1b (submucosa) 
+cN0 (sem linfonodos suspeitos). Tomografia computadorizada 
+normal. Assinale a alternativa que apresenta a melhor conduta 
+para o caso descrito. 
+ 
+(A) Ressecção endoscópica submucosa (ESD). 
+(B) Gastrectomia em cunha sem linfadenectomia. 
+(C) Gastrectomia subtotal com linfadenectomia D1+. 
+(D) Gastrectomia total com linfadenectomia D2. 
+##### 
+ 
+ 
+ 
+{81} 
+Homem, 51 anos de idade, comparece ao pronto-socorro 
+referindo dor abdominal difusa súbita e o aparecimento de um 
+abaulamento arredondado e doloroso na região inguinal 
+direita. Relatou a presença de evacuação e de eliminações de 
+gases. Ao exame clínico, foi identificado um abaulamento 
+pseudotumoral na região inguinal direita, de consistência 
+firme, dolorosa tanto espontaneamente quanto à palpação, 
+sem aumento ao tossir, irredutível às manobras, e a pele 
+apresentava coloração normal. O abdome não estava 
+distendido e apresentava-se móvel às incursões respiratórias, 
+embora doloroso tanto espontaneamente quanto à palpação 
+profunda nos quadrantes inferiores, sem defesa ou contratura 
+muscular. Toque retal normal. O paciente foi operado através 
+de uma incisão inguinal. Dentro do saco herniário observou-se 
+a presença de 50 mL de líquido sanguinolento e um divertículo 
+de intestino delgado de 6 cm de comprimento com 2 cm de 
+base isquêmico. Com base no caso apresentado, pode-se 
+afirmar que se trata de uma hérnia  
+ 
+(A) de Littre. 
+(B) Amyand. 
+(C) de Richter. 
+(D) de Spiegel. 
+##### 
+ 
+{82} 
+Homem, 20 anos de idade, vítima de ferimento penetrante por 
+arma de fogo em hemitórax direito, com orifício de entrada na 
+linha hemiclavicular na altura do 3º espaço intercostal direito e 
+saída na linha axilar média no 4º espaço intercostal direito. 
+IMC de 30 kg/m2. Ao exame físico, apresentou PA de  
+70×50 mmHg, FC de 120 bpm, FR de 22 irpm, SpO2 de 86%. 
+Fala intercortado. Ausculta pulmonar com ausência de 
+murmúrio vesicular do lado direito, som timpânico a 
+percussão. Assinale a alternativa que apresenta o tratamento 
+indicado neste momento. 
+ 
+(A) Intubação orotraqueal e ventilação mecânica. 
+(B) Máscara não reinalante e drenagem torácica. 
+(C) Máscara não reinalante e iniciar protocolo de transfusão 
+maciça. 
+(D) Drenagem torácica e iniciar protocolo de transfusão 
+maciça. 
+##### 
+ 
+{83} 
+Homem, 65 anos de idade, submetido à cirurgia de 
+revascularização do miocárdio há 5 dias e apresentou 
+distensão abdominal, parada eliminação de gases e fezes. Foi 
+diagnosticado com pseudo-obstrução intestinal (Ogilve), 
+sendo realizada descompressão do colo através de 
+colonoscopia. Após 24 horas, o paciente apresentou dor 
+abdominal intensa e foi realizado um raio-X de abdome que 
+identificou pneumoperitônio. O paciente foi submetido à 
+laparotomia exploradora e encontrado área de necrose no 
+ceco com perfuração e somente distensão do colo. Qual a 
+conduta cirúrgica recomendada? 
+ 
+(A) Cecostomia. 
+(B) Colectomia total. 
+(C) Colectomia parcial direita com ileostomia e colostomia. 
+(D) Colectomia parcial com anastomose ileocolica manual. 
+##### 
+ 
+ 
+
+
+--- PAGE 21 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{84} 
+Mulher, 45 anos de idade, comparece ao pronto socorro referindo dor na região inguinal há 2 dias, nega náusea ou vomito, e relata 
+ter evacuado ontem. Ao exame físico, apresenta abdome plano normotenso com um abaulamento na região inguinal de 15 cm de 
+diâmetro irredutível, apresenta pele hiperemiada na região do abalamento não permitindo tocar nesta região. Foi indicada cirurgia 
+por inguinal direita, onde observou-se o achado demonstrado nas imagens a seguir: 
+ 
+ 
+ 
+ 
+Com base no caso apresentado, assinale a alternativa que indica o diagnóstico correto e o tratamento indicado. 
+ 
+(A) Hérnia femoral estrangulada – laparotomia infra-umbelical e ressecção da alça intestinal e reparo da hérnia com tela. 
+(B) Hérnia femoral estrangulada – ressecção da alça e reparo com tela pela incisão inguinal. 
+(C) Hérnia inguinal estrangulada – ressecção da alça e correção com tela e realizar um vídeo laparoscopia para avaliar o restante 
+da cavidade peritoneal. 
+(D) Hérnia inguinal encarcerada – aumentar o anel herniário, aquecer a alça intestinal e reduzir o conteúdo e realizar reparo com 
+tela. 
+#####
+ 
+{85} 
+Observe o gráfico de tromboelastograma apresentado a 
+seguir: 
+ 
+ 
+ 
+Assinale a alternativa que apresenta o segmento que, quando 
+diminuído, representa a falta de plaquetas. 
+ 
+(A) ML. 
+(B) CT. 
+(C) CFT. 
+(D) MCF. 
+##### 
+ 
+ 
+ 
+{86} 
+Paciente vítima de ferimento por arma de fogo no flanco 
+esquerdo é admitido na unidade de emergência consciente e 
+referindo dor abdominal. Ao exame abdominal, observa-se um 
+orifício em flanco esquerdo, com saída na região dorsal 
+esquerda, na altura de L2 a 5 cm da coluna. Foi indicada 
+laparotomia exploradora, onde foram identificadas três lesões 
+transfixantes de intestino delgado há 20, 30 e 35 cm do 
+ligamento de Treitz, visualiza-se um hematoma na zona dois à 
+esquerda não pulsátil e que durante a cirurgia não estava em 
+expansão. A conduta cirúrgica recomendada é:  
+ 
+(A) Somente a ressecção e anastomose primária do intestino 
+delgado. 
+(B) Somente o desbridamento e sutura dos ferimentos de 
+delgado e drenagem da cavidade. 
+(C) Ressecção e anastomose primária do intestino delgado e 
+exploração do hematoma de zona II. 
+(D) Grampeamento das lesões de delgado, colocação de 
+compressas na zona dois e peritoneostomia. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 22 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{87} 
+Mulher, 78 anos de idade, procura o pronto-socorro referindo 
+dor abdominal intermitente, localizada em baixo ventre há 2 
+semanas. Refere ser constipada, mas está a duas semanas 
+sem evacuar e está eliminado gases. Refere calafrios, nega 
+náusea, vômitos, nega sangramento. Ao exame físico, 
+apresenta regular estado geral, eupneica, afebril, corada. 
+Abdome globoso, flácido com plastrão palpável em 
+hipogástrio doloroso à palpação sem sinais de irritação 
+peritoneal. Toque retal sem massas tocáveis e sem fezes na 
+ampola retal. Tomografia mostrou coleção de contornos 
+irregulares e paredes espessas no mesogástrio/hipogástrio, 
+com realce periférico e focos gasosos de permeio com 
+densificação dos planos adiposos adjacentes, medindo cerca 
+de 8,0 x 7,0 x 5,0 cm (volume aproximado de 150 mL). 
+Determina aderências entre alças ileais adjacentes e mantém 
+contato com o cólon sigmoide. Assinale a alternativa que 
+apresenta o diagnóstico e tratamento inicial adequado. 
+ 
+(A) Perfuração intestinal por corpo estranho – antibiótico 
+terapia e colonoscopia. 
+(B) Tumor de colo – colonoscopia para diagnóstico e 
+tratamento. 
+(C) Videolaparoscopia diagnostica e drenagem da coleção. 
+(D) Diverticulite complicada – antibiótico terapia e drenagem 
+da coleção por rádio intervenção. 
+##### 
+ 
+{88} 
+Homem, 34 anos de idade, comparece ao pronto-socorro com 
+quadro desconforto abdominal. Ao exame físico, apresentava 
+ascite. O médico assistente realizou paracentese diagnóstica 
+por suspeita de peritonite bacteriana primária. O aspecto do 
+líquido era amarelo citrino. Após 1 hora, o doente refere dor 
+intensa abdominal. Foi realizada uma tomografia abdominal 
+apresentada na imagem a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que indica o diagnóstico e o tratamento 
+correto. 
+ 
+(A) Lesão da artéria epigástrica – angio-embolização. 
+(B) Lesão de veia umbilical – laparotomia e ligadura. 
+(C) Hematoma muscular – drenagem cirúrgica. 
+(D) Tumor de parede abdominal com necrose – realizar uma 
+biópsia. 
+##### 
+ 
+ 
+ 
+{89} 
+Homem, 53 anos de idade, refere que durante um jogo de 
+futebol colidiu contra outro jogador, apresentando dor 
+abdominal intensa, tontura, sudorese e palidez. Foi atendido 
+em um pronto-socorro próximo ao local. Neste atendimento, 
+apresentou FC de 128 bpm, FR de 22 irpm; PA sistólica de  
+88 mmHg. Glasgow coma score de 14. Recebeu 1.750 mL de 
+Ringer lactato e 1 g de transamin. Foi transferido para um 
+pronto-socorro terciário, onde, na sala de emergência, 
+apresentava FC de 133 bpm, FR de 25 irpm, PA de  
+53×34 mmHg. Tempo de enchimento capilar: > 5 segundos. 
+Glasgow coma score de 13. Agitado, descorado, sudorético e 
+FAST positivo em espaço hepatorrenal. Assinale a alternativa 
+que apresenta a conduta recomendada neste momento. 
+ 
+(A) Intubação orotraqueal com sequência rápida, iniciar o 
+protocolo de transfusão maciça, noradrenalina em acesso 
+periférico, e realizar uma tomografia abdominal  
+(B) Intubação orotraqueal com sequência retardada, acesso 
+venoso calibroso, iniciar transfusão de concentrados de 
+hemácia, e realizar uma angiotomografia toracoabdominal. 
+(C) Intubação orotraqueal com sequência retardada, acesso 
+venoso calibroso, iniciar droga vaso ativa em veia 
+periférica, solicitar eletrocardiograma e coleta de exames 
+para curva CKMB e troponina.  
+(D) Iniciar 
+o 
+protocolo 
+de 
+transfusão 
+maciça, 
+iniciar 
+noradrenalina em acesso periférico, e realizar laparotomia 
+exploradora. 
+##### 
+ 
+{90} 
+Mulher, 75 anos de idade, comparece ao serviço de urgência 
+referindo dor em hipocôndrio direito há 3 dias, temperatura em 
+casa de 38 °C, náusea e vômitos. Ao exame físico, apresenta 
+regular estado geral, eupneica, com temperatura de 37,5 °C, 
+apresentava sinal de Murphy, FC de 112 bpm, FR de 14 irpm, 
+PA de 100×75 mmHg.  
+ 
+• Exames laboratoriais: 
+Leucócitos: 23,000/mm3 (Bastonetes: 5% e segmentados: 
+75%) 
+Glicemia: 240 mg/dL 
+Amilase: 120 U/L 
+Bilirrubina total: 2,0mg/dL 
+Bilirrubina direta 1,2 mg/dL 
+ 
+Foi realizado um ultrassom de abdome que evidenciou uma 
+vesícula biliar com cálculos em seu interior, paredes 
+espessadas e delaminadas. Via biliar sem sinais de dilatação. 
+Assinale a alternativa que apresenta o tratamento mais 
+adequado. 
+ 
+(A) Antibioticoterapia e colecistectomia eletiva. 
+(B) Antibioticoterapia e colecistectomia em até 72 horas. 
+(C) Drenagem percutânea biliar e cirurgia em 24 – 48 horas 
+após a drenagem. 
+(D) Estabilização clínica e antibioticoterapia para realização 
+da colecistectomia em 3 meses. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 23 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{91} 
+Mulher, 24 anos de idade, refere dor abdominal mais acentuada em fossa ilíaca direita, náusea, vômitos e diarreia há 4 dias. Data 
+da última menstruação há 4 dias. Ao exame físico, apresenta regular estado geral, afebril, eupneica. Pulmões com murmúrio 
+vesicular presente bilateralmente. Abdome plano, normotenso com dor a palpação e dor à descompressão. PA de 110×90 mmHg, 
+FC de 110 bpm; FR de 16 irpm 
+ 
+• Exames laboratoriais: 
+Hb: 13,6 g/dL 
+Ht: 40,6% 
+Leucócitos: 26.500/mm3 
+Proteína C reativa: 38,30 ng/dL 
+Ureia: 54 mg/dL 
+Creatinina: 0,50 mg/dL 
+Amilase:38 U/L 
+ 
+Os exames de imagem realizados podem ser observados nas figuras a seguir: 
+ 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a sequência de tratamento adequada para este paciente. 
+ 
+(A) Videolaparoscopia diagnóstica/terapêutica, antibioticoterapia profilática. 
+(B) Laparotomia exploradora. 
+(C) Antibioticoterapia – tratamento para moléstia inflamatória pélvica. 
+(D) Reposição volêmica, antibiótico terapia, videolaparoscopia. 
+#####
+ 
+{92} 
+Hemotórax retido é: 
+ 
+(A) Presença de 100 mL de coágulos diagnosticados por 
+tomografia após drenagem torácica. 
+(B) Presença de 300 mL de sangue presentes na cavidade 
+pleural após 24 horas de observação diagnosticados por 
+tomografia. 
+(C) Sangue que ocupa um terço do espaço pleural e que não 
+consegue ser removido por um dreno de tórax com  
+< 24 horas. 
+(D) Sangue que ocupa um terço do espaço pleural e que não 
+consegue ser removido por um dreno de tórax após  
+72 horas. 
+##### 
+ 
+ 
+ 
+{93} 
+Paciente, 20 anos de idade, vítima de ferimento penetrante na 
+cavidade abdominal. 
+Estável 
+hemodinamicamente. Foi 
+submetido à laparotomia exploradora e não foi identificada 
+nenhuma lesão relacionada ao trauma. Na revisão das alças, 
+foi encontrado um divertículo de Mekel com um nódulo de 1 
+cm de diâmetro no ápice. Qual é a lesão mais frequente? 
+ 
+(A) Leiomioma. 
+(B) Carcinoide. 
+(C) Adenocarcinoma. 
+(D) Tecido gástrico ectópico. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 24 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{94} 
+Mulher, 70 anos de idade, hipertensa, refere dor abdominal epigástrica e no hipocôndrio direito há 5 dias, acompanhada de 
+náuseas, anorexia, nega vômitos ou febre. Antecedente de AVC há 6 anos. Ao exame físico, apresenta regular estado geral, 
+eupneica, afebril. Abdome globoso, flácido, com dor à palpação em epigástrio, flanco direito sem sinais de irritação peritoneal.  
+ 
+• Exames laboratoriais:  
+Hb: 13 g/dL 
+Leucócitos: 23.190/mm3; Segmentados: 20.546/mm3 
+Bilirrubina total: 1,6 mg/dL 
+Bilirrubina direta: 0,8 mg/dL 
+Proteína C reativa: 61,4 mg/dL 
+Glicemia: 162 mg/dL 
+ 
+Foi realizada uma tomografia computadorizada, que pode ser observada nas imagens a seguir: 
+ 
+ 
+ 
+Com base no caso apresentado, a suspeita clínica é de 
+ 
+(A) colangite aguda supurativa. 
+(B) colecistite aguda enfisematosa. 
+(C) obstrução intestinal por íleo biliar. 
+(D) trombose mesentérica. 
+##### 
+ 
+{95} 
+Observe a imagem a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que indica corretamente o nome da manobra cirúrgica apresentada.  
+ 
+(A) Kocher. 
+(B) Matox. 
+(C) Catell. 
+(D) Catell-Braasch. 
+#####
+
+
+--- PAGE 25 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{96} 
+Paciente, 26 anos de idade, refere dor abdominal de forte 
+intensidade em cólica, localizada em hipogástrio e fossa ilíaca 
+direita há 1 dia, refere temperatura de 38,5 °C, anorexia e 
+astenia. Ao exame físico, apresenta abdome plano, flácido, 
+ruídos hidroaéreos presentes, dor à palpação em fossa ilíaca 
+direita. Sem sinais de irritação peritoneal. A imagem da 
+tomografia realizada pode ser observada a seguir:  
+ 
+ 
+ 
+Assinale a alternativa que apresenta o tratamento adequado. 
+ 
+(A) Colonoscopia. 
+(B) Colectomia parcial com anastomose primária. 
+(C) Apendicectomia por videolaparoscopia. 
+(D) Apendicectomia por laparotomia. 
+##### 
+ 
+{97} 
+Homem, 19 anos de idade, vítima de ferimento por arma 
+branca na região epigástrica. Ao exame físico, apresentou PA 
+de 124×71 mmHg, FC de 71 bpm, FR de 12 irpm, SpO2 de 
+97%. Apresentou abdome plano, doloroso à palpação, 
+conforme imagem a seguir:  
+ 
+ 
+ 
+Foi indicado laparotomia, onde foram encontrados os achados 
+apresentados nas imagens a seguir:  
+ 
+ 
+ 
+ 
+ 
+Assinale a alternativa que apresenta o tratamento cirúrgico 
+recomendado. 
+ 
+(A) Realizar gastroduodenopancratectomia cefálica. 
+(B) Sutura do ferimento gástrico anterior, procura e sutura do 
+ferimento gástrico e colecistectomia com colangiografia 
+intraoperatoria. 
+(C) Sutura do ferimento gástrico anterior, procura e sutura do 
+ferimento gástrico posterior e drenagem do pâncreas. 
+(D) Gastrectomia (diverticulação duodenal), colecistectomia, 
+colocação de um dreno de Kher e drenagem pancreática. 
+##### 
+ 
+{98} 
+Homem, 30 anos de idade, portador de retocolite ulcerativa 
+em tratamento com mesalazina há 5 anos. Comparece ao 
+pronto-socorro referindo diarreia com sangue há 3 dias  
+(8 episódios por dia). Foi internado, realizado hidratação 
+endovenosa e antibioticoterapia. Após 4 horas de internação, 
+começou a apresentar enterorragia em grande quantidade, 
+PA de:90×70 mmHg, FC de 120 bpm. A hemoglobina inicial, 
+que era de 10 g/dL, caiu para 7,0 g/dL. Após a reanimação 
+volêmica, continuava apresentado enterorragia, sendo então 
+indicada cirurgia. Assinale a alternativa que apresenta a 
+conduta mais apropriada. 
+ 
+(A) Colectomia subtotal e ileostomia. 
+(B) Colectomia subtotal e ileoreto anastomose. 
+(C) Protocolectomia total com ileostomia. 
+(D) Protocolectomia total com pouch-anal anastomose. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 26 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{99} 
+Homem, 45 anos de idade, comparece à unidade de 
+emergência referindo dor abdominal epigástrica, seguida por 
+vômitos com sangue e melena há 24 horas. Refere uso de 
+diclofenaco por lombalgia há 3 dias. Ao exame físico, 
+apresenta-se desidratado, decorado 4x/4, anictérico, afebril. 
+Abdome plano, flácido sem sinais de irritação peritoneal. 
+Toque retal com presença de melena. PA de 90×70 mmHg, 
+FC de 120 bpm, FR de 20 irpm, SpO2 de 94%.  
+ 
+• Exames laboratoriais: 
+Hb: 5,0 g/dL 
+Ht: 20% 
+Plaquetas: 170.000/mm3 
+INR: 1, P 
+ 
+Após a reposição volêmica, foi realizada endoscopia que 
+visualizou no bulbo duodenal a lesão apresentada na imagem 
+a seguir: 
+ 
+ 
+ 
+Assinale a alternativa que classifica, corretamente, a lesão 
+observada e o tratamento indicado. 
+ 
+(A) Forrest 1B – tratamento endoscópico com esclerose e 
+bloqueador H2 em dose plena + profilaxia de peritonite 
+bacteriana espontânea. 
+(B) Forrest 2B – remoção endoscópica do coágulo e esclerose 
+se necessário – bloqueador H2 em dose plena. 
+(C) Forrest 2A – tratamento endoscópico com duas técnicas e 
+bloqueador H2 em dose plena. 
+(D) Forrest 2A – tratamento endoscópico e endovascular para 
+embolização do vaso e bloqueador H2 em dose plena. 
+##### 
+ 
+{100} 
+O hemotórax tardio pode ocorrer em qualquer paciente vítima 
+de trauma, em geral, pode ser detectado entre 2 e 40 dias 
+após o trauma. Qual é origem mais provável relacionada a este 
+hemotórax? 
+ 
+(A) Fratura de costela. 
+(B) Fratura de externo. 
+(C) Lesão pulmonar. 
+(D) Lesão da artéria intercostal. 
+##### 
+{101} 
+Homem, 60 anos de idade, com tumor neuroendócrino em 
+jejuno proximal de 15 mm, que dista 30 cm da válvula 
+ileocecal, achado em enteroscopia para investigação de 
+anemia. Paciente sem síndrome carcinóide. Frente ao 
+diagnóstico, assinale a alternativa que apresenta a conduta 
+recomendada. 
+ 
+(A) Cirurgia. 
+(B) Imunoterapia. 
+(C) Quimioterapia. 
+(D) Acompanhamento clínico. 
+##### 
+ 
+{102} 
+Homem, 65 anos de idade, foi diagnosticado com tumor 
+neuroendócrino da ampola de Vater. O estadiamento 
+evidenciou que o tumor invade através do esfíncter até a 
+muscular própria do duodeno. Segundo a classificação TNM 
+AJCC UICC 8ª edição, pode-se afirmar que se trata de um 
+tumor no estágio  
+ 
+(A) T1. 
+(B) T2. 
+(C) T3. 
+(D) T4. 
+##### 
+ 
+{103} 
+Mulher, 30 anos de idade, apresentou primeiro episódio de 
+pancreatite aguda com colecistolitíase confirmada em 
+ultrassom abdominal. Considerando a remissão do quadro 
+inflamatório, assinale a alternativa que apresenta indicação de 
+Colangiopancreatografia Endoscópica Retrógrada (CPRE), 
+fora da crise aguda, segundo as diretrizes da American 
+Society for Gastrointestinal Endoscopy (ASGE). 
+ 
+(A) CPRE deve ser realizada rotineiramente após qualquer 
+episódio de pancreatite aguda. 
+(B) Pacientes 
+que 
+persistem 
+com 
+leve 
+elevação 
+de 
+transaminases e não têm dilatação do colédoco podem ser 
+submetidos diretamente à CPRE. 
+(C) Pacientes com histórico de pancreatite aguda e dilatação 
+do colédoco (> 10 mm), mesmo com resolução dos 
+sintomas. 
+(D) Bilirrubina total > 4 mg/dL e colédoco dilatado (> 8 mm), 
+mesmo sem imagem de cálculo documentado. 
+##### 
+ 
+{104} 
+Homem, 61 anos de idade, sem histórico familiar de câncer 
+colorretal, realizou colonoscopia de rastreamento. Durante o 
+exame, foram removidas 4 lesões, sendo a maior com 11 mm. 
+A análise histopatológica indicou adenomas tubulares com 
+displasia de baixo grau. De acordo com as diretrizes de 
+vigilância pós-polipectomia, qual é o intervalo recomendado 
+para a próxima colonoscopia? 
+ 
+(A) 01 ano. 
+(B) 03 anos. 
+(C) 05 anos. 
+(D) 10 anos. 
+##### 
+ 
+
+
+--- PAGE 27 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{105} 
+Mulher, 35 anos de idade, com antecedente de cirrose 
+hepática criptogênica, em fila de transplante, comparece no 
+PS com queixa de melena. Refere antecedente de HDA 
+varicosa com terapia endoscópica prévia. Em jejum de 10h, 
+estável hemodinamicamente. Exames disponíveis: Hb de  
+8,1 g/dL, plaquetas com 60.000/mm3, RNI de 1,5. Hb de uma 
+semana antes da admissão de 10,2 g/dL. Assinale a 
+alternativa correta em relação à conduta inicial recomendada 
+neste caso. 
+ 
+(A) A conduta inicial deve ser transfusão de aférese de 
+plaquetas e programação de endoscopia imediatamente 
+após a transfusão. 
+(B) A melhor conduta envolve transfusão de aférese de 
+plaquetas e de plasma fresco congelado, com endoscopia 
+assim que possível. A endoscopia deve respeitar um limite 
+de 12h da admissão em unidade de terapia intensiva. 
+(C) Por se tratar de uma suspeita de hemorragia digestiva alta 
+sem sinais de alarme, o exame deve ser realizado em até 
+24h da admissão hospitalar. 
+(D) A endoscopia deve ser realizada assim que possível, com 
+prazo máximo de 12h da admissão hospitalar. Não é 
+necessário transfundir plaquetas ou plasma fresco 
+congelado mesmo que se identifique a necessidade de 
+terapia endoscópica durante o procedimento. 
+##### 
+ 
+{106} 
+Mulher, 75 anos de idade, em controle endoscópico de 
+esôfago de Barrett é diagnosticada com uma lesão 
+classificada como T1b, ou seja, adenocarcinoma bem 
+diferenciada, com profundidade de invasão da submucosa 
+inferior a 500 μm, sem nenhum foco de invasão linfovascular. 
+Baseado nestes achados, assinale a alternativa que apresenta 
+o tratamento correto. 
+ 
+(A) Imunoterapia. 
+(B) Quimioterapia. 
+(C) Esofagectomia subtotal, com linfadenectomia. 
+(D) Pode 
+ser 
+tratada 
+por 
+via 
+endoscópica, 
+com 
+acompanhamento através por ecoendoscopia, CT e PET-
+CT, em centros especializados. 
+##### 
+ 
+{107} 
+Homem, 55 anos de idade, em seguimento de IPMN em 
+pâncreas há 2 anos. Persiste assintomático, sem episódios de 
+icterícia, pancreatite ou dor abdominal. Dosagem de CA19.9 
+sérico 
+de 
+27 
+U/mL 
+(normal 
+≤ 
+37 
+U/mL). 
+Na 
+colangioressonância de abdome atual, nota-se ducto 
+pancreático principal sem dilatação; parênquima pancreático 
+sem atrofia; 2 imagens císticas com comunicação com ducto 
+pancreático principal, de 15 mm (corpo) e 12 mm (cauda), 
+sem imagens de nodulações em suas paredes. Há 1 ano, 
+colangioressonância demonstrou 2 imagens císticas com 
+comunicação com ducto pancreático principal de 17 mm 
+(corpo) e 15 mm (cauda). Segundo o consenso de Fukuoka 
+(2017), a conduta recomendada é: 
+ 
+(A) Tomografia abdominal com contraste. 
+(B) Cirurgia – Pancreatectomia corpocaudal. 
+(C) Seguir observação com colangioressonância. 
+(D) Ecoendoscopia como punção de líquido intracístico para 
+descartar neoplasia. 
+##### 
+{108} 
+Mulher, 55 anos de idade, com icterícia obstrutiva, realiza 
+exame de tomografia computadorizada (sem e com 
+contraste), que diagnostica uma lesão cística da cabeça do 
+pâncreas, com nódulo mural realçado > 5 mm e com ducto 
+pancreático principal > 10 mm. Com base nas Diretrizes de 
+Fukuoka para o manejo da IPMN do pâncreas, assinale a 
+alternativa que apresenta a conduta a ser seguida. 
+ 
+(A) Cirurgia. 
+(B) Tomografia computadorizada e ressonância magnética 
+em 6 meses, depois a cada 2 anos se não houver 
+mudança. 
+(C) Tomografia computadorizada e ressonância magnética a 
+cada 6 meses por 1 ano ou anualmente por 2 anos, depois 
+aumente o intervalo para uma vez a 2 anos, se não houver 
+alteração. 
+(D) Vigilância rigorosa alternando ressonância magnética com 
+EUS a cada 3 a 6 meses. Considerar fortemente a cirurgia 
+em pacientes jovens e em boa forma. 
+##### 
+ 
+{109} 
+Quanto à definição de câncer gástrico precoce, assinale a 
+alternativa correta. 
+ 
+(A) Lesão envolve até camada submucosa, sem acometimento 
+linfonodal. 
+(B) Lesão restrita à mucosa e submucosa, independente de 
+comprometimento linfonodal. 
+(C) Lesão restrita à mucosa, independente da disseminação 
+linfonodal. 
+(D) Lesão restrita à lâmina própria, sem acometimento linfonodal. 
+##### 
+ 
+{110} 
+Sobre a ectasia vascular antral, assinale a alternativa correta. 
+ 
+(A) É um quadro predominantemente congestivo vascular 
+gástrico, diretamente relacionado à hipertensão portal. 
+(B) Acentua sua intensidade após tratamento de erradicação 
+varicosa esofágica através de ligaduras elásticas. 
+(C) Está associada a distúrbios autoimunes, doença renal 
+crônica, transplante de medula e diabetes. 
+(D) Pode acometer duodeno e cólon. 
+##### 
+ 
+{111} 
+Mulher, 46 anos de idade, com história de dispepsia há  
+3 meses, realizou endoscopia digestiva alta que identificou 
+uma lesão subepitelial de 25 mm no esôfago distal. Indicada 
+ecoendoscopia que demonstrou uma lesão hipoecoca, 
+homogênea, inserida na camada muscular própria, de  
+28×32 mm. A punção ecoguiada foi realizada, cuja 
+imunohistoquímica 
+resultou 
+em 
+presença 
+de 
+células 
+fusiformes, DOG1 negativo, desmina negativa, proteína S-100 
+positiva, CD34 negativa e CD117 negativa. Os achados são 
+compatíveis com:  
+ 
+(A) Schwannoma. 
+(B) Leiomioma. 
+(C) GIST. 
+(D) Cisto de duplicação esofágica. 
+##### 
+
+
+--- PAGE 28 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{112} 
+Assinale a alternativa que apresenta um fator NÃO relacionado 
+ao carcinoma espinocelular de esôfago. 
+ 
+(A) Tilose. 
+(B) Acalasia. 
+(C) Esôfago de Barrett. 
+(D) Síndrome Plummer-Vinson. 
+##### 
+ 
+{113} 
+Assinale a alternativa que representa contraindicação 
+absoluta, conforme o Consenso Brasileiro, sobre o uso de 
+balão intragástrico. 
+ 
+(A) Pacientes com idade superior a 65 anos. 
+(B) Pacientes com doença inflamatória ativa do trato 
+gastrointestinal, como doença de Crohn. 
+(C) Pacientes com IMC > 40 kg/m², independentemente da 
+presença de comorbidades. 
+(D) Pacientes que apresentaram falha prévia em outros 
+métodos endoscópicos para perda de peso. 
+##### 
+ 
+{114} 
+Mulher, 60 anos de idade, durante ultrassom abdominal de 
+rotina foi identificado cisto localizado em corpo/cauda 
+pancreática. A tomografia e a ressonância mostraram lesão 
+cística unilocular de 30 mm, com paredes espessas, 
+contornos irregulares e calcificações periféricas, sem invasão 
+vascular. A punção guiada por ecoendoscopia revelou os 
+seguintes achados bioquímicos: 
+CEA: 320 ng/mL 
+Amilase: 20 U/L 
+Glicose: 15 mg/dL 
+ 
+A paciente é assintomática e sem perda ponderal significativa. 
+Assinale a alternativa que apresenta a conduta mais 
+recomendada para este caso. 
+ 
+(A) Pancreatectomia corpocaudal. 
+(B) Nova punção ecoendoscópica com análise molecular. 
+(C) PET-CT com gálio para confirmação de malignidade. 
+(D) Observação clínica com nova ressonância em 3 meses. 
+##### 
+ 
+{115} 
+Homem, 79 anos de idade, foi submetido à colonoscopia para 
+rastreamento de câncer colorretal, com preparo adequado 
+(escala de Boston: 9) e resultado normal. Há 10 anos, sua 
+colonoscopia também foi normal. O paciente apresenta 
+comorbidades relevantes, como diabetes melito com 
+retinopatia diabética, insuficiência renal crônica em tratamento 
+conservador, hipertensão arterial sistêmica e angina pectoris 
+estável, com dor precordial após 30 minutos de caminhada. 
+Qual a conduta recomendada segundo as diretrizes atuais de 
+rastreamento de câncer colorretal? 
+ 
+(A) Colonoscopia virtual após 5 anos. 
+(B) Colonoscopia a cada 10 anos. 
+(C) Interrupção do rastreamento. 
+(D) Ser realizado por pesquisa de sangue oculto nas fezes 
+pelo teste Imunoquímico Fecal (FIT). 
+##### 
+{116} 
+Homem, 65 anos de idade, apresenta icterícia e perda de peso 
+progressiva há 2 meses. A tomografia de abdome revelou um 
+pâncreas 
+com 
+aspecto 
+“em 
+salsicha”. 
+Foi 
+realizada 
+ecoendoscopia com punção do pâncreas, com resultado 
+anatomopatológico mostrando infiltrado linfoplasmocitário e 
+ausência de lesões granulocíticas. Com base nos achados 
+clínicos, radiológicos e histopatológicos, qual é o diagnóstico 
+mais provável e qual achado histológico que seria esperado 
+nesse caso? 
+ 
+(A) Pancreatite de groove; infiltrado com mais de 10 eosinófilos 
+por campo de grande aumento. 
+(B) Pancreatite autoimune tipo I; presença de células ricas em 
+IgG4. 
+(C) Linfoma pancreático; proliferação monomórfica de linfócitos 
+B. 
+(D) Tumor neuroendócrino pancreático; proliferação de células 
+com expressão de sinaptofisina e cromogranina. 
+##### 
+ 
+{117} 
+Homem, 46 anos de idade, com história de dispepsia de longa 
+data, durante a realização de endoscopia digestiva alta, 
+observou-se 
+projeção 
+digitiforme 
+em 
+esôfago 
+distal, 
+compatível 
+com 
+esôfago 
+de 
+Barrett. 
+Ao 
+auxílio 
+de 
+cromoscopia, não foram identificadas áreas suspeitas. 
+Todavia, para confirmar a hipótese diagnóstica, foi realizada 
+uma biópsia, cujo resultado consta área de metaplasia 
+intestinal com displasia de baixo grau, confirmada por um 
+segundo patologista. Assinale a alternativa que apresenta a 
+conduta recomendada neste caso. 
+ 
+(A) Observação e nova biópsia em 6 meses. 
+(B) Ablação com radiofrequência. 
+(C) Mucosectomia da projeção digitiforme. 
+(D) Esofagectomia parcial com reconstrução com tubo 
+gástrico. 
+##### 
+ 
+{118} 
+Sobre as complicações associadas à Colangiopancreatografia 
+Retrógrada Endoscópica (CPRE), baseado nas diretrizes da 
+American Society of Gastrointestinal Endoscopy (ASGE), é 
+correto afirmar: 
+ 
+(A) Perfuração do trato digestivo, mais comum em pacientes 
+com antecedentes de cirurgia bariátrica. 
+(B) A principal estratégia para prevenir pancreatite pós-CPRE é 
+o uso de antibioticoterapia profilática e indometacina retal, 
+antes do procedimento. 
+(C) Colecistite 
+aguda 
+é 
+uma 
+complicação 
+rara, 
+mas 
+frequentemente associada à manipulação da papila, em 
+pacientes sem cálculo na vesícula biliar. 
+(D) Pancreatite pós-CPRE tem maior prevalência em pacientes 
+jovens, do sexo feminino e sem dilatação dos ductos 
+biliares. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 29 ---
+
+Processo Seletivo aos Programas de Residência Médica – Edital: COREME/FM/Nº 03/2025 – Especialidades – Endoscopia – PROVA E03 
+{119} 
+A confecção de Gastrostomia Endoscópica Percutânea (PEG), 
+utilizando a técnica de tração, pode ser contraindicada em 
+determinadas condições clínicas. Assinale a alternativa que 
+apresenta uma contraindicação absoluta a este procedimento. 
+ 
+(A) Sepse ativa. 
+(B) História de gastrectomia parcial. 
+(C) Desnutrição grave em manejo clínico. 
+(D) Tumor esofágico com estenose parcial. 
+##### 
+ 
+{120} 
+Segundo o guideline da European Society of Gastrointestinal 
+Endoscopy (ESGE 2022), sobre cápsula endoscópica e 
+enteroscopia, assinale a alternativa correta. 
+ 
+(A) Frente a um quadro de sangramento evidente de intestino 
+médio, a cápsula endoscópica deve ser indicada, mais 
+rápido possível, preferencialmente dentro das primeiras  
+72 horas, para maximizar o rendimento diagnóstico e 
+terapêutica subsequente. 
+(B) A utilização da cápsula endoscópica é preferencial, caso 
+os exames de imagem demonstrem suspeita de tumor no 
+intestino delgado, pois possibilita a avaliação de toda a 
+extensão do intestino médio. 
+(C) Cápsula endoscópica do intestino delgado para vigilância 
+do segmento proximal do intestino delgado, em casos de 
+polipose adenomatosa familiar, não é recomendada. 
+(D) Em casos de retenção de cápsula no intestino delgado, o 
+tratamento cirúrgico imediato é indicado, pois é alto o risco 
+de obstrução intestinal. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 30 ---
+
