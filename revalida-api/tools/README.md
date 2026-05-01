@@ -69,9 +69,10 @@ Depois:
 
 1. revise os prompts em `storage/imports/json/ai_batches/`
 2. gere o JSON com IA
-3. revise manualmente o resultado
-4. salve tudo em `storage/imports/questions.json`
-5. rode `php artisan questions:import-json storage/imports/questions.json`
+3. valide o lote com `python tools/validate_questions.py storage/imports/questions.json`
+4. revise manualmente os arquivos `flagged` e `rejected`
+5. importe o arquivo `approved`
+6. rode `php artisan questions:import-json storage/imports/validation/questions.approved.json`
 
 Observação:
 
@@ -82,3 +83,4 @@ Observação:
 - o agendamento diário roda às 02:00 se o servidor executar `php artisan schedule:run` a cada minuto
 - o daemon contínuo roda em loop com `QUESTIONS_SYNC_INTERVAL_SECONDS=86400` por padrão
 - você pode limitar o crawl e a geração com `QUESTIONS_LIMIT_SOURCES` e `QUESTIONS_GENERATE_LIMIT`
+- o validador separa o lote em `approved`, `flagged`, `rejected` e `validation_report`

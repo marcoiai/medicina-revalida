@@ -33,6 +33,18 @@ python tools/auto_generate_questions.py --limit 1
 python tools/auto_generate_questions.py
 ```
 
+## Validar o lote antes de importar
+
+```bash
+python tools/validate_questions.py storage/imports/questions.json
+```
+
+Auditoria semântica opcional com Gemini:
+
+```bash
+python tools/validate_questions.py storage/imports/questions.json --llm
+```
+
 O script agora faz retry automático em falhas transitórias como `503 UNAVAILABLE` e picos de demanda do modelo.
 
 Se quiser ajustar o comportamento:
@@ -49,12 +61,16 @@ Saída:
 ```txt
 storage/imports/questions.json
 storage/imports/questions.rejected.json
+storage/imports/validation/questions.approved.json
+storage/imports/validation/questions.flagged.json
+storage/imports/validation/questions.rejected.json
+storage/imports/validation/questions.validation_report.json
 ```
 
 Importar no Laravel:
 
 ```bash
-php artisan questions:import-json storage/imports/questions.json
+php artisan questions:import-json storage/imports/validation/questions.approved.json
 ```
 
 Atalho completo:
