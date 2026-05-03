@@ -2,16 +2,39 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 import "materialize-css/dist/css/materialize.min.css";
 
 type AlternativeLetter = "A" | "B" | "C" | "D" | "E";
+type QuestionType = "multiple_choice" | "discursive";
+type QuestionPhase = "first" | "second" | "all";
+type QuestionFormatFilter = "all" | "multiple_choice" | "discursive";
+type SimuladoReviewMode = "treino" | "prova";
+type StudyCategory = "revalida" | "estudo_geral";
+type CategoryPlan = {
+  code: string;
+  category: StudyCategory;
+  name: string;
+  price_cents: number;
+  monthly_question_limit: number;
+  description: string;
+  activated_at?: string | null;
+};
+
+type UserCurrentPlansByCategory = Partial<Record<StudyCategory, CategoryPlan | null>>;
+type CommentSource = "official" | "ai";
+type CommentFilterSource = CommentSource | "not_ai";
 
 type Question = {
   id: number;
   area: string;
   tema: string;
   dificuldade: string;
+  question_type?: QuestionType;
+  study_category?: StudyCategory;
   enunciado: string;
   alternativas: Record<AlternativeLetter, string>;
   gabarito: AlternativeLetter;
   comentario: string;
+  comment_source?: CommentSource | null;
+  comment_generated_by_ai?: boolean;
+  official_answer?: string | null;
 };
 
 type DashboardUser = {
@@ -23,6 +46,12 @@ type DashboardUser = {
   is_active?: boolean;
   question_text_size?: number;
   monthly_question_limit?: number;
+  ai_enabled?: boolean;
+  current_plans_by_category?: UserCurrentPlansByCategory | null;
+  current_plan_code?: string | null;
+  current_plan_name?: string | null;
+  current_plan_price_cents?: number;
+  plan_activated_at?: string | null;
 };
 
 type SystemUser = {
@@ -37,6 +66,70 @@ type SystemUser = {
   updated_at?: string | null;
   simulations_count: number;
   monthly_question_limit: number;
+  current_plans_by_category?: UserCurrentPlansByCategory | null;
+  current_plan_code?: string | null;
+  current_plan_name?: string | null;
+  current_plan_price_cents?: number;
+  plan_activated_at?: string | null;
+};
+
+type BillingPlan = {
+  code: string;
+  name: string;
+  category?: StudyCategory;
+  price_cents: number;
+  monthly_question_limit: number;
+  description: string;
+  is_current?: boolean;
+};
+
+type MockPaymentSession = {
+  id: number;
+  provider: string;
+  plan_code: string;
+  plan_name: string;
+  amount_cents: number;
+  currency: string;
+  status: "pending" | "paid" | "cancelled";
+  reference: string;
+  paid_at?: string | null;
+  cancelled_at?: string | null;
+  created_at?: string | null;
+  mock_qr_code?: string | null;
+  plan_category?: string;
+};
+
+type MonthlyUsageCategory = {
+  limit: number;
+  used: number;
+  remaining: number;
+  enforced?: boolean;
+};
+
+type MonthlyUsageOverview = {
+  period_start: string;
+  categories: Partial<Record<StudyCategory, MonthlyUsageCategory>>;
+};
+
+type CardForm = {
+  cardholder_name: string;
+  card_number: string;
+  card_expiry: string;
+  card_cvv: string;
+  card_cpf: string;
+};
+
+type PayPalForm = {
+  name: string;
+  email: string;
+  phone: string;
+  password: string;
+};
+
+type PagSeguroForm = {
+  name: string;
+  cpf_cnpj: string;
+  phone: string;
 };
 
 type AreaPerformanceItem = {
@@ -282,9 +375,30 @@ const MIN_QUESTION_TEXT_SIZE = 18;
 const MAX_QUESTION_TEXT_SIZE = 28;
 const QUESTION_TEXT_SIZE_STEP = 2;
 const QUESTIONS_PAGE_SIZE = 2000;
-const MAX_MONTHLY_QUESTION_LIMIT = 5000;
+const MAX_MONTHLY_QUESTION_LIMIT = 10000;
 const DEFAULT_MONTHLY_QUESTION_LIMIT = 5000;
 const QUESTION_ORDER_SEED_KEY = "revalida_question_order_seed_v1";
+const DEFAULT_STUDY_CATEGORY: StudyCategory = "revalida";
+const DEFAULT_QUESTION_PHASE: QuestionPhase = "first";
+const DEFAULT_SIMULADO_REVIEW_MODE: SimuladoReviewMode = "treino";
+const QUESTION_PHASE_OPTIONS: Array<{ value: QuestionPhase; label: string }> = [
+  { value: "first", label: "1ª fase" },
+  { value: "second", label: "2ª fase" },
+  { value: "all", label: "Todas" },
+];
+const QUESTION_FORMAT_OPTIONS: Array<{ value: QuestionFormatFilter; label: string }> = [
+  { value: "all", label: "Todas" },
+  { value: "multiple_choice", label: "Objetivas" },
+  { value: "discursive", label: "Discursivas" },
+];
+const SIMULADO_REVIEW_OPTIONS: Array<{ value: SimuladoReviewMode; label: string; description: string }> = [
+  { value: "treino", label: "Treino", description: "Mostra gabarito e explicação na hora." },
+  { value: "prova", label: "Prova", description: "Oculta o gabarito até encerrar o simulado." },
+];
+const STUDY_CATEGORY_OPTIONS: Array<{ value: StudyCategory; label: string }> = [
+  { value: "revalida", label: "Revalida" },
+  { value: "estudo_geral", label: "Estudo geral" },
+];
 const configuredApiBaseRaw = (import.meta.env.VITE_API_BASE_URL as string | undefined)?.trim();
 const API_BASE_OVERRIDE_KEY = "revalida_api_base_url";
 
@@ -408,11 +522,13 @@ async function apiFetch(path: string, init?: RequestInit): Promise<Response> {
 const NAV_ITEMS: NavItem[] = [
   { key: "dashboard", label: "Dashboard", icon: "dashboard" },
   { key: "questoes", label: "Questões", icon: "quiz" },
+  { key: "questoes_ia", label: "Questões IA", icon: "auto_awesome", adminOnly: true },
+  { key: "questoes_sem_ia", label: "Questões sem IA", icon: "fact_check", adminOnly: true },
   { key: "simulado", label: "Simulados", icon: "timer" },
   { key: "ranking", label: "Ranking", icon: "emoji_events" },
+  { key: "planos", label: "Planos", icon: "credit_card" },
   { key: "admin", label: "Admin", icon: "settings", adminOnly: true },
   { key: "usuarios", label: "Usuários", icon: "group", adminOnly: true },
-  { key: "planos", label: "Planos", icon: "credit_card" },
 ];
 
 const RANKING_MOCK = [
@@ -492,6 +608,8 @@ function RecentErrorsCarousel({
   }
 
   const currentItem = recentItems[currentIndex];
+  const showAiBadge = hasAiGeneratedComment(currentItem);
+  const commentSourceNote = getQuestionCommentSourceNote(currentItem);
 
   return (
     <div className="error-list">
@@ -523,7 +641,9 @@ function RecentErrorsCarousel({
         <h4>
           <Icon>cancel</Icon>
           Errado · Gabarito {currentItem.gabarito}
+          {showAiBadge && <span className="mini-ia-badge">IA</span>}
         </h4>
+        {commentSourceNote && <div className="comment-source-note">{commentSourceNote}</div>}
         <p>{currentItem.comentario}</p>
       </div>
     </div>
@@ -587,22 +707,75 @@ function AppStyles() {
       .md-btn.outline { background: #fff; color: #455a64; border: 1px solid var(--border); }
       .md-btn.outline:hover { background: #f7f9fc; }
       .md-btn.block { width: 100%; }
-      .layout { min-height: 100vh; display: grid; grid-template-columns: 280px 1fr; }
+      .checkout-dialog {
+        border: 0;
+        border-radius: 24px;
+        padding: 0;
+        width: min(760px, calc(100vw - 32px));
+        max-width: none;
+        max-height: min(90vh, 680px);
+        background: transparent;
+        box-shadow: 0 28px 80px rgba(15, 23, 42, 0.28);
+        transform: scale(0.98) translateY(6px);
+        opacity: 0;
+      }
+      .checkout-dialog::backdrop {
+        background: rgba(15, 23, 42, 0.5);
+        backdrop-filter: blur(2px);
+      }
+      .checkout-dialog[open] {
+        animation: checkout-dialog-in 0.18s ease;
+        opacity: 1;
+        transform: scale(1) translateY(0);
+      }
+      .checkout-dialog-close {
+        -webkit-appearance: none;
+        appearance: none;
+        border: 0;
+        border-radius: 12px;
+        width: 34px;
+        height: 34px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 18px;
+        font-weight: 900;
+        background: #f4f6fb;
+        color: #37474f;
+        cursor: pointer;
+      }
+      .checkout-dialog-close:hover {
+        background: #ecf0f5;
+      }
+      .checkout-dialog-close:focus-visible {
+        outline: 2px solid var(--primary);
+        outline-offset: 2px;
+      }
+      .layout { min-height: 100vh; display: grid; grid-template-columns: 248px 1fr; }
       .sidebar { background: #fff; border-right: 1px solid var(--border); padding: 24px 18px; position: sticky; top: 0; height: 100vh; display: flex; flex-direction: column; }
       .sidebar-brand { display: flex; align-items: center; gap: 14px; padding: 8px 10px 28px; }
       .sidebar-brand .logo { width: 48px; height: 48px; border-radius: 16px; background: var(--primary); color: #fff; display: grid; place-items: center; box-shadow: 0 12px 24px rgba(63,81,181,.28); }
       .sidebar-brand h2 { margin: 0; font-size: 23px; font-weight: 900; letter-spacing: -0.04em; }
       .sidebar-brand p { margin: 2px 0 0; color: var(--muted); font-size: 13px; }
-      .nav-list { display: grid; gap: 8px; }
+      .nav-list { display: grid; gap: 8px; flex: 1; overflow-y: auto; min-height: 0; background: transparent; }
+      .nav-list::-webkit-scrollbar { width: 6px; }
+      .nav-list::-webkit-scrollbar-track { background: transparent; }
+      .nav-list::-webkit-scrollbar-thumb { background: #cfd8dc; border-radius: 3px; }
+      .nav-list::-webkit-scrollbar-thumb:hover { background: #90a4ae; }
       .nav-btn { border: 0; background: transparent; min-height: 54px; border-radius: 16px; padding: 0 16px; display: flex; align-items: center; gap: 14px; font-weight: 800; color: #607d8b; text-align: left; cursor: pointer; transition: .18s; }
       .nav-btn:hover { background: #f5f7fb; color: #263238; }
       .nav-btn.active { background: #e8eaf6; color: var(--primary); }
       .nav-btn i { font-size: 23px; }
       .sidebar-user { margin-top: auto; border: 1px solid var(--border); border-radius: 20px; padding: 16px; background: #fafbff; }
+      .sidebar-role-badge { display: inline-flex; align-items: center; justify-content: center; min-height: 24px; margin: 2px 0 4px; padding: 0 10px; border-radius: 999px; background: #fff3e0; color: #ef6c00; font-size: 10px; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; }
       .sidebar-user b { display: block; margin-bottom: 3px; }
       .sidebar-user span { display: block; color: var(--muted); font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+      .sidebar-preference { margin-top: 14px; padding: 12px; border-radius: 16px; border: 1px solid var(--border); background: #fff; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+      .sidebar-preference-copy { min-width: 0; }
+      .sidebar-preference-copy strong { display: block; color: #1f2937; font-size: 13px; font-weight: 900; }
+      .sidebar-preference-copy small { display: block; margin-top: 3px; color: #607d8b; font-size: 11px; line-height: 1.35; }
       .sidebar-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 14px; }
-      .content { min-width: 0; padding: 28px; }
+      .content { min-width: 0; padding: 12px 10px 16px; }
       .topbar { display: flex; align-items: center; justify-content: space-between; gap: 24px; margin-bottom: 26px; }
       .page-title h1 { margin: 0; font-size: 34px; font-weight: 900; letter-spacing: -0.05em; color: #1f2937; }
       .page-title p { margin: 6px 0 0; color: var(--muted); font-size: 15px; }
@@ -634,7 +807,7 @@ function AppStyles() {
       .stat-title { display: block; color: var(--muted); font-size: 12px; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; }
       .stat-card h3 { margin: 18px 0 8px; font-size: 40px; font-weight: 900; letter-spacing: -0.06em; color: #1f2937; }
       .stat-card p { color: var(--muted); margin: 0; font-size: 13px; }
-      .dashboard-grid { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 22px; align-items: start; }
+      .dashboard-grid { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 16px; align-items: start; }
       .section-title { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 22px; }
       .section-title h2 { margin: 0; font-size: 22px; font-weight: 900; letter-spacing: -0.035em; }
       .section-title p { margin: 4px 0 0; color: var(--muted); }
@@ -666,7 +839,7 @@ function AppStyles() {
       .simulado-metric span { display: block; color: var(--muted); font-size: 12px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
       .simulado-metric b { display: block; margin-top: 8px; font-size: 28px; font-weight: 900; letter-spacing: -0.05em; color: #1f2937; }
       .simulado-metric p { margin: 6px 0 0; color: #607d8b; font-size: 12px; }
-      .simulado-history-grid { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(320px, 0.85fr); gap: 22px; align-items: start; }
+      .simulado-history-grid { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(260px, 0.8fr); gap: 16px; align-items: start; }
       .simulado-history-list { display: grid; gap: 12px; }
       .simulado-history-item { width: 100%; text-align: left; border: 1px solid var(--border); background: #fff; border-radius: 18px; padding: 16px; display: flex; align-items: center; justify-content: space-between; gap: 16px; cursor: pointer; transition: .18s; }
       .simulado-history-item:hover { background: #fafbff; border-color: #c5cae9; }
@@ -682,7 +855,7 @@ function AppStyles() {
       .simulado-detail-card b { display: block; margin-top: 4px; font-size: 20px; font-weight: 900; letter-spacing: -0.04em; color: #1f2937; }
       .simulado-detail-card p { margin: 4px 0 0; color: #607d8b; font-size: 12px; }
       .usuarios-metrics { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; margin-bottom: 22px; }
-      .usuarios-grid { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(320px, 0.85fr); gap: 22px; align-items: start; }
+      .usuarios-grid { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(260px, 0.8fr); gap: 16px; align-items: start; }
       .usuarios-side { display: grid; gap: 14px; }
       .usuarios-actions { display: flex; align-items: center; gap: 12px; min-width: min(100%, 460px); justify-content: flex-end; }
       .usuarios-search { max-width: 280px; }
@@ -708,7 +881,8 @@ function AppStyles() {
       .status-pill.green { background: #e8f5e9; color: #2e7d32; }
       .status-pill.orange { background: #fff3e0; color: #ef6c00; }
       .status-pill.red { background: #ffebee; color: #c62828; }
-      .question-layout { display: grid; grid-template-columns: minmax(0, 1fr) 330px; gap: 22px; align-items: start; }
+      .status-pill.blue { background: #e3f2fd; color: #1565c0; }
+      .question-layout { display: grid; grid-template-columns: minmax(0, 1fr) 248px; gap: 14px; align-items: start; }
       .area-tabs { display: flex; gap: 10px; overflow-x: auto; padding-bottom: 12px; margin-bottom: 20px; }
       .area-tab { height: 42px; border-radius: 999px; border: 1px solid var(--border); background: #fff; color: #607d8b; padding: 0 18px; font-weight: 800; cursor: pointer; white-space: nowrap; }
       .area-tab.active { background: var(--primary); color: #fff; border-color: var(--primary); box-shadow: 0 8px 18px rgba(63,81,181,.18); }
@@ -727,16 +901,27 @@ function AppStyles() {
       .answer-btn { width: 100%; border: 1px solid var(--border); background: #fff; border-radius: 18px; min-height: 68px; display: flex; align-items: center; gap: 16px; padding: 14px 16px; text-align: left; cursor: pointer; transition: .18s; }
       .answer-btn:hover { border-color: #c5cae9; background: #fafbff; }
       .answer-btn.selected { border-color: var(--primary); background: #eef2ff; box-shadow: 0 0 0 3px rgba(63,81,181,.1); }
-      .answer-btn.correct { border-color: #43a047; background: #e8f5e9; }
-      .answer-btn.wrong { border-color: #e53935; background: #ffebee; }
+      .answer-btn.correct { border-color: #43a047; background: #e8f5e9; box-shadow: 0 0 0 3px rgba(67,160,71,.10); }
+      .answer-btn.wrong { border-color: #e53935; background: #ffebee; box-shadow: 0 0 0 3px rgba(229,57,53,.12); }
+      .answer-btn.admin-correct-hint { border-color: #d6e8d8; background: #fcfefc; }
       .answer-letter { width: 40px; height: 40px; border-radius: 14px; background: #eef2f7; color: #455a64; display: grid; place-items: center; font-weight: 900; flex: 0 0 auto; }
       .answer-btn.selected .answer-letter { background: var(--primary); color: #fff; }
-      .answer-text { font-size: 15px; line-height: 1.5; font-weight: 600; color: #37474f; }
+      .answer-btn.correct .answer-letter { background: #43a047; color: #fff; }
+      .answer-btn.wrong .answer-letter { background: #e53935; color: #fff; }
+      .answer-text { flex: 1; font-size: 15px; line-height: 1.5; font-weight: 600; color: #37474f; }
+      .answer-btn.correct .answer-text { color: #1b5e20; }
+      .answer-btn.wrong .answer-text { color: #8e2424; }
+      .admin-correct-badge { flex: 0 0 auto; align-self: center; width: 20px; height: 20px; border-radius: 999px; background: #e8f5e9; color: #2e7d32; border: 1px solid #c8e6c9; display: inline-flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 900; line-height: 1; opacity: .95; }
       .question-actions { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 24px; padding-top: 22px; border-top: 1px solid var(--border); }
       .question-actions .right { display: flex; gap: 10px; }
       .result-box { margin-top: 22px; padding: 18px; border-radius: 18px; background: #fafbff; border: 1px solid var(--border); }
+      .result-box.correct { background: #f1f8e9; border-color: #c5e1a5; }
+      .result-box.wrong { background: #fff1f1; border-color: #ef9a9a; }
+      .result-box.discursive { background: #f5f7fb; border-color: #cbd5e1; }
       .result-box h4 { display: flex; align-items: center; gap: 10px; margin: 0 0 10px; font-size: 18px; font-weight: 900; }
-      .result-box p { margin: 0; color: #546e7a; line-height: 1.6; }
+      .result-box .mini-ia-badge { display: inline-flex; align-items: center; justify-content: center; min-width: 26px; height: 18px; padding: 0 6px; border-radius: 999px; border: 1px solid #d7deea; background: #f8fafc; color: #607d8b; font-size: 10px; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; flex: 0 0 auto; }
+      .result-box .comment-source-note { margin: 0 0 8px; color: #78909c; font-size: 11px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+      .result-box p { margin: 0; color: #546e7a; line-height: 1.6; white-space: pre-line; }
       .side-summary { display: grid; gap: 16px; }
       .mini-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
       .mini-stat { background: #fafbff; border: 1px solid var(--border); border-radius: 16px; padding: 14px; }
@@ -759,7 +944,7 @@ function AppStyles() {
         .login-page { grid-template-columns: 1fr; }
         .login-hero { display: none; }
         .login-panel { padding: 20px; min-height: 100vh; }
-        .content { padding: 18px; }
+        .content { padding: 10px 8px 14px; }
         .topbar { display: block; }
         .simulado-toolbar { margin-top: 12px; }
         .page-title h1 { font-size: 30px; }
@@ -777,8 +962,19 @@ function AppStyles() {
         .usuario-item { align-items: flex-start; flex-direction: column; }
         .usuario-item-side { justify-items: start; }
       }
+      @media (max-width: 480px) {
+        .checkout-dialog {
+          width: calc(100vw - 16px);
+          border-radius: 18px;
+          max-height: 88vh;
+        }
+      }
       @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
       @keyframes loader-slide { 0% { transform: translateX(-100%); } 50% { transform: translateX(160%); } 100% { transform: translateX(320%); } }
+      @keyframes checkout-dialog-in {
+        from { opacity: 0; transform: scale(0.98) translateY(8px); }
+        to { opacity: 1; transform: scale(1) translateY(0); }
+      }
     `}</style>
   );
 }
@@ -799,8 +995,34 @@ async function readApiError(response: Response, fallback: string): Promise<strin
   return `${fallback} (HTTP ${response.status})`;
 }
 
-async function loadQuestionBankTotal(): Promise<number> {
-  const res = await apiFetch("/questions/summary");
+function normalizeStudyCategoryValue(value: unknown): StudyCategory {
+  return value === "estudo_geral" ? "estudo_geral" : "revalida";
+}
+
+function getStudyCategoryLabel(category: StudyCategory): string {
+  return category === "estudo_geral" ? "Estudo geral" : "Revalida";
+}
+
+type QuestionQueryOptions = {
+  commentSource?: CommentFilterSource | null;
+  phase?: QuestionPhase;
+};
+
+function buildQuestionQuery(category: StudyCategory, options: QuestionQueryOptions = {}): string {
+  const params = new URLSearchParams({
+    category,
+    phase: options.phase || "first",
+  });
+
+  if (options.commentSource) {
+    params.set("comment_source", options.commentSource);
+  }
+
+  return params.toString();
+}
+
+async function loadQuestionBankTotal(category: StudyCategory, options: QuestionQueryOptions = {}): Promise<number> {
+  const res = await apiFetch(`/questions/summary?${buildQuestionQuery(category, options)}`);
   if (!res.ok) throw new Error("API offline");
 
   const payload = await res.json();
@@ -820,29 +1042,129 @@ function extractQuestionsFromPayload(payload: unknown): Question[] {
   return [];
 }
 
-async function loadAccessibleQuestions(limit: number, totalCount: number | null, userId?: string | null): Promise<Question[]> {
-  const perPage = Math.max(1, Math.min(Math.floor(limit), QUESTIONS_PAGE_SIZE));
-  const page = totalCount && totalCount > perPage ? getQuestionWindowPage(totalCount, perPage, userId) : 1;
+function hasVisibleAlternatives(question: Question): boolean {
+  return (Object.values(question.alternativas || {}) as string[]).some((text) => text.trim() !== "");
+}
 
-  const res = await apiFetch(`/questions?page=${page}&per_page=${perPage}`);
-  if (!res.ok) throw new Error("API offline");
+function getQuestionType(question: Question): QuestionType {
+  if (question.question_type === "discursive") return "discursive";
+  if (!hasVisibleAlternatives(question) || Boolean(question.official_answer?.trim())) return "discursive";
+  return "multiple_choice";
+}
 
-  const payload = await res.json();
-  const pageItems = extractQuestionsFromPayload(payload);
+function isDiscursiveQuestion(question: Question): boolean {
+  return getQuestionType(question) === "discursive";
+}
 
-  // Non-paginated APIs return a plain array (or one list field).
-  if (Array.isArray(payload)) {
-    return shuffleQuestions(pageItems, getQuestionOrderSeed());
+function hasAiGeneratedComment(question: Question): boolean {
+  return Boolean(question.comment_generated_by_ai || question.comment_source === "ai");
+}
+
+function getQuestionCommentSourceNote(question: Question): string | null {
+  if (hasAiGeneratedComment(question)) {
+    return "Comentário gerado por IA.";
   }
 
-  // De-duplicate by question id in case API overlaps pages.
+  if (question.comment_source === "official") {
+    return "Comentário oficial.";
+  }
+
+  return null;
+}
+
+function getQuestionCommentLabel(
+  question: Question,
+  mode: string,
+): string | null {
+  if (hasAiGeneratedComment(question)) {
+    return "Gerado por IA";
+  }
+
+  if (mode === "questoes_sem_ia") {
+    return "Sem comentário IA";
+  }
+
+  return null;
+}
+
+function getAdminCommentFilterSource(mode: string): CommentFilterSource | null {
+  if (mode === "questoes_ia") return "ai";
+  if (mode === "questoes_sem_ia") return "not_ai";
+  return null;
+}
+
+function isQuestionAnswered(
+  question: Question,
+  answers: Partial<Record<number, AlternativeLetter>>,
+  showResult: Partial<Record<number, boolean>>,
+): boolean {
+  return isDiscursiveQuestion(question) ? Boolean(showResult[question.id]) : Boolean(answers[question.id]);
+}
+
+async function loadAccessibleQuestions(
+  limit: number,
+  totalCount: number | null,
+  category: StudyCategory,
+  options: QuestionQueryOptions = {},
+  userId?: string | null,
+): Promise<Question[]> {
+  const requested = Math.max(1, Math.floor(limit));
+  const perPage = Math.max(1, Math.min(requested, QUESTIONS_PAGE_SIZE));
+  const startPage = totalCount && totalCount > perPage ? getQuestionWindowPage(totalCount, perPage, userId) : 1;
+
   const deduped = new Map<number, Question>();
-  for (const item of pageItems) {
+
+  async function fetchPage(page: number): Promise<{ items: Question[]; lastPage: number | null }> {
+    const res = await apiFetch(`/questions?page=${page}&per_page=${perPage}&${buildQuestionQuery(category, options)}`);
+    if (!res.ok) throw new Error("API offline");
+
+    const payload = await res.json();
+    const items = extractQuestionsFromPayload(payload);
+
+    // Non-paginated APIs return a plain array (or one list field).
+    if (Array.isArray(payload)) {
+      return { items, lastPage: 1 };
+    }
+
+    const lastPageRaw = (payload as Record<string, unknown>)?.last_page;
+    const lastPage = typeof lastPageRaw === "number" && Number.isFinite(lastPageRaw) ? Math.max(1, Math.floor(lastPageRaw)) : null;
+    return { items, lastPage };
+  }
+
+  const first = await fetchPage(startPage);
+  for (const item of first.items) {
     if (!item || typeof item.id !== "number") continue;
     deduped.set(item.id, item);
   }
 
-  return shuffleQuestions(Array.from(deduped.values()).sort((a, b) => a.id - b.id), getQuestionOrderSeed());
+  const lastPage = first.lastPage ?? 1;
+  const desiredPages = Math.min(lastPage, Math.max(1, Math.ceil(requested / perPage)));
+
+  for (let offset = 1; offset < desiredPages && deduped.size < requested; offset += 1) {
+    const rawPage = startPage + offset;
+    const page = rawPage > lastPage ? ((rawPage - 1) % lastPage) + 1 : rawPage;
+
+    const next = await fetchPage(page);
+    for (const item of next.items) {
+      if (!item || typeof item.id !== "number") continue;
+      deduped.set(item.id, item);
+    }
+  }
+
+  const selected = Array.from(deduped.values())
+    .sort((a, b) => {
+      const aDiscursive = a.question_type === "discursive" || !hasVisibleAlternatives(a);
+      const bDiscursive = b.question_type === "discursive" || !hasVisibleAlternatives(b);
+
+      if (aDiscursive !== bDiscursive) {
+        return aDiscursive ? -1 : 1;
+      }
+
+      return a.id - b.id;
+    })
+    .slice(0, requested);
+
+  return shuffleQuestions(selected, getQuestionOrderSeed());
 }
 
 function getSimulationStorageKey(userId?: string | null): string {
@@ -861,9 +1183,60 @@ function extractSimulationRecordsFromPayload(payload: unknown): SimulationRecord
   return [];
 }
 
+function isLocalSimulationRecord(record: SimulationRecord): boolean {
+  return typeof record.id === "string" && record.id.startsWith("local-");
+}
+
+function simulationSignature(record: SimulationRecord): string {
+  return [
+    record.user_id || "",
+    record.title || "",
+    record.area || "",
+    record.status || "",
+    record.started_at || "",
+    record.ended_at || "",
+    record.duration_seconds || 0,
+    record.elapsed_seconds || 0,
+    record.total_questions || 0,
+    record.answered_questions || 0,
+    record.correct_questions || 0,
+    record.accuracy || 0,
+  ].join("|");
+}
+
 function normalizeSimulationRecords(records: SimulationRecord[]): SimulationRecord[] {
-  return records
-    .filter((record) => Boolean(record?.id))
+  const uniqueById = new Map<string, SimulationRecord>();
+
+  for (const record of records) {
+    if (!record?.id) continue;
+    if (!uniqueById.has(record.id)) {
+      uniqueById.set(record.id, record);
+    }
+  }
+
+  const deduped = Array.from(uniqueById.values());
+  const remoteSignatures = new Set(
+    deduped
+      .filter((record) => !isLocalSimulationRecord(record))
+      .map((record) => simulationSignature(record))
+  );
+
+  const localSignatures = new Set<string>();
+
+  return deduped
+    .filter((record) => {
+      const signature = simulationSignature(record);
+
+      if (isLocalSimulationRecord(record)) {
+        if (remoteSignatures.has(signature) || localSignatures.has(signature)) {
+          return false;
+        }
+
+        localSignatures.add(signature);
+      }
+
+      return true;
+    })
     .sort((a, b) => {
       const left = new Date(b.started_at || b.ended_at || 0).getTime();
       const right = new Date(a.started_at || a.ended_at || 0).getTime();
@@ -909,6 +1282,31 @@ function extractSystemUsersFromPayload(payload: unknown): SystemUser[] {
   }
 
   return [];
+}
+
+function extractBillingPlans(payload: unknown): BillingPlan[] {
+  if (payload && typeof payload === "object") {
+    const plans = (payload as Record<string, unknown>).plans;
+    if (Array.isArray(plans)) return plans as BillingPlan[];
+  }
+
+  return [];
+}
+
+function extractPaymentSession(payload: unknown): MockPaymentSession | null {
+  if (!payload || typeof payload !== "object") return null;
+
+  const direct = (payload as Record<string, unknown>).payment_session;
+  if (direct && typeof direct === "object") {
+    return direct as MockPaymentSession;
+  }
+
+  const active = (payload as Record<string, unknown>).active_payment_session;
+  if (active && typeof active === "object") {
+    return active as MockPaymentSession;
+  }
+
+  return null;
 }
 
 function normalizeSystemUsers(users: SystemUser[]): SystemUser[] {
@@ -960,6 +1358,18 @@ function formatCount(value: number): string {
   return new Intl.NumberFormat("pt-BR").format(Math.max(0, Math.floor(value)));
 }
 
+function isValidEmail(value: string): boolean {
+  const trimmed = value.trim();
+  return /^\S+@\S+\.\S+$/.test(trimmed);
+}
+
+function formatMoneyFromCents(value: number, currency = "BRL"): string {
+  return new Intl.NumberFormat("pt-BR", {
+    style: "currency",
+    currency,
+  }).format((Number.isFinite(value) ? value : 0) / 100);
+}
+
 function formatQuestionCountLabel(value: number): string {
   const safeValue = Math.max(0, Math.floor(value));
   return `${formatCount(safeValue)} ${safeValue === 1 ? "questão" : "questões"}`;
@@ -968,6 +1378,90 @@ function formatQuestionCountLabel(value: number): string {
 function formatMinuteCountLabel(value: number): string {
   const safeValue = Math.max(0, Math.floor(value));
   return `${formatCount(safeValue)} ${safeValue === 1 ? "minuto" : "minutos"}`;
+}
+
+function formatCardNumber(value: string): string {
+  const digits = value.replace(/\D/g, "").slice(0, 19);
+  const groups = [];
+  for (let i = 0; i < digits.length; i += 4) {
+    groups.push(digits.slice(i, i + 4));
+  }
+  return groups.join(" ").trim();
+}
+
+function formatCardExpiry(value: string): string {
+  const digits = value.replace(/\D/g, "").slice(0, 4);
+  if (digits.length <= 2) return digits;
+  return `${digits.slice(0, 2)}/${digits.slice(2)}`;
+}
+
+function normalizeOnlyDigits(value: string, maxLength: number): string {
+  return value.replace(/\D/g, "").slice(0, maxLength);
+}
+
+function formatCardCpf(value: string): string {
+  const digits = value.replace(/\D/g, "").slice(0, 11);
+  return digits
+    .replace(/(\d{3})(\d)/, "$1.$2")
+    .replace(/(\d{3})(\d)/, "$1.$2")
+    .replace(/(\d{3})(\d{1,2})$/, "$1-$2");
+}
+
+function validateCardLuhn(value: string): boolean {
+  if (!/^\d{13,19}$/.test(value)) {
+    return false;
+  }
+
+  let sum = 0;
+  let alternate = false;
+
+  for (let i = value.length - 1; i >= 0; i -= 1) {
+    let digit = parseInt(value[i]!, 10);
+    if (alternate) {
+      digit *= 2;
+      if (digit > 9) digit -= 9;
+    }
+    sum += digit;
+    alternate = !alternate;
+  }
+
+  return sum % 10 === 0;
+}
+
+function validateCardExpiry(value: string): boolean {
+  const digits = value.replace(/\D/g, "");
+  if (digits.length !== 4) return false;
+
+  const month = parseInt(digits.slice(0, 2), 10);
+  const year = parseInt(digits.slice(2), 10);
+  if (!Number.isFinite(month) || !Number.isFinite(year)) return false;
+  if (month < 1 || month > 12) return false;
+
+  const currentYear = new Date().getFullYear() % 100;
+  const currentMonth = new Date().getMonth() + 1;
+  if (year < currentYear) return false;
+  if (year === currentYear && month < currentMonth) return false;
+
+  return true;
+}
+
+function validateCpf(value: string): boolean {
+  if (!/^\d{11}$/.test(value)) return false;
+  if (/^(\d)\1+$/.test(value)) return false;
+
+  const digits = value.split("").map((digit) => parseInt(digit, 10));
+  const calcDigit = (baseLimit: number) => {
+    const sum = digits
+      .slice(0, baseLimit)
+      .reduce((acc, digit, index) => acc + digit * ((baseLimit + 1) - index), 0);
+    const mod = (sum * 10) % 11;
+    return mod === 10 ? 0 : mod;
+  };
+
+  const first = calcDigit(9);
+  const second = calcDigit(10);
+
+  return digits[9] === first && digits[10] === second;
 }
 
 function getCurrentMonthKey(): string {
@@ -1151,6 +1645,84 @@ function saveSimuladoBaseline(value: SimuladoBaseline | null): void {
   window.localStorage.setItem(SIMULADO_BASELINE_STORAGE_KEY, JSON.stringify(value));
 }
 
+function loadStoredStudyCategory(): StudyCategory {
+  if (typeof window === "undefined") return DEFAULT_STUDY_CATEGORY;
+
+  try {
+    const raw = window.localStorage.getItem(STORAGE_KEY);
+    if (!raw) return DEFAULT_STUDY_CATEGORY;
+
+    const parsed = JSON.parse(raw) as { studyCategory?: unknown };
+    return normalizeStudyCategoryValue(parsed.studyCategory);
+  } catch {
+    return DEFAULT_STUDY_CATEGORY;
+  }
+}
+
+function loadStoredQuestionPhase(): QuestionPhase {
+  if (typeof window === "undefined") return DEFAULT_QUESTION_PHASE;
+
+  try {
+    const raw = window.localStorage.getItem(STORAGE_KEY);
+    if (!raw) return DEFAULT_QUESTION_PHASE;
+
+    const parsed = JSON.parse(raw) as { questionPhase?: unknown };
+    const value = typeof parsed.questionPhase === "string" ? parsed.questionPhase.trim() : "";
+    return value === "second" || value === "all" ? value : "first";
+  } catch {
+    return DEFAULT_QUESTION_PHASE;
+  }
+}
+
+function loadStoredQuestionFormatFilter(): QuestionFormatFilter {
+  if (typeof window === "undefined") return "all";
+
+  try {
+    const raw = window.localStorage.getItem(STORAGE_KEY);
+    if (!raw) return "all";
+
+    const parsed = JSON.parse(raw) as { questionFormatFilter?: unknown };
+    const value = typeof parsed.questionFormatFilter === "string" ? parsed.questionFormatFilter.trim() : "";
+    return value === "discursive" || value === "multiple_choice" ? value : "all";
+  } catch {
+    return "all";
+  }
+}
+
+function loadStoredSimuladoReviewMode(): SimuladoReviewMode {
+  if (typeof window === "undefined") return DEFAULT_SIMULADO_REVIEW_MODE;
+
+  try {
+    const raw = window.localStorage.getItem(STORAGE_KEY);
+    if (!raw) return DEFAULT_SIMULADO_REVIEW_MODE;
+
+    const parsed = JSON.parse(raw) as { simuladoReviewMode?: unknown };
+    return parsed.simuladoReviewMode === "prova" ? "prova" : "treino";
+  } catch {
+    return DEFAULT_SIMULADO_REVIEW_MODE;
+  }
+}
+
+function loadStoredSimuladoCategories(): StudyCategory[] {
+  if (typeof window === "undefined") return [DEFAULT_STUDY_CATEGORY];
+
+  try {
+    const raw = window.localStorage.getItem(STORAGE_KEY);
+    if (!raw) return [DEFAULT_STUDY_CATEGORY];
+
+    const parsed = JSON.parse(raw) as { simuladoCategories?: unknown };
+    if (!Array.isArray(parsed.simuladoCategories)) return [DEFAULT_STUDY_CATEGORY];
+
+    const values = parsed.simuladoCategories
+      .filter((item): item is string => typeof item === "string")
+      .map((item) => normalizeStudyCategoryValue(item));
+    const unique = Array.from(new Set(values));
+    return unique.length ? unique : [DEFAULT_STUDY_CATEGORY];
+  } catch {
+    return [DEFAULT_STUDY_CATEGORY];
+  }
+}
+
 export default function RevalidaQuestoesMVP() {
   const [token, setToken] = useState<string | null>(null);
   const [user, setUser] = useState<DashboardUser | null>(null);
@@ -1181,9 +1753,53 @@ export default function RevalidaQuestoesMVP() {
   const [questionTextSize, setQuestionTextSize] = useState(DEFAULT_QUESTION_TEXT_SIZE);
   const [questionBankTotal, setQuestionBankTotal] = useState(0);
   const [questionBankTotalLoaded, setQuestionBankTotalLoaded] = useState(false);
+  const [billingPlans, setBillingPlans] = useState<BillingPlan[]>([]);
+  const [billingLoading, setBillingLoading] = useState(false);
+  const [billingError, setBillingError] = useState("");
+  const [billingActionLoading, setBillingActionLoading] = useState("");
+  const [billingMessage, setBillingMessage] = useState("");
+  const [activePaymentSession, setActivePaymentSession] = useState<MockPaymentSession | null>(null);
+  const [selectedPlanCode, setSelectedPlanCode] = useState<string>("pro");
+  const [selectedGateway, setSelectedGateway] = useState<string>("stripe");
+  const [gatewayApiKey, setGatewayApiKey] = useState("");
+  const [monthlyUsage, setMonthlyUsage] = useState<MonthlyUsageOverview | null>(null);
+  const [monthlyUsageError, setMonthlyUsageError] = useState("");
+  const cardDialogRef = useRef<HTMLDialogElement | null>(null);
+  const [cardForm, setCardForm] = useState<CardForm>({
+    cardholder_name: "",
+    card_number: "",
+    card_expiry: "",
+    card_cvv: "",
+    card_cpf: "",
+  });
+  const [payPalForm, setPayPalForm] = useState<PayPalForm>({
+    name: "",
+    email: "",
+    phone: "",
+    password: "",
+  });
+  const [pagSeguroForm, setPagSeguroForm] = useState<PagSeguroForm>({
+    name: "",
+    cpf_cnpj: "",
+    phone: "",
+  });
+  const [cardFormMessage, setCardFormMessage] = useState("");
+  const [isCardDialogOpen, setIsCardDialogOpen] = useState(false);
+  const [isSubmittingCheckout, setIsSubmittingCheckout] = useState(false);
+  const [aiCommentQuestionBankTotal, setAiCommentQuestionBankTotal] = useState(0);
+  const [aiCommentQuestionBankTotalLoaded, setAiCommentQuestionBankTotalLoaded] = useState(false);
   const [apiPendingCount, setApiPendingCount] = useState(0);
   const [questionsLoading, setQuestionsLoading] = useState(true);
+  const [aiCommentQuestionsLoading, setAiCommentQuestionsLoading] = useState(false);
   const [simuladoOrderSeed, setSimuladoOrderSeed] = useState(1);
+  const [studyCategory, setStudyCategory] = useState<StudyCategory>(() => loadStoredStudyCategory());
+  const [questionPhase, setQuestionPhase] = useState<QuestionPhase>(() => loadStoredQuestionPhase());
+  const [questionFormatFilter, setQuestionFormatFilter] = useState<QuestionFormatFilter>(() => loadStoredQuestionFormatFilter());
+  const [simuladoReviewMode, setSimuladoReviewMode] = useState<SimuladoReviewMode>(() => loadStoredSimuladoReviewMode());
+  const [simuladoCategories, setSimuladoCategories] = useState<StudyCategory[]>(() => loadStoredSimuladoCategories());
+  const [simuladoQuestionPool, setSimuladoQuestionPool] = useState<Question[]>([]);
+  const [simuladoQuestionPoolLoading, setSimuladoQuestionPoolLoading] = useState(false);
+  const [simuladoQuestionPoolError, setSimuladoQuestionPoolError] = useState("");
   const simuladoFinalizeLockRef = useRef(false);
   const simuladoBaselineRef = useRef<{
     area: string;
@@ -1193,6 +1809,11 @@ export default function RevalidaQuestoesMVP() {
     questionOrderSeed: number;
   } | null>(null);
   const [questions, setQuestions] = useState<Question[]>(INITIAL_QUESTIONS);
+  const [aiCommentQuestions, setAiCommentQuestions] = useState<Question[]>([]);
+  const [aiCommentArea, setAiCommentArea] = useState("Todas");
+  const [aiCommentCurrentIndex, setAiCommentCurrentIndex] = useState(0);
+  const [aiCommentAnswers, setAiCommentAnswers] = useState<Partial<Record<number, AlternativeLetter>>>({});
+  const [aiCommentShowResult, setAiCommentShowResult] = useState<Partial<Record<number, boolean>>>({});
   const [adminForm, setAdminForm] = useState<AdminFormState>({
     area: "Clínica Médica",
     tema: "Novo tema",
@@ -1207,18 +1828,104 @@ export default function RevalidaQuestoesMVP() {
     comentario: "",
   });
   const isAdmin = Boolean(user?.is_admin);
-  const monthlyQuestionLimit = normalizeMonthlyQuestionLimit(user?.monthly_question_limit);
+  const aiEnabled = Boolean(user?.ai_enabled ?? true);
+  const adminCommentFilterSource = getAdminCommentFilterSource(mode);
+  const isAdminFilteredQuestionMode = adminCommentFilterSource !== null;
+  const monthlyQuestionLimit = normalizeMonthlyQuestionLimit(
+    studyCategory === "estudo_geral"
+      ? (user?.current_plans_by_category?.estudo_geral?.monthly_question_limit ?? user?.monthly_question_limit)
+      : (user?.current_plans_by_category?.revalida?.monthly_question_limit ?? user?.monthly_question_limit)
+  );
   const visibleQuestionBankTotal = questionBankTotalLoaded ? questionBankTotal : questions.length;
+  const visibleAiCommentQuestionBankTotal = aiCommentQuestionBankTotalLoaded ? aiCommentQuestionBankTotal : aiCommentQuestions.length;
   const simuladoDurationMinutesValue = normalizeSimuladoDurationMinutes(simuladoDurationMinutes);
   const simuladoDurationSeconds = simuladoDurationMinutesValue * 60;
 
   useEffect(() => subscribeApiRequestCount(setApiPendingCount), []);
 
-  async function refreshQuestions(silent = false): Promise<void> {
+  async function loadMonthlyUsage(): Promise<void> {
+    if (!token) return;
+    setMonthlyUsageError("");
+    try {
+      const res = await apiFetch("/usage", {
+        headers: { Authorization: `Bearer ${token}` },
+      });
+      if (!res.ok) throw new Error(await readApiError(res, "Falha ao carregar uso mensal"));
+      const payload = (await res.json()) as MonthlyUsageOverview;
+      setMonthlyUsage(payload);
+    } catch (err) {
+      setMonthlyUsage(null);
+      setMonthlyUsageError(err instanceof Error ? err.message : "Falha ao carregar uso mensal");
+    }
+  }
+
+  function clearLocalSessionState(): void {
+    setToken(null);
+    setUser(null);
+    setName("");
+    setEmail("");
+    setPassword("");
+    setMode("dashboard");
+    setQuestionTextSize(DEFAULT_QUESTION_TEXT_SIZE);
+    setBillingPlans([]);
+    setBillingLoading(false);
+    setBillingError("");
+    setBillingActionLoading("");
+    setBillingMessage("");
+    setActivePaymentSession(null);
+    setQuestionBankTotal(0);
+    setQuestionBankTotalLoaded(false);
+    setAiCommentQuestionBankTotal(0);
+    setAiCommentQuestionBankTotalLoaded(false);
+    setQuestionsLoading(true);
+    setAiCommentQuestionsLoading(false);
+    setQuestions(INITIAL_QUESTIONS);
+    setAiCommentQuestions([]);
+    setArea("Todas");
+    setAiCommentArea("Todas");
+    setSimuladoActive(false);
+    setSimuladoElapsedSeconds(0);
+    setSimuladoDurationMinutes(DEFAULT_SIMULADO_DURATION_MINUTES);
+    setSimuladoQuestionTarget(DEFAULT_SIMULADO_QUESTION_COUNT);
+    setQuestionPhase(DEFAULT_QUESTION_PHASE);
+    setQuestionFormatFilter("all");
+    setSimuladoReviewMode(DEFAULT_SIMULADO_REVIEW_MODE);
+    setSimuladoCategories([DEFAULT_STUDY_CATEGORY]);
+    setSimuladoQuestionPool([]);
+    setSimuladoQuestionPoolLoading(false);
+    setSimuladoQuestionPoolError("");
+    simuladoFinalizeLockRef.current = false;
+    simuladoBaselineRef.current = null;
+    saveSimuladoBaseline(null);
+    setSimulationHistory([]);
+    setSelectedSimulationId(null);
+    setSimulationHistoryLoading(false);
+    setSimulationHistoryError("");
+    setSystemUsers([]);
+    setSelectedSystemUserId(null);
+    setSystemUsersLoading(false);
+    setSystemUsersError("");
+    setSystemUsersQuery("");
+    setCurrentIndex(0);
+    setAiCommentCurrentIndex(0);
+    setAnswers({});
+    setAiCommentAnswers({});
+    setShowResult({});
+    setAiCommentShowResult({});
+    localStorage.removeItem(STORAGE_KEY);
+    localStorage.removeItem(QUESTION_ORDER_SEED_KEY);
+  }
+
+  async function refreshQuestions(
+    silent = false,
+    category: StudyCategory = studyCategory,
+    phase: QuestionPhase = questionPhase,
+  ): Promise<void> {
     if (!silent) setQuestionsLoading(true);
 
     try {
-      const totalCount = await loadQuestionBankTotal().catch(() => null);
+      await loadMonthlyUsage();
+      const totalCount = await loadQuestionBankTotal(category, { phase }).catch(() => null);
       if (typeof totalCount === "number") {
         setQuestionBankTotal(totalCount);
         setQuestionBankTotalLoaded(true);
@@ -1227,6 +1934,8 @@ export default function RevalidaQuestoesMVP() {
       const accessibleQuestions = await loadAccessibleQuestions(
         monthlyQuestionLimit,
         typeof totalCount === "number" ? totalCount : (questionBankTotal > 0 ? questionBankTotal : null),
+        category,
+        { phase },
         user?.id
       );
 
@@ -1246,6 +1955,82 @@ export default function RevalidaQuestoesMVP() {
     }
   }
 
+  async function refreshAiCommentQuestions(
+    silent = false,
+    category: StudyCategory = studyCategory,
+    phase: QuestionPhase = questionPhase,
+    commentSource: CommentFilterSource = "ai",
+  ): Promise<void> {
+    if (!silent) setAiCommentQuestionsLoading(true);
+
+    try {
+      await loadMonthlyUsage();
+      const totalCount = await loadQuestionBankTotal(category, { commentSource, phase }).catch(() => null);
+      if (typeof totalCount === "number") {
+        setAiCommentQuestionBankTotal(totalCount);
+        setAiCommentQuestionBankTotalLoaded(true);
+      }
+
+      const accessibleQuestions = await loadAccessibleQuestions(
+        monthlyQuestionLimit,
+        typeof totalCount === "number" ? totalCount : (aiCommentQuestionBankTotal > 0 ? aiCommentQuestionBankTotal : null),
+        category,
+        { commentSource, phase },
+        user?.id
+      );
+
+      setAiCommentQuestions(accessibleQuestions);
+
+      if (typeof totalCount !== "number" && accessibleQuestions.length) {
+        setAiCommentQuestionBankTotal(accessibleQuestions.length);
+      }
+    } catch {
+      if (!silent) {
+        setAiCommentQuestions([]);
+        setAiCommentQuestionBankTotal(0);
+        setAiCommentQuestionBankTotalLoaded(false);
+      }
+    } finally {
+      if (!silent) setAiCommentQuestionsLoading(false);
+    }
+  }
+
+  async function loadSimuladoQuestionPool(categories: StudyCategory[], phase: QuestionPhase = questionPhase): Promise<void> {
+    const selectedCategories = Array.from(new Set(categories)).length ? Array.from(new Set(categories)) : [studyCategory];
+    setSimuladoQuestionPoolLoading(true);
+    setSimuladoQuestionPoolError("");
+
+    try {
+      const batches = await Promise.all(
+        selectedCategories.map(async (category) => {
+          const totalCount = await loadQuestionBankTotal(category, { phase }).catch(() => null);
+          return loadAccessibleQuestions(
+            monthlyQuestionLimit,
+            typeof totalCount === "number" ? totalCount : null,
+            category,
+            { phase },
+            user?.id
+          );
+        })
+      );
+
+      const merged = new Map<number, Question>();
+      for (const batch of batches) {
+        for (const question of batch) {
+          if (!question || typeof question.id !== "number") continue;
+          merged.set(question.id, question);
+        }
+      }
+
+      setSimuladoQuestionPool(Array.from(merged.values()));
+    } catch (err) {
+      setSimuladoQuestionPool([]);
+      setSimuladoQuestionPoolError(err instanceof Error ? err.message : "Falha ao carregar perguntas do simulado");
+    } finally {
+      setSimuladoQuestionPoolLoading(false);
+    }
+  }
+
   // Load saved session on mount
   useEffect(() => {
     // Check for Google OAuth callback
@@ -1254,7 +2039,7 @@ export default function RevalidaQuestoesMVP() {
     const state = urlParams.get("state");
     const error = urlParams.get("error");
     const errorDescription = urlParams.get("error_description");
-    
+
     if (code) {
       setAuthLoading(true);
       // In dev StrictMode, effects can run twice. Remove OAuth params immediately
@@ -1285,7 +2070,7 @@ export default function RevalidaQuestoesMVP() {
         });
       return;
     }
-    
+
     if (error) {
       setAuthError(errorDescription || "Login Google cancelado");
       window.history.replaceState({}, document.title, window.location.pathname);
@@ -1303,6 +2088,26 @@ export default function RevalidaQuestoesMVP() {
           setName(parsed.user.name || "");
           setEmail(parsed.user.email || "");
           setQuestionTextSize(normalizeQuestionTextSize(parsed.user.question_text_size));
+          setQuestionPhase(
+            typeof parsed.questionPhase === "string" && (parsed.questionPhase === "first" || parsed.questionPhase === "second" || parsed.questionPhase === "all")
+              ? parsed.questionPhase
+              : DEFAULT_QUESTION_PHASE
+          );
+          setQuestionFormatFilter(
+            typeof parsed.questionFormatFilter === "string" && (parsed.questionFormatFilter === "all" || parsed.questionFormatFilter === "multiple_choice" || parsed.questionFormatFilter === "discursive")
+              ? parsed.questionFormatFilter
+              : "all"
+          );
+          setSimuladoReviewMode(parsed.simuladoReviewMode === "prova" ? "prova" : "treino");
+          setSimuladoCategories(
+            Array.isArray(parsed.simuladoCategories)
+              ? Array.from(new Set(
+                  parsed.simuladoCategories
+                    .filter((item: unknown): item is string => typeof item === "string")
+                    .map((item: string) => normalizeStudyCategoryValue(item))
+                ))
+              : [DEFAULT_STUDY_CATEGORY]
+          );
         }
         setMode(parsed.mode || "dashboard");
         setArea(parsed.area || "Todas");
@@ -1335,7 +2140,7 @@ export default function RevalidaQuestoesMVP() {
       }
     }
 
-    void refreshQuestions();
+    void refreshQuestions(false, studyCategory, questionPhase);
   }, []);
 
   useEffect(() => {
@@ -1344,7 +2149,12 @@ export default function RevalidaQuestoesMVP() {
     let cancelled = false;
     const refreshSilently = () => {
       if (cancelled) return;
-      void refreshQuestions(true);
+      if (adminCommentFilterSource && isAdmin) {
+        void refreshAiCommentQuestions(true, studyCategory, questionPhase, adminCommentFilterSource);
+        return;
+      }
+
+      void refreshQuestions(true, studyCategory, questionPhase);
     };
 
     const timer = window.setInterval(refreshSilently, 15000);
@@ -1363,19 +2173,34 @@ export default function RevalidaQuestoesMVP() {
       window.removeEventListener("focus", handleFocus);
       document.removeEventListener("visibilitychange", handleVisibility);
     };
-  }, [token, user]);
+  }, [token, user, mode, isAdmin, studyCategory, questionPhase, adminCommentFilterSource]);
+
+  useEffect(() => {
+    if (!token || !user || !isAdmin || !adminCommentFilterSource) return;
+    void refreshAiCommentQuestions(false, studyCategory, questionPhase, adminCommentFilterSource);
+  }, [token, user, isAdmin, studyCategory, questionPhase, adminCommentFilterSource]);
+
+  useEffect(() => {
+    if (!token || !user || (!simuladoActive && mode !== "simulado")) return;
+    void loadSimuladoQuestionPool(simuladoCategories, questionPhase);
+  }, [token, user, simuladoActive, mode, simuladoCategories, questionPhase]);
 
   // Save state to localStorage
   useEffect(() => {
     localStorage.setItem(
       STORAGE_KEY,
-        JSON.stringify({ 
-          token, 
-          user, 
-          mode, 
-          area, 
-          currentIndex, 
-          answers, 
+        JSON.stringify({
+          token,
+          user,
+          mode,
+          studyCategory,
+          questionPhase,
+          questionFormatFilter,
+          simuladoReviewMode,
+          simuladoCategories,
+          area,
+          currentIndex,
+          answers,
           showResult,
           simuladoActive,
           simuladoElapsedSeconds,
@@ -1388,6 +2213,11 @@ export default function RevalidaQuestoesMVP() {
     token,
     user,
     mode,
+    studyCategory,
+    questionPhase,
+    questionFormatFilter,
+    simuladoReviewMode,
+    simuladoCategories,
     area,
     currentIndex,
     answers,
@@ -1461,6 +2291,10 @@ export default function RevalidaQuestoesMVP() {
       headers: { Authorization: `Bearer ${token}` },
     })
       .then(async (res) => {
+        if (res.status === 401 || res.status === 403) {
+          throw new Error("__AUTH_INVALID__");
+        }
+
         if (!res.ok) throw new Error(await readApiError(res, "Falha ao atualizar sessão"));
         return res.json();
       })
@@ -1472,8 +2306,10 @@ export default function RevalidaQuestoesMVP() {
         if (typeof profile.email === "string") setEmail(profile.email);
         setQuestionTextSize(normalizeQuestionTextSize(profile.question_text_size));
       })
-      .catch(() => {
-        // If the session refresh fails, keep the cached auth state.
+      .catch((err) => {
+        if (err instanceof Error && err.message === "__AUTH_INVALID__") {
+          clearLocalSessionState();
+        }
       });
 
     return () => {
@@ -1491,7 +2327,7 @@ export default function RevalidaQuestoesMVP() {
   }, [user?.id, user?.question_text_size]);
 
   useEffect(() => {
-    if (!isAdmin && (mode === "admin" || mode === "usuarios")) {
+    if (!isAdmin && (mode === "admin" || mode === "usuarios" || mode === "questoes_ia" || mode === "questoes_sem_ia")) {
       setMode("dashboard");
     }
   }, [isAdmin, mode]);
@@ -1501,6 +2337,12 @@ export default function RevalidaQuestoesMVP() {
     void loadSystemUsers();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [mode, token, isAdmin]);
+
+  useEffect(() => {
+    if (mode !== "planos" || !token || !user) return;
+    void loadBillingOverview();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [mode, token, user?.id]);
 
   useEffect(() => {
     if (!simuladoActive) return;
@@ -1526,18 +2368,18 @@ export default function RevalidaQuestoesMVP() {
     e.preventDefault();
     setAuthLoading(true);
     setAuthError("");
-    
+
     try {
       const res = await apiFetch("/auth/login", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email, password }),
       });
-      
+
       if (!res.ok) {
         throw new Error(await readApiError(res, "Falha no login"));
       }
-      
+
       const data = await res.json();
       setToken(data.access_token);
       setUser(data.user);
@@ -1555,18 +2397,18 @@ export default function RevalidaQuestoesMVP() {
     e.preventDefault();
     setAuthLoading(true);
     setAuthError("");
-    
+
     try {
       const res = await apiFetch("/auth/register", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email, name, password }),
       });
-      
+
       if (!res.ok) {
         throw new Error(await readApiError(res, "Falha no cadastro"));
       }
-      
+
       const data = await res.json();
       setToken(data.access_token);
       setUser(data.user);
@@ -1604,61 +2446,114 @@ export default function RevalidaQuestoesMVP() {
       });
     }
 
-    setToken(null);
-    setUser(null);
-    setName("");
-    setEmail("");
-    setPassword("");
-    setMode("dashboard");
-    setQuestionTextSize(DEFAULT_QUESTION_TEXT_SIZE);
-    setSimuladoActive(false);
-    setSimuladoElapsedSeconds(0);
-    setSimuladoDurationMinutes(DEFAULT_SIMULADO_DURATION_MINUTES);
-    setSimuladoQuestionTarget(DEFAULT_SIMULADO_QUESTION_COUNT);
-    simuladoFinalizeLockRef.current = false;
-    simuladoBaselineRef.current = null;
-    saveSimuladoBaseline(null);
-    setSimulationHistory([]);
-    setSelectedSimulationId(null);
-    setSimulationHistoryLoading(false);
-    setSimulationHistoryError("");
-    setSystemUsers([]);
-    setSelectedSystemUserId(null);
-    setSystemUsersLoading(false);
-    setSystemUsersError("");
-    setSystemUsersQuery("");
-    localStorage.removeItem(STORAGE_KEY);
-    localStorage.removeItem(QUESTION_ORDER_SEED_KEY);
+    clearLocalSessionState();
   }
 
-  const areas = useMemo(() => ["Todas", ...Array.from(new Set(questions.map((q) => q.area)))], [questions]);
+  const visibleQuestionsByFormat = useMemo(() => {
+    if (questionFormatFilter === "discursive") {
+      return questions.filter((q) => isDiscursiveQuestion(q));
+    }
+    if (questionFormatFilter === "multiple_choice") {
+      return questions.filter((q) => !isDiscursiveQuestion(q));
+    }
+
+    return questions;
+  }, [questionFormatFilter, questions]);
+  const areas = useMemo(() => ["Todas", ...Array.from(new Set(visibleQuestionsByFormat.map((q) => q.area)))], [visibleQuestionsByFormat]);
   const filteredQuestions = useMemo(() => {
-    return area === "Todas" ? questions : questions.filter((q) => q.area === area);
-  }, [area, questions]);
+    return area === "Todas" ? visibleQuestionsByFormat : visibleQuestionsByFormat.filter((q) => q.area === area);
+  }, [area, visibleQuestionsByFormat]);
+  const visibleAiCommentQuestionsByFormat = useMemo(() => {
+    if (questionFormatFilter === "discursive") {
+      return aiCommentQuestions.filter((q) => isDiscursiveQuestion(q));
+    }
+    if (questionFormatFilter === "multiple_choice") {
+      return aiCommentQuestions.filter((q) => !isDiscursiveQuestion(q));
+    }
+
+    return aiCommentQuestions;
+  }, [questionFormatFilter, aiCommentQuestions]);
+  const aiCommentAreas = useMemo(
+    () => ["Todas", ...Array.from(new Set(visibleAiCommentQuestionsByFormat.map((q) => q.area)))],
+    [visibleAiCommentQuestionsByFormat]
+  );
+  const filteredAiCommentQuestions = useMemo(() => {
+    return aiCommentArea === "Todas"
+      ? visibleAiCommentQuestionsByFormat
+      : visibleAiCommentQuestionsByFormat.filter((q) => q.area === aiCommentArea);
+  }, [aiCommentArea, visibleAiCommentQuestionsByFormat]);
+  const simuladoEligibleQuestions = useMemo(
+    () => simuladoQuestionPool.filter((q) => !isDiscursiveQuestion(q)),
+    [simuladoQuestionPool]
+  );
   const simuladoQuestionLimit = useMemo(() => {
-    if (!questions.length) return 0;
-    return Math.min(questions.length, normalizeSimuladoQuestionTarget(simuladoQuestionTarget));
-  }, [questions.length, simuladoQuestionTarget]);
+    if (!simuladoEligibleQuestions.length) return 0;
+    return Math.min(simuladoEligibleQuestions.length, normalizeSimuladoQuestionTarget(simuladoQuestionTarget));
+  }, [simuladoEligibleQuestions.length, simuladoQuestionTarget]);
   const simuladoQuestions = useMemo(
-    () => buildSimuladoQuestions(questions, simuladoOrderSeed).slice(0, simuladoQuestionLimit),
-    [questions, simuladoOrderSeed, simuladoQuestionLimit]
+    () => buildSimuladoQuestions(simuladoEligibleQuestions, simuladoOrderSeed).slice(0, simuladoQuestionLimit),
+    [simuladoEligibleQuestions, simuladoOrderSeed, simuladoQuestionLimit]
   );
   const activeQuestions = simuladoActive ? simuladoQuestions : filteredQuestions;
-  const simuladoCanStart = !questionsLoading && simuladoQuestions.length > 0;
+  const questionPageRevealAnswer = !simuladoActive || simuladoReviewMode === "treino";
+  const simuladoCanStart = !questionsLoading && !simuladoQuestionPoolLoading && simuladoQuestions.length > 0;
   const simuladoQuestionInputValue = questionsLoading
     ? simuladoQuestionTarget
-    : (questions.length ? Math.min(simuladoQuestionTarget, questions.length) : simuladoQuestionTarget);
+    : (simuladoEligibleQuestions.length
+      ? Math.min(simuladoQuestionTarget, simuladoEligibleQuestions.length)
+      : simuladoQuestionTarget);
 
   const current = activeQuestions[currentIndex] || activeQuestions[0];
+  const aiCommentCurrent = filteredAiCommentQuestions[aiCommentCurrentIndex] || filteredAiCommentQuestions[0];
   const currentQuestionCount = activeQuestions.length;
-  const answeredCount = Object.keys(answers).length;
-  const correctCount = questions.filter((q) => answers[q.id] === q.gabarito).length;
-  const activeAnsweredCount = activeQuestions.filter((q) => Boolean(answers[q.id])).length;
-  const activeCorrectCount = activeQuestions.filter((q) => answers[q.id] === q.gabarito).length;
-  const wrongQuestions = questions.filter((q) => showResult[q.id] && answers[q.id] && answers[q.id] !== q.gabarito);
+  const aiCommentCurrentQuestionCount = filteredAiCommentQuestions.length;
+  const answeredCount = questions.filter((q) => isQuestionAnswered(q, answers, showResult)).length;
+  const aiCommentAnsweredCount = aiCommentQuestions.filter((q) => isQuestionAnswered(q, aiCommentAnswers, aiCommentShowResult)).length;
+  const gradableQuestions = questions.filter((q) => !isDiscursiveQuestion(q));
+  const aiCommentGradableQuestions = aiCommentQuestions.filter((q) => !isDiscursiveQuestion(q));
+  const correctCount = gradableQuestions.filter((q) => answers[q.id] === q.gabarito).length;
+  const aiCommentCorrectCount = aiCommentGradableQuestions.filter((q) => aiCommentAnswers[q.id] === q.gabarito).length;
+  const gradableAnsweredCount = gradableQuestions.filter((q) => Boolean(answers[q.id])).length;
+  const aiCommentGradableAnsweredCount = aiCommentGradableQuestions.filter((q) => Boolean(aiCommentAnswers[q.id])).length;
+  const activeAnsweredCount = activeQuestions.filter((q) => isQuestionAnswered(q, answers, showResult)).length;
+  const activeCorrectCount = activeQuestions.filter((q) => !isDiscursiveQuestion(q) && answers[q.id] === q.gabarito).length;
+  const wrongQuestions = gradableQuestions.filter((q) => showResult[q.id] && answers[q.id] && answers[q.id] !== q.gabarito);
+  const aiCommentWrongQuestions = aiCommentGradableQuestions.filter(
+    (q) => aiCommentShowResult[q.id] && aiCommentAnswers[q.id] && aiCommentAnswers[q.id] !== q.gabarito
+  );
   const progress = questions.length ? Math.round((answeredCount / questions.length) * 100) : 0;
-  const accuracy = answeredCount ? Math.round((correctCount / answeredCount) * 100) : 0;
+  const aiCommentProgress = aiCommentQuestions.length
+    ? Math.round((aiCommentAnsweredCount / aiCommentQuestions.length) * 100)
+    : 0;
+  const accuracy = gradableAnsweredCount ? Math.round((correctCount / gradableAnsweredCount) * 100) : 0;
+  const aiCommentAccuracy = aiCommentGradableAnsweredCount
+    ? Math.round((aiCommentCorrectCount / aiCommentGradableAnsweredCount) * 100)
+    : 0;
   const activeProgress = currentQuestionCount ? Math.round((activeAnsweredCount / currentQuestionCount) * 100) : 0;
+  const isLastActiveQuestion = currentQuestionCount > 0 && currentIndex === currentQuestionCount - 1;
+  const isLastSimuladoQuestion = simuladoActive && isLastActiveQuestion;
+  const isAiQuestionMode = adminCommentFilterSource === "ai";
+  const questionPageLoading = isAdminFilteredQuestionMode ? aiCommentQuestionsLoading : questionsLoading;
+  const questionPageAreas = isAdminFilteredQuestionMode ? aiCommentAreas : areas;
+  const questionPageArea = isAdminFilteredQuestionMode ? aiCommentArea : area;
+  const questionPageCurrent = isAdminFilteredQuestionMode ? aiCommentCurrent : current;
+  const questionPageCurrentIndex = isAdminFilteredQuestionMode ? aiCommentCurrentIndex : currentIndex;
+  const questionPageQuestionCount = isAdminFilteredQuestionMode ? aiCommentCurrentQuestionCount : currentQuestionCount;
+  const questionPageAnsweredCount = isAdminFilteredQuestionMode ? aiCommentAnsweredCount : answeredCount;
+  const questionPageCorrectCount = isAdminFilteredQuestionMode ? aiCommentCorrectCount : correctCount;
+  const questionPageWrongQuestions = isAdminFilteredQuestionMode ? aiCommentWrongQuestions : wrongQuestions;
+  const questionPageProgress = isAdminFilteredQuestionMode ? aiCommentProgress : progress;
+  const questionPageAccuracy = isAdminFilteredQuestionMode ? aiCommentAccuracy : accuracy;
+  const questionPageVisibleTotal = isAdminFilteredQuestionMode ? visibleAiCommentQuestionBankTotal : visibleQuestionBankTotal;
+  const questionPageUsesSimulado = !isAdminFilteredQuestionMode && simuladoActive;
+  const questionPageSessionTitle = questionPageUsesSimulado
+    ? "Simulado"
+    : (mode === "questoes_sem_ia" ? "Questões sem IA" : (isAiQuestionMode ? "Questões IA" : "Sessão"));
+  const questionPageSessionDescription = questionPageUsesSimulado
+    ? "Resumo rápido do simulado atual."
+    : (mode === "questoes_sem_ia"
+      ? "Recorte só com comentários não gerados por IA."
+      : (isAiQuestionMode ? "Recorte só com comentários gerados por IA." : "Resumo rápido do estudo."));
   const respondedLabel = questionsLoading ? "Carregando..." : `${answeredCount}/${questions.length}`;
   const correctLabel = questionsLoading ? "Carregando..." : `${correctCount}`;
   const progressLabel = questionsLoading ? "Carregando..." : `${progress}%`;
@@ -1699,19 +2594,28 @@ export default function RevalidaQuestoesMVP() {
 
   const performanceByArea = areas.filter((item) => item !== "Todas").map((item) => {
     const qs = questions.filter((q) => q.area === item);
-    const answered = qs.filter((q) => answers[q.id]);
-    const correct = qs.filter((q) => answers[q.id] === q.gabarito);
+    const gradable = qs.filter((q) => !isDiscursiveQuestion(q));
+    const answered = qs.filter((q) => isQuestionAnswered(q, answers, showResult));
+    const correct = gradable.filter((q) => answers[q.id] === q.gabarito);
+    const gradableAnswered = gradable.filter((q) => answers[q.id]);
     return {
       area: item,
       total: qs.length,
       answered: answered.length,
       correct: correct.length,
-      accuracy: answered.length ? Math.round((correct.length / answered.length) * 100) : 0,
+      accuracy: gradableAnswered.length ? Math.round((correct.length / gradableAnswered.length) * 100) : 0,
     };
   });
 
-  const visibleNavItems = NAV_ITEMS;
+  const visibleNavItems = NAV_ITEMS.filter((item) => !item.adminOnly || isAdmin);
   const page = visibleNavItems.find((item) => item.key === mode) || visibleNavItems[0];
+
+  const AVAILABLE_PAYMENT_GATEWAYS = [
+    { key: "stripe", label: "Stripe", description: "Cartões, PIX e wallets via Stripe." },
+    { key: "paypal", label: "PayPal", description: "Checkout global com PayPal." },
+    { key: "pagseguro", label: "PagSeguro", description: "Pagamentos brasileiros com boleto e cartão." },
+  ];
+
   const selectedSystemUser = useMemo(
     () => systemUsers.find((item) => item.id === selectedSystemUserId) || systemUsers[0] || null,
     [selectedSystemUserId, systemUsers]
@@ -1733,6 +2637,67 @@ export default function RevalidaQuestoesMVP() {
 
     return { total, active, admins, withSimulations };
   }, [systemUsers]);
+  const currentPlanCodesByCategory = {
+    revalida: user?.current_plans_by_category?.revalida?.code || user?.current_plan_code || null,
+    estudo_geral: user?.current_plans_by_category?.estudo_geral?.code || null,
+  };
+  const currentPlanCode = currentPlanCodesByCategory.revalida;
+  const visibleBillingPlans = billingPlans.length
+    ? billingPlans
+    : [
+        { code: "free", name: "Grátis", category: "revalida", price_cents: 0, monthly_question_limit: 1000, description: "Para testar a plataforma.", is_current: currentPlanCodesByCategory.revalida === "free" },
+        { code: "pro", name: "Pro", category: "revalida", price_cents: 2900, monthly_question_limit: 5000, description: "Banco completo e ritmo forte de estudo.", is_current: currentPlanCodesByCategory.revalida === "pro" },
+        { code: "mentoria", name: "Mentoria", category: "revalida", price_cents: 9900, monthly_question_limit: 10000, description: "Pro + acompanhamento individual.", is_current: currentPlanCodesByCategory.revalida === "mentoria" },
+        { code: "free_geral", name: "Grátis (Estudo geral)", category: "estudo_geral", price_cents: 0, monthly_question_limit: 1000, description: "Para testar a plataforma (conteúdo geral).", is_current: currentPlanCodesByCategory.estudo_geral === "free_geral" },
+        { code: "pro_geral", name: "Pro (Estudo geral)", category: "estudo_geral", price_cents: 2900, monthly_question_limit: 5000, description: "Banco completo para estudo geral.", is_current: currentPlanCodesByCategory.estudo_geral === "pro_geral" },
+        { code: "mentoria_geral", name: "Mentoria (Estudo geral)", category: "estudo_geral", price_cents: 9900, monthly_question_limit: 10000, description: "Pro + acompanhamento individual (conteúdo geral).", is_current: currentPlanCodesByCategory.estudo_geral === "mentoria_geral" },
+      ];
+
+  const billingPlansByCategory = useMemo(() => {
+    const revalida = visibleBillingPlans.filter((plan) => (plan.category || "revalida") === "revalida");
+    const geral = visibleBillingPlans.filter((plan) => (plan.category || "revalida") === "estudo_geral");
+    return { revalida, geral };
+  }, [visibleBillingPlans]);
+
+  const selectedPlan =
+    visibleBillingPlans.find((plan) => plan.code === selectedPlanCode) ||
+    (currentPlanCode ? visibleBillingPlans.find((plan) => plan.code === currentPlanCode) : null) ||
+    visibleBillingPlans[0];
+
+  useEffect(() => {
+    if (!visibleBillingPlans.length) return;
+    const exists = visibleBillingPlans.some((plan) => plan.code === selectedPlanCode);
+    if (exists) return;
+    const fallback = (currentPlanCode && visibleBillingPlans.some((plan) => plan.code === currentPlanCode))
+      ? (currentPlanCode as string)
+      : visibleBillingPlans[0].code;
+    setSelectedPlanCode(fallback);
+  }, [currentPlanCode, selectedPlanCode, visibleBillingPlans]);
+
+  useEffect(() => {
+    if (!aiCommentAreas.includes(aiCommentArea)) {
+      setAiCommentArea("Todas");
+      return;
+    }
+
+    setAiCommentCurrentIndex((prev) => Math.min(prev, Math.max(filteredAiCommentQuestions.length - 1, 0)));
+  }, [aiCommentAreas, aiCommentArea, filteredAiCommentQuestions.length]);
+
+  useEffect(() => {
+    const dialog = cardDialogRef.current;
+    if (!dialog) return;
+
+    if (isCardDialogOpen) {
+      if (!dialog.open) {
+        dialog.showModal();
+      }
+      return;
+    }
+
+    if (dialog.open) {
+      dialog.close();
+    }
+  }, [isCardDialogOpen]);
 
   async function loadSystemUsers() {
     if (!token || !isAdmin) return;
@@ -1762,6 +2727,220 @@ export default function RevalidaQuestoesMVP() {
     }
   }
 
+  function mergeBillingUserPatch(patch: Partial<DashboardUser> | null | undefined) {
+    if (!patch) return;
+
+    setUser((prev) => {
+      if (!prev) return prev;
+      return {
+        ...prev,
+        ...patch,
+      };
+    });
+  }
+
+  async function loadBillingOverview() {
+    if (!token || !user) return;
+
+    setBillingLoading(true);
+    setBillingError("");
+
+    try {
+      const res = await apiFetch("/billing/overview", {
+        headers: { Authorization: `Bearer ${token}` },
+      });
+
+      if (!res.ok) {
+        throw new Error(await readApiError(res, "Falha ao carregar planos"));
+      }
+
+      const payload = await res.json();
+      setBillingPlans(extractBillingPlans(payload));
+      setActivePaymentSession(extractPaymentSession(payload));
+    } catch (err) {
+      setBillingError(err instanceof Error ? err.message : "Falha ao carregar planos");
+    } finally {
+      setBillingLoading(false);
+    }
+  }
+
+  async function startMockCheckout(planCode: string) {
+    if (!token || !user) return;
+
+    setBillingActionLoading(`checkout:${planCode}`);
+    setBillingError("");
+    setBillingMessage("");
+
+    try {
+      const plan = visibleBillingPlans.find((item) => item.code === planCode) || null;
+      const res = await apiFetch("/billing/checkout", {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${token}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ plan_code: planCode, plan_category: plan?.category || "revalida" }),
+      });
+
+      if (!res.ok) {
+        throw new Error(await readApiError(res, "Falha ao iniciar checkout"));
+      }
+
+      const payload = await res.json();
+      setActivePaymentSession(extractPaymentSession(payload));
+      mergeBillingUserPatch(payload.user as Partial<DashboardUser> | undefined);
+      setBillingMessage(
+        typeof payload.message === "string" && payload.message.trim()
+          ? payload.message
+          : "Checkout mock criado."
+      );
+      await loadBillingOverview();
+      await loadMonthlyUsage();
+    } catch (err) {
+      setBillingError(err instanceof Error ? err.message : "Falha ao iniciar checkout");
+    } finally {
+      setBillingActionLoading("");
+    }
+  }
+
+  async function confirmMockPayment(sessionId: number) {
+    if (!token || !user) return;
+
+    setBillingActionLoading(`confirm:${sessionId}`);
+    setBillingError("");
+    setBillingMessage("");
+
+    try {
+      const res = await apiFetch(`/billing/payment-sessions/${sessionId}/confirm`, {
+        method: "POST",
+        headers: { Authorization: `Bearer ${token}` },
+      });
+
+      if (!res.ok) {
+        throw new Error(await readApiError(res, "Falha ao confirmar pagamento mock"));
+      }
+
+      const payload = await res.json();
+      setActivePaymentSession(extractPaymentSession(payload));
+      mergeBillingUserPatch(payload.user as Partial<DashboardUser> | undefined);
+      setBillingMessage(
+        typeof payload.message === "string" && payload.message.trim()
+          ? payload.message
+          : "Pagamento mock confirmado."
+      );
+      await loadBillingOverview();
+      await loadMonthlyUsage();
+    } catch (err) {
+      setBillingError(err instanceof Error ? err.message : "Falha ao confirmar pagamento mock");
+    } finally {
+      setBillingActionLoading("");
+    }
+  }
+
+  async function cancelMockPayment(sessionId: number) {
+    if (!token || !user) return;
+
+    setBillingActionLoading(`cancel:${sessionId}`);
+    setBillingError("");
+    setBillingMessage("");
+
+    try {
+      const res = await apiFetch(`/billing/payment-sessions/${sessionId}/cancel`, {
+        method: "POST",
+        headers: { Authorization: `Bearer ${token}` },
+      });
+
+      if (!res.ok) {
+        throw new Error(await readApiError(res, "Falha ao cancelar checkout mock"));
+      }
+
+      const payload = await res.json();
+      setActivePaymentSession(extractPaymentSession(payload));
+      mergeBillingUserPatch(payload.user as Partial<DashboardUser> | undefined);
+      setBillingMessage(
+        typeof payload.message === "string" && payload.message.trim()
+          ? payload.message
+          : "Checkout mock cancelado."
+      );
+      await loadBillingOverview();
+      await loadMonthlyUsage();
+    } catch (err) {
+      setBillingError(err instanceof Error ? err.message : "Falha ao cancelar checkout mock");
+    } finally {
+      setBillingActionLoading("");
+    }
+  }
+
+  function saveCardForm(): boolean {
+    if (selectedGateway === "stripe") {
+      if (!cardForm.cardholder_name.trim() || !cardForm.card_number.trim() || !cardForm.card_expiry.trim() || !cardForm.card_cvv.trim()) {
+        setCardFormMessage("Preencha titular, número, validade e CVV para salvar.");
+        return false;
+      }
+
+      const cardNumberDigits = normalizeOnlyDigits(cardForm.card_number, 19);
+      const cvvDigits = normalizeOnlyDigits(cardForm.card_cvv, 4);
+      const cpfDigits = normalizeOnlyDigits(cardForm.card_cpf, 11);
+      if (!validateCardLuhn(cardNumberDigits)) {
+        setCardFormMessage("Número do cartão inválido.");
+        return false;
+      }
+      if (!validateCardExpiry(cardForm.card_expiry)) {
+        setCardFormMessage("Validade inválida (MM/AA).");
+        return false;
+      }
+      if (cvvDigits.length < 3 || cvvDigits.length > 4) {
+        setCardFormMessage("CVV deve ter 3 ou 4 dígitos.");
+        return false;
+      }
+      if (cardForm.card_cpf.trim() && !validateCpf(cpfDigits)) {
+        setCardFormMessage("CPF inválido.");
+        return false;
+      }
+
+      setCardFormMessage("Dados do cartão salvos localmente para simulação (sem persistência real no backend).");
+      return true;
+    }
+
+    if (selectedGateway === "paypal") {
+      if (!payPalForm.name.trim() || !payPalForm.email.trim() || !payPalForm.phone.trim() || !payPalForm.password.trim()) {
+        setCardFormMessage("Preencha nome, e-mail, telefone e senha do PayPal para salvar.");
+        return false;
+      }
+
+      if (!isValidEmail(payPalForm.email)) {
+        setCardFormMessage("Digite um e-mail de PayPal válido.");
+        return false;
+      }
+
+      setCardFormMessage("Dados do PayPal salvos localmente para simulação (sem persistência real no backend).");
+      return true;
+    }
+
+    if (selectedGateway === "pagseguro") {
+      if (!pagSeguroForm.name.trim() || !pagSeguroForm.cpf_cnpj.trim() || !pagSeguroForm.phone.trim()) {
+        setCardFormMessage("Preencha nome, documento e telefone para salvar.");
+        return false;
+      }
+
+      const cpfCnpjDigits = normalizeOnlyDigits(pagSeguroForm.cpf_cnpj, 14);
+      if (cpfCnpjDigits.length !== 11 && cpfCnpjDigits.length !== 14) {
+        setCardFormMessage("CPF/CNPJ inválido (use 11 ou 14 dígitos).");
+        return false;
+      }
+
+      setCardFormMessage("Dados do PagSeguro salvos localmente para simulação (sem persistência real no backend).");
+      return true;
+    }
+
+    setCardFormMessage("Gateway não suportado no fluxo mock.");
+    return true;
+  }
+
+  function closeCardDialog(): void {
+    setIsCardDialogOpen(false);
+  }
+
   const ranking = [...RANKING_MOCK, { nome: name || "Você", acertos: correctCount, questoes: Math.max(answeredCount, 1) }]
     .map((r) => ({ ...r, aproveitamento: Math.round((r.acertos / r.questoes) * 100) }))
     .sort((a, b) => b.aproveitamento - a.aproveitamento);
@@ -1769,12 +2948,17 @@ export default function RevalidaQuestoesMVP() {
   function reset() {
     if (!window.confirm("Tem certeza? Isso limpará progresso e respostas.")) return;
     setAnswers({});
+    setAiCommentAnswers({});
     setShowResult({});
+    setAiCommentShowResult({});
     setSimuladoActive(false);
     setSimuladoElapsedSeconds(0);
     simuladoBaselineRef.current = null;
     saveSimuladoBaseline(null);
     setCurrentIndex(0);
+    setAiCommentCurrentIndex(0);
+    setArea("Todas");
+    setAiCommentArea("Todas");
     setMode("dashboard");
   }
 
@@ -1784,22 +2968,163 @@ export default function RevalidaQuestoesMVP() {
     setCurrentIndex(0);
   }
 
+  function changeStudyCategory(value: StudyCategory) {
+    if ((simuladoActive && !isAdminFilteredQuestionMode) || value === studyCategory) return;
+    setStudyCategory(value);
+    if (isAdminFilteredQuestionMode && adminCommentFilterSource) {
+      setAiCommentArea("Todas");
+      setAiCommentCurrentIndex(0);
+      void refreshAiCommentQuestions(false, value, questionPhase, adminCommentFilterSource);
+      return;
+    }
+
+    setArea("Todas");
+    setCurrentIndex(0);
+    void refreshQuestions(false, value, questionPhase);
+  }
+
+  function changeQuestionPhase(value: QuestionPhase) {
+    if ((simuladoActive && !isAdminFilteredQuestionMode) || value === questionPhase) return;
+    setQuestionPhase(value);
+    setArea("Todas");
+    setCurrentIndex(0);
+    setAiCommentArea("Todas");
+    setAiCommentCurrentIndex(0);
+    void refreshQuestions(false, studyCategory, value);
+    if (isAdminFilteredQuestionMode && adminCommentFilterSource) {
+      void refreshAiCommentQuestions(false, studyCategory, value, adminCommentFilterSource);
+    }
+  }
+
+  function changeQuestionFormatFilter(value: QuestionFormatFilter) {
+    if ((simuladoActive && !isAdminFilteredQuestionMode) || value === questionFormatFilter) return;
+    setQuestionFormatFilter(value);
+    setArea("Todas");
+    setCurrentIndex(0);
+    setAiCommentArea("Todas");
+    setAiCommentCurrentIndex(0);
+  }
+
+  function toggleSimuladoCategory(value: StudyCategory) {
+    if (simuladoActive) return;
+
+    setSimuladoCategories((prev) => {
+      const current = Array.from(new Set(prev.length ? prev : [DEFAULT_STUDY_CATEGORY]));
+      if (current.includes(value)) {
+        if (current.length === 1) return current;
+        return current.filter((item) => item !== value);
+      }
+
+      return [...current, value];
+    });
+  }
+
   function choose(letter: AlternativeLetter) {
-    if (!current || showResult[current.id]) return;
+    if (!current || showResult[current.id] || isDiscursiveQuestion(current)) return;
     setAnswers((prev) => ({ ...prev, [current.id]: letter }));
   }
 
+  function changeAiCommentArea(value: string) {
+    setAiCommentArea(value);
+    setAiCommentCurrentIndex(0);
+  }
+
+  function chooseAiComment(letter: AlternativeLetter) {
+    if (!aiCommentCurrent || aiCommentShowResult[aiCommentCurrent.id] || isDiscursiveQuestion(aiCommentCurrent)) return;
+    setAiCommentAnswers((prev) => ({ ...prev, [aiCommentCurrent.id]: letter }));
+  }
+
   function confirmAnswer() {
-    if (!current || !answers[current.id]) return;
-    setShowResult((prev) => ({ ...prev, [current.id]: true }));
+    if (!current || showResult[current.id]) return;
+    if (!isDiscursiveQuestion(current) && !answers[current.id]) return;
+    void (async () => {
+      if (token) {
+        try {
+          const res = await apiFetch(`/questions/${current.id}/attempt`, {
+            method: "POST",
+            headers: {
+              Authorization: `Bearer ${token}`,
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify({
+              study_category: studyCategory,
+              is_correct: isDiscursiveQuestion(current) ? null : answers[current.id] === current.gabarito,
+            }),
+          });
+
+          if (!res.ok) {
+            const msg = await readApiError(res, "Limite mensal atingido");
+            setBillingMessage(msg);
+            await loadMonthlyUsage();
+            return;
+          }
+        } catch {
+          // Fail open: do not block study if backend is offline.
+        }
+      }
+
+      setShowResult((prev) => ({ ...prev, [current.id]: true }));
+      void loadMonthlyUsage();
+
+      if (isLastSimuladoQuestion) {
+        void finalizeSimulado("completed");
+      }
+    })();
+  }
+
+  function confirmAiCommentAnswer() {
+    if (!aiCommentCurrent || aiCommentShowResult[aiCommentCurrent.id]) return;
+    if (!isDiscursiveQuestion(aiCommentCurrent) && !aiCommentAnswers[aiCommentCurrent.id]) return;
+    void (async () => {
+      if (token) {
+        try {
+          const res = await apiFetch(`/questions/${aiCommentCurrent.id}/attempt`, {
+            method: "POST",
+            headers: {
+              Authorization: `Bearer ${token}`,
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify({
+              study_category: studyCategory,
+              is_correct: isDiscursiveQuestion(aiCommentCurrent) ? null : aiCommentAnswers[aiCommentCurrent.id] === aiCommentCurrent.gabarito,
+            }),
+          });
+
+          if (!res.ok) {
+            const msg = await readApiError(res, "Limite mensal atingido");
+            setBillingMessage(msg);
+            await loadMonthlyUsage();
+            return;
+          }
+        } catch {
+          // Fail open
+        }
+      }
+
+      setAiCommentShowResult((prev) => ({ ...prev, [aiCommentCurrent.id]: true }));
+      void loadMonthlyUsage();
+    })();
   }
 
   function nextQuestion() {
+    if (isLastSimuladoQuestion) {
+      void finalizeSimulado("completed");
+      return;
+    }
+
     setCurrentIndex((prev) => Math.min(prev + 1, Math.max(currentQuestionCount - 1, 0)));
   }
 
   function prevQuestion() {
     setCurrentIndex((prev) => Math.max(prev - 1, 0));
+  }
+
+  function nextAiCommentQuestion() {
+    setAiCommentCurrentIndex((prev) => Math.min(prev + 1, Math.max(aiCommentCurrentQuestionCount - 1, 0)));
+  }
+
+  function prevAiCommentQuestion() {
+    setAiCommentCurrentIndex((prev) => Math.max(prev - 1, 0));
   }
 
   async function persistQuestionTextSize(nextSize: number) {
@@ -1843,7 +3168,7 @@ export default function RevalidaQuestoesMVP() {
   function changeSimuladoQuestionTarget(rawValue: string) {
     const parsed = Number(rawValue);
     const normalized = normalizeSimuladoQuestionTarget(Number.isFinite(parsed) ? parsed : DEFAULT_SIMULADO_QUESTION_COUNT);
-    setSimuladoQuestionTarget(questions.length ? Math.min(normalized, questions.length) : normalized);
+    setSimuladoQuestionTarget(simuladoEligibleQuestions.length ? Math.min(normalized, simuladoEligibleQuestions.length) : normalized);
   }
 
   function changeSimuladoDurationMinutes(rawValue: string) {
@@ -2028,13 +3353,13 @@ export default function RevalidaQuestoesMVP() {
 
             <div className="hero-copy">
               <h2>Estude medicina com dados, revisão e consistência.</h2>
-              <p>Um banco de questões para Revalida e residência com comentários, caderno de erros, dashboard e simulados.</p>
+              <p>Um banco de questões para Revalida e estudo geral, com comentários, caderno de erros, dashboard e simulados.</p>
             </div>
 
             <div className="hero-stats">
               <div className="hero-stat"><b>20</b><span>questões por dia</span></div>
               <div className="hero-stat"><b>5</b><span>grandes áreas</span></div>
-              <div className="hero-stat"><b>100%</b><span>foco Revalida</span></div>
+              <div className="hero-stat"><b>2</b><span>trilhas de estudo</span></div>
             </div>
           </section>
 
@@ -2084,9 +3409,9 @@ export default function RevalidaQuestoesMVP() {
                     Continuar com Google
                   </button>
 
-                  <button 
-                    className="md-btn" 
-                    style={{ background: "transparent", color: "#607d8b", fontSize: 14, fontWeight: 700, height: 40 }} 
+                  <button
+                    className="md-btn"
+                    style={{ background: "transparent", color: "#607d8b", fontSize: 14, fontWeight: 700, height: 40 }}
                     onClick={() => { setIsRegister(!isRegister); setAuthError(""); }}
                     type="button"
                   >
@@ -2144,7 +3469,17 @@ export default function RevalidaQuestoesMVP() {
                 </div>
               )}
               <b>{user?.name}</b>
+              {isAdmin && <span className="sidebar-role-badge">Admin</span>}
               <span>{user?.email}</span>
+              <div className="sidebar-preference">
+                <div className="sidebar-preference-copy">
+                  <strong>IA do sistema</strong>
+                  <small>{aiEnabled ? "Ligada no servidor via .env" : "Desligada no servidor via .env"}</small>
+                </div>
+                <span className={`status-pill ${aiEnabled ? "green" : "red"}`}>
+                  {aiEnabled ? "Ligada" : "Desligada"}
+                </span>
+              </div>
               <div className="sidebar-actions">
                 <button className="md-btn outline" onClick={reset}>Reset</button>
                 <button className="md-btn outline" onClick={handleLogout}>Sair</button>
@@ -2170,11 +3505,17 @@ export default function RevalidaQuestoesMVP() {
                     ? "Visão geral do seu estudo"
                     : mode === "questoes"
                       ? "Resolva, confira e revise"
-                      : mode === "simulado"
-                        ? "Histórico e dados dos seus simulados"
-                        : mode === "usuarios"
-                          ? "Lista de usuários do sistema"
-                          : "Cadastro e manutenção do banco"}
+                      : mode === "questoes_ia"
+                        ? "Mesmo fluxo, filtrado para comentários gerados por IA"
+                        : mode === "questoes_sem_ia"
+                          ? "Mesmo fluxo, filtrado para comentários não gerados por IA"
+                        : mode === "simulado"
+                          ? "Histórico e dados dos seus simulados"
+                          : mode === "planos"
+                            ? "Configure gateways e planos de pagamento"
+                            : mode === "usuarios"
+                              ? "Lista de usuários do sistema"
+                              : "Cadastro e manutenção do banco"}
                 </p>
               </div>
               {simuladoActive ? (
@@ -2195,18 +3536,31 @@ export default function RevalidaQuestoesMVP() {
                 </div>
               ) : mode === "usuarios" ? (
                 <button className="md-btn primary" onClick={() => void loadSystemUsers()}>Atualizar usuários</button>
-              ) : mode !== "questoes" ? (
+              ) : mode !== "questoes" && mode !== "questoes_ia" && mode !== "questoes_sem_ia" ? (
                 <button className="md-btn primary" onClick={() => setMode("questoes")}>Continuar treino</button>
               ) : null}
             </header>
 
             {mode === "dashboard" && (
               <section>
+                <div className="area-tabs" style={{ marginBottom: 18 }}>
+                  {STUDY_CATEGORY_OPTIONS.map((item) => (
+                    <button
+                      key={item.value}
+                      className={`area-tab ${studyCategory === item.value ? "active" : ""}`}
+                      onClick={() => changeStudyCategory(item.value)}
+                      disabled={simuladoActive}
+                    >
+                      {item.label}
+                    </button>
+                  ))}
+                </div>
+
                 <div className="stat-grid">
                   <StatCard title="Respondidas" value={respondedLabel} icon="assignment_turned_in" color="indigo" helper="Total resolvido" />
                   <StatCard title="Acertos" value={correctLabel} icon="check_circle" color="green" helper="Questões corretas" />
                   <StatCard title="Aproveitamento" value={progressLabel} icon="show_chart" color="blue" helper="Média geral" />
-                  <StatCard title="Banco total" value={questionsLoading ? "..." : formatCount(visibleQuestionBankTotal)} icon="menu_book" color="purple" helper="Questões cadastradas" />
+                  <StatCard title="Banco total" value={questionsLoading ? "..." : formatCount(visibleQuestionBankTotal)} icon="menu_book" color="purple" helper={`Questões cadastradas em ${getStudyCategoryLabel(studyCategory)}`} />
                   <StatCard title="Revisar" value={wrongQuestions.length} icon="error_outline" color="orange" helper="Erros salvos" />
                 </div>
 
@@ -2255,15 +3609,54 @@ export default function RevalidaQuestoesMVP() {
               </section>
             )}
 
-            {mode === "questoes" && (
+            {(mode === "questoes" || mode === "questoes_ia" || mode === "questoes_sem_ia") && (
               <section>
+                <div className="area-tabs" style={{ marginBottom: 18 }}>
+                  {QUESTION_PHASE_OPTIONS.map((item) => (
+                    <button
+                      key={item.value}
+                      className={`area-tab ${questionPhase === item.value ? "active" : ""}`}
+                      onClick={() => changeQuestionPhase(item.value)}
+                      disabled={simuladoActive && !isAdminFilteredQuestionMode}
+                    >
+                      {item.label}
+                    </button>
+                  ))}
+                </div>
+
+                <div className="area-tabs" style={{ marginBottom: 18 }}>
+                  {QUESTION_FORMAT_OPTIONS.map((item) => (
+                    <button
+                      key={item.value}
+                      className={`area-tab ${questionFormatFilter === item.value ? "active" : ""}`}
+                      onClick={() => changeQuestionFormatFilter(item.value)}
+                      disabled={questionPageUsesSimulado}
+                    >
+                      {item.label}
+                    </button>
+                  ))}
+                </div>
+
+                <div className="area-tabs" style={{ marginBottom: 18 }}>
+                  {STUDY_CATEGORY_OPTIONS.map((item) => (
+                    <button
+                      key={item.value}
+                      className={`area-tab ${studyCategory === item.value ? "active" : ""}`}
+                      onClick={() => changeStudyCategory(item.value)}
+                      disabled={questionPageUsesSimulado}
+                    >
+                      {item.label}
+                    </button>
+                  ))}
+                </div>
+
                 <div className="area-tabs">
-                  {areas.map((item) => (
+                  {questionPageAreas.map((item) => (
                     <button
                       key={item}
-                      className={`area-tab ${area === item ? "active" : ""}`}
-                      onClick={() => changeArea(item)}
-                      disabled={simuladoActive}
+                      className={`area-tab ${questionPageArea === item ? "active" : ""}`}
+                      onClick={() => (isAdminFilteredQuestionMode ? changeAiCommentArea(item) : changeArea(item))}
+                      disabled={questionPageUsesSimulado}
                     >
                       {item}
                     </button>
@@ -2273,26 +3666,66 @@ export default function RevalidaQuestoesMVP() {
                 <div className="question-layout">
                     <div className="card">
                       <div className="card-content">
-                      {questionsLoading ? (
+                      {questionPageLoading ? (
                         <div style={{ minHeight: 360, display: "grid", placeItems: "center", textAlign: "center" }}>
                           <div>
                             <div className="loading-block" style={{ marginBottom: 12 }}>
                               <span className="mini-spinner" />
-                              Carregando perguntas...
+                              {mode === "questoes_ia"
+                                ? "Carregando perguntas com IA..."
+                                : mode === "questoes_sem_ia"
+                                  ? "Carregando perguntas sem IA..."
+                                  : "Carregando perguntas..."}
                             </div>
                             <p style={{ margin: 0, color: "#607d8b" }}>
-                              Estamos preparando seu banco de questões.
+                              {mode === "questoes_ia"
+                                ? "Estamos separando o recorte com comentários gerados por IA."
+                                : mode === "questoes_sem_ia"
+                                  ? "Estamos separando o recorte com comentários não gerados por IA."
+                                : "Estamos preparando seu banco de questões."}
                             </p>
                           </div>
                         </div>
-                      ) : current ? (
+                      ) : questionPageCurrent ? (
                         <>
+                          {(() => {
+                            const question = questionPageCurrent;
+                            const discursive = isDiscursiveQuestion(question);
+                            const revealed = isAdminFilteredQuestionMode
+                              ? aiCommentShowResult[question.id]
+                              : showResult[question.id];
+                            const selectedAnswer = isAdminFilteredQuestionMode
+                              ? aiCommentAnswers[question.id]
+                              : answers[question.id];
+                            const answeredCorrectly = selectedAnswer === question.gabarito;
+                            const showAiBadge = hasAiGeneratedComment(question);
+                            const commentSourceNote = getQuestionCommentSourceNote(question);
+                            const questionCommentLabel = getQuestionCommentLabel(question, mode);
+                            const showAnswerFeedback = isAdminFilteredQuestionMode || questionPageRevealAnswer;
+                            const showTrainingAnswer = questionPageUsesSimulado && simuladoReviewMode === "treino";
+                            const showResultBox = revealed || showTrainingAnswer;
+
+                            return (
+                              <>
                           <div className="question-meta">
-                            <span className="chip md-chip indigo white-text">{current.area}</span>
-                            <span className="chip md-chip indigo lighten-5 indigo-text text-darken-2">{current.tema}</span>
-                            <span className="chip md-chip amber lighten-5 amber-text text-darken-3">{current.dificuldade}</span>
+                            <span className="chip md-chip indigo white-text">{question.area}</span>
+                            <span className="chip md-chip indigo lighten-5 indigo-text text-darken-2">{question.tema}</span>
+                            <span className="chip md-chip amber lighten-5 amber-text text-darken-3">{question.dificuldade}</span>
+                            <span className={`chip md-chip ${discursive ? "blue lighten-5 blue-text text-darken-3" : "green lighten-5 green-text text-darken-3"}`}>
+                              {discursive ? "Discursiva" : "Objetiva"}
+                            </span>
+                            {showAiBadge && (
+                              <span className="chip md-chip purple lighten-5 purple-text text-darken-3">
+                                Gerado por IA
+                              </span>
+                            )}
+                            {questionCommentLabel && (
+                              <span className="chip md-chip purple lighten-5 purple-text text-darken-3">
+                                {questionCommentLabel}
+                              </span>
+                            )}
                             <span className="question-counter">
-                              {questionsLoading ? "Carregando questões..." : `Questão ${currentIndex + 1} de ${currentQuestionCount}`}
+                              {questionPageLoading ? "Carregando questões..." : `Questão ${questionPageCurrentIndex + 1} de ${questionPageQuestionCount}`}
                             </span>
                           </div>
 
@@ -2321,44 +3754,80 @@ export default function RevalidaQuestoesMVP() {
                             </div>
                           </div>
 
-                          <p className="question-text" style={{ fontSize: `${questionTextSize}px` }}>{current.enunciado}</p>
+                          <p className="question-text" style={{ fontSize: `${questionTextSize}px`, whiteSpace: "pre-line" }}>{question.enunciado}</p>
 
-                          <div className="answers">
-                            {(Object.entries(current.alternativas) as [AlternativeLetter, string][]).map(([letter, text]) => {
-                              const selected = answers[current.id] === letter;
-                              const revealed = showResult[current.id];
-                              const isCorrect = current.gabarito === letter;
-                              const isWrongSelected = revealed && selected && !isCorrect;
-                              return (
-                                <button
-                                  key={letter}
-                                  onClick={() => choose(letter)}
-                                  className={`answer-btn ${selected ? "selected" : ""} ${revealed && isCorrect ? "correct" : ""} ${isWrongSelected ? "wrong" : ""}`}
-                                >
-                                  <span className="answer-letter">{letter}</span>
-                                  <span className="answer-text">{text}</span>
-                                </button>
-                              );
-                            })}
-                          </div>
-
-                          <div className="question-actions">
-                            <button className="md-btn outline" onClick={prevQuestion} disabled={currentIndex === 0}>Anterior</button>
-                            <div className="right">
-                              <button className="md-btn primary" onClick={confirmAnswer} disabled={!answers[current.id] || showResult[current.id]}>Responder</button>
-                              <button className="md-btn outline" onClick={nextQuestion} disabled={currentIndex === currentQuestionCount - 1}>Próxima</button>
-                            </div>
-                          </div>
-
-                          {showResult[current.id] && (
-                            <div className="result-box">
-                              <h4>
-                                <Icon>{answers[current.id] === current.gabarito ? "check_circle" : "cancel"}</Icon>
-                                {answers[current.id] === current.gabarito ? "Correto" : "Errado"} · Gabarito {current.gabarito}
-                              </h4>
-                              <p>{current.comentario}</p>
+                          {!discursive && (
+                            <div className="answers">
+                              {(Object.entries(question.alternativas) as [AlternativeLetter, string][])
+                                .filter(([, text]) => text.trim() !== "")
+                                .map(([letter, text]) => {
+                                  const selected = selectedAnswer === letter;
+                                  const isCorrect = question.gabarito === letter;
+                                  const isWrongSelected = revealed && selected && !isCorrect;
+                                  return (
+                                    <button
+                                      key={letter}
+                                      onClick={() => (isAdminFilteredQuestionMode ? chooseAiComment(letter) : choose(letter))}
+                                      className={`answer-btn ${selected ? "selected" : ""} ${showAnswerFeedback && revealed && isCorrect ? "correct" : ""} ${showAnswerFeedback && isWrongSelected ? "wrong" : ""} ${isAdmin && isCorrect ? "admin-correct-hint" : ""}`}
+                                    >
+                                      <span className="answer-letter">{letter}</span>
+                                      <span className="answer-text">{text}</span>
+                                      {showAnswerFeedback && isAdmin && isCorrect && <span className="admin-correct-badge">✓</span>}
+                                    </button>
+                                  );
+                                })}
                             </div>
                           )}
+
+                          <div className="question-actions">
+                            <button
+                              className="md-btn outline"
+                              onClick={() => (isAdminFilteredQuestionMode ? prevAiCommentQuestion() : prevQuestion())}
+                              disabled={questionPageCurrentIndex === 0}
+                            >
+                              Anterior
+                            </button>
+                            <div className="right">
+                              <button
+                                className="md-btn primary"
+                                onClick={() => (isAdminFilteredQuestionMode ? confirmAiCommentAnswer() : confirmAnswer())}
+                                disabled={discursive ? revealed : !selectedAnswer || revealed}
+                              >
+                                {discursive
+                                  ? "Ver padrão de resposta"
+                                  : (!isAdminFilteredQuestionMode && isLastSimuladoQuestion ? "Responder e encerrar" : "Responder")}
+                              </button>
+                              <button
+                                className="md-btn outline"
+                                onClick={() => (isAdminFilteredQuestionMode ? nextAiCommentQuestion() : nextQuestion())}
+                                disabled={questionPageCurrentIndex === questionPageQuestionCount - 1}
+                              >
+                                {!isAdminFilteredQuestionMode && isLastSimuladoQuestion ? "Última questão" : "Próxima"}
+                              </button>
+                            </div>
+                          </div>
+
+                          {showResultBox && (
+                            <div className={`result-box ${discursive ? "discursive" : (answeredCorrectly ? "correct" : "wrong")}`}>
+                              <h4>
+                                <Icon>{discursive ? "description" : (answeredCorrectly ? "check_circle" : "cancel")}</Icon>
+                                {discursive
+                                  ? "Padrão de resposta oficial"
+                                  : (showTrainingAnswer
+                                    ? `Gabarito ${question.gabarito} · modo treino`
+                                    : (showAnswerFeedback ? `${answeredCorrectly ? "Correto" : "Errado"} · Gabarito ${question.gabarito}` : "Resposta registrada"))}
+                              </h4>
+                              {(showAnswerFeedback || showTrainingAnswer) && commentSourceNote && <div className="comment-source-note">{commentSourceNote}</div>}
+                              <p>
+                                {discursive
+                                  ? (question.official_answer || question.comentario)
+                                  : ((showAnswerFeedback || showTrainingAnswer) ? question.comentario : "Resposta salva. O gabarito será exibido ao encerrar o simulado.")}
+                              </p>
+                            </div>
+                          )}
+                              </>
+                            );
+                          })()}
                         </>
                       ) : <p>Nenhuma questão encontrada.</p>}
                       </div>
@@ -2368,30 +3837,35 @@ export default function RevalidaQuestoesMVP() {
                     <div className="card">
                       <div className="card-content">
                         <div className="section-title" style={{ display: "block" }}>
-                          <h2>{simuladoActive ? "Simulado" : "Sessão"}</h2>
-                          <p>{simuladoActive ? "Resumo rápido do simulado atual." : "Resumo rápido do estudo."}</p>
+                          <h2>{questionPageSessionTitle}</h2>
+                          <p>{questionPageSessionDescription}</p>
                         </div>
                         <div className="mini-grid">
                           <div className="mini-stat">
-                            <span>{simuladoActive ? "Respondidas" : "Acertos"}</span>
-                            <b>{simuladoActive ? activeAnsweredCount : correctCount}</b>
+                            <span>{questionPageUsesSimulado ? "Respondidas" : "Acertos"}</span>
+                            <b>{questionPageUsesSimulado ? activeAnsweredCount : questionPageCorrectCount}</b>
                           </div>
                           <div className="mini-stat">
-                            <span>{simuladoActive ? "Tempo" : "Erros"}</span>
-                            <b>{simuladoActive ? simuladoElapsedLabel : wrongQuestions.length}</b>
+                            <span>{questionPageUsesSimulado ? "Tempo" : "Erros"}</span>
+                            <b>{questionPageUsesSimulado ? simuladoElapsedLabel : questionPageWrongQuestions.length}</b>
                           </div>
                         </div>
                         <div style={{ marginTop: 18 }}>
                           <AreaBar
                             item={{
-                              area: simuladoActive ? "Progresso do simulado" : "Progresso geral",
-                              total: simuladoActive ? currentQuestionCount : questions.length,
-                              answered: simuladoActive ? activeAnsweredCount : answeredCount,
-                              correct: simuladoActive ? activeCorrectCount : correctCount,
-                              accuracy: simuladoActive ? activeProgress : progress,
+                              area: questionPageUsesSimulado ? "Progresso do simulado" : "Progresso geral",
+                              total: questionPageUsesSimulado ? questionPageQuestionCount : questionPageVisibleTotal,
+                              answered: questionPageUsesSimulado ? activeAnsweredCount : questionPageAnsweredCount,
+                              correct: questionPageUsesSimulado ? activeCorrectCount : questionPageCorrectCount,
+                              accuracy: questionPageUsesSimulado ? activeProgress : questionPageProgress,
                             }}
                           />
                         </div>
+                        {!questionPageUsesSimulado && (
+                          <p style={{ margin: "14px 0 0", color: "#78909c", fontSize: 13 }}>
+                            Aproveitamento nas respondidas: {questionPageAccuracy}% · Banco filtrado: {formatQuestionCountLabel(questionPageVisibleTotal)}
+                          </p>
+                        )}
                       </div>
                     </div>
 
@@ -2399,10 +3873,16 @@ export default function RevalidaQuestoesMVP() {
                       <div className="card-content">
                         <div className="section-title" style={{ display: "block" }}>
                           <h2>Revisar</h2>
-                          <p>Erros recentes.</p>
+                          <p>
+                            {mode === "questoes_ia"
+                              ? "Erros recentes dentro do recorte IA."
+                              : mode === "questoes_sem_ia"
+                                ? "Erros recentes dentro do recorte sem IA."
+                                : "Erros recentes."}
+                          </p>
                         </div>
                         <RecentErrorsCarousel
-                          items={wrongQuestions}
+                          items={questionPageWrongQuestions}
                           emptyMessage="Nenhum erro ainda."
                         />
                       </div>
@@ -2414,22 +3894,111 @@ export default function RevalidaQuestoesMVP() {
 
             {mode === "simulado" && (
               <section>
-                <div className="card" style={{ marginBottom: 22 }}>
-                  <div className="card-content">
-                    <div className="section-title" style={{ display: "block" }}>
-                      <h2>{simuladoActive ? "Simulado em andamento" : "Configurar simulado"}</h2>
-                      <p>
-                        {simuladoActive
-                          ? "A configuração fica travada até você encerrar o simulado atual."
-                          : "Escolha quantas questões quer resolver dentro do limite disponível e por quanto tempo."}
-                      </p>
-                    </div>
+                    <div className="card" style={{ marginBottom: 22 }}>
+                      <div className="card-content">
+                        <div className="section-title" style={{ display: "block" }}>
+                          <h2>{simuladoActive ? "Simulado em andamento" : "Configurar simulado"}</h2>
+                          <p>
+                            {simuladoActive
+                              ? "A configuração fica travada até você encerrar o simulado atual."
+                              : "Escolha quantas questões quer resolver dentro do limite disponível, em quais categorias, e por quanto tempo."}
+                          </p>
+                        </div>
 
-                    <div className="simulado-config-grid">
-                      <label className="simulado-config-field">
-                        <span>Quantidade de questões</span>
-                        <input
-                          type="number"
+                        <div className="simulado-config-field" style={{ marginTop: 8 }}>
+                          <span>Categorias do simulado</span>
+                          <div style={{ display: "flex", flexWrap: "wrap", gap: 10 }}>
+                            {STUDY_CATEGORY_OPTIONS.map((item) => {
+                              const selected = simuladoCategories.includes(item.value);
+                              return (
+                                <button
+                                  key={item.value}
+                                  type="button"
+                                  className={`simulado-config-pill ${selected ? "active" : ""}`}
+                                  onClick={() => toggleSimuladoCategory(item.value)}
+                                  disabled={simuladoActive}
+                                >
+                                  <Icon>{selected ? "check_circle" : "radio_button_unchecked"}</Icon>
+                                  {item.label}
+                                </button>
+                              );
+                            })}
+                          </div>
+                          <small>Você pode combinar Revalida e estudo geral no mesmo simulado.</small>
+                        </div>
+
+                        <div className="simulado-config-summary" style={{ marginTop: 12 }}>
+                          {simuladoCategories.map((category) => {
+                            const usage = monthlyUsage?.categories?.[category];
+                            return usage ? (
+                              <div key={category} className="simulado-config-pill active" style={{ whiteSpace: "normal", lineHeight: 1.35 }}>
+                                <Icon>folder</Icon>
+                                {getStudyCategoryLabel(category)} · {formatCount(usage.used)}/{formatCount(usage.limit)} · Restam {formatCount(usage.remaining)}
+                              </div>
+                            ) : (
+                              <div key={category} className="simulado-config-pill" style={{ whiteSpace: "normal", lineHeight: 1.35 }}>
+                                <Icon>folder</Icon>
+                                {getStudyCategoryLabel(category)}
+                              </div>
+                            );
+                          })}
+                        </div>
+
+                        {simuladoQuestionPoolError && (
+                          <div style={{ margin: "10px 0 0", padding: 12, borderRadius: 14, background: "#ffebee", color: "#b71c1c", fontSize: 13, fontWeight: 700 }}>
+                            {simuladoQuestionPoolError}
+                          </div>
+                        )}
+
+                        {simuladoQuestionPoolLoading && (
+                          <div style={{ margin: "10px 0 0", padding: 12, borderRadius: 14, background: "#fff8e1", color: "#8d6e63", fontSize: 13, fontWeight: 700 }}>
+                            Carregando questões das categorias selecionadas...
+                          </div>
+                        )}
+
+                        {monthlyUsage?.categories?.[studyCategory] && (
+                          <div style={{ margin: "10px 0 0", padding: 12, borderRadius: 14, background: "#f8fafc", border: "1px solid var(--border)", color: "#455a64", fontSize: 13, fontWeight: 700 }}>
+                            Cota do mês da aba atual: {formatCount(monthlyUsage.categories[studyCategory]!.used)} / {formatCount(monthlyUsage.categories[studyCategory]!.limit)} · Restam {formatCount(monthlyUsage.categories[studyCategory]!.remaining)}
+                          </div>
+                        )}
+                        {monthlyUsageError && (
+                          <div style={{ margin: "10px 0 0", padding: 12, borderRadius: 14, background: "#ffebee", color: "#b71c1c", fontSize: 13, fontWeight: 700 }}>
+                            {monthlyUsageError}
+                          </div>
+                        )}
+
+                        <div className="simulado-config-grid">
+                          <div className="simulado-config-field span-2">
+                            <span>Modo do simulado</span>
+                            <div style={{ display: "flex", flexWrap: "wrap", gap: 10 }}>
+                              {SIMULADO_REVIEW_OPTIONS.map((item) => {
+                                const selected = simuladoReviewMode === item.value;
+                                return (
+                                  <button
+                                    key={item.value}
+                                    type="button"
+                                    className={`simulado-config-pill ${selected ? "active" : ""}`}
+                                    onClick={() => setSimuladoReviewMode(item.value)}
+                                    disabled={simuladoActive}
+                                    title={item.description}
+                                  >
+                                    <Icon>{selected ? "check_circle" : "radio_button_unchecked"}</Icon>
+                                    {item.label}
+                                  </button>
+                                );
+                              })}
+                            </div>
+                            <small>
+                              {simuladoReviewMode === "treino"
+                                ? "O gabarito e a explicação aparecem logo após responder."
+                                : "O gabarito fica oculto até você encerrar o simulado."}
+                            </small>
+                          </div>
+
+                          <label className="simulado-config-field">
+                            <span>Quantidade de questões</span>
+                            <input
+                              type="number"
                           min={MIN_SIMULADO_QUESTION_COUNT}
                           max={Math.max(MIN_SIMULADO_QUESTION_COUNT, questions.length)}
                           step={1}
@@ -2437,13 +4006,13 @@ export default function RevalidaQuestoesMVP() {
                           onChange={(event) => changeSimuladoQuestionTarget(event.target.value)}
                           disabled={questionsLoading || simuladoActive || questions.length === 0}
                         />
-                        <small>
-                          {questionsLoading
-                            ? "Carregando o limite disponível..."
-                            : questions.length
-                              ? `Máximo no seu banco atual: ${formatQuestionCountLabel(questions.length)}.`
-                              : "Nenhuma questão disponível no momento."}
-                        </small>
+                              <small>
+                                {questionsLoading
+                                  ? "Carregando o limite disponível..."
+                                  : simuladoEligibleQuestions.length
+                                    ? `Máximo nas categorias selecionadas: ${formatQuestionCountLabel(simuladoEligibleQuestions.length)}.`
+                                    : "Nenhuma questão disponível no momento."}
+                              </small>
                       </label>
 
                       <label className="simulado-config-field">
@@ -2469,6 +4038,10 @@ export default function RevalidaQuestoesMVP() {
                       <div className="simulado-config-pill">
                         <Icon>schedule</Icon>
                         {formatMinuteCountLabel(simuladoDurationMinutesValue)}
+                      </div>
+                      <div className="simulado-config-pill">
+                        <Icon>{simuladoReviewMode === "treino" ? "school" : "visibility_off"}</Icon>
+                        {simuladoReviewMode === "treino" ? "Treino" : "Prova"}
                       </div>
                       {simuladoActive && (
                         <div className="simulado-config-pill active">
@@ -2881,33 +4454,396 @@ export default function RevalidaQuestoesMVP() {
             )}
 
             {mode === "planos" && (
-              <section className="simple-grid">
-                {[
-                  { name: "Grátis", price: 0, limit: 1000, description: "Para testar a plataforma." },
-                  {
-                    name: "Pro",
-                    price: 29,
-                    limit: 5000,
-                    description: questionBankTotalLoaded
-                      ? `${formatCount(questionBankTotal)} questões no banco · até ${formatCount(5000)} por mês.`
-                      : "Banco completo · até 5.000 questões por mês.",
-                  },
-                  { name: "Mentoria", price: 99, limit: 10000, description: "Pro + acompanhamento individual." },
-                ].map((plan) => (
-                  <div className={`card plan-card ${plan.limit === monthlyQuestionLimit ? "featured" : ""}`} key={plan.name}>
-                    <div className="card-content">
-                      <h2 style={{ fontWeight: 900 }}>{plan.name}</h2>
-                      <h3 style={{ fontWeight: 900 }}>{`R$${plan.price}`}<small style={{ fontSize: 15, color: "#90a4ae" }}>/mês</small></h3>
-                      <p style={{ color: "#78909c", minHeight: 52 }}>{plan.description}</p>
-                      <p style={{ marginTop: -2, color: "#607d8b", fontSize: 13, fontWeight: 700 }}>
-                        Limite mensal: {formatCount(plan.limit)} questões
-                      </p>
-                      <button className={`md-btn ${plan.limit === monthlyQuestionLimit ? "primary" : "outline"} block`}>
-                        {plan.limit === monthlyQuestionLimit ? "Plano atual" : "Escolher"}
-                      </button>
+              <section style={{ display: "grid", gap: 18 }}>
+                <div className="card">
+                  <div className="card-content">
+                    <div className="section-title">
+                      <div>
+                        <h2>Planos e gateways</h2>
+                        <p>Interface mock para escolher plano e conectar futuros gateways de pagamento.</p>
+                      </div>
                     </div>
                   </div>
-                ))}
+                </div>
+
+                <div style={{ display: "grid", gap: 18, gridTemplateColumns: "1.4fr 0.85fr", alignItems: "start" }}>
+                  <section className="simple-grid" style={{ gridTemplateColumns: "repeat(1, minmax(0, 1fr))" }}>
+                    <div style={{ display: "grid", gap: 14 }}>
+                      <div>
+                        <h3 style={{ margin: 0, fontWeight: 900 }}>Revalida</h3>
+                        <p style={{ margin: "6px 0 0", color: "#607d8b" }}>Planos focados no banco e simulados do Revalida.</p>
+                      </div>
+                      {billingPlansByCategory.revalida.map((plan) => (
+                        <div key={plan.code} className={`card plan-card ${selectedPlanCode === plan.code ? "featured" : ""}`}>
+                          <div className="card-content">
+                            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: 12 }}>
+                              <h2 style={{ fontWeight: 900, margin: 0 }}>{plan.name}</h2>
+                              <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
+                                {plan.is_current && <span className="status-pill blue">Atual</span>}
+                                {selectedPlanCode === plan.code && <span className="status-pill green">Selecionado</span>}
+                              </div>
+                            </div>
+                            <h3 style={{ fontWeight: 900, margin: "16px 0 10px" }}>
+                              {formatMoneyFromCents(plan.price_cents)}
+                              <small style={{ fontSize: 15, color: "#90a4ae" }}>/mês</small>
+                            </h3>
+                            <p style={{ color: "#78909c", minHeight: 52 }}>{plan.description}</p>
+                            <p style={{ marginTop: -2, color: "#607d8b", fontSize: 13, fontWeight: 700 }}>
+                              Limite mensal: {formatCount(plan.monthly_question_limit)} questões
+                            </p>
+                            <button
+                              className={`md-btn ${selectedPlanCode === plan.code ? "primary" : "outline"} block`}
+                              onClick={() => setSelectedPlanCode(plan.code)}
+                            >
+                              {selectedPlanCode === plan.code ? "Plano escolhido" : "Selecionar plano"}
+                            </button>
+                          </div>
+                        </div>
+                      ))}
+
+                      <div style={{ marginTop: 8 }}>
+                        <h3 style={{ margin: 0, fontWeight: 900 }}>Estudo geral</h3>
+                        <p style={{ margin: "6px 0 0", color: "#607d8b" }}>Planos focados no banco de estudo geral.</p>
+                      </div>
+                      {billingPlansByCategory.geral.map((plan) => (
+                        <div key={plan.code} className={`card plan-card ${selectedPlanCode === plan.code ? "featured" : ""}`}>
+                          <div className="card-content">
+                            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: 12 }}>
+                              <h2 style={{ fontWeight: 900, margin: 0 }}>{plan.name}</h2>
+                              <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
+                                {plan.is_current && <span className="status-pill blue">Atual</span>}
+                                {selectedPlanCode === plan.code && <span className="status-pill green">Selecionado</span>}
+                              </div>
+                            </div>
+                            <h3 style={{ fontWeight: 900, margin: "16px 0 10px" }}>
+                              {formatMoneyFromCents(plan.price_cents)}
+                              <small style={{ fontSize: 15, color: "#90a4ae" }}>/mês</small>
+                            </h3>
+                            <p style={{ color: "#78909c", minHeight: 52 }}>{plan.description}</p>
+                            <p style={{ marginTop: -2, color: "#607d8b", fontSize: 13, fontWeight: 700 }}>
+                              Limite mensal: {formatCount(plan.monthly_question_limit)} questões
+                            </p>
+                            <button
+                              className={`md-btn ${selectedPlanCode === plan.code ? "primary" : "outline"} block`}
+                              onClick={() => setSelectedPlanCode(plan.code)}
+                            >
+                              {selectedPlanCode === plan.code ? "Plano escolhido" : "Selecionar plano"}
+                            </button>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </section>
+
+                  <div className="card">
+                    <div className="card-content" style={{ display: "grid", gap: 16 }}>
+                      <div>
+                        <h3>Gateway de pagamento</h3>
+                        <p style={{ margin: 0, color: "#607d8b" }}>
+                          Escolha um provedor para a integração futura do checkout.
+                        </p>
+                      </div>
+
+                      <div style={{ display: "grid", gap: 12 }}>
+                        {AVAILABLE_PAYMENT_GATEWAYS.map((gateway) => (
+                          <button
+                            key={gateway.key}
+                            type="button"
+                            className={`md-btn ${selectedGateway === gateway.key ? "primary" : "outline"} block`}
+                            onClick={() => setSelectedGateway(gateway.key)}
+                          >
+                            <div style={{ display: "grid", gap: 4, textAlign: "left" }}>
+                              <strong>{gateway.label}</strong>
+                              <small style={{ color: "#607d8b", fontWeight: 400 }}>{gateway.description}</small>
+                            </div>
+                          </button>
+                        ))}
+                      </div>
+
+                      {(billingLoading || billingError || billingMessage) && (
+                        <div style={{ display: "grid", gap: 10 }}>
+                          {billingLoading && (
+                            <div style={{ padding: 12, borderRadius: 14, background: "#fffde7", color: "#795548" }}>
+                              Carregando planos...
+                            </div>
+                          )}
+                          {billingError && (
+                            <div style={{ padding: 12, borderRadius: 14, background: "#ffebee", color: "#b71c1c" }}>
+                              {billingError}
+                            </div>
+                          )}
+                          {billingMessage && (
+                            <div style={{ padding: 12, borderRadius: 14, background: "#e8f5e9", color: "#1b5e20" }}>
+                              {billingMessage}
+                            </div>
+                          )}
+                        </div>
+                      )}
+
+                      <div style={{ display: "grid", gap: 12 }}>
+                        <label className="field-label">Chave de API do gateway</label>
+                        <input
+                          className="md-input"
+                          type="text"
+                          placeholder="pk_test_xxx"
+                          value={gatewayApiKey}
+                          onChange={(e) => setGatewayApiKey(e.target.value)}
+                        />
+                        <small style={{ color: "#607d8b" }}>
+                          Esse campo é um placeholder para futura integração. Não é usado ainda.
+                        </small>
+                      </div>
+
+                      <button
+                        className="md-btn outline block"
+                        type="button"
+                        onClick={() => {
+                          setCardFormMessage("");
+                          setIsCardDialogOpen(true);
+                        }}
+                      >
+                        Ir para checkout
+                      </button>
+
+                      <div style={{ display: "grid", gap: 12 }}>
+                        {activePaymentSession && (
+                          <div style={{ display: "grid", gap: 10, padding: 12, borderRadius: 16, border: "1px solid var(--border)", background: "#fafbff" }}>
+                            <div style={{ display: "flex", justifyContent: "space-between", gap: 12, flexWrap: "wrap" }}>
+                              <div>
+                                <strong>Checkout mock</strong>
+                                <div style={{ color: "#607d8b", fontSize: 13 }}>
+                                  Status: {activePaymentSession.status} · Ref: {activePaymentSession.reference}
+                                </div>
+                              </div>
+                              <div style={{ display: "flex", gap: 10 }}>
+                                <button
+                                  type="button"
+                                  className="md-btn outline"
+                                  disabled={billingActionLoading.startsWith("confirm:") || activePaymentSession.status !== "pending"}
+                                  onClick={() => void confirmMockPayment(activePaymentSession.id)}
+                                >
+                                  Confirmar
+                                </button>
+                                <button
+                                  type="button"
+                                  className="md-btn outline"
+                                  disabled={billingActionLoading.startsWith("cancel:") || activePaymentSession.status !== "pending"}
+                                  onClick={() => void cancelMockPayment(activePaymentSession.id)}
+                                >
+                                  Cancelar
+                                </button>
+                              </div>
+                            </div>
+                            {activePaymentSession.mock_qr_code && (
+                              <small style={{ color: "#607d8b" }}>
+                              QR mock: {activePaymentSession.mock_qr_code}
+                            </small>
+                          )}
+                        </div>
+                      )}
+                      </div>
+
+                      <dialog
+                        ref={cardDialogRef}
+                        className="checkout-dialog"
+                        onCancel={(event) => {
+                          event.preventDefault();
+                          closeCardDialog();
+                        }}
+                        onClose={closeCardDialog}
+                      >
+                        <div className="card">
+                          <div className="card-content">
+                            <div style={{ display: "flex", alignItems: "flex-start", justifyContent: "space-between", gap: 12, padding: 0 }}>
+                              <div>
+                                <h3 style={{ margin: 0, fontWeight: 900 }}>Checkout seguro</h3>
+                                <small style={{ opacity: 0.75 }}>Página de checkout mock no estilo gateway.</small>
+                              </div>
+                              <button
+                                className="checkout-dialog-close"
+                                type="button"
+                                aria-label="Fechar checkout"
+                                onClick={closeCardDialog}
+                              >
+                                ×
+                              </button>
+                            </div>
+
+                            <div style={{ marginTop: 12, display: "grid", gap: 14 }}>
+                              <div style={{ display: "grid", gap: 8, background: "#f8fafc", border: "1px solid var(--border)", padding: 12, borderRadius: 12 }}>
+                                <strong>Pedido</strong>
+                                <span style={{ color: "#607d8b" }}>
+                                  Plano: {selectedPlan.name} · {formatMoneyFromCents(selectedPlan.price_cents)}/mês
+                                </span>
+                                <span style={{ color: "#607d8b", fontSize: 13 }}>
+                                  Limite mensal: {formatCount(selectedPlan.monthly_question_limit)} questões
+                                </span>
+                              </div>
+
+                              <div style={{ display: "grid", gap: 8 }}>
+                                <strong>Método</strong>
+                                {AVAILABLE_PAYMENT_GATEWAYS.map((gateway) => (
+                                  <button
+                                    key={gateway.key}
+                                    className={`md-btn ${selectedGateway === gateway.key ? "primary" : "outline"} block`}
+                                    type="button"
+                                    onClick={() => setSelectedGateway(gateway.key)}
+                                  >
+                                    {gateway.label}
+                                  </button>
+                                ))}
+                              </div>
+
+                              {selectedGateway === "stripe" && (
+                                <div style={{ display: "grid", gap: 12 }}>
+                                  <label className="field-label">Dados do cartão</label>
+                                  <input
+                                    className="md-input"
+                                    type="text"
+                                    placeholder="Nome do titular"
+                                    value={cardForm.cardholder_name}
+                                    onChange={(e) => setCardForm({ ...cardForm, cardholder_name: e.target.value })}
+                                  />
+                                  <input
+                                    className="md-input"
+                                    type="text"
+                                    placeholder="Número do cartão"
+                                    value={cardForm.card_number}
+                                    onChange={(e) => setCardForm({ ...cardForm, card_number: formatCardNumber(e.target.value) })}
+                                  />
+                                  <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 12 }}>
+                                    <input
+                                      className="md-input"
+                                      type="text"
+                                      placeholder="Validade (MM/AA)"
+                                      value={cardForm.card_expiry}
+                                      onChange={(e) => setCardForm({ ...cardForm, card_expiry: formatCardExpiry(e.target.value) })}
+                                    />
+                                    <input
+                                      className="md-input"
+                                      type="text"
+                                      placeholder="CVV"
+                                      value={cardForm.card_cvv}
+                                      onChange={(e) => setCardForm({ ...cardForm, card_cvv: normalizeOnlyDigits(e.target.value, 4) })}
+                                    />
+                                  </div>
+                                  <input
+                                    className="md-input"
+                                    type="text"
+                                    placeholder="CPF do titular (opcional)"
+                                    value={cardForm.card_cpf}
+                                    onChange={(e) => setCardForm({ ...cardForm, card_cpf: formatCardCpf(e.target.value) })}
+                                  />
+                                </div>
+                              )}
+
+                              {selectedGateway === "paypal" && (
+                                <div style={{ display: "grid", gap: 12 }}>
+                                  <label className="field-label">Conta PayPal</label>
+                                  <input
+                                    className="md-input"
+                                    type="text"
+                                    placeholder="Nome do titular"
+                                    value={payPalForm.name}
+                                    onChange={(e) => setPayPalForm({ ...payPalForm, name: e.target.value })}
+                                  />
+                                  <input
+                                    className="md-input"
+                                    type="email"
+                                    placeholder="E-mail do PayPal"
+                                    value={payPalForm.email}
+                                    onChange={(e) => setPayPalForm({ ...payPalForm, email: e.target.value })}
+                                  />
+                                  <input
+                                    className="md-input"
+                                    type="tel"
+                                    placeholder="Telefone"
+                                    value={payPalForm.phone}
+                                    onChange={(e) => setPayPalForm({ ...payPalForm, phone: e.target.value })}
+                                  />
+                                  <input
+                                    className="md-input"
+                                    type="password"
+                                    placeholder="Senha de segurança"
+                                    value={payPalForm.password}
+                                    onChange={(e) => setPayPalForm({ ...payPalForm, password: e.target.value })}
+                                  />
+                                </div>
+                              )}
+
+                              {selectedGateway === "pagseguro" && (
+                                <div style={{ display: "grid", gap: 12 }}>
+                                  <label className="field-label">Dados PagSeguro</label>
+                                  <input
+                                    className="md-input"
+                                    type="text"
+                                    placeholder="Nome completo"
+                                    value={pagSeguroForm.name}
+                                    onChange={(e) => setPagSeguroForm({ ...pagSeguroForm, name: e.target.value })}
+                                  />
+                                  <input
+                                    className="md-input"
+                                    type="text"
+                                    placeholder="CPF ou CNPJ"
+                                    value={pagSeguroForm.cpf_cnpj}
+                                    onChange={(e) => setPagSeguroForm({ ...pagSeguroForm, cpf_cnpj: e.target.value })}
+                                  />
+                                  <input
+                                    className="md-input"
+                                    type="tel"
+                                    placeholder="Telefone"
+                                    value={pagSeguroForm.phone}
+                                    onChange={(e) => setPagSeguroForm({ ...pagSeguroForm, phone: e.target.value })}
+                                  />
+                                </div>
+                              )}
+
+                              <div style={{ display: "grid", gap: 10 }}>
+                                <button
+                                  className="md-btn primary block"
+                                  type="button"
+                                  disabled={isSubmittingCheckout || billingActionLoading.startsWith("checkout:")}
+                                  onClick={() => {
+                                    if (!saveCardForm()) return;
+
+                                    setCardFormMessage("");
+                                    setIsSubmittingCheckout(true);
+                                    void startMockCheckout(selectedPlan.code).finally(() => setIsSubmittingCheckout(false));
+                                    closeCardDialog();
+                                  }}
+                                >
+                                  {isSubmittingCheckout || billingActionLoading.startsWith("checkout:")
+                                    ? "Processando..."
+                                    : `Pagar com ${AVAILABLE_PAYMENT_GATEWAYS.find((item) => item.key === selectedGateway)?.label}`}
+                                </button>
+                                <button className="md-btn outline block" type="button" onClick={closeCardDialog}>
+                                  Fechar checkout
+                                </button>
+                                {cardFormMessage && (
+                                  <small style={{ color: cardFormMessage.includes("preencha") || cardFormMessage.includes("inválid") ? "#b71c1c" : "#1b5e20" }}>
+                                    {cardFormMessage}
+                                  </small>
+                                )}
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </dialog>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="card">
+                  <div className="card-content">
+                    <h3>Como integrar gateways</h3>
+                    <ul style={{ margin: 0, paddingLeft: 20, color: "#607d8b" }}>
+                      <li>Adicionar credenciais seguras no backend.</li>
+                      <li>Gerar sessão de checkout no servidor.</li>
+                      <li>Redirecionar usuário para o gateway selecionado.</li>
+                      <li>Confirmar pagamento e atualizar plano no usuário.</li>
+                    </ul>
+                  </div>
+                </div>
               </section>
             )}
           </main>
