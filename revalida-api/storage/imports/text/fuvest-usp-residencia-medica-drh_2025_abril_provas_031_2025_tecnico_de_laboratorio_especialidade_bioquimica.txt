@@ -1,0 +1,2190 @@
+
+
+--- PAGE 1 ---
+
+ 
+TLB 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 031/2025  
+ 
+Técnico de Laboratório  (Bioquímica) 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique¬se¬o¬seu¬nome¬está¬correto¬na¬capa¬deste¬caderno¬e¬se¬a¬folha¬de¬respostas¬pertence¬ao¬grupo TLB.¬
+Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+3. Durante¬a¬prova,¬são¬vedadas¬a¬comunicação¬entre¬candidatos¬e¬a¬utilização¬de¬qualquer¬material¬de¬consulta¬e¬
+de¬aparelhos¬de¬telecomunicação.¬
+4. Duração¬da¬prova:¬4¬horas.¬Cabe¬ao¬candidato¬controlar¬o¬tempo¬com¬base¬nas¬informações¬fornecidas¬pelo¬
+fiscal.¬O(A)¬candidato(a)¬poderá¬retirar-se¬da¬sala¬definitivamente¬apenas¬a¬partir¬das¬15¬h.¬Não¬haverá¬tempo¬
+adicional¬para¬preenchimento¬da¬folha¬de¬respostas.¬¬
+5. O(A)¬ candidato(a)¬ deverá¬ seguir¬ as¬ orientações¬ estabelecidas¬ pela¬ FUVEST¬ a¬ respeito¬ dos¬ procedimentos¬
+adotados¬para¬a¬aplicação¬deste¬concurso.¬
+6. Lembre-se¬de¬que¬a¬FUVEST¬se¬reserva¬ao¬direito¬de¬efetuar¬procedimentos¬adicionais¬de¬identificação¬e¬controle¬
+do¬ processo,¬ visando¬ a¬ garantir¬ a¬ plena¬ integridade¬ do¬ exame.¬ Assim,¬ durante¬ a¬ realização¬ da¬ prova,¬ será¬
+coletada¬por¬um¬fiscal¬uma¬foto¬do(a)¬candidato(a)¬para¬fins¬de¬reconhecimento¬facial,¬para¬uso¬exclusivo¬da¬USP¬
+e¬da¬FUVEST.¬A¬imagem¬não¬será¬divulgada¬nem¬utilizada¬para¬quaisquer¬outras¬finalidades,¬nos¬termos¬da¬lei.¬
+7. Após¬a¬autorização¬do¬fiscal¬da¬sala,¬verifique¬se¬o¬caderno¬está¬completo.¬Ele¬deve¬conter¬60¬questões¬objetivas,¬
+com¬5¬alternativas¬cada,¬e¬1¬questão¬dissertativa.¬Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+8. Preencha¬a¬folha¬de¬respostas¬com¬cuidado,¬utilizando¬caneta¬esferográfica¬de¬tinta azul ou preta.¬Essa¬folha¬
+não será substituída¬em¬caso¬de¬rasura.¬
+9. Ao¬final¬da¬prova,¬é¬obrigatória¬a¬devolução¬da¬folha¬de¬respostas¬acompanhada¬deste¬caderno¬de¬questões.¬
+Declaração 
+Declaro¬que¬li¬e¬estou¬ciente¬das¬informações¬que¬constam¬na¬capa¬desta¬prova,¬na¬folha¬de¬respostas,¬bem¬
+como¬dos¬avisos¬que¬foram¬transmitidos¬pelo¬fiscal¬de¬sala.¬
+¬
+___________________________________________________¬
+ASSINATURA¬
+O(a)¬candidato(a)¬que¬não¬assinar¬a¬capa¬da¬prova¬será¬considerado(a)¬ausente¬da¬prova.¬
+ 
+ 
+
+
+--- PAGE 2 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+Texto para as questões 01 e 02 
+¬
+Em¬silêncio¬¬
+¬
+¬
+Precisava¬de¬silêncio¬para¬pensar,¬ordenar¬sua¬vida¬
+e¬rumos.¬Juntou¬poucas¬coisas,¬navegou¬até¬uma¬ilha¬deserta.¬
+Mas¬a¬gritaria¬das¬aves¬marinhas¬fundia-se¬com¬o¬farfalhar¬do¬
+vento¬ nas¬ palmeiras,¬ e¬ quando¬ ambos¬ se¬ calavam,¬ batiam¬
+inevitáveis¬ as¬ ondas¬ contra¬ as¬ pedras.¬ Silêncio¬ não¬ havia.¬
+Tomou¬suas¬coisas,¬voltou¬ao¬continente,¬recolheu-se¬numa¬
+gruta¬ em¬ montanha¬ distante.¬ Embora¬ isolado,¬ logo¬ se¬ viu¬
+rodeado¬de¬ruídos,¬pequenos¬alguns,¬minúsculos¬outros,¬que¬
+o¬aparente¬silêncio¬circundante¬agigantava.¬Era¬o¬gotejar¬do¬
+excesso¬de¬umidade,¬o¬esvoejar¬dos¬morcegos¬ao¬anoitecer,¬
+o¬zumbir¬de¬um¬ou¬outro¬inseto,¬um¬gorjear¬lá¬fora,¬um¬escavar¬
+cá¬ dentro,¬ um¬ rastejar,¬ e¬ o¬ ronco¬ majestoso¬ dos¬ trovões,¬ o¬
+estalar¬dos¬relâmpagos.¬Novamente¬arrebanhou¬seus¬poucos¬
+pertences.¬ E¬ desceu¬ a¬ montanha,¬ regressou¬ à¬ cidade.¬ As¬
+chaves¬da¬sua¬casa¬tilintavam¬no¬bolso,¬não¬atendeu¬ao¬apelo.¬
+Tomou¬ônibus¬e¬metrô,¬caminhou¬até¬a¬praça¬mais¬central.¬Ali,¬
+onde¬tantos¬passavam¬e¬as¬buzinas¬dos¬carros¬e¬os¬apitos¬dos¬
+guardas¬e¬o¬gritar¬dos¬ambulantes¬e¬o¬chamado¬das¬sirenes¬
+se¬entrecruzavam,¬sentou-se.¬Assim¬como¬havia¬ignorado¬as¬
+chaves,¬ ignorou¬ os¬ sons¬ todos¬ que¬ lhe¬ atingiam¬ a¬ cabeça,¬
+esqueceu¬os¬ouvidos.¬E,¬vagarosamente,¬começou¬a¬descida¬
+em¬seu¬silêncio¬interior.¬
+¬
+Marina¬Colasanti.¬Hora¬de¬alimentar¬serpentes.¬Global,¬2013¬
+¬
+{01} 
+No¬conto,¬a¬busca¬do¬protagonista¬está¬relacionada¬à¬tentativa¬
+de¬
+¬
+(A)¬demonstrar¬ que¬ o¬ silêncio¬ perfeito¬ é¬ uma¬ construção¬
+imaginária¬e¬artificial.¬
+(B)¬isolar-se¬ do¬ mundo¬ externo¬ para¬ criar¬ uma¬ realidade¬
+paralela¬e¬inexorável.¬
+(C)¬ comprovar¬ que¬ a¬ natureza¬ é¬ menos¬ ruidosa¬ do¬ que¬ o¬
+ambiente¬urbano.¬
+(D)¬encontrar¬ uma¬ quietude¬ absoluta¬ que,¬ paradoxalmente,¬
+revela-se¬inalcançável.¬
+(E)¬estabelecer¬um¬contraponto¬entre¬a¬vida¬solitária¬e¬a¬vida¬
+social¬da¬cidade.¬
+##### 
+¬
+{02} 
+O¬sufixo¬“-ejar”,¬presente¬em¬“esvoejar”,¬desempenha¬papel¬
+semântico¬específico¬na¬construção¬do¬verbo,¬conferindo-lhe¬
+a¬ideia¬de:¬
+¬
+(A)¬Estado¬contínuo¬e¬permanente.¬
+(B)¬Movimento¬leve¬e¬intermitente.¬
+(C)¬Intensificação¬de¬uma¬ação.¬
+(D)¬Formação¬de¬substantivos¬abstratos.¬
+(E)¬Relação¬de¬causa¬e¬consequência.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+ 
+Texto para as questões de 03 a 05 
+¬
+¬
+Cuidar¬ da¬ nossa¬ saúde¬ às¬ vezes¬ lembra¬ aquela¬
+olhadela¬que¬damos¬na¬cabine¬do¬avião¬a¬caminho¬de¬nosso¬
+assento.¬Por¬todo¬lado¬só¬vemos¬coisas¬complicadas:¬telas,¬
+indicadores,¬
+alavancas,¬
+luzes¬
+piscantes,¬
+manivelas,¬
+interruptores,¬ mais¬ alavancas...¬ botões¬ do¬ lado¬ esquerdo,¬
+botões¬do¬lado¬direito,¬botões¬no¬teto¬(não,¬fala¬sério,¬Por¬que¬
+eles¬põem¬botões¬no¬teto?).¬Desviamos¬o¬olhar,¬agradecidos¬
+pelo¬fato¬de¬os¬pilotos¬saberem¬o¬que¬estão¬fazendo.¬Como¬
+passageiros¬tudo¬que¬nos¬importa¬é¬se¬o¬avião¬vai¬ficar¬no¬céu.¬
+Quando¬a¬questão¬é¬nosso¬corpo,¬somos¬nós¬os¬passageiros¬
+ignorantes.¬Porém¬-¬reviravolta¬na¬história¬-,¬os¬pilotos¬também¬
+somos¬ nós.¬ E¬ quando¬ não¬ sabemos¬ como¬ nosso¬ corpo¬
+funciona,¬é¬como¬se¬estivéssemos¬em¬voo¬cego.¬Nós¬sabemos¬
+como¬ queremos¬ nos¬ sentir.¬ Queremos¬ acordar¬ com¬ um¬
+sorriso,¬animados¬e¬empolgados¬para¬o¬novo¬dia.¬Queremos¬
+ter¬uma¬alegria¬no¬andar,¬livres¬de¬qualquer¬dor.¬Queremos¬
+passar¬ momentos¬ agradáveis¬ com¬ nossa¬ família,¬ com¬ uma¬
+sensação¬de¬gratidão¬positividade.¬Mas¬pode¬ser¬complicado¬
+descobrir¬ como¬ chegar¬ lá.¬ São¬ tantos¬ botões¬ que¬ nos¬
+sentimos¬esmagados.¬O¬que¬fazer?¬Por¬onde¬começar?¬Temos¬
+que¬começar¬pela¬glicose.¬Por¬quê?¬Porque¬ela¬é¬a¬alavanca¬
+da¬ cabine¬ com¬ o¬ maior¬ custo-benefício.¬ É¬ a¬ mais¬ fácil¬ de¬
+compreender¬ (graças¬ aos¬ monitores¬ contínuos¬ de¬ glicose),¬
+afeta¬instantaneamente¬nossas¬sensações¬(porque¬influencia¬
+nossa¬fome¬e¬nosso¬humor),¬e¬muita¬coisa¬passa¬a¬se¬encaixar¬
+a¬partir¬do¬momento¬em¬que¬conseguimos¬controlá-la.¬
+¬
+Adaptado¬de¬Inchauspé,¬Jessie.¬A¬revolução¬da¬glicose:¬equilibre¬os¬
+níveis¬de¬açúcar¬no¬sangue¬e¬mude¬sua¬saúde¬e¬sua¬vida.¬Trad.¬André¬
+Fontenelle.¬Objetiva,¬2022.¬
+¬
+{03} 
+No¬texto,¬a¬relação¬entre¬a¬complexidade¬da¬cabine¬de¬um¬
+avião¬e¬a¬administração¬da¬saúde¬humana¬evidencia¬
+¬
+(A)¬a¬ inutilidade¬ de¬ tentar¬ entender¬ processos¬ fisiológicos,¬
+excessivamente¬complicados.¬
+(B)¬a¬ dificuldade¬ de¬ compreender¬ o¬ próprio¬ corpo¬ e¬ o¬
+conhecimento¬para¬controlá-lo.¬
+(C)¬o¬fato¬de¬que¬apenas¬profissionais¬especializados¬podem¬
+lidar¬com¬questões¬de¬saúde.¬
+(D)¬a¬impossibilidade¬de¬pessoas¬comuns¬poderem¬interferir¬
+no¬próprio¬bem-estar.¬
+(E)¬a¬necessidade¬de¬confiar¬em¬terceiros¬para¬a¬regulação¬da¬
+saúde,¬física¬e¬emocional.¬
+##### 
+¬
+{04} 
+No¬trecho¬“Como¬passageiros¬tudo¬que¬nos¬importa¬é¬se¬o¬
+avião¬vai¬ficar¬no¬céu”,¬a¬inclusão¬do¬termo¬“o”¬antes¬de¬“que”¬
+tem¬como¬efeito:¬
+¬
+(A)¬Tornar¬ “o¬ que”¬ equivalente¬ a¬ “aquilo¬ que”,¬ funcionando¬
+como¬pronome¬demonstrativo.¬
+(B)¬Alterar¬ a¬ função¬ sintática¬ de¬ “que”,¬ transformando-o¬ em¬
+conjunção¬integrante.¬
+(C)¬Modificar¬o¬sentido¬original¬da¬frase,¬tornando-a¬ambígua.¬
+(D)¬Indicar¬uma¬relação¬de¬posse,¬característica¬de¬pronomes¬
+relativos.¬
+(E)¬Introduzir¬ideia¬de¬consequência,¬assumindo¬o¬sentido¬de¬
+vulnerabilidade.¬
+##### 
+¬
+ 
+
+
+--- PAGE 3 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+{05} 
+O¬texto¬se¬organiza¬essencialmente¬por¬meio¬de:¬
+¬
+(A)¬Descrições¬ objetivas¬ e¬ técnicas,¬ abrangendo¬ fisiologia¬
+humana.¬
+(B)¬Argumentação¬exclusivamente¬baseada¬em¬dados¬
+estatísticos.¬
+(C)¬Estruturas¬
+formais,¬
+utilizadas¬
+em¬
+textos¬
+científicos¬
+acadêmicos.¬
+(D)¬Afirmações¬e¬questionamentos¬sem¬embasamento¬lógico¬ou¬
+científico.¬
+(E)¬Comparações¬
+e¬
+metáforas,¬
+simplificando¬
+conceitos¬
+complexos.¬
+##### 
+¬
+ 
+Texto para as questões de 06 a 08 
+¬
+Mal¬o¬CEO¬da¬Meta,¬Mark¬Zuckerberg,¬anunciou¬as¬mudanças¬
+nas¬ políticas¬ de¬ moderação¬ de¬ suas¬ plataformas,¬ muitos¬
+educadores,¬ comunicadores¬ e¬ jornalistas¬ presentes¬ nos¬
+diferentes¬ grupos¬ dos¬ quais¬ faço¬ parte¬ começaram¬ a¬
+questionar¬a¬eficácia¬da¬Educação¬Midiática.¬O¬que¬podemos¬
+diante¬de¬um¬Musk¬e¬um¬Zuckerberg?¬De¬que¬adianta¬educar¬
+para¬ a¬ checagem¬ de¬ notícias¬ se¬ agora¬ “abriram-se¬ as¬
+porteiras”¬e¬nenhum¬de¬nós¬vai¬dar¬conta¬de¬distinguir¬o¬que¬é¬
+verdadeiro¬ ou¬ falso,¬ de¬ remover¬ conteúdos¬ agressivos,¬
+preconceituosos,¬ de¬ construir¬ referenciais¬ seguros¬ para¬
+obtermos¬informações¬íntegras¬e¬confiáveis?¬É¬enxugar¬gelo,¬
+nadar¬contra¬a¬corrente,¬melhor¬a¬gente¬se¬preparar¬para¬viver¬
+no¬caos,¬diziam¬alguns,¬já¬ameaçando¬sair¬de¬vez¬das¬redes,¬
+boicotar¬ a¬ Meta,¬ banir¬ o¬ digital¬ de¬ vez¬ do¬ seu¬ cotidiano.¬
+Entendo¬a¬Educação¬Midiática¬como¬um¬importante¬e¬potente¬
+elemento¬ para¬ que¬ possamos¬ lidar¬ com¬ todos¬ os¬ desafios¬
+presentes¬no¬mundo¬digital¬–¬e¬de¬resto,¬no¬mundo¬real,¬que¬o¬
+reflete.¬Ela¬é¬uma¬alternativa¬viável¬e¬segura¬que¬todos¬nós,¬
+que¬ desejamos¬ continuar¬ a¬ viver¬ civilizadamente¬ em¬
+sociedade,¬podemos¬tomar¬em¬nossas¬mãos.¬Se¬as¬chamadas¬
+big¬techs¬nos¬abandonam¬à¬própria¬sorte,¬cabe¬a¬cada¬um¬de¬
+nós¬entender¬qual¬é¬o¬nosso¬papel¬nesse¬ecossistema.¬¬
+¬
+Adaptado¬de:¬Januária¬Cristina¬Alves.¬“Novas¬diretrizes¬da¬Meta:¬será¬o¬
+fim¬da¬Educação¬Midiática?”¬Nexo¬Jornal.¬16¬de¬janeiro¬de¬2025.¬
+ 
+{06} 
+No¬trecho¬“Mal¬o¬CEO¬da¬Meta,¬Mark¬Zuckerberg,¬anunciou¬as¬
+mudanças¬nas¬políticas¬de¬moderação¬de¬suas¬plataformas”,¬
+o¬termo¬“Mal”¬estabelece¬uma¬relação¬de¬
+¬
+(A)¬comparação,¬equiparando¬dois¬acontecimentos¬simultâneos.¬¬
+(B)¬condição,¬introduzindo¬uma¬possibilidade¬de¬mudança.¬
+(C)¬consequência,¬ indicando¬ um¬ efeito¬ direto¬ da¬ ação¬
+posterior.¬
+(D)¬oposição,¬contrastando¬ideias¬consideradas¬divergentes.¬
+(E)¬tempo,¬indicando¬uma¬ação¬ocorrida¬imediatamente¬após¬
+outra.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+{07} 
+No¬ trecho,¬ e¬ em¬ relação¬ ao¬ contexto¬ em¬ que¬ se¬ insere,¬ “o¬
+mundo¬ real,¬ que¬ o¬ reflete”,¬ a¬ oração¬ após¬ a¬ vírgula¬ tem¬ a¬
+função¬de¬
+¬
+(A)¬servir¬como¬uma¬explicação¬para¬ser¬utilizada¬pelas¬big¬
+techs.¬
+(B)¬apresentar¬um¬aposto¬que¬exemplifica¬o¬conceito¬anterior.¬
+(C)¬introduzir¬uma¬nova¬informação¬independente¬da¬anterior.¬
+(D)¬retomar¬“o¬mundo¬digital”,¬explicando¬sua¬relação¬com¬o¬
+mundo¬real.¬
+(E)¬estabelecer¬um¬juízo¬de¬valor¬sobre¬o¬funcionamento¬das¬
+redes¬sociais.¬
+##### 
+¬
+{08} 
+No¬período¬em¬que¬se¬encontra,¬a¬sequência¬textual¬“melhor¬
+a¬gente¬se¬preparar”¬apresenta-se¬gramaticalmente¬como¬
+¬
+(A)¬uma¬inversão¬sintática,¬típica¬da¬linguagem¬formal.¬
+(B)¬um¬ erro¬ gramatical,¬ com¬ a¬ falta¬ do¬ verbo¬ principal¬ na¬
+oração.¬
+(C)¬uma¬ construção¬ elíptica,¬ simplificando¬ o¬ segmento¬
+sintático.¬
+(D)¬um¬ exemplo¬ de¬ hipérbole,¬ intensificando¬ a¬ situação¬
+descrita.¬
+(E)¬uma¬ construção¬ arcaica,¬ comum¬ em¬ textos¬ literários¬
+antigos.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+ 
+
+
+--- PAGE 4 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+Texto para as questões de 09 a 11 
+¬
+The¬ idea¬ of¬ time¬ blindness,¬ or¬ difficulty¬ perceiving¬ and¬
+managing¬time,¬has¬spread¬across¬social¬media.¬While¬there¬is¬
+no¬diagnosis¬for¬it,¬some¬people¬explain¬that,¬despite¬their¬best¬
+efforts,¬ they¬ frequently¬ lose¬ track¬ of¬ time,¬underestimate¬ or¬
+overestimate¬how¬long¬tasks¬will¬take,¬show¬up¬late,¬and¬miss¬
+deadlines.¬
+Time¬blindness¬is¬a¬psychological¬phenomenon¬that¬nearly¬
+everyone¬experiences¬from¬time¬to¬time,¬said¬Michael¬Manos,¬
+at¬the¬Cleveland¬Clinic.¬
+“Who¬doesn’t¬get¬completely¬occupied¬with¬a¬hobby¬or¬a¬
+conversation¬they’re¬having¬with¬somebody,¬or¬some¬kind¬of¬
+activity¬that¬is¬so¬interesting¬that¬it¬occupies¬attention,¬and¬it¬
+takes¬attention¬away¬from¬other¬things¬that¬might¬be¬pressing?”¬
+he¬said.¬
+Not¬all¬experts¬agree,¬but¬some¬suggest¬that¬it¬could¬be¬a¬
+limitation¬for¬some¬people.¬
+Renae¬Beaumont,¬an¬associate¬professor¬of¬psychology¬in¬
+clinical¬ psychiatry,¬ said¬ time¬ blindness¬ and¬ flow,¬ a¬ state¬ of¬
+intense¬ focus¬ in¬ an¬ activity¬ that¬ is¬ engaging,¬ enjoyable¬ and¬
+temporarily¬ distracts¬ from¬ the¬ passage¬ of¬ time,¬ are¬ different¬
+phenomena.¬
+“Flow¬is¬typically¬associated¬with¬positive¬emotions¬when¬
+you’re¬doing¬something¬you¬enjoy,¬and¬you¬are¬able¬to¬shift¬to¬
+a¬ different¬ task¬ when¬ you¬ need¬ to.¬ Time¬ blindness¬ involves¬
+getting¬stuck,¬losing¬track¬of¬time¬and¬typically¬having¬trouble¬
+transitioning¬to¬a¬different¬task,”¬she¬said.¬
+There¬ is¬ no¬ clear¬ consensus,¬ but¬ some¬ researchers¬
+consider¬ time¬ blindness¬ to¬ be¬ an¬ impairment¬ in¬ temporal¬
+perception,¬or¬the¬way¬the¬brain¬experiences¬time.¬
+Certain¬strategies¬may¬help¬people¬who¬struggle¬with¬time¬
+perception¬and¬management,¬experts¬said.¬
+Use¬ digital¬ reminders¬ including¬ alarms,¬ timers¬ and¬
+calendars¬to¬keep¬track¬of¬appointments,¬dates¬and¬deadlines.¬¬
+¬
+Washington¬Post.¬February¬5,¬2025.¬Adaptado.¬
+{09} 
+Conforme¬ o¬ texto,¬ uma¬ característica¬ do¬ conceito¬ de¬ “flow”¬
+envolve¬
+¬
+(A)¬concentração¬exclusiva¬em¬um¬objetivo,¬sem¬adaptação¬a¬
+mudanças.¬¬
+(B)¬imersão¬em¬uma¬ocupação¬prazerosa¬com¬controle¬sobre¬
+sua¬execução.¬¬
+(C)¬perda¬ da¬ percepção¬ do¬ tempo¬ acompanhada¬ de¬
+ansiedade.¬¬
+(D)¬dificuldade¬em¬interromper¬um¬processo¬por¬excesso¬de¬
+envolvimento.¬¬
+(E)¬tendência¬ a¬ evitar¬ experiências¬ que¬ exijam¬ atenção¬
+ininterrupta.¬
+##### 
+¬
+{10} 
+No¬ trecho¬ "While¬ there¬ is¬ no¬ diagnosis¬ for¬ it,¬ some¬ people¬
+explain¬ that..."¬ (1º¬ parágrafo),¬ o¬ termo¬ "While"¬ pode¬ ser¬
+substituído,¬sem¬prejuízo¬de¬sentido,¬por¬
+(A)¬Even¬though.¬
+(B)¬Moreover.¬
+(C)¬Therefore.¬
+(D)¬So¬that.¬
+(E)¬As¬well¬that.¬
+##### 
+¬
+{11} 
+No¬trecho¬"Who¬doesn’t¬get¬completely¬occupied¬with¬a¬hobby¬
+or¬a¬conversation¬they’re¬having¬with¬somebody,¬or¬some¬kind¬
+of¬activity¬that¬is¬so¬interesting¬that¬it¬occupies¬attention"¬(3º¬
+parágrafo),¬o¬pronome¬"they"¬refere-se¬¬
+(A)¬aos¬especialistas¬citados¬no¬estudo.¬
+(B)¬às¬pessoas¬em¬geral.¬¬
+(C)¬aos¬indivíduos¬em¬idade¬avançada.¬¬
+(D)¬ao¬autor¬do¬texto.¬
+(E)¬a¬uma¬autoridade¬médica.¬
+##### 
+¬
+ 
+Texto para as questões 12 e 13 
+Scientists¬ have¬ found¬ that¬ generally¬ the¬ world¬ feels¬
+brighter¬when¬you¬wake¬up.¬
+People¬ start¬ the¬ day¬ in¬ the¬ best¬ frame¬ of¬ mind¬ in¬ the¬
+morning,¬but¬end¬in¬the¬worst,¬at¬about¬midnight,¬the¬findings¬
+suggest,¬with¬the¬day¬of¬the¬week¬and¬the¬season¬also¬playing¬
+a¬part.¬
+Mental¬health¬also¬tends¬to¬be¬more¬varied¬at¬weekends¬
+but¬steadier¬during¬the¬week,¬according¬to¬the¬study¬led¬by¬
+University¬College¬London.¬
+“Generally,¬ things¬ do¬ seem¬ better¬ in¬ the¬ morning,”¬ the¬
+researchers¬concluded.¬¬
+Mental¬health¬and¬wellbeing¬are¬dynamic¬in¬nature,¬and¬
+subject¬to¬change¬over¬short¬and¬long¬periods.¬However,¬few¬
+studies¬have¬looked¬at¬how¬they¬might¬change¬over¬the¬course¬
+of¬the¬day.¬
+Scientists¬ wanted¬ to¬ explore¬ whether¬ time¬ of¬ day¬ was¬
+associated¬ with¬ variations¬ in¬ mental¬ health,¬ happiness,¬ life¬
+satisfaction,¬sense¬of¬life¬being¬worthwhile¬and¬loneliness.¬¬
+People¬ in¬ the¬ study¬ answered¬ questionnaires,¬ with¬
+questions¬ such¬ as:¬ “In¬ the¬ past¬ week,¬ how¬ happy¬ did¬ you¬
+feel?”,¬“How¬satisfied¬have¬you¬been¬with¬your¬life?”,¬and¬“To¬
+what¬extent¬have¬you¬felt¬the¬things¬you¬are¬doing¬in¬your¬life¬
+are¬worthwhile?”¬
+Factors¬ such¬ as¬ age,¬ health¬ conditions¬ and¬ whether¬
+people¬worked¬were¬taken¬into¬account.¬
+The¬results¬showed¬that¬happiness,¬life¬satisfaction,¬and¬
+worthwhile¬ ratings¬ were¬ all¬ higher¬ on¬ Mondays¬ and¬ Fridays¬
+than¬ on¬ Sundays,¬ while¬ happiness¬ was¬ also¬ higher¬ on¬
+Tuesdays.¬ There¬ was¬ no¬ evidence¬ that¬ loneliness¬ differed¬
+across¬days¬of¬the¬week.¬
+There¬ was¬ clear¬ evidence¬ of¬ a¬ seasonal¬ influence¬ on¬
+mood.¬ Compared¬ with¬ winter,¬ people¬ tended¬ to¬ have¬ lower¬
+levels¬of¬depressive¬and¬anxiety¬symptoms¬and¬loneliness,¬and¬
+higher¬levels¬of¬happiness,¬and¬feeling¬that¬life¬was¬worthwhile¬
+in¬the¬three¬other¬seasons.¬
+Mental¬health¬was¬best¬in¬the¬summer¬across¬all¬outcomes.¬
+But¬the¬season¬didn’t¬affect¬the¬associations¬observed¬across¬
+the¬day,¬however.¬
+This¬ was¬ an¬ observational¬ study,¬ so¬ it¬ cannot¬ establish¬
+cause.¬¬
+¬
+The¬Guardian.com.¬February¬5,¬2025.¬Adaptado.¬
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+{12} 
+De¬acordo¬ com¬o¬texto,¬a¬relação¬ entre¬ estações¬do¬ano¬e¬
+variação¬emocional¬torna¬mais¬plausível¬a¬inferência¬de¬que¬
+¬
+(A)¬a¬ estabilidade¬ dos¬ padrões¬ diários¬ indica¬ que¬ os¬ ritmos¬
+circadianos¬independem¬das¬mudanças¬periódicas.¬
+(B)¬a¬ redução¬ dos¬ sintomas¬ fora¬ da¬ primavera¬ prova¬ que¬ o¬
+clima¬é¬o¬fator¬predominante¬e¬determinante¬das¬emoções.¬
+(C)¬a¬ melhora¬ no¬ verão¬ evidencia¬ que¬ aspectos¬ ambientais¬
+influenciam¬o¬humor,¬sem¬explicar¬as¬flutuações¬ao¬longo¬
+do¬dia.¬
+(D)¬a¬ vantagem¬ do¬ verão¬ mostra¬ que¬ mudanças¬ sazonais¬
+afetam¬todas¬as¬pessoas¬igualmente.¬
+(E)¬os¬ melhores¬ resultados¬ nesse¬ período¬ sugerem¬ que¬
+intervenções¬devem¬ser¬intensificadas¬no¬inverno.¬####¬
+¬
+{13} 
+No¬trecho¬“Factors¬such¬as¬age,¬health¬conditions¬and¬whether¬
+people¬ worked¬ were¬ taken¬ into¬ account”¬ (8º¬ parágrafo),¬ o¬
+termo¬"whether"¬indica¬
+¬
+(A)¬relevância¬reduzida¬do¬histórico¬de¬queixas¬associadas¬à¬
+idade.¬
+(B)¬justificativa¬para¬a¬escolha¬dos¬elementos¬avaliados.¬
+(C)¬alternância¬de¬períodos¬relativos¬à¬coleta¬das¬respostas.¬
+(D)¬possibilidade¬ envolvendo¬ a¬ situação¬ profissional¬ dos¬
+indivíduos.¬¬
+(E)¬referência¬indireta¬aos¬participantes¬voluntários¬do¬estudo.¬
+##### 
+¬
+{14} 
+Synesthesia¬is¬when¬you¬hear¬music,¬but¬you¬see¬shapes.¬Or¬
+you¬hear¬a¬word¬or¬a¬name¬and¬instantly¬see¬a¬color.¬Synesthesia¬
+is¬a¬name¬for¬when¬you¬experience¬one¬of¬your¬senses¬through¬
+another.¬For¬example,¬you¬might¬hear¬the¬name¬"Alex"¬and¬see¬
+green.¬Or¬you¬might¬read¬the¬word¬"street"¬and¬taste¬citrus¬fruit.¬
+The¬ word¬ "synesthesia"¬ has¬ Greek¬ roots.¬ It¬ translates¬ to¬
+“perceive¬ together.”¬ Synesthesia¬ isn’t¬ a¬ disease¬ or¬ disorder.¬ It¬
+won’t¬harm¬your¬health,¬and¬it¬doesn’t¬mean¬you’re¬mentally¬ill.¬
+Some¬ studies¬ suggest¬ people¬ who¬ have¬ it¬ may¬ do¬ better¬ on¬
+memory¬and¬intelligence¬tests¬than¬those¬who¬don’t.¬¬
+One¬ of¬ the¬ most¬ common¬ responses¬ is¬ to¬ see¬ letters,¬
+numbers,¬or¬sounds¬as¬colors.¬You¬might¬also¬see¬or¬hear¬a¬word¬
+and¬taste¬food;¬hear¬sounds¬and¬see¬shapes¬or¬patterns;¬feel¬a¬
+touch¬when¬seeing¬someone¬else¬being¬touched.¬(This¬is¬called¬
+mirror¬touch.)¬
+It¬ can¬ be¬ an¬ annoyance.¬ But¬ most¬ synesthetes¬ see¬ their¬
+condition¬as¬a¬sixth¬sense,¬not¬a¬drawback.¬
+You¬can’t¬control¬it.¬The¬response¬happens¬right¬away.¬For¬
+example,¬if¬you¬hear¬a¬new¬piece¬of¬music,¬you¬may¬see¬a¬color¬
+or¬taste¬a¬flavor¬without¬any¬effort.¬It¬just¬happens.¬
+It’s¬internal,¬mostly.¬The¬colors¬are¬just¬in¬your¬mind.¬¬
+It¬stays¬the¬same¬over¬time.¬If¬you¬see¬the¬letter¬"A"¬in¬green¬
+today,¬you’ll¬see¬it¬in¬green¬10¬years¬from¬now.¬¬
+It¬often¬starts¬in¬childhood.¬Studies¬of¬kids¬with¬synesthesia¬
+found¬that¬it¬develops¬over¬time.¬¬
+¬
+webmd.com.¬December¬17,¬2024.¬Adaptado.¬
+De¬ acordo¬ com¬ o¬ texto¬ apresentado,¬ a¬ sinestesia¬ pode¬ ser¬
+descrita¬como¬
+¬
+(A)¬condição¬patológica¬que¬afeta¬a¬percepção¬sensorial.¬
+(B)¬incapacidade¬ de¬ interpretar¬ estímulos¬ orais¬ de¬ maneira¬
+incomum.¬
+(C)¬experiência¬cruzada¬entre¬os¬sentidos¬ que¬acontece¬ de¬
+forma¬involuntária.¬¬
+(D)¬fenômeno¬restrito¬às¬associações¬visuais¬e¬auditivas.¬
+(E)¬característica¬que¬se¬desenvolve¬ao¬longo¬da¬vida¬por¬meio¬
+de¬treinamento.¬
+##### 
+¬
+{15} 
+O¬ termo¬ “pace”¬ é¬ utilizado¬ entre¬ corredores¬ amadores¬ e¬
+profissionais.¬É¬uma¬palavra¬de¬língua¬inglesa¬que¬significa¬
+“ritmo”.¬O¬pace¬é¬definido¬como¬sendo¬o¬tempo¬(em¬minutos)¬
+que¬o(a)¬atleta¬leva¬para¬percorrer¬1¬quilômetro,¬em¬média.¬Por¬
+exemplo,¬ um(a)¬ corredor(a)¬ com¬ pace¬ 6¬ min/km¬ leva,¬ em¬
+média,¬ 6¬ minutos¬ para¬ percorrer¬ 1¬ quilômetro.¬ Em¬ 31¬ de¬
+dezembro¬ de¬ 2024,¬ a¬ brasileira¬ Núbia¬ de¬ Oliveira¬ ficou¬ em¬
+terceiro¬ lugar¬ na¬ categoria¬ feminina¬ da¬ Corrida¬ de¬ São¬
+Silvestre,¬realizada¬em¬São¬Paulo,¬em¬que¬completou¬o¬trecho¬
+de¬15¬quilômetros¬em¬53¬minutos¬e¬24¬segundos.¬Conclui-se¬
+que¬o¬pace¬de¬Núbia,¬nessa¬prova,¬ficou¬mais¬próximo¬de:¬
+¬
+(A)¬2¬minutos¬e¬48¬segundos¬por¬quilômetro.¬
+(B)¬3¬minutos¬e¬34¬segundos¬por¬quilômetro.¬
+(C)¬5¬minutos¬e¬6¬segundos¬por¬quilômetro.¬
+(D)¬6¬minutos¬e¬48¬segundos¬por¬quilômetro.¬
+(E)¬8¬minutos¬por¬quilômetro.¬
+##### 
+¬
+{16} 
+Se¬ três¬ pessoas¬ levam¬ juntas¬ 15¬ horas¬ para¬ realizar¬ uma¬
+determinada¬ tarefa,¬ quanto¬ tempo¬ 10¬ pessoas¬ igualmente¬
+capazes¬levarão¬para¬realizar¬a¬mesma¬tarefa,¬trabalhando¬no¬
+mesmo¬ritmo¬e¬sob¬as¬mesmas¬condições?¬
+¬
+(A) 4¬horas.¬
+(B) 4¬horas¬e¬15¬minutos.¬
+(C) 4¬horas¬e¬30¬minutos.¬
+(D) 4¬horas¬e¬50¬minutos.¬
+(E) 5¬horas.¬
+##### 
+¬
+{17} 
+Dizemos¬que¬dois¬números¬primos¬são¬gêmeos¬se¬a¬diferença¬
+entre¬ eles¬ é¬ dois.¬ Por¬ exemplo,¬ 5¬ e¬ 7¬ são¬ números¬ primos¬
+gêmeos.¬Assinale¬a¬alternativa¬que¬apresenta¬dois¬números¬
+primos¬gêmeos.¬
+¬
+(A) 31¬e¬33.¬
+(B) 47¬e¬49.¬
+(C) 57¬e¬59.¬
+(D) 71¬e¬73.¬
+(E) 75¬e¬79.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 6 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+{18} 
+¬
+Na¬ figura,¬ ABCD¬ é¬ um¬ retângulo,¬ e¬ E¬ e¬ F¬ são¬ pontos¬ no¬
+segmento¬BC.¬Se¬indicarmos¬por¬A1¬a¬área¬do¬triângulo¬ABD,¬
+por¬A2¬a¬área¬do¬triângulo¬AED¬e¬por¬A3¬a¬área¬do¬triângulo¬
+AFD,¬é¬correto¬afirmar:¬
+¬
+(A) ¬A1¬=¬A2¬=¬A3¬
+(B) ¬A1¬<¬A2¬<¬A3¬
+(C) ¬A1¬=¬½¬A3¬
+(D) ¬A1¬<¬A2¬=¬A3¬
+(E) ¬A1¬+¬A2¬=¬A3¬
+##### 
+¬
+{19} 
+Ao¬analisar¬a¬Nota¬Fiscal¬de¬uma¬compra¬realizada¬em¬um¬
+supermercado,¬um¬consumidor¬notou¬a¬seguinte¬informação:¬
+Valor¬Aproximado¬de¬Tributos¬Federais:¬R$¬24,00¬
+Valor¬Aproximado¬de¬Tributos¬Estaduais:¬R$¬30,00¬
+Se¬o¬valor¬total¬pago¬pela¬compra¬foi¬de¬R$¬180,00,¬é¬correto¬
+afirmar¬que¬as¬respectivas¬taxas¬de¬Tributos¬Federais¬e¬de¬
+Tributos¬ Estaduais¬ aplicadas¬ na¬ compra¬ do¬ consumidor¬
+foram,¬aproximadamente,¬de¬
+¬
+(A) 4,3%¬e¬5,4%.¬
+(B) 7,5%¬e¬3%.¬
+(C) 13%¬e¬17%.¬
+(D) 24%¬e¬30%.¬
+(E) 43%¬e¬54%.¬
+##### 
+¬
+{20} 
+A¬soma¬de¬todas¬as¬soluções¬reais¬da¬equação¬
+¬
+1 + 1
+𝑥= 𝑥¬
+¬
+é¬igual¬a:¬
+¬
+(A) −1¬
+(B) ¬¬0¬
+(C) ¬¬1¬
+(D) ¬¬2¬
+(E) ¬√5¬
+¬
+Note¬e¬adote:¬
+Considere¬𝑥≠0.¬
+¬
+##### 
+¬
+{21} 
+A¬Fundação¬Seade¬(Sistema¬Estadual¬de¬Análise¬de¬Dados)¬
+realizou¬um¬estudo¬sobre¬a¬evolução¬da¬população¬paulistana,¬
+entre¬os¬anos¬1920¬e¬2022,¬cujos¬resultados¬estão¬dispostos¬
+no¬gráfico¬a¬seguir.¬No¬gráfico,¬as¬barras¬indicam¬a¬população¬
+no¬ano¬indicado,¬e¬a¬linha¬indica¬a¬taxa¬média¬de¬crescimento¬
+anual¬na¬década¬correspondente.¬
+¬
+¬
+¬
+Os¬dados¬exibidos¬no¬gráfico¬permitem¬concluir¬que¬
+¬
+(A) a¬população¬do¬município¬de¬São¬Paulo¬em¬1940¬era¬de¬
+133¬mil¬habitantes.¬
+(B) a¬maior¬aceleração¬no¬crescimento¬da¬população,¬de¬uma¬
+década¬para¬outra¬subsequente,¬foi¬entre¬as¬décadas¬de¬
+1930¬e¬1940.¬
+(C) a¬ população¬ do¬ município¬ de¬ São¬ Paulo¬ atingiu¬ o¬ seu¬
+máximo¬na¬década¬de¬1950.¬
+(D) o¬ período¬ em¬ que¬ houve¬ menor¬ desaceleração¬ no¬
+crescimento¬da¬população¬foi¬entre¬os¬anos¬1970¬e¬1980.¬
+(E) a¬população¬diminuiu¬em¬1%¬entre¬os¬anos¬1980¬e¬2022.¬
+##### 
+¬
+{22} 
+¬
+¬
+A¬curva¬apresentada¬no¬plano¬cartesiano¬0𝑥𝑦¬corresponde¬ao¬
+gráfico¬da¬função:¬
+¬
+(A) ¬𝑓ሺ𝑥ሻ= 𝑥ଶ−𝑥+ 2¬
+(B) ¬𝑓ሺ𝑥ሻ= 𝑥ଶ+ 3𝑥+ 2¬
+(C) ¬𝑓ሺ𝑥ሻ= − 𝑥ଶ+ 2¬
+(D) ¬𝑓ሺ𝑥ሻ= − 𝑥ଶ+ 𝑥−2¬
+(E) ¬𝑓ሺ𝑥ሻ= − 𝑥ଶ+ 𝑥+ 2¬
+##### 
+¬
+¬
+
+
+--- PAGE 7 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+{23} 
+“ChatGPT,¬ DeepSeek¬ e¬ similares¬ pertencem¬ à¬ classe¬ de¬
+LLMs,¬avançados¬modelos¬de¬linguagem¬treinados¬a¬partir¬de¬
+grandes¬bancos¬de¬dados¬–¬majoritariamente¬em¬inglês.¬Os¬
+mais¬populares¬pertencem¬a¬empresas¬norte-americanas.¬E¬
+assim¬como¬os¬algoritmos¬de¬pesquisa¬e¬redes¬sociais,¬não¬
+são¬neutros.¬Ou¬seja,¬podem¬reproduzir¬vieses,¬preconceitos¬
+e¬ estereótipos¬ de¬ seus¬ programadores,¬ que¬ por¬ sua¬ vez¬
+podem¬receber¬ordens¬dos¬donos¬das¬empresas¬e¬de¬outros¬
+atores¬–¬na¬China,¬por¬exemplo,¬empresas¬devem¬passar¬por¬
+análise¬de¬segurança¬e¬obter¬aprovações¬do¬governo¬antes¬de¬
+lançar¬produtos¬(...).¬
+Nesse¬cenário,¬como¬ficam¬os¬países¬que¬não¬têm¬plataformas¬
+nacionais¬de¬alcance¬global,¬como¬é¬o¬caso¬do¬Brasil?¬E¬mais:¬
+o¬que¬acontecerá¬com¬a¬História¬e¬a¬memória¬desses¬países¬
+diante¬de¬uma¬população¬cada¬vez¬mais¬conectada¬a¬LLMs¬
+estrangeiras¬globais¬que¬acredita¬mais¬no¬que¬encontra¬nos¬
+apps¬e¬sites¬de¬busca¬do¬que¬nos¬livros¬de¬História?¬”¬
+¬
+Luciana¬Garbin,¬IAs¬estão¬apagando¬e¬reescrevendo¬pedaços¬da¬
+História.¬E¬o¬Brasil¬com¬isso?,¬O¬Estado¬de¬S.¬Paulo¬(on-line),¬29/01/2025¬
+(Adaptado)¬
+¬
+¬
+O¬texto¬apresentado¬traz¬uma¬crítica¬
+¬
+(A)¬ao¬ trabalho¬ dos¬ programadores,¬ que¬ estabelecem¬
+mecanismos¬frágeis¬de¬intelecção¬das¬máquinas¬dotadas¬
+de¬inteligência.¬
+(B)¬às¬chamadas¬big¬techs¬que¬visam¬apenas¬o¬lucro¬a¬partir¬
+dos¬ serviços¬ que¬ disponibilizam,¬ gerando¬ dificuldades¬
+para¬o¬usuário.¬
+(C)¬às¬ empresas¬ de¬ tecnologia¬ brasileiras,¬ que¬ não¬
+desenvolveram¬ LLMs¬ de¬ alcance¬ global,¬ o¬ que¬ seria¬
+possível¬a¬despeito¬do¬alcance¬da¬língua¬portuguesa¬no¬
+mundo.¬
+(D)¬aos¬
+governos¬
+das¬
+nações¬
+desenvolvidas,¬
+por¬
+estabelecerem¬
+padrões¬
+desiguais¬
+de¬
+controle¬
+de¬
+segurança¬ para¬ os¬ produtos¬ como¬ o¬ ChatGPT¬ e¬ o¬
+DeepSeek.¬
+(E)¬às¬pessoas¬que,¬em¬grande¬parte,¬passaram¬a¬confiar¬em¬
+fontes¬e¬a¬acreditar¬em¬informações¬não¬contextualizadas¬
+historicamente.¬
+##### 
+¬
+{24} 
+Em¬Ideias¬para¬adiar¬o¬fim¬do¬Mundo,¬Ailton¬Krenak¬coloca¬
+ênfase¬no¬papel¬que¬o¬rio¬Watu¬desempenha¬para¬a¬unidade¬
+do¬povo¬krenak,¬o¬povo¬“cabeça¬da¬terra”.¬O¬rio¬foi¬palco¬de¬
+um¬ evento¬ que¬ marcou¬ nosso¬ país.¬ De¬ posse¬ dessas¬
+informações¬ e¬ com¬ base¬ na¬ leitura¬ do¬ livro,¬ assinale¬ a¬
+alternativa¬que¬indica¬o¬nome¬do¬rio,¬em¬português,¬e¬o¬evento¬
+mencionado.¬
+¬
+(A)¬Solimões¬–¬seca¬de¬2023.¬
+(B)¬Doce¬–¬rompimento¬da¬barragem¬do¬Fundão.¬
+(C)¬Tietê¬–¬enchente¬de¬São¬Paulo¬em¬1929.¬
+(D)¬São¬Francisco¬–¬transposição¬de¬suas¬águas.¬
+(E)¬Paraopeba¬¬–¬¬rompimento¬da¬¬barragem¬¬de¬¬¬¬Brumadinho.¬
+ 
+##### 
+¬
+ 
+ 
+ 
+{25} 
+Observe¬a¬charge¬a¬seguir:¬
+¬
+ 
+¬
+Folha¬de¬São¬Paulo,¬26.01.2025¬
+Assinale¬ a¬ alternativa¬ que¬ melhor¬ descreve¬ as¬ situações¬ às¬
+quais¬a¬charge¬se¬refere.¬
+¬
+(A)¬Denuncismo,¬ confusão¬ relativa¬ às¬ categorias¬ sociais¬ e¬
+mudanças¬climáticas.¬
+(B)¬Estigmas¬sociais,¬alarmismo¬social¬e¬mobilidade¬social.¬
+(C)¬Alarmismo¬ social,¬ identificação¬ dos¬ imigrantes¬ como¬
+animais¬e¬mudanças¬climáticas.¬
+(D)¬Racismo,¬degelo¬da¬Antártida¬e¬luta¬de¬classes.¬
+(E)¬Denuncismo,¬extinção¬de¬espécimes¬da¬fauna¬e¬mudanças¬
+sociais.¬
+##### 
+¬
+{26} 
+Em¬ O¬ Perigo¬ de¬ uma¬ História¬ Única,¬ Chimamanda¬ Ngozi¬
+Adichie¬afirma¬que¬“Há¬pouco¬tempo¬dei¬uma¬palestra¬numa¬
+universidade¬e¬um¬aluno¬me¬disse¬que¬era¬uma¬grande¬pena¬
+que¬ os¬ homens¬ nigerianos¬ fossem¬ agressivos¬ como¬ o¬
+personagem¬do¬pai¬no¬meu¬romance.¬Eu¬disse¬a¬ele¬que¬tinha¬
+acabado¬de¬ler¬um¬livro¬chamado¬O¬psicopata¬americano¬e¬
+que¬ achava¬ uma¬ grande¬ pena¬ que¬ os¬ jovens¬ americanos¬
+fossem¬assassinos¬em¬série.¬Bem,¬obviamente¬eu¬disse¬isso¬
+num¬ leve¬ ataque¬ de¬ irritação.¬ Mas¬ jamais¬ teria¬ me¬ ocorrido¬
+pensar¬que,¬só¬porque¬li¬um¬romance¬no¬qual¬o¬personagem¬
+era¬ um¬ assassino¬ em¬ série,¬ ele¬ de¬ alguma¬ maneira¬
+representava¬todos¬os¬americanos.¬Não¬digo¬isso¬porque¬me¬
+considero¬uma¬pessoa¬melhor¬do¬que¬esse¬aluno¬(...).¬Já¬tinha¬
+lido¬Tyler,¬Updike,¬Steinbeck¬e¬Gaitskill.¬Não¬tinha¬uma¬história¬
+única¬dos¬Estados¬Unidos”.¬¬
+Nesse¬livro,¬como¬no¬trecho¬de¬O¬Estado¬de¬S.¬Paulo¬citado¬
+na¬questão¬23,¬pode-se¬afirmar¬que¬a¬versão¬de¬um¬fato¬será¬
+tanto¬mais¬disseminada¬quanto¬
+¬
+(A)¬maior¬ for¬ o¬ poder¬ econômico¬ e¬ cultural¬ de¬ quem¬ a¬
+comunica.¬
+(B)¬mais¬críveis¬forem¬os¬seus¬contornos¬narrativos.¬
+(C)¬menos¬verossímeis¬forem¬os¬valores¬ínsitos¬à¬mensagem.¬
+(D)¬maior¬for¬o¬poder¬militar¬e¬científico¬de¬quem¬a¬comunica.¬
+(E)¬menores¬forem¬os¬riscos¬de¬conter¬inverdades.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 8 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+{27} 
+Considere¬o¬art.¬2º¬do¬Estatuto¬da¬USP:¬
+¬
+Artigo 2º –¬São¬fins¬da¬USP:¬
+¬
+I¬ –¬promover¬ e¬ desenvolver¬ todas¬ as¬ formas¬ de¬
+conhecimento,¬por¬meio¬do¬ensino¬e¬da¬pesquisa;¬
+II¬ –¬ ministrar¬ o¬ ensino¬ superior¬ visando¬ à¬ formação¬ de¬
+pessoas¬ capacitadas¬ ao¬ exercício¬ da¬ investigação¬ e¬ do¬
+magistério¬em¬todas¬as¬áreas¬do¬conhecimento,¬bem¬como¬
+à¬qualificação¬para¬as¬atividades¬profissionais;¬
+III¬ –¬ estender¬ à¬ sociedade¬ serviços¬ indissociáveis¬ das¬
+atividades¬de¬ensino¬e¬de¬pesquisa.¬
+¬
+As¬ alternativas¬ a¬ seguir¬ indicam¬ as¬ cinco¬ Pró-Reitorias¬
+existentes¬na¬USP.¬Assinale¬aquela¬cujas¬atividades¬NÃO¬se¬
+relacionam¬diretamente¬com¬os¬fins¬da¬Universidade.¬
+¬
+(A)¬Pró-Reitoria¬de¬Cultura¬e¬Extensão¬Universitária.¬
+(B)¬Pró-Reitoria¬de¬Graduação.¬
+(C)¬Pró-Reitoria¬de¬Inclusão¬e¬Pertencimento.¬
+(D)¬Pró-Reitoria¬de¬Pesquisa¬e¬Inovação.¬
+(E)¬Pró-Reitoria¬de¬Pós-Graduação.¬
+##### 
+¬
+{28} 
+Considere¬a¬seguinte¬situação:¬Ênio¬Oliveira,¬Vice-Reitor¬da¬
+USP,¬ falece¬ em¬ um¬ acidente.¬ Nesse¬ caso,¬ Edna¬ Cruz,¬ a¬
+Reitora,¬deverá¬
+¬
+(A)¬indicar¬um¬novo¬Vice-Reitor,¬que¬será¬homologado¬pelo¬
+Conselho¬Universitário¬em¬até¬15¬dias.¬
+(B)¬dar¬início¬ao¬processo¬eleitoral,¬para¬a¬escolha¬de¬um¬novo¬
+Vice-Reitor,¬que¬cumprirá¬um¬mandato¬novo,¬de¬4¬anos.¬
+(C)¬ser¬substituída,¬em¬suas¬ausências¬ou¬impedimentos,¬pelo¬
+decano¬do¬Conselho¬Universitário.¬
+(D)¬dar¬início¬ao¬processo¬eleitoral,¬para¬a¬escolha¬de¬um¬novo¬
+Vice-Reitor,¬ que¬ exercerá¬ tal¬ função¬ pelo¬ tempo¬ que¬
+restava¬de¬mandato¬para¬Ênio.¬
+(E)¬indicar¬um¬novo¬Vice-Reitor,¬que¬deverá¬ser¬nomeado¬pelo¬
+Governador¬de¬SP¬em¬até¬15¬dias.¬
+##### 
+¬
+{29} 
+Aproximando-se¬as¬inscrições¬para¬Diretor¬de¬um¬Instituto,¬a¬
+comunidade¬local¬sabe¬que¬Lucas,¬Ana¬e¬Maria¬pretendem¬ser¬
+candidatos,¬
+tendo¬
+como¬
+candidatos¬
+a¬
+Vice-Diretor,¬
+respectivamente,¬Sara,¬Lia¬e¬Marcos.¬Sabendo¬que¬Marcos¬é¬
+Professor¬ Associado¬ 2¬ e¬ todos¬ os¬ demais¬ são¬ Professores¬
+Titulares,¬é¬possível¬afirmar¬que¬a¬Chapa¬Maria¬e¬Marcos¬
+¬
+(A)¬não¬pode¬se¬candidatar,¬em¬nenhuma¬hipótese.¬
+(B)¬pode¬se¬candidatar,¬sem¬qualquer¬restrição.¬
+(C)¬pode¬ se¬ candidatar¬ numa¬ eventual¬ segunda¬ fase¬ de¬
+inscrições,¬ mas¬ apenas¬ se¬ Lucas¬ e¬ Sara¬ ou¬ Ana¬ e¬ Lia¬
+deixarem¬de¬se¬inscrever.¬
+(D)¬pode¬ se¬ candidatar¬ numa¬ eventual¬ segunda¬ fase¬ de¬
+inscrições,¬mesmo¬que¬as¬chapas¬Lucas¬e¬Sara¬e¬Ana¬e¬
+Lia¬se¬inscrevam.¬
+(E)¬pode¬se¬candidatar¬desde¬logo,¬mas¬só¬concorrerão¬se¬
+Lucas¬e¬Sara¬ou¬Ana¬e¬Lia¬deixarem¬de¬se¬inscrever.¬
+##### 
+ 
+ 
+ 
+{30} 
+Uma¬ Unidade¬ tem¬ 8¬ Professores¬ Titulares,¬ todos¬ membros¬
+natos¬ da¬ Congregação.¬ O¬ número¬ de¬ representantes¬ dos¬
+Professores¬ Associados¬ e¬ dos¬ Professores¬ Doutores¬ é,¬
+respectivamente,¬
+¬
+(A)¬2¬e¬1.¬
+(B)¬4¬e¬3.¬
+(C)¬5¬e¬3.¬
+(D)¬4¬e¬2.¬
+(E)¬6¬e¬3.¬
+##### 
+¬
+{31} 
+A¬integridade¬acadêmica¬exige¬que¬a¬autoria¬de¬um¬trabalho¬
+científico¬ seja¬ atribuída¬ de¬ maneira¬ justa¬ e¬ transparente.¬
+Assinale¬a¬alternativa¬que¬descreve¬corretamente¬um¬tipo¬de¬
+fraude¬na¬autoria.¬
+¬
+(A)¬Autoria¬ fantasma,¬ que¬ ocorre¬ quando¬ um¬ pesquisador¬
+renomado¬é¬incluído¬como¬autor¬sem¬ter¬contribuído¬para¬
+a¬pesquisa,¬com¬o¬objetivo¬de¬aumentar¬a¬credibilidade¬do¬
+estudo.¬
+(B)¬Autoria¬ honorífica,¬ que¬ se¬ caracteriza¬ pela¬ omissão¬
+intencional¬ de¬ um¬ autor¬ relevante,¬ ocultando¬ sua¬
+participação¬para¬evitar¬conflitos¬de¬interesse.¬
+(C)¬Autoria¬ órfã,¬ que¬ corresponde¬ à¬ exclusão¬ injusta¬ de¬ um¬
+pesquisador¬ que¬ contribuiu¬ significativamente¬ para¬ o¬
+trabalho,¬negando-lhe¬o¬devido¬reconhecimento.¬
+(D)¬Autoria¬ forjada,¬ que¬ se¬ refere¬ à¬ atribuição¬ indevida¬ de¬
+autoria¬ a¬ um¬ indivíduo¬ que¬ teve¬ participação¬ ativa¬ na¬
+pesquisa,¬ mas¬ cuja¬ inclusão¬ poderia¬ prejudicar¬ a¬
+credibilidade¬do¬estudo.¬
+(E)¬Omissão¬de¬autoria,¬que¬corresponde¬à¬exclusão¬de¬um¬
+autor¬como¬forma¬de¬evitar¬eventuais¬conflitos¬de¬interesse.¬¬
+##### 
+¬
+{32} 
+Para¬ a¬ publicação¬ de¬ um¬ artigo¬ científico,¬ algumas¬
+informações¬são¬obrigatórias¬para¬garantir¬a¬transparência¬e¬a¬
+credibilidade¬da¬pesquisa,¬enquanto¬outras¬não¬precisam¬ser¬
+apresentadas.¬ Assinale¬ a¬ alternativa¬ que¬ apresenta¬ uma¬
+informação¬que¬não¬tem¬obrigatoriedade¬de¬ser¬divulgada¬em¬
+um¬artigo¬científico:¬
+¬
+(A)¬A¬agência¬financiadora¬da¬pesquisa.¬
+(B)¬O¬nome¬de¬todos¬os¬prestadores¬de¬serviços¬envolvidos¬
+no¬trabalho.¬
+(C)¬O¬ nome¬ da¬ instituição¬ ou¬ das¬ instituições¬ vinculadas¬ à¬
+pesquisa.¬
+(D)¬O¬nome¬de¬todos¬os¬envolvidos¬no¬trabalho¬científico.¬
+(E)¬O¬ autor¬ para¬ correspondência,¬ que¬ responderá¬ aos¬
+questionamentos¬quanto¬à¬pesquisa.¬¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+{33} 
+A¬ pesquisa¬ científica¬ deve¬ seguir¬ princípios¬ éticos¬ e¬ legais¬
+para¬ garantir¬ a¬ integridade¬ dos¬ estudos¬ e¬ a¬ proteção¬ dos¬
+envolvidos.¬Em¬relação¬a¬essa¬temática,¬assinale¬a¬alternativa¬
+correta.¬
+¬
+(A)¬A¬ aprovação¬ do¬ Comitê¬ de¬ Ética¬ é¬ obrigatória¬ somente¬
+para¬pesquisas¬que¬envolvem¬procedimentos¬invasivos¬ou¬
+riscos¬físicos¬para¬seres¬humanos.¬¬
+(B)¬Os¬ pareceres¬ das¬ Comissões¬ de¬ Ética¬ pertinentes¬ ao¬
+escopo¬ do¬ projeto¬ podem¬ ser¬ obtidos¬ em¬ qualquer¬
+momento¬durante¬o¬desenvolvimento¬do¬projeto.¬
+(C)¬Pesquisas¬
+envolvendo¬
+invertebrados¬
+devem¬
+obrigatoriamente¬
+ser¬
+submetidas¬
+a¬
+aprovação¬
+da¬
+Comissão¬de¬Ética¬para¬o¬Uso¬de¬Animais.¬
+(D)¬É¬ obrigatório¬ que¬ toda¬ instituição¬ de¬ ensino¬ e¬ pesquisa¬
+tenha¬suas¬comissões¬de¬ética,¬estabelecidas¬nos¬moldes¬
+da¬lei,¬para¬análise¬e¬aprovação¬e¬acompanhamento¬dos¬
+projetos¬de¬pesquisa.¬¬
+(E)¬Licenças¬e¬autorizações¬ambientais¬são¬exigidas¬apenas¬
+para¬ pesquisas¬ que¬ envolvem¬ espécies¬ ameaçadas¬ de¬
+extinção.¬
+##### 
+¬
+{34} 
+Observe¬a¬imagem¬a¬seguir:¬
+¬
+¬
+¬
+Em¬ relação¬ à¬ imagem¬ apresentada,¬ assinale¬ a¬ alternativa¬
+correta.¬
+¬
+(A)¬Representa¬a¬falsificação¬de¬dados¬para¬publicação.¬
+(B)¬Indica¬o¬plágio¬como¬forma¬de¬incrementar¬o¬impacto¬das¬
+publicações.¬
+(C)¬Estimula¬a¬publicação¬seletiva¬de¬resultados¬positivos.¬
+(D)¬Representa¬a¬publicação¬fracionada¬de¬dados¬com¬forma¬
+de¬aumentar¬o¬número¬de¬publicações.¬
+(E)¬Indica¬o¬impacto¬da¬não¬publicação¬de¬dados.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{35} 
+Qual¬ dos¬ procedimentos¬ a¬ seguir¬ é¬ o¬ mais¬ adequado¬ para¬
+garantir¬ o¬ uso¬ correto¬ de¬ micropipetas¬ em¬ técnicas¬
+laboratoriais¬de¬rotina?¬
+¬
+(A)¬Reutilizar¬a¬mesma¬ponteira¬para¬minimizar¬o¬desperdício¬
+de¬material.¬
+(B)¬As¬micropipetas¬de¬volume¬fixo¬são¬menos¬precisas¬em¬
+relação¬as¬de¬volume¬variável.¬
+(C)¬É¬necessário¬pressionar¬o¬êmbolo¬até¬o¬segundo¬estágio¬
+antes¬de¬aspirar¬o¬líquido¬para¬obtenção¬do¬volume¬exato.¬
+(D)¬Manter¬ a¬ micropipeta¬ na¬ posição¬ vertical¬ ao¬ aspirar¬ e¬
+dispensar¬líquidos.¬
+(E)¬Lavar¬a¬micropipeta¬com¬água¬destilada¬após¬cada¬uso¬
+para¬evitar¬contaminação.¬####¬
+¬
+{36} 
+Em¬ laboratórios¬ de¬ pesquisa,¬ as¬ curvas¬ de¬ calibração¬ são¬
+essenciais¬para¬a¬quantificação¬de¬substâncias¬em¬diferentes¬
+tipos¬ de¬ análises.¬ Assinale¬ a¬ alternativa¬ correta¬ sobre¬ as¬
+curvas¬de¬calibração.¬
+¬
+(A)¬Permitem¬determinar¬a¬concentração¬de¬uma¬substância¬
+em¬ amostras¬ desconhecidas¬ a¬ partir¬ de¬ valores¬ de¬
+absorbância,¬fluorescência¬ou¬outro¬sinal¬analítico.¬
+(B)¬Eliminam¬a¬necessidade¬de¬padronização¬dos¬reagentes,¬
+pois¬ a¬ curva¬ compensa¬ variações¬ na¬ qualidade¬ dos¬
+insumos¬utilizados.¬
+(C)¬Após¬ construir¬ a¬ curva,¬ é¬ importante¬ validá-la¬ usando¬
+parâmetros¬
+estatísticos,¬
+como¬
+o¬
+coeficiente¬
+de¬
+determinação¬(R²),¬que¬deve¬ser¬o¬mais¬distante¬de¬1¬para¬
+curvas¬lineares.¬
+(D)¬O¬ número¬ de¬ pontos¬ em¬ uma¬ curva¬ de¬ calibração¬
+depende¬da¬complexidade¬do¬experimento,¬da¬precisão¬
+necessária¬e¬do¬método¬analítico¬utilizado,¬mas¬na¬maioria¬
+dos¬ casos¬ três¬ pontos¬ são¬ suficientes¬ para¬ precisão¬ do¬
+método.¬¬
+(E)¬Garantem¬ que¬ todas¬ as¬ medições¬ feitas¬ no¬ laboratório¬
+sejam¬ exatas,¬ independentemente¬ de¬ interferências¬
+experimentais.¬#####¬
+{37} 
+Em¬ experimentos¬ laboratoriais,¬ a¬ utilização¬ de¬ controles¬
+positivos¬e¬negativos¬é¬fundamental¬para¬validar¬os¬resultados¬
+e¬ garantir¬ a¬ confiabilidade¬ dos¬ dados¬ obtidos.¬ Sobre¬ esses¬
+controles,¬assinale¬a¬alternativa¬correta.¬
+¬
+(A)¬Em¬ um¬ teste¬ para¬ avaliar¬ a¬ eficácia¬ de¬ um¬ antibiótico¬
+contra¬uma¬bactéria,¬o¬controle¬negativo¬corresponde¬ao¬
+emprego¬de¬antibiótico¬incapaz¬de¬inibir¬ou¬matar¬a¬cepa¬
+bacteriana.¬
+(B)¬O¬ controle¬ positivo¬ é¬ utilizado¬ para¬ detectar¬ falsos¬
+negativos,¬ enquanto¬ o¬ controle¬ negativo¬ detecta¬ falsos¬
+positivos.¬
+(C)¬O¬ controle¬ positivo¬ é¬ uma¬ amostra¬ que¬ deve¬ gerar¬ um¬
+resultado¬
+positivo,¬
+assegurando¬
+que¬
+falhas¬
+no¬
+procedimento¬ não¬ causem¬ resultados¬ negativos¬ nas¬
+amostras¬teste.¬¬
+(D)¬O¬ controle¬ negativo¬ é¬ opcional¬ em¬ experimentos¬
+laboratoriais,¬ pois¬ o¬ controle¬ positivo¬ é¬ suficiente¬ para¬
+validar¬os¬resultados.¬
+(E)¬Ambos¬ os¬ controles¬ servem¬ apenas¬ para¬ calibração¬ de¬
+equipamentos,¬não¬sendo¬essenciais¬para¬a¬interpretação¬
+dos¬resultados¬experimentais.¬¬
+#####¬
+ 
+
+
+--- PAGE 10 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+{38} 
+Uma¬empresa¬precisa¬elaborar¬um¬relatório¬corporativo¬anual,¬
+para¬ apresentação¬ em¬ uma¬ reunião¬ estratégica,¬ que¬ será¬
+distribuído¬aos¬funcionários¬no¬formato¬digital.¬O¬relatório¬deve¬
+conter¬ os¬ seguintes¬ itens:¬ textos¬ explicativos,¬ tabelas¬ com¬
+cálculos¬ financeiros¬ e¬ gráficos¬ interativos¬ para¬ ilustrar¬ os¬
+dados.¬ Para¬ garantir¬ eficiência,¬ precisão¬ e¬ organização¬ no¬
+desenvolvimento¬ do¬ material¬ e,¬ lembrando¬ que¬ o¬ Microsoft¬
+Word,¬ Excel¬ e¬ PowerPoint,¬ presentes¬ no¬ Office¬ 365,¬ foram¬
+desenvolvidos¬ para¬ atender¬ a¬ necessidades¬ específicas,¬
+assinale¬a¬alternativa¬que¬representa¬o¬melhor¬uso¬combinado¬
+das¬ferramentas¬Word,¬Excel¬e¬PowerPoint¬no¬Office¬365.¬
+¬
+(A)¬Criar¬todo¬o¬relatório¬no¬PowerPoint,¬pois¬ele¬permite¬inserir¬
+textos,¬tabelas¬e¬gráficos,¬substituindo¬a¬necessidade¬do¬
+Word¬e¬Excel.¬
+(B)¬Criar¬o¬relatório¬principal¬no¬Excel¬para¬detalhamento¬do¬
+conteúdo,¬ utilizar¬ o¬ Power¬ Point¬ para¬ gerar¬ tabelas¬
+dinâmicas¬e¬gráficos¬vinculados¬e,¬por¬fim,¬importar¬esses¬
+elementos¬para¬o¬Word¬para¬apresentação¬visual.¬
+(C)¬Criar¬o¬relatório¬no¬Word¬e¬capturar¬imagens¬dos¬gráficos¬
+e¬tabelas¬do¬Excel,¬colando-as¬no¬PowerPoint¬sem¬vínculo¬
+dinâmico.¬
+(D)¬Utilizar¬o¬Excel¬para¬gerar¬gráficos¬e¬exportar¬a¬planilha¬
+inteira¬para¬Word¬e¬PowerPoint¬sem¬edição¬posterior.¬
+(E)¬Criar¬o¬relatório¬principal¬no¬Word¬para¬detalhamento¬do¬
+conteúdo,¬utilizar¬o¬Excel¬para¬gerar¬tabelas¬dinâmicas¬e¬
+gráficos¬vinculados¬e,¬por¬fim,¬importar¬esses¬elementos¬
+para¬o¬PowerPoint¬para¬apresentação¬visual.¬
+#####
+ 
+{39} 
+A¬ferramenta¬destacada,¬em¬vermelho,¬na¬imagem¬a¬seguir,¬
+pertence¬à¬guia¬'Página¬Inicial'¬do¬Microsoft¬Word¬365:¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Essa¬ferramenta¬é¬utilizada¬para¬facilitar¬a¬edição¬de¬textos.¬
+Com¬base¬em¬suas¬funcionalidades,¬assinale¬a¬alternativa¬que¬
+descreve¬a¬função¬dessa¬ferramenta.¬
+¬
+(A)¬Corrigir¬automaticamente¬erros¬ortográficos¬e¬gramaticais.¬
+(B)¬Traduzir¬o¬texto¬selecionado¬para¬outro¬idioma.¬¬
+(C)¬Converter¬ um¬ texto¬ em¬ título,¬ subtítulo¬ ou¬ citação¬
+automaticamente.¬¬
+(D)¬Copiar¬a¬formatação¬de¬um¬trecho¬de¬texto¬e¬aplicá-la¬a¬
+outro.¬
+(E)¬Remover¬ a¬ formatação¬ do¬ texto,¬ deixando-o¬ em¬ estilo¬
+padrão.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+{40} 
+Um¬usuário¬do¬Microsoft¬Excel¬365¬está¬criando¬uma¬planilha¬
+com¬o¬nome¬de¬1.000¬(mil)¬alunos¬de¬um¬colégio,¬e¬deseja¬
+gerar¬um¬número¬de¬identificação¬sequencial¬para¬cada¬aluno,¬
+iniciando¬no¬número¬1(um),¬conforme¬exemplifica¬a¬imagem¬a¬
+seguir:¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Ao¬ invés¬ de¬ digitar¬ manualmente¬ cada¬ número¬ de¬
+identificação¬ (1,2,3,4¬ .......1.000),¬ o¬ usuário¬ pode¬ utilizar¬ um¬
+recurso¬ do¬ Excel¬ que¬ permite¬ preencher¬ automaticamente¬
+essa¬sequência¬de¬forma¬rápida¬e¬eficiente.¬¬
+¬
+Considerando¬que¬o¬Excel¬365¬reconhece,¬automaticamente,¬
+algumas¬ sequências¬ comuns,¬ assinale¬ a¬ alternativa¬ que¬
+apresenta¬ a¬ melhor¬ forma¬ de¬ preencher¬ a¬ lista¬ de¬ meses¬
+automaticamente.¬
+¬
+¬
+(A)¬Digitar¬"1"¬na¬célula¬A2¬→¬Pressionar¬"Ctrl¬+¬Enter"¬para¬
+preencher¬automaticamente¬até¬a¬linha¬1.001.¬
+(B)¬Digitar¬ "1"¬ na¬ célula¬ A2¬ →¬ Acessar¬ a¬ guia¬ "Inserir"¬ →¬
+Escolher¬"Preenchimento¬Automático¬de¬Sequência".¬
+(C)¬Digitar¬"1"¬na¬célula¬A2¬e¬"2"¬na¬célula¬A3¬→¬Selecionar¬
+ambas¬ →¬ Arrastar¬ a¬ alça¬ de¬ preenchimento¬ até¬ a¬ linha¬
+1.001.¬
+(D)¬Digitar¬ "1"¬ na¬ célula¬ A2¬ →¬ Acessar¬ a¬ guia¬ "Exibição"¬ →¬
+Ativar¬"Sequência¬Numérica¬Automática".¬
+(E)¬Digitar¬"1"¬na¬célula¬A2¬→¬Pressionar¬"Ctrl¬+¬Shift¬+¬Seta¬
+para¬ baixo"¬ para¬ preencher¬ a¬ sequência¬ até¬ 1.001¬
+automaticamente.¬
+#####¬
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+{41} 
+Leia¬o¬texto¬a¬seguir:¬
+¬
+“Costumava-se¬ imaginar¬ o¬ átomo¬ como¬ um¬ minúsculo¬
+sistema¬planetário,¬no¬qual¬o¬núcleo¬faz¬o¬papel¬da¬estrela¬e¬
+os¬elétrons¬representam¬os¬planetas.¬Nessa¬figura¬–¬agora¬se¬
+sabe,¬ ingênua¬ –¬ todo¬ o¬ dinamismo¬ caberia¬ aos¬ elétrons,¬
+enquanto¬o¬núcleo¬seria¬uma¬ilha¬de¬tranquilidade,¬habitada¬
+por¬ prótons¬ e¬ nêutrons¬ imóveis¬ como¬ se¬ colados¬ uns¬ aos¬
+outros.¬A¬realidade¬não¬poderia¬ser¬mais¬diferente.¬
+O¬ núcleo¬ é,¬ na¬ verdade,¬ uma¬ estrutura¬ extremamente¬
+turbulenta,¬ cujas¬ partículas¬ se¬ movem¬ e¬ interagem¬ sem¬
+cessar.”¬
+¬
+José¬Tadeu¬Arantes,¬Revista¬Pesquisa¬Fapesp,¬2001.¬¬
+¬
+Dentre¬os¬modelos¬atômicos¬mais¬conhecidos,¬o¬mais¬antigo¬
+a¬apresentar¬descrição¬do¬átomo¬compatível¬com¬o¬texto¬foi¬o¬
+proposto¬por¬
+¬
+(A)¬Demócrito.¬
+(B)¬Dalton.¬
+(C)¬Thomson.¬
+(D)¬Rutherford.¬
+(E)¬Bohr.¬
+##### 
+¬
+{42} 
+Fosfatidiletanol¬(PEth)¬é¬uma¬biomolécula¬formada¬no¬corpo¬
+humano¬ pera¬ reação¬ entre¬ etanol¬ ingerido¬ e¬ fosfatidilcolina¬
+presente¬no¬organismo,¬sendo¬um¬bioindicador¬de¬consumo¬
+de¬ bebidas¬ alcoólicas¬ mesmo¬ alguns¬ dias¬ após¬ esse¬
+consumo.¬¬
+¬
+A¬ avaliação¬ do¬ teor¬ de¬ PEth,¬ após¬ 3¬ dias¬ do¬ consumo¬ de¬
+álcool,¬ é¬ utilizado¬ por¬ alguns¬ estudos¬ para¬ classificar¬ a¬
+condição¬ dos¬ indivíduos¬ quanto¬ ao¬ consumo¬ de¬ bebidas¬
+alcoólicas,¬conforme¬tabela¬a¬seguir:¬
+¬
+Teor de PEth no sangue 
+Condição do indivíduo 
+<¬11¬ng.ml-1¬
+Abstemia¬
+entre¬11¬ng.ml-1¬e¬¬
+111¬ng.ml-1¬
+Consumo¬moderado¬
+>¬111¬ng.ml-1¬
+Consumo¬excessivo¬
+¬
+O¬protocolo¬para¬determinação¬desse¬composto¬no¬sangue¬
+por¬cromatografia¬usa¬de¬uma¬alíquota¬de¬200¬μL¬de¬sangue¬
+humano¬ ao¬ qual¬ se¬ adiciona¬ 1,0¬ mL¬ de¬ solvente¬ orgânico,¬
+resultando¬numa¬solução¬final¬diluída¬X¬vezes¬em¬relação¬à¬
+amostra¬original¬¬
+¬
+Considerando¬ que,¬ para¬ determinado¬ indivíduo,¬ a¬ solução¬
+final¬ foi¬ quantificada¬ como¬ tendo¬ 25¬ ng.ml-1¬ de¬ PEth,¬ a¬
+alternativa¬ que¬ indica¬ adequadamente¬ o¬ valor¬ de¬ X¬ e¬ a¬
+condição¬do¬indivíduo¬é:¬¬
+¬
+(A)¬4;¬Consumo¬excessivo.¬
+(B)¬5;¬Abstemia.¬
+(C)¬5;¬Consumo¬moderado.¬
+(D)¬6;¬Consumo¬moderado.¬
+(E)¬6;¬Consumo¬excessivo.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+{43} 
+A¬
+molécula¬
+de¬
+perfluorodecalina,¬
+mostrada¬ na¬ figura,¬ tem¬ capacidade¬
+muito¬maior¬do¬que¬a¬água¬de¬dissolver¬
+gases¬como¬O2¬e¬CO2,¬sendo¬usado¬em¬
+formulações¬conhecidas¬como¬“sangue¬
+artificial”.¬
+¬
+Esse¬fenômeno¬pode¬ser¬explicado¬por:¬
+¬
+Estrutura¬da¬
+Perfluorodecalina¬
+“No¬ sistema¬ água¬ -¬ gases,¬ antes¬ da¬ dissolução,¬ as¬
+moléculas¬de¬solvente¬interagem¬através¬de¬(I),¬consideradas¬
+interações¬fortes;¬após¬a¬dissolução,¬as¬moléculas¬de¬soluto¬
+interagem¬ com¬ as¬ moléculas¬ de¬ solvente¬ através¬ de¬
+interações¬do¬tipo¬(II)¬sendo¬um¬processo¬pouco¬favorecido.¬
+No¬sistema¬perfluorodecalina¬-¬gases,¬antes¬da¬dissolução,¬as¬
+moléculas¬ do¬ solvente¬ interagem¬ por¬ meio¬ de¬ (III);¬ após¬ a¬
+dissolução,¬ as¬ interações¬ soluto-solvente¬ também¬ são¬
+interações¬dispersivas,¬o¬que¬não¬gera¬uma¬variação¬grande¬
+de¬energia¬nas¬interações¬durante¬o¬processo¬de¬dissolução.¬
+Desse¬modo,¬a¬solubilidade¬no¬sistema¬com¬perfluorodecalina¬
+é¬maior¬se¬comparada¬ao¬da¬água.”¬
+¬
+M.M.¬Junqueira¬e¬F.A.¬Maximiano,¬Quim.¬Nova,¬Vol.¬43,¬No.¬1,¬106-117,¬
+2020.¬ADAPTADO.¬
+¬
+Os¬itens (I),¬(II)¬e¬(III),¬respectivamente,¬se¬referem¬a:¬
+¬
+(A)¬dipolo-dipolo;¬interações¬de¬London;¬íon-dipolo¬
+(B)¬dipolo-dipolo;¬ ligações¬ de¬ hidrogênio;¬ interações¬ de¬
+London.¬
+(C)¬ligações¬de¬hidrogênio;¬íon-dipolo;¬dipolo-dipolo¬induzido.¬
+(D)¬ligações¬de¬hidrogênio;¬dipolo-dipolo;¬íon-dipolo.¬
+(E)¬ligações¬de¬hidrogênio;¬dipolo-dipolo¬induzido;¬interações¬
+de¬London.¬
+##### 
+¬
+{44} 
+Observe¬ a¬ estrutura¬ dos¬ 5¬ ácidos¬ graxos,¬ pertencentes¬ à¬
+categoria¬dos¬endocanabinóides.¬
+¬
+¬
+¬
+Isômeros¬estruturais¬são¬moléculas¬com¬diferentes¬fórmulas¬
+estruturais,¬ mas¬ mesma¬ fórmula¬ molecular.¬ Nesse¬ contexto,¬
+sobre¬o¬número¬de¬isômeros¬entre¬os¬5¬compostos,¬é¬correto¬
+afirmar¬que:¬
+¬
+(A)¬não¬há¬isômeros.¬
+(B)¬2¬moléculas¬são¬consideradas¬isômeros¬estruturais.¬
+(C)¬3¬moléculas¬são¬consideradas¬isômeros¬estruturais.¬
+(D)¬4¬moléculas¬são¬consideradas¬isômeros¬estruturais.¬
+(E)¬5¬moléculas¬são¬consideradas¬isômeros¬estruturais.¬
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 12 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+{45} 
+O¬gráfico¬mostra¬a¬concentração¬das¬espécies¬ao¬longo¬do¬
+tempo,¬ em¬ uma¬ reação¬ entre¬ íons¬ cério¬ e¬ iodo,¬ em¬ que¬ as¬
+setas¬representam¬a¬direção¬de¬crescimento¬da¬grandeza¬de¬
+cada¬eixo¬a¬partir¬do¬ponto¬zero.¬
+¬
+¬
+No¬tempo¬testudo,¬a¬equação¬química¬balanceada¬associada¬a¬
+essa¬reação¬pode¬ser¬corretamente¬descrita¬como:¬
+¬
+(A) 𝐶𝑒ଷାሺ𝑎𝑞ሻ+ 𝐼ଷ
+ିሺ𝑎𝑞ሻ⇌𝐶𝑒ସାሺ𝑎𝑞ሻ+ 3𝐼ିሺ𝑎𝑞ሻ¬
+¬
+(B)¬2 𝐶𝑒ଷାሺ𝑎𝑞ሻ+ 2𝐼ଷ
+ିሺ𝑎𝑞ሻ→2𝐶𝑒ସାሺ𝑎𝑞ሻ+ 3𝐼ିሺ𝑎𝑞ሻ¬
+¬
+(C) 𝐶𝑒ସାሺ𝑎𝑞ሻ+ 𝐼ିሺ𝑎𝑞ሻ⇌ 𝐶𝑒ଷାሺ𝑎𝑞ሻ+ 𝐼ଷ
+ିሺ𝑎𝑞ሻ 
+¬
+(D) 2𝐶𝑒ସାሺ𝑎𝑞ሻ+ 3𝐼ିሺ𝑎𝑞ሻ⇌2 𝐶𝑒ଷାሺ𝑎𝑞ሻ+ 𝐼ଷ
+ିሺ𝑎𝑞ሻ 
+¬
+(E) 3𝐶𝑒ସାሺ𝑎𝑞ሻ+ 3𝐼ିሺ𝑎𝑞ሻ⟶3 𝐶𝑒ଷାሺ𝑎𝑞ሻ+ 𝐼ଷ
+ିሺ𝑎𝑞ሻ¬
+##### 
+¬
+{46} 
+O¬composto¬Ba3Mn2O8,¬em¬determinada¬condição¬de¬síntese,¬
+dá¬ origem¬ ao¬ composto¬ Ba3Mn3O10-X,¬ em¬ que¬ o¬ valor¬ de¬ X¬
+depende¬
+das¬
+condições¬
+experimentais.¬
+A¬
+equação¬
+balanceada¬é¬mostrada¬a¬seguir:¬
+¬
+1 𝐵𝑎ଷ𝑀𝑛ଶ𝑂଼ሺ𝑠ሻ+ 1 𝑀𝑛𝑂ଶሺ𝑠ሻ
+∆,   ௔௥
+ሱ⎯⎯ሮ1 𝐵𝑎ଷ𝑀𝑛ଷ𝑂ଵ଴ି௑ሺ𝑠ሻ
++ 𝑋
+2 𝑂ଶሺ𝑔ሻ¬
+¬
+Em¬determinada¬condição¬experimental,¬6,5¬g¬de¬Ba3Mn2O8¬
+(MM¬ =¬ 650¬ g.mol-1)¬ reagiu¬ com¬ 0,87¬ g¬ de¬ MnO2¬ (MM¬ =¬
+87g.mol-1)¬formando¬7,21¬g¬de¬Ba3Mn3O10-X.¬Nesta¬condição,¬
+X¬é¬igual¬a¬¬
+¬
+(A)¬0¬
+(B)¬1¬
+(C)¬2¬
+(D)¬3¬
+(E)¬4¬
+¬
+Note¬e¬adote:¬¬
+MM(O)¬=¬16,0¬g.mol-1¬
+MM(Mn)¬=¬55,0¬g.mol-1¬
+MM(Ba)¬=¬137,33¬g.mol-1¬
+##### 
+{47} 
+O¬prefixo¬nor-,¬em¬química¬orgânica,¬é¬usado¬para¬denotar¬a¬
+supressão¬ de¬ um¬ grupo¬ químico¬ em¬ específico¬ em¬
+determinadas¬moléculas,¬como¬exemplificado¬nas¬estruturas¬
+mostradas¬abaixo.¬
+¬
+¬
+Ácido¬opiânico¬
+¬
+ácido¬noropiânico¬
+¬
+¬
+Adrenalina¬
+¬
+Seguindo¬essa¬mesma¬lógica,¬dada¬a¬estrutura¬da¬adrenalina,¬
+a¬estrutura¬da¬noradrenalina¬é¬dada¬por:¬
+¬
+(A)¬
+¬
+(B)¬
+¬
+(C)¬
+¬
+(D)¬
+¬
+(E)¬
+¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+testudo¬
+
+
+--- PAGE 13 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+{48} 
+Um¬experimento¬mediu¬a¬constante¬de¬velocidade¬da¬hidrólise¬
+do¬ composto¬ p-cloro-benzilideno-1,1-dimetiletilamina¬ em¬
+água¬em¬diferentes¬pH.¬O¬resultado¬é¬mostrado¬no¬gráfico.¬
+¬
+¬
+Com¬base¬nesses¬dados,¬é¬correto¬afirmar¬que¬a¬constante¬de¬
+velocidade¬da¬hidrólise¬apresenta¬¬
+¬
+(A)¬seus¬maiores¬valores¬na¬região¬em¬que¬[H+]¬é¬próxima¬de¬
+[OH-].¬
+(B)¬seus¬maiores¬valores¬com¬[OH-]¬entre¬0,1¬e¬0,01¬mol.L-1¬ou¬
+com¬[H+]¬entre¬0,1¬e¬0,01¬mol.L-1.¬
+(C)¬valores¬ semelhantes¬ em¬ qualquer¬ meio¬ com¬ [H+]¬ entre¬
+0,01¬e¬0,0001¬mol.L-1.¬
+(D)¬seus¬menores¬valores¬em¬concentrações¬do¬[OH-]¬entre¬
+0,001¬e¬0,00001¬mol.L-1.¬¬
+(E)¬seus¬ menores¬ valores¬ quando¬ [H+]¬ é¬ aproximadamente¬
+igual¬à¬[OH-].¬
+##### 
+¬
+{49} 
+A¬fluoração¬da¬dimetilsulfona¬[(CH3)2SO2],¬a¬20¬oC,¬tem¬como¬
+produto¬ a¬ mistura¬ de¬ três¬ compostos¬ gasosos:¬ (CF3)2SO2,¬
+CF3SO2F¬e¬SO2F2.¬Para¬testar¬a¬separação¬dos¬componentes¬
+desse¬produto,¬um¬experimento¬circulou¬a¬mistura¬gasosa¬em¬
+3¬frascos¬refrigerados,¬na¬ordem¬descrita¬a¬seguir¬(do¬1o¬ao¬
+3o),¬e¬os¬compostos¬obtidos¬em¬cada¬frasco¬são¬descritos¬na¬
+tabela:¬
+¬
+Ordem do 
+Frasco 
+Temp. (oC) 
+Composto(s) obtido(s) 
+1o¬
+-¬95¬oC¬
+-¬
+2o¬
+-¬126¬oC¬
+(CF3)2SO2¬+¬CF3SO2F¬
+3o¬
+-¬196¬oC¬
+SO2F2¬
+¬
+Com¬base¬nesses¬dados,¬uma¬forma¬de¬isolar¬o¬SO2F2¬dos¬
+demais¬ compostos,¬ a¬ partir¬ da¬ mistura¬ à¬ temperatura¬
+ambiente,¬é¬resfriar¬a¬mistura¬do¬produto¬até¬
+¬
+(A)¬-95¬oC¬ e¬ aquecer¬ até¬ 20¬oC,¬ de¬ forma¬ que¬ somente¬ o¬
+composto¬de¬interesse¬isolado¬irá¬evaporar.¬
+(B)¬-95¬oC¬e¬aquecer¬até¬20¬oC,¬de¬forma¬que¬o¬composto¬de¬
+interesse¬restará¬no¬frasco.¬
+(C)¬-126¬oC¬e¬aquecer¬até¬-95¬oC,¬de¬forma¬que¬o¬composto¬de¬
+interesse¬restará¬no¬frasco.¬
+(D)¬-196¬oC¬e¬aquecer¬até¬-126¬oC,¬de¬forma¬que¬somente¬o¬
+composto¬de¬interesse¬isolado¬irá¬evaporar.¬
+(E)¬-196¬oC¬e¬aquecer¬até¬-126¬oC,¬de¬forma¬que¬o¬composto¬
+de¬interesse¬restará¬no¬frasco.¬
+##### 
+ 
+ 
+{50} 
+Heyerdahlita¬é¬um¬mineral¬descrito¬pela¬primeira¬vez¬em¬2018¬
+em¬ um¬ depósito¬ na¬ Noruega,¬ com¬ fórmula¬ estrutural¬
+Na3Mn7Ti2(Si4O12)2O2(OH)4F(H2O)2.¬
+¬
+O¬elemento¬químico¬que¬compõe¬a¬maior¬massa¬molar¬desse¬
+mineral¬é¬o¬¬
+¬
+(A)¬Manganês¬(Mn)¬
+(B)¬Sódio¬(Na)¬
+(C)¬Oxigênio¬(O)¬
+(D)¬Silício¬(Si)¬
+(E)¬Titânio¬(Ti)¬
+¬
+Note¬e¬adote:¬¬
+MM¬(Mn)¬=¬55¬g.mol-1¬
+MM¬(Na)¬=¬23¬g.mol-1¬
+MM¬(O)¬=¬16¬g.mol-1¬
+MM¬(Si)¬=¬28¬g.mol-1¬
+MM¬(Ti)¬=¬47¬g.mol-1¬
+##### 
+¬
+{51} 
+Essa empresa nos EUA é especializada na clonagem de 
+cachorros — e gera polêmica 
+¬
+Segundo¬a¬revista¬New¬Yorker,¬desde¬2005,¬mais¬de¬
+dois¬mil¬cães¬foram¬clonados¬com¬sucesso.¬Biologicamente,¬
+sua¬genética¬não¬é¬tão¬diferente¬de¬vacas¬ou¬ovelhas,¬mas¬em¬
+aspectos¬a¬clonagem¬de¬animais¬de¬estimação¬é¬muito¬mais¬
+simbólica.¬ Afinal,¬ o¬cão¬ doméstico¬ é¬ visto¬ pela¬ maioria¬ dos¬
+donos¬ quase¬ como¬ um¬ indivíduo,¬ com¬ personalidade¬ e¬
+peculiaridades.¬
+Nos¬ EUA,¬ a¬ empresa¬ que¬ tem¬ essa¬ tecnologia¬
+patenteada¬é¬a¬ViaGen.¬O¬site¬da¬empresa¬informa¬que¬um¬cão¬
+clonado¬ “é¬ simplesmente¬ um¬ gêmeo¬ genético¬ do¬ seu¬ cão,¬
+nascido¬posteriormente”.¬
+A¬afirmação¬desperta¬debates.¬Muitos¬enxergam¬isso¬
+como¬um¬discurso¬de¬vendas¬que¬explora¬donos¬de¬cães¬em¬
+luto¬ que¬ não¬ querem¬ ficar¬ sem¬ seu¬ melhor¬ companheiro.¬
+Temos¬ um¬ caso¬ famoso¬ disso,¬ inclusive:¬ do¬ presidente¬ da¬
+Argentina,¬Javier¬Milei.¬
+Segundo¬ "Loco",¬ a¬ biografia¬ não¬ autorizada¬ de¬ Milei¬
+(2023),¬ do¬ jornalista¬ Juan¬ Luis¬ González,¬ o¬presidente¬ não¬
+aceita¬a¬morte¬de¬seu¬mastim¬inglês¬Conan¬e¬se¬refere¬a¬ele¬
+como¬um¬de¬seus¬"cinco"¬cachorros,¬que¬costuma¬chamar¬de¬
+filhos.¬Seus¬outros¬quatro¬cães¬são¬clones¬de¬Conan¬que¬Milei¬
+mandou¬fazer¬nos¬Estados¬Unidos,¬na¬ViaGen.¬
+¬
+https://exame.com/negocios/essa-empresa-nos-eua-e-especializada-na-
+clonagem-de-cachorros-e-gera-polemica/¬
+¬
+Não¬é¬possível¬garantir¬que¬todas¬as¬características¬do¬animal¬
+original¬estejam¬presentes¬no¬animal¬clone¬por¬que¬
+¬
+(A)¬o¬ clone¬ restaura¬ todas¬ as¬ mutações¬ gênicas¬ que¬
+aconteceram¬no¬decorrer¬da¬vida¬do¬animal¬original.¬
+(B)¬a¬barriga¬de¬aluguel¬contribui¬com¬genes¬para¬a¬formação¬
+do¬clone.¬
+(C)¬o¬óvulo¬doado¬possui¬mitocôndrias¬que¬contribuem¬com¬a¬
+genética¬do¬clone.¬
+(D)¬o¬processo¬de¬clonagem¬utiliza¬apenas¬parte¬do¬genoma¬
+nuclear¬de¬uma¬célula¬somática¬do¬animal¬original.¬
+(E)¬a¬célula¬original¬para¬a¬clonagem¬é¬um¬gameta¬que¬possui¬
+metade¬dos¬cromossomos¬necessários¬para¬a¬clonagem.¬¬
+##### 
+ 
+
+
+--- PAGE 14 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+{52} 
+Um¬paciente¬felino¬sem¬raça¬definida,¬macho,¬de¬cinco¬meses¬
+de¬ idade¬ foi¬ atendido¬ apresentando¬ sinais¬ progressivos¬ de¬
+ataxia¬cerebelar¬e¬tremor¬de¬intenção.¬O¬paciente¬havia¬sido¬
+adotado¬três¬meses¬antes¬e¬na¬ocasião¬já¬apresentava¬um¬leve¬
+tremor¬de¬cabeça.¬Não¬havia¬informações¬sobre¬os¬pais¬ou¬
+irmãos¬de¬ninhada.¬Realizou-se¬a¬investigação¬para¬doenças¬
+inflamatórias/infecciosas¬ através¬ de¬ exames¬ de¬ sangue¬ e¬
+análise¬ do¬ líquido¬ cerebroespinhal,¬ porém¬ nenhuma¬ causa¬
+pôde¬ ser¬ identificada.¬ Após¬ quase¬ dois¬ meses¬ desde¬ o¬
+atendimento¬ inicial,¬ a¬ despeito¬ do¬ tratamento,¬ o¬ paciente¬
+continuava¬ a¬ apresentar¬ sinais¬ neurológicos¬ progressivos,¬
+incluindo¬ ataxia¬ cerebelar¬ e¬ proprioceptiva,¬ tremor¬ de¬
+intenção,¬ tendência¬ a¬ cair,¬ resposta¬ à¬ ameaça¬ ausente¬
+bilateralmente,¬reflexo¬oculocefálico¬ausente¬bilateralmente¬e¬
+déficits¬ proprioceptivos¬ nos¬ quatro¬ membros,¬ sendo¬ então¬
+eutanasiado.¬O¬exame¬post¬mortem¬foi¬realizado,¬revelando¬
+tumefação¬neuronal¬com¬intensa¬vacuolização¬citoplasmática¬
+e¬ moderada¬ formação¬ de¬ esferoides¬ axonais.¬ Também¬ foi¬
+observada¬vacuolização¬citoplasmática¬em¬células¬dos¬rins¬e¬
+do¬fígado.¬Tais¬achados¬justificam¬o¬quadro¬neurológico¬do¬
+paciente,¬sendo¬compatíveis¬com¬doenças¬de¬acúmulo¬-¬um¬
+grupo¬de¬doenças¬degenerativas¬raras,¬de¬causa¬genética,¬
+caracterizadas¬ por¬ deficiências¬ enzimáticas¬ que¬ geram¬
+acúmulo¬ de¬ substrato¬ não¬ digerido¬ dentro¬ das¬ células,¬ e¬
+consequente¬ morte¬ celular.¬ A¬ organela¬ com¬ função¬
+prejudicada¬na¬condição¬relatada¬é¬o¬
+¬
+(A)¬núcleo.¬
+(B)¬complexo¬de¬Golgi.¬
+(C)¬retículo¬endoplasmático.¬
+(D)¬lisossomo.¬
+(E)¬citoesqueleto.¬
+##### 
+¬
+{53} 
+A¬genética¬forense¬é¬a¬área¬da¬biologia¬forense¬que¬analisa¬
+vestígios¬e¬utiliza¬preceitos¬da¬hereditariedade¬e¬de¬técnicas¬
+da¬biologia¬molecular¬com¬a¬finalidade¬de¬buscar,¬por¬meio¬da¬
+comparação¬ das¬ amostras¬ questionadas¬ e¬ conhecidas,¬ a¬
+compatibilidade¬e¬o¬possível¬vínculo¬de¬parentesco¬genético¬
+existente.¬Uma¬amostra¬de¬sangue¬foi¬retirada¬de¬uma¬cena¬
+de¬crime,¬onde¬investiga-se¬o¬sexo¬biológico¬da¬vítima¬e¬sua¬
+relação¬com¬uma¬possível¬mãe.¬Para¬os¬testes¬genéticos,¬é¬
+interessante¬verificar,¬respectivamente,¬a¬
+¬
+(A)¬sequência¬de¬genes¬do¬cromossomo¬X¬e¬do¬cromossomo¬
+Y.¬
+(B)¬presença¬ de¬ genes¬ do¬ cromossomo¬ Y¬ e¬ também¬ de¬
+cromossomos¬autossômicos.¬
+(C)¬presença¬de¬DNA¬gênomico¬e¬mitocondrial.¬
+(D)¬presença¬de¬apenas¬um¬cromossomo¬X¬e¬um¬cromossomo¬
+Y.¬
+(E)¬sequência¬
+de¬
+genes¬
+dos¬
+mitocondriais¬
+e¬
+dos¬
+cromossomos¬sexuais.¬
+##### 
+¬
+{54} 
+Células¬ eucarióticas¬ e¬ procarióticas¬ possuem¬ componentes¬
+semelhantes,¬presentes¬nas¬duas¬classes¬celulares¬tais¬como¬
+¬
+(A)¬carioteca.¬
+(B)¬mitocôndrias.¬
+(C)¬plasmídeos.¬
+(D)¬ribossomos.¬
+(E)¬lisossomos.¬#####¬
+{55} 
+Transgênicos na lupa 
+¬
+Entre¬ 1998¬ e¬ 2019,¬ a¬ CTNBio¬ aprovou¬ 152¬ produtos¬
+geneticamente¬modificados¬no¬Brasil,¬sendo¬a¬agricultura¬um¬
+dos¬
+segmentos¬
+da¬
+economia¬
+mais¬
+beneficiados.¬
+É¬
+praticamente¬impossível¬para¬um¬brasileiro¬não¬consumir¬ao¬
+menos¬algum¬derivado¬de¬planta¬geneticamente¬modificada¬
+todos¬os¬dias.¬
+A¬ visão¬ de¬ que¬ é¬ possível¬ utilizar¬ transgênicos¬ com¬
+segurança¬ é¬ compartilhada¬ pela¬ maioria¬ dos¬ membros¬ da¬
+CTNBio,¬ mas¬ a¬ questão¬ não¬ está¬ pacificada,¬ apesar¬ do¬
+consumo¬desses¬alimentos¬não¬ter¬causado¬nenhum¬malefício¬
+à¬saúde¬nesses¬25¬anos.¬¬
+Quando¬se¬transfere¬um¬gene¬para¬outro¬organismo,¬isso¬
+pode¬ afetar¬ outras¬ expressões¬ além¬ das¬ características¬
+pretendidas¬ e¬ ter¬ consequências¬ de¬ longo¬ prazo,¬ que¬
+precisam¬ser¬monitoradas.¬
+Ao¬ contrário¬ do¬ que¬ se¬ prometia,¬ os¬ transgênicos¬ não¬
+reduziram¬o¬uso¬de¬agroquímicos¬na¬agricultura,¬ao¬contrário¬
+hoje¬há¬plantas¬transgênicas¬resistentes¬a¬vários¬herbicidas¬e¬
+o¬lançamento¬no¬solo¬de¬misturas¬tóxicas¬sobre¬as¬quais¬há¬
+pouca¬informação.¬
+O¬uso¬de¬transgênicos¬pode¬produzir¬impactos¬que¬ainda¬
+não¬são¬mensurados.¬Por¬exemplo,¬a¬presença¬de¬um¬gene¬
+inseticida¬ que¬ mata¬ lagartas¬ em¬ um¬ cultivar¬ de¬ milhões¬ de¬
+hectares,¬leva¬à¬morte¬as¬lagartas¬e¬seus¬predadores,¬após¬
+um¬período¬as¬lagartas¬podem¬adquirir¬resistência¬e¬encontrar¬
+um¬ambiente¬com¬poucos¬predadores.¬¬
+Economicamente,¬ para¬ pequenos¬ produtores,¬ comprar¬
+sementes¬transgênicas¬impõe¬um¬custo¬adicional¬que¬não¬é¬
+compensado¬por¬um¬aumento¬de¬rendimento.¬¬
+Entretanto,¬uma¬das¬atribuições¬da¬CTNBio¬é¬acompanhar¬
+a¬evolução¬das¬tecnologias¬e¬propor¬normas¬adequadas¬para¬
+novas¬realidades.¬¬
+¬
+Revista¬Pesquisa¬FAPESP.¬Ed.¬303.¬Maio/2021¬(adaptado).¬
+¬
+Segundo¬ o¬ texto,¬ a¬ introdução¬ de¬ plantas¬ geneticamente¬
+modificadas¬ na¬ agricultura¬ de¬ larga¬ escala¬ traz¬ debates¬
+importantes¬ sobre¬ a¬ segurança¬ dos¬ alimentos¬ e¬ impactos¬
+socioambientais¬como:¬
+¬
+(A)¬As¬ modificações¬ genéticas¬ das¬ plantas¬ podem¬ ser¬
+transferidas¬ para¬ os¬ animais¬ que¬ as¬ consomem,¬
+produzindo¬
+animais¬
+transgênicos¬
+potencialmente¬
+perigosos¬para¬a¬alimentação¬humana.¬
+(B)¬Plantas¬ geneticamente¬ modificadas¬ são¬ seguras¬ para¬ a¬
+alimentação¬
+humana,¬
+mas¬
+impactam¬
+a¬
+economia¬
+especialmente¬da¬agricultura¬familiar.¬
+(C)¬Empresas¬que¬desenvolvem¬as¬sementes¬geneticamente¬
+modificadas¬garantem¬o¬aumento¬da¬qualidade¬nutricional¬
+e¬a¬ausência¬de¬impacto¬ambiental¬de¬seus¬produtos.¬
+(D)¬A¬cadeia¬alimentar¬nas¬grandes¬fazendas¬produtoras¬de¬
+alimentos¬transgênicos¬permanece¬em¬equilíbrio,¬uma¬vez¬
+que¬ as¬ modificações¬ genéticas¬ visam¬ ao¬ aumento¬ da¬
+qualidade¬nutricional¬das¬plantas.¬
+(E)¬Os¬agricultores¬ficam¬reféns¬das¬empresas¬produtoras¬
+das¬sementes¬geneticamente¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 15 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+Texto para as questões de 56 a 57 
+A¬fibrose¬cística¬é¬uma¬doença¬genética¬com¬herança¬
+autossômica¬recessiva¬que¬compromete¬a¬qualidade¬de¬vida¬
+dos¬pacientes¬que¬apresentam¬espessamento¬do¬muco¬das¬
+vias¬aéreas¬pela¬redução¬de¬trocas¬de¬Cl-¬entre¬o¬meio¬externo¬
+e¬ interno¬ da¬ célula,¬ o¬ que¬ leva¬ ao¬ desenvolvimento¬ de¬
+pneumonias¬recorrentes.¬Dentre¬as¬mutações¬no¬gene¬CFTR,¬
+que¬ codifica¬ o¬ transportador¬ de¬ Cl-,¬ a¬ deleção¬ de¬ um¬
+nucleotídeo¬ (G)¬ representada¬ a¬ seguir¬ é¬ uma¬ das¬ que¬
+repercute¬em¬piores¬prognósticos¬da¬doença.¬¬
+¬
+¬
+Adaptado¬de:¬https://doi.org/10.1016/j.jcte.2024.100344¬
+{56} 
+A¬mutação¬representada¬faz¬com¬que¬
+¬
+(A)¬haja¬ ausência¬ da¬ proteína¬ funcional¬ pela¬ troca¬ dos¬
+aminoácidos¬ e¬ redução¬ do¬ tamanho¬ da¬ proteína¬
+produzida.¬
+(B)¬a¬proteína¬seja¬produzida¬com¬os¬mesmos¬aminoácidos,¬
+mas¬tamanho¬reduzido¬em¬relação¬à¬proteína¬selvagem.¬
+(C)¬a¬ proteína¬ produzida¬ seja¬ funcional,¬ porém¬ em¬ menor¬
+quantidade¬do¬que¬na¬situação¬em¬que¬a¬mutação¬não¬está¬
+presente.¬
+(D)¬os¬ mecanismos¬ de¬ reparo¬ do¬ DNA¬ sejam¬ ativados¬
+corrigindo-a¬e¬fazendo¬com¬que¬a¬proteínas¬seja¬expressa¬
+corretamente.¬
+(E)¬a¬sequência¬da¬proteína¬seja¬reduzida¬em¬um¬aminoácido,¬
+o¬que¬permite¬que¬a¬proteína¬mutante¬continue¬com¬função¬
+similar¬à¬proteína¬selvagem.¬
+##### 
+¬
+{57} 
+A¬ função¬ dos¬ transportadores¬ codificados¬ pelo¬ gene¬ CFTR¬
+inseridos¬ na¬ membrana¬ plasmática¬ é¬ retirar¬ o¬ Cl-¬ do¬ meio¬
+intracelular¬(círculos¬amarelos)¬conforme¬ilustrado¬a¬seguir:¬¬
+¬
+No¬ caso¬ de¬ haver¬ a¬ deleção¬ de¬ um¬ nucleotídeo,¬ nos¬ dois¬
+alelos¬do¬gene¬CFTR,¬conforme¬detalhado¬no¬texto,¬a¬célula¬
+passará¬a¬apresentar¬a¬seguinte¬configuração¬dos¬receptores¬
+de¬Cl-:¬
+¬
+(A)¬
+¬
+(B)¬
+¬
+(C)¬
+¬
+(D)¬
+¬
+(E)¬
+¬
+##### 
+
+
+--- PAGE 16 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+{58} 
+O¬heredograma¬que¬melhor¬representa¬o¬padrão¬de¬herança¬
+da¬fibrose¬cística¬é:¬
+¬
+(A)¬
+¬
+(B)¬
+¬
+(C)¬
+¬
+(D)¬
+¬
+(E)¬
+¬
+¬
+Note¬e¬adote:¬
+¬Homem¬não¬afetado¬
+¬Homem¬afetado¬
+¬Mulher¬não¬afetada¬
+¬Mulher¬afetada¬
+Casamento¬consanguíneo¬
+##### 
+¬
+{59} 
+Um¬experimento¬simples¬realizado¬nas¬aulas¬de¬ciências¬do¬
+ensino¬básico¬para¬extração¬do¬DNA¬é¬descrito¬a¬seguir:¬
+¬
+• Material: 
+-¬1¬saco¬plástico¬tipo¬ziploc;¬
+-¬1¬morango;¬
+-¬10¬mL¬de¬solução¬de¬extração¬de¬DNA¬(preparo¬a¬seguir);¬
+-¬1¬filtro¬de¬papel¬com¬funil;¬
+-¬Álcool¬etílico¬gelado¬(pode¬ser¬álcool¬70º¬g.l.);¬
+-¬1¬tubo¬de¬ensaio¬limpo;¬
+-¬1¬palito¬de¬madeira¬para¬manicure.¬
+• Solução de extração de DNA (suficiente para 100 grupos): 
+-¬50¬mL¬de¬detergente¬sem¬corantes;¬
+-¬15¬gramas¬de¬NaCl¬(sal¬de¬cozinha)¬=¬2¬colheres¬de¬chá;¬
+-¬900¬mL¬de¬água¬(H2O),¬de¬preferência¬mineral.¬
+¬
+• Método: 
+-¬Coloque¬um¬morango¬em¬um¬saco¬ziploc;¬
+-¬Esmague¬o¬morango¬com¬o¬punho¬por,¬no¬mínimo,¬2¬minutos;¬
+-¬Adicione¬a¬solução¬de¬extração¬ao¬conteúdo¬do¬saco;¬
+-¬Misture¬tudo,¬apertando¬com¬as¬mãos,¬por¬1¬minuto;¬
+-¬Derrame¬ o¬ extrato¬ no¬ aparato¬ filtrante¬ e¬ deixe¬ filtrar¬
+diretamente¬dentro¬do¬tubo;¬
+-¬Derrame¬devagar¬o¬álcool¬gelado¬no¬tubo,¬até¬que¬o¬encha¬
+até¬a¬metade;¬
+-¬Mergulhe¬o¬pau-de-laranjeira¬dentro¬do¬tubo¬no¬local¬onde¬a¬
+camada¬de¬álcool¬faz¬contato¬com¬a¬camada¬de¬extrato;¬
+-¬Mantenha¬ o¬ tubo¬ ao¬ nível¬ dos¬ olhos¬ para¬ ver¬ o¬ que¬ está¬
+acontecendo.¬
+¬
+Os¬componentes¬do¬protocolo¬que¬rompem¬a¬parede¬celular,¬
+a¬membrana¬plasmática¬e¬possibilitam¬a¬precipitação¬do¬DNA¬
+são,¬respectivamente,¬
+¬
+(A)¬maceração,¬detergente¬e¬álcool.¬
+(B)¬detergente,¬álcool¬e¬gravidade.¬
+(C)¬álcool,¬filtração¬e¬detergente.¬
+(D)¬maceração,¬detergente¬e¬filtração.¬
+(E)¬detergente,¬sal¬e¬álcool.¬
+##### 
+¬
+{60} 
+Observe¬a¬imagem¬a¬seguir:¬
+¬
+¬
+¬
+Adaptado¬de:¬https://www.genomebc.ca/education/glossary¬
+¬
+Classifique¬corretamente¬a¬estrutura¬1¬e¬os¬segmentos¬2¬e¬3¬
+destacados¬no¬esquema,¬respectivamente.¬
+¬
+(A)¬Exon,¬gene,¬DNA.¬
+(B)¬DNA,¬cromossomo,¬gene.¬
+(C)¬DNA,¬gene,¬cromossomo.¬
+(D)¬Gene,¬exon,¬DNA.¬
+(E)¬Cromossomo,¬DNA,¬gene.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 17 ---
+
+Concurso Edital RH nº 031/2025 – Técnico de Laboratório (especialidade: Bioquímica) 
+Questão dissertativa 
+A¬imagem¬a¬seguir¬representa¬uma¬cultura¬de¬células¬humanas¬aderentes¬contaminadas.¬
+¬
+¬
+¬
+Fonte:¬https://www.eppendorf.com¬
+¬
+A.¬A¬qual¬grande¬grupo¬de¬microorganismos¬pertence¬o¬contaminante¬desta¬cultura?¬
+B.¬Considerando¬que¬o¬meio¬de¬cultura¬possui¬fenol¬red,¬como¬deve¬estar¬a¬aparência¬a¬olho¬nu¬do¬meio¬de¬cultura¬quanto¬à¬
+transparência¬e¬coloração¬após¬3¬dias¬de¬início¬dessa¬contaminação,¬sem¬troca¬de¬meio?¬
+C.¬Quais¬os¬passos¬necessários¬para¬investigar¬a¬origem¬da¬contaminação¬e¬como¬prevenir¬novos¬incidentes¬como¬esse?¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Instruções:  
+• As¬respostas¬deverão¬ser¬redigidas¬de¬acordo¬com¬a¬norma¬padrão¬da¬língua¬portuguesa.¬¬
+• Escreva¬com¬letra¬legível¬e¬não¬ultrapasse¬o¬espaço¬de¬linhas¬disponíveis¬da¬folha¬de¬respostas.¬¬
+• Receberão¬nota¬zero¬textos¬que¬desrespeitarem¬os¬direitos¬humanos¬e¬textos¬que¬permitirem,¬por¬qualquer¬modo,¬a¬identificação¬do¬candidato(a).¬
+
+
+--- PAGE 18 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RASCUNHO 
+ 
+ 
+NÃO SERÁ 
+CONSIDERADO NA 
+CORREÇÃO 
+
+
+--- PAGE 19 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RASCUNHO 
+ 
+ 
+NÃO SERÁ 
+CONSIDERADO NA 
+CORREÇÃO 
+
+
+--- PAGE 20 ---
+
+V2 
+
+
+--- PAGE 21 ---
+
+ 
+ 
+                 
+ 
+ 
+Universidade de São Paulo 
+GABARITO – CONCURSOS DRH USP – ABRIL/2025 
+ 
+ 
+ 
+ 
+Técnico de Laboratório (especialidade: Bioquímica) – Edital RH Nº 031/2025 
+PROVA TLB 
+1 
+D 
+31 
+C 
+2 
+B 
+32 
+B 
+3 
+B 
+33 
+D 
+4 
+A 
+34 
+D 
+5 
+E 
+35 
+D 
+6 
+E 
+36 
+A 
+7 
+D 
+37 
+C 
+8 
+C 
+38 
+E 
+9 
+B 
+39 
+D 
+10 
+A 
+40 
+C 
+11 
+B 
+41 
+D 
+12 
+E 
+42 
+E 
+13 
+D 
+43 
+E 
+14 
+C 
+44 
+B 
+15 
+B 
+45 
+D 
+16 
+C 
+46 
+B 
+17 
+D 
+47 
+A 
+18 
+A 
+48 
+A 
+19 
+C 
+49 
+D 
+20 
+C 
+50 
+C 
+21 
+B 
+51 
+C 
+22 
+E 
+52 
+D 
+23 
+E 
+53 
+B 
+24 
+B 
+54 
+D 
+25 
+C 
+55 
+B 
+26 
+A 
+56 
+A 
+27 
+C 
+57 
+E 
+28 
+D 
+58 
+C 
+29 
+C 
+59 
+A 
+30 
+B 
+60 
+E 
+ 
+
+
+--- PAGE 22 ---
+
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 031/2025  
+ 
+Técnico de Laboratório (Bioquímica) 
+ 
+QUESTÃO DISSERTATIVA 
+ 
+ 
+ 
+RESPOSTA ESPERADA 
+ 
+A. A cultura está contaminada com bactérias. (2 pontos). 
+ 
+B. O meio de cultura deverá estar amarelo (1 ponto) e turvo (1 ponto). (2 pontos totais). 
+ 
+C. Para investigar a origem da contaminação deve-se testar o meio de cultura e seus componentes como o soro fetal 
+bovino, plaqueando um pouco destas soluções numa placa teste e deixando-a na incubadora (1 ponto), deve-se 
+descongelar nova alíquota de células para investigar se a contaminação está nas alíquotas (1 ponto), inspecionar e 
+limpar todos os instrumentos utilizados na cultura de células, como pipetadores, incubadora, cabine de 
+biossegurança (1 ponto). Para prevenir novos incidentes, deve-se autoclavar todos os materiais e soluções (ou filtrá-
+las), utilizar boas práticas laboratoriais e de biossegurança, manutenção de mãos sempre limpas, uso de luvas, 
+aventais sempre limpos, manutenção preventiva da cabine de biossegurança, com troca de filtros, lâmpada UV (1 
+ponto para cada item mencionado: assepsia do usuário, esterilização das soluções e manutenção dos 
+equipamentos). (3 pontos para a investigação e 3 pontos para a prevenção totais). 
+ 

@@ -1,0 +1,1988 @@
+
+
+--- PAGE 1 ---
+
+ 
+EGC 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 007/2025   
+ 
+Engenheiro (Civil: Obras e serviços de 
+engenharia) 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique¬se¬o¬seu¬nome¬está¬correto¬na¬capa¬deste¬caderno¬e¬se¬a¬folha¬de¬respostas¬pertence¬ao¬grupo EGC.¬
+Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+3. Durante¬a¬prova,¬são¬vedadas¬a¬comunicação¬entre¬candidatos¬e¬a¬utilização¬de¬qualquer¬material¬de¬consulta¬e¬
+de¬aparelhos¬de¬telecomunicação.¬
+4. Duração¬da¬prova:¬4¬horas.¬Cabe¬ao¬candidato¬controlar¬o¬tempo¬com¬base¬nas¬informações¬fornecidas¬pelo¬
+fiscal.¬O(A)¬candidato(a)¬poderá¬retirar-se¬da¬sala¬definitivamente¬apenas¬a¬partir¬das¬15¬h.¬Não¬haverá¬tempo¬
+adicional¬para¬preenchimento¬da¬folha¬de¬respostas.¬¬
+5. O(A)¬ candidato(a)¬ deverá¬ seguir¬ as¬ orientações¬ estabelecidas¬ pela¬ FUVEST¬ a¬ respeito¬ dos¬ procedimentos¬
+adotados¬para¬a¬aplicação¬deste¬concurso.¬
+6. Lembre-se¬de¬que¬a¬FUVEST¬se¬reserva¬ao¬direito¬de¬efetuar¬procedimentos¬adicionais¬de¬identificação¬e¬controle¬
+do¬ processo,¬ visando¬ a¬ garantir¬ a¬ plena¬ integridade¬ do¬ exame.¬ Assim,¬ durante¬ a¬ realização¬ da¬ prova,¬ será¬
+coletada¬por¬um¬fiscal¬uma¬foto¬do(a)¬candidato(a)¬para¬fins¬de¬reconhecimento¬facial,¬para¬uso¬exclusivo¬da¬USP¬
+e¬da¬FUVEST.¬A¬imagem¬não¬será¬divulgada¬nem¬utilizada¬para¬quaisquer¬outras¬finalidades,¬nos¬termos¬da¬lei.¬
+7. Após¬a¬autorização¬do¬fiscal¬da¬sala,¬verifique¬se¬o¬caderno¬está¬completo.¬Ele¬deve¬conter¬60¬questões¬objetivas,¬
+com¬5¬alternativas¬cada,¬e¬1¬questão¬dissertativa.¬Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+8. Preencha¬a¬folha¬de¬respostas¬com¬cuidado,¬utilizando¬caneta¬esferográfica¬de¬tinta azul ou preta.¬Essa¬folha¬
+não será substituída¬em¬caso¬de¬rasura.¬
+9. Ao¬final¬da¬prova,¬é¬obrigatória¬a¬devolução¬da¬folha¬de¬respostas¬acompanhada¬deste¬caderno¬de¬questões.¬
+Declaração 
+Declaro¬que¬li¬e¬estou¬ciente¬das¬informações¬que¬constam¬na¬capa¬desta¬prova,¬na¬folha¬de¬respostas,¬bem¬
+como¬dos¬avisos¬que¬foram¬transmitidos¬pelo¬fiscal¬de¬sala.¬
+¬
+___________________________________________________¬
+ASSINATURA¬
+O(a)¬candidato(a)¬que¬não¬assinar¬a¬capa¬da¬prova¬será¬considerado(a)¬ausente¬da¬prova.¬
+ 
+ 
+
+
+--- PAGE 2 ---
+
+  Concurso Edital RH nº 007/2025 – Engenheiro (Área Civil; especialidade: Obras e serviços de engenharia) 
+Texto para as questões 01 e 02 
+¬
+Em¬silêncio¬¬
+¬
+¬
+Precisava¬de¬silêncio¬para¬pensar,¬ordenar¬sua¬vida¬
+e¬rumos.¬Juntou¬poucas¬coisas,¬navegou¬até¬uma¬ilha¬deserta.¬
+Mas¬a¬gritaria¬das¬aves¬marinhas¬fundia-se¬com¬o¬farfalhar¬do¬
+vento¬ nas¬ palmeiras,¬ e¬ quando¬ ambos¬ se¬ calavam,¬ batiam¬
+inevitáveis¬ as¬ ondas¬ contra¬ as¬ pedras.¬ Silêncio¬ não¬ havia.¬
+Tomou¬suas¬coisas,¬voltou¬ao¬continente,¬recolheu-se¬numa¬
+gruta¬ em¬ montanha¬ distante.¬ Embora¬ isolado,¬ logo¬ se¬ viu¬
+rodeado¬de¬ruídos,¬pequenos¬alguns,¬minúsculos¬outros,¬que¬
+o¬aparente¬silêncio¬circundante¬agigantava.¬Era¬o¬gotejar¬do¬
+excesso¬de¬umidade,¬o¬esvoejar¬dos¬morcegos¬ao¬anoitecer,¬
+o¬zumbir¬de¬um¬ou¬outro¬inseto,¬um¬gorjear¬lá¬fora,¬um¬escavar¬
+cá¬ dentro,¬ um¬ rastejar,¬ e¬ o¬ ronco¬ majestoso¬ dos¬ trovões,¬ o¬
+estalar¬dos¬relâmpagos.¬Novamente¬arrebanhou¬seus¬poucos¬
+pertences.¬ E¬ desceu¬ a¬ montanha,¬ regressou¬ à¬ cidade.¬ As¬
+chaves¬da¬sua¬casa¬tilintavam¬no¬bolso,¬não¬atendeu¬ao¬apelo.¬
+Tomou¬ônibus¬e¬metrô,¬caminhou¬até¬a¬praça¬mais¬central.¬Ali,¬
+onde¬tantos¬passavam¬e¬as¬buzinas¬dos¬carros¬e¬os¬apitos¬dos¬
+guardas¬e¬o¬gritar¬dos¬ambulantes¬e¬o¬chamado¬das¬sirenes¬
+se¬entrecruzavam,¬sentou-se.¬Assim¬como¬havia¬ignorado¬as¬
+chaves,¬ ignorou¬ os¬ sons¬ todos¬ que¬ lhe¬ atingiam¬ a¬ cabeça,¬
+esqueceu¬os¬ouvidos.¬E,¬vagarosamente,¬começou¬a¬descida¬
+em¬seu¬silêncio¬interior.¬
+¬
+Marina¬Colasanti.¬Hora¬de¬alimentar¬serpentes.¬Global,¬2013¬
+¬
+{01} 
+No¬conto,¬a¬busca¬do¬protagonista¬está¬relacionada¬à¬tentativa¬
+de¬
+¬
+(A)¬demonstrar¬ que¬ o¬ silêncio¬ perfeito¬ é¬ uma¬ construção¬
+imaginária¬e¬artificial.¬
+(B)¬isolar-se¬ do¬ mundo¬ externo¬ para¬ criar¬ uma¬ realidade¬
+paralela¬e¬inexorável.¬
+(C)¬ comprovar¬ que¬ a¬ natureza¬ é¬ menos¬ ruidosa¬ do¬ que¬ o¬
+ambiente¬urbano.¬
+(D)¬encontrar¬ uma¬ quietude¬ absoluta¬ que,¬ paradoxalmente,¬
+revela-se¬inalcançável.¬
+(E)¬estabelecer¬um¬contraponto¬entre¬a¬vida¬solitária¬e¬a¬vida¬
+social¬da¬cidade.¬
+##### 
+¬
+{02} 
+O¬sufixo¬“-ejar”,¬presente¬em¬“esvoejar”,¬desempenha¬papel¬
+semântico¬específico¬na¬construção¬do¬verbo,¬conferindo-lhe¬
+a¬ideia¬de:¬
+¬
+(A)¬Estado¬contínuo¬e¬permanente.¬
+(B)¬Movimento¬leve¬e¬intermitente.¬
+(C)¬Intensificação¬de¬uma¬ação.¬
+(D)¬Formação¬de¬substantivos¬abstratos.¬
+(E)¬Relação¬de¬causa¬e¬consequência.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+ 
+Texto para as questões 03 e 04 
+¬
+Mal¬o¬CEO¬da¬Meta,¬Mark¬Zuckerberg,¬anunciou¬as¬mudanças¬
+nas¬ políticas¬ de¬ moderação¬ de¬ suas¬ plataformas,¬ muitos¬
+educadores,¬ comunicadores¬ e¬ jornalistas¬ presentes¬ nos¬
+diferentes¬ grupos¬ dos¬ quais¬ faço¬ parte¬ começaram¬ a¬
+questionar¬a¬eficácia¬da¬Educação¬Midiática.¬O¬que¬podemos¬
+diante¬de¬um¬Musk¬e¬um¬Zuckerberg?¬De¬que¬adianta¬educar¬
+para¬ a¬ checagem¬ de¬ notícias¬ se¬ agora¬ “abriram-se¬ as¬
+porteiras”¬e¬nenhum¬de¬nós¬vai¬dar¬conta¬de¬distinguir¬o¬que¬é¬
+verdadeiro¬ ou¬ falso,¬ de¬ remover¬ conteúdos¬ agressivos,¬
+preconceituosos,¬ de¬ construir¬ referenciais¬ seguros¬ para¬
+obtermos¬informações¬íntegras¬e¬confiáveis?¬É¬enxugar¬gelo,¬
+nadar¬contra¬a¬corrente,¬melhor¬a¬gente¬se¬preparar¬para¬viver¬
+no¬caos,¬diziam¬alguns,¬já¬ameaçando¬sair¬de¬vez¬das¬redes,¬
+boicotar¬ a¬ Meta,¬ banir¬ o¬ digital¬ de¬ vez¬ do¬ seu¬ cotidiano.¬
+Entendo¬a¬Educação¬Midiática¬como¬um¬importante¬e¬potente¬
+elemento¬ para¬ que¬ possamos¬ lidar¬ com¬ todos¬ os¬ desafios¬
+presentes¬no¬mundo¬digital¬–¬e¬de¬resto,¬no¬mundo¬real,¬que¬o¬
+reflete.¬Ela¬é¬uma¬alternativa¬viável¬e¬segura¬que¬todos¬nós,¬
+que¬ desejamos¬ continuar¬ a¬ viver¬ civilizadamente¬ em¬
+sociedade,¬podemos¬tomar¬em¬nossas¬mãos.¬Se¬as¬chamadas¬
+big¬techs¬nos¬abandonam¬à¬própria¬sorte,¬cabe¬a¬cada¬um¬de¬
+nós¬entender¬qual¬é¬o¬nosso¬papel¬nesse¬ecossistema.¬¬
+¬
+Adaptado¬de:¬Januária¬Cristina¬Alves.¬“Novas¬diretrizes¬da¬Meta:¬será¬o¬
+fim¬da¬Educação¬Midiática?¬”¬Nexo¬Jornal.¬16¬de¬janeiro¬de¬2025.¬
+¬
+{03} 
+No¬trecho¬“Mal¬o¬CEO¬da¬Meta,¬Mark¬Zuckerberg,¬anunciou¬as¬
+mudanças¬nas¬políticas¬de¬moderação¬de¬suas¬plataformas”,¬
+o¬termo¬“Mal”¬estabelece¬uma¬relação¬de¬
+¬
+(A)¬comparação,¬
+equiparando¬
+dois¬
+acontecimentos¬
+simultâneos.¬¬
+(B)¬condição,¬introduzindo¬uma¬possibilidade¬de¬mudança.¬
+(C)¬consequência,¬ indicando¬ um¬ efeito¬ direto¬ da¬ ação¬
+posterior.¬
+(D)¬oposição,¬contrastando¬ideias¬consideradas¬divergentes.¬
+(E)¬tempo,¬indicando¬uma¬ação¬ocorrida¬imediatamente¬após¬
+outra.¬
+##### 
+¬
+{04} 
+No¬período¬em¬que¬se¬encontra,¬a¬sequência¬textual¬“melhor¬
+a¬gente¬se¬preparar”¬apresenta-se¬gramaticalmente¬como¬
+¬
+(A)¬uma¬inversão¬sintática,¬típica¬da¬linguagem¬formal.¬
+(B)¬ um¬ erro¬ gramatical,¬ com¬ a¬ falta¬ do¬ verbo¬ principal¬ na¬
+oração.¬
+(C)¬uma¬ construção¬ elíptica,¬ simplificando¬ o¬ segmento¬
+sintático.¬
+(D)¬um¬ exemplo¬ de¬ hipérbole,¬ intensificando¬ a¬ situação¬
+descrita.¬
+(E)¬uma¬ construção¬ arcaica,¬ comum¬ em¬ textos¬ literários¬
+antigos.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 3 ---
+
+  Concurso Edital RH nº 007/2025 – Engenheiro (Área Civil; especialidade: Obras e serviços de engenharia) 
+Texto para as questões de 05 a 08 
+Rain¬Is¬Coming¬to¬Burning¬Los¬Angeles¬and¬Will¬Bring¬Its¬Own¬Risks¬
+Rain¬ is¬ forecast¬ to¬ begin¬ as¬ soon¬ as¬ Saturday¬
+afternoon¬ and¬ to¬ continue¬ as¬ late¬ as¬ Monday¬ evening,¬ says¬
+meteorologist¬Kristan¬Lund¬of¬the¬National¬Weather¬Service’s¬
+Los¬ Angeles¬ office.¬ The¬ area¬ desperately¬ needs¬ the¬
+precipitation,¬ but¬ experts¬ are¬ warily¬ monitoring¬ the¬ situation¬
+because¬rain¬poses¬its¬own¬risks¬in¬recently¬burned¬areas—
+most¬notably¬the¬potential¬occurrence¬of¬mudslides¬and¬similar¬
+hazards.¬ “Rain¬ is¬ good¬ because¬ we’ve¬ been¬ so¬ dry,”¬ Lund¬
+says.¬ “However,¬ if¬ we¬ get¬ heavier¬ rain¬ rates¬ or¬ we¬ get¬ the¬
+thunderstorms,¬it’s¬actually¬a¬lot¬more¬dangerous¬because¬you¬
+can¬get¬debris¬flows.”¬
+Fires¬do¬a¬couple¬of¬different¬things¬to¬the¬landscape¬
+that¬can¬increase¬the¬risk¬of¬burned¬material,¬soil¬and¬detritus¬
+hurtling¬out¬of¬control.¬When¬fires¬burn¬hot¬or¬long¬enough,¬they¬
+leave¬an¬invisible¬layer¬of¬waxy¬material¬just¬under¬the¬surface¬
+of¬the¬ground.¬This¬develops¬from¬decomposing¬leaves¬and¬
+other¬organic¬material,¬which¬contain¬naturally¬hydrophobic¬or¬
+water-repellent¬compounds.¬Fire¬can¬vaporize¬this¬litter,¬and¬
+the¬resulting¬gas¬seeps¬into¬the¬upper¬soil—where¬it¬quickly¬
+cools¬and¬condenses,¬forming¬the¬slippery¬layer.¬
+When¬rain¬falls¬on¬ground¬that¬has¬been¬affected¬by¬
+this¬phenomenon,¬it¬can’t¬sink¬beyond¬the¬hydrophobic¬layer—
+so¬the¬water¬flows¬away,¬often¬hauling¬debris¬with¬it.¬“All¬of¬the¬
+trees,¬branches,¬everything¬that’s¬been¬burned—unfortunately,¬
+if¬ it¬ rains,¬ that¬ stuff¬ just¬ floats,”¬ Lund¬ says.¬ “It’s¬ really¬
+concerning.”¬Even¬a¬fire¬that¬isn’t¬severe¬enough¬to¬create¬a¬
+hydrophobic¬layer¬can¬still¬cause¬debris¬flows,¬says¬Danielle¬
+Touma,¬a¬climate¬scientist¬at¬the¬University¬of¬Texas¬at¬Austin.¬
+Under¬normal¬conditions,¬trees¬and¬other¬plants¬usually¬trap¬
+some¬rain¬above¬the¬surface,¬slowing¬the¬water’s¬downward¬
+journey.¬But¬on¬freshly¬burned¬land¬there’s¬much¬less¬greenery¬
+to¬interfere;¬all¬the¬rain¬immediately¬hits¬the¬ground.¬[...]¬
+Fortunately,¬the¬rain¬should¬also¬help¬firefighters¬tame¬
+the¬blazes¬that¬remain¬active.¬The¬largest,¬the¬Palisades¬Fire,¬
+is¬ currently¬ 77¬ percent¬ contained.¬ The¬ second¬ largest,¬ the¬
+Eaton¬Fire,¬is¬95¬percent¬contained.¬The¬Hughes¬Fire¬is¬third¬
+largest¬ and¬ only¬ 56¬ percent¬ contained.¬ A¬ fire¬ can¬ be¬ fully¬
+contained¬but¬still¬burning.¬The¬containment¬percentage¬refers¬
+to¬the¬amount¬of¬the¬perimeter¬that¬has¬barriers¬that¬firefighters¬
+expect¬will¬prevent¬further¬spread.¬
+¬
+Scientific¬American.¬January¬27th,¬2025.¬Adaptado.¬
+{05} 
+Com¬ base¬ no¬ primeiro¬ parágrafo¬ e¬ na¬ opinião¬ dos¬
+especialistas,¬qual¬das¬seguintes¬inferências¬pode¬ser¬feita?¬
+¬
+(A)¬A¬ área¬ queimada¬ apresenta¬ sérios¬ danos,¬ e¬ as¬ chuvas¬
+fortes¬podem¬auxiliar¬na¬recuperação¬do¬meio¬ambiente.¬
+(B)¬O¬meteorologista¬Kristan¬Lund¬acredita¬que¬a¬chuva¬será¬
+um¬problema,¬independentemente¬de¬sua¬intensidade.¬
+(C)¬Embora¬a¬chuva¬prevista¬para¬o¬fim¬de¬semana¬seja¬bem-
+vinda,¬ há¬ também¬ preocupações¬ devido¬ aos¬ riscos¬ de¬
+deslizamentos¬de¬terra.¬
+(D)¬Como¬ a¬ possibilidade¬ de¬ deslizamentos¬ de¬ terra¬ ocorre¬
+apenas¬ nos¬ locais¬ não¬ afetados¬ por¬ incêndios,¬ os¬
+malefícios¬são¬imperceptíveis.¬
+(E)¬Uma¬vez¬que¬a¬região¬está¬bem-preparada¬para¬lidar¬com¬
+a¬ ocorrência¬ de¬ chuvas,¬ a¬ área¬ não¬ está¬ suscetível¬ a¬
+riscos.¬¬
+##### 
+ 
+ 
+ 
+ 
+{06} 
+O¬termo¬"litter”,¬no¬parágrafo¬2,¬refere-se¬¬¬
+¬
+(A)¬ao¬ gás¬ que¬ é¬ liberado¬ pela¬ decomposição¬ das¬ folhas¬
+durante¬as¬queimadas.¬
+(B)¬à¬substância¬que¬resulta¬na¬maior¬fertilidade¬do¬solo¬após¬
+o¬incêndio.¬
+(C)¬ao¬ material¬ utilizado¬ pelos¬ bombeiros¬ para¬ controlar¬
+incêndios¬florestais.¬
+(D)¬ao¬acumulado¬de¬cinzas¬que¬se¬forma¬após¬a¬queima¬do¬
+material¬decomposto.¬
+(E)¬à¬camada¬de¬material¬orgânico¬que¬cobre¬a¬superfície¬do¬
+solo.¬
+##### 
+¬
+{07} 
+Considerando¬ a¬ oração¬ "[...]¬ it¬ can’t¬ sink¬ beyond¬ the¬
+hydrophobic¬ layer—so¬ the¬ water¬ flows¬ away¬ [...]”¬ (3º¬
+parágrafo),¬o¬termo¬“so”¬pode¬ser¬substituído,¬sem¬prejuízo¬de¬
+sentido,¬por¬
+¬
+(A)¬moreover.¬
+(B)¬therefore.¬
+(C)¬nevertheless.¬
+(D)¬conversely.¬
+(E)¬furthermore.¬
+##### 
+¬
+{08} 
+Segundo¬ Danielle¬ Touma,¬ uma¬ especialista¬ em¬ ciências¬
+climáticas¬da¬Universidade¬do¬Texas¬em¬Austin,¬¬
+¬
+(A)¬mesmo¬ em¬ terrenos¬ queimados,¬ a¬ chuva¬ não¬ consegue¬
+causar¬deslizamentos¬de¬detritos.¬
+(B)¬qualquer¬queimada¬pode¬criar¬uma¬camada¬que¬repele¬a¬
+água,¬dificultando¬sua¬absorção.¬
+(C)¬até¬ incêndios¬ menos¬ graves¬ podem¬ resultar¬ em¬
+deslizamentos¬de¬detritos¬em¬períodos¬de¬chuva¬devido¬à¬
+falta¬de¬vegetação.¬
+(D)¬a¬ chuva¬ é¬ mais¬ eficaz¬ em¬ terrenos¬ queimados,¬ pois¬ a¬
+camada¬hidrofóbica¬impede¬a¬perda¬de¬água.¬
+(E)¬sob¬condições¬normais,¬a¬mata¬impede¬as¬águas¬pluviais¬
+de¬penetrar¬no¬solo¬de¬maneira¬eficiente.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+  Concurso Edital RH nº 007/2025 – Engenheiro (Área Civil; especialidade: Obras e serviços de engenharia) 
+{09} 
+“ChatGPT,¬ DeepSeek¬ e¬ similares¬ pertencem¬ à¬ classe¬ de¬
+LLMs,¬avançados¬modelos¬de¬linguagem¬treinados¬a¬partir¬de¬
+grandes¬bancos¬de¬dados¬–¬majoritariamente¬em¬inglês.¬Os¬
+mais¬populares¬pertencem¬a¬empresas¬norte-americanas.¬E¬
+assim¬como¬os¬algoritmos¬de¬pesquisa¬e¬redes¬sociais,¬não¬
+são¬neutros.¬Ou¬seja,¬podem¬reproduzir¬vieses,¬preconceitos¬
+e¬ estereótipos¬ de¬ seus¬ programadores,¬ que¬ por¬ sua¬ vez¬
+podem¬receber¬ordens¬dos¬donos¬das¬empresas¬e¬de¬outros¬
+atores¬–¬na¬China,¬por¬exemplo,¬empresas¬devem¬passar¬por¬
+análise¬de¬segurança¬e¬obter¬aprovações¬do¬governo¬antes¬de¬
+lançar¬produtos¬(...).¬
+Nesse¬cenário,¬como¬ficam¬os¬países¬que¬não¬têm¬plataformas¬
+nacionais¬de¬alcance¬global,¬como¬é¬o¬caso¬do¬Brasil?¬E¬mais:¬
+o¬que¬acontecerá¬com¬a¬História¬e¬a¬memória¬desses¬países¬
+diante¬de¬uma¬população¬cada¬vez¬mais¬conectada¬a¬LLMs¬
+estrangeiras¬globais¬que¬acredita¬mais¬no¬que¬encontra¬nos¬
+apps¬e¬sites¬de¬busca¬do¬que¬nos¬livros¬de¬História?”¬
+¬
+Luciana¬Garbin,¬IAs¬estão¬apagando¬e¬reescrevendo¬pedaços¬da¬
+História.¬E¬o¬Brasil¬com¬isso?,¬O¬Estado¬de¬S.¬Paulo¬(on-line),¬29/01/2025¬
+(Adaptado)¬
+¬
+O¬texto¬apresentado¬traz¬uma¬crítica¬
+¬
+(A)¬ao¬ trabalho¬ dos¬ programadores,¬ que¬ estabelecem¬
+mecanismos¬frágeis¬de¬intelecção¬das¬máquinas¬dotadas¬
+de¬inteligência.¬
+(B)¬às¬chamadas¬big¬techs¬que¬visam¬apenas¬o¬lucro¬a¬partir¬
+dos¬ serviços¬ que¬ disponibilizam,¬ gerando¬ dificuldades¬
+para¬o¬usuário.¬
+(C)¬às¬ empresas¬ de¬ tecnologia¬ brasileiras,¬ que¬ não¬
+desenvolveram¬ LLMs¬ de¬ alcance¬ global,¬ o¬ que¬ seria¬
+possível¬a¬despeito¬do¬alcance¬da¬língua¬portuguesa¬no¬
+mundo.¬
+(D)¬aos¬
+governos¬
+das¬
+nações¬
+desenvolvidas,¬
+por¬
+estabelecerem¬
+padrões¬
+desiguais¬
+de¬
+controle¬
+de¬
+segurança¬ para¬ os¬ produtos¬ como¬ o¬ ChatGPT¬ e¬ o¬
+DeepSeek.¬
+(E)¬às¬pessoas¬que,¬em¬grande¬parte,¬passaram¬a¬confiar¬em¬
+fontes¬e¬a¬acreditar¬em¬informações¬não¬contextualizadas¬
+historicamente.¬
+##### 
+¬
+{10} 
+Em¬Ideias¬para¬adiar¬o¬fim¬do¬Mundo,¬Ailton¬Krenak¬coloca¬
+ênfase¬no¬papel¬que¬o¬rio¬Watu¬desempenha¬para¬a¬unidade¬
+do¬povo¬krenak,¬o¬povo¬“cabeça¬da¬terra”.¬O¬rio¬foi¬palco¬de¬
+um¬ evento¬ que¬ marcou¬ nosso¬ país.¬ De¬ posse¬ dessas¬
+informações¬ e¬ com¬ base¬ na¬ leitura¬ do¬ livro,¬ assinale¬ a¬
+alternativa¬que¬indica¬o¬nome¬do¬rio,¬em¬português,¬e¬o¬evento¬
+mencionado.¬
+¬
+(A)¬Solimões¬–¬seca¬de¬2023.¬
+(B)¬Doce¬–¬rompimento¬da¬barragem¬do¬Fundão.¬
+(C)¬Tietê¬–¬enchente¬de¬São¬Paulo¬em¬1929.¬
+(D)¬São¬Francisco¬–¬transposição¬de¬suas¬águas.¬
+(E)¬Paraopeba¬¬–¬¬rompimento¬¬da¬¬barragem¬¬de¬¬Brumadinho.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+{11} 
+Em¬ O¬ Perigo¬ de¬ uma¬ História¬ Única,¬ Chimamanda¬ Ngozi¬
+Adichie¬afirma¬que¬“Há¬pouco¬tempo¬dei¬uma¬palestra¬numa¬
+universidade¬e¬um¬aluno¬me¬disse¬que¬era¬uma¬grande¬pena¬
+que¬ os¬ homens¬ nigerianos¬ fossem¬ agressivos¬ como¬ o¬
+personagem¬do¬pai¬no¬meu¬romance.¬Eu¬disse¬a¬ele¬que¬tinha¬
+acabado¬de¬ler¬um¬livro¬chamado¬O¬psicopata¬americano¬e¬
+que¬ achava¬ uma¬ grande¬ pena¬ que¬ os¬ jovens¬ americanos¬
+fossem¬assassinos¬em¬série.¬Bem,¬obviamente¬eu¬disse¬isso¬
+num¬ leve¬ ataque¬ de¬ irritação.¬ Mas¬ jamais¬ teria¬ me¬ ocorrido¬
+pensar¬que,¬só¬porque¬li¬um¬romance¬no¬qual¬o¬personagem¬
+era¬ um¬ assassino¬ em¬ série,¬ ele¬ de¬ alguma¬ maneira¬
+representava¬todos¬os¬americanos.¬Não¬digo¬isso¬porque¬me¬
+considero¬uma¬pessoa¬melhor¬do¬que¬esse¬aluno¬(...).¬Já¬tinha¬
+lido¬Tyler,¬Updike,¬Steinbeck¬e¬Gaitskill.¬Não¬tinha¬uma¬história¬
+única¬dos¬Estados¬Unidos”.¬¬
+Nesse¬livro,¬como¬no¬trecho¬de¬O¬Estado¬de¬S.¬Paulo¬citado¬
+na¬questão¬9,¬pode-se¬afirmar¬que¬a¬versão¬de¬um¬fato¬será¬
+tanto¬mais¬disseminada¬quanto¬
+¬
+(A)¬maior¬ for¬ o¬ poder¬ econômico¬ e¬ cultural¬ de¬ quem¬ a¬
+comunica.¬
+(B)¬mais¬críveis¬forem¬os¬seus¬contornos¬narrativos.¬
+(C)¬menos¬verossímeis¬forem¬os¬valores¬ínsitos¬à¬mensagem.¬
+(D)¬maior¬for¬o¬poder¬militar¬e¬científico¬de¬quem¬a¬comunica.¬
+(E)¬menores¬forem¬os¬riscos¬de¬conter¬inverdades.¬
+##### 
+¬
+{12} 
+Observe¬a¬charge¬a¬seguir:¬
+¬
+ 
+¬
+Folha¬de¬São¬Paulo,¬26.01.2025¬
+Assinale¬ a¬ alternativa¬ que¬ melhor¬ descreve¬ as¬ situações¬ às¬
+quais¬a¬charge¬se¬refere.¬
+¬
+(A)¬Denuncismo,¬ confusão¬ relativa¬ às¬ categorias¬ sociais¬ e¬
+mudanças¬climáticas.¬
+(B)¬Estigmas¬sociais,¬alarmismo¬social¬e¬mobilidade¬social.¬
+(C)¬Alarmismo¬ social,¬ identificação¬ dos¬ imigrantes¬ como¬
+animais¬e¬mudanças¬climáticas.¬
+(D)¬Racismo,¬degelo¬da¬Antártida¬e¬luta¬de¬classes.¬
+(E)¬Denuncismo,¬extinção¬de¬espécimes¬da¬fauna¬e¬mudanças¬
+sociais.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+  Concurso Edital RH nº 007/2025 – Engenheiro (Área Civil; especialidade: Obras e serviços de engenharia) 
+{13} 
+Considere¬o¬art.¬2º¬do¬Estatuto¬da¬USP:¬
+¬
+Artigo 2º –¬São¬fins¬da¬USP:¬
+¬
+I¬ –¬promover¬ e¬ desenvolver¬ todas¬ as¬ formas¬ de¬
+conhecimento,¬por¬meio¬do¬ensino¬e¬da¬pesquisa;¬
+II¬ –¬ ministrar¬ o¬ ensino¬ superior¬ visando¬ à¬ formação¬ de¬
+pessoas¬ capacitadas¬ ao¬ exercício¬ da¬ investigação¬ e¬ do¬
+magistério¬em¬todas¬as¬áreas¬do¬conhecimento,¬bem¬como¬
+à¬qualificação¬para¬as¬atividades¬profissionais;¬
+III¬ –¬ estender¬ à¬ sociedade¬ serviços¬ indissociáveis¬ das¬
+atividades¬de¬ensino¬e¬de¬pesquisa.¬
+¬
+As¬ alternativas¬ a¬ seguir¬ indicam¬ as¬ cinco¬ Pró-Reitorias¬
+existentes¬na¬USP.¬Assinale¬aquela¬cujas¬atividades¬NÃO¬se¬
+relacionam¬diretamente¬com¬os¬fins¬da¬Universidade.¬
+¬
+(A)¬Pró-Reitoria¬de¬Cultura¬e¬Extensão¬Universitária.¬
+(B)¬Pró-Reitoria¬de¬Graduação.¬
+(C)¬Pró-Reitoria¬de¬Inclusão¬e¬Pertencimento.¬
+(D)¬Pró-Reitoria¬de¬Pesquisa¬e¬Inovação.¬
+(E)¬Pró-Reitoria¬de¬Pós-Graduação.¬
+##### 
+¬
+{14} 
+Considere¬a¬seguinte¬situação:¬Ênio¬Oliveira,¬Vice-Reitor¬da¬
+USP,¬ falece¬ em¬ um¬ acidente.¬ Nesse¬ caso,¬ Edna¬ Cruz,¬ a¬
+Reitora,¬deverá¬
+¬
+(A)¬indicar¬um¬novo¬Vice-Reitor,¬que¬será¬homologado¬pelo¬
+Conselho¬Universitário¬em¬até¬15¬dias.¬
+(B)¬dar¬início¬ao¬processo¬eleitoral,¬para¬a¬escolha¬de¬um¬novo¬
+Vice-Reitor,¬que¬cumprirá¬um¬mandato¬novo,¬de¬4¬anos.¬
+(C)¬ser¬substituída,¬em¬suas¬ausências¬ou¬impedimentos,¬pelo¬
+decano¬do¬Conselho¬Universitário.¬
+(D)¬dar¬início¬ao¬processo¬eleitoral,¬para¬a¬escolha¬de¬um¬novo¬
+Vice-Reitor,¬ que¬ exercerá¬ tal¬ função¬ pelo¬ tempo¬ que¬
+restava¬de¬mandato¬para¬Ênio.¬
+(E)¬indicar¬um¬novo¬Vice-Reitor,¬que¬deverá¬ser¬nomeado¬pelo¬
+Governador¬de¬SP¬em¬até¬15¬dias.¬
+##### 
+¬
+{15} 
+Aproximando-se¬as¬inscrições¬para¬Diretor¬de¬um¬Instituto,¬a¬
+comunidade¬local¬sabe¬que¬Lucas,¬Ana¬e¬Maria¬pretendem¬ser¬
+candidatos,¬
+tendo¬
+como¬
+candidatos¬
+a¬
+Vice-Diretor,¬
+respectivamente,¬Sara,¬Lia¬e¬Marcos.¬Sabendo¬que¬Marcos¬é¬
+Professor¬ Associado¬ 2¬ e¬ todos¬ os¬ demais¬ são¬ Professores¬
+Titulares,¬é¬possível¬afirmar¬que¬a¬Chapa¬Maria¬e¬Marcos¬
+¬
+(A)¬não¬pode¬se¬candidatar,¬em¬nenhuma¬hipótese.¬
+(B)¬pode¬se¬candidatar,¬sem¬qualquer¬restrição.¬
+(C)¬pode¬ se¬ candidatar¬ numa¬ eventual¬ segunda¬ fase¬ de¬
+inscrições,¬ mas¬ apenas¬ se¬ Lucas¬ e¬ Sara¬ ou¬ Ana¬ e¬ Lia¬
+deixarem¬de¬se¬inscrever.¬
+(D)¬pode¬ se¬ candidatar¬ numa¬ eventual¬ segunda¬ fase¬ de¬
+inscrições,¬mesmo¬que¬as¬chapas¬Lucas¬e¬Sara¬e¬Ana¬e¬
+Lia¬se¬inscrevam.¬
+(E)¬pode¬se¬candidatar¬desde¬logo,¬mas¬só¬concorrerão¬se¬
+Lucas¬e¬Sara¬ou¬Ana¬e¬Lia¬deixarem¬de¬se¬inscrever.¬
+##### 
+ 
+ 
+ 
+ 
+{16} 
+Uma¬ Unidade¬ tem¬ 8¬ Professores¬ Titulares,¬ todos¬ membros¬
+natos¬ da¬ Congregação.¬ O¬ número¬ de¬ representantes¬ dos¬
+Professores¬ Associados¬ e¬ dos¬ Professores¬ Doutores¬ é,¬
+respectivamente,¬
+¬
+(A)¬2¬e¬1.¬
+(B)¬4¬e¬3.¬
+(C)¬5¬e¬3.¬
+(D)¬4¬e¬2.¬
+(E)¬6¬e¬3.¬
+##### 
+¬
+{17} 
+De¬ acordo¬ com¬ a¬ Lei¬ nº¬ 14.133/2021,¬ quais¬ são¬ as¬
+modalidades¬de¬licitação¬previstas?¬
+¬
+(A)¬Concorrência,¬ Tomada¬ de¬ Preços,¬ Convite,¬ Leilão¬ e¬
+Pregão.¬
+(B)¬Concorrência,¬ Pregão,¬ Leilão,¬ Diálogo¬ Competitivo¬ e¬
+Dispensa¬de¬Licitação.¬
+(C)¬Concorrência,¬ Pregão,¬ Leilão,¬ Concurso¬ e¬ Diálogo¬
+Competitivo.¬
+(D)¬Concorrência,¬ Tomada¬ de¬ Preços,¬ Pregão,¬ Leilão¬ e¬
+Consulta¬Pública.¬
+(E)¬Concorrência,¬ Pregão,¬ Concurso,¬ Leilão¬ e¬ Dispensa¬ de¬
+Licitação.¬
+##### 
+¬
+{18} 
+O¬critério¬de¬julgamento¬"maior¬desconto"¬pode¬ser¬utilizado¬
+em¬quais¬tipos¬de¬licitação¬segundo¬a¬Lei¬nº¬14.133/2021?¬
+¬
+(A)¬Apenas¬para¬aquisição¬de¬bens¬e¬serviços¬comuns.¬
+(B)¬Apenas¬para¬obras¬e¬serviços¬de¬engenharia.¬
+(C)¬Para¬qualquer¬tipo¬de¬licitação,¬desde¬que¬haja¬previsão¬
+no¬edital.¬
+(D)¬Para¬ aquisição¬ de¬ bens¬ e¬ serviços¬ comuns,¬ bem¬ como¬
+para¬obras¬e¬serviços¬de¬engenharia.¬
+(E)¬Apenas¬para¬concessões¬públicas.¬
+##### 
+¬
+{19} 
+Qual¬das¬seguintes¬afirmações¬sobre¬o¬prazo¬de¬duração¬dos¬
+contratos¬ administrativos¬ está¬ correta¬ segundo¬ a¬ Lei¬ nº¬
+14.133/2021?¬
+¬
+(A)¬O¬ prazo¬ máximo¬ para¬ contratos¬ contínuos¬ é¬ de¬ 5¬ anos,¬
+podendo¬ser¬prorrogado¬por¬igual¬período.¬
+(B)¬Contratos¬de¬serviços¬contínuos¬podem¬ter¬duração¬de¬até¬
+10¬anos,¬veda¬qualquer¬forma¬de¬prorrogação.¬
+(C)¬O¬prazo¬máximo¬para¬contratos¬contínuos¬é¬de¬10¬anos,¬
+sem¬possibilidade¬de¬prorrogação.¬
+(D)¬Serviços¬contínuos¬podem¬ser¬contratados¬por¬até¬5¬anos,¬
+prorrogáveis¬por¬mais¬5¬anos,¬desde¬que¬haja¬justificativa¬
+econômica.¬
+(E)¬A¬nova¬lei¬proíbe¬a¬prorrogação¬dos¬contratos¬de¬serviços¬
+contínuos.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+  Concurso Edital RH nº 007/2025 – Engenheiro (Área Civil; especialidade: Obras e serviços de engenharia) 
+{20} 
+Em¬ quais¬ situações¬ a¬ Administração¬ Pública¬ pode¬ utilizar¬ a¬
+contratação¬direta¬por¬inexigibilidade¬de¬licitação,¬nos¬termos¬
+da¬Lei¬nº¬14.133/2021?¬
+¬
+(A)¬Quando¬ houver¬ inviabilidade¬ de¬ competição,¬ como¬ na¬
+contratação¬ de¬ serviços¬ técnicos¬ especializados¬ de¬
+natureza¬singular.¬
+(B)¬Quando¬ o¬ objeto¬ da¬ contratação¬ for¬ de¬ pequeno¬ valor,¬
+respeitados¬os¬limites¬estabelecidos¬na¬lei.¬
+(C)¬Quando¬o¬preço¬do¬objeto¬da¬contratação¬for¬inferior¬ao¬da¬
+tabela¬de¬referência¬do¬governo.¬
+(D)¬Quando¬ houver¬ interesse¬ público¬ evidente,¬ a¬ critério¬ da¬
+Administração,¬independentemente¬de¬justificativa.¬
+(E)¬Quando¬ a¬ licitação¬ for¬ considerada¬ demorada¬ e¬ causar¬
+prejuízo¬à¬Administração.¬
+##### 
+¬
+{21} 
+Sobre¬ o¬ sistema¬ de¬ governança¬ das¬ contratações¬ públicas¬
+previsto¬na¬Lei¬nº¬14.133/2021,¬é¬correto¬afirmar:¬
+¬
+(A)¬A¬lei¬estabelece¬a¬obrigatoriedade¬de¬um¬Plano¬Anual¬de¬
+Contratações¬ (PAC)¬ para¬ todos¬ os¬ órgãos¬ e¬ entidades¬
+públicas.¬
+(B)¬Não¬há¬exigência¬legal¬para¬a¬Administração¬elaborar¬um¬
+plano¬de¬contratações.¬
+(C)¬Apenas¬ os¬ órgãos¬ federais¬ são¬ obrigados¬ a¬ adotar¬ um¬
+planejamento¬anual¬de¬contratações.¬
+(D)¬O¬ planejamento¬ de¬ contratações¬ pode¬ ser¬ feito¬ apenas¬
+quando¬a¬Administração¬julgar¬necessário.¬
+(E)¬O¬ Plano¬ de¬ Contratações¬ Anual¬ deve¬ prever¬ todas¬ as¬
+contratações¬da¬Administração,¬sem¬exceção.¬
+##### 
+¬
+{22} 
+De¬ acordo¬ com¬ o¬ Guia¬ Básico¬ da¬ CBIC¬ (2022),¬ qual¬ das¬
+alternativas¬ a¬ seguir¬ é¬ uma¬ exigência¬ da¬ nova¬ NR-18¬ para¬
+garantir¬segurança¬nos¬canteiros¬de¬obras?¬
+¬
+(A)¬Todos¬os¬trabalhadores¬devem¬receber¬treinamento¬sobre¬
+os¬ riscos¬ específicos¬ da¬ atividade¬ antes¬ de¬ iniciar¬ o¬
+trabalho.¬
+(B)¬O¬uso¬de¬Equipamentos¬de¬Proteção¬Individual¬(EPIs)¬é¬
+opcional¬e¬depende¬da¬vontade¬do¬trabalhador.¬
+(C)¬Apenas¬os¬operários¬que¬trabalham¬em¬altura¬precisam¬de¬
+capacitação¬em¬segurança.¬
+(D)¬As¬empresas¬podem¬flexibilizar¬as¬exigências¬da¬NR-18¬
+conforme¬seu¬orçamento.¬
+(E)¬A¬segurança¬no¬canteiro¬de¬obras¬é¬de¬responsabilidade¬
+exclusiva¬dos¬trabalhadores,¬não¬das¬empresas.¬
+##### 
+¬
+{23} 
+Segundo¬o¬Guia¬Básico¬da¬CBIC¬(2022)¬sobre¬segurança¬e¬
+saúde¬nos¬canteiros¬de¬obra,¬qual¬é¬o¬principal¬objetivo¬da¬
+nova¬NR-18?¬
+¬
+(A)¬Definir¬normas¬rígidas¬para¬controle¬de¬custos¬em¬obras¬
+de¬construção¬civil.¬
+(B)¬Estabelecer¬medidas¬de¬gestão¬de¬segurança¬e¬saúde¬do¬
+trabalho,¬reduzindo¬riscos¬ocupacionais¬nos¬canteiros¬de¬
+obras.¬
+(C)¬Limitar¬o¬acesso¬de¬trabalhadores¬aos¬canteiros¬de¬obra.¬
+(D)¬Exigir¬ que¬ apenas¬ empresas¬ de¬ grande¬ porte¬ sigam¬
+protocolos¬de¬segurança.¬
+(E)¬Substituir¬ todas¬ as¬ normas¬ anteriores¬ relacionadas¬ à¬
+construção¬civil.¬
+##### 
+¬
+{24} 
+A¬ ABNT¬ NBR¬ 15575-1¬ estabelece¬ os¬ requisitos¬ gerais¬ de¬
+desempenho¬ para¬ edificações¬ habitacionais.¬ Em¬ relação¬ à¬
+Vida¬Útil¬de¬Projeto¬(VUP),¬assinale¬a¬alternativa¬correta.¬
+¬
+(A)¬A¬VUP¬refere-se¬ao¬período¬durante¬o¬qual¬a¬edificação¬
+deve¬ ser¬ utilizada¬ sem¬ qualquer¬ necessidade¬ de¬
+manutenção.¬
+(B)¬A¬VUP¬é¬um¬parâmetro¬que¬considera¬condições¬normais¬
+de¬ uso¬ e¬ manutenção,¬ sendo¬ estabelecida¬ para¬ os¬
+principais¬sistemas¬da¬edificação.¬
+(C)¬A¬norma¬não¬estabelece¬critérios¬para¬a¬VUP,¬pois¬essa¬é¬
+uma¬responsabilidade¬exclusiva¬do¬projetista.¬
+(D)¬A¬VUP¬deve¬ser¬garantida¬pelo¬fabricante¬dos¬materiais¬
+utilizados¬na¬construção.¬
+(E)¬A¬ VUP¬ deve¬ ser¬ a¬ mesma¬ para¬ todos¬ os¬ elementos¬ da¬
+edificação,¬sem¬diferenciação¬entre¬sistemas¬estruturais,¬
+vedações¬e¬instalações.¬
+##### 
+¬
+{25} 
+Sobre¬os¬requisitos¬gerais¬de¬desempenho¬estabelecidos¬na¬
+ABNT¬NBR¬15575-1,¬assinale¬a¬alternativa¬correta.¬
+¬
+(A)¬O¬
+desempenho¬
+de¬
+uma¬
+edificação¬
+é¬
+avaliado¬
+exclusivamente¬com¬base¬em¬ensaios¬laboratoriais.¬
+(B)¬A¬avaliação¬do¬desempenho¬deve¬considerar¬fatores¬como¬
+segurança,¬habitabilidade¬e¬sustentabilidade.¬
+(C)¬A¬ norma¬ exige¬ que¬ os¬ ensaios¬ de¬ desempenho¬ sejam¬
+realizados¬apenas¬na¬fase¬de¬projeto.¬
+(D)¬A¬NBR¬15575-1¬estabelece¬apenas¬diretrizes¬para¬conforto¬
+térmico,¬ sem¬ abordar¬ outros¬ aspectos¬ como¬ acústica¬ e¬
+lumínico.¬
+(E)¬O¬ desempenho¬ de¬ uma¬ edificação¬ não¬ depende¬ do¬
+comportamento¬ em¬ uso,¬ mas¬ apenas¬ da¬ qualidade¬ dos¬
+materiais¬utilizados.¬
+##### 
+¬
+{26} 
+De¬
+acordo¬
+com¬
+a¬
+ABNT¬
+NBR¬
+15575-1,¬
+sobre¬
+a¬
+responsabilidade¬pela¬manutenção¬da¬edificação,¬assinale¬a¬
+alternativa¬correta.¬
+¬
+(A)¬A¬
+manutenção¬
+é¬
+responsabilidade¬
+exclusiva¬
+do¬
+incorporador¬e¬deve¬ser¬realizada¬durante¬toda¬a¬vida¬útil¬
+do¬edifício.¬
+(B)¬Os¬usuários¬não¬têm¬nenhuma¬responsabilidade¬sobre¬a¬
+manutenção,¬ pois¬ isso¬ é¬ dever¬ dos¬ projetistas¬ e¬
+construtores.¬
+(C)¬A¬ manutenção¬ da¬ edificação¬ deve¬ ser¬ planejada¬ e¬
+realizada¬ pelos¬ proprietários¬ e¬ usuários,¬ conforme¬ as¬
+diretrizes¬do¬manual¬de¬uso¬e¬manutenção.¬
+(D)¬A¬norma¬não¬trata¬da¬manutenção¬da¬edificação,¬pois¬isso¬
+não¬influencia¬o¬desempenho.¬
+(E)¬O¬ construtor¬ é¬ obrigado¬ a¬ garantir¬ o¬ desempenho¬ da¬
+edificação¬
+independentemente¬
+da¬
+realização¬
+de¬
+manutenções¬periódicas.¬
+##### 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+  Concurso Edital RH nº 007/2025 – Engenheiro (Área Civil; especialidade: Obras e serviços de engenharia) 
+{27} 
+Sobre¬os¬critérios¬de¬acessibilidade¬na¬ABNT¬NBR¬15575-1,¬
+assinale¬a¬alternativa¬correta.¬
+¬
+(A)¬A¬acessibilidade¬só¬deve¬ser¬garantida¬em¬áreas¬comuns¬
+de¬edifícios¬multifamiliares.¬
+(B)¬Todas¬as¬edificações¬devem¬prever¬acessibilidade¬plena,¬
+independentemente¬do¬público-alvo.¬
+(C)¬A¬norma¬exige¬que¬o¬desempenho¬da¬edificação¬atenda¬
+aos¬ requisitos¬ de¬ acessibilidade¬ definidos¬ na¬ legislação¬
+específica.¬
+(D)¬A¬ acessibilidade¬ não¬ é¬ um¬ critério¬ de¬ desempenho¬ na¬
+norma.¬
+(E)¬A¬ responsabilidade¬ pela¬ acessibilidade¬ recai¬ apenas¬
+sobre¬os¬incorporadores.¬
+##### 
+¬
+{28} 
+De¬ acordo¬ com¬ a¬ ABNT¬ NBR¬ 9574,¬ qual¬ é¬ a¬ principal¬
+finalidade¬do¬sistema¬de¬impermeabilização¬em¬edificações?¬
+¬
+(A)¬Melhorar¬ a¬ resistência¬ estrutural¬ dos¬ elementos¬ de¬
+concreto¬armado.¬
+(B)¬Evitar¬a¬penetração¬de¬água¬em¬elementos¬construtivos,¬
+protegendo¬contra¬danos.¬
+(C)¬Reduzir¬a¬necessidade¬de¬manutenção¬ao¬longo¬da¬vida¬
+útil¬da¬edificação,¬tornando-a¬autossustentável.¬
+(D)¬Garantir¬a¬aderência¬perfeita¬de¬revestimentos¬cerâmicos¬
+e¬argamassados.¬
+(E)¬Eliminar¬ totalmente¬ a¬ umidade¬ em¬ ambientes¬ internos¬ e¬
+externos,¬tornando-os¬isentos¬de¬condensação.¬
+##### 
+¬
+{29} 
+Na¬execução¬de¬impermeabilização,¬qual¬das¬etapas¬a¬seguir¬
+é¬obrigatória¬antes¬da¬aplicação¬da¬manta¬asfáltica,¬segundo¬
+a¬ABNT¬NBR¬9574?¬
+¬
+(A)¬Aplicação¬de¬argamassa¬de¬cimento¬e¬areia¬diretamente¬
+sobre¬o¬substrato.¬
+(B)¬Execução¬ da¬ regularização¬ com¬ caimento¬ adequado¬ e¬
+secagem¬mínima¬exigida.¬
+(C)¬Instalação¬de¬uma¬camada¬de¬proteção¬mecânica¬antes¬
+da¬manta.¬
+(D)¬Impermeabilização¬ prévia¬ com¬ argamassa¬ polimérica¬
+antes¬da¬aplicação¬da¬manta.¬
+(E)¬Aplicação¬de¬pintura¬betuminosa¬como¬acabamento¬final.¬
+##### 
+¬
+{30} 
+De¬acordo¬com¬a¬ABNT¬NBR¬9574,¬quais¬são¬as¬principais¬
+causas¬de¬falhas¬em¬sistemas¬de¬impermeabilização?¬
+¬
+(A)¬Uso¬de¬materiais¬de¬alta¬durabilidade¬sem¬necessidade¬de¬
+manutenção¬periódica.¬
+(B)¬Falta¬ de¬ detalhamento¬ e¬ execução¬ inadequada¬ dos¬
+encontros¬e¬ralos.¬
+(C)¬Aplicação¬ de¬ impermeabilizantes¬ com¬ espessura¬ acima¬
+do¬especificado¬na¬norma.¬
+(D)¬Utilização¬de¬impermeabilizantes¬que¬permitem¬absorção¬
+capilar.¬
+(E)¬Execução¬da¬impermeabilização¬sobre¬superfícies¬secas¬e¬
+regulares.¬
+##### 
+{31} 
+Sobre¬
+os¬
+critérios¬
+para¬
+seleção¬
+do¬
+sistema¬
+de¬
+impermeabilização¬ conforme¬ a¬ ABNT¬ NBR¬ 9575¬ de¬ 2010,¬
+assinale¬a¬alternativa¬correta.¬
+¬
+(A)¬A¬ escolha¬ do¬ sistema¬ de¬ impermeabilização¬ deve¬ ser¬
+baseada¬apenas¬na¬durabilidade¬dos¬materiais¬utilizados.¬
+(B)¬O¬ sistema¬ de¬ impermeabilização¬ deve¬ ser¬ definido¬
+considerando¬
+fatores¬
+como¬
+exposição¬
+ao¬
+tempo,¬
+movimentação¬estrutural¬e¬uso¬final¬da¬edificação.¬
+(C)¬A¬impermeabilização¬rígida¬deve¬ser¬sempre¬utilizada¬em¬
+estruturas¬sujeitas¬a¬movimentação¬térmica.¬
+(D)¬Para¬ lajes¬ expostas,¬ a¬ impermeabilização¬ deve¬ ser¬
+exclusivamente¬composta¬por¬mantas¬asfálticas.¬
+(E)¬A¬norma¬não¬exige¬a¬realização¬de¬estudos¬prévios¬para¬
+a¬escolha¬do¬sistema¬de¬impermeabilização.¬
+##### 
+¬
+{32} 
+Sobre¬ a¬ classificação¬ dos¬ sistemas¬ de¬ impermeabilização¬
+conforme¬a¬ABNT¬NBR¬9575,¬marque¬a¬alternativa¬correta:¬
+¬
+(A)¬Sistemas¬ rígidos¬ são¬ os¬ mais¬ indicados¬ para¬ lajes¬
+expostas¬ao¬tempo.¬
+(B)¬Sistemas¬ flexíveis¬ são¬ recomendados¬ para¬ estruturas¬
+sujeitas¬a¬movimentação,¬como¬pontes¬e¬lajes¬suspensas.¬
+(C)¬A¬ impermeabilização¬ rígida¬ e¬ a¬ flexível¬ possuem¬
+desempenho¬semelhante¬e¬podem¬ser¬intercambiáveis¬em¬
+qualquer¬situação.¬
+(D)¬A¬ impermeabilização¬ por¬ cristalização¬ é¬ a¬ única¬
+recomendada¬para¬subsolos.¬
+(E)¬Sistemas¬ de¬ impermeabilização¬ devem¬ sempre¬ ser¬
+compostos¬ por¬ mais¬ de¬ uma¬ camada¬ de¬ produto¬ para¬
+serem¬eficazes.¬
+##### 
+¬
+{33} 
+De¬ acordo¬ com¬ a¬ Lei¬ nº¬ 8.666/1993,¬ o¬ que¬ caracteriza¬ a¬
+inexigibilidade¬de¬licitação?¬
+¬
+(A)¬A¬impossibilidade¬de¬concorrência¬por¬haver¬apenas¬um¬
+fornecedor¬para¬determinado¬bem¬ou¬serviço.¬
+(B)¬A¬ decisão¬ do¬ gestor¬ público¬ em¬ contratar¬ diretamente¬
+qualquer¬empresa¬sem¬justificativa.¬
+(C)¬A¬ realização¬ de¬ uma¬ licitação¬ deserta,¬ ou¬ seja,¬ sem¬
+interessados.¬
+(D)¬A¬compra¬de¬produtos¬que¬possuem¬desconto¬significativo¬
+em¬promoções.¬
+(E)¬A¬ situação¬ de¬ emergência,¬ quando¬ não¬ há¬ tempo¬ hábil¬
+para¬realizar¬o¬processo¬licitatório.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+  Concurso Edital RH nº 007/2025 – Engenheiro (Área Civil; especialidade: Obras e serviços de engenharia) 
+{34} 
+No¬âmbito¬da¬Lei¬nº¬8.666/1993,¬em¬quais¬hipóteses¬a¬licitação¬
+pode¬ser¬dispensável?¬
+¬
+(A)¬Quando¬há¬inviabilidade¬de¬competição.¬
+(B)¬Quando¬ ocorre¬ emergência¬ ou¬ calamidade¬ pública,¬
+comprometendo¬a¬segurança¬de¬pessoas¬ou¬bens.¬
+(C)¬Quando¬ o¬ objeto¬ licitado¬ é¬ de¬ baixo¬ valor¬ e¬ não¬
+compromete¬o¬orçamento¬público.¬
+(D)¬Quando¬ houver¬ necessidade¬ de¬ adquirir¬ bens¬ de¬ um¬
+fornecedor¬específico,¬independentemente¬de¬justificativa.¬
+(E)¬Quando¬ a¬ Administração¬ desejar¬ contratar¬ diretamente¬
+empresas¬de¬sua¬preferência.¬
+##### 
+¬
+{35} 
+De¬acordo¬com¬a¬ABNT¬NBR¬12284,¬quais¬são¬os¬requisitos¬
+mínimos¬para¬os¬alojamentos¬em¬canteiros¬de¬obras?¬
+¬
+(A)¬Devem¬ possuir¬ camas,¬ armários¬ individuais,¬ ventilação,¬
+iluminação¬natural¬e¬sanitários¬próximos.¬
+(B)¬Podem¬ ser¬ improvisados¬ com¬ lonas¬ ou¬ outros¬ materiais¬
+temporários,¬desde¬que¬protegidos¬contra¬chuva.¬
+(C)¬São¬obrigatórios¬apenas¬para¬canteiros¬de¬obras¬com¬mais¬
+de¬100¬trabalhadores.¬
+(D)¬Devem¬ser¬construídos¬com¬paredes¬de¬tijolo¬e¬telhado¬de¬
+telha¬cerâmica,¬sem¬exceção.¬
+(E)¬Podem¬ ser¬ compartilhados¬ por¬ qualquer¬ quantidade¬ de¬
+trabalhadores,¬ sem¬ necessidade¬ de¬ espaço¬ mínimo¬ por¬
+pessoa.¬
+##### 
+¬
+{36} 
+A¬ABNT¬NBR¬15575-1¬define¬critérios¬de¬desempenho¬para¬
+edificações¬habitacionais.¬Sobre¬o¬critério¬de¬estanqueidade,¬
+assinale¬a¬alternativa¬correta.¬
+¬
+(A)¬A¬edificação¬deve¬ser¬projetada¬para¬suportar¬infiltrações¬
+ocasionais,¬pois¬isso¬não¬compromete¬a¬habitabilidade.¬
+(B)¬A¬estanqueidade¬é¬um¬critério¬apenas¬para¬edificações¬de¬
+alto¬padrão,¬sem¬exigências¬para¬habitações¬populares.¬
+(C)¬O¬sistema¬de¬vedação¬vertical¬deve¬impedir¬a¬penetração¬
+indesejada¬ de¬ água,¬ conforme¬ a¬ classe¬ de¬ exposição¬
+definida¬no¬projeto.¬
+(D)¬O¬ desempenho¬ de¬ estanqueidade¬ não¬ depende¬ da¬
+manutenção¬da¬edificação.¬
+(E)¬A¬ norma¬ não¬ estabelece¬ critérios¬ para¬ a¬ avaliação¬ da¬
+estanqueidade.¬
+##### 
+¬
+{37} 
+Pela¬ordem¬de¬montagem,¬um¬sistema¬tradicional¬de¬fôrmas¬
+de¬ lajes¬ maciças¬ de¬ concreto¬ armado¬ compõe-se¬ dos¬
+seguintes¬principais¬elementos:¬
+¬
+(A)¬Painéis,¬travessas,¬faixas,¬reescoramento.¬
+(B)¬Escoramento,¬travessas,¬longarinas,¬painéis.¬
+(C)¬Escoramento,¬pontaletes,¬garfos,¬painéis.¬
+(D)¬Gastalhos,¬moldes,¬escoramento,¬extensores.¬
+(E)¬Escoramento,¬longarinas,¬travessas,¬painéis¬(molde).¬
+##### 
+ 
+ 
+ 
+{38} 
+São¬exemplos¬de¬tipos¬de¬fundações¬profundas¬utilizadas¬em¬
+edifícios:¬
+¬
+(A)¬Sapata,¬viga¬baldrame,¬bloco.¬
+(B)¬Tubulão,¬tubulão¬a¬ar¬comprimido,¬estaca¬barrete.¬
+(C)¬Radier,¬contrapiso¬armado,¬parede¬cortina.¬
+(D)¬ Estaca¬ pré-fabricada¬ de¬ concreto,¬ estaca¬ tipo¬ hélice¬
+continua,¬estaca¬metálica.¬
+(E)¬Matacão,¬gabiões,¬muro¬de¬arrimo.¬
+##### 
+¬
+{39} 
+Na¬ execução¬ de¬ revestimentos¬ de¬ fachadas¬ de¬ edifícios,¬
+pode-se¬encontrar¬desvios¬de¬prumo¬significativos,¬o¬que¬leva,¬
+em¬ geral,¬ a¬ um¬ aumento¬ do¬ consumo¬ de¬ materiais¬ de¬
+revestimento¬ e¬ pode¬ prejudicar¬ o¬ desempenho¬ e¬ a¬
+durabilidade¬das¬fachadas.¬Entre¬as¬principais¬causas¬desses¬
+desvios,¬podem¬ser¬citadas:¬
+¬
+(A)¬Areia¬ contaminada,¬ cimento¬ vencido,¬ calor¬ excessivo,¬
+furtos¬em¬obra.¬
+(B)¬Mão¬de¬obra¬desqualificada,¬inflação¬dos¬materiais,¬juros¬
+de¬financiamento.¬
+(C)¬Falha¬de¬projeto,¬mão¬de¬obra¬desqualificada,¬estratégia¬
+comercial.¬
+(D)¬Controles¬ deficientes¬ da¬ geometria¬ das¬ fôrmas,¬ da¬
+concretagem¬ou¬mão¬de¬obra¬desqualificada.¬
+(E)¬Controle¬do¬orçamento,¬economia¬de¬custos,¬material¬fora¬
+de¬norma.¬
+##### 
+¬
+{40} 
+Quanto¬à¬relação¬ entre¬coordenação¬e¬ compatibilização¬de¬
+projetos,¬pode-se¬afirmar:¬
+¬
+(A)¬Coordenação¬
+e¬
+compatibilização¬
+de¬
+projetos¬
+são¬
+sinônimas,¬ diferenciando-se¬ apenas¬ pela¬ forma¬ de¬
+contratação,¬
+sendo¬
+a¬
+coordenação¬
+interna¬
+e¬
+a¬
+compatibilização,¬terceirizada.¬
+(B)¬A¬coordenação¬de¬projetos¬é¬uma¬atividade¬gerencial¬de¬
+cunho¬ analógico,¬ enquanto¬ a¬ compatibilização¬ é¬ digital,¬
+com¬uso¬de¬software¬BIM¬para¬clash¬detection.¬
+(C)¬A¬coordenação¬de¬projetos¬deve¬atuar¬no¬sentido¬de¬evitar¬
+as¬ possíveis¬ discrepâncias¬ ou¬ incoerências¬ entre¬ as¬
+informações¬ produzidas¬ por¬ diferentes¬ membros¬ da¬
+equipe¬de¬projeto,¬de¬forma¬a¬reduzir¬a¬necessidade¬da¬
+compatibilização¬de¬projetos.¬
+(D)¬A¬compatibilização¬de¬projetos¬envolve¬principalmente¬a¬
+verificação¬e¬análise¬crítica¬dos¬modelos¬BIM,¬enquanto¬a¬
+coordenação¬foca¬exclusivamente¬na¬validação¬final¬dos¬
+projetos.¬
+(E)¬Dependendo¬do¬grau¬de¬maturidade¬na¬implementação¬de¬
+tecnologia¬ BIM,¬ a¬ norma¬ NBR¬ ISO¬ 19.650¬ exige¬ a¬
+coordenação¬de¬projetos¬(nível¬2)¬ou¬a¬compatibilização¬
+de¬projetos¬(nível¬1).¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+  Concurso Edital RH nº 007/2025 – Engenheiro (Área Civil; especialidade: Obras e serviços de engenharia) 
+{41} 
+Quanto¬ à¬ tecnologia¬ de¬ sistemas¬ prediais,¬ assinale¬ a¬ frase¬
+correta¬sobre¬as¬inovações¬recentes¬adotadas¬na¬construção¬
+de¬edificações.¬
+¬
+(A)¬Os¬sistemas¬de¬água¬quente¬passam¬a¬poder¬utilizar¬tubos¬
+de¬ aço¬ galvanizado¬ para¬ melhoria¬ do¬ desempenho¬ e¬
+redução¬de¬custos.¬
+(B)¬A¬climatização¬de¬edifícios,¬utilizando¬aparelhos¬split¬de¬
+última¬ geração,¬ é¬ classificada¬ pelo¬ INMETRO¬ como¬
+carbono¬neutro.¬
+(C)¬Um¬ painel¬ fotovoltaico,¬ comumente¬ chamado¬ de¬ painel¬
+solar,¬ contém¬ células¬ que¬ absorvem¬ a¬ luz¬ solar¬ e¬
+convertem¬energia¬solar¬em¬eletricidade.¬¬
+(D)¬A¬certificação¬de¬sistemas¬de¬automação¬predial¬utilizando¬
+gêmeos¬ digitais¬ pode¬ ser¬ feita¬ pela¬ norma¬ NBR¬ ISO¬
+45001:2018.¬
+(E)¬A¬ automação¬ predial¬ consiste¬ no¬ uso¬ de¬ tecnologias¬ e¬
+sistemas¬ automatizados¬ para¬ controlar,¬ monitorar¬ e¬
+gerenciar¬ diversos¬ subsistemas¬ de¬ um¬ edifício,¬ com¬
+exceção¬de¬sistemas¬de¬segurança,¬controle¬de¬acesso¬e¬
+elevadores.¬
+##### 
+¬
+{42} 
+Na¬ execução¬ de¬ vedações¬ verticais,¬ duas¬ tecnologias¬
+construtivas¬muito¬empregadas¬para¬as¬áreas¬internas¬são¬a¬
+alvenaria¬e¬o¬gesso¬acartonado¬(drywall).¬Considerando¬essas¬
+duas¬ opções¬ para¬ as¬ vedações¬ em¬ um¬ edifício¬ residencial,¬
+assinale¬a¬alternativa¬INCORRETA.¬
+¬
+(A)¬A¬racionalização¬construtiva¬da¬execução¬das¬paredes¬de¬
+alvenaria¬pode¬ser¬amplamente¬facilitada¬pela¬adoção¬de¬
+projetos¬para¬produção,¬detalhando¬as¬vedações¬e¬suas¬
+relações¬com¬outros¬sistemas¬do¬edifício.¬
+(B)¬A¬ adoção¬ de¬ gesso¬ acartonado¬ pode¬ aumentar¬ a¬
+produtividade¬ na¬ execução¬ das¬ vedações¬ internas¬ e¬
+oferece¬ soluções¬ adequadas¬ ao¬ atendimento¬ da¬ NBR¬
+15.575.¬
+(C)¬A¬ maior¬ flexibilidade¬ para¬ a¬ colocação¬ e¬ futura¬
+manutenção¬ das¬ instalações¬ prediais¬ embutidas¬ nas¬
+paredes¬ internas¬ é¬ uma¬ das¬ vantagens¬ do¬ gesso¬
+acartonado¬sobre¬a¬alvenaria.¬
+(D)¬Fatores¬como¬custo¬de¬materiais¬e¬de¬serviços,¬aspectos¬
+culturais¬ e¬ qualificação¬ da¬ mão¬ de¬ obra¬ estão¬ entre¬ os¬
+fatores¬que¬podem¬reduzir¬a¬adoção¬do¬gesso¬acartonado,¬
+em¬comparação¬com¬a¬tradicional¬alvenaria¬de¬vedação.¬
+(E)¬As¬ paredes¬ de¬ gesso¬ acartonado¬ apresentam¬ como¬
+principal¬desvantagem¬a¬sua¬não-homologação¬para¬uso¬
+em¬edifícios¬altos¬ou¬situados¬em¬regiões¬litorâneas.¬
+##### 
+¬
+{43} 
+Além¬dos¬dados¬do¬contratado,¬um¬contrato¬de¬prestação¬de¬
+serviços¬de¬execução¬de¬obras¬NÃO¬deve¬conter¬
+¬
+(A)¬a¬descrição¬detalhada¬dos¬serviços;¬
+(B)¬os¬prazos¬de¬execução¬dos¬serviços¬e¬de¬suas¬eventuais¬
+etapas;¬
+(C)¬valores¬e¬formas¬de¬medição¬e¬pagamento.¬
+(D)¬cláusulas¬de¬rescisão,¬multas¬e¬penalidades.¬
+(E)¬informações¬do¬dossiê¬de¬crédito¬do¬fornecedor.¬
+##### 
+ 
+ 
+ 
+{44} 
+Quanto¬à¬industrialização¬da¬construção,¬assinale¬a¬alternativa¬
+INCORRETA.¬¬
+¬
+(A)¬Os¬ níveis¬ atuais¬ de¬ industrialização¬ da¬ construção,¬ em¬
+ordem¬ crescente,¬ são:¬ tradicional,¬ inovador,¬ inovador¬
+mecanizado,¬
+mecanizado¬
+digital,¬
+mecanizado¬
+com¬
+inteligência¬artificial.¬
+(B)¬O¬emprego¬da¬pré-fabricação¬envolve,¬entre¬outros¬fatores¬
+de¬ sucesso,¬ sua¬ adoção¬ desde¬ a¬ fase¬ de¬ projeto¬ do¬
+empreendimento.¬
+(C)¬As¬iniciativas¬de¬industrialização¬da¬construção,¬ainda¬que¬
+sejam¬datadas¬de¬várias¬décadas,¬ganharam¬novo¬impulso¬
+no¬ Brasil¬ a¬ partir¬ da¬ difusão¬ de¬ tecnologias¬ digitais¬
+integrando¬projeto¬e¬produção¬off-site.¬
+(D)¬A¬mecanização¬da¬construção¬é¬dificultada¬por¬diversos¬
+fatores,¬podendo-se¬citar¬dentre¬eles:¬a¬sazonalidade¬dos¬
+contratos¬de¬construção;¬as¬características¬diversas¬dos¬
+projetos;¬a¬cultura¬dos¬empreendedores.¬
+(E)¬Os¬sistemas¬pré-fabricados¬podem¬ser¬classificados¬como¬
+sistemas¬de¬ciclo¬aberto¬e¬sistemas¬de¬ciclo¬fechado.¬
+##### 
+¬
+{45} 
+Sobre¬ o¬ desempenho¬ das¬ edificações,¬ identifique¬ a¬ única¬
+alternativa¬INCORRETA.¬
+¬
+(A)¬A¬ norma¬ técnica¬ ABNT¬ NBR¬ 15575:2013,¬ que¬ trata¬ do¬
+desempenho¬ de¬edificações¬habitacionais,¬foi¬publicada¬
+em¬19¬de¬fevereiro¬de¬2013¬e¬está¬sendo¬exigida¬desde¬19¬
+de¬julho¬do¬mesmo¬ano.¬
+(B)¬A¬ ABNT¬ NBR¬ 15575,¬ apesar¬ de¬ ser¬ destinada¬ a¬
+edificações¬habitacionais,¬induz¬outros¬setores¬a¬também¬
+estabelecerem¬ critérios¬ mínimos¬ de¬ referência,¬ como¬
+edificações¬escolares,¬hospitais,¬hotéis¬etc.¬
+(C)¬Ao¬construtor¬cabe¬elaborar¬os¬Manuais¬de¬Uso,¬Operação¬
+e¬Manutenção,¬bem¬como¬proposta¬de¬modelo¬de¬gestão¬
+da¬manutenção.¬
+(D)¬Os¬ projetistas¬ devem¬ estabelecer¬ a¬ Vida¬ Útil¬ de¬ Projeto¬
+(VUP)¬de¬cada¬sistema¬que¬compõe¬a¬obra,¬especificando¬
+materiais,¬produtos¬e¬processos¬que¬venham¬a¬atender¬ao¬
+desempenho¬mínimo¬requerido.¬
+(E)¬As¬ exigências¬ de¬ desempenho¬ são¬ estabelecidas¬
+qualitativamente;¬ como¬ exemplo,¬ um¬ piso¬ cerâmico¬ em¬
+área¬ molhada¬ não¬ pode¬ ser¬ escorregadio,¬ mas¬ não¬ se¬
+pode¬ exigir¬ qual¬ é¬ exatamente¬ o¬ coeficiente¬ de¬ atrito¬
+mínimo¬que¬esse¬piso¬deve¬apresentar.¬
+##### 
+¬
+{46} 
+Os¬planos¬de¬contratações¬e¬planos¬de¬suprimentos¬devem:¬¬
+¬
+(A)¬ser¬ estabelecidos¬ pelos¬ clientes¬ privados¬ ou¬ públicos¬ e¬
+executados¬pelas¬empresas¬construtoras¬contratadas.¬
+(B)¬ter¬
+caráter¬
+estratégico¬
+e¬
+interfaces¬
+definidas¬
+e¬
+coordenadas¬ com¬ o¬ planejamento¬ e¬ o¬ orçamento¬ das¬
+obras.¬
+(C)¬ser¬ substituídos¬ pelos¬ tradicionais¬ planos¬ de¬ gestão¬ de¬
+estoques,¬no¬caso¬de¬obras¬de¬infraestrutura.¬
+(D)¬conter¬ as¬ informações¬ de¬ vida¬ útil¬ exigidas¬ pela¬ norma¬
+ABNT¬NBR¬15.575.¬
+(E)¬ser¬ disponibilizados¬ aos¬ clientes¬ para¬ validação¬ e¬
+aprovação.¬
+##### 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+  Concurso Edital RH nº 007/2025 – Engenheiro (Área Civil; especialidade: Obras e serviços de engenharia) 
+{47} 
+Assinale¬ a¬ alternativa¬ INCORRETA¬ quanto¬ a¬ obtenção¬ do¬
+desempenho¬ das¬ edificações¬ em¬ conformidade¬ com¬ as¬
+normas¬brasileiras.¬
+¬
+(A)¬Verificar¬ se¬ existem¬ normas¬ técnicas¬ que¬ embasam¬
+tecnicamente¬os¬sistemas¬e¬produtos¬utilizados¬e¬quais¬são¬
+os¬ requisitos¬ de¬ desempenho¬ a¬ serem¬ considerados,¬
+assim¬ como¬ os¬ critérios¬ que¬ podem¬ ser¬ adotados¬ para¬
+análise¬desses¬requisitos.¬¬
+(B)¬Conhecer¬ a¬disponibilidade¬dos¬sistemas¬e¬produtos¬no¬
+mercado¬nacional,¬quais¬e¬quantos¬são¬os¬fornecedores¬
+possíveis¬ e¬ suas¬ eventuais¬ certificações¬ de¬ qualidade,¬
+quais¬ garantias¬ e¬ assistência¬ técnica¬ são¬ oferecidas¬
+contratualmente.¬
+(C)¬Produtos¬inovadores¬ou¬importados,¬frequentemente¬sem¬
+avaliação¬ de¬ desempenho¬ prévia¬ e¬ sem¬ garantia¬ de¬
+assistência¬ técnica,¬ não¬ devem¬ ser¬ adotados¬ antes¬ da¬
+realização¬de¬um¬DATEC¬ou¬de¬sua¬normalização¬técnica.¬¬
+(D)¬Qualquer¬ que¬ seja¬ o¬ projeto,¬ devem-se¬ identificar¬ os¬
+requisitos¬contidos¬nas¬normas¬técnicas,¬regulamentos¬e¬
+códigos¬de¬construção¬aplicáveis¬à¬edificação¬em¬pauta.¬
+(E)¬Em¬todos¬os¬casos,¬deve-se¬assegurar¬que¬seja¬aprovado¬
+pelo¬ cliente¬ um¬ aumento¬ do¬ orçamento¬ suficiente¬ para¬
+garantir¬ o¬ desempenho¬ dos¬ sistemas¬ e¬ produtos¬
+especificados.¬
+##### 
+¬
+{48} 
+Quanto¬ao¬planejamento¬e¬controle¬de¬obras¬de¬construção¬
+civil,¬assinale¬a¬alternativa¬correta.¬
+¬
+(A)¬Um¬ plano¬ de¬ ataque¬ é¬ constituído¬ pela¬ lista¬ de¬
+equipamentos¬ de¬ escavação¬ e¬ estaqueamento¬ a¬ serem¬
+utilizados¬
+para¬
+execução¬
+da¬
+infraestrutura¬
+do¬
+empreendimento.¬
+(B)¬Uma¬ Estrutura¬ Analítica¬ do¬ Projeto¬ (EAP)¬ deve¬ ser¬
+acompanhada¬pelas¬aprovações¬ambientais,¬antes¬de¬ser¬
+colocada¬em¬prática.¬
+(C)¬O¬cronograma¬físico-financeiro¬é¬definido¬pelo¬banco¬ou¬
+instituição¬financeira¬responsável,¬antes¬de¬ser¬aplicado¬às¬
+obras.¬
+(D)¬O¬ projeto¬ de¬ implantação¬ de¬ canteiro¬ de¬ obras¬ é¬ um¬
+elemento¬ de¬ apoio¬ às¬ decisões¬ de¬ planejamento¬ e¬
+controle.¬
+(E)¬Planejamento¬ e¬ controle¬ são¬ atividades¬ distintas,¬ que¬
+devem¬ser¬realizadas¬por¬profissionais¬diferentes,¬de¬forma¬
+a¬evitar¬conflitos.¬
+##### 
+¬
+{49} 
+A¬proposição¬de¬termos¬aditivos¬de¬contratos¬de¬execução¬de¬
+obras¬
+¬
+(A)¬não¬é¬permitida¬em¬contratos¬de¬obras¬públicas.¬
+(B)¬é¬uma¬prática¬associada¬a¬mecanismos¬de¬corrupção.¬
+(C)¬deve¬ser¬acompanhada¬da¬devida¬justificativa¬técnica.¬
+(D)¬é¬aplicável¬de¬forma¬automática¬em¬situações¬de¬contexto¬
+inflacionário.¬
+(E)¬pode¬ser¬evitada¬com¬um¬melhor¬controle¬de¬custos¬das¬
+obras.¬
+##### 
+ 
+ 
+ 
+ 
+{50} 
+O¬ Plano¬ da¬ Qualidade¬ da¬ Obra¬ (PQO),¬ no¬ âmbito¬ de¬ uma¬
+empresa¬ construtora¬ com¬ sistema¬ de¬ gestão¬ da¬ qualidade¬
+certificado¬(PBQP-H¬ou¬ISO¬9001),¬
+¬
+(A)¬somente¬é¬exigível¬para¬obras¬de¬grande¬porte.¬
+(B)¬deve¬ contemplar¬ a¬ particularização¬ dos¬ processos¬ de¬
+gestão¬da¬qualidade¬ao¬contexto¬e¬requisitos¬particulares¬
+de¬cada¬obra.¬
+(C)¬é¬um¬documento¬padrão¬que¬deve¬ser¬disponibilizado¬no¬
+Manual¬ da¬ Qualidade,¬ parte¬ integrante¬ do¬ sistema¬ de¬
+gestão¬da¬empresa.¬
+(D)¬é¬preparado¬pelos¬laboratórios¬encarregados¬do¬controle¬
+da¬qualidade¬das¬obras.¬
+(E)¬faz¬ parte¬ obrigatoriamente¬ dos¬ documentos¬ de¬ projeto¬
+entregues¬pelo¬cliente,¬entre¬diversos¬anexos¬de¬contrato.¬
+##### 
+¬
+{51} 
+Segundo¬ o¬ Ministério¬ do¬ Trabalho¬ e¬ Emprego,¬ as¬ Normas¬
+Regulamentadoras¬(NR)¬são¬disposições¬complementares¬ao¬
+Capítulo¬ V¬ (Da¬ Segurança¬ e¬ da¬ Medicina¬ do¬ Trabalho)¬ do¬
+Título¬II¬da¬Consolidação¬das¬Leis¬do¬Trabalho¬(CLT).¬Nesse¬
+contexto,¬assinale¬a¬alternativa¬INCORRETA.¬
+¬
+(A)¬O¬Programa¬de¬Condições¬e¬Meio¬Ambiente¬de¬Trabalho¬
+na¬ Indústria¬ da¬ Construção¬ Civil¬ (PCMAT)¬ era¬ exigido¬
+segundo¬ a¬ versão¬ antiga¬ das¬ normas¬ regulamentadoras¬
+(NR).¬
+(B)¬O¬ Programa¬ de¬ Gerenciamento¬ de¬ Riscos¬ (PGR)¬ é¬
+obrigatório,¬
+segundo¬
+estabelecido¬
+pela¬
+Norma¬
+Regulamentadora¬ –¬ NR¬ 18,¬ contemplando¬ os¬ riscos¬
+ocupacionais¬e¬suas¬respectivas¬medidas¬de¬prevenção.¬
+(C)¬O¬Programa¬de¬Prevenção¬de¬Riscos¬Ambientais¬(PPRA)¬é¬
+um¬ programa¬ obrigatório¬ estabelecido¬ pela¬ NR¬ 9,¬ que¬
+inclui¬riscos¬ergonômicos¬e¬de¬acidente¬de¬trabalho.¬
+(D)¬O¬Programa¬de¬Controle¬Médico¬de¬Saúde¬Ocupacional¬
+(PCMSO)¬ é¬ estabelecido¬ pela¬ Norma¬ Regulamentadora¬
+NR¬7.¬
+(E)¬O¬Projeto¬de¬Gerenciamento¬de¬Resíduos¬da¬Construção¬
+Civil¬(PGRCC)¬é¬uma¬exigência¬de¬alguns¬municípios¬para¬
+a¬aprovação¬do¬projeto¬de¬uma¬edificação.¬
+##### 
+¬
+{52} 
+A¬gestão¬de¬obras¬de¬construção¬pode¬ser¬definida¬como¬o¬
+conjunto¬ de¬ atividades¬ necessárias¬ ao¬ cumprimento¬ dos¬
+objetivos¬da¬execução¬de¬um¬empreendimento¬de¬construção,¬
+incluindo,¬
+¬
+(A)¬a¬responsabilidade¬jurídica¬frente¬ao¬contrato¬estabelecido¬
+entre¬construtora¬e¬cliente,¬assim¬como¬o¬suporte¬técnico¬
+para¬avaliações¬e¬perícias.¬
+(B)¬o¬ planejamento¬ e¬ programação¬ das¬ atividades¬ de¬
+execução,¬seu¬controle¬e¬entrega¬final,¬observando-se¬os¬
+requisitos¬ da¬ qualidade,¬ o¬ cumprimento¬ dos¬ prazos¬ e¬ o¬
+respeito¬ao¬orçamento¬estipulado.¬
+(C)¬a¬ coordenação¬ dos¬ projetos¬ do¬ empreendimento¬ de¬
+construção¬em¬canteiro¬de¬obras.¬
+(D)¬o¬treinamento¬e¬qualificação¬de¬auditores¬de¬certificação¬
+da¬qualidade¬de¬materiais¬e¬serviços.¬
+(E)¬a¬parceria¬com¬outras¬empresas¬para¬estabelecimento¬de¬
+referenciais¬de¬custos¬e¬de¬prazos¬de¬construção.¬
+##### 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+  Concurso Edital RH nº 007/2025 – Engenheiro (Área Civil; especialidade: Obras e serviços de engenharia) 
+{53} 
+Os¬ dados¬ necessários¬ à¬ elaboração¬ de¬ planilha¬ de¬
+quantificação¬de¬materiais¬e¬serviços¬devem¬ser¬extraídos¬do¬
+projeto.¬ A¬ eventual¬ presença¬ de¬ erros¬ nessa¬ planilha¬ pode¬
+afetar¬
+a¬
+confiabilidade¬
+do¬
+orçamento,¬
+com¬
+graves¬
+consequências¬para¬os¬contratos¬e¬a¬qualidade¬dos¬serviços¬
+de¬construção;¬nesse¬sentido,¬são¬possíveis¬origens¬de¬erros¬
+de¬quantificação:¬
+¬
+(A)¬Erros¬de¬projeto¬envolvendo¬as¬informações¬contidas¬nos¬
+arquivos¬ (modelos)¬ fornecidos¬ pelos¬ arquitetos¬ ou¬
+engenheiros¬ responsáveis,¬ assim¬ como¬ informações¬
+ausentes¬nesses¬mesmos¬arquivos.¬
+(B)¬A¬ desconsideração¬ do¬ índice¬ INCC-DI,¬ índice¬ calculado¬
+pela¬FGV¬com¬o¬objetivo¬de¬medir¬a¬variação¬dos¬preços¬
+de¬materiais,¬mão-de-obra¬e¬serviços¬de¬construção.¬
+(C)¬O¬uso¬de¬planilha¬com¬preços¬desatualizados¬de¬aluguel¬
+de¬ equipamentos¬ de¬ construção,¬ tais¬ como¬ gruas,¬
+elevadores,¬equipamentos¬de¬escavação¬e¬transporte¬etc.¬
+(D)¬A¬
+consideração¬
+de¬
+variações¬
+de¬
+produtividade¬
+decorrentes¬de¬condições¬climáticas¬sazonais.¬
+(E)¬O¬uso¬de¬normas¬ABNT¬canceladas¬ou¬desatualizadas¬na¬
+preparação¬das¬planilhas¬de¬orçamento.¬
+##### 
+¬
+{54} 
+O¬ processo¬ de¬ orçamento¬ de¬ obras¬ de¬ construção¬ envolve¬
+como¬principais¬etapas¬de¬desenvolvimento:¬
+¬
+(A)¬Modelagem¬BIM¬4D¬e¬5D;¬sincronização¬de¬modelos¬com¬
+indicadores¬de¬inflação;¬cálculo¬de¬impostos¬e¬taxas.¬
+(B)¬Planilhamento¬ de¬ quantidades;¬ solicitação¬ de¬ propostas¬
+de¬fornecedores;¬concorrência¬de¬compra¬e¬contratação.¬
+(C)¬Seleção¬ de¬ software¬ de¬ orçamento;¬ processamento¬ de¬
+dados¬de¬custos;¬codificação¬de¬itens.¬
+(D)¬Avaliação¬
+das¬
+condições¬
+do¬
+canteiro¬
+de¬
+obras;¬
+subcontratação¬ da¬ mão¬ de¬ obra;¬ redução¬ de¬ custos¬
+operacionais.¬
+(E)¬Análise¬de¬projetos¬e¬memoriais;¬classificação¬de¬custos¬
+diretos¬e¬indiretos;¬quantificação¬de¬itens¬de¬orçamento;¬
+levantamento¬dos¬custos¬unitários;¬estimativa¬de¬perdas¬de¬
+materiais¬ e¬ da¬ produtividade¬ de¬ mão¬ de¬ obra¬ e¬
+equipamentos;¬ cálculo¬ de¬ BDI¬ (Benefícios¬ e¬ Despesas¬
+Indiretas);¬análise¬crítica¬e¬ajustes.¬
+##### 
+¬
+{55} 
+Na¬fiscalização¬e¬controle¬de¬obras,¬devem¬ser¬levados¬em¬
+conta¬
+¬
+(A)¬o¬status¬quanto¬ao¬tempo¬de¬certificação¬da¬construtora¬
+(por¬
+exemplo,¬
+ISO¬
+9001¬
+desde¬
+2010)¬
+e¬
+do¬
+empreendimento¬(ISO¬25001).¬
+(B)¬os¬ parâmetros¬ de¬ escopo,¬ custos,¬ prazos¬ e¬ qualidade,¬
+definidos¬em¬contratos¬e¬ordens¬de¬serviço,¬ou¬constantes¬
+das¬ normas¬ técnicas,¬ regulamentos¬ e¬ códigos¬ de¬
+construção¬ou¬de¬aprovação¬aplicáveis.¬
+(C)¬a¬influência¬desfavorável¬das¬condições¬climáticas,¬como¬
+fator¬de¬atenuação¬das¬exigências¬de¬fiscalização.¬
+(D)¬os¬documentos¬de¬auditoria¬financeira¬e¬status¬fiscal¬da¬
+construtora.¬
+(E)¬a¬ qualificação¬ da¬ mão¬ de¬ obra¬ local,¬ empregada¬ na¬
+execução¬das¬obras.¬
+##### 
+ 
+ 
+{56} 
+Previamente¬à¬correta¬elaboração¬de¬medições¬de¬serviços¬
+executados¬ou¬em¬andamento,¬qual¬dos¬seguintes¬cuidados¬
+NÃO¬é¬exigido.¬
+¬
+(A)¬Análise¬ de¬ projetos¬ e¬ memoriais¬ em¬ suas¬ versões¬
+atualizadas.¬
+(B)¬Preparo¬ e¬ calibração¬ de¬ instrumentos¬ de¬ medida¬
+necessários.¬
+(C)¬Avaliação¬de¬relatórios¬de¬medições¬anteriores,¬se¬houver.¬
+(D)¬Verificação¬da¬qualificação¬da¬mão¬de¬obra¬responsável¬
+pelos¬serviços.¬
+(E)¬Conhecimento¬ das¬ normas¬ técnicas¬ e¬ ambientais,¬
+regulamentos¬e¬códigos¬aplicáveis.¬
+##### 
+¬
+{57} 
+A¬verificação¬e¬validação¬de¬as¬built¬da¬obra¬é:¬
+¬
+(A)¬Obrigatória,¬por¬causa¬de¬exigências¬contidas¬no¬código¬
+do¬consumidor;¬
+(B)¬Realizada¬ de¬ forma¬ automática,¬ no¬ caso¬ de¬ projetos¬
+elaborados¬com¬software¬de¬modelagem¬(BIM);¬
+(C)¬Necessária¬em¬caso¬de¬exigência¬contratual¬estabelecida¬
+por¬ contratantes¬ do¬ setor¬ público,¬ mas¬ dispensável¬ em¬
+contratos¬com¬clientes¬privados.¬
+(D)¬Dispensada¬em¬obras¬de¬retrofit¬e¬reforma¬de¬edificação¬
+existente.¬
+(E)¬Aplicável¬ apenas¬ nas¬ obras¬ em¬ que¬ o¬ idioma¬ de¬
+comunicação¬oficial¬é¬o¬inglês.¬
+##### 
+¬
+{58} 
+Com¬relação¬ao¬databook,¬assinale¬a¬alternativa¬correta.¬
+¬
+(A)¬Um¬ sistema¬ digital¬ de¬ última¬ geração¬ dispensa¬ a¬
+necessidade¬de¬uso¬de¬databooks.¬
+(B)¬O¬databook¬centraliza¬todas¬as¬informações¬relevantes¬de¬
+uma¬obra,¬desde¬os¬projetos¬iniciais¬até¬os¬documentos¬
+finais¬de¬entrega.¬
+(C)¬A¬verificação¬e¬validação¬de¬databook¬da¬obra¬é¬realizada¬
+por¬auditoria¬do¬Banco¬Central.¬
+(D)¬O¬databook¬é¬um¬livro¬de¬caráter¬gerencial¬que¬associa¬
+todas¬as¬datas¬importantes¬aos¬entregáveis¬das¬obras¬de¬
+construção.¬
+(E)¬Databook¬
+é¬
+uma¬
+prática¬
+adotada¬
+em¬
+licitações¬
+internacionais,¬
+para¬
+classificação¬
+das¬
+propostas¬
+apresentadas¬pelos¬concorrentes.¬
+##### 
+¬
+{59} 
+As¬técnicas¬e¬ensaios¬usuais¬para¬avaliação¬de¬parâmetros¬de¬
+desempenho¬ e¬ segurança¬ de¬ estruturas¬ existentes¬ NÃO¬
+incluem:¬
+¬
+(A)¬Inspeção¬com¬uso¬de¬drone.¬
+(B)¬Prova¬de¬carga.¬
+(C)¬Retirada¬de¬testemunhos.¬
+(D)¬Ultrassom¬e¬ressonância¬magnética.¬
+(E)¬Infiltração¬de¬acidulantes¬e¬calcificantes.¬
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 12 ---
+
+  Concurso Edital RH nº 007/2025 – Engenheiro (Área Civil; especialidade: Obras e serviços de engenharia) 
+{60} 
+A¬ etapa¬ de¬ diagnóstico¬ de¬ manifestações¬ patológicas¬ em¬
+construções,¬ como¬ base¬ para¬ a¬ emissão¬ de¬ pareceres¬ e¬
+laudos¬técnicos¬inclui:¬
+¬
+(A)¬Seleção¬de¬técnicas¬e¬materiais¬de¬recuperação¬e¬reparo¬
+da¬manifestação¬patológica.¬
+(B)¬Prognóstico¬ do¬ caso¬ e¬ avaliação¬ dos¬ custos¬ de¬
+recuperação¬e¬reparo¬da¬manifestação¬patológica.¬
+(C)¬Atribuição¬ de¬ responsabilidades¬ civis¬ quanto¬ às¬ perdas¬
+decorrentes¬da¬manifestação¬patológica.¬
+(D)¬Anamnese¬ do¬ caso,¬ para¬ reconstituição¬ do¬ histórico¬ da¬
+manifestação¬patológica,¬como¬base¬para¬a¬determinação¬
+das¬origens¬de¬causas¬do¬fenômeno.¬
+(E)¬Informação¬ao¬cliente¬quanto¬ao¬valor¬total¬dos¬prejuízos¬
+operacionais¬decorrentes¬da¬manifestação¬patológica.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+¬
+
+
+--- PAGE 13 ---
+
+  Concurso Edital RH nº 007/2025 – Engenheiro (Área Civil; especialidade: Obras e serviços de engenharia) 
+Questão dissertativa 
+O¬diálogo¬competitivo¬surge¬como¬uma¬modalidade¬de¬contratação¬utilizada¬em¬situações¬de¬elevada¬complexidade,¬permitindo¬à¬
+Administração¬dialogar¬com¬potenciais¬fornecedores¬antes¬da¬apresentação¬das¬propostas¬finais.¬Esse¬procedimento¬se¬justifica¬
+quando¬ a¬ formulação¬ da¬ solução¬ mais¬ adequada¬ demanda¬ a¬ interação¬ entre¬ o¬ setor¬ público¬ e¬ agentes¬ privados,¬ sendo¬ uma¬
+alternativa¬às¬contratações¬tradicionais.¬No¬entanto,¬sua¬aplicabilidade¬no¬âmbito¬das¬obras¬e¬serviços¬de¬engenharia¬levanta¬
+questionamentos¬sobre¬a¬viabilidade¬jurídica¬e¬técnica¬do¬modelo,¬considerando¬aspectos¬como¬a¬necessidade¬de¬projeto¬básico¬
+detalhado,¬os¬princípios¬da¬isonomia¬e¬da¬competitividade,¬e¬os¬desafios¬inerentes¬à¬concepção¬e¬execução¬de¬empreendimentos¬
+públicos.¬
+¬
+Considerando¬esse¬contexto,¬discorra¬sobre¬os¬desafios¬e¬as¬possibilidades¬da¬utilização¬do¬diálogo¬competitivo¬para¬a¬contratação¬
+de¬obras¬e¬serviços¬de¬engenharia,¬tendo¬em¬vista¬os¬impactos¬dessa¬modalidade¬na¬eficiência¬das¬contratações¬públicas,¬a¬
+segurança¬jurídica¬do¬procedimento¬e¬as¬limitações¬normativas¬existentes.¬Valha-se¬de¬exemplos¬para¬embasar¬sua¬resposta.¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Instruções:  
+• As¬respostas¬deverão¬ser¬redigidas¬de¬acordo¬com¬a¬norma¬padrão¬da¬língua¬portuguesa.¬¬
+• Escreva¬com¬letra¬legível¬e¬não¬ultrapasse¬o¬espaço¬de¬linhas¬disponíveis¬da¬folha¬de¬respostas.¬¬
+• Receberão¬nota¬zero¬textos¬que¬desrespeitarem¬os¬direitos¬humanos¬e¬textos¬que¬permitirem,¬por¬qualquer¬modo,¬a¬identificação¬do¬candidato(a).¬
+
+
+--- PAGE 14 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RASCUNHO 
+ 
+ 
+NÃO SERÁ 
+CONSIDERADO NA 
+CORREÇÃO 
+
+
+--- PAGE 15 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RASCUNHO 
+ 
+ 
+NÃO SERÁ 
+CONSIDERADO NA 
+CORREÇÃO 
+
+
+--- PAGE 16 ---
+
+V2 
+
+
+--- PAGE 17 ---
+
+ 
+ 
+                 
+ 
+ 
+Universidade de São Paulo 
+GABARITO – CONCURSOS DRH USP – ABRIL/2025 
+ 
+ 
+ 
+ 
+Engenheiro (Área: Civil; especialidade: Obras e Serviços de Engenharia) – Edital RH Nº 007/2025 
+PROVA EGC 
+1 
+D 
+31 
+B 
+2 
+B 
+32 
+B 
+3 
+E 
+33 
+A 
+4 
+C 
+34 
+B 
+5 
+C 
+35 
+A 
+6 
+E 
+36 
+C 
+7 
+B 
+37 
+E 
+8 
+C 
+38 
+D 
+9 
+E 
+39 
+D 
+10 
+B 
+40 
+C 
+11 
+A 
+41 
+C 
+12 
+C 
+42 
+E 
+13 
+C 
+43 
+E 
+14 
+D 
+44 
+A 
+15 
+C 
+45 
+E 
+16 
+B 
+46 
+B 
+17 
+C 
+47 
+E 
+18 
+D 
+48 
+D 
+19 
+D 
+49 
+C 
+20 
+A 
+50 
+B 
+21 
+A 
+51 
+C 
+22 
+A 
+52 
+B 
+23 
+B 
+53 
+A 
+24 
+B 
+54 
+E 
+25 
+B 
+55 
+B 
+26 
+C 
+56 
+D 
+27 
+C 
+57 
+A 
+28 
+B 
+58 
+B 
+29 
+B 
+59 
+E 
+30 
+B 
+60 
+D 
+ 
+
+
+--- PAGE 18 ---
+
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 007/2025   
+ 
+Engenheiro (Civil: Obras e serviços de 
+engenharia) 
+ 
+QUESTÃO DISSERTATIVA 
+ 
+ 
+ 
+RESPOSTA ESPERADA 
+ 
+O diálogo competitivo é um procedimento licitatório previsto na Lei nº 14.133/2021 (Nova Lei de Licitações e 
+Contratos Administrativos), aplicável a contratações de elevada complexidade nas quais a Administração Pública não 
+consegue definir, por conta própria, a melhor solução para atender sua necessidade. Esse modelo permite que o poder 
+público dialogue com potenciais fornecedores antes da apresentação das propostas finais, possibilitando a construção 
+de soluções mais eficientes e inovadoras. 
+No caso das obras e serviços de engenharia, a adoção do diálogo competitivo apresenta desafios relevantes. O 
+principal entrave está na exigência tradicional de um projeto básico previamente detalhado para a licitação, conforme 
+determina o artigo 6º, inciso XX, da Lei nº 14.133/2021. No entanto, o próprio artigo 32, inciso II, da nova legislação 
+admite a utilização do diálogo competitivo em situações em que a Administração enfrenta dificuldades para especificar 
+os meios técnicos mais adequados à execução do contrato. Esse aspecto pode ser aplicado, por exemplo, a projetos 
+de infraestrutura inovadora, obras com tecnologia não disseminada no mercado ou empreendimentos de grande 
+complexidade técnica. 
+Do ponto de vista jurídico, a adoção dessa modalidade deve respeitar os princípios da isonomia, publicidade e 
+competitividade, previstos no artigo 5º da Lei nº 14.133/2021. Além disso, o processo deve ser conduzido com total 
+transparência, garantindo que todos os participantes tenham acesso às mesmas informações e oportunidades durante 
+o diálogo, evitando favorecimentos indevidos e reduzindo riscos de contestações. 
+No aspecto técnico e prático, a viabilidade do diálogo competitivo dependerá da natureza da contratação. Para 
+projetos padronizados, em que há ampla oferta de soluções conhecidas no mercado, essa abordagem não se justifica. 
+No entanto, em empreendimentos que demandam pesquisa e desenvolvimento de soluções personalizadas, como 
+grandes obras de infraestrutura com tecnologia inédita no Brasil ou parcerias para inovação em engenharia, essa 
+modalidade pode trazer ganhos significativos em termos de eficiência e segurança contratual. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 19 ---
+
+ 
+ 
+ 
+CRITÉRIOS DE CORREÇÃO 
+ 
+• Critério 1: Completude e abrangência dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+Os conceitos principais são abordados com profundidade e detalhamento. 
+2 
+A maioria dos conceitos principais é abordada, mas pode faltar algum detalhe ou profundidade. 
+1 
+Alguns conceitos principais são abordados, mas a explicação é superficial ou incompleta. 
+0  
+Pouco ou nenhum conceito relevante é abordado. 
+ 
+• Critério 2: Domínio e aprofundamento dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+A resposta é precisa, com informações corretas e bem explicadas. 
+2 
+A resposta é em sua maioria precisa, mas pode conter alguns pequenos erros ou imprecisões. 
+1 
+A resposta contém várias imprecisões ou erros conceituais, mas a ideia geral é compreensível. 
+0  
+A resposta está incorreta e confusa. 
+ 
+• Critério 3: Aplicação prática / exemplificação dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+A resposta faz uma excelente conexão entre os conceitos teóricos e suas aplicações práticas. 
+2 
+A resposta faz boas conexões entre teoria e prática, mas pode ser aprimorada com mais exemplos 
+ou detalhes. 
+1 
+A conexão entre teoria e prática é mencionada, mas é superficial ou pouco clara. 
+0  
+A resposta não aborda a aplicação prática e não apresenta exemplos dos conceitos. 
+ 
+• Critério 4: Clareza e Coerência (0 a 1 ponto): 
+Faixa de nota 
+Critério 
+1 
+O texto é extremamente claro e coerente, apresentando uma explicação lógica e bem estruturada 
+dos conceitos. 
+0,5 
+O texto é claro e coerente, com algumas pequenas falhas na estrutura ou na explicação. 
+0 
+O texto é compreensível, mas apresenta várias falhas na clareza ou na coerência que dificultam a 
+compreensão total. 
+ 
+ 
+ 

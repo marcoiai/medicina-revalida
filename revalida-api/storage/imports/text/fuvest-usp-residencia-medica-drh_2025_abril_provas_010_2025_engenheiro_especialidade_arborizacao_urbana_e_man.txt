@@ -1,0 +1,2417 @@
+
+
+--- PAGE 1 ---
+
+ 
+EGA 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 010/2025   
+ 
+Engenheiro (Arborização urbana e 
+manejo arbóreo) 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique¬se¬o¬seu¬nome¬está¬correto¬na¬capa¬deste¬caderno¬e¬se¬a¬folha¬de¬respostas¬pertence¬ao¬grupo EGA.¬
+Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+3. Durante¬a¬prova,¬são¬vedadas¬a¬comunicação¬entre¬candidatos¬e¬a¬utilização¬de¬qualquer¬material¬de¬consulta¬e¬
+de¬aparelhos¬de¬telecomunicação.¬
+4. Duração¬da¬prova:¬4¬horas.¬Cabe¬ao¬candidato¬controlar¬o¬tempo¬com¬base¬nas¬informações¬fornecidas¬pelo¬
+fiscal.¬O(A)¬candidato(a)¬poderá¬retirar-se¬da¬sala¬definitivamente¬apenas¬a¬partir¬das¬15¬h.¬Não¬haverá¬tempo¬
+adicional¬para¬preenchimento¬da¬folha¬de¬respostas.¬¬
+5. O(A)¬ candidato(a)¬ deverá¬ seguir¬ as¬ orientações¬ estabelecidas¬ pela¬ FUVEST¬ a¬ respeito¬ dos¬ procedimentos¬
+adotados¬para¬a¬aplicação¬deste¬concurso.¬
+6. Lembre-se¬de¬que¬a¬FUVEST¬se¬reserva¬ao¬direito¬de¬efetuar¬procedimentos¬adicionais¬de¬identificação¬e¬controle¬
+do¬ processo,¬ visando¬ a¬ garantir¬ a¬ plena¬ integridade¬ do¬ exame.¬ Assim,¬ durante¬ a¬ realização¬ da¬ prova,¬ será¬
+coletada¬por¬um¬fiscal¬uma¬foto¬do(a)¬candidato(a)¬para¬fins¬de¬reconhecimento¬facial,¬para¬uso¬exclusivo¬da¬USP¬
+e¬da¬FUVEST.¬A¬imagem¬não¬será¬divulgada¬nem¬utilizada¬para¬quaisquer¬outras¬finalidades,¬nos¬termos¬da¬lei.¬
+7. Após¬a¬autorização¬do¬fiscal¬da¬sala,¬verifique¬se¬o¬caderno¬está¬completo.¬Ele¬deve¬conter¬60¬questões¬objetivas,¬
+com¬5¬alternativas¬cada,¬e¬1¬questão¬dissertativa.¬Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+8. Preencha¬a¬folha¬de¬respostas¬com¬cuidado,¬utilizando¬caneta¬esferográfica¬de¬tinta azul ou preta.¬Essa¬folha¬
+não será substituída¬em¬caso¬de¬rasura.¬
+9. Ao¬final¬da¬prova,¬é¬obrigatória¬a¬devolução¬da¬folha¬de¬respostas¬acompanhada¬deste¬caderno¬de¬questões.¬
+Declaração 
+Declaro¬que¬li¬e¬estou¬ciente¬das¬informações¬que¬constam¬na¬capa¬desta¬prova,¬na¬folha¬de¬respostas,¬bem¬
+como¬dos¬avisos¬que¬foram¬transmitidos¬pelo¬fiscal¬de¬sala.¬
+¬
+___________________________________________________¬
+ASSINATURA¬
+O(a)¬candidato(a)¬que¬não¬assinar¬a¬capa¬da¬prova¬será¬considerado(a)¬ausente¬da¬prova.¬
+ 
+ 
+
+
+--- PAGE 2 ---
+
+Concurso Edital RH nº 010/2025 – Engenheiro (especialidade: Arborização urbana e manejo arbóreo) 
+Texto para as questões 01 e 02 
+¬
+Em¬silêncio¬¬
+¬
+¬
+Precisava¬de¬silêncio¬para¬pensar,¬ordenar¬sua¬vida¬
+e¬rumos.¬Juntou¬poucas¬coisas,¬navegou¬até¬uma¬ilha¬deserta.¬
+Mas¬a¬gritaria¬das¬aves¬marinhas¬fundia-se¬com¬o¬farfalhar¬do¬
+vento¬ nas¬ palmeiras,¬ e¬ quando¬ ambos¬ se¬ calavam,¬ batiam¬
+inevitáveis¬ as¬ ondas¬ contra¬ as¬ pedras.¬ Silêncio¬ não¬ havia.¬
+Tomou¬suas¬coisas,¬voltou¬ao¬continente,¬recolheu-se¬numa¬
+gruta¬ em¬ montanha¬ distante.¬ Embora¬ isolado,¬ logo¬ se¬ viu¬
+rodeado¬de¬ruídos,¬pequenos¬alguns,¬minúsculos¬outros,¬que¬
+o¬aparente¬silêncio¬circundante¬agigantava.¬Era¬o¬gotejar¬do¬
+excesso¬de¬umidade,¬o¬esvoejar¬dos¬morcegos¬ao¬anoitecer,¬
+o¬zumbir¬de¬um¬ou¬outro¬inseto,¬um¬gorjear¬lá¬fora,¬um¬escavar¬
+cá¬ dentro,¬ um¬ rastejar,¬ e¬ o¬ ronco¬ majestoso¬ dos¬ trovões,¬ o¬
+estalar¬dos¬relâmpagos.¬Novamente¬arrebanhou¬seus¬poucos¬
+pertences.¬ E¬ desceu¬ a¬ montanha,¬ regressou¬ à¬ cidade.¬ As¬
+chaves¬da¬sua¬casa¬tilintavam¬no¬bolso,¬não¬atendeu¬ao¬apelo.¬
+Tomou¬ônibus¬e¬metrô,¬caminhou¬até¬a¬praça¬mais¬central.¬Ali,¬
+onde¬tantos¬passavam¬e¬as¬buzinas¬dos¬carros¬e¬os¬apitos¬dos¬
+guardas¬e¬o¬gritar¬dos¬ambulantes¬e¬o¬chamado¬das¬sirenes¬
+se¬entrecruzavam,¬sentou-se.¬Assim¬como¬havia¬ignorado¬as¬
+chaves,¬ ignorou¬ os¬ sons¬ todos¬ que¬ lhe¬ atingiam¬ a¬ cabeça,¬
+esqueceu¬os¬ouvidos.¬E,¬vagarosamente,¬começou¬a¬descida¬
+em¬seu¬silêncio¬interior.¬
+¬
+Marina¬Colasanti.¬Hora¬de¬alimentar¬serpentes.¬Global,¬2013¬
+¬
+{01} 
+No¬conto,¬a¬busca¬do¬protagonista¬está¬relacionada¬à¬tentativa¬
+de¬
+¬
+(A)¬demonstrar¬ que¬ o¬ silêncio¬ perfeito¬ é¬ uma¬ construção¬
+imaginária¬e¬artificial.¬
+(B)¬isolar-se¬ do¬ mundo¬ externo¬ para¬ criar¬ uma¬ realidade¬
+paralela¬e¬inexorável.¬
+(C)¬comprovar¬ que¬ a¬ natureza¬ é¬ menos¬ ruidosa¬ do¬ que¬ o¬
+ambiente¬urbano.¬
+(D)¬encontrar¬ uma¬ quietude¬ absoluta¬ que,¬ paradoxalmente,¬
+revela-se¬inalcançável.¬
+(E)¬estabelecer¬um¬contraponto¬entre¬a¬vida¬solitária¬e¬a¬vida¬
+social¬da¬cidade.¬
+##### 
+¬
+{02} 
+O¬sufixo¬“-ejar”,¬presente¬em¬“esvoejar”,¬desempenha¬papel¬
+semântico¬específico¬na¬construção¬do¬verbo,¬conferindo-lhe¬
+a¬ideia¬de:¬
+¬
+(A)¬Estado¬contínuo¬e¬permanente.¬
+(B)¬Movimento¬leve¬e¬intermitente.¬
+(C)¬Intensificação¬de¬uma¬ação.¬
+(D)¬Formação¬de¬substantivos¬abstratos.¬
+(E)¬Relação¬de¬causa¬e¬consequência.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Texto para as questões 03 e 04 
+¬
+Mal¬o¬CEO¬da¬Meta,¬Mark¬Zuckerberg,¬anunciou¬as¬mudanças¬
+nas¬ políticas¬ de¬ moderação¬ de¬ suas¬ plataformas,¬ muitos¬
+educadores,¬ comunicadores¬ e¬ jornalistas¬ presentes¬ nos¬
+diferentes¬ grupos¬ dos¬ quais¬ faço¬ parte¬ começaram¬ a¬
+questionar¬a¬eficácia¬da¬Educação¬Midiática.¬O¬que¬podemos¬
+diante¬de¬um¬Musk¬e¬um¬Zuckerberg?¬De¬que¬adianta¬educar¬
+para¬ a¬ checagem¬ de¬ notícias¬ se¬ agora¬ “abriram-se¬ as¬
+porteiras”¬e¬nenhum¬de¬nós¬vai¬dar¬conta¬de¬distinguir¬o¬que¬é¬
+verdadeiro¬ ou¬ falso,¬ de¬ remover¬ conteúdos¬ agressivos,¬
+preconceituosos,¬ de¬ construir¬ referenciais¬ seguros¬ para¬
+obtermos¬informações¬íntegras¬e¬confiáveis?¬É¬enxugar¬gelo,¬
+nadar¬contra¬a¬corrente,¬melhor¬a¬gente¬se¬preparar¬para¬viver¬
+no¬caos,¬diziam¬alguns,¬já¬ameaçando¬sair¬de¬vez¬das¬redes,¬
+boicotar¬ a¬ Meta,¬ banir¬ o¬ digital¬ de¬ vez¬ do¬ seu¬ cotidiano.¬
+Entendo¬a¬Educação¬Midiática¬como¬um¬importante¬e¬potente¬
+elemento¬ para¬ que¬ possamos¬ lidar¬ com¬ todos¬ os¬ desafios¬
+presentes¬no¬mundo¬digital¬–¬e¬de¬resto,¬no¬mundo¬real,¬que¬o¬
+reflete.¬Ela¬é¬uma¬alternativa¬viável¬e¬segura¬que¬todos¬nós,¬
+que¬ desejamos¬ continuar¬ a¬ viver¬ civilizadamente¬ em¬
+sociedade,¬podemos¬tomar¬em¬nossas¬mãos.¬Se¬as¬chamadas¬
+big¬techs¬nos¬abandonam¬à¬própria¬sorte,¬cabe¬a¬cada¬um¬de¬
+nós¬entender¬qual¬é¬o¬nosso¬papel¬nesse¬ecossistema.¬¬
+¬
+Adaptado¬de:¬Januária¬Cristina¬Alves.¬“Novas¬diretrizes¬da¬Meta:¬será¬o¬
+fim¬da¬Educação¬Midiática?”¬Nexo¬Jornal.¬16¬de¬janeiro¬de¬2025¬
+¬
+{03} 
+No¬trecho¬“Mal¬o¬CEO¬da¬Meta,¬Mark¬Zuckerberg,¬anunciou¬as¬
+mudanças¬nas¬políticas¬de¬moderação¬de¬suas¬plataformas”,¬
+o¬termo¬“Mal”¬estabelece¬uma¬relação¬de¬
+¬
+(A)¬comparação,¬
+equiparando¬
+dois¬
+acontecimentos¬
+simultâneos.¬¬
+(B)¬condição,¬introduzindo¬uma¬possibilidade¬de¬mudança.¬
+(C)¬consequência,¬ indicando¬ um¬ efeito¬ direto¬ da¬ ação¬
+posterior.¬
+(D)¬oposição,¬contrastando¬ideias¬consideradas¬divergentes.¬
+(E)¬tempo,¬indicando¬uma¬ação¬ocorrida¬imediatamente¬após¬
+outra.¬
+##### 
+¬
+{04} 
+No¬período¬em¬que¬se¬encontra,¬a¬sequência¬textual¬“melhor¬
+a¬gente¬se¬preparar”¬apresenta-se¬gramaticalmente¬como¬
+¬
+(A)¬uma¬inversão¬sintática,¬típica¬da¬linguagem¬formal.¬
+(B)¬um¬ erro¬ gramatical,¬ com¬ a¬ falta¬ do¬ verbo¬ principal¬ na¬
+oração.¬
+(C)¬uma¬ construção¬ elíptica,¬ simplificando¬ o¬ segmento¬
+sintático.¬
+(D)¬um¬ exemplo¬ de¬ hipérbole,¬ intensificando¬ a¬ situação¬
+descrita.¬
+(E)¬uma¬ construção¬ arcaica,¬ comum¬ em¬ textos¬ literários¬
+antigos.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 3 ---
+
+Concurso Edital RH nº 010/2025 – Engenheiro (especialidade: Arborização urbana e manejo arbóreo) 
+Texto para as questões de 05 a 08 
+Rain¬Is¬Coming¬to¬Burning¬Los¬Angeles¬and¬Will¬Bring¬Its¬Own¬Risks¬
+Rain¬ is¬ forecast¬ to¬ begin¬ as¬ soon¬ as¬ Saturday¬
+afternoon¬ and¬ to¬ continue¬ as¬ late¬ as¬ Monday¬ evening,¬ says¬
+meteorologist¬Kristan¬Lund¬of¬the¬National¬Weather¬Service’s¬
+Los¬ Angeles¬ office.¬ The¬ area¬ desperately¬ needs¬ the¬
+precipitation,¬ but¬ experts¬ are¬ warily¬ monitoring¬ the¬ situation¬
+because¬rain¬poses¬its¬own¬risks¬in¬recently¬burned¬areas—
+most¬notably¬the¬potential¬occurrence¬of¬mudslides¬and¬similar¬
+hazards.¬ “Rain¬ is¬ good¬ because¬ we’ve¬ been¬ so¬ dry,”¬ Lund¬
+says.¬ “However,¬ if¬ we¬ get¬ heavier¬ rain¬ rates¬ or¬ we¬ get¬ the¬
+thunderstorms,¬it’s¬actually¬a¬lot¬more¬dangerous¬because¬you¬
+can¬get¬debris¬flows.”¬
+Fires¬do¬a¬couple¬of¬different¬things¬to¬the¬landscape¬
+that¬can¬increase¬the¬risk¬of¬burned¬material,¬soil¬and¬detritus¬
+hurtling¬out¬of¬control.¬When¬fires¬burn¬hot¬or¬long¬enough,¬they¬
+leave¬an¬invisible¬layer¬of¬waxy¬material¬just¬under¬the¬surface¬
+of¬the¬ground.¬This¬develops¬from¬decomposing¬leaves¬and¬
+other¬organic¬material,¬which¬contain¬naturally¬hydrophobic¬or¬
+water-repellent¬compounds.¬Fire¬can¬vaporize¬this¬litter,¬and¬
+the¬resulting¬gas¬seeps¬into¬the¬upper¬soil—where¬it¬quickly¬
+cools¬and¬condenses,¬forming¬the¬slippery¬layer.¬
+When¬rain¬falls¬on¬ground¬that¬has¬been¬affected¬by¬
+this¬phenomenon,¬it¬can’t¬sink¬beyond¬the¬hydrophobic¬layer—
+so¬the¬water¬flows¬away,¬often¬hauling¬debris¬with¬it.¬“All¬of¬the¬
+trees,¬branches,¬everything¬that’s¬been¬burned—unfortunately,¬
+if¬ it¬ rains,¬ that¬ stuff¬ just¬ floats,”¬ Lund¬ says.¬ “It’s¬ really¬
+concerning.”¬Even¬a¬fire¬that¬isn’t¬severe¬enough¬to¬create¬a¬
+hydrophobic¬layer¬can¬still¬cause¬debris¬flows,¬says¬Danielle¬
+Touma,¬a¬climate¬scientist¬at¬the¬University¬of¬Texas¬at¬Austin.¬
+Under¬normal¬conditions,¬trees¬and¬other¬plants¬usually¬trap¬
+some¬rain¬above¬the¬surface,¬slowing¬the¬water’s¬downward¬
+journey.¬But¬on¬freshly¬burned¬land¬there’s¬much¬less¬greenery¬
+to¬interfere;¬all¬the¬rain¬immediately¬hits¬the¬ground.¬[...]¬
+Fortunately,¬the¬rain¬should¬also¬help¬firefighters¬tame¬
+the¬blazes¬that¬remain¬active.¬The¬largest,¬the¬Palisades¬Fire,¬
+is¬ currently¬ 77¬ percent¬ contained.¬ The¬ second¬ largest,¬ the¬
+Eaton¬Fire,¬is¬95¬percent¬contained.¬The¬Hughes¬Fire¬is¬third¬
+largest¬ and¬ only¬ 56¬ percent¬ contained.¬ A¬ fire¬ can¬ be¬ fully¬
+contained¬but¬still¬burning.¬The¬containment¬percentage¬refers¬
+to¬the¬amount¬of¬the¬perimeter¬that¬has¬barriers¬that¬firefighters¬
+expect¬will¬prevent¬further¬spread.¬
+¬
+Scientific¬American.¬January¬27th,¬2025.¬Adaptado.¬
+{05} 
+Com¬ base¬ no¬ primeiro¬ parágrafo¬ e¬ na¬ opinião¬ dos¬
+especialistas,¬qual¬das¬seguintes¬inferências¬pode¬ser¬feita?¬
+¬
+(A)¬A¬ área¬ queimada¬ apresenta¬ sérios¬ danos,¬ e¬ as¬ chuvas¬
+fortes¬podem¬auxiliar¬na¬recuperação¬do¬meio¬ambiente.¬
+(B)¬O¬meteorologista¬Kristan¬Lund¬acredita¬que¬a¬chuva¬será¬
+um¬problema,¬independentemente¬de¬sua¬intensidade.¬
+(C)¬Embora¬a¬chuva¬prevista¬para¬o¬fim¬de¬semana¬seja¬bem-
+vinda,¬ há¬ também¬ preocupações¬ devido¬ aos¬ riscos¬ de¬
+deslizamentos¬de¬terra.¬
+(D)¬Como¬ a¬ possibilidade¬ de¬ deslizamentos¬ de¬ terra¬ ocorre¬
+apenas¬ nos¬ locais¬ não¬ afetados¬ por¬ incêndios,¬ os¬
+malefícios¬são¬imperceptíveis.¬
+(E)¬Uma¬vez¬que¬a¬região¬está¬bem-preparada¬para¬lidar¬
+com¬a¬ocorrência¬de¬chuvas,¬a¬área¬não¬está¬suscetível¬a¬
+riscos.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+{06} 
+O¬termo¬"litter”,¬no¬parágrafo¬2,¬refere-se¬¬¬
+¬
+(A)¬ao¬ gás¬ que¬ é¬ liberado¬ pela¬ decomposição¬ das¬ folhas¬
+durante¬as¬queimadas.¬
+(B)¬à¬substância¬que¬resulta¬na¬maior¬fertilidade¬do¬solo¬após¬
+o¬incêndio.¬
+(C)¬ao¬ material¬ utilizado¬ pelos¬ bombeiros¬ para¬ controlar¬
+incêndios¬florestais.¬
+(D)¬ao¬acumulado¬de¬cinzas¬que¬se¬forma¬após¬a¬queima¬do¬
+material¬decomposto.¬
+(E)¬à¬camada¬de¬material¬orgânico¬que¬cobre¬a¬superfície¬do¬
+solo.¬
+##### 
+¬
+{07} 
+Considerando¬ a¬ oração¬ "[...]¬ it¬ can’t¬ sink¬ beyond¬ the¬
+hydrophobic¬ layer—so¬ the¬ water¬ flows¬ away¬ [...]”¬ (3º¬
+parágrafo),¬o¬termo¬“so”¬pode¬ser¬substituído,¬sem¬prejuízo¬de¬
+sentido,¬por¬
+¬
+(A)¬moreover.¬
+(B)¬therefore.¬
+(C)¬nevertheless.¬
+(D)¬conversely.¬
+(E)¬furthermore.¬
+##### 
+¬
+{08} 
+Segundo¬ Danielle¬ Touma,¬ uma¬ especialista¬ em¬ ciências¬
+climáticas¬da¬Universidade¬do¬Texas¬em¬Austin,¬¬
+¬
+(A)¬mesmo¬ em¬ terrenos¬ queimados,¬ a¬ chuva¬ não¬ consegue¬
+causar¬deslizamentos¬de¬detritos.¬
+(B)¬qualquer¬queimada¬pode¬criar¬uma¬camada¬que¬repele¬a¬
+água,¬dificultando¬sua¬absorção.¬
+(C)¬até¬ incêndios¬ menos¬ graves¬ podem¬ resultar¬ em¬
+deslizamentos¬de¬detritos¬em¬períodos¬de¬chuva¬devido¬à¬
+falta¬de¬vegetação.¬
+(D)¬a¬ chuva¬ é¬ mais¬ eficaz¬ em¬ terrenos¬ queimados,¬ pois¬ a¬
+camada¬hidrofóbica¬impede¬a¬perda¬de¬água.¬
+(E)¬sob¬condições¬normais,¬a¬mata¬impede¬as¬águas¬pluviais¬
+de¬penetrar¬no¬solo¬de¬maneira¬eficiente.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 4 ---
+
+Concurso Edital RH nº 010/2025 – Engenheiro (especialidade: Arborização urbana e manejo arbóreo) 
+{09} 
+“ChatGPT,¬ DeepSeek¬ e¬ similares¬ pertencem¬ à¬ classe¬ de¬
+LLMs,¬avançados¬modelos¬de¬linguagem¬treinados¬a¬partir¬de¬
+grandes¬bancos¬de¬dados¬–¬majoritariamente¬em¬inglês.¬Os¬
+mais¬populares¬pertencem¬a¬empresas¬norte-americanas.¬E¬
+assim¬como¬os¬algoritmos¬de¬pesquisa¬e¬redes¬sociais,¬não¬
+são¬neutros.¬Ou¬seja,¬podem¬reproduzir¬vieses,¬preconceitos¬
+e¬ estereótipos¬ de¬ seus¬ programadores,¬ que¬ por¬ sua¬ vez¬
+podem¬receber¬ordens¬dos¬donos¬das¬empresas¬e¬de¬outros¬
+atores¬–¬na¬China,¬por¬exemplo,¬empresas¬devem¬passar¬por¬
+análise¬de¬segurança¬e¬obter¬aprovações¬do¬governo¬antes¬de¬
+lançar¬produtos¬(...).¬
+Nesse¬cenário,¬como¬ficam¬os¬países¬que¬não¬têm¬plataformas¬
+nacionais¬de¬alcance¬global,¬como¬é¬o¬caso¬do¬Brasil?¬E¬mais:¬
+o¬que¬acontecerá¬com¬a¬História¬e¬a¬memória¬desses¬países¬
+diante¬de¬uma¬população¬cada¬vez¬mais¬conectada¬a¬LLMs¬
+estrangeiras¬globais¬que¬acredita¬mais¬no¬que¬encontra¬nos¬
+apps¬e¬sites¬de¬busca¬do¬que¬nos¬livros¬de¬História?”¬
+¬
+Luciana¬Garbin,¬IAs¬estão¬apagando¬e¬reescrevendo¬pedaços¬da¬
+História.¬E¬o¬Brasil¬com¬isso?,¬O¬Estado¬de¬S.¬Paulo¬(on-line),¬29/01/2025¬
+(Adaptado)¬
+¬
+O¬texto¬apresentado¬traz¬uma¬crítica¬
+¬
+(A)¬ao¬ trabalho¬ dos¬ programadores,¬ que¬ estabelecem¬
+mecanismos¬frágeis¬de¬intelecção¬das¬máquinas¬dotadas¬
+de¬inteligência.¬
+(B)¬às¬chamadas¬big¬techs¬que¬visam¬apenas¬o¬lucro¬a¬partir¬
+dos¬ serviços¬ que¬ disponibilizam,¬ gerando¬ dificuldades¬
+para¬o¬usuário.¬
+(C)¬às¬ empresas¬ de¬ tecnologia¬ brasileiras,¬ que¬ não¬
+desenvolveram¬ LLMs¬ de¬ alcance¬ global,¬ o¬ que¬ seria¬
+possível¬a¬despeito¬do¬alcance¬da¬língua¬portuguesa¬no¬
+mundo.¬
+(D)¬aos¬
+governos¬
+das¬
+nações¬
+desenvolvidas,¬
+por¬
+estabelecerem¬
+padrões¬
+desiguais¬
+de¬
+controle¬
+de¬
+segurança¬ para¬ os¬ produtos¬ como¬ o¬ ChatGPT¬ e¬ o¬
+DeepSeek.¬
+(E)¬às¬pessoas¬que,¬em¬grande¬parte,¬passaram¬a¬confiar¬em¬
+fontes¬e¬a¬acreditar¬em¬informações¬não¬contextualizadas¬
+historicamente.¬
+##### 
+¬
+{10} 
+Em¬Ideias¬para¬adiar¬o¬fim¬do¬Mundo,¬Ailton¬Krenak¬coloca¬
+ênfase¬no¬papel¬que¬o¬rio¬Watu¬desempenha¬para¬a¬unidade¬
+do¬povo¬krenak,¬o¬povo¬“cabeça¬da¬terra”.¬O¬rio¬foi¬palco¬de¬
+um¬ evento¬ que¬ marcou¬ nosso¬ país.¬ De¬ posse¬ dessas¬
+informações¬ e¬ com¬ base¬ na¬ leitura¬ do¬ livro,¬ assinale¬ a¬
+alternativa¬que¬indica¬o¬nome¬do¬rio,¬em¬português,¬e¬o¬evento¬
+mencionado.¬
+¬
+(A)¬Solimões¬–¬seca¬de¬2023.¬
+(B)¬Doce¬–¬rompimento¬da¬barragem¬do¬Fundão.¬
+(C)¬Tietê¬–¬enchente¬de¬São¬Paulo¬em¬1929.¬
+(D)¬São¬Francisco¬–¬transposição¬de¬suas¬águas.¬
+(E)¬Paraopeba¬¬–¬¬rompimento¬¬da¬¬barragem¬¬de¬¬Brumadinho.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+{11} 
+Em¬ O¬ Perigo¬ de¬ uma¬ História¬ Única,¬ Chimamanda¬ Ngozi¬
+Adichie¬afirma¬que¬“Há¬pouco¬tempo¬dei¬uma¬palestra¬numa¬
+universidade¬e¬um¬aluno¬me¬disse¬que¬era¬uma¬grande¬pena¬
+que¬ os¬ homens¬ nigerianos¬ fossem¬ agressivos¬ como¬ o¬
+personagem¬do¬pai¬no¬meu¬romance.¬Eu¬disse¬a¬ele¬que¬tinha¬
+acabado¬de¬ler¬um¬livro¬chamado¬O¬psicopata¬americano¬e¬
+que¬ achava¬ uma¬ grande¬ pena¬ que¬ os¬ jovens¬ americanos¬
+fossem¬assassinos¬em¬série.¬Bem,¬obviamente¬eu¬disse¬isso¬
+num¬ leve¬ ataque¬ de¬ irritação.¬ Mas¬ jamais¬ teria¬ me¬ ocorrido¬
+pensar¬que,¬só¬porque¬li¬um¬romance¬no¬qual¬o¬personagem¬
+era¬ um¬ assassino¬ em¬ série,¬ ele¬ de¬ alguma¬ maneira¬
+representava¬todos¬os¬americanos.¬Não¬digo¬isso¬porque¬me¬
+considero¬uma¬pessoa¬melhor¬do¬que¬esse¬aluno¬(...).¬Já¬tinha¬
+lido¬Tyler,¬Updike,¬Steinbeck¬e¬Gaitskill.¬Não¬tinha¬uma¬história¬
+única¬dos¬Estados¬Unidos”.¬¬
+Nesse¬livro,¬como¬no¬trecho¬de¬O¬Estado¬de¬S.¬Paulo¬citado¬
+na¬questão¬9,¬pode-se¬afirmar¬que¬a¬versão¬de¬um¬fato¬será¬
+tanto¬mais¬disseminada¬quanto¬
+¬
+(A)¬maior¬ for¬ o¬ poder¬ econômico¬ e¬ cultural¬ de¬ quem¬ a¬
+comunica.¬
+(B)¬mais¬críveis¬forem¬os¬seus¬contornos¬narrativos.¬
+(C)¬menos¬verossímeis¬forem¬os¬valores¬ínsitos¬à¬mensagem.¬
+(D)¬maior¬for¬o¬poder¬militar¬e¬científico¬de¬quem¬a¬comunica.¬
+(E)¬menores¬forem¬os¬riscos¬de¬conter¬inverdades.¬
+##### 
+¬
+{12} 
+Observe¬a¬charge¬a¬seguir:¬
+¬
+ 
+¬
+Folha¬de¬São¬Paulo,¬26.01.2025¬
+Assinale¬ a¬ alternativa¬ que¬ melhor¬ descreve¬ as¬ situações¬ às¬
+quais¬a¬charge¬se¬refere.¬
+¬
+(A)¬Denuncismo,¬ confusão¬ relativa¬ às¬ categorias¬ sociais¬ e¬
+mudanças¬climáticas.¬
+(B)¬Estigmas¬sociais,¬alarmismo¬social¬e¬mobilidade¬social.¬
+(C)¬Alarmismo¬ social,¬ identificação¬ dos¬ imigrantes¬ como¬
+animais¬e¬mudanças¬climáticas.¬
+(D)¬Racismo,¬degelo¬da¬Antártida¬e¬luta¬de¬classes.¬
+(E)¬Denuncismo,¬extinção¬de¬espécimes¬da¬fauna¬e¬mudanças¬
+sociais.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Concurso Edital RH nº 010/2025 – Engenheiro (especialidade: Arborização urbana e manejo arbóreo) 
+{13} 
+Considere¬o¬art.¬2º¬do¬Estatuto¬da¬USP:¬
+¬
+Artigo 2º –¬São¬fins¬da¬USP:¬
+¬
+I¬ –¬promover¬ e¬ desenvolver¬ todas¬ as¬ formas¬ de¬
+conhecimento,¬por¬meio¬do¬ensino¬e¬da¬pesquisa;¬
+II¬ –¬ ministrar¬ o¬ ensino¬ superior¬ visando¬ à¬ formação¬ de¬
+pessoas¬ capacitadas¬ ao¬ exercício¬ da¬ investigação¬ e¬ do¬
+magistério¬em¬todas¬as¬áreas¬do¬conhecimento,¬bem¬como¬
+à¬qualificação¬para¬as¬atividades¬profissionais;¬
+III¬ –¬ estender¬ à¬ sociedade¬ serviços¬ indissociáveis¬ das¬
+atividades¬de¬ensino¬e¬de¬pesquisa.¬
+¬
+As¬ alternativas¬ a¬ seguir¬ indicam¬ as¬ cinco¬ Pró-Reitorias¬
+existentes¬na¬USP.¬Assinale¬aquela¬cujas¬atividades¬NÃO¬se¬
+relacionam¬diretamente¬com¬os¬fins¬da¬Universidade.¬
+¬
+(A)¬Pró-Reitoria¬de¬Cultura¬e¬Extensão¬Universitária.¬
+(B)¬Pró-Reitoria¬de¬Graduação.¬
+(C)¬Pró-Reitoria¬de¬Inclusão¬e¬Pertencimento.¬
+(D)¬Pró-Reitoria¬de¬Pesquisa¬e¬Inovação.¬
+(E)¬Pró-Reitoria¬de¬Pós-Graduação.¬
+##### 
+¬
+{14} 
+Considere¬a¬seguinte¬situação:¬Ênio¬Oliveira,¬Vice-Reitor¬da¬
+USP,¬ falece¬ em¬ um¬ acidente.¬ Nesse¬ caso,¬ Edna¬ Cruz,¬ a¬
+Reitora,¬deverá¬
+¬
+(A)¬indicar¬um¬novo¬Vice-Reitor,¬que¬será¬homologado¬pelo¬
+Conselho¬Universitário¬em¬até¬15¬dias.¬
+(B)¬dar¬início¬ao¬processo¬eleitoral,¬para¬a¬escolha¬de¬um¬novo¬
+Vice-Reitor,¬que¬cumprirá¬um¬mandato¬novo,¬de¬4¬anos.¬
+(C)¬ser¬substituída,¬em¬suas¬ausências¬ou¬impedimentos,¬pelo¬
+decano¬do¬Conselho¬Universitário.¬
+(D)¬dar¬início¬ao¬processo¬eleitoral,¬para¬a¬escolha¬de¬um¬novo¬
+Vice-Reitor,¬ que¬ exercerá¬ tal¬ função¬ pelo¬ tempo¬ que¬
+restava¬de¬mandato¬para¬Ênio.¬
+(E)¬indicar¬um¬novo¬Vice-Reitor,¬que¬deverá¬ser¬nomeado¬pelo¬
+Governador¬de¬SP¬em¬até¬15¬dias.¬
+##### 
+¬
+{15} 
+Aproximando-se¬as¬inscrições¬para¬Diretor¬de¬um¬Instituto,¬a¬
+comunidade¬local¬sabe¬que¬Lucas,¬Ana¬e¬Maria¬pretendem¬ser¬
+candidatos,¬
+tendo¬
+como¬
+candidatos¬
+a¬
+Vice-Diretor,¬
+respectivamente,¬Sara,¬Lia¬e¬Marcos.¬Sabendo¬que¬Marcos¬é¬
+Professor¬ Associado¬ 2¬ e¬ todos¬ os¬ demais¬ são¬ Professores¬
+Titulares,¬é¬possível¬afirmar¬que¬a¬Chapa¬Maria¬e¬Marcos¬
+¬
+(A)¬não¬pode¬se¬candidatar,¬em¬nenhuma¬hipótese.¬
+(B)¬pode¬se¬candidatar,¬sem¬qualquer¬restrição.¬
+(C)¬pode¬ se¬ candidatar¬ numa¬ eventual¬ segunda¬ fase¬ de¬
+inscrições,¬ mas¬ apenas¬ se¬ Lucas¬ e¬ Sara¬ ou¬ Ana¬ e¬ Lia¬
+deixarem¬de¬se¬inscrever.¬
+(D)¬pode¬ se¬ candidatar¬ numa¬ eventual¬ segunda¬ fase¬ de¬
+inscrições,¬mesmo¬que¬as¬chapas¬Lucas¬e¬Sara¬e¬Ana¬e¬
+Lia¬se¬inscrevam.¬
+(E)¬pode¬se¬candidatar¬desde¬logo,¬mas¬só¬concorrerão¬se¬
+Lucas¬e¬Sara¬ou¬Ana¬e¬Lia¬deixarem¬de¬se¬inscrever.¬
+##### 
+ 
+ 
+ 
+ 
+{16} 
+Uma¬ Unidade¬ tem¬ 8¬ Professores¬ Titulares,¬ todos¬ membros¬
+natos¬ da¬ Congregação.¬ O¬ número¬ de¬ representantes¬ dos¬
+Professores¬ Associados¬ e¬ dos¬ Professores¬ Doutores¬ é,¬
+respectivamente,¬
+¬
+(A)¬2¬e¬1.¬
+(B)¬4¬e¬3.¬
+(C)¬5¬e¬3.¬
+(D)¬4¬e¬2.¬
+(E)¬6¬e¬3.¬
+##### 
+¬
+{17} 
+Todos¬ têm¬ direito¬ ao¬ meio¬ ambiente¬ ecologicamente¬
+equilibrado,¬bem¬de¬uso¬comum¬do¬povo¬e¬essencial¬à¬sadia¬
+qualidade¬ de¬ vida,¬ impondo-se¬ ao¬ Poder¬ Público¬ e¬ à¬
+coletividade¬ o¬ dever¬ de¬ defendê-lo¬ e¬ preservá-lo¬ para¬ as¬
+presentes¬ e¬ futuras¬ gerações”¬ (artigo¬ 225,¬ caput¬ do¬ texto¬
+constitucional¬de¬1988).¬Para¬tanto,¬incumbe¬ao¬Poder¬Público:¬
+¬
+(A)¬preservar¬
+e¬
+restaurar¬
+os¬
+processos¬
+ecológicos¬
+secundários¬e¬promover¬o¬manejo¬ecológico¬dos¬biomas.¬
+(B)¬preservar¬ a¬ diversidade¬ e¬ a¬ integridade¬ do¬ patrimônio¬
+genético¬ do¬ País¬ e¬ fiscalizar¬ as¬ entidades¬ dedicadas¬ à¬
+pesquisa¬e¬manipulação¬de¬material¬genético.¬¬
+(C)¬definir¬espaços¬territoriais¬e¬seus¬componentes¬a¬serem¬
+especialmente¬ protegidos,¬ sendo¬ que¬ a¬ alteração¬ e¬
+supressão¬pode¬ser¬realizada¬por¬lei¬ou¬decreto.¬
+(D)¬exigir¬para¬instalação¬de¬obra¬ou¬atividade¬potencialmente¬
+causadora¬de¬significativa¬degradação¬do¬meio¬ambiente,¬
+estudo¬prévio¬de¬impacto¬ambiental,¬que¬deverá¬manter-
+se¬ em¬ sigilo¬ em¬ razão¬ dos¬ interesses¬ econômicos¬ do¬
+proponente.¬
+(E)¬promover¬ a¬ educação¬ ambiental¬ nas¬ universidades¬ e¬ a¬
+conscientização¬ pública¬ para¬ a¬ preservação¬ do¬ meio¬
+ambiente.¬
+##### 
+¬
+{18} 
+No¬Estado¬de¬São¬Paulo¬a¬política¬florestal¬deve¬observar¬os¬
+ditames¬ da¬ política¬ nacional¬ do¬ meio¬ ambiente¬ e¬ do¬ “Novo¬
+Código¬Florestal”¬que¬são¬considerados¬como¬norma¬geral¬e¬
+estabelecem¬entre¬seus¬princípios¬e¬objetivos:¬¬
+¬
+(A)¬a¬primazia¬da¬preservação¬ambiental¬e¬das¬florestas¬em¬
+relação¬ao¬desenvolvimento¬econômico¬e¬social.¬
+(B)¬a¬ preservação¬ e¬ restauração¬ dos¬ recursos¬ florestais,¬
+dentre¬ os¬ quais¬ se¬ inserem¬ as¬ florestas,¬ para¬ a¬ sua¬
+utilização¬exclusivamente¬econômica.¬
+(C)¬a¬ imposição¬ ao¬ poluidor¬ de¬ arcar¬ com¬ os¬ custos¬ da¬
+indenização¬ dos¬ danos¬ causados¬ às¬ florestas,¬ sem¬ a¬
+obrigação¬de¬recuperá-las.¬
+(D)¬afirmação¬ do¬ compromisso¬ soberano¬ do¬ Brasil¬ com¬ a¬
+preservação¬ das¬ suas¬ florestas¬ e¬ demais¬ formas¬ de¬
+vegetação¬nativa,¬da¬biodiversidade,¬do¬solo,¬dos¬recursos¬
+hídricos¬e¬da¬integridade¬do¬sistema¬climático,¬para¬o¬bem-
+estar¬das¬gerações¬presentes¬e¬futuras.¬
+(E)¬a¬ definição¬ de¬ áreas¬ prioritárias¬ de¬ ação¬ governamental¬
+relativa¬à¬qualidade¬e¬ao¬equilíbrio¬ecológico,¬atendendo¬
+prioritariamente¬
+aos¬
+interesses¬
+da¬
+União¬
+para¬
+a¬
+preservação¬das¬florestas¬em¬razão¬de¬seu¬compromisso¬
+soberano¬ com¬ o¬ combate¬ aos¬ efeitos¬ cada¬ vez¬ mais¬
+intensos¬e¬frequentes¬da¬mudança¬climática.¬¬
+##### 
+
+
+--- PAGE 6 ---
+
+Concurso Edital RH nº 010/2025 – Engenheiro (especialidade: Arborização urbana e manejo arbóreo) 
+{19} 
+Ao¬ supervisionar¬ um¬ projeto¬ de¬ engenharia,¬ você¬ precisa¬
+esclarecer¬a¬sua¬equipe¬sobre¬o¬conceito¬e¬tipologia¬das¬áreas¬
+de¬preservação¬permanente¬(APPs),¬previstas¬na¬Lei¬federal¬
+n.¬12.651/2012¬(“Novo¬Código¬Florestal”).¬Nesse¬sentido¬você¬
+esclarece¬à¬equipe¬que¬as¬APPs:¬
+¬
+(A)¬são¬ cobertas¬ por¬ vegetação¬ nativa,¬ com¬ a¬ função¬
+ambiental¬ de¬ preservar¬ os¬ recursos¬ hídricos¬ e¬ a¬
+biodiversidade,¬ impedir¬ o¬ fluxo¬ gênico¬ de¬ fauna¬ e¬ flora,¬
+proteger¬o¬solo¬e¬assegurar¬o¬bem-estar¬das¬populações¬
+humanas.¬
+(B)¬estão¬ presentes¬ em¬ zonas¬ urbanas,¬ sendo¬ que¬ as¬
+Reservas¬ Legais¬ estão¬ presentes¬ em¬ zonas¬ urbanas¬ e¬
+rurais.¬
+(C)¬podem¬estar¬localizadas¬ao¬longo¬das¬faixas¬marginais¬de¬
+qualquer¬ curso¬ d’água¬ natural¬ perene¬ e¬ intermitente,¬
+excluídos¬os¬efêmeros,¬sendo¬que¬sua¬largura¬mínima¬é¬
+fixada¬desde¬a¬borda¬da¬calha¬do¬leito¬regular,¬de¬acordo¬
+com¬o¬previsto¬nessa¬lei.¬
+(D)¬em¬áreas¬urbanas¬consolidadas,¬lei¬municipal¬não¬pode¬
+definir¬ faixas¬ marginais¬ distintas¬ das¬ estabelecidas¬ e¬
+fixadas¬pelo¬“Novo¬Código¬Florestal”,¬visto¬que¬se¬trata¬de¬
+uma¬norma¬geral.¬
+(E)¬declaradas¬ por¬ ato¬ do¬ Chefe¬ do¬ Poder¬ Executivo¬ são¬
+aquelas¬ estabelecidas¬ com¬ o¬ intuito¬ de¬ possibilitar¬ o¬
+cálculo¬dos¬percentuais¬da¬Reserva¬Legal.¬
+##### 
+¬
+{20} 
+Em¬relação¬aos¬critérios¬e¬procedimentos¬para¬o¬manejo¬da¬
+arborização¬urbana:¬
+¬
+(A)¬o¬plantio¬de¬espécimes¬de¬vegetação¬de¬porte¬arbóreo¬em¬
+áreas¬ públicas¬ ou¬ privadas,¬ poderá¬ ser¬ efetuado¬ em¬
+caráter¬de¬reparação¬e/ou¬compensação,¬e¬independe¬de¬
+autorização¬da¬autoridade¬pública¬competente.¬
+(B)¬caberá¬ ao¬ proprietário¬ ou¬ ao¬ possuidor¬ do¬ imóvel¬ onde¬
+estiver¬inserida¬a¬vegetação¬de¬porte¬arbóreo¬providenciar¬
+o¬
+manejo¬
+necessário¬
+dos¬
+espécimes¬
+quando¬
+caracterizada¬a¬situação¬de¬urgência,¬quer¬dizer,¬risco¬de¬
+queda,¬colocando¬em¬risco¬a¬vida¬e¬integridade¬física¬de¬
+pessoas¬ou¬o¬patrimônio¬público¬ou¬privado.¬
+(C)¬ao¬ ser¬ identificado¬ o¬ plantio¬ de¬ espécime¬ arbóreo,¬
+executado¬ em¬ desacordo¬ com¬ as¬ normas¬ vigentes,¬ a¬
+autoridade¬ competente¬ deve¬ intimar¬ o¬ proprietário¬ do¬
+imóvel¬lindeiro¬à¬via¬ou¬ao¬passeio¬onde¬esse¬espécime¬
+arbóreo¬se¬encontra,¬para¬que,¬no¬prazo¬de¬7¬(sete)¬dias,¬
+regularize-o,¬ inclusive¬ executando¬ a¬ supressão,¬ se¬
+necessário.¬
+(D)¬o¬ plantio¬ de¬ espécimes¬ de¬ vegetação¬ de¬ porte¬ arbóreo¬
+tem¬ em¬ vista¬ assegurar¬ o¬ pleno¬ desenvolvimento¬ da¬
+cidade,¬não¬sendo,¬entretanto,¬recomendado¬tal¬plantio¬em¬
+passeios¬ em¬ largura¬ menor¬ que¬ 2,75m¬ (dois¬ metros¬ e¬
+setenta¬e¬cinco¬centímetros).¬¬
+(E)¬o¬ proprietário¬ poderá¬ executar¬ qualquer¬ poda¬ na¬
+vegetação¬de¬porte¬arbóreo¬existente¬em¬seu¬imóvel,¬sem¬
+a¬ necessidade¬ de¬ previamente¬ comunicar¬ o¬ órgão¬
+municipal¬competente.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{21} 
+No¬Campus¬da¬USP,¬na¬cidade¬de¬São¬Paulo,¬o¬Poder¬Público¬
+poderá¬autorizar¬supressão¬e¬o¬transplante¬de¬espécimes¬de¬
+vegetação¬de¬porte¬arbóreo:¬
+¬
+(A)¬quando¬ o¬ espécime¬ de¬ vegetação¬ de¬ porte¬ arbóreo¬
+frutífero¬constituir¬obstáculo¬a¬limpeza¬do¬espaço¬público.¬¬
+(B)¬quando¬o¬estado¬fitossanitário¬do¬espécime¬de¬vegetação¬
+de¬porte¬arbóreo¬justificar¬a¬supressão.¬
+(C)¬quando¬ o¬ espécime¬ de¬ vegetação¬ de¬ porte¬ arbóreo¬
+constituir¬obstáculo¬contornável¬ao¬trânsito¬de¬pedestres.¬
+(D)¬quando¬o¬estado¬do¬espécime¬arbóreo¬não¬ocasionar¬risco¬
+de¬queda.¬
+(E)¬quando¬a¬propagação¬espontânea¬de¬espécimes¬de¬porte¬
+arbóreo¬ possibilitar¬ o¬ desenvolvimento¬ adequado¬ dos¬
+espécimes¬vizinhos.¬¬
+##### 
+¬
+{22} 
+Você¬ é¬ chamado¬ para¬ elaborar¬ um¬ laudo¬ e¬ manifestação¬
+técnica¬ para¬ fundamentar¬ a¬ necessidade¬ de¬ manejo¬ da¬
+vegetação¬ de¬ porte¬ arbóreo.¬ Nesse¬ caso,¬ esse¬ laudo¬ e¬
+manifestação¬técnica,¬de¬acordo¬com¬a¬legislação¬em¬vigor,¬
+deverão¬conter,¬entre¬outros:¬
+¬
+(A)¬a¬identificação¬de¬cada¬um¬dos¬espécimes¬avaliados,¬o¬
+georreferenciamento¬ e¬ a¬ justificativa¬ da¬ necessidade¬ de¬
+intervenção.¬
+(B)¬as¬pesquisas¬científicas¬mais¬avançadas¬sobre¬os¬riscos¬e¬
+benefícios¬ do¬ espécime,¬ inclusive¬ com¬ referências¬
+nacionais¬e¬internacionais.¬
+(C)¬o¬ croqui¬ indicativo¬ do¬ lugar¬ de¬ plantio¬ no¬ caso¬ de¬
+transplante,¬ plantio¬ substitutivo¬ ou¬ regeneração¬ de¬
+espécies.¬
+(D)¬a¬ identificação¬ das¬ espécies¬ exóticas¬ e¬ invasoras,¬ bem¬
+como¬ da¬ situação¬ do¬ espécime¬ ameaçado¬ de¬ extinção,¬
+descrevendo¬a¬situação¬do¬local¬a¬ser¬manejado.¬
+(E)¬a¬documentação¬fotográfica¬das¬edificações¬e¬elementos¬
+urbanos¬existentes¬no¬imóvel¬e¬áreas¬do¬entorno.¬
+##### 
+¬
+{23} 
+Pode¬ocorrer¬a¬modificação¬de¬condicionantes¬e¬de¬medidas¬
+de¬controle¬e¬adequação¬de¬determinados¬empreendimentos¬
+e¬ atividades¬ que¬ utilizem¬ recursos¬ florestais,¬ bem¬ como¬
+suspensão¬ou¬cancelamento¬de¬uma¬licença¬expedida.¬Nesse¬
+caso,¬apresenta-se¬a¬seguinte¬situação:¬
+¬
+(A)¬pode¬ocorrer¬a¬suspensão¬de¬uma¬licença¬ambiental¬em¬
+razão¬de¬decisão¬imotivada¬da¬administração¬pública.¬
+(B)¬pode¬ocorrer¬a¬modificação¬de¬uma¬licença¬ambiental¬em¬
+virtude¬da¬superveniência¬de¬graves¬riscos¬ambientais.¬
+(C)¬pode¬ocorrer¬o¬cancelamento¬de¬uma¬licença¬ambiental¬
+devido¬a¬correta¬descrição¬de¬informações¬relevantes¬que¬
+subsidiaram¬a¬expedição¬da¬licença.¬
+(D)¬pode¬ocorrer¬a¬suspensão¬de¬uma¬licença¬ambiental¬em¬
+razão¬da¬mudança¬de¬governo¬no¬executivo¬municipal.¬
+(E)¬pode¬ ocorrer¬ a¬ modificação¬ de¬ condicionantes¬ de¬ uma¬
+licença¬ambiental¬em¬razão¬de¬um¬projeto¬econômico.¬¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Concurso Edital RH nº 010/2025 – Engenheiro (especialidade: Arborização urbana e manejo arbóreo) 
+{24} 
+Considera-se¬infração¬ambiental,¬conforme¬prevê¬a¬Lei¬federal¬
+9.605/98,¬
+¬
+(A)¬comercializar¬motosserra¬ ou¬utilizá-la¬em¬florestas¬e¬ nas¬
+demais¬formas¬de¬vegetação,¬com¬licença¬ou¬registro¬da¬
+autoridade¬competente.¬
+(B)¬fabricar,¬vender,¬transportar¬ou¬soltar¬balões¬que¬possam¬
+provocar¬ incêndios¬ nas¬ florestas,¬ em¬ áreas¬ urbanas¬ ou¬
+qualquer¬tipo¬de¬assentamento¬humano.¬
+(C)¬extrair¬de¬florestas¬de¬domínio¬público¬ou¬consideradas¬de¬
+preservação¬permanente,¬com¬prévia¬autorização,¬pedra,¬
+areia,¬cal¬ou¬qualquer¬espécie¬de¬minerais.¬
+(D)¬realizar¬ o¬ abate¬ de¬ animal¬ para¬ proteger¬ lavouras,¬
+pomares¬e¬rebanhos¬da¬ação¬predatória¬ou¬destruidora¬de¬
+animais,¬desde¬que¬legal¬e¬expressamente¬autorizado¬pela¬
+autoridade¬competente.¬
+(E)¬desmatar¬ou¬explorar¬economicamente¬floresta,¬plantada¬
+ou¬nativa,¬em¬terras¬de¬domínio¬público¬ou¬devolutas,¬em¬
+razão¬de¬ser¬necessário¬à¬subsistência¬imediata¬pessoal¬
+do¬agente¬ou¬de¬sua¬família.¬
+##### 
+¬
+{25} 
+Em¬relação¬a¬sanções¬penais¬e¬administrativas¬derivadas¬de¬
+condutas¬e¬atividades¬lesivas¬ao¬meio¬ambiente,¬
+¬
+(A)¬apenas¬ o¬ proprietário¬ de¬ um¬ imóvel,¬ ao¬ constatar¬ a¬
+infração¬ ambiental,¬ poderá¬ dirigir¬ representação¬ às¬
+autoridades.¬
+(B)¬o¬ proprietário¬ pode¬ destruir¬ completamente¬ floresta¬
+considerada¬ de¬ preservação¬ permanente,¬ visto¬ que¬ tem¬
+direitos¬absolutos¬sobre¬sua¬propriedade.¬¬
+(C)¬as¬infrações¬administrativas¬ambientais¬são¬apuradas¬em¬
+processo¬administrativo,¬não¬havendo¬a¬necessidade¬do¬
+contraditório.¬
+(D)¬considera-se¬ infração¬ administrativa¬ ambiental¬ somente¬
+ação¬que¬viole¬as¬regras¬do¬jogo¬de¬uso,¬gozo,¬promoção,¬
+proteção¬e¬recuperação¬do¬meio¬ambiente.¬
+(E)¬é¬crime¬contra¬a¬administração¬ambiental¬deixar,¬aquele¬
+que¬tiver¬o¬dever¬legal¬ou¬contratual¬de¬fazê-lo,¬de¬cumprir¬
+obrigação¬de¬relevante¬interesse¬ambiental.¬
+##### 
+¬
+{26} 
+O¬poder¬público¬municipal¬deseja¬estabelecer¬áreas¬verdes¬
+urbanas¬e¬você¬é¬chamado¬para¬indicar¬quais¬instrumentos¬
+podem¬ser¬utilizados¬para¬tanto.¬Conforme¬prevê¬a¬lei¬federal¬
+n.¬12.651/2012¬(“Novo¬Código¬Florestal”),¬você¬destaca¬
+¬
+(A)¬a¬conversão¬de¬vegetação¬nativa¬para¬uso¬alternativo¬do¬
+solo¬em¬imóvel¬que¬possuir¬área¬abandonada.¬
+(B)¬¬a¬transformação¬das¬Reservas¬Legais¬em¬áreas¬verdes¬
+nas¬expansões¬rurais.¬
+(C)¬o¬ estabelecimento¬ de¬ exigência¬ de¬ áreas¬ verdes¬ em¬
+loteamentos¬em¬áreas¬de¬risco.¬
+(D)¬o¬ exercício¬ do¬ direito¬ de¬ preempção¬ para¬ aquisição¬ de¬
+remanescentes¬florestais¬relevantes.¬
+(E)¬a¬ aplicação¬ em¬ áreas¬ verdes¬ de¬ recursos¬ oriundos¬ do¬
+Imposto¬Territorial¬Urbano¬(IPTU).¬
+##### 
+ 
+ 
+ 
+ 
+ 
+{27} 
+Um¬proprietário¬de¬um¬imóvel¬lindeiro¬ao¬Campus¬da¬USP,¬na¬
+cidade¬de¬São¬Paulo,¬resolve¬realizar¬o¬manejo¬de¬vegetação¬
+de¬porte¬arbóreo¬em¬sua¬própria¬propriedade.¬Para¬tanto,¬o¬
+manejo¬dessa¬vegetação¬a¬ser¬realizado¬deverá¬ser¬orientado¬¬
+¬
+(A)¬pelo¬ princípio¬ da¬ conservação¬ e¬ utilização¬ racional¬ da¬
+cobertura¬arbórea,¬com¬primazia¬do¬exercício¬do¬direito¬de¬
+propriedade.¬
+(B)¬por¬ normas¬ de¬ embelezamento¬ de¬ sua¬ propriedade¬ e¬
+escolha¬ de¬ espécies¬ vegetais¬ deve¬ ser¬ realizada¬
+independentemente¬ das¬ espécies¬ nativas¬ estabelecidas¬
+em¬uma¬lista¬como¬prioritárias¬pelo¬Município.¬
+(C)¬pela¬transformação¬do¬microclima¬na¬cidade¬de¬São¬Paulo,¬
+que¬demanda¬o¬manejo¬de¬vegetação¬com¬a¬utilização¬de¬
+espécies¬exóticas.¬
+(D)¬pelo¬ plantio¬ de¬ mudas¬ frutíferas¬ a¬ serem¬ selecionadas¬
+para¬permitir¬aos¬munícipes¬contribuírem¬com¬as¬políticas¬
+públicas¬de¬combate¬à¬fome,¬adaptação¬e¬mitigação¬do¬
+clima.¬¬
+(E)¬por¬ engenheiros¬ agrônomos,¬ engenheiros¬ florestais¬ ou¬
+biólogos,¬devidamente¬inscritos¬em¬seus¬órgãos¬de¬classe,¬
+que¬ se¬ responsabilizarão¬ pelo¬ procedimento¬ ou¬ laudo¬ e¬
+manifestação¬técnica¬emitidos,¬quando¬necessários.¬
+##### 
+¬
+{28} 
+Em¬ um¬ Campus¬ da¬ Universidade¬ de¬ São¬ Paulo¬ (USP),¬ na¬
+cidade¬de¬São¬Paulo,¬há¬a¬necessidade¬de¬intervenção¬ou¬a¬
+supressão¬ de¬ vegetação¬ nativa¬ em¬ Área¬ de¬ Preservação¬
+Permanente¬(APP).¬A¬esse¬respeito,¬é¬correto¬afirmar:¬
+¬
+(A)¬a¬supressão¬de¬vegetação¬nativa¬protetora¬de¬nascentes¬
+nesse¬campus¬nunca¬poderá¬ser¬autorizada.¬¬
+(B)¬podem¬ ser¬ consideradas¬ como¬ atividades¬ de¬ interesse¬
+social¬no¬campus¬as¬obras¬de¬infraestrutura¬destinadas¬ao¬
+saneamento¬básico¬e¬gestão¬de¬resíduos,¬hipóteses¬nas¬
+quais¬ há¬ possibilidade¬ de¬ intervenção¬ ou¬ supressão¬ da¬
+vegetação.¬
+(C)¬a¬ exploração¬ agroflorestal¬ sustentável¬ para¬ o¬ bem¬ de¬
+todos¬no¬campus¬e¬fora¬dele¬pode¬ser¬considerada¬como¬
+atividade¬de¬utilidade¬pública,¬mesmo¬que¬isso¬provoque¬
+prejuízo¬da¬função¬ambiental¬da¬área.¬
+(D)¬dentre¬ as¬ atividades¬ de¬ baixo¬ impacto¬ ambiental¬ no¬
+campus¬ encontra-se¬ o¬ plantio¬ de¬ espécies¬ nativas¬
+produtoras¬ de¬ frutos,¬ sementes,¬ castanhas¬ e¬ outros¬
+produtos¬
+vegetais,¬
+bem¬
+como¬
+espécies¬
+exóticas,¬
+possibilitando¬a¬supressão¬da¬vegetação¬existente.¬
+(E)¬a¬intervenção¬ou¬a¬supressão¬de¬vegetação¬nativa¬nessas¬
+áreas¬ no¬ campus¬ somente¬ ocorrerá¬ em¬ hipóteses¬ de¬
+utilidade¬pública,¬de¬interesse¬social¬ou¬de¬baixo¬impacto¬
+ambiental¬previstas¬no¬“Novo¬Código¬Florestal”.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+Concurso Edital RH nº 010/2025 – Engenheiro (especialidade: Arborização urbana e manejo arbóreo) 
+{29} 
+Em¬relação¬à¬competência¬dos¬entes¬federados¬em¬matéria¬de¬
+supressão¬de¬vegetação:¬
+¬
+(A)¬o¬ corte,¬ a¬ supressão¬ e¬ a¬ exploração¬ da¬ vegetação¬
+secundária¬ em¬ estágio¬ inicial¬ de¬ regeneração¬ do¬ Bioma¬
+Mata¬Atlântica,¬patrimônio¬nacional¬de¬acordo¬com¬o¬texto¬
+constitucional¬ de¬ 1988,¬ serão¬ autorizados¬ pelo¬ órgão¬
+estadual¬competente.¬
+(B)¬os¬empreendimentos¬e¬atividades¬realizados¬em¬unidades¬
+de¬ conservação¬ estadual¬ são¬ licenciados¬ pela¬ União¬ e¬
+independem¬do¬domínio¬no¬qual¬se¬localizem.¬
+(C)¬dentre¬ as¬ ações¬ administrativas¬ da¬ União¬ está¬ a¬
+aprovação¬ e¬ manejo¬ de¬ supressão¬ de¬ vegetação¬ de¬
+florestas¬ e¬ formações¬ sucessoras¬ em¬ florestas¬ públicas¬
+municipais.¬
+(D)¬compete¬ à¬ União¬ aprovar¬ o¬ manejo¬ e¬ a¬ supressão¬ de¬
+vegetação,¬ de¬ florestas¬ e¬ formações¬ sucessoras¬ em¬
+atividades¬
+ou¬
+empreendimentos,¬
+licenciados¬
+ou¬
+autorizados,¬ambientalmente,¬pelos¬Municípios¬e¬Estados.¬
+(E)¬em¬ áreas¬ urbanas¬ consolidadas,¬ ouvido¬ o¬ Conselho¬
+Nacional¬ de¬ Meio¬ Ambiente¬ (CONAMA)¬ e¬ o¬ Conselho¬
+Estadual¬ de¬ Meio¬ Ambiente¬ (CONSEMA),¬ o¬ Município¬
+poderá¬ estabelecer¬ faixas¬ marginais¬ distintas¬ daquelas¬
+estabelecidas¬pelas¬normas¬do¬“Novo¬Código¬Florestal”.¬
+##### 
+¬
+{30} 
+Com¬o¬intuito¬de¬preservar¬a¬vegetação¬arbórea,¬uma¬série¬de¬
+normas¬ foram¬ estabelecidas¬ e,¬ entre¬ elas,¬ há¬ aquelas¬ que¬
+dispõe¬ sobre¬ incentivos¬ econômicos.¬ Nesse¬ sentido,¬ no¬
+Município¬de¬São¬Paulo¬observa-se¬que¬
+¬
+(A)¬os¬imóveis¬revestidos¬de¬vegetação¬arbórea,¬declarada¬de¬
+preservação¬permanente,¬terão¬um¬desconto¬de¬até¬10%¬
+no¬seu¬Imposto¬Territorial¬Urbano¬(IPTU),¬sendo¬que¬essa¬
+concessão¬
+fica¬
+condicionada¬
+à¬
+preservação¬
+de¬
+requerimento¬anual¬pelo¬proprietário.¬
+(B)¬serão¬ beneficiados¬ no¬ Município¬ de¬ São¬ Paulo¬ com¬
+recursos¬do¬Imposto¬Territorial¬Urbano¬(IPTU)¬os¬projetos¬
+que¬ envolvam¬ conservação¬ de¬ remanescentes¬ de¬
+vegetação¬ nativa,¬ pesquisa¬ científica¬ ou¬ áreas¬ a¬ serem¬
+restauradas,¬com¬um¬desconto¬de¬até¬25%.¬
+(C)¬os¬ projetos¬ a¬ serem¬ beneficiados¬ com¬ recursos¬ do¬
+Imposto¬Territorial¬Urbano¬(IPTU)¬poderão¬beneficiar¬áreas¬
+públicas¬ e¬ privadas¬ e¬ serão¬ executados¬ por¬ órgãos¬
+públicos,¬instituições¬acadêmicas¬públicas¬e¬organizações¬
+da¬ sociedade¬ civil¬ de¬ interesse¬ público¬ que¬ atuem¬ na¬
+conservação,¬restauração¬ou¬pesquisa¬científica¬no¬Bioma¬
+Mata¬Atlântica.¬¬
+(D)¬as¬atividades¬de¬manutenção¬das¬Áreas¬de¬Preservação¬
+Permanente,¬ de¬ Reserva¬ Legal¬ e¬ de¬ uso¬ restrito¬ são¬
+elegíveis¬ para¬ quaisquer¬ pagamentos¬ ou¬ incentivos¬ por¬
+serviços¬ambientais,¬configurando¬adicionalidade¬para¬fins¬
+de¬mercados¬nacionais¬e¬internacionais¬de¬reduções¬de¬
+emissões¬certificadas¬de¬gases¬de¬efeito¬estufa.¬
+(E)¬os¬proprietários¬localizados¬nas¬zonas¬de¬amortecimento¬
+de¬ Unidades¬ de¬ Conservação¬ de¬ Uso¬ Sustentável¬ são¬
+elegíveis¬ para¬ receber¬ apoio¬ técnico-financeiro¬ da¬
+compensação¬ambiental,¬com¬a¬finalidade¬de¬recuperação¬
+e¬manutenção¬de¬quaisquer¬áreas¬protegidas.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+{31} 
+O¬ licenciamento¬ ambiental¬ é¬ o¬ procedimento¬ administrativo¬
+pelo¬qual¬o¬órgão¬ambiental¬licencia¬a¬localização,¬instalação,¬
+ampliação¬ e¬ a¬ operação¬ de¬ empreendimentos¬ e¬ atividades¬
+utilizadoras¬de¬recursos¬ambientais.¬Nesse¬sentido,¬observa-
+se¬que¬
+¬
+(A)¬a¬ licença¬ ambiental¬ para¬ empreendimentos¬ e¬ atividades¬
+consideradas¬ efetiva¬ ou¬ potencialmente¬ causadoras¬ de¬
+significativa¬degradação¬às¬florestas¬e¬demais¬formas¬de¬
+vegetação¬ não¬ depende¬ de¬ prévio¬ estudo¬ de¬ impacto¬
+ambiental.¬
+(B)¬os¬ estudos¬ necessários¬ ao¬ processo¬ de¬ licenciamento¬
+para¬atividades¬utilizadoras¬de¬recursos¬florestais¬deverão¬
+ser¬realizados¬por¬profissionais¬legalmente¬habilitados,¬às¬
+expensas¬do¬Poder¬Público.¬
+(C)¬poderão¬ ser¬ estabelecidos¬ procedimentos¬ simplificados¬
+para¬ as¬ atividades¬ e¬ empreendimentos¬ de¬ pequeno¬
+potencial¬ de¬ impacto¬ ambiental¬ que¬ utilizem¬ recursos¬
+florestais,¬ que¬ deverão¬ ser¬ aprovados¬ pelos¬ respectivos¬
+Conselhos¬de¬Meio¬Ambiente.¬
+(D)¬o¬prazo¬máximo¬para¬o¬deferimento¬ou¬indeferimento¬do¬
+licenciamento¬ ambiental¬ cuja¬ atividade¬ utiliza¬ recursos¬
+florestais¬é¬de¬1¬(um)¬mês,¬a¬contar¬do¬ato¬de¬protocolar¬o¬
+requerimento.¬
+(E)¬na¬ renovação¬ da¬ Licença¬ de¬ Operação¬ (LO)¬ de¬ uma¬
+atividade¬ou¬empreendimento¬que¬utiliza¬recursos¬florestal,¬
+o¬ órgão¬ ambiental¬ competente¬ deverá¬ sempre¬ manter¬ o¬
+mesmo¬período¬de¬vigência¬da¬licença¬anterior.¬
+##### 
+¬
+{32} 
+Considerando-se¬que¬um¬empreendedor¬deseja¬desenvolver¬
+atividades¬que¬podem¬estar¬associadas¬a¬pesquisadores¬da¬
+USP¬ como¬ atividades¬ de¬ extensão,¬ nesse¬ caso,¬ ao¬ prestar¬
+uma¬consultoria¬a¬ele¬você¬pode¬indicar:¬
+¬
+(A)¬Para¬a¬realização¬de¬atividade¬de¬medidas¬de¬controle¬de¬
+espécies¬ exóticas¬ invasoras¬ com¬ a¬ participação¬ de¬
+pesquisadores¬da¬USP,¬deve-se¬realizar¬estudo¬prévio¬de¬
+impacto¬ambiental¬a¬ser¬avaliado¬pelo¬IBAMA¬e¬CONAMA.¬
+(B)¬Para¬a¬construção¬de¬um¬parque¬aquático,¬com¬estrutura¬
+a¬ possibilitar¬ treinamento¬ de¬ estudantes¬ da¬ USP,¬ cujos¬
+impactos¬ ambientais¬ diretos¬ ultrapassem¬ os¬ limites¬
+territoriais¬ de¬ um¬ ou¬ mais¬ Municípios,¬ deve-se¬ requerer¬
+licença¬ambiental¬ao¬IBAMA.¬
+(C)¬No¬ procedimento¬ do¬ licenciamento¬ ambiental¬ para¬ a¬
+realização¬de¬empreendimento¬ou¬atividade¬que¬lide¬com¬
+recursos¬florestais,¬envolvendo¬além¬do¬empreendedor¬a¬
+USP,¬não¬deve-se¬solicitar¬autorização¬para¬supressão¬de¬
+vegetação.¬¬
+(D)¬Para¬a¬construção¬de¬um¬parque¬de¬arvorismo¬e¬tirolesa¬
+localizada¬
+em¬
+dois¬
+Estados,¬
+envolvendo¬
+esse¬
+empreendedor¬ e¬ incubadoras¬ universitárias,¬ dentre¬ as¬
+quais¬ incubadoras¬ da¬ USP,¬ deve-se¬ requerer¬ licença¬
+ambiental¬junto¬ao¬IBAMA.¬
+(E)¬Para¬ampliação¬do¬Campus¬da¬USP,¬no¬procedimento¬do¬
+licenciamento¬ ambiental,¬ deve-se¬ estar¬ ciente¬ de¬ que¬ o¬
+órgão¬
+ambiental¬
+competente¬
+poderá¬
+solicitar¬
+esclarecimentos¬e¬complementações¬até¬10¬(dez)¬vezes,¬
+como¬prevê¬a¬legislação.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Concurso Edital RH nº 010/2025 – Engenheiro (especialidade: Arborização urbana e manejo arbóreo) 
+{33} 
+As¬ condutas¬ e¬ atividades¬ consideradas¬ lesivas¬ ao¬ meio¬
+ambiente¬ sujeitarão¬ os¬ infratores¬ a¬ sanções¬ penais¬ e¬
+administrativas,¬independentemente¬da¬obrigação¬de¬reparar¬
+os¬danos¬causados.¬No¬caso¬de¬atividade¬desenvolvida¬que¬
+provoca¬ dano¬ ambiental¬ às¬ florestas¬ e¬ demais¬ formas¬ de¬
+vegetação¬no¬Estado¬de¬São¬Paulo,¬pode-se¬afirmar:¬
+¬
+(A)¬Não¬ há¬ a¬ possibilidade¬ de¬ condenação¬ simultânea¬ e¬
+cumulativa¬das¬obrigações¬ de¬fazer,¬como¬recuperar¬as¬
+florestas;¬ de¬ não¬ fazer,¬ como¬ não¬ degradar¬ o¬ meio¬
+ambiente;¬ e¬ de¬ indenizar,¬ considerando-se¬ o¬ dano¬
+provocado¬às¬florestas¬e¬demais¬formas¬de¬vegetação,¬na¬
+reparação¬integral¬do¬meio¬ambiente.¬
+(B)¬Não¬poderá¬ser¬desconsiderada¬a¬pessoa¬jurídica¬no¬caso¬
+de¬ danos¬ às¬ florestas¬ e¬ demais¬ formas¬ de¬ vegetação,¬
+quando¬sua¬personalidade¬for¬obstáculo¬ao¬ressarcimento¬
+de¬prejuízos¬causados¬à¬qualidade¬do¬meio¬ambiente.¬
+(C)¬Não¬há¬direito¬adquirido¬a¬degradar¬as¬florestas¬e¬demais¬
+formas¬ de¬ vegetação,¬ não¬ existindo¬ permissão¬ ao¬
+proprietário¬ou¬posseiro¬para¬a¬continuidade¬de¬práticas¬
+vedadas¬pelo¬legislador.¬
+(D)¬Não¬ há¬ responsabilidade¬ civil¬ do¬ Estado,¬ quando¬ a¬
+omissão¬ de¬ cumprimento¬ adequado¬ do¬ seu¬ dever¬ de¬
+fiscalizar¬
+a¬
+proteção¬
+das¬
+florestas¬
+for¬
+elemento¬
+determinante¬para¬a¬concretização¬ou¬o¬agravamento¬do¬
+dano¬causado.¬¬
+(E)¬Não¬há¬possibilidade¬de¬persecução¬criminal¬pela¬prática¬
+de¬ crime¬ ambiental,¬ como¬ a¬ destruição¬ de¬ floresta,¬ se¬
+ocorreu¬a¬celebração¬de¬termo¬de¬ajustamento¬de¬conduta¬
+(TAC).¬
+##### 
+¬
+{34} 
+A¬ proteção¬ e¬ a¬ utilização¬ do¬ Bioma¬ Mata¬ Atlântica¬ devem¬
+observar¬os¬seguintes¬princípios:¬
+¬
+(A)¬primazia¬dos¬direitos¬de¬propriedade.¬
+(B)¬primazia¬do¬interesse¬político.¬
+(C)¬equidade¬intergeracional,¬prevenção¬e¬precaução.¬
+(D)¬sigilo¬de¬informações¬e¬atos.¬
+(E)¬ tarifação¬ dos¬ serviços¬ administrativos¬ prestados¬ ao¬
+pequeno¬produtor¬rural.¬
+##### 
+¬
+{35} 
+No¬Bioma¬Mata¬Atlântica,¬o¬corte¬ou¬a¬supressão¬de¬vegetação¬
+primária¬ou¬secundária¬nos¬estágios¬médio¬ou¬avançado¬de¬
+regeneração,¬ autorizados¬ pela¬ Lei¬ federal¬ n.¬ 11.428/2006,¬
+conhecida¬como¬“Lei¬da¬Mata¬Atlântica”,¬ficam¬condicionados¬
+à¬compensação¬ambiental,¬cuja¬área¬deve¬observar¬
+¬
+(A)¬as¬características¬que¬permitam¬o¬fluxo¬gênico.¬
+(B)¬o¬dobro¬da¬área¬desmatada.¬
+(C)¬as¬demais¬bacias¬hidrográficas.¬¬
+(D)¬o¬equivalente¬de¬extensão¬da¬área¬desmatada.¬
+(E)¬a¬mesma¬micro¬bacia¬hidrográfica.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{36} 
+De¬acordo¬com¬o¬texto¬constitucional¬de¬1988¬e¬a¬legislação¬
+infraconstitucional,¬é¬correto¬afirmar:¬
+¬
+(A)¬Aquele¬ que¬ explorar¬ recursos¬ minerais¬ fica¬ obrigado¬ a¬
+recuperar¬ o¬ meio¬ ambiente¬ degradado,¬ de¬ acordo¬ com¬
+solução¬técnica¬exigida¬pelo¬órgão¬público¬competente,¬na¬
+forma¬da¬lei.¬
+(B)¬O¬Projeto¬de¬Recuperação¬de¬Área¬Degradada¬ou¬Área¬
+Alterada¬ (PRAD)¬ consiste¬ em¬ projeto¬ político,¬ essencial¬
+para¬o¬planejamento¬e¬execução¬das¬ações¬necessárias¬à¬
+recuperação¬da¬área¬degradada¬ou¬alterada¬
+(C)¬A¬ recuperação¬ da¬ área¬ degradada¬ não¬ se¬ inclui¬ na¬
+competência¬ fiscalizatória¬ dos¬ órgãos¬ da¬ administração¬
+pública,¬cabendo¬tão¬somente¬ao¬proprietário¬atestar¬a¬sua¬
+realização.¬
+(D)¬Na¬área¬a¬ser¬recuperada,¬em¬quaisquer¬condições,¬não¬
+poderá¬ ser¬ valorizada,¬ estimulada¬ e¬ conduzida¬ a¬
+regeneração¬ natural¬ da¬ vegetação¬ nativa,¬ optando-se¬
+sempre¬pelo¬enriquecimento¬com¬espécies-alvo.¬
+(E)¬Na¬ área¬ a¬ ser¬ recuperada¬ devem¬ ser¬ utilizadas¬
+prioritariamente¬espécies¬exóticas¬para¬potencializar¬a¬sua¬
+recuperação.¬
+##### 
+¬
+{37} 
+“O¬ desenho¬ de¬ modelos¬ de¬ recuperação¬ de¬ áreas¬
+degradadas¬deve¬contemplar¬e¬se¬adequar¬a¬cada¬situação¬
+de¬degradação¬presente¬na¬área.¬Com¬base¬em¬informações¬
+obtidas¬ no¬ diagnóstico.¬ O¬ Diagnóstico¬ da¬ área¬ a¬ ser¬
+recuperada¬ e¬ entorno¬ deve¬ ser¬ a¬ principal¬ referência¬ para¬
+definição¬das¬estratégias¬de¬recuperação¬a¬serem¬utilizadas.¬
+Estudos¬ florísticos¬ e¬ fitossociológicos¬ de¬ remanescentes¬
+florestais¬presentes,¬em¬áreas¬próximas¬ou¬vizinhas¬à¬área¬a¬
+ser¬recuperada,¬são¬as¬melhores¬referências¬para¬definição¬de¬
+espécies¬ a¬ serem¬ utilizadas,¬ espaçamento¬ de¬ plantio,¬
+proporções¬entre¬grupos¬ecológicos¬etc”.¬
+¬
+ALMEIDA,¬DS.¬Modelos¬de¬recuperação¬ambiental.¬In:¬Recuperação¬
+ambiental¬da¬Mata¬Atlântica¬[online].3rd¬ed.¬rev:¬Editus,¬2016.¬
+¬
+Com¬ base¬ no¬ texto¬ apresentado,¬ assinale¬ a¬ alternativa¬ que¬
+melhor¬se¬adequa¬ao¬diagnóstico.¬
+¬
+(A)¬Conhecimento¬
+da¬
+área¬
+antes¬
+de¬
+fazer¬
+qualquer¬
+intervenção¬
+sem¬
+levar¬
+em¬
+consideração¬
+outras¬
+informações.¬
+(B)¬Exame¬ minucioso¬ da¬ área¬ a¬ ser¬ recuperada¬ e¬ de¬ seu¬
+entorno¬imediato,¬bem¬como¬de¬seu¬histórico¬e¬de¬todos¬
+os¬ outros¬ fatores¬ que¬ possam¬ interferir¬ no¬ sucesso¬ de¬
+recuperação.¬¬
+(C)¬Visa¬ definir¬ os¬ métodos¬ mais¬ adequados¬ para¬ cada¬
+situação¬
+ambiental¬
+com¬
+base¬
+na¬
+resiliência¬
+do¬
+ecossistema¬e¬na¬aptidão¬produtiva¬da¬área.¬
+(D)¬Se¬ baseia¬ na¬ resiliência¬ do¬ ecossistema¬ e¬ na¬ aptidão¬
+produtiva¬da¬área.¬
+(E)¬Definição¬ das¬ melhores¬ espécies¬ a¬ serem¬ plantadas¬ na¬
+área.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Concurso Edital RH nº 010/2025 – Engenheiro (especialidade: Arborização urbana e manejo arbóreo) 
+{38} 
+O¬ sucesso¬ da¬ restauração¬ depende¬ da¬ técnica¬ a¬ ser¬
+empregada.¬Para¬a¬definição¬da¬melhor¬técnica¬vários¬fatores¬
+precisam¬ser¬avaliados¬na¬realização¬de¬um¬bom¬diagnóstico¬
+ecológico¬ da¬ área¬ a¬ ser¬ restaurada.¬ Com¬ base¬ nessas¬
+informações,¬ o¬ uso¬ de¬ técnicas¬ de¬ restauração¬ definirá¬ o¬
+sucesso¬da¬restauração.¬Desta¬forma,¬assinale¬a¬alternativa¬
+que¬apresenta¬a¬melhor¬técnica.¬
+¬
+(A)¬Em¬ plantios¬ de¬ restauração¬ florestal,¬ deve-se¬ priorizar¬ o¬
+plantio¬inicial¬de¬maior¬densidade¬de¬espécies¬mais¬tardias¬
+da¬sucessão¬florestal,¬pois¬serão¬elas¬que¬constituirão¬a¬
+floresta¬madura.¬
+(B)¬O¬ uso¬ de¬ solo¬ florestal¬ superficial¬ é¬ uma¬ técnica¬ que¬
+favorece¬ o¬ restabelecimento¬ de¬ várias¬ formas¬ de¬ vida¬
+vegetais,¬mas¬pouco¬contribui¬para¬a¬recuperação¬do¬solo.¬
+(C)¬O¬ plantio¬ de¬ mudas¬ é¬ a¬ técnica¬ de¬ restauração¬ que¬
+apresenta¬a¬melhor¬relação¬custo/benefício,¬pois¬permite¬o¬
+controle¬sobre¬a¬composição¬de¬espécies¬da¬floresta.¬
+(D)¬É¬possível¬restaurar¬uma¬floresta¬simplesmente¬isolando¬a¬
+área¬degradada,¬sem¬necessidade¬de¬plantio¬de¬mudas,¬
+semeadura¬direta¬ou¬controle¬de¬gramíneas¬invasoras.¬
+(E)¬O¬adensamento¬da¬regeneração¬natural¬deve¬ser¬feito¬com¬
+mudas¬de¬espécies¬de¬diversidade.¬
+##### 
+¬
+{39} 
+Leia¬o¬trecho¬a¬seguir:¬
+¬
+“Uma¬das¬mudanças¬decorrentes¬na¬nova¬Lei¬Florestal¬
+brasileira¬ (Lei¬ nº¬ 12.651/2012)¬ foi¬ o¬ estabelecimento¬ de¬
+diferentes¬larguras¬de¬vegetação¬ciliar¬a¬serem¬recuperadas¬
+em¬Áreas¬de¬Preservação¬Permanente¬(APP)¬em¬função¬ do¬
+tamanho¬da¬propriedade¬rural,¬em¬módulos¬fiscais.¬De¬acordo¬
+com¬essa¬lei,¬a¬largura¬de¬recuperação¬obrigatória¬de¬APPs¬
+ripárias¬varia¬de¬5¬m,¬para¬propriedades¬menores¬de¬1¬módulo¬
+fiscal,¬até¬100¬m,¬para¬cursos¬d’água¬largos¬em¬propriedades¬
+rurais¬maiores”.¬
+¬
+Considerando¬ que¬ o¬ texto¬ apresentado¬ tem¬ caráter¬
+unicamente¬ motivador,¬ o¬ que¬ se¬ espera¬ em¬ relação¬ à¬
+composição¬ para¬ essas¬ florestas¬ a¬ serem¬ restauradas¬ com¬
+larguras¬estreitas?¬
+¬
+(A)¬Faixas¬ mais¬ estreitas¬ de¬ florestas¬ recuperadas¬ em¬ APP¬
+tendem¬a¬apresentar¬maiores¬problemas¬de¬invasão¬por¬
+espécies¬exóticas¬ruderais,¬em¬função¬da¬maior¬proporção¬
+de¬áreas¬sob¬efeito¬de¬borda.¬
+(B)¬Faixas¬ menores,¬ em¬ relação¬ ao¬ seu¬ funcionamento,¬ não¬
+conseguirão¬
+proteger¬
+fisicamente¬
+as¬
+margens¬
+e,¬
+consequentemente,¬impactarão¬a¬qualidade¬da¬água¬dos¬
+rios¬e¬lagos,¬tendo¬como¬consequência¬o¬assoreamento¬
+desses¬ambientes.¬
+(C)¬Florestas¬ recuperadas¬ com¬ diferentes¬ larguras¬ podem¬
+apresentar¬composição¬distinta,¬ao¬passo¬que¬a¬estrutura¬
+e¬o¬funcionamento¬da¬floresta¬tendem¬a¬ser¬semelhantes.¬
+(D)¬A¬ recuperação¬ de¬ APPs¬ com¬ diferentes¬ larguras¬ pode¬
+resultar¬em¬incremento¬semelhante¬de¬espécies¬diversas¬
+do¬ecossistema.¬
+(E)¬Na¬recuperação¬de¬APPs,¬faixas¬estreitas¬tendem¬a¬perder¬
+indivíduos¬
+e¬
+espécies¬
+devido¬
+à¬
+erosão¬
+e¬
+ao¬
+desbarrancamento,¬alterando¬sua¬composição.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+{40} 
+De¬acordo¬com¬a¬Lei¬nº¬11.428,¬de¬22¬de¬dezembro¬de¬2006,¬
+em¬seu¬capítulo¬VI¬e¬Artigo¬30¬sobre¬proteção¬do¬bioma¬Mata¬
+Atlântica¬ nas¬ áreas¬ urbanas¬ e¬ regiões¬ metropolitanas¬
+descreve¬como¬deve¬ser¬realizada¬a¬supressão¬da¬vegetação¬
+primária¬ e¬ secundária.¬ Especialmente¬ sobre¬ a¬ vegetação¬
+secundária¬ a¬ lei¬ discrimina¬ seus¬ estágios¬ sucessionais¬
+(avançado¬e¬médio):¬
+¬
+(A)¬Para¬efeito¬desta¬lei¬é¬permitido¬a¬supressão¬da¬vegetação¬
+primária¬e¬secundária¬em¬estágio¬avançado¬e¬médio¬para¬
+fins¬
+de¬
+loteamento¬
+ou¬
+edificação,¬
+nas¬
+regiões¬
+metropolitanas¬ e¬ áreas¬ urbanas,¬ desde¬ que¬ tenha¬ uma¬
+prévia¬ autorização¬ do¬ órgão¬ estadual¬ competente¬ e¬
+preservação¬de¬30%¬(trinta¬por¬cento)¬da¬vegetação¬em¬
+estágio¬avançado¬de¬regeneração.¬Deve¬ser¬ressalvado¬o¬
+disposto¬ nos¬ arts.¬ 11,¬ 12¬ e¬ 17¬ desta¬ Lei¬ e¬ atendido¬ o¬
+disposto¬no¬Plano¬Diretor¬do¬Município¬e¬demais¬normas¬
+urbanísticas¬e¬ambientais¬aplicáveis.¬
+(B)¬Para¬efeito¬desta¬lei¬é¬permitido¬a¬supressão¬da¬vegetação¬
+primária¬ em¬ estágio¬ avançado¬ e¬ médio¬ para¬ fins¬ de¬
+loteamento¬ ou¬ edificação.¬ Especificamente¬ nas¬ regiões¬
+metropolitanas¬ e¬ áreas¬ urbanas,¬ desde¬ que¬ tenha¬ uma¬
+prévia¬ autorização¬ do¬ órgão¬ estadual¬ competente¬ e¬
+preservação¬de¬50%¬da¬vegetação¬em¬estágio¬avançado¬
+de¬regeneração.¬Deve¬ser¬ressalvado¬o¬disposto¬nos¬arts.¬
+11,¬12¬e¬17¬desta¬Lei¬e¬atendido¬o¬disposto¬no¬Plano¬Diretor¬
+do¬Município¬e¬demais¬normas¬urbanísticas¬e¬ambientais¬
+aplicáveis.¬
+(C)¬Para¬efeito¬desta¬lei¬é¬permitido¬a¬supressão¬da¬vegetação¬
+secundária¬ em¬ estágio¬ avançado¬ e¬ médio¬ para¬ fins¬ de¬
+loteamento¬ ou¬ edificação.¬ Especificamente¬ nas¬ regiões¬
+metropolitanas¬ e¬ áreas¬ urbanas,¬ desde¬ que¬ tenha¬ uma¬
+prévia¬ autorização¬ do¬ órgão¬ estadual¬ competente¬ e¬
+preservação¬de¬50%¬(cinquenta¬por¬cento)¬da¬vegetação¬
+em¬ estágio¬ avançado¬ de¬ regeneração.¬ Deve¬ ser¬
+ressalvado¬ o¬ disposto¬ nos¬ arts.¬ 11,¬ 12¬ e¬ 17¬ desta¬ Lei¬ e¬
+atendido¬ o¬ disposto¬ no¬ Plano¬ Diretor¬ do¬ Município¬ e¬
+demais¬normas¬urbanísticas¬e¬ambientais¬aplicáveis.¬
+(D)¬Para¬efeito¬desta¬lei,¬nos¬perímetros¬urbanos¬aprovados¬
+após¬a¬data¬de¬início¬da¬vigência¬é¬permitida¬a¬supressão¬
+de¬ vegetação¬ secundária¬ em¬ estágio¬ avançado¬ de¬
+regeneração¬ do¬ Bioma¬ Mata¬ Atlântica¬ para¬ fins¬ de¬
+loteamento¬ou¬edificação.¬
+(E)¬Para¬ efeito¬ desta¬ lei,¬ nos¬ perímetros¬ urbanos¬ aprovados¬
+até¬a¬data¬de¬início¬de¬vigência,¬a¬supressão¬de¬vegetação¬
+secundária¬ em¬ estágio¬ médio¬ de¬ regeneração,¬ somente¬
+será¬admitida¬para¬fins¬de¬loteamento¬ou¬edificação.¬No¬
+caso¬de¬empreendimentos¬que¬garantam¬a¬preservação¬
+de¬vegetação¬nativa¬em¬estágio¬médio¬de¬regeneração¬em¬
+no¬mínimo¬20%¬(vinte¬por¬cento)¬da¬área¬total¬coberta¬por¬
+esta¬vegetação.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+Concurso Edital RH nº 010/2025 – Engenheiro (especialidade: Arborização urbana e manejo arbóreo) 
+{41} 
+Licenciamento¬ambiental¬é¬um¬processo¬através¬do¬qual¬as¬
+autoridades¬ ambientais¬ concedem¬ uma¬ autorização¬ para¬ a¬
+execução¬ de¬atividades¬ e¬ operações¬ que¬ de¬ alguma¬ forma¬
+utilizam¬
+ou¬
+interferem¬
+nos¬
+recursos¬
+ambientais.¬
+O¬
+licenciamento¬ambiental¬foi¬estabelecido¬pela¬Lei¬nº.¬6.938/81¬
+de¬31¬de¬agosto¬de¬1981,¬que¬trata¬da¬Política¬Nacional¬do¬
+Meio¬Ambiente¬e¬define¬um¬conjunto¬de¬normas¬referentes¬à¬
+preservação¬ambiental.¬Assinale¬a¬alternativa¬que¬apresenta¬a¬
+melhor¬definição¬para¬licenciamento¬ambiental.¬
+¬
+(A)¬Ato¬
+administrativo¬
+pelo¬
+qual¬
+o¬
+órgão¬
+ambiental¬
+competente,¬ estabelece¬ as¬ condições,¬ restrições¬ e¬
+medidas¬ de¬ controle¬ ambiental¬ que¬ deverão¬ ser¬
+obedecidas¬pelo¬empreendedor,¬pessoa¬física¬ou¬jurídica,¬
+para¬localizar,¬instalar,¬ampliar¬e¬operar¬empreendimento¬
+ou¬ atividades¬ utilizadoras¬ dos¬ recursos¬ ambientais¬
+consideradas¬ efetiva¬ ou¬ potencialmente¬ poluidoras¬ ou¬
+aquelas¬ que,¬ sob¬ qualquer¬ forma,¬ possam¬ causar¬
+degradação¬ambiental.¬
+(B)¬Diretrizes¬ e¬ os¬ procedimentos¬ administrativos¬ que¬ o¬
+empreendedor,¬
+pessoa¬
+física¬
+ou¬
+jurídica,¬
+operar¬
+empreendimento¬ou¬atividades¬utilizadoras¬dos¬recursos¬
+ambientais¬visando¬aprovação¬de¬atividades¬poluidoras.¬
+(C)¬Procedimento¬administrativo¬pelo¬qual¬o¬órgão¬ambiental¬
+competente¬licencia¬a¬localização,¬instalação,¬ampliação¬e¬
+a¬operação¬de¬empreendimentos¬e¬atividades¬utilizadoras¬
+de¬
+recursos¬
+ambientais,¬
+consideradas¬
+efetiva¬
+ou¬
+potencialmente¬poluidoras¬ou¬daquelas¬que,¬sob¬qualquer¬
+forma,¬
+possam¬
+causar¬
+degradação¬
+ambiental,¬
+considerando¬as¬disposições¬legais¬e¬regulamentares¬e¬as¬
+normas¬técnicas¬aplicáveis¬ao¬caso.¬
+(D)¬Procedimento¬administrativo¬para¬o¬controle¬de¬atividade¬
+poluidoras¬ das¬ florestas¬ e¬ demais¬ formas¬ de¬ vegetação¬
+nativa,¬bem¬como¬da¬biodiversidade,¬do¬solo,¬dos¬recursos¬
+hídricos¬e¬da¬integridade¬do¬sistema¬climático,¬para¬o¬bem-
+estar¬das¬gerações¬presentes¬e¬futuras.¬
+(E)¬Procedimento¬ administrativo¬ que¬ estabelece¬ parâmetros¬
+técnicos¬a¬serem¬adotados¬na¬elaboração,¬apresentação,¬
+avaliação¬técnica¬de¬empreendimentos¬e¬atividades¬que¬
+causam¬degradação¬ambiental.¬
+##### 
+¬
+{42} 
+Modelos¬ de¬ recuperação¬ de¬ áreas¬ degradadas¬ pode¬ ser¬
+através¬ de¬ sistemas¬ florestais¬ de¬ uso¬ múltiplo.¬ Esse¬ é¬ um¬
+sistema¬em¬que¬se¬procura¬conciliar¬a¬obtenção¬de¬benefícios¬
+ambientais¬(conservação¬do¬solo,¬da¬fauna,¬flora¬e¬água)¬com¬
+a¬ produção¬ de¬ benefícios¬ econômicos¬ (coleta¬ de¬ produtos¬
+florestais¬ madeireiros¬ e¬ não¬ madeireiros).¬ Assinale¬ a¬
+alternativa¬ que¬ apresenta¬ a¬ melhor¬ conceituação¬ para¬ esse¬
+modelo.¬
+¬
+(A)¬Sistemas¬ florestais¬ de¬ uso¬ múltiplo¬ são¬ modelos¬ de¬
+recuperação¬ ambiental¬ de¬ áreas¬ degradadas¬ onde¬
+contemplamos,¬além¬dos¬aspectos¬ambientais,¬as¬funções¬
+sociais¬e¬econômicas¬da¬futura¬floresta¬a¬ser¬formada.¬
+(B)¬Sistema¬ florestais¬ de¬ uso¬ múltiplo¬ em¬ que¬ a¬ criação¬ de¬
+animais¬também¬faz¬parte.¬
+(C)¬Modelo¬ de¬ restauração¬ florestal¬ em¬ que¬ as¬ espécies¬
+frutíferas¬são¬a¬base¬do¬modelo.¬
+(D)¬Sistemas¬ florestais¬ de¬ uso¬ múltiplo¬ são¬ modelos¬ de¬
+recuperação¬ ambiental¬ de¬ áreas¬ degradadas¬ nos¬ quais¬
+contemplamos,¬além¬dos¬aspectos¬ambientais,¬as¬funções¬
+sociais¬da¬futura¬floresta¬a¬ser¬formada.¬
+(E)¬Modelo¬de¬recuperação¬florestal¬no¬qual¬há¬predominância¬
+de¬plantios¬agrícolas¬homogêneos.¬#####¬
+{43} 
+“A¬ definição¬ do¬ modelo¬ de¬ restauração¬ para¬ uma¬
+determinada¬área¬degradada¬depende¬de¬fatores¬como:¬grau¬
+de¬ degradação¬ e¬ histórico¬ da¬ área,¬ disponibilidade¬ de¬
+sementes¬ e¬ mudas,¬ solo,¬ clima,¬ máquinas¬ e¬ implementos¬
+agrícolas¬e¬recursos¬financeiros¬disponíveis”¬¬
+¬
+FERRETTI,¬2002¬citado¬por¬Almeida,¬2016.¬
+¬
+Sobre¬o¬uso¬de¬métodos¬de¬restauração¬florestal,¬assinale¬a¬
+alternativa¬correta.¬
+¬
+(A)¬O¬plantio¬de¬mudas¬de¬espécies¬nativas¬em¬área¬total¬deve¬
+ser¬ priorizado¬ como¬ principal¬ método¬ de¬ restauração,¬
+dada¬a¬eficiência¬ecológica¬e¬baixos¬custos.¬
+(B)¬A¬ condução¬ da¬ regeneração¬ natural¬ deve¬ ser¬ adotada¬
+sempre¬que¬possível,¬pois¬reduz¬os¬custos¬associados¬ao¬
+processo¬ de¬ restauração¬ e¬ aumenta¬ sua¬ eficiência¬
+ecológica.¬
+(C)¬O¬uso¬de¬uma¬grande¬diversidade¬de¬espécies¬nativas¬nos¬
+plantios¬
+de¬
+restauração¬
+é¬
+essencial,¬
+para¬
+a¬
+sustentabilidade¬ ecológica¬ da¬ floresta,¬ mesmo¬ em¬
+paisagens¬com¬alta¬resiliência.¬
+(D)¬Em¬ paisagens¬ altamente¬ fragmentadas,¬ a¬ limitação¬ ao¬
+estabelecimento¬ da¬ vegetação¬ nativa¬ constitui-se¬ no¬
+principal¬filtro¬ecológico¬associado¬ao¬manejo¬florestal¬de¬
+espécies¬nativas.¬
+(E)¬Nem¬sempre¬é¬necessário¬isolar¬os¬fatores¬de¬degradação¬
+antes¬do¬início¬de¬um¬projeto¬de¬restauração¬florestal.¬
+##### 
+¬
+{44} 
+“O¬Prefeito¬do¬município¬de¬São¬Paulo¬ou¬responsável¬
+por¬ele¬designado¬pode¬delegar¬ao¬Engenheiro¬Agrônomo,¬ao¬
+Biólogo¬ ou¬ ao¬ Engenheiro¬ Florestal¬ a¬ competência¬ para¬
+autorizar¬a¬supressão¬de¬vegetação¬de¬porte¬arbóreo¬situada¬
+em¬logradouros¬públicos¬ou¬em¬áreas¬particulares”.¬
+¬
+De¬ acordo¬ com¬ a¬ legislação¬ Lei¬ nº¬ 17.267¬ de¬ 13/01/2020,¬
+quem¬poderá¬realizar¬supressão¬nas¬áreas¬públicas?¬
+¬
+(A)¬Proprietário¬do¬Imóvel.¬
+(B)¬Qualquer¬pessoa¬treinada¬pela¬prefeitura.¬
+(C)¬Funcionários¬de¬empresas¬contratadas.¬
+(D)¬Funcionários¬ de¬ empresas¬ concessionárias¬ de¬ serviços¬
+públicos¬ ou¬ de¬ outras¬ por¬ elas¬ contratadas¬ para¬ a¬
+execução¬dos¬serviços.¬
+(E)¬Em¬ um¬ condomínio¬ privado¬ a¬ equipe¬ interna¬ do¬
+condomínio¬poderá¬realizar¬a¬supressão.¬
+##### 
+¬
+{45} 
+Segundo¬ a¬ Portaria¬ SVMA¬ 130_2013,¬ a¬ vegetação¬ a¬ ser¬
+considerada¬ para¬ efeito¬ de¬ autorização¬ de¬ manejo¬ e¬
+respectiva¬compensação¬ambiental¬é¬composta¬por¬espécime¬
+ou¬espécimes¬vegetais¬lenhosos,¬coqueiros¬e¬palmeiras,¬com¬
+Diâmetro¬do¬Caule¬à¬Altura¬do¬Peito¬-¬DAP¬e¬estipe¬superior¬ou¬
+igual¬a:¬
+¬
+(A)¬2,0¬cm.¬
+(B)¬5,0¬cm.¬
+(C)¬10,0¬cm.¬
+(D)¬15,0¬cm.¬
+(E)¬20,0¬cm.¬
+##### 
+ 
+
+
+--- PAGE 12 ---
+
+Concurso Edital RH nº 010/2025 – Engenheiro (especialidade: Arborização urbana e manejo arbóreo) 
+{46} 
+No¬planejamento¬de¬projetos¬de¬restauração¬não¬apoiado¬no¬
+diagnóstico¬o¬único¬método¬empregado¬é¬o¬plantio¬de¬mudas.¬
+Quando¬ isso¬ acontece,¬ em¬ várias¬ situações,¬ a¬ restauração¬
+será¬fadada¬ao¬insucesso¬e¬os¬recursos¬serão¬desperdiçados.¬
+Enquanto¬que¬um¬bom¬diagnóstico¬permite¬um¬melhor¬uso¬dos¬
+recursos¬naturais.¬Com¬base¬nas¬informações¬apresentadas,¬
+assinale¬ a¬ alternativa¬ que¬ demonstra¬ que¬ a¬ utilização¬ dos¬
+processos¬naturais¬pode¬ser¬vantajosa¬para¬a¬restauração.¬
+¬
+(A)¬Os¬ processos¬ naturais¬ de¬ regeneração¬ do¬ ecossistema¬
+reduzem¬ a¬ demanda¬ de¬ intervenções¬ humanas¬ no¬
+processo,¬reduz¬os¬custos¬da¬restauração¬e¬aumenta¬sua¬
+eficiência.¬
+(B)¬Levar¬ em¬ consideração¬ os¬ processos¬ naturais¬ da¬
+regeneração¬ não¬ irá¬ contribuir¬ substancialmente¬ para¬ a¬
+restauração¬não¬ter¬um¬valor¬alto.¬
+(C)¬Implantação¬completa¬da¬comunidade¬vegetal¬nativa¬com¬
+uso¬de¬reflorestamentos,¬semeadura¬direta,¬transposição¬
+de¬topsoil¬acontece¬quando¬levamos¬em¬consideração¬os¬
+processos¬naturais¬do¬ecossistema.¬
+(D)¬A¬ recuperação¬ ambiental¬ de¬ uma¬ área,¬ deve¬ sempre¬
+associar¬ o¬ planejamento¬ aos¬ processos¬ naturais¬ de¬
+sucessão,¬ sem¬ considerar¬ as¬ interferências¬ externas¬
+presentes¬ nos¬ ecossistemas¬ que¬ fazem¬ com¬ que¬ as¬
+sequências¬
+sucessionais¬
+possam¬
+tomar¬
+diferentes¬
+caminhos.¬
+(E)¬Para¬ o¬ planejamento¬ de¬ projetos¬ de¬ recuperação¬
+ambiental¬de¬áreas¬degradadas,¬não¬é¬necessário¬pensar¬
+globalmente¬em¬termos¬do¬ecossistema¬a¬ser¬recuperado,¬
+sua¬ estrutura¬ atual¬ não¬ é¬ importante¬ e¬ necessidade¬ de¬
+reestruturação¬física¬(baseado¬nos¬conhecimentos¬obtidos¬
+nos¬ diagnósticos)¬ e¬ conhecimento¬ da¬ sucessão,¬ não¬
+contribui¬ para¬ acelerar¬ a¬ recomposição¬ de¬ vegetação¬
+natural¬da¬área.¬
+##### 
+¬
+{47} 
+Compensação¬ambiental¬(Portaria¬SVMA¬130_2013)¬pode¬ser¬
+executada¬ através¬ de¬ plantio¬ e¬ manutenção¬ de¬ espécimes¬
+arbóreas,¬ fornecimento¬ de¬ mudas¬ ao¬ viveiro¬ municipal,¬
+depósito¬
+no¬
+Fundo¬
+Especial¬
+do¬
+Meio¬
+Ambiente¬
+e¬
+Desenvolvimento¬Sustentável,¬conversão¬em¬obras¬e¬serviço.¬
+Assinale¬
+a¬
+alternativa¬
+que¬
+melhor¬
+explica¬
+o¬
+termo¬
+compensação¬ambiental,¬conforme¬a¬lei.¬
+¬
+(A)¬Destina-se¬ a¬ mitigar¬ o¬ impacto¬ ambiental¬ negativo¬ não¬
+passível¬
+de¬
+ser¬
+evitado,¬
+objetivando¬
+garantir¬
+a¬
+manutenção,¬ampliação¬e¬melhoria¬da¬cobertura¬vegetal.¬
+(B)¬Destina-se¬ a¬ compensar¬ o¬ impacto¬ ambiental¬ negativo¬
+passível¬
+de¬
+ser¬
+evitado,¬
+objetivando¬
+garantir¬
+a¬
+manutenção,¬ampliação¬e¬melhoria¬da¬cobertura¬vegetal.¬
+(C)¬Destina-se¬ a¬ compensar¬ em¬ obras¬ e¬ serviços,¬ impactos¬
+relacionados¬com¬a¬eliminação,¬redução¬ou¬recuperação¬
+do¬dano¬ambiental¬e¬com¬o¬incremento¬de¬áreas¬verdes¬no¬
+território¬do¬município.¬
+(D)¬Destina-se¬ a¬ compensar¬ em¬ obras¬ e¬ serviços,¬ impactos¬
+relacionados¬com¬a¬eliminação,¬redução¬ou¬recuperação¬
+do¬dano¬ambiental.¬
+(E)¬Destina-se¬ a¬ compensar¬ em¬ obras¬ e¬ serviços,¬ impactos¬
+com¬o¬objetivo¬de¬incremento¬de¬áreas¬verdes¬no¬território¬
+do¬município.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+Texto para as questões 48 e 49 
+¬
+A¬Lei¬nº¬11.428,¬de¬22/12/2006,¬conhecida¬como¬Lei¬da¬
+Mata¬ Atlântica,¬ diz¬ em¬ seu¬ artigo¬ 14¬ que¬ “A¬ supressão¬ de¬
+vegetação¬ primária¬ e¬ secundária¬ no¬ estágio¬ avançado¬ de¬
+regeneração¬ somente¬ poderá¬ ser¬ autorizada¬ em¬ caso¬ de¬
+utilidade¬ pública,¬ sendo¬ que¬ a¬ vegetação¬ secundária¬ em¬
+estágio¬ médio¬ de¬ regeneração¬ poderá¬ ser¬ suprimida¬ nos¬
+casos¬ de¬ utilidade¬ pública¬ e¬ interesse¬ social,¬ em¬ todos¬ os¬
+casos¬
+devidamente¬
+caracterizados¬
+e¬
+motivados¬
+em¬
+procedimento¬
+administrativo¬
+próprio,¬
+quando¬
+inexistir¬
+alternativa¬técnica¬e¬locacional¬ao¬empreendimento¬proposto,¬
+ressalvado¬o¬disposto¬no¬inciso¬I¬do¬art.¬30¬e¬nos¬§§¬1º¬e¬2º¬do¬
+art.¬31¬desta¬Lei”.¬
+¬
+{48} 
+De¬ acordo¬ com¬ o¬ texto¬ apresentado,¬ o¬ termo¬ “Utilidade¬
+pública”¬ permite¬ uso¬ mesmo¬ em¬ áreas¬ cobertas¬ com¬
+vegetação¬para¬realizar:¬
+¬
+(A)¬atividades¬de¬segurança¬nacional¬e¬proteção¬sanitária¬e¬as¬
+obras¬ essenciais¬ de¬ infraestrutura¬ de¬ interesse¬ nacional¬
+destinadas¬aos¬serviços¬públicos.¬
+(B)¬ atividades¬ de¬ segurança¬ nacional¬ e¬ proteção¬ do¬ meio¬
+ambiente.¬
+(C)¬ atividades¬ e¬ as¬ obras¬ essenciais¬ de¬ infraestrutura¬ de¬
+interesse¬da¬população.¬
+(D)¬ abertura¬ de¬ uma¬ avenida¬ em¬ área¬ de¬ preservação¬
+permanente.¬
+(E)¬abertura¬de¬uma¬rodovia¬em¬área¬de¬reserva¬legal.¬
+##### 
+¬
+{49} 
+O¬ termo¬ “Interesse¬ social”¬ permite¬ uso¬ mesmo¬ em¬ áreas¬
+cobertas¬com¬vegetação¬para¬realizar¬¬
+¬
+(A)¬as¬ atividades¬ imprescindíveis¬ à¬ proteção¬ da¬ integridade¬
+da¬vegetação¬nativa,¬as¬atividades¬de¬manejo¬agroflorestal¬
+sustentável¬praticadas¬na¬pequena¬propriedade¬ou¬posse¬
+rural¬ familiar¬ e¬ obras,¬ planos,¬ atividades¬ ou¬ projetos¬
+definidos¬ em¬ resolução¬ do¬ Conselho¬ Nacional¬ do¬ Meio¬
+Ambiente.¬
+(B)¬desvio¬ de¬ uma¬ avenida¬ para¬ facilitar¬ entrada¬ em¬ um¬
+supermercado.¬
+(C)¬abertura¬ de¬ uma¬ avenida¬ em¬ uma¬ área¬ coberta¬ com¬
+vegetação¬ nativa,¬ sendo¬ esta¬ área¬ de¬ preservação¬
+permanente¬e¬reserva¬legal¬onde¬a¬decisão¬de¬realização¬
+desta¬atividade¬foi¬aprovada¬pela¬associação¬de¬bairro.¬
+(D)¬utilização¬da¬área¬para¬a¬construção¬de¬uma¬horta¬urbana¬
+que¬ vai¬ abastecer¬ restaurante¬ que¬ oferta¬ comida¬ para¬
+população¬carente.¬
+(E)¬abertura¬ de¬ uma¬ área¬ de¬ preservação¬ permanente¬ em¬
+estágio¬avançado¬de¬regeneração¬para¬a¬construção¬de¬
+um¬ complexo¬ industrial¬ de¬ interesse¬ da¬ federação¬ da¬
+indústria¬do¬Estado¬de¬São¬Paulo.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 13 ---
+
+Concurso Edital RH nº 010/2025 – Engenheiro (especialidade: Arborização urbana e manejo arbóreo) 
+Texto para as questões 50 e 51 
+ 
+Um¬dos¬grandes¬problemas¬em¬tempo¬de¬mudanças¬
+climáticas¬ extremas¬ são¬ os¬ fortes¬ ventos¬ com¬ chuvas¬
+torrenciais¬que,¬em¬muitos¬casos,¬levam¬a¬queda¬de¬muitas¬
+árvores¬na¬área¬urbana¬de¬São¬Paulo.¬De¬acordo¬com¬a¬tese¬
+de¬ doutorado¬ de¬ Brazolin¬ (2009),¬ usando¬ como¬ modelo¬ a¬
+espécie¬ tipuana,¬ as¬ análises¬ demonstraram¬ que¬ as¬ árvores¬
+apresentaram¬deterioração¬do¬lenho¬e¬podridão¬branca¬como¬
+os¬principais¬problemas¬encontrados.¬
+¬
+{50} 
+Levando-se¬ em¬ consideração¬ o¬ texto¬ apresentado,¬ que¬
+mecanismos¬podem¬ser¬empregados¬para¬evitar¬problemas¬
+com¬a¬arborização¬urbana¬no¬município¬de¬São¬Paulo?¬
+¬
+(A)¬Realizar¬manejo¬adequado¬e¬monitoramento¬contínuo¬das¬
+árvores.¬
+(B)¬Plantio¬ de¬ espécies¬ resistentes¬ as¬ chuvas¬ e¬ ao¬
+alagamento.¬
+(C)¬Evitar¬plantar¬espécies¬regionais¬na¬zona¬urbana.¬
+(D)¬Evitar¬plantar¬espécie¬com¬diâmetro¬muito¬grande.¬
+(E)¬Selecionar¬ e¬ plantar¬ espécies¬ que¬ apresentaram¬ boa¬
+performance¬em¬outras¬cidades.¬
+##### 
+¬
+{51} 
+Quais¬fatores¬contribuem¬para¬risco¬de¬queda¬na¬zona¬urbana¬
+de¬São¬Paulo?¬
+¬
+(A)¬Biodeterioração¬do¬lenho¬e¬interna,¬diâmetro¬`a¬altura¬do¬
+peito,¬ presença¬ de¬ oco,¬ inclinação¬ do¬ tronco,¬ poda¬
+inadequada,¬ raízes¬ danificadas,¬ injúrias¬ mecânicas,¬
+condições¬do¬solo,¬presença¬de¬corpos¬de¬frutificação¬de¬
+fungos,¬localização¬e¬exposição¬ao¬vento,¬condições¬do¬
+entorno.¬
+(B)¬Árvores¬com¬pouco¬espaço¬para¬se¬desenvolver¬causando¬
+injúrias¬nas¬raízes¬e¬no¬tronco.¬
+(C)¬Plantio¬de¬espécies¬nativas¬na¬zona¬urbana.¬
+(D)¬Injúrias¬causadas¬pela¬população¬e¬o¬apodrecimento¬das¬
+raízes¬por¬estar¬em¬contato¬com¬o¬lençol¬freático.¬
+(E)¬Um¬dos¬grandes¬problemas¬na¬zona¬urbana¬no¬município¬
+de¬ São¬ Paulo¬ são¬ os¬ acidentes¬ de¬ carro¬ que¬ perdem¬ o¬
+controle¬
+e¬
+batem¬
+nas¬
+árvores.¬
+Isso¬
+acontece¬
+principalmente¬quando¬os¬motoristas¬estão¬alcoolizados.¬
+##### 
+¬
+{52} 
+Em¬consonância¬com¬a¬Portaria¬SVMA¬130_2013,¬quando¬não¬
+for¬possível¬realizar¬o¬plantio¬no¬mesmo¬local¬onde¬ocorreu¬o¬
+impacto¬ ambiental,¬ a¬ Portaria¬ sugere¬ outras¬ formas¬ de¬
+compensação¬ambiental.¬
+¬
+(A)¬no¬mesmo¬bioma.¬
+(B)¬na¬ vizinhança,¬ depois¬ a¬ bacia¬ hidrográfica¬ em¬ que¬ o¬
+terreno¬ está¬ localizado¬ e,¬ por¬ último,¬ demais¬ áreas¬ na¬
+cidade¬ de¬ São¬ Paulo¬ consideradas¬ ambientalmente¬
+adequadas¬a¬receberem¬o¬plantio.¬
+(C)¬nas¬cidades¬que¬fazem¬parte¬da¬grande¬metrópole¬de¬São¬
+Paulo.¬
+(D)¬em¬um¬município¬que¬apresente¬uma¬percentagem¬muita¬
+baixa¬áreas¬verdes¬parceira¬do¬município¬de¬São¬Paulo.¬
+(E)¬nas¬ propriedades¬ particulares¬ próximas¬ que¬ causaram¬
+impacto¬no¬mesmo¬período.¬
+##### 
+ 
+{53} 
+A¬hidrossemeadura¬é¬uma¬técnica¬de¬bioengenharia¬de¬solo¬
+que¬ consiste¬ no¬ jateamento¬ de¬ uma¬ mistura¬ de¬ água¬ e¬
+sementes¬
+de¬
+diversas¬
+espécies¬
+vegetais¬
+e¬
+outros¬
+componentes,¬com¬função¬de¬aderir¬a¬semente¬à¬superfície¬na¬
+qual¬foi¬aplicada.¬A¬respeito¬dessa¬descrição,¬em¬que¬locais¬a¬
+hidrossemeadura¬pode¬ser¬implantada?¬
+¬
+(A)¬Nas¬ áreas¬ de¬ sistemas¬ agroflorestais¬ para¬ ajudar¬ na¬
+fixação¬de¬sementes.¬
+(B)¬Nos¬ sistemas¬ de¬ plantio¬ denominados¬ de¬ “muvuca¬ de¬
+sementes”.¬
+(C)¬Em¬ plantios¬ diretos¬ quando¬ a¬ regeneração¬ é¬ pobre¬ em¬
+diversidade¬espécies.¬
+(D)¬Nas¬margens¬dos¬rios,¬já¬que¬as¬espécies¬são¬típicas¬deste¬
+ambiente.¬
+(E)¬Em¬ taludes¬ (declives);¬ áreas¬ com¬ pouca¬ cobertura¬ de¬
+vegetação;¬superfícies¬muito¬secas,¬com¬maior¬propensão¬
+a¬
+erosões;¬
+projetos¬
+de¬
+revitalização¬
+florestal¬
+ou¬
+paisagismo.¬
+##### 
+¬
+{54} 
+“A¬ definição¬ do¬ modelo¬ de¬ restauração¬ para¬ uma¬
+determinada¬área¬degradada¬depende¬de¬fatores¬como:¬grau¬
+de¬ degradação¬ e¬ histórico¬ da¬ área,¬ disponibilidade¬ de¬
+sementes¬ e¬ mudas,¬ solo,¬ clima,¬ máquinas¬ e¬ implementos¬
+agrícolas¬e¬recursos¬financeiros¬disponíveis.¬Em¬muitas¬áreas,¬
+a¬ melhor¬ estratégia¬ pode¬ ser¬ uma¬ combinação¬ do¬ uso¬ de¬
+vários¬modelos¬de¬recuperação.”¬
+¬
+ALMEIDA,¬DS.¬Modelos¬de¬recuperação¬ambiental.¬In:¬Recuperação¬
+ambiental¬da¬Mata¬Atlântica¬[online].3rd¬ed.¬rev:¬Editus,¬2016.¬¬
+¬
+Considerando¬ os¬ métodos¬ de¬ restauração,¬ assinale¬ a¬
+alternativa¬ na¬ qual¬ o¬ modelo¬ possuí¬ como¬ estratégia,¬ no¬
+processo¬inicial¬de¬restauração,¬o¬uso¬de¬recursos¬naturais¬da¬
+regeneração.¬
+¬
+(A)¬Condução¬ da¬ regeneração¬ natural,¬ recuperação¬ com¬
+espécies¬ pioneiras,¬ formação¬ de¬ ilhas¬ de¬ diversidade¬
+(nucleação),¬
+ampliação¬
+ecológica¬
+de¬
+fragmentos¬
+florestais.¬
+(B)¬Plantio¬de¬mudas,¬indução¬da¬chuva¬de¬sementes,¬plantio¬
+inicial¬ de¬ mudas¬ e¬ posterior¬ semeio,¬ plantio¬ de¬ estacas¬
+diretamente¬no¬campo.¬
+(C)¬Semeio¬direto¬(Muvuca,),¬semeadura¬aérea,¬recuperação¬
+ambiental¬ de¬ ecossistemas¬ com¬ invasão¬ de¬ espécies¬
+exóticas.¬
+(D)¬Modelo¬ sucessional¬ -¬ plantio¬ em¬ linhas¬ alternadas¬ e¬
+Modelo¬sucessional¬-¬plantios¬em¬módulos.¬
+(E)¬Hidrossemeadura,¬
+plantio¬
+adensado,¬
+plantio¬
+de¬
+leguminosas,¬recuperação¬com¬uso¬de¬espécies¬frutíferas.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 14 ---
+
+Concurso Edital RH nº 010/2025 – Engenheiro (especialidade: Arborização urbana e manejo arbóreo) 
+{55} 
+“O¬Cadastro¬Ambiental¬Rural¬-¬CAR,¬é¬obrigatório¬para¬
+todos¬ os¬ imóveis¬ rurais,¬ com¬ a¬ finalidade¬ de¬ integrar¬ as¬
+informações¬ ambientais¬ das¬ propriedades¬ e¬ posses¬ rurais,¬
+compondo¬ base¬ de¬ dados¬ para¬ controle,¬ monitoramento,¬
+planejamento¬ ambiental¬ e¬ econômico¬ e¬ combate¬ ao¬
+desmatamento”¬¬
+Lei¬nº¬12.651¬de¬25¬de¬maio¬de¬2012.¬¬
+¬
+Essa¬Lei¬trouxe¬como¬novidade¬o¬caráter¬geoespacial¬com¬a¬
+inclusão¬ de¬ todas¬ as¬ informações¬ espaciais¬ pertinentes¬ à¬
+regularização¬ambiental¬da¬propriedade.¬Em¬relação¬ao¬CAR¬
+e¬seu¬respectivo¬cadastro:¬
+¬
+(A)¬O¬
+preenchimento¬
+equivocado¬
+do¬
+CAR,¬
+por¬
+desconhecimento¬
+da¬
+legislação¬
+vigente,¬
+exime¬
+o¬
+proprietário¬ou¬posseiro¬legal¬de¬futuras¬infrações¬legais.¬
+(B)¬São¬ informações¬ necessárias¬ para¬ o¬ CAR:¬ nome¬ do¬
+proprietário,¬ localização¬ da¬ área,¬ atividade¬ econômica¬
+principal¬da¬propriedade,¬localização¬dos¬cursos¬da¬água¬
+e¬número¬da¬matrícula¬da¬propriedade.¬
+(C)¬O¬ registro¬ no¬ CAR¬ resulta¬ no¬ compromisso¬ imediato¬ da¬
+restauração¬ das¬ áreas¬ em¬ desconformidade¬ com¬ a¬ lei,¬
+sendo¬ obrigação¬ do¬ proprietário¬ iniciar¬ a¬ recuperação¬
+cinco¬(5)¬anos¬após¬o¬registro¬ser¬realizado.¬
+(D)¬Apenas¬as¬APPs¬devem¬ser¬incluídas¬no¬CAR,¬ao¬passo¬
+que¬ as¬ RLs¬ devem¬ ser¬ informadas¬ no¬ Programa¬ de¬
+Regularização¬Ambiental.¬
+(E)¬O¬uso¬consolidado¬em¬APPs¬deverá¬ser¬informado¬apenas¬
+no¬Programa¬de¬Regularização¬Ambiental,¬ao¬passo¬que¬
+no¬ CAR¬ declara-se¬ apenas¬ os¬ limites¬ das¬ Áreas¬ de¬
+Preservação¬Permanente¬e¬de¬vegetação¬nativa.¬
+##### 
+¬
+{56} 
+A¬supressão¬e¬o¬transplante¬da¬vegetação¬de¬porte¬arbóreo¬
+que¬ esteja¬ localizada¬ em¬ áreas¬ privadas,¬ dependerão¬ de¬
+prévia¬autorização¬do¬órgão¬municipal¬competente,¬emitida¬a¬
+partir¬ de¬ manifestação¬ técnica¬ elaborada¬ por¬ engenheiro¬
+agrônomo,¬engenheiro¬florestal¬ou¬biólogo¬a¬ser¬apresentada¬
+pelo¬ requerente¬ (Lei¬ nº¬ 17.794¬ de¬ 27/04/2022).¬ Quem¬ deve¬
+realizar¬essa¬atividade?¬
+¬
+(A)¬Um¬engenheiro¬agrônomo,¬um¬Engenheiro¬Florestal¬ou¬um¬
+Biólogo.¬
+(B)¬Servidor¬autorizado¬pela¬administração¬municipal.¬
+(C)¬Pessoa¬treinada¬para¬realizar¬essa¬atividade.¬
+(D)¬Empresa¬credenciada.¬
+(E)¬Serão¬executadas¬pelo¬interessado.¬
+##### 
+¬
+{57} 
+Em¬uma¬praça¬no¬município¬de¬São¬Paulo,¬uma¬associação¬
+definiu¬arborizar¬a¬área¬da¬praça¬com¬espécies¬exóticas.¬No¬
+município¬ de¬ São¬ Paulo¬ há¬ possibilidade¬ de¬ plantio¬ de¬
+espécies¬exóticas¬em¬áreas¬públicas.¬No¬entanto,¬segundo¬a¬
+legislação,¬ é¬ necessário¬ um¬ parecer¬ fundamentado¬ de¬ um¬
+especialista.¬Quem,¬por¬lei,¬está¬apto¬a¬emitir¬esse¬parecer?¬
+¬
+(A)¬Biólogo.¬
+(B)¬Engenheiro¬Agrônomo¬e¬Engenheiro¬Florestal.¬
+(C)¬Engenheiro¬Florestal¬e¬Engenheiro¬Ambiental¬dos¬quadros¬
+da¬administração.¬
+(D)¬Gestor¬ambiental¬e¬biólogo¬dos¬quadros¬da¬administração.¬
+(E)¬Engenheiro¬ Agrônomo,¬ Engenheiro¬ Florestal¬ ou¬ Biólogo¬
+dos¬quadros¬da¬Administração.¬#####¬
+{58} 
+De¬ acordo¬ com¬ a¬ Lei¬ nº¬ 17.794¬ de¬ 27¬ de¬ abril¬ de¬ 2022,¬
+considera-se¬vegetação¬de¬porte¬arbóreo¬
+¬
+(A)¬qualquer¬vegetação¬em¬área¬pública¬de¬porte¬arbóreo.¬
+(B)¬qualquer¬vegetação¬em¬área¬privada¬de¬porte¬arbóreo.¬
+(C)¬um¬bem¬especialmente¬protegido,¬de¬interesse¬de¬todos¬a¬
+população¬ do¬ município,¬ a¬ vegetação¬ de¬ porte¬ arbóreo¬
+existente¬ou¬que¬venha¬a¬existir¬no¬território¬do¬Município,¬
+tanto¬em¬área¬pública¬como¬em¬área¬privada.¬
+(D)¬um¬bem¬especialmente¬protegido,¬de¬interesse¬de¬todos¬
+os¬munícipes,¬a¬vegetação¬de¬porte¬arbóreo¬existente¬ou¬
+que¬ venha¬ a¬ existir¬ no¬ território¬ do¬ Município,¬ em¬ área¬
+pública.¬
+(E)¬um¬bem¬especialmente¬protegido,¬de¬interesse¬de¬todos¬
+os¬munícipes,¬a¬vegetação¬de¬porte¬arbóreo¬existente¬ou¬
+que¬ venha¬ a¬ existir¬ no¬ território¬ do¬ Município,¬ em¬ área¬
+privada.¬
+##### 
+¬
+{59} 
+Na¬ Lei¬ Florestal¬ brasileira¬ (Lei¬ nº12.651/2012)¬ as¬ Áreas¬ de¬
+Preservação¬Permanente¬(APP)¬e¬Reserva¬Legal¬(RL)¬sofreram¬
+alterações.¬Em¬relação¬às¬principais¬mudanças¬estabelecidas,¬
+assinale¬a¬alternativa¬que¬está¬em¬DESACORDO¬com¬a¬lei.¬¬
+¬
+(A)¬Não¬ houve¬ alteração¬ na¬ largura¬ das¬ APPs¬ ao¬ longo¬ de¬
+cursos¬d’água¬para¬as¬propriedades¬que¬já¬desmataram¬
+essas¬áreas,¬de¬acordo¬com¬as¬disposições¬transitórias¬da¬
+lei.¬
+(B)¬A¬ faixa¬ de¬ APP¬ a¬ ser¬ obrigatoriamente¬ recuperada¬ ao¬
+longo¬de¬cursos¬d’água¬pode¬variar¬em¬função¬do¬tamanho¬
+da¬ propriedade¬ rural¬ e¬ da¬ largura¬ do¬ curso¬ d’água,¬ de¬
+acordo¬com¬as¬disposições¬transitórias.¬
+(C)¬Áreas¬de¬APP¬em¬topo¬de¬morro,¬encostas¬com¬mais¬de¬
+100%¬de¬declividade¬e¬borda¬de¬tabuleiros¬e¬chapadas¬já¬
+desmatadas¬e¬ocupadas¬por¬atividades¬agrosilvipastoris¬
+até¬22¬de¬julho¬de¬2008¬que¬forem¬consideradas¬“áreas¬
+consolidadas”,¬podem¬ser¬mantidas¬indefinidamente,¬sem¬
+qualquer¬ necessidade¬ de¬ recuperação¬ da¬ vegetação¬
+nativa,¬ desde¬ que¬ o¬ proprietário¬ adira¬ ao¬ Programa¬ de¬
+Regularização¬Ambiental.¬
+(D)¬Propriedades¬rurais¬com¬área¬inferior¬a¬4¬módulos¬fiscais¬
+não¬precisam¬mais¬recompor¬RL.¬
+(E)¬A¬vegetação¬nativa¬presente¬em¬APP¬poderá¬ser¬sempre¬
+incluída¬no¬cômputo¬da¬RL¬para¬reduzir¬a¬quantidade¬de¬
+áreas¬ a¬ serem¬ recomposta,¬ embora¬ essa¬ inclusão¬ não¬
+possa¬ser¬usada¬para¬justificar¬a¬supressão¬de¬novas¬áreas¬
+de¬vegetação¬nativa.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 15 ---
+
+Concurso Edital RH nº 010/2025 – Engenheiro (especialidade: Arborização urbana e manejo arbóreo) 
+{60} 
+De¬que¬trata¬o¬decreto¬Estadual¬nº¬30.443,¬de¬20¬de¬setembro¬
+de¬1.989?¬
+¬
+(A)¬Dispõe¬sobre¬o¬Termo¬de¬Compromisso¬Ambiental¬–¬TCA,¬
+resultante¬da¬negociação¬de¬contrapartidas¬nos¬casos¬de¬
+autorização¬prévia¬para¬supressão¬de¬espécies¬arbóreas.¬
+(B)¬Disciplina¬a¬arborização¬urbana,¬quando¬ao¬seu¬manejo,¬
+visando¬ à¬ conservação¬ e¬ à¬ preservação¬ e¬ dá¬ outras¬
+providências.¬
+(C)¬Dispõe¬sobre¬a¬utilização¬e¬proteção¬da¬vegetação¬nativa¬
+do¬Bioma¬Mata¬Atlântica,¬e¬dá¬outras¬providências.¬
+(D)¬Considera¬patrimônio¬ambiental¬e¬declara¬imunes¬de¬corte¬
+exemplares¬arbóreos,¬situados¬no¬Município¬de¬São¬Paulo,¬
+e¬dá¬outras¬providências¬
+(E)¬Dispõe¬ sobre¬ as¬ sanções¬ penais¬ e¬ administrativas¬
+derivadas¬ de¬ condutas¬ e¬ atividades¬ lesivas¬ ao¬ meio¬
+ambiente,¬e¬dá¬outras¬providências.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+¬
+
+
+--- PAGE 16 ---
+
+Concurso Edital RH nº 010/2025 – Engenheiro (especialidade: Arborização urbana e manejo arbóreo) 
+Questão dissertativa 
+A¬relação¬entre¬as¬cidades,¬as¬áreas¬verdes¬e¬as¬árvores¬figuram¬como¬uma¬temática¬fundamental¬para¬a¬ação¬dos¬governos¬locais¬
+na¬contemporaneidade.¬Se¬por¬um¬lado,¬há¬o¬crescimento¬desenfreado¬de¬áreas¬urbanas¬e¬impermeabilização¬do¬solo¬urbano;¬por¬
+outro¬lado,¬os¬desafios¬existentes¬em¬relação¬ao¬aquecimento¬global¬e¬planejamento¬urbano¬fazem¬com¬que¬as¬áreas¬verdes¬e¬a¬
+arborização¬urbana¬sejam¬essenciais¬tanto¬para¬a¬mitigação¬quanto¬para¬a¬adaptação,¬contribuindo¬com¬a¬diminuição¬das¬ilhas¬de¬
+calor,¬ melhoria¬ da¬ qualidade¬ do¬ ar,¬ conservação¬ da¬ biodiversidade¬ e¬ bem-estar¬ da¬ população.¬ Considerando¬ o¬ enunciado,¬ o¬
+contexto¬atual¬e¬com¬base¬na¬legislação¬brasileira,¬em¬particular¬o¬“Novo¬Código¬Florestal”,¬quais¬as¬características¬e¬objetivos¬que¬
+as¬áreas¬verdes¬urbanas¬devem¬ter¬no¬Município¬de¬São¬Paulo¬e¬qual¬o¬tipo¬de¬vegetação¬deve¬ser¬utilizado¬na¬arborização¬urbana?¬
+Explique¬e¬exemplifique.¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Instruções:  
+• As¬respostas¬deverão¬ser¬redigidas¬de¬acordo¬com¬a¬norma¬padrão¬da¬língua¬portuguesa.¬¬
+• Escreva¬com¬letra¬legível¬e¬não¬ultrapasse¬o¬espaço¬de¬linhas¬disponíveis¬da¬folha¬de¬respostas.¬¬
+• Receberão¬nota¬zero¬textos¬que¬desrespeitarem¬os¬direitos¬humanos¬e¬textos¬que¬permitirem,¬por¬qualquer¬modo,¬a¬identificação¬do¬candidato(a).¬
+
+
+--- PAGE 17 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RASCUNHO 
+ 
+ 
+NÃO SERÁ 
+CONSIDERADO NA 
+CORREÇÃO 
+
+
+--- PAGE 18 ---
+
+V2 
+
+
+--- PAGE 19 ---
+
+ 
+ 
+                 
+ 
+ 
+Universidade de São Paulo 
+GABARITO – CONCURSOS DRH USP – ABRIL/2025 
+ 
+ 
+ 
+ 
+Engenheiro (especialidade: Arborização urbana e manejo arbóreo) – Edital RH Nº 010/2025 
+PROVA EGA 
+1 
+D 
+31 
+C 
+2 
+B 
+32 
+D 
+3 
+E 
+33 
+C 
+4 
+C 
+34 
+C 
+5 
+C 
+35 
+D 
+6 
+E 
+36 
+A 
+7 
+B 
+37 
+B 
+8 
+C 
+38 
+D 
+9 
+E 
+39 
+A 
+10 
+B 
+40 
+C 
+11 
+A 
+41 
+C 
+12 
+C 
+42 
+A 
+13 
+C 
+43 
+B 
+14 
+D 
+44 
+D 
+15 
+C 
+45 
+B 
+16 
+B 
+46 
+A 
+17 
+B 
+47 
+A 
+18 
+D 
+48 
+A 
+19 
+C 
+49 
+A 
+20 
+B 
+50 
+A 
+21 
+B 
+51 
+A 
+22 
+A 
+52 
+B 
+23 
+B 
+53 
+E 
+24 
+B 
+54 
+A 
+25 
+E 
+55 
+B 
+26 
+D 
+56 
+E 
+27 
+E 
+57 
+E 
+28 
+E 
+58 
+C 
+29 
+A 
+59 
+A 
+30 
+D 
+60 
+D 
+ 
+
+
+--- PAGE 20 ---
+
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 010/2025   
+ 
+Engenheiro (Arborização urbana e 
+manejo arbóreo) 
+ 
+QUESTÃO DISSERTATIVA 
+ 
+ 
+ 
+RESPOSTA ESPERADA 
+ 
+De acordo com o texto, as áreas verdes têm como objetivos a mitigação e adaptação climática, bem como para 
+diminuição das ilhas de calor, conservação da biodiversidade, melhoria da qualidade do ar e bem-estar da população. 
+Esse texto indica o contexto atual, no qual vivenciamos os efeitos cada vez mais intenso e extremo da mudança climática 
+e perda da biodiversidade, apontando para a necessidade dos municípios e gestores locais adotarem políticas públicas 
+de mitigação e adaptação a mudança climática e conservação da biodiversidade. Nesse sentido, a arborização urbana 
+pode responder em parte a esses desafios através da criação e manutenção de áreas verdes no Município de São Paulo 
+(1,0) 
+O “Novo Código Florestal” ao definir “área verde urbana” traz  
+(i) suas características: essas áreas são espaços, tanto públicos como privados, que tem predomínio de vegetação, 
+preferencialmente nativa, natural ou recuperada, previstos no Plano Diretor, nas Leis de Zoneamento Urbano e Uso do 
+Solo do Município, e indisponíveis para construção de moradias (art. 3º, XXVI) e, (2,0) 
+(iii) seus objetivos são “recreação, lazer, melhoria da qualidade ambiental urbana, proteção dos recursos hídricos, 
+manutenção ou melhoria paisagística, proteção de bens e manifestações culturais”. (art. 3º, XXVI)  (2,0) 
+As normas municipais em São Paulo estabelecem que: 
+“As espécies vegetais utilizadas para a arborização deverão ser selecionadas dentre aquelas indicadas pelo órgão 
+municipal competente, prioritariamente entre as espécies nativas do Município, de forma a preservar, recuperar e 
+aumentar as reservas de tais espécies” (art. 12 da Lei municipal n. 17.794/2022).  
+Ao exemplificar podem ser utilizadas as listas de espécies que constam no Manual Técnico de Arborização Urbana - 
+https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/MARBOURB.pdf  
+Lista de Árvores - Espécies indicadas para Arborização de Calçada (lista de espécies de pequeno porte)  
+Lista de Árvores - Espécies indicadas para a Arborização de Área interna (3,0). 
+Além disso, “A escolha de espécie arbórea exótica deverá ser motivada por parecer fundamentado de engenheiro 
+agrônomo, engenheiro florestal ou biólogo dos quadros da Administração Municipal” (Parágrafo único do artigo 12 da 
+Lei municipal n. 17.794/2022).  (1,0). 
+A Lei nº 17.837/2022 prevê a prioridade do plantio de espécies nativas e úteis à avifauna na arborização urbana que 
+atraem abelhas. (1,0). 

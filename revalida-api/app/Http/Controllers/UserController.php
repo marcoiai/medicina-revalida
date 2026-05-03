@@ -33,6 +33,11 @@ class UserController extends Controller
             'updated_at' => optional($user->updated_at)->toIso8601String(),
             'simulations_count' => (int) ($user->simulations_count ?? 0),
             'monthly_question_limit' => (int) ($user->monthly_question_limit ?? 5000),
+            'current_plans_by_category' => $user->current_plans_by_category,
+            'current_plan_code' => $user->current_plan_code,
+            'current_plan_name' => $user->current_plan_name,
+            'current_plan_price_cents' => (int) ($user->current_plan_price_cents ?? 0),
+            'plan_activated_at' => optional($user->plan_activated_at)->toIso8601String(),
         ];
     }
 }

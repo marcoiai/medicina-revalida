@@ -1,0 +1,3656 @@
+
+
+--- PAGE 1 ---
+
+ 
+ 
+AD1 
+ 
+ 
+RESIDÊNCIA MÉDICA 
+Áreas Básicas e de Acesso Direto 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   PROCESSO SELETIVO AOS PROGRAMAS DE RESIDÊNCIA MÉDICA 2026   
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo AD1. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 6 horas. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo 
+fiscal. O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 16 h. Não haverá tempo 
+adicional para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 120 questões objetivas, 
+com 4 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+CLÍNICA MÉDICA 
+{01} 
+Homem, 32 anos de idade, comparece ao pronto-socorro com 
+dispneia em repouso. Relata ter sopro cardíaco e que perdeu 
+o acompanhamento. Relata precordialgia aos esforços que 
+melhoravam com o repouso. Teve síncope com duração de  
+10 segundos há dois meses. Fazia uso irregular de medicação 
+que não sabe o nome. Nega edema, tabagismo ou 
+“reumatismo prévio”. Ao exame físico, apresentou PA de 
+122×72 mmHg, FC de 88 bpm, pulso carotídeo de ascensão 
+lenta, ritmo cardíaco regular em dois tempos com sopro 
+holossistólico em segundo espaço intercostal direito, bordo 
+esternal, irradia para carótidas, com segunda bulha 
+hipofonética. Estertores creptantes em bases pulmonares. 
+Sem hepatomegalia. Membros inferiores sem edema. O 
+diagnóstico e a etiologia da valvopatia são, respectivamente: 
+ 
+(A) Estenose aórtica grave - etiologia congênita. 
+(B) Insuficiência tricúspide grave - etiologia reumática. 
+(C) Insuficiência mitral grave - etiologia reumática. 
+(D) Estenose pulmonar grave - etiologia congênita. 
+##### 
+ 
+{02} 
+Mulher, 66 anos de idade, procura a unidade de pronto 
+atendimento queixando-se de edema e rubor facial há três 
+semanas, com piora progressiva. Há cinco dias vem 
+apresentando dispneia e há dois dias relata tosse e 
+dificuldade para respirar em decúbito dorsal. Tem FAN 
+positivo 1/640 pontilhado fino, anti-SSA e anti-SSB positivos, 
+em uso de colírio de lágrima artificial por ardência nos olhos e 
+saliva artificial por xerostomia há oito anos. Ao exame físico, 
+apresentou PA de 160×100 mmHg, FC de 100 bpm e SpO2 de 
+94% em ar ambiente. Edema de face e membros superiores e 
+ingurgitamento de vasos cervicais. Desconforto respiratório 
+caracterizado por discreta retração subcostal e de fúrcula. 
+Com base no caso descrito, assinale a alternativa que 
+apresenta o diagnóstico mais provável. 
+ 
+(A) Linfoma não Hodgkin. 
+(B) Sarcoidose. 
+(C) Aneurisma de aorta. 
+(D) Tuberculose miliar. 
+##### 
+ 
+{03} 
+Homem, 82 anos de idade, comparece ao pronto-socorro 
+queixando-se de fraqueza e redução do volume urinário há uma 
+semana. Nega febre, dor lombar ou disúria. Relata jato urinário 
+fraco e sensação de esvaziamento incompleto há seis meses. 
+Ao exame físico, o toque retal revela próstata aumentada, sem 
+nódulos. O exame laboratorial apresenta creatinina de 2,3 
+mg/dL (valor prévio há um ano: 1,1 mg/dL). Assinale a 
+alternativa que apresenta a conduta mais adequada para 
+confirmar a etiologia da disfunção renal. 
+ 
+(A) Cintilografia renal com Ácido Dimercaptossuccínico (DMSA).  
+(B) Ultrassonografia de vias urinárias. 
+(C) Teste terapêutico com finasterida. 
+(D) Antibioticoterapia empírica para possível pielonefrite. 
+##### 
+ 
+ 
+ 
+ 
+{04} 
+Homem, 69 anos de idade, comparece ao pronto-socorro com 
+queixa de dispneia aos moderados esforços, edema 
+vespertino em membros inferiores e astenia há duas semanas. 
+Teve infarto agudo do miocárdio há 3 anos. Usa ácido 
+acetilssalicílico, sinvastatina, espironolactona e losartana  
+50 mg ao dia. Nega internações recentes. Ao exame físico, 
+apresentou PA de 126×74 mmHg, FC de 80 bpm, discreta 
+turgência de veias jugulares, edema (++/4) em maléolos, 
+simétrico 
+e 
+estertores 
+crepitantes 
+em 
+ambas 
+bases 
+pulmonares. Ecocardiograma com fração de ejeção do 
+ventrículo esquerdo de 30%, hipocinesia difusa, átrio 
+esquerdo dilatado, disfunção diastólica grau II e pressão 
+sistólica na artéria pulmonar estimada em 45 mmHg. Assinale 
+a alternativa que apresenta a conduta mais adequada neste 
+momento. 
+ 
+(A) Alterar a dose da losartana para 100 mg/dia e reavaliar em 
+6 meses. 
+(B) Suspender a losartana e iniciar enalapril. 
+(C) Encaminhar para avaliação de transplante cardíaco. 
+(D) Associar β-bloqueador e inibidor do cotransportador de 
+sódio-glicose tipo 2. 
+##### 
+ 
+{05} 
+Mulher, 58 anos de idade, queixa-se de astenia progressiva 
+há seis meses e piora recente o que motivou sua procura ao 
+pronto atendimento. Nega dispneia, tosse ou alteração de 
+frequência ou da cor da urina ou das fezes. Tem diabetes 
+melito tipo 2 e HAS e usa losartana 50 mg e glibenclamida  
+5 mg ao dia, além anti-inflamatórios não esteroidais quando 
+tem muita dor da osteoartrite de joelhos. Ao exame físico, 
+apresenta-se descorada (++/4), PA de 152×98 mmHg e FC de 
+80 bpm.  
+ 
+• Exames laboratoriais:  
+Glóbulos vermelhos: 3,0 x 1012/L 
+Hb: 9,0 g/dL 
+Ht: 27% 
+RDW: 14% 
+Cr: 1,7 mg/dL 
+Ur: 62 mg/dL 
+Na+: 138 mEq/L 
+K+; 5,0 mEq/L 
+Glicemia de jejum: 142 g/dL 
+TGP/ALT: 32 U/L 
+TGO/AST: 30 U/L 
+ 
+A causa mais provável da anemia é: 
+ 
+(A) Deficiência de cobalamina. 
+(B) Anemia perniciosa. 
+(C) Anemia de doença crônica. 
+(D) Sangramento intestinal crônico. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{06} 
+Mulher, 48 anos de idade, previamente hígida, procurou o 
+pronto atendimento onde está internada há 10 dias por febre de 
+origem não conhecida. Relata febre diária, sudorese noturna e 
+perda ponderal há três semanas. Ao exame físico, apresenta 
+bom estado geral, PA de 120×70 mmHg e FC de 94 bpm. 
+Ausculta cardíaca com sopro sistólico de alta frequência em 
+foco mitral, não conhecido anteriormente. Petéquias em 
+conjuntivas e extremidades, além de lesão eritematosa dolorosa 
+em polpa digital. O ecocardiograma trans torácico mostra 
+vegetação em valva mitral. Hemoculturas negativas após cinco 
+dias de incubação. Assinale a alternativa que apresenta a 
+conduta diagnóstica mais adequada. 
+ 
+(A) Fluconazol por suspeita de endocardite fúngica, pois o 
+crescimento do fungo é lento. 
+(B) Repetir as hemoculturas e iniciar vancomicina de forma 
+empírica. 
+(C) Sorologias para Bartonella spp., Coxiella e PCR para 
+Tropheryma whipplei. 
+(D) Encaminhar para biópsia cardíaca da vegetação e solicitar 
+cultura e histopatologia. 
+##### 
+ 
+{07} 
+Homem, 46 anos de idade, tem infecção pelo HIV há 5 anos. 
+Faz uso de tenofovir, lamivudina e dolutegravir e comparece 
+aos retornos de rotina. Nega febre, perda ponderal, sintomas 
+respiratórios, sudorese noturna e não soube referir situação de 
+possível exposição à tuberculose. Exames laboratoriais 
+indicam contagem de células CD4 de 450 células/mm3, carga 
+viral do HIV indetectável e teste tuberculínico de 11 mm. Foi 
+encaminhado ao pronto atendimento, onde foi realizado uma 
+radiografia de tórax que se revelou normal. Com base no caso 
+descrito, assinale a conduta mais adequada. 
+ 
+(A) Rifampicina administrada semanalmente por quatro a seis 
+meses. 
+(B) Rifampicina, isoniazida, pirazinamida e etambutol por dois 
+meses, seguido de uso de rifampicina e isoniazida por 
+quatro meses. 
+(C) Tomografia de tórax e amostra de urina para realização de 
+LF-LAM (detecção do antígeno lipoarabinomanano). 
+(D) Isoniazida por seis meses. 
+##### 
+ 
+{08} 
+Mulher, 25 anos de idade, comparece ao pronto-socorro 
+relatando que, há uma semana, apresentou dor em joelho 
+esquerdo, posteriormente dor e edema em dorso da mão e 
+punho direito e dor em punho esquerdo, com caráter 
+migratório, com duração de um dia em cada articulação. Há 
+quatro dias está com edema, aumento de volume, calor e 
+intensa dor em joelho direito com limitação de movimento. 
+Refere calafrios, mas não aferiu temperatura. Relata também 
+pápulas hiperemiadas, com pústula central em braço direito, 
+em pernas e em tronco, indolores e não pruriginosas há uma 
+semana. Com base no caso descrito, assinale a alternativa 
+que apresenta o agente microbiano mais provável de estar 
+presente no líquido sinovial e o tratamento indicado, 
+respectivamente. 
+ 
+(A) Staphylococcus aureus; vancomicina ou linezolida. 
+(B) Neisseria gonorrhoeae; penicilina cristalina. 
+(C) Bactérias Gram-negativas; cefalosporina de 3ª geração. 
+(D) Neisseria gonorrhoeae; ceftriaxone e azitromicina. ##### 
+{09} 
+Homem, 62 anos de idade, com diabetes melito tipo 2 há 18 
+anos, em tratamento conservador para Doença Tenal Crônica 
+(DRC estágio 5), é admitido no pronto-socorro por confusão 
+mental, náuseas persistentes, fraqueza intensa e oliguria há 
+três dias. Ao exame físico, apresenta-se descorado (+/4), 
+hálito urêmico e PA de 142×86 mmHg.  
+ 
+• Exames laboratoriais:  
+Cr: 7,1 mg/dL 
+Ur: 232 mg/dL 
+K+: 6,0 mEq/L 
+HCO3–: 16 mEq/L 
+pH: 7,26 
+Na+: 132 mEq/L 
+Urina tipo I: proteína ++++ 
+ 
+Foi realizado USG de rins que indicou redução volumétrica 
+dos rins e córtex hiperecogênico e ECG normal. A indicação 
+da necessidade imediata de diálise se dá pela 
+ 
+(A) azotemia. 
+(B) uremia. 
+(C) hipercalemia. 
+(D) hiponatremia. 
+##### 
+ 
+{10} 
+Homem, 58 anos de idade, etilista crônico, comparece ao 
+pronto-socorro com queixa de sonolência e aumento do 
+volume abdominal há dois dias. Ao exame físico, apresenta-se 
+hipoativo, desorientado no tempo, telangiectasias em tórax, 
+abdome distendido, com circulação colateral, sinal do 
+piparote positivo, dor à palpação profunda, sem irritação 
+peritoneal. Exame de sangue com albumina de 3,0 g/dL. 
+Exames do líquido ascítico com albumina de 1,2 g/dL, 
+contagem de leucócitos com 780 células/mm3 (36% de 
+polimorfonucleares), adenosina desaminase de 4 U/L  
+(ref.: < 40 U/L). Assinale a alternativa que apresenta o 
+diagnóstico mais provável. 
+ 
+(A) Peritonite bacteriana espontânea. 
+(B) Peritonite tuberculosa. 
+(C) Carcinomatose peritoneal. 
+(D) Bacteriascite. 
+##### 
+ 
+{11} 
+Homem, 64 anos de idade, etilista crônico, apresenta-se no 
+pronto atendimento com confusão mental, inversão do ciclo 
+sono-vigília e movimentos involuntários das mãos. Relata início 
+recente do uso de hidroclorotiazida. Ao exame físico, 
+apresenta PA de 124×82 mmHg e FC de 74 bpm. 
+Desorientado no tempo e no espaço, com discurso lentificado 
+e sonolência intermitente. Presença de hálito hepático. 
+Abdome flácido, indolor, fígado palpável a 1 cm do rebordo 
+costal direito, presença de macicez móvel. Observa-se 
+asterixis bilateral em membros superiores. Sem rigidez de 
+nuca ou sinais localizatórios. A conduta inicial mais adequada 
+é:  
+ 
+(A) Administrar tiamina intravenosa antes da glicose.  
+(B) Iniciar lactulose por via oral ou retal. 
+(C) Prescrever 
+benzodiazepínico 
+para 
+controlar 
+o 
+comportamento. 
+(D) Iniciar antibiótico de amplo espectro empírico. #####
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{12} 
+Homem, 68 anos de idade, com diagnóstico de diabetes melito tipo 2 há 12 anos, com retinopatia e nefropatia, refere dificuldade 
+de controle glicêmico há 3 meses. Ao exame físico, apresenta em BEG, corado, hidratado, peso de 111 kg, estatura de 175 cm, 
+IMC de 36 kg/m2, PA de 130×90 mmHg e FC de 68 bpm. Está em uso de insulina NPH 10 UI às 7h, 12h e 22h e insulina regular  
+10 UI às 7h, 12h e 18h.  
+ 
+• Exames laboratoriais:  
+Glicemia de jejum: 140 mg/dL 
+HbA1C: 8,7% 
+Cr: 1,4 mg/dL 
+Na+: 140 mEq/L 
+K+: 3,8 mEq/L 
+ 
+A análise do perfil glicêmico da última semana está́ demonstrada na tabela a seguir, em mg/dL:  
+ 
+Dia 
+Jejum 
+Pré-almoço 
+Pós-almoço 
+Pré-jantar 
+Pós-jantar 
+Madrugada 
+1 
+156 
+90 
+118 
+88 
+170 
+48 
+2 
+132 
+106 
+130 
+110 
+188 
+72 
+3 
+140 
+70 
+122 
+115 
+250 
+45 
+4 
+138 
+120 
+106 
+106 
+140 
+83 
+5 
+163 
+99 
+140 
+95 
+200 
+- 
+ 
+Com base no caso descrito, assinale a alternativa que apresenta a conduta mais adequada.  
+ 
+(A) Diminuir dose de insulina NPH ao deitar. 
+(B) Manter dose das insulinas NPH e regular. 
+(C) Diminuir dose de insulina regular da manhã. 
+(D) Aumentar dose de insulina regular das 12h. 
+#####
+ 
+{13} 
+Mulher, 27 anos de idade, procura o pronto atendimento 
+devido a queixa de palpitação há 30 minutos. Nega dor 
+precordial ou dispneia. Refere diagnóstico de hipertensão 
+arterial sistêmica em consulta com ginecologista (PA de 
+200×120 mmHg) há 2 anos. Está em uso de 4 classes de anti-
+hipertensivos. Relata cãimbras em membros inferiores há  
+6 meses. Ao exame físico, apresenta-se orientada, peso de  
+58 kg, altura de 165 cm, PA de 190×110 mmHg, FC de  
+150 bpm, sem estigmas para Cushing ou acromegalia. 
+Pescoço com tireoide de forma e consistência normais, exceto 
+por nódulo palpável em lobo direito de 2,0 cm, móvel, 
+parenquimatoso, indolor. 
+ 
+• Exames laboratoriais:  
+Na+:138 mEq/L 
+K+: 3,4 mEq/L 
+Cálcio total: 9,1 ng/dL 
+TSH: 2,3 mUI/L 
+T4 Livre: 1,1 ng/dL 
+ 
+ECG com ritmo de fibrilação atrial. Qual é a principal hipótese 
+diagnóstica? 
+ 
+(A) Hipertireoidismo primário. 
+(B) Feocromocitoma. 
+(C) Hiperaldosteronismo primário. 
+(D) Bócio nodular tóxico. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{14} 
+Mulher, 53 anos de idade, com diagnóstico de diabetes melito 
+tipo 2 há 7 anos, em uso de metformina, glibenclamida e 
+dapaglifozina, com controle irregular, e hipertensão arterial há 
+5 anos em uso de losartana. Nega qualquer queixa clínica e 
+nega uso de bebidas alcoólicas. Refere sobrepeso desde a 
+adolescência. Ao exame físico, apresenta IMC de 31 kg/m². 
+Abdome indolor, sem hepatomegalia palpável. Sem sinais de 
+cirrose.  
+ 
+• Exames laboratoriais:  
+TGO/AST: 36 U/L 
+TGP/ALT: 32 U/L 
+Plaquetas: 203.000/mm3 
+Fosfatase alcalina e bilirrubinas: normais 
+HbA1c: 8,2% 
+Sorologias para hepatites B e C: negativas 
+ 
+Ultrassonografia abdominal: fígado com ecogenicidade 
+aumentada, sugestiva de esteatose hepática. Sem sinais de 
+hipertensão portal. Elastografia hepática: esteatose hepática e 
+fibrose. Com base no quadro descrito, assinale a alternativa 
+que apresenta a conduta correta para a principal hipótese 
+diagnóstica. 
+ 
+(A) Dieta cetogênica. 
+(B) Dieta do mediterrâneo. 
+(C) Dieta hiperproteica. 
+(D) Jejum intermitente. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{15} 
+Homem, 18 anos de idade, procura o pronto atendimento 
+queixando-se de obstrução nasal, coriza clara e espirros 
+diariamente há um ano. Realiza uso contínuo de vasoconstritor 
+nasal nos últimos meses, com alívio parcial dos sintomas. 
+Relata episódios recorrentes de tosse seca, chiado no peito e 
+dispneia, especialmente à noite e ao praticar atividade física. 
+Nos últimos seis meses, usou antibióticos orais por quatro 
+vezes devido a quadros de infecção respiratória. Espirometria 
+apresenta VEF1/CVF de 0,68 com resposta broncodilatadora 
+significativa. Ao exame físico, apresenta mucosa nasal pálida 
+e edemaciada, sem secreção purulenta. Assinale a alternativa 
+que apresenta a conduta mais adequada. 
+ 
+(A) Manter o uso de vasoconstritor nasal e iniciar imunoterapia 
+específica. 
+(B) Iniciar antibiótico de amplo espectro e corticoide oral por 
+10 dias. 
+(C) Iniciar corticoide inalatório e antileucotrieno e suspender 
+vasoconstritor nasal. 
+(D) Solicitar tomografia de seios paranasais e manter o uso de 
+vasoconstritor nasal. 
+##### 
+ 
+{16} 
+Mulher, 38 anos de idade, IMC de 32 kg/m², comparece para 
+consulta de rotina. Relata ganho de peso progressivo desde a 
+última gestação há 3 anos. Não faz uso de medicamentos. 
+Nega poliuria, polidipsia, polifagia. O pai tem diabetes melito 
+tipo 2. Ao exame físico, apresenta PA de 130×70 mmHg, FC 
+de 70 bpm. Acantose nigricans em pescoço e axilas. Sem 
+estigmas de síndrome de Cushing. Exames laboratoriais 
+apresentam glicemia de jejum de 114 mg/dL. Hemoglobina 
+glicada de 6,0%. Teste de tolerância oral a glicose com 
+glicemia de 1h após 75 g de glicose de 214 mg/dL. Assinale 
+a alternativa que apresenta a conduta mais adequada para 
+esta paciente. 
+ 
+(A) Repetir glicemia de jejum e hemoglobina glicada. 
+(B) Iniciar metformina. 
+(C) Observação clínica. 
+(D) Repetir teste oral de tolerância a glicose. 
+##### 
+ 
+{17} 
+Homem, 41 anos de idade, é admitido em atendimento de 
+urgência devido náuseas, vômitos, dor abdominal e letargia. 
+Tem antecedente de asma grave e estava usando prednisona 
+20 mg/dia há 8 meses. Há 10 dias o paciente suspendeu o uso 
+por conta própria, porque estava assintomático dos sintomas 
+respiratórios. Ele nega febre ou infecção recente. Ao exame 
+físico, apresenta-se em regular estado geral, desidratado, PA 
+de 96×62 mmHg e FC de 96 bpm. Com base no caso 
+apresentado, assinale a alternativa que indica o achado 
+laboratorial mais provável de ser encontrado. 
+ 
+(A) Hiperglicemia. 
+(B) Elevação do ACTH. 
+(C) Hiponatremia. 
+(D) Hipercalemia. 
+##### 
+ 
+ 
+ 
+ 
+ 
+{18} 
+Mulher, 55 anos de idade, há 7 dias com quadro de febre, 
+tosse produtiva, dispneia e dor torácica ventilatório-
+dependente em hemitórax direito. Nega comorbidades. Ao 
+exame físico, apresenta bom estado geral, orientada, corada, 
+anictérica, taquipneica, acianótica, afebril. Murmúrio vesicular 
+presente, porém, diminuído no terço inferior do hemitórax 
+esquerdo, com estertores crepitantes no terço médio 
+ipsilateral. FR de 24 irpm e SpO2 de 94% em ar ambiente. 
+Aparelho 
+cardiovascular 
+com 
+duas 
+bulhas 
+rítmicas, 
+normofonéticas, sem sopros, FC de 90 bpm e PA de  
+120×80 mmHg. Sem outras alterações ao exame físico. Após 
+radiografia de tórax, foi realizada toracocentese diagnóstica 
+que apresentou os seguintes resultados: 
+DHL: 440 U/l 
+Proteínas totais: 2,4 g/dL 
+Glicose: 65 mg/dL 
+pH: 7,30 
+Celularidade: 85% de neutrófilos 
+ 
+• Exames laboratoriais:  
+Hb: 12 g/dL 
+Ht: 40 % 
+Glóbulos brancos: 18.000 cel/mm3 
+Plaquetas: 180.000 cel/mm3 
+DHL sanguíneo: 700 U/l 
+Proteínas totais: 4,7 g/dL 
+Albumina: 2,8 g/dL 
+Glicose: 88 mg/dL 
+ 
+Com base no caso descrito, assinale a alternativa que 
+apresenta a conduta mais adequada.  
+ 
+(A) Drenar o tórax. 
+(B) Cefepime. 
+(C) Amoxicilina-clavulanato. 
+(D) Claritromicina. 
+##### 
+ 
+{19} 
+Homem, 55 anos de idade, refere palpitações esporádicas há 
+2 semanas. Nega dispneia, dor torácica ou outras queixas. 
+Refere DPOC com bom controle clínico em uso de corticoide 
+inalatório e β-agonista de longa duração há 15 anos. Em 
+consultas de rotina prévias, todos exames estavam normais. 
+Ao exame físico, apresenta BEG, corado, anictérico, 
+acianótico, afebril. FC de 150 bpm, PA de 120×80 mmHg, 
+aparelho respiratório sem alterações, FR de 12 irpm e SpO2 de 
+96% em ar ambiente. Abdome e sistema nervoso sem 
+alterações, escala de Glasgow 15. ECG com ritmo de 
+fibrilação atrial com frequência ventricular de 145 bpm, sem 
+sinais de isquemia. Com base no caso descrito, assinale a 
+alternativa que apresenta a conduta mais adequada. 
+ 
+(A) Cardioversão elétrica. 
+(B) Amiodarona. 
+(C) Metoprolol. 
+(D) Diltiazem. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{20} 
+Mulher, 42 anos de idade, refere fraqueza, hipotensão 
+postural, dor abdominal, anedonia, ganho de peso e 
+sonolência excessiva após o parto da última filha, há 5 anos. 
+Relata que, durante esse parto, teve complicação e precisou 
+de transfusão sanguínea. Após o parto, não conseguiu 
+amamentar, 
+apresentou 
+depressão 
+e 
+hipotireoidismo 
+refratários aos tratamentos com antidepressivos e levotiroxina. 
+Ciclos menstruais regulares.  
+ 
+• Exames laboratoriais:  
+Na+: 136 mEq/L 
+K+: 3,9 mEq/L 
+Hb: 9,5 g/dL 
+Ht: 29% 
+TSH: 8,0 microIU/mL 
+T4 livre: 0,3 ng/dL 
+ 
+Assinale a alternativa que apresenta a medicação a ser 
+iniciada para tratar a principal hipótese diagnóstica. 
+ 
+(A) Cálcio e vitamina D. 
+(B) Prednisona. 
+(C) Vitamina B12 e ácido fólico. 
+(D) Sertralina. 
+##### 
+ 
+{21} 
+Homem, 83 anos de idade, hipertenso há 10 anos, está em 
+consulta de seguimento com clínico em posto de saúde. Nega 
+qualquer queixa e relata bom estado de saúde. Faz uso de 
+anlodipina 10 mg/dia. Ao exame físico, apresenta FC de  
+72 bpm e PA de 130×70 mmHg. Pescoço com ausência de 
+bócio ou nódulos palpáveis em tireoide. Exames laboratoriais 
+iniciais mostram TSH sérico de 6,2 mUI/L e T4 livre de  
+1,2 ng/dL. Anticorpo Anti-peroxidase (TPO) negativos. 
+Assinale a alternativa que apresenta a conduta mais 
+adequada para esse paciente. 
+ 
+(A) Observação clínica. 
+(B) Metimazol. 
+(C) Levotiroxina. 
+(D) Tri-iodotironina. 
+##### 
+ 
+{22} 
+Homem, 72 anos de idade, comparece para avaliação após 
+sofrer uma queda da própria altura há 3 semanas, resultando 
+em fratura distal de rádio. Não há história prévia de fraturas. 
+Antecedentes de tabagismo e hipertensão controlada. Faz uso 
+de anlodipino 10 mg/dia. Foi realizado densitometria mineral 
+óssea, com resultado demonstrado na tabela a seguir: 
+ 
+Sítio 
+T-score 
+Coluna lombar (L1–L4) 
+-2,6 
+Fêmur total 
+-1,9 
+Colo femoral 
+- 2,7 
+ 
+Assinale a alternativa que apresenta a conduta mais indicada 
+para esse paciente. 
+ 
+(A) Solicitar proteinúria. 
+(B) Iniciar cálcio e vitamina D. 
+(C) Iniciar bisfosfonato. 
+(D) Solicitar cálcio, fósforo e PTH. ##### 
+{23} 
+No dia 1º de janeiro, um homem previamente hígido, 35 anos 
+de idade, procura UPA com quadro de sonolência, tontura, 
+dor abdominal, náuseas, vômitos, cefaleia e visão embaçada 
+há 12 horas. Ao chegar à UPA, apresenta crise convulsiva, que 
+foi controlada, mas necessitou de intubação por rebaixamento 
+do nível de consciência. Ao exame físico, apresenta regular 
+estado geral, corado, desidratado, midríase. FC de 120 bpm 
+e PA de 100×50 mmHg, sem outras alterações. 
+ 
+Gasometria:  
+pH: 7,18 
+pCO2: 22 mmHg 
+HCO3–: 8 mEq/L 
+BE: -17 mEq/L 
+Na+: 140 mEq/L 
+K+: 4,0 mEq/L 
+C,–: 102 mEq/L 
+ 
+Considerando a hipótese diagnóstica mais provável, assinale 
+a alternativa que apresenta a conduta imediata mais 
+adequada para o paciente.  
+ 
+(A) Etanol. 
+(B) Carvão ativado. 
+(C) Diálise peritoneal. 
+(D) Midazolam. 
+##### 
+ 
+{24} 
+Mulher, 29 anos de idade, relata irritabilidade, dificuldade de 
+concentração e insônia. Relata que mesmo com apetite 
+preservado e aumento aumentado da ingesta de alimentos, 
+apresenta hiper-defecação e perda de peso há 3 meses. 
+Ciclos menstruais regulares. Ao exame físico, apresenta pele 
+quente e úmida, tremor de extremidades, FC de 102 bpm e PA 
+de 150×80 mmHg. O aspecto físico da paciente pode ser 
+observado na imagem a seguir: 
+ 
+ 
+Fonte: French’s Index of Differential Diagnosis, 15th edition. London: 
+Hodder Arnold, 2011. 
+ 
+Assinale a alternativa que apresenta a fisiopatologia da 
+principal hipótese diagnóstica. 
+ 
+(A) Uso de substâncias ilícitas. 
+(B) Autoanticorpos positivos. 
+(C) Destruição da mucosa intestinal. 
+(D) Alteração do eixo amígdala-córtex pré-frontal. 
+##### 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+CIRURGIA GERAL 
+{25} 
+Mulher, 68 anos de idade, submetida a procedimento de 
+angioplastia há um mês, apresenta-se ao pronto atendimento 
+ictérica, com bilirrubina total de 12,5 mg/dL (BD = 8,8 mg/dL) 
+e dor no hipocôndrio direito. Exame de imagem evidencia 
+importante dilatação do colédoco. Está em uso de dupla 
+antiagregação plaquetária. Sobre o caso descrito, é correto 
+afirmar: 
+ 
+(A) Deve-se suspender o segundo antiagregante, mantendo o 
+AAS e seguir com a CPRE. 
+(B) Deve-se suspender ambos os antiagregante e seguir com 
+a CPRE. 
+(C) Os procedimentos invasivos estão contraindicados no 
+período de dupla antiagregação. 
+(D) Deve-se manter a dupla antiagregação e seguir com a 
+CPRE. 
+##### 
+ 
+{26} 
+Homem, 52 anos de idade, sem comorbidades prévias, é 
+submetido à colectomia parcial por neoplasia de cólon. Nas 
+primeiras 24 horas de pós-operatório, a equipe assistente nota 
+débito urinário < 0,5 mL/kg/h. Os sinais vitais seguem 
+inalterados e o paciente não apresenta sinais clínicos de 
+desidratação. Segue sem dieta oral por determinação da 
+equipe cirúrgica. Nesse momento, a conduta mais adequada, 
+considerando a resposta endócrino-metabólica ao trauma 
+cirúrgico, é: 
+ 
+(A) Incrementar a administração de fluidos para obter balanço 
+positivo, tendo em vista os mecanismos de retenção 
+hídrica. 
+(B) Manter a infusão de 25-30 mL/kg de fluidos, buscando 
+balanço hídrico próximo de zero, pois a oligúria é normal 
+nessa fase de pós-operatório. 
+(C) Administrar diuréticos de alça para estímulo da diurese, 
+pois os mecanismos endógenos provocam retenção 
+hídrica que pode cursar com injúria renal aguda. 
+(D) Iniciar protocolo de sepse, pois a oligúria é sinal precoce 
+de complicação infecciosa no pós-operatório, assim 
+respeitando a chamada hora de ouro do manejo. 
+##### 
+ 
+{27} 
+Mulher, 
+48 
+anos 
+de 
+idade, 
+é 
+diagnosticada 
+com 
+adenocarcinoma gástrico. A lesão elevada, friável e com 
+centro ulcerado é percebida no antro gástrico. Refere não ter 
+nenhuma doença de base e é completamente independente 
+para as atividades cotidianas. O estadiamento clínico não 
+revela linfonodos comprometidos ou lesões metastáticas. 
+Diante do quadro clínico descrito, assinale a alternativa que 
+apresenta o melhor plano terapêutico. 
+ 
+(A) Ressecção endoscópica da lesão seguida de adjuvância. 
+(B) Neoadjuvância com gastrectomia total e linfadenectomia 
+D2. 
+(C) Neoadjuvância seguida de gastrectomia parcial com 
+linfadenectomia D2. 
+(D) Gastrectomia parcial up front com linfadenectomia D2.  
+##### 
+ 
+ 
+ 
+{28} 
+Mulher, 54 anos de idade, submetida à laparotomia por 
+obstrução intestinal. No décimo dia de pós-operatório, retorna 
+ao departamento de emergência com abertura da ferida, 
+flogose ao redor e secreção purulenta local, conforme 
+apresentado na imagem a seguir: 
+ 
+ 
+ 
+Diante desse quadro, o melhor manejo da ferida é: 
+ 
+(A) Lavagem em centro cirúrgico e fechamento primário. 
+(B) Coberturas com antibiótico tópico e troca diária. 
+(C) Antibiótico sistêmico e fechamento primário em centro 
+cirúrgico. 
+(D) Antibióticos sistêmicos e terapia a vácuo.  
+##### 
+ 
+{29} 
+Homem, 62 anos de idade, sem comorbidades, é admitido 
+após seu segundo episódio de pancreatite aguda em um 
+serviço de referência em cirurgia. Logo após o primeiro 
+episódio, há 3 anos, realizou colecistectomia pela existência 
+de micro cálculos na vesícula biliar. Agora a equipe solicita 
+colangioressonância, que evidencia lesão cística na cabeça 
+pancreática, de 3,8 cm, comunicando com o ducto 
+pancreático principal. Com base no caso descrito, assinale a 
+alternativa que apresenta o tratamento mais adequado. 
+ 
+(A) Pancreatectomia do segmento acometido pela lesão. 
+(B) Pancreatectomia total. 
+(C) Seguimento com ressonância anual. 
+(D) Enucleação com ressecção da lesão cística. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{30} 
+Homem, 48 anos de idade, procura atendimento com queixas 
+de regurgitação e pirose de longa data. Traz consigo 
+endoscopia que descreve mucosa de coloração salmão se 
+estendendo até 3 cm da Junção Esofagogástrica (JEG). O 
+anatomopatológico descreve metaplasia intestinal sem 
+displasia. Sobre o seguimento do paciente, assinale a 
+alternativa correta. 
+ 
+(A) Não é necessário seguimento endoscópico. 
+(B) Deve realizar nova endoscopia em 1 ano. 
+(C) Deve realizar nova endoscopia em 5 anos. 
+(D) Deve realizar nova endoscopia em 6 meses. 
+##### 
+ 
+{31} 
+Homem, 
+32 
+anos 
+de 
+idade, 
+diagnosticado 
+com 
+adenocarcinoma de cólon em colonoscopia, que também 
+descreve incontáveis pólipos no cólon. Em consulta de 
+retorno, após a cirurgia, questiona a equipe sobre a 
+necessidade de investigação complementar para seu filho, 
+que conta 4 anos de idade. A orientação mais adequada para 
+o paciente é: 
+ 
+(A) Realizar colonoscopia imediatamente. 
+(B) Iniciar segmento colonoscópico aos 10-12 anos de idade. 
+(C) Realizar a primeira colonoscopia 10 anos antes do 
+diagnóstico do pai, ou seja, aos 22 anos de idade. 
+(D) Iniciar seguimento colonoscópico aos 50 anos. 
+##### 
+ 
+{32} 
+Homem, 28 anos de idade, vítima de colisão moto x anteparo, 
+admitido em prancha e colar. Apresenta PA de 100×68 mmHg, 
+FC de 98 bpm e TEC de 2 segundos. Está consciente e 
+orientado. Reclama de dor abdominal, porém ao exame clínico 
+não apresenta peritonite. Realizado FAST já na entrada, com 
+resultado positivo. A tomografia computadorizada obtida é 
+apresentada a seguir, em um de seus cortes. 
+ 
+ 
+ 
+Diante do achado, a melhor conduta é: 
+ 
+(A) Embolização. 
+(B) Eritrograma seriado. 
+(C) Laparoscopia. 
+(D) Laparotomia. 
+##### 
+{33} 
+Mulher, 32 anos de idade, comparece à Unidade Básica de 
+Saúde com queixa de dor anal há 4 dias. Refere hábito 
+intestinal constipado de longa data, com importante esforço 
+evacuatório associado ao início dos sintomas. Ao exame 
+clínico, apresentava as características demonstradas na 
+imagem a seguir: 
+ 
+ 
+ 
+Diante do quadro exposto, assinale a alternativa que 
+apresenta melhor orientação terapêutica. 
+ 
+(A) Excisão cirúrgica imediata, com anestesia local e 
+adequações alimentares. 
+(B) Analgésicos orais, banho de assento e fibras na 
+alimentação. 
+(C) Programação cirúrgica eletiva, adequação da dieta e 
+laxativos. 
+(D) Redução manual, analgesia e fibras na alimentação. 
+##### 
+ 
+{34} 
+Paciente vítima de queda de aproximadamente 5 metros de 
+altura enquanto trabalhava em andaimes. A equipe de pré-
+hospitalar que primeiro realizou o atendimento percebeu PA 
+de 188×102 mmHg, FC de 62 bpm e Glasgow 5, com pupilas 
+anisocóricas. POCUS realizado no local evidencia aumento do 
+diâmetro da bainha do nervo óptico. Diante dos achados, a 
+medida terapêutica mais rápida para reverter o quadro 
+descrito é:  
+ 
+(A) Manitol. 
+(B) Coma barbitúrico. 
+(C) Hiperventilação. 
+(D) Bloqueio neuromuscular. 
+##### 
+ 
+{35} 
+Mulher, 52 anos de idade, com antecedente de hipertensão 
+arterial, busca atendimento com queixa de dor na fossa ilíaca 
+esquerda. A tomografia realizada evidencia múltiplos 
+divertículos no sigmoide, com borramento da gordura 
+peridiverticular, sem coleções. Nega febre e vômitos. Sua 
+contagem de leucócitos é de 10.800/mm3 e seu PCR é de  
+58 mg/dL. Diante dos achados clínicos, assinale a alternativa 
+que apresenta a melhor conduta. 
+ 
+(A) Retossigmoidectomia e antibiótico endovenoso. 
+(B) Antibióticos orais e seguimento ambulatorial. 
+(C) Internação com antibioticoterapia endovenosa. 
+(D) Sintomáticos e retorno ambulatorial breve. 
+##### 
+
+
+--- PAGE 10 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{36} 
+Mulher, 30 anos de idade, previamente hígida, procura 
+atendimento por dispneia progressiva há quatro meses, 
+inicialmente aos grandes esforços e atualmente em repouso 
+relativo, associada a estridor inspiratório, disfonia intermitente, 
+tosse seca e sensação constante de aperto cervical. Relata 
+episódios frequentes de ansiedade intensa, medo súbito de 
+morrer sufocada e insônia, com impacto significativo em sua 
+saúde mental e afastamento laboral. Antecedentes revelam 
+internação em UTI há aproximadamente sete meses por 
+pneumonia grave por COVID-19, com necessidade de 
+intubação orotraqueal por 12 dias, ventilação mecânica 
+invasiva, múltiplas manobras de pronação e uso de doses 
+elevadas de corticosteroides. Não foi realizada traqueostomia. 
+Após a alta, permaneceu assintomática por cerca de dois 
+meses, evoluindo posteriormente com piora progressiva dos 
+sintomas respiratórios. Ao exame físico, apresenta estridor 
+inspiratório audível em repouso, FR de 24 irpm, SpO2 de 95% 
+em ar ambiente e evidente ansiedade psicomotora. A 
+espirometria demonstra curva fluxo-volume com achatamento 
+do ramo inspiratório e expiratório. A broncoscopia flexível, cuja 
+imagem é apresentada a seguir, evidencia estreitamento 
+concêntrico fixo da região subglótica, com redução importante 
+do lúmen. 
+ 
+ 
+ 
+Considerando o caso clínico, os achados funcionais e 
+endoscópicos, bem como os princípios de urgência e 
+emergência, assinale a alternativa correta. 
+ 
+(A) Estenose subglótica pós-intubação, caracterizada por 
+obstrução fixa de via aérea superior, cujo manejo inicial 
+deve considerar o risco iminente de insuficiência 
+respiratória aguda. 
+(B) Disfunção paradoxal das pregas vocais, quadro funcional 
+frequentemente associado a transtornos de ansiedade, 
+sem necessidade de abordagem de urgência das vias 
+aéreas. 
+(C) Asma grave de difícil controle, com padrão obstrutivo 
+variável e resposta esperada a broncodilatadores e 
+corticosteroides inalados. 
+(D) Traqueomalácia adquirida pós-ventilação mecânica, com 
+colapso expiratório predominante e indicação inicial de 
+tratamento conservador. 
+##### 
+ 
+ 
+ 
+ 
+{37} 
+Paciente do sexo masculino, 72 anos de idade, é admitido no 
+departamento de emergência com dor abdominal intensa há 
+3 horas. Relata antecedente pessoal de hipertensão, diabetes 
+e fibrilação atrial. Ao exame clínico, apresenta dor difusa e 
+defesa involuntária. Descompressão brusca duvidosa. Uma 
+Tomografia 
+Computadorizada 
+(TC) 
+de 
+abdome 
+foi 
+prontamente realizada, com o achado apontado na imagem a 
+seguir: 
+ 
+ 
+ 
+Diante dos achados clínico e da tomografia apresentada, 
+assinale a alternativa que apresenta a melhor conduta para o 
+caso. 
+ 
+(A) Anticoagulação plena. 
+(B) Tratamento endovascular. 
+(C) Nova TC com contraste oral. 
+(D) Laparotomia. 
+##### 
+ 
+{38} 
+Homem, 62 anos de idade, comparece ao pronto-socorro 
+relatando antecedente de etilismo crônico e cirrose hepática 
+conhecida, após apresentar episódio súbito de hematêmese 
+volumosa, seguido de tontura e quase perda da consciência. 
+À admissão, encontra-se pálido, sudorético e confuso, com 
+extremidades frias. Os sinais vitais evidenciam PA de  
+85×55 mmHg, FC de 128 bpm, FR de 24 irpm e SpO2 de 92% 
+em ar ambiente. Ao exame físico, observa-se abdome 
+globoso, indolor, com ascite moderada. Os exames 
+laboratoriais iniciais mostram hemoglobina de 7,2 g/dL e INR 
+de 1,9. Diante do quadro descrito, assinale a alternativa que 
+apresenta a conduta inicial mais adequada. 
+ 
+(A) Realizar 
+endoscopia 
+digestiva 
+alta 
+imediata 
+para 
+identificação e controle da fonte do sangramento. 
+(B) Iniciar inibidor de bomba de prótons intravenoso em dose 
+plena como medida prioritária. 
+(C) Priorizar estabilização hemodinâmica com acesso venoso 
+calibroso, reposição volêmica e hemoderivados. 
+(D) Solicitar tomografia computadorizada de abdome com 
+contraste para investigação etiológica. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{39} 
+Paciente do sexo masculino, 32 anos de idade, previamente 
+hígido, é submetido à tomografia computadorizada de tórax 
+para investigação de dispneia leve e sensação de fadiga 
+progressiva. O exame evidencia uma massa sólida localizada 
+no mediastino anterior, com limites relativamente bem 
+definidos, sem sinais evidentes de invasão local, achado 
+compatível com neoplasia de timo, conforme imagem a seguir: 
+ 
+ 
+ 
+Durante a anamnese dirigida, o paciente refere episódios de 
+fraqueza muscular flutuante, piora ao final do dia e melhora 
+após repouso. Considerando a principal associação clínica e 
+paraneoplásica relacionada a esse tipo de tumor, assinale a 
+alternativa 
+mais 
+frequentemente 
+associada 
+a 
+esse 
+diagnóstico. 
+ 
+(A) Síndrome de Cushing ectópica. 
+(B) Miastenia gravis. 
+(C) Policitemia vera. 
+(D) Hipercalcemia paraneoplásica. 
+##### 
+ 
+{40} 
+Mulher, 24 anos de idade, busca atendimento em pronto-
+socorro por dor abdominal há cerca de 18 horas, de início 
+progressivo, sem localização precisa nas primeiras horas, 
+atualmente mais intensa no quadrante inferior direito, porém 
+sem irradiação definida. Refere náuseas esporádicas, nega 
+vômitos, diarreia ou alterações urinárias. Relata ciclo 
+menstrual regular, último período há 12 dias, sem corrimento 
+vaginal. Ao exame físico, encontra-se afebril, FC de 92 bpm e 
+PA de 110×70 mmHg. O abdome é flácido, com dor à 
+palpação profunda em fossa ilíaca direita, sem defesa 
+involuntária ou sinais claros de peritonite. Testes de irritação 
+peritoneal são discretos. Exames laboratoriais iniciais mostram 
+leucócitos de 11.500/mm³, sem desvio importante à esquerda. 
+Ultrassonografia 
+abdominal 
+não 
+evidencia 
+alterações 
+ginecológicas relevantes. Considerando o quadro clínico 
+apresentado, assinale a alternativa que apresenta o 
+diagnóstico mais provável. 
+ 
+(A) Doença inflamatória pélvica. 
+(B) Apendicite aguda em fase inicial. 
+(C) Torção de ovário. 
+(D) Diverticulite aguda. 
+##### 
+{41} 
+Mulher, 42 anos de idade, previamente hígida, procura o 
+pronto-socorro com história de dor abdominal iniciada há 
+cerca de 24 horas, localizada inicialmente em epigástrio e, 
+posteriormente, 
+em 
+hipocôndrio 
+direito. 
+Refere 
+piora 
+progressiva da dor, associada a náuseas, vômitos e febre não 
+aferida. Ao exame físico, apresenta-se em regular estado 
+geral, temperatura axilar de 38,4 °C, FC de 102 bpm e dor à 
+palpação profunda do hipocôndrio direito, com interrupção 
+inspiratória 
+dolorosa. 
+Exames 
+laboratoriais 
+mostram 
+leucocitose com desvio à esquerda e discreta elevação de 
+PCR, sem alterações significativas de bilirrubinas ou enzimas 
+canaliculares. Ultrassonografia abdominal evidencia vesícula 
+biliar distendida, com espessamento da parede, presença de 
+múltiplos cálculos, líquido perivesicular e sinal de Murphy 
+ultrassonográfico positivo. Com base no quadro descrito, 
+assinale a alternativa que apresenta a conduta mais 
+adequada. 
+ 
+(A) Tratamento clínico exclusivo com antibióticos intravenosos 
+e observação hospitalar, postergando a cirurgia para após 
+resolução completa do quadro inflamatório. 
+(B) Colecistectomia laparoscópica precoce durante a mesma 
+internação. 
+(C) Colecistostomia percutânea guiada por imagem, seguida 
+de colecistectomia tardia. 
+(D) Alta hospitalar após analgesia e reavaliação ambulatorial 
+em 48 horas. 
+##### 
+ 
+{42} 
+Durante avaliação pré-operatória para correção de hérnia 
+inguinal, um paciente de 67 anos de idade, tabagista e com 
+antecedentes de hipertensão arterial e dislipidemia, apresenta 
+ao exame físico uma pulsação abdominal expansiva, não 
+dolorosa, localizada em região periumbilical. O paciente nega 
+dor abdominal, lombalgia ou qualquer sintoma sistêmico. 
+Diante do achado, é solicitada ultrassonografia abdominal, 
+que demonstra dilatação fusiforme da aorta infrarrenal 
+medindo 6,3 cm em seu maior diâmetro. Posteriormente, 
+angiotomografia confirma aneurisma de aorta abdominal sem 
+sinais de rotura, com anatomia favorável para correção 
+endovascular e sem acometimento significativo das artérias 
+ilíacas. O paciente encontra-se clinicamente estável. Com 
+base nesses dados, assinale a alternativa que apresenta a 
+melhor conduta. 
+ 
+(A) Manter seguimento clínico com exames de imagem 
+seriados, uma vez que o paciente é assintomático e 
+hemodinamicamente estável. 
+(B) Indicar apenas tratamento clínico otimizado, com controle 
+rigoroso dos fatores de risco cardiovasculares. 
+(C) Postergar qualquer intervenção até que o aneurisma atinja 
+diâmetro superior a 7,0 cm ou torne-se sintomático. 
+(D) Indicar correção eletiva do aneurisma de aorta abdominal, 
+por via aberta ou endovascular, conforme critérios 
+anatômicos e clínicos. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 12 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{43} 
+Mulher, 28 anos de idade, é admitida no pronto-socorro após 
+colisão automobilística de alta energia. Apresenta dor torácica 
+intensa à direita, dispneia progressiva, taquicardia com FC de  
+128 bpm, PA de 90×60 mmHg, FR de 32 irpm e SpO2 de 88% 
+em ar ambiente. Ao exame físico, observa-se redução 
+importante do murmúrio vesicular à direita e macicez à 
+percussão. É realizada drenagem torácica em selo d’água, 
+com saída imediata de aproximadamente 1.800 mL de 
+sangue, conforme evidenciado na imagem a seguir: 
+ 
+ 
+ 
+Com base no caso descrito, assinale a alternativa correta. 
+ 
+(A) Manter drenagem torácica em selo d’água e observação 
+clínica em unidade de terapia intensiva. 
+(B) Solicitar tomografia computadorizada de tórax com 
+contraste para investigação de lesão vascular. 
+(C) Indicar toracotomia de urgência por hemotórax maciço. 
+(D) Realizar reposição volêmica e aguardar estabilização 
+hemodinâmica antes de nova abordagem. 
+##### 
+ 
+{44} 
+Homem, idoso, comparece para avaliação clínica com 
+histórico 
+de 
+tabagismo 
+crônico, 
+relatando 
+alteração 
+progressiva da coloração da pele e das mucosas ao longo de 
+semanas. Associa escurecimento da urina, clareamento das 
+fezes e prurido difuso de intensidade crescente, além de 
+perda ponderal não intencional estimada em cerca de 8 kg 
+nos últimos três meses. Nega dor abdominal relevante. Ao 
+exame 
+físico, 
+evidencia-se 
+icterícia 
+cutâneo-mucosa 
+acentuada e palpação de vesícula biliar aumentada, indolor, 
+sem sinais de irritação peritoneal. A investigação laboratorial 
+demonstra padrão colestático, com elevação predominante 
+de 
+fosfatase 
+alcalina 
+e 
+gama-GT. 
+A 
+tomografia 
+computadorizada de abdome revela dilatação das vias 
+biliares intra e extra-hepáticas, sem evidência de litíase. 
+Diante desse quadro, a principal hipótese diagnóstica é: 
+ 
+(A) Hepatite viral aguda. 
+(B) Coledocolitíase. 
+(C) Neoplasia de cabeça de pâncreas. 
+(D) Colangite esclerosante primária. 
+##### 
+{45} 
+Paciente com antecedentes de diabetes melito tipo 2 e 
+tabagismo ativo, procura atendimento em unidade de 
+urgência relatando dor intensa e contínua na região perianal 
+há cerca de três dias. Refere febre, calafrios, mal-estar geral 
+e dificuldade progressiva para sentar e deambular. Informa 
+piora importante da dor nas últimas 24 horas, acompanhada 
+de sensação de pressão local. Ao exame físico, observa-se 
+hiperemia extensa, edema significativo e área de flutuação 
+profunda à palpação, além de dor acentuada ao toque retal. 
+Os sinais vitais evidenciam temperatura axilar de 38,8 °C e FC 
+de 108 bpm. Diante desse quadro clínico, a conduta mais 
+adequada é: 
+ 
+(A) Instituir antibioticoterapia oral de amplo espectro e 
+reavaliação ambulatorial em 48 horas. 
+(B) Solicitar exame de imagem da pelve para melhor definição 
+anatômica antes de qualquer intervenção terapêutica. 
+(C) Prescrever analgesia, banhos de assento e aguardar 
+drenagem espontânea da lesão. 
+(D) Proceder à drenagem cirúrgica imediata da coleção 
+purulenta, associada à antibioticoterapia sistêmica. 
+##### 
+ 
+{46} 
+No quarto dia de pós-operatório de uma colectomia eletiva 
+com anastomose colorretal primária, um paciente passa a 
+apresentar taquicardia persistente, febre elevada e dor 
+abdominal de intensidade progressiva. Evolui com distensão 
+abdominal, redução do peristaltismo e sensibilidade difusa à 
+palpação. Os exames laboratoriais demonstram leucocitose 
+importante e elevação de marcadores inflamatórios. A 
+tomografia computadorizada de abdome com contraste 
+evidencia líquido livre intra-abdominal, presença de bolhas 
+gasosas extraluminais e extravasamento de contraste na 
+topografia da anastomose. Diante desse cenário, a conduta 
+mais adequada é: 
+ 
+(A) Manter jejum, iniciar antibioticoterapia de amplo espectro 
+e observar evolução clínica. 
+(B) Realizar drenagem percutânea guiada por imagem e 
+acompanhamento em unidade de terapia intensiva. 
+(C) Indicar reabordagem cirúrgica imediata para controle da 
+fonte infecciosa. 
+(D) Instituir nutrição parenteral total e reavaliar após 
+estabilização clínica. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 13 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{47} 
+Homem, 58 anos de idade, comparece ao pronto-socorro com 
+queixa de dor inguinal esquerda de instalação progressiva, 
+associada a sensação de peso local. Refere ansiedade 
+importante, histórico de transtorno de ansiedade generalizada 
+e medo intenso de “estar com algo grave”. Ao exame físico, 
+observa-se abaulamento inguinal esquerdo, doloroso à 
+palpação, 
+sem 
+sinais 
+flogísticos. 
+A 
+tomografia 
+computadorizada de abdome e pelve evidencia hérnia 
+inguinal esquerda contendo apenas gordura peritoneal, sem 
+alças intestinais e sem sinais de sofrimento vascular, conforme 
+imagem a seguir:  
+ 
+ 
+ 
+Com base nos achados clínicos, tomográficos e no contexto 
+psicossocial, assinale a alternativa que apresenta a conduta 
+mais adequada. 
+ 
+(A) Indicar cirurgia de emergência imediata, pois toda hérnia 
+inguinal dolorosa apresenta alto risco de estrangulamento 
+intestinal. 
+(B) Tratar exclusivamente o transtorno de ansiedade, uma vez 
+que a dor não possui correlação com achados anatômicos 
+relevantes. 
+(C) Manejo conservador inicial, com analgesia, orientação, 
+suporte emocional e encaminhamento para correção 
+cirúrgica eletiva, considerando ausência de sinais de 
+complicação aguda. 
+(D) Alta imediata sem orientações, pois hérnias contendo 
+apenas gordura não cursam com sintomas clínicos. 
+##### 
+ 
+{48} 
+Homem, 55 anos de idade, comparece ao pronto-socorro com 
+dor abdominal de início súbito há cerca de 6 horas, de forte 
+intensidade, difusa, contínua e descrita como “insuportável”. 
+Relata náuseas e um episódio de vômito, sem diarreia ou 
+eliminação de sangue nas fezes. É portador de fibrilação atrial 
+crônica, em uso irregular de anticoagulação oral. Ao exame 
+físico, encontra-se ansioso, taquicárdico, com abdome 
+flácido, discretamente doloroso à palpação difusa, sem sinais 
+claros de irritação peritoneal. Os exames laboratoriais iniciais 
+mostram leucocitose moderada, acidose metabólica leve e 
+elevação do lactato sérico. Radiografia simples de abdome 
+não evidencia alterações significativas. Diante da principal 
+hipótese diagnóstica, qual é o exame complementar mais 
+indicado para confirmação diagnóstica e definição terapêutica 
+inicial? 
+ 
+(A) Ultrassonografia abdominal com Doppler. 
+(B) Radiografia contrastada do trato gastrointestinal. 
+(C) Angiotomografia computadorizada de abdome. 
+(D) Colonoscopia diagnóstica. ##### 
+MEDICINA DA FAMÍLIA E COMUNIDADE 
+{49} 
+Um adolescente comparece à unidade de saúde onde você 
+atua e, na consulta, você constata que habitualmente ele 
+frequenta festas de música eletrônica e ingere grande 
+quantidade de álcool. Durante as orientações preventivas, o 
+jovem pergunta a você sobre maconha e ecstasy. Diante do 
+interesse do jovem, você poderia afirmar que: 
+ 
+(A) A metilenodioximetanfetamina (MDMA) é uma anfetamina 
+e há fortes evidências de que ela possa causar síndrome 
+de tolerância, mas não de dependência. 
+(B) O MDMA possui efeitos deletérios agudos como a 
+hepatite, a insuficiência renal e cardíaca, o acidente 
+vascular encefálico e a hipertermia. 
+(C) O uso crônico da maconha (Cannabis sativa) não está 
+associado a nenhum tipo de efeito adverso, mas existem 
+casos confirmados de morte por intoxicação aguda por 
+maconha. 
+(D) Nenhuma das alternativas anteriores está correta. 
+##### 
+ 
+{50} 
+Uma médica da Estratégia Saúde da Família acompanha uma 
+paciente com histórico de depressão, que retorna após dois 
+meses 
+relatando 
+piora 
+no 
+humor, 
+sentimentos 
+de 
+desesperança e isolamento progressivo. Durante a conversa, 
+a paciente menciona não ter seguido a orientação 
+medicamentosa, pois acredita que “isso é coisa da cabeça”. 
+A médica propõe retomar o cuidado com base em um Projeto 
+Terapêutico Singular (PTS). Qual ação inicial mais adequada 
+ilustra a aplicação prática do PTS nesse caso? 
+ 
+(A) Estimular a adesão da paciente ao planejamento 
+terapêutico e acompanhamento. 
+(B) Encaminhar a paciente para a atenção especializada pela 
+complexidade do caso. 
+(C) Saber os motivos da recusa medicamentosa e construir 
+um plano de cuidado juntos. 
+(D) Oferecer orientação sobre o tratamento por meio de ações 
+de educação em saúde. 
+##### 
+ 
+{51} 
+Após registrar aumento de tentativas de suicídio entre 
+adolescentes, a equipe propõe reuniões intersetoriais com 
+escolas e famílias. Durante o primeiro encontro, os professores 
+demonstram resistência à participação, alegando falta de 
+tempo e preparo. Qual seria a melhor conduta da equipe de 
+saúde diante dessa situação? 
+ 
+(A) Manter os encontros apenas com profissionais da saúde 
+até os professores aderirem. 
+(B) Redirecionar o foco para grupos com pais, sem tentar 
+reengajar a escola. 
+(C) Enviar material informativo sobre saúde mental para os 
+professores como alternativa. 
+(D) Avaliar barreiras institucionais e flexibilizar a proposta, 
+envolvendo a gestão escolar. 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 14 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{52} 
+Durante supervisão matricial, a equipe de saúde relata que 
+segue todos os protocolos para pacientes com sofrimento 
+psíquico, mas tem percebido alta rotatividade de pacientes e 
+dificuldade de vínculo. O apoiador decide analisar a situação 
+e percebe a presença de fatores que poderiam estar 
+contribuindo para esse desfecho. Qual fator crítico poderia 
+estar comprometendo a efetividade do cuidado? 
+ 
+(A) Falta de linha de cuidado bem definida para os principais 
+problemas de saúde mental da área de abrangência da 
+unidade. 
+(B) Ausência de reuniões clínicas com especialistas focais 
+psiquiatras externos, que fazem parte da rede de atenção 
+à saúde. 
+(C) Pouca escuta das narrativas singulares dos pacientes 
+participantes e invisibilidade das particularidades do 
+território. 
+(D) Demanda espontânea insuficiente de usuários com 
+sofrimento psíquico pertencentes à área de abrangência 
+da unidade. 
+##### 
+ 
+{53} 
+Homem, 41 anos de idade, agricultor, é encontrado confuso, 
+com náuseas intensas, sudorese, salivação excessiva e 
+vômitos. Segundo a esposa, ele estava trabalhando na 
+lavoura, pois é época de plantio. Ao exame físico, o paciente 
+encontra-se agitado, pupilas puntiformes, FC de 54 bpm, PA 
+de 90×60 mmHg, FR de 24 irpm e SpO2 de 94%. Assinale a 
+alternativa que apresenta a conduta mais adequada neste 
+caso. 
+ 
+(A) Induzir vômito para reduzir a absorção do agente tóxico e 
+aguardar transporte. 
+(B) Administrar carvão ativado por via oral e observar 
+evolução clínica. 
+(C) Iniciar medidas de suporte gerais e colher sangue e urina 
+para exame toxicológico. 
+(D) Retirar as roupas contaminadas, lavar a pele, iniciar 
+suporte clínico e estabilizar o paciente. 
+##### 
+ 
+{54} 
+Durante visita domiciliar, a equipe observa um jovem com 
+comportamento retraído, relato de isolamento social, consumo 
+de álcool e histórico familiar de esquizofrenia. A mãe pede 
+ajuda, relatando que o filho “fala sozinho à noite”. Qual análise 
+crítica do cenário deve orientar a conduta da equipe? 
+ 
+(A) Encaminhar o jovem ao CAPS já que se trata de um caso 
+complexo, com sinais de agravamento. 
+(B) Considerar o contexto territorial e envolver a família em um 
+plano de cuidado compartilhado. 
+(C) Reforçar à mãe a importância de manter o jovem sob 
+observação até que ele passe em consulta médica na 
+Unidade de Saúde a Família (USF). 
+(D) Estabilizar o jovem para avaliação especializada da 
+psiquiatria, para realização de exames e diagnóstico. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+{55} 
+Uma UBS realiza grupos terapêuticos há seis meses, mas 
+percebe que os mesmos usuários participam, enquanto novos 
+casos não aderem. A equipe quer revisar as estratégias para 
+ampliar o alcance. Qual medida avaliativa é mais adequada 
+para qualificar essa prática? 
+ 
+(A) Aplicar questionários de satisfação padronizados com os 
+participantes. 
+(B) Encerrar os grupos e divulgar a atividade na comunidade 
+para atrair novos participantes. 
+(C) Analisar barreiras de acesso, horários e linguagens 
+utilizadas com os usuários. 
+(D) Realizar avaliação interna entre da equipe de saúde e 
+profissionais da Unidade de Saúde da Família (USF). 
+##### 
+ 
+{56} 
+Homem, 32 anos de idade, praticante de triatlo é trazido às 
+pressas para a Unidade de Saúde por conta de dor muito 
+intensa no braço, ocorrida após queda de bicicleta. Foi levado 
+ao hospital primeiramente, mas não havia médicos para 
+atendimento. Por sorte, a enfermeira que estava de plantão 
+neste hospital realizou uma radiografia do local afetado, que 
+evidenciou a seguinte imagem: 
+ 
+O médico de família o atendeu e, ao exame físico, percebeu 
+que os pulsos do braço afetado que estavam normais. 
+Também não havia lesões ou sangramentos no local. Qual 
+tratamento provisório deste problema pode ser realizado na 
+Unidade de Saúde da Família, antes da remoção para outro 
+hospital de trauma? 
+ 
+(A) Imobilização com tração cutânea.  
+(B) Imobilização antebraquiodigital. 
+(C) Imobilização com tipoia. 
+(D) Imobilização axilopalmar. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 15 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{57} 
+ 
+Mulher, 63 anos de idade, comparece à unidade de saúde 
+referindo dor torácica iniciada há 30 minutos, enquanto varria a 
+casa. Relata sensação de opressão retroesternal irradiada para 
+o pescoço, associada a náuseas, sudorese fria e dispneia leve. 
+Tem histórico de hipertensão e dislipidemia. Ao exame físico, 
+apresenta PA de 150×90 mmHg, FC de 86 bpm, FR de 22 irpm 
+e SpO2 de 97%. O ECG não está disponível na unidade e o 
+transporte mais próximo levará cerca de 1 hora. Diante da 
+suspeita diagnóstica, qual a ação inicial mais apropriada? 
+ 
+(A) Tratar a hipertensão, observar a paciente por 1 hora e, se os 
+sintomas persistirem, acionar transporte de urgência. 
+(B) Administrar AAS 300 mg, manter monitoramento clínico e 
+estabilizar a paciente para a atenção especializada de nível 
+terciário. 
+(C) Devido à ausência de alteração na saturação do O2, 
+fornecer analgésico e manter a paciente em observação. 
+(D) Encaminhar como suspeita de embolia pulmonar, pelo 
+quadro de dispneia e dor torácica. 
+##### 
+ 
+{58} 
+ 
+Durante o acolhimento em uma Unidade de Saúde da Família 
+(USF) rural, uma paciente do sexo feminino de 23 anos de 
+idade, relata início súbito de coceira generalizada, sensação 
+de garganta “fechando” e dificuldade para respirar, ocorridos 
+cerca de 15 minutos após consumir castanha-do-pará, à qual 
+já havia referido alergia leve em outras ocasiões. Na avaliação, 
+apresenta urticária disseminada, edema facial, taquicardia 
+(FC de 122 bpm), PA de 95×60 mmHg, FR de 26 irpm e SpO2 
+de 91%. A unidade possui adrenalina, oxigênio, soro 
+fisiológico e equipe de enfermagem treinada, mas o transporte 
+de emergência levará cerca de 40 minutos. Diante desse 
+cenário, qual deve ser a prioridade da equipe da USF? 
+ 
+(A) Administrar difenidramina e aguardar a chegada do 
+transporte, monitorando sinais vitais. 
+(B) Administrar 
+adrenalina 
+intramuscular 
+imediatamente, 
+repetir se necessário, e iniciar suporte clínico enquanto 
+aguarda remoção. 
+(C) Monitorar a paciente em decúbito dorsal, aplicar corticoide 
+intramuscular e encaminhar como urgência 
+(D) Iniciar oxigenoterapia, observar evolução do quadro e 
+fornecer líquidos por via oral. 
+##### 
+ 
+{59} 
+ 
+A Reforma Sanitária Brasileira foi um movimento social, político 
+e técnico que influenciou profundamente a organização do 
+sistema de saúde no país. Sobre esse processo histórico e 
+seus desdobramentos, assinale a alternativa correta. 
+ 
+(A) A Reforma Sanitária Brasileira resultou na criação de um 
+sistema de saúde universal, público e descentralizado, 
+com participação social, consolidado com a Constituição 
+Federal de 1988. 
+(B) A Reforma Sanitária Brasileira teve como principal objetivo 
+a ampliação da assistência médica previdenciária, 
+mantendo a saúde restrita aos trabalhadores formais. 
+(C) A Reforma Sanitária Brasileira defendia a centralização 
+das decisões em saúde no governo federal, reduzindo a 
+participação 
+social 
+para 
+garantir 
+maior 
+eficiência 
+administrativa. 
+(D) A Reforma Sanitária Brasileira foi um movimento 
+governamental, sem participação de universidades, 
+movimentos sociais ou profissionais de saúde. ##### 
+{60} 
+Mulher, 61 anos de idade, portadora de diabetes melito tipo 2 
+(DM2) há 8 anos, comparece à consulta de acompanhamento 
+na Atenção Primária à Saúde. Apresenta hipertensão arterial 
+controlada, dislipidemia em uso irregular de estatina e não é 
+tabagista. Não há história prévia de infarto agudo do 
+miocárdio, Acidente Vascular Cerebral (AVC) ou doença 
+vascular periférica. Exames recentes mostram LDL-c elevado 
+e creatinina normal. A conduta correta quanto à estratificação 
+do risco cardiovascular dessa paciente é: 
+ 
+(A) Dispensar a estratificação de risco cardiovascular, pois a 
+presença de DM2 por si só já define condutas terapêuticas 
+e torna desnecessária qualquer avaliação adicional. 
+(B) Utilizar exclusivamente a idade como critério de 
+estratificação de risco cardiovascular, uma vez que 
+pacientes acima de 60 anos são automaticamente 
+classificados como muito alto risco. 
+(C) Realizar a estratificação do risco cardiovascular utilizando 
+ferramenta 
+validada, 
+como 
+a 
+calculadora 
+HEARTS/OPAS/OMS, reconhecendo que pessoas com 
+DM2 já são classificadas, no mínimo, como de alto risco 
+cardiovascular, o que orienta o manejo global dos fatores 
+de risco.  
+(D) Realizar estratificação de risco cardiovascular apenas na 
+presença de evento cardiovascular prévio, como infarto ou 
+AVC. 
+##### 
+ 
+{61} 
+Mulher, 52 anos de idade, procura a Unidade de Saúde da 
+Família para rotina. Apresenta diagnóstico recente de 
+hipertensão arterial sistêmica grau 1, sem lesão de órgão-alvo, 
+sem diabete melito ou doença cardiovascular estabelecida. 
+Refere consumo frequente de alimentos ultraprocessados, 
+sedentarismo, sono irregular e elevado nível de estresse 
+relacionado ao trabalho. Considerando as recomendações 
+para o tratamento não medicamentoso da hipertensão arterial 
+sistêmica no SUS, assinale a alternativa correta. 
+ 
+(A) Orientar mudanças dos modos de vida, incluindo redução 
+do consumo de sódio e de alimentos ultraprocessados, 
+prática regular de atividade física, controle do peso 
+corporal, manejo do estresse, cessação do tabagismo, 
+moderação do consumo de álcool e promoção da 
+qualidade do sono, como base do cuidado inicial e 
+contínuo.  
+(B) Priorizar exclusivamente a redução do consumo de sal, 
+uma vez que as demais intervenções não demonstram 
+impacto significativo no controle pressórico. 
+(C) Recomendar mudanças de estilo de vida apenas após 
+falha do tratamento medicamentoso, uma vez que 
+intervenções não farmacológicas têm papel secundário. 
+(D) Indicar atividade física apenas para pacientes jovens, pois 
+em adultos acima de 50 anos os benefícios são limitados. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 16 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{62} 
+Uma médica de família e comunidade atende, em uma 
+Unidade de Saúde da Família uma senhora de 62 anos de 
+idade, viúva, residente em área de alta vulnerabilidade social. 
+A paciente é hipertensa e diabética, apresenta dificuldade de 
+acesso regular aos medicamentos e relata que sua única 
+renda é proveniente de um benefício previdenciário mínimo. 
+Durante a consulta, a médica identifica insegurança alimentar, 
+dificuldades para custear o transporte até a unidade de saúde 
+e desconhecimento sobre outros direitos sociais disponíveis. 
+Considerando o modelo brasileiro de seguridade social e o 
+papel do Sistema Único de Saúde na proteção social, assinale 
+a alternativa que apresenta a conduta mais adequada no 
+cuidado integral da paciente. 
+ 
+(A) Limitar a atuação da equipe de saúde à prescrição e ao 
+acompanhamento clínico, uma vez que questões de renda 
+e assistência social não fazem parte das atribuições do 
+SUS. 
+(B) Encaminhar a usuária para atendimento especializado, 
+pois situações de vulnerabilidade social não podem ser 
+abordadas na Atenção Primária à Saúde. 
+(C) Reconhecer que a saúde integra o sistema de seguridade 
+social e articular o cuidado clínico no SUS com ações 
+intersetoriais, orientando e encaminhando a usuária para 
+políticas de assistência social e previdência, visando à 
+proteção social integral. 
+(D) Orientar a paciente a buscar soluções individuais para 
+suas dificuldades socioeconômicas, já que a seguridade 
+social se restringe à previdência social contributiva. 
+##### 
+ 
+{63} 
+Gestante, 28 anos de idade, G2P1, com 22 semanas de 
+gestação, comparece à Unidade Básica de Saúde para 
+consulta 
+de 
+pré-natal. 
+Ela 
+refere 
+ter 
+realizado 
+acompanhamento irregular em gestações anteriores e não 
+apresenta o cartão de vacinação. Ao revisar o prontuário 
+eletrônico, a equipe identifica que não há registros vacinais 
+prévios. A gestante reside em área urbana sem transmissão 
+ativa de febre amarela e não tem viagem programada. 
+Encontra-se assintomática, sem comorbidades, e pergunta 
+sobre quais vacinas devem ser indicadas neste momento da 
+gestação, considerando as recomendações do Calendário 
+Nacional de Vacinação da Gestante. Assinale a alternativa 
+correta. 
+ 
+(A) Deve-se indicar a vacina dTpa a partir da 20ª semana de 
+gestação, independentemente do histórico vacinal, além 
+de atualizar esquemas de hepatite B, dT, influenza sazonal 
+e covid-19, conforme as recomendações vigentes.  
+(B) A vacina dTpa só deve ser administrada se a gestante não 
+tiver recebido esquema completo contra difteria e tétano 
+antes da gravidez, sendo desnecessária nas demais 
+situações. 
+(C) A vacina contra febre amarela deve ser indicada 
+rotineiramente para todas as gestantes, como estratégia 
+de proteção passiva do recém-nascido. 
+(D) A vacina contra influenza está contraindicada durante a 
+gestação, devendo ser administrada apenas no puerpério. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{64} 
+Homem, 54 anos de idade, morador do território adscrito à 
+Unidade de Saúde da Família de São Vicente, hipertenso, 
+diabético e cuidador da mãe idosa com demência. Ao longo 
+do tempo, a equipe da unidade realizou visitas domiciliares, 
+acompanhou mudanças no contexto familiar, coordenou 
+encaminhamentos para a atenção especializada, articulou 
+com o CRAS diante de vulnerabilidade social e manteve o 
+seguimento do usuário mesmo após suas internações 
+hospitalares. Em consulta recente, João refere confiança na 
+equipe e afirma que “sempre procura a unidade primeiro, 
+porque eles conhecem minha história”. Considerando o 
+referencial teórico dos atributos da Atenção Primária à Saúde, 
+assinale a alternativa que expressa o atributo evidenciado 
+nesse caso e sua correta interpretação conceitual. 
+ 
+(A) O 
+caso 
+exemplifica 
+sobretudo 
+o 
+atributo 
+de 
+descentralização, pois a procura inicial da unidade em 
+situações diversas define, por si só, a qualidade da 
+Atenção Primária. 
+(B) Trata-se principalmente do atributo da longitudinalidade, 
+caracterizado pela relação contínua e duradoura entre 
+usuário e equipe ao longo do tempo, com acúmulo de 
+conhecimento clínico, biográfico e contextual.  
+(C) O elemento mais evidente é a integralidade, entendida 
+exclusivamente como a oferta de múltiplos serviços e 
+procedimentos dentro da própria unidade de saúde. 
+(D) O caso ilustra prioritariamente a orientação comunitária, 
+pois as ações descritas se baseiam apenas no 
+reconhecimento das necessidades coletivas do território, 
+e não do indivíduo. 
+##### 
+ 
+{65} 
+Homem, 52 anos de idade, procura a Unidade Básica de 
+Saúde para consulta de rotina. É assintomático, tem IMC de 
+29 kg/m², histórico familiar de diabetes melito tipo 2 em pai e 
+mãe, é hipertenso em uso irregular de medicação e refere 
+sedentarismo. Nunca realizou exames para rastreamento de 
+diabetes. Ao exame físico, não apresenta alterações 
+relevantes. Considerando as recomendações do protocolo 
+clínico e diretrizes terapêuticas de diabetes melito tipo 2 do 
+SUS, a conduta correta quanto ao rastreamento e diagnóstico 
+inicial é: 
+ 
+(A) Solicitar diretamente teste oral de tolerância à glicose 
+como exame de primeira linha para rastreamento 
+populacional, independentemente de fatores de risco. 
+(B) Solicitar apenas hemoglobina glicada, dispensando outros 
+exames laboratoriais por ser o método mais sensível para 
+diagnóstico inicial. 
+(C) Aguardar o surgimento de sintomas clássicos de 
+hiperglicemia para então iniciar investigação laboratorial. 
+(D) Solicitar glicemia plasmática de jejum para rastreamento, 
+devendo o exame ser repetido ou confirmado com 
+hemoglobina glicada ou teste oral de tolerância à glicose 
+caso o resultado esteja alterado.  
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 17 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{66} 
+ 
+Em uma comunidade indígena, os profissionais da USF 
+percebem aumento de episódios de tristeza e alcoolismo após 
+mudança territorial recente. Jovens relatam perda de 
+identidade cultural e conflito com os pais. Qual proposta de 
+cuidado 
+demonstra 
+criatividade 
+e 
+respeito 
+à 
+interculturalidade? 
+ 
+(A) Oferecer oficina sobre riscos do álcool com base em 
+evidências. 
+(B) Solicitar apoio do eMulti para conduzir psicoterapia 
+individual. 
+(C) Construir um espaço de conversa sobre práticas culturais 
+na comunidade. 
+(D) Avaliar cada caso e verificar a causa do sofrimento 
+psíquico e tratá-lo. 
+##### 
+ 
+{67} 
+ 
+Homem, 39 anos de idade, agricultor, comparece à unidade 
+de saúde acompanhado por familiares. Relata que, há cerca 
+de 1 hora e meia, foi picado por uma cobra enquanto 
+caminhava em área de mata próxima à sua propriedade. Ele 
+conseguiu matar a cobra e a trouxe em um vidro. Ao exame 
+físico, 
+apresenta-se 
+estável, 
+consciente, 
+sem 
+sinais 
+neurológicos. Relata dor leve e observa-se pequeno edema e 
+discreta equimose na região lateral do tornozelo direito, local 
+da picada. Não há sangramentos, parestesias ou alterações 
+visuais. O animal morto apresenta corpo fino, com anéis de 
+cores preta, branca e vermelha dispostos em sequência. Não 
+possui fosseta loreal nem cabeça triangular, conforme 
+imagem apresentada a seguir: 
+ 
+ 
+ 
+Considerando o quadro clínico e a identificação do animal, 
+assinale a alternativa que apresenta a conduta mais 
+adequada. 
+ 
+(A) Iniciar hidratação venosa e solicitar soroterapia específica, 
+pois o padrão de anéis indica uma coral verdadeira, que é 
+um animal peçonhento. 
+(B) Encaminhar imediatamente para hospital de referência 
+para observação neurológica intensiva e eventual uso de 
+soro antibotrópico. 
+(C) Observar o paciente na unidade de saúde, fornecer 
+analgesia e descartar necessidade de soro antiofídico pela 
+ausência de manifestações sistêmicas e características do 
+animal. 
+(D) Aplicar soro antielapídico profilaticamente, uma vez que 
+há suspeita de cobra peçonhenta e não há antídoto 
+específico para coral falsa. 
+##### 
+ 
+{68} 
+Homem, 67 anos de idade, hipertenso e tabagista, inicia 
+subitamente desvio da rima labial e dificuldade para articular 
+palavras às 8h10. É atendido às 8h40 em uma Unidade de 
+Saúde da Família, onde a médica identifica queda facial e 
+alteração da fala. O paciente é encaminhado à Unidade de 
+Pronto Atendimento, chegando às 9h20, e posteriormente ao 
+hospital 
+de 
+referência 
+com 
+tomografia 
+disponível. 
+Considerando o Protocolo Clínico e Diretrizes Terapêuticas do 
+Acidente Vascular Cerebral Isquêmico Agudo, a conduta 
+integrada correta na rede de atenção é: 
+ 
+(A) Realizar exames laboratoriais completos na unidade de 
+saúde e na Unidade de Pronto Atendimento antes do 
+encaminhamento hospitalar, para acelerar a decisão 
+terapêutica. 
+(B) Manter o paciente em observação na Unidade de Pronto 
+Atendimento até a estabilização completa dos sinais 
+neurológicos antes da transferência. 
+(C) Reconhecer o AVC ainda na unidade de saúde com escala 
+de triagem, registrar o horário de início dos sintomas, 
+acionar rapidamente a regulação, evitar intervenções que 
+atrasem o fluxo e priorizar o encaminhamento ao hospital 
+habilitado para avaliação por imagem e elegibilidade para 
+trombólise. 
+(D) Administrar antiagregante plaquetário ainda na unidade 
+de saúde básica, visando reduzir a progressão do déficit 
+neurológico. 
+##### 
+ 
+{69} 
+Após período prolongado de chuvas intensas, um município 
+decreta situação de emergência devido a alagamentos em 
+diversos bairros. A Unidade de Saúde da Família passa a 
+atender população desalojada, com aumento de casos de 
+doenças diarreicas, agravamento de doenças crônicas e 
+sofrimento psíquico. Considerando o Plano de Contingência 
+Nacional para Emergências em Saúde Pública por Chuvas 
+Intensas e Desastres Associados, qual é a atuação prioritária 
+da Medicina de Família e Comunidade nesse contexto? 
+ 
+(A) Restringir a atuação da equipe ao atendimento de 
+demandas agudas individuais, suspendendo ações 
+coletivas até o restabelecimento da normalidade. 
+(B) Realizar vigilância ativa de agravos relacionados ao 
+desastre, garantir continuidade do cuidado às condições 
+crônicas, apoiar ações de comunicação de risco e 
+articular-se com a vigilância em saúde e a rede intersetorial 
+do território.  
+(C) Encaminhar todos os casos para serviços hospitalares, 
+visto que situações de desastre extrapolam o escopo da 
+Atenção Primária. 
+(D) Priorizar exclusivamente ações assistenciais curativas, 
+uma vez que atividades de vigilância são responsabilidade 
+apenas da esfera estadual e federal. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 18 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{70} 
+Um município com 8 equipes de Saúde da Família 
+homologadas pretende implantar uma equipe multiprofissional 
+para ampliar a resolutividade da Atenção Primária, com 
+atuação 
+integrada, 
+apoio 
+matricial, 
+atendimentos 
+compartilhados e articulação com a Rede de Atenção à 
+Saúde. A gestão deseja uma modalidade compatível com 
+esse número de equipes vinculadas e que atenda estritamente 
+aos critérios normativos de carga horária mínima semanal 
+previstos na Portaria GM/MS nº 635/2023. Com base nessa 
+Portaria, assinale a alternativa correta. 
+ 
+(A) O município pode implantar uma eMulti Complementar, 
+vinculada de 5 a 9 equipes, com carga horária mínima de 
+200 horas semanais, considerando o somatório da carga 
+horária dos profissionais que compõem a equipe. 
+(B) O município deve implantar uma eMulti Ampliada, pois 
+esta modalidade é obrigatória sempre que houver mais de 
+5 equipes vinculadas, com carga horária mínima de  
+300 horas semanais. 
+(C) A modalidade adequada é a eMulti Estratégica, vinculada 
+a até 4 equipes, com carga horária mínima de 100 horas 
+semanais, podendo excepcionalmente ser estendida para 
+8 equipes conforme pactuação local. 
+(D) O município pode implantar uma equipe no modelo NASF 
+tipo I, com carga horária mínima de 200 horas semanais, 
+uma vez que esse modelo permanece válido para 
+municípios com menos de 10 equipes. 
+##### 
+ 
+{71} 
+Durante uma atividade de educação permanente, uma equipe 
+da Estratégia Saúde da Família discute os fundamentos legais 
+do Sistema Único de Saúde (SUS) para qualificar sua atuação 
+no território, especialmente no que se refere à organização 
+das ações de saúde, ao financiamento e à participação social. 
+Nesse contexto, o preceptor solicita que os residentes 
+diferenciem corretamente o escopo normativo da Lei  
+nº 8.080/1990 e da Lei nº 8.142/1990. Assinale a alternativa 
+correta. 
+ 
+(A) A Lei nº 8.080/1990 trata exclusivamente do financiamento 
+do SUS e da participação social, enquanto a Lei  
+nº 8.142/1990 organiza a vigilância em saúde e a 
+assistência terapêutica integral. 
+(B) A Lei nº 8.142/1990 substitui integralmente a Lei  
+nº 8.080/1990, passando a ser o principal marco 
+regulatório 
+do 
+funcionamento 
+do 
+SUS 
+após 
+sua 
+promulgação. 
+(C) A Lei nº 8.080/1990 define os Conselhos de Saúde como 
+instâncias deliberativas nacionais, enquanto a Lei  
+nº 8.142/1990 restringe a participação social ao nível 
+federal. 
+(D) A Lei nº 8.080/1990 dispõe sobre as condições para a 
+promoção, proteção e recuperação da saúde, define a 
+organização e o campo de atuação do SUS, enquanto a 
+Lei nº 8.142/1990 complementa esse arcabouço ao 
+regulamentar a participação da comunidade, por meio de 
+Conselhos e Conferências de Saúde, e os mecanismos de 
+transferência intergovernamental de recursos financeiros. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{72} 
+Mulher, 46 anos de idade, previamente hígida, apresenta 
+valores de pressão arterial em consultório variando entre 
+138×86 mmHg e 142×90 mmHg em duas consultas realizadas 
+com intervalo de duas semanas. Não apresenta lesão de 
+órgão-alvo conhecida e não possui história de doença 
+cardiovascular. Considerando as recomendações do PCDT 
+de Hipertensão Arterial Sistêmica do SUS, a conduta mais 
+adequada para confirmação diagnóstica é: 
+ 
+(A) Confirmar imediatamente o diagnóstico de hipertensão 
+arterial sistêmica com base nas medidas obtidas em 
+consultório clínico. 
+(B) Classificar a paciente como normotensa e orientar apenas 
+medidas de promoção da saúde, sem necessidade de 
+investigação adicional. 
+(C) Iniciar 
+tratamento 
+medicamentoso 
+imediato, 
+independentemente da confirmação diagnóstica fora do 
+consultório. 
+(D) Indicar 
+a 
+confirmação 
+diagnóstica 
+por 
+meio 
+de 
+Monitorização Ambulatorial da Pressão Arterial (MAPA) ou, 
+quando 
+indisponível, 
+Monitorização 
+Residencial 
+da 
+Pressão Arterial (MRPA). 
+##### 
+PEDIATRIA 
+{73} 
+Com relação às dores recorrentes em membros na infância, 
+assinale a alternativa correta. 
+ 
+(A) O uso do termo “dor de crescimento” se justifica, pois, a 
+incidência máxima das dores coincide com o pico de 
+crescimento no estirão puberal. 
+(B) Dor em um único membro, dor articular ao despertar e 
+interferência nas atividades diárias são sinais de alerta 
+para uma causa orgânica. 
+(C) A doença de Legg-Calvé-Perthes é considerada um 
+diagnóstico diferencial e provoca dores nos tornozelos e 
+claudicação. 
+(D) As dores noturnas idiopáticas benignas da infância 
+associam-se à hipermobilidade articular e deslocamentos 
+articulares recorrentes. 
+##### 
+ 
+{74} 
+Com relação a sífilis congênita, assinale a alternativa correta. 
+ 
+(A) A maioria dos recém-nascidos com sífilis apresenta 
+sintomas logo ao nascimento. 
+(B) Alterações de provas hepáticas que se agravam com a 
+penicilina exigem a suspensão do antibiótico. 
+(C) Pode ocorrer icterícia devido à hiperbilirrubinemia 
+secundária à hepatite sifilítica e/ou à hemólise. 
+(D) Anormalidades radiográficas nos ossos longos, unilaterais 
+e localizadas, ocorrem em 70 a 80% dos casos de sífilis 
+não tratada. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 19 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{75} 
+Segundo as recomendações atuais da Academia Americana 
+de Pediatria (AAP) sobre sono seguro em crianças menores 
+de um ano, é correto afirmar: 
+ 
+(A) A posição supina é a indicada para todas as crianças, 
+inclusive as prematuras ou com refluxo gastroesofágico. 
+(B) Na posição prona, a traqueia fica na parte superior, 
+dificultando a entrada de material do estômago. 
+(C) A AAP indica a posição de lado apenas para bebês 
+saudáveis e enquanto não conseguem se virar sozinhos. 
+(D) O berço do bebê deve ficar em quarto separado dos pais, 
+a partir do terceiro mês de vida, pois diminui a 
+possibilidade de morte súbita. 
+##### 
+ 
+{76} 
+Com a finalidade de calcular a solução de manutenção pelo 
+método de Holliday–Segar para uma criança de 23 kg, 
+assinale a alternativa que corresponde corretamente ao peso 
+calórico e ao volume total de solução de manutenção a ser 
+administrado em 12 horas, respectivamente. 
+ 
+(A) 23 kg; 1.150 mL. 
+(B) 11,5 kg; 1.560 mL. 
+(C) 15,6 kg; 780 mL. 
+(D) 23 kg, 1.560 mL. 
+##### 
+ 
+{77} 
+A pneumonia adquirida na comunidade complicada inclui 
+quadros com complicações locais e/ou sistêmicas. Em 
+relação à pneumonia necrosante em Pediatria, assinale a 
+alternativa correta. 
+ 
+(A) Pneumococo, Staphylococcus aureus e Streptococcus 
+pyogenes são os principais patógenos envolvidos.  
+(B) O diagnóstico é estabelecido pela radiografia de tórax, 
+que demonstra opacidade homogênea com broncograma 
+aéreo.  
+(C) Antibioticoterapia recomendada: oxacilina associada à 
+cefotaxima ou ceftriaxona ou cefepima, por 2 semanas.  
+(D) A abordagem cirúrgica inicial, com ressecção precoce 
+das áreas necróticas, é indicada devido à baixa resposta 
+ao tratamento clínico isolado. 
+##### 
+ 
+{78} 
+Em relação ao calendário vacinal de 2025/2026 da Sociedade 
+Brasileira de Pediatria, assinale a alternativa correta. 
+ 
+(A) Influenza: a primeira vacinação para crianças ou 
+adolescentes deve ser feita com duas doses, com intervalo 
+de 2 meses entre elas. 
+(B) Febre amarela: se lactante de bebê menor de 6 meses 
+receber a vacina, deve-se suspender o aleitamento 
+materno por 10 dias. 
+(C) Varicela: em casos de surtos ou de contato íntimo, a vacina 
+pode ser utilizada a partir de 9 meses, em substituição à 
+dose dos 12 meses. 
+(D) Vírus Sincicial Respiratório: há duas alternativas de 
+prevenção: 
+vacinação 
+do 
+lactente 
+ou 
+anticorpo 
+monoclonal para o bebê ao nascer.  
+##### 
+{79} 
+As 
+craniossinostoses 
+(cranioestenoses) 
+consistem 
+em 
+malformações resultantes do fechamento precoce de uma ou 
+mais suturas cranianas. Com base nessas informações, 
+assinale a alternativa correta. 
+ 
+(A) A escafocefalia ocorre por fechamento precoce da sutura 
+coronal, resultando em formato craniano alongado 
+anteroposteriormente. 
+(B) Na trigonocefalia, ocorre pelo fechamento precoce da 
+sutura metópica, e há geralmente associação com 
+hipertelorismo. 
+(C) A braquicefalia decorre do fechamento precoce das 
+suturas sagitais bilateralmente, o que leva à turricefalia. 
+(D) A plagiocefalia pode ocorrer devido ao fechamento 
+precoce de uma das suturas coronais ou decorrer de 
+origem postural.  
+##### 
+ 
+{80} 
+A Doença do Refluxo Gastroesofágico (DRGE) é atualmente 
+entendida como um espectro fenotípico, com quadro clínico 
+heterogêneo e sinais e sintomas inespecíficos. Considerando 
+a DRGE, assinale a alternativa correta. 
+ 
+(A) Evidências sugerem que, no lactente, o volume do 
+conteúdo refluído está mais associado à irritabilidade do 
+que o pH esofágico. 
+(B) A irritabilidade e o choro contínuo nos lactentes refletem o 
+refluxo ácido, com boa resposta habitual ao tratamento 
+antiácido. 
+(C) pH-metria e impedanciometria demonstram, no lactente, 
+que refluxos não ácidos e fracamente ácidos ocorrem em 
+pequena proporção dos episódios de refluxo. 
+(D) Os consensos aconselham um teste terapêutico com 
+inibidores de bomba de prótons antes de testar 
+hidrolisadas ou fórmulas de aminoácidos em lactentes 
+sintomáticos. 
+##### 
+ 
+{81} 
+A Infecção do Trato Urinário (ITU) caracteriza-se pela 
+presença de agente patogênico único no trato urinário, 
+associada à resposta inflamatória e manifestações clínicas. 
+Quanto ao tratamento da ITU na infância, é correto afirmar: 
+ 
+(A) Recomenda-se iniciar o tratamento empiricamente com 
+medicamento de maior espectro antimicrobiano possível. 
+(B) A via de administração preferencial para os pacientes com 
+mais de 3 meses de vida é parenteral, devido ao risco de 
+lesão renal. 
+(C) A revisão da terapia precisa ocorrer no sétimo dia, apoiada 
+no antibiograma, para definir o tempo de tratamento. 
+(D) Havendo 
+resposta 
+terapêutica 
+e 
+confirmação 
+de 
+sensibilidade no antibiograma, não há necessidade de 
+urocultura de controle. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 20 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{82} 
+Pré-escolar, 4 anos de idade, apresenta tosse há 5 dias, 
+secreção e obstrução nasal, evoluindo com leve melhora dos 
+sintomas. Hoje iniciou febre e queda do estado geral sendo 
+levado ao consultório pediátrico. Ao exame físico, encontra-se 
+eupneico, com hiperemia de faringe com drenagem de 
+secreção posterior e a visualização do vestíbulo nasal mostra 
+crostas amareladas. O diagnóstico de rinossinusite é feito por 
+meio de 
+ 
+(A) ressonância magnética. 
+(B) raio-X dos seios da face. 
+(C) anamnese e exame físico. 
+(D) tomografia computadorizada. 
+##### 
+ 
+{83} 
+Recém-nascido, 40 semanas de idade gestacional, Apgar 
+9/10, sem fatores de risco, apresenta icterícia em face com  
+18 horas de vida. História obstétrica sem fatores de risco. 
+Grupo sanguíneo materno O+ e do RN B+. Ao exame físico, 
+apresenta-se ativo, mamando bem, já eliminou mecônio e 
+apresentou diurese. Nesse caso, está indicado:  
+ 
+(A) Aguardar completar 24 horas e colher exames para avaliar 
+exsanguineotransfusão.  
+(B) Observar e reavaliar a icterícia antes da alta para decidir 
+sobre a realização de exames.  
+(C) Colher exames laboratoriais para avaliar incompatibilidade 
+ABO e decidir sobre fototerapia.  
+(D) Suspender o aleitamento materno, pois se trata de icterícia 
+associada ao aleitamento materno. 
+##### 
+ 
+{84} 
+Pré-escolar, 3 anos de idade, é levado por seus pais à 
+emergência que relatam que seu filho está menos ativo e mais 
+pálido do que o habitual. Referem que há três dias o menino 
+apresentou quadro de febre (38,5 °C), vômitos e diarreia com 
+sangue e que desde ontem está urinando menos, mesmo 
+aceitando bem líquidos via oral. Segundo os pais, o paciente 
+era saudável. Ao exame físico, encontra-se pálido, hipocorado 
+3+/4+, irritado, prostrado e com dor à palpação abdominal, FC 
+de 150 bpm, FR de 38 irpm e PA de 105×60 mmHg.  
+ 
+• Exames laboratoriais:  
+Hb: 6,5 g/dL 
+Ht: 21 % 
+Leucometria: 14.800/mm³ (bastões:15%, segmentados 65%) 
+Plaquetas: 85.000/mm3 
+Na+: 134mEq/L 
+K+: 4,6 mEq/L 
+Cr: 2,8 mg/dL 
+Ur: 125 mg/dL 
+Exame de urina: hematúria 
+ 
+Assinale a alternativa que apresenta a principal hipótese 
+diagnóstica. 
+ 
+(A) Insuficiência renal crônica. 
+(B) Síndrome hemolítico-urêmica. 
+(C) Glomerulonefrite difusa aguda. 
+(D) Púrpura de Henoch-Schönlein. 
+##### 
+ 
+ 
+{85} 
+O Transtorno do Espectro do Autismo (TEA), abrange 
+distúrbios do neurodesenvolvimento caracterizados por 
+deficiências na comunicação social, associadas a padrões de 
+comportamento restritivos e repetitivos. Assinale a alternativa 
+correta com relação ao diagnóstico do TEA: 
+ 
+(A) O atraso na aquisição da fala é condição indispensável 
+para diagnóstico do TEA, pois indica o comprometimento 
+da comunicação social. 
+(B) Os déficits auditivos são importantes diagnósticos 
+diferenciais, pois alteram a comunicação não verbal, bem 
+como a intenção comunicativa. 
+(C) O Transtorno de Déficit de Atenção e Hiperatividade 
+(TDAH) pode cursar com contato visual fugaz, hiperfoco e 
+dificuldades na interação social, sendo diagnóstico 
+diferencial. 
+(D) O M-CHAT-R/F é um questionário composto por  
+40 questões, que indicam a presença de sinais de alerta 
+para TEA em crianças de 6 a 48 meses. 
+##### 
+ 
+{86} 
+De acordo com os critérios de Roma IV, a regurgitação do 
+lactente saudável entre 3 e 12 meses deve incluir:  
+ 
+(A) Duas ou mais regurgitações por semana, por quatro 
+semanas ou mais, sem complicações, sem perda de peso 
+e sem problemas alimentares. 
+(B) Duas ou mais regurgitações por dia, por quatro semanas 
+ou mais, com exames complementares que descartem 
+outras patologias. 
+(C) Duas ou mais regurgitações por dia, por três ou mais 
+semanas, sem complicações, sem postura anormal, nem 
+dificuldades alimentares. 
+(D) Duas ou mais regurgitações por dia, sem sinais de alarme 
+e com teste de provocação oral para alergia a proteína do 
+leite de vaca negativa. 
+##### 
+ 
+{87} 
+Com relação ao uso de antitérmicos em pediatria, assinale a 
+alternativa correta. 
+ 
+(A) O uso preventivo de antitérmicos é recomendado para a 
+prevenção de convulsões febris com bons níveis de 
+evidência. 
+(B) Em casos de insuficiência renal crônica, deve-se evitar o 
+uso de paracetamol devido ao risco de agravamento da 
+função renal. 
+(C) A dipirona é o único antitérmico recomendado para 
+menores de um mês, e sua dose é ajustada conforme a 
+idade gestacional. 
+(D) O paracetamol profilático pode reduzir a imunogenicidade 
+de algumas vacinas, especialmente nas primeiras doses. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 21 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{88} 
+Escolar, 8 anos de idade, apresenta exantema em face com 
+lesões maculopapulares que logo confluíram para as regiões 
+malares (aspecto de asa de borboleta). Dois dias depois, o 
+quadro evoluiu com exantema em membros superiores e 
+inferiores de aspecto rendilhado e, passada duas semanas 
+ocorreu novo episódio exantemático após atividade física. Em 
+consulta, o paciente está afebril e relata artralgia. Assinale a 
+alternativa que apresenta o melhor diagnóstico para o caso. 
+ 
+(A) Roséola. 
+(B) Rubéola. 
+(C) Eritema infeccioso. 
+(D) Mononucleose infecciosa. 
+##### 
+ 
+{89} 
+Lactente, 1 ano e 2 meses de vida, engatinha e anda com 
+apoio, consegue apanhar objetos, reconhece a mãe, aponta o 
+que quer e imita gestos, como bater palmas e dar tchau. 
+Entretanto, ainda não fala palavra alguma nem mantém jargão 
+(fala com emissão de sons com entonação e sem significado). 
+É correto afirmar que esse lactente tem 
+ 
+(A) desenvolvimento normal para sua idade. 
+(B) autismo, pois já deveria estar falando algumas palavras. 
+(C) possível atraso no desenvolvimento, pois ainda não anda. 
+(D) atraso na aquisição da linguagem, sendo necessária 
+investigação. 
+##### 
+ 
+{90} 
+Mãe de escolar de 9 anos de idade, procura o pediatra, pois 
+acha que seu filho está “baixinho” (sic). Relata que vem 
+percebendo nos últimos 18 a 24 meses que o menino não está 
+mais crescendo. Neste período começou a ganhar peso, 
+dormindo muito e desatento na escola. A velocidade de 
+crescimento nos últimos 12 meses foi de 3 cm/ano. Ao exame 
+físico, apresenta estatura entre os percentis 3 e 10, peso entre 
+os percentis 50 e 75, sem sinais de puberdade. Exame 
+neurológico normal. Baseado nos dados acima, pode-se dizer 
+que o crescimento é: 
+ 
+(A) Normal com peso adequado. 
+(B) Normal com obesidade exógena. 
+(C) Anormal por provável hipotireoidismo adquirido. 
+(D) Anormal por provável deficiência de hormônio de 
+crescimento. 
+##### 
+ 
+{91} 
+Durante 
+as 
+manobras 
+de 
+reanimação 
+neonatal, 
+a 
+administração de adrenalina pode ser necessária. Segundo o 
+Programa de Reanimação Neonatal, a diluição e a dose a ser 
+administrada por via endovenosa, respectivamente são:  
+ 
+(A) 1/1.000 / 0,1-0,5 mL/kg. 
+(B) 1/2.000 / 0,3-0,5 mL/kg. 
+(C) 1/5.000 / 0,05-0,1 mL/kg. 
+(D) 1/10.000 / 0,1-0,3 mL/kg. 
+##### 
+ 
+ 
+ 
+ 
+{92} 
+Em relação à reanimação cardiopulmonar em crianças, 
+assinale a alternativa correta. 
+ 
+(A) Em crianças em PCR, deve-se tentar dois acessos 
+venosos periféricos rapidamente antes de tentar uma via 
+intra-óssea  
+(B) O uso de Desfibrilador Externo Automático (DEA) em 
+ambientes públicos somente está indicado para pacientes 
+adultos. 
+(C) A proporção de compressões e ventilações na RCP é de 
+15:2 (compressões:ventilação) se houver apenas 1 
+socorrista. 
+(D) As características das compressões torácicas adequadas 
+durante a RCP incluem: compressões rápidas e fortes, 
+mínimas interrupções entre as compressões, permitir uma 
+completa reexpansão do tórax. 
+##### 
+ 
+{93} 
+Pré-escolar, 3 anos de idade, inicia há três dias quadro de 
+febre baixa (38 °C), dor de garganta, mal-estar, diminuição do 
+apetite e adenomegalias em região suboccipital e pós 
+auriculares bilaterais, seguido de rash macular róseo claro, 
+irregular, disseminado, iniciado em face e pescoço, 
+distribuindo-se pelo corpo. Não há descamação após 
+desaparecimento do mesmo. No início do quadro, o exame da 
+orofaringe revelava lesões pequenas, de coloração rósea e 
+petéquias em palato mole. Em relação ao quadro, o agente 
+causal determinante é:  
+ 
+(A) Rotavírus. 
+(B) Norovírus. 
+(C) Vírus da rubéola. 
+(D) Vírus do sarampo. 
+##### 
+ 
+{94} 
+Lactente, 45 dias de vida, nascido de parto normal, apresenta 
+quadro subfebril, tosse paroxística, dispneia discreta, 
+anorexia, tiragem subcostal e intercostal baixa. História de 
+conjuntivite prévia. Radiografia de tórax indica infiltrado 
+intersticial. Assinale a alternativa que apresenta a conduta e o 
+tratamento mais indicado neste momento, respectivamente.  
+ 
+(A) Internar / Macrolídeo.  
+(B) Internar / Aminoglicosídeo.  
+(C) Tratar ambulatorialmente / Penicilina.  
+(D) Tratar ambulatorialmente / Cefalosporina 
+##### 
+ 
+{95} 
+Recém-nascido saudável, nascido de parto normal, sem 
+intercorrências perinatais. Teste de triagem neonatal IRT 
+(Tripsina Imuno-Reativa) de 160 ng/mL. Reconvocado, o 
+resultado foi 150 ng/mL (ref.: < 110 ng/mL). Considerando o 
+caso descrito, assinale a alternativa que apresenta a conduta 
+correta. 
+ 
+(A) Prescrever profilaxia com antibiótico. 
+(B) Realizar teste do suor medindo o cloro. 
+(C) Repetir a dosagem de IRT após um mês. 
+(D) Iniciar reposição de enzimas pancreáticas. 
+##### 
+
+
+--- PAGE 22 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{96} 
+Adolescente, sexo masculino, 13 anos de idade, é levado à 
+emergência por cefaleia intensa, vômitos em jato há dois dias 
+e febre (38,5 °C) que não cede com antitérmicos. Ao exame 
+físico, apresenta-se desidratado, febril, sinais de irritação 
+meníngea, escala de Glasgow 15. Punção lombar: pleocitose, 
+com 570 células/mm3, 20.000 hemácias/mm3, com predomínio 
+de linfomononucleares; proteína: 45 mg/dL; glicorraquia:  
+66 mg/dL (glicemia: 90 mg/dL). O quadro clínico do paciente 
+sugere: 
+ 
+(A) Meningite viral. 
+(B) Trauma de punção. 
+(C) Meningite bacteriana. 
+(D) Hemorragia subaracnoide. 
+##### 
+GINECOLOGIA E OBSTETRÍCIA 
+{97} 
+Adolescente, sexo feminino, 17 anos de idade, procura 
+atendimento 
+por 
+nunca 
+ter 
+menstruado. 
+Refere 
+desenvolvimento puberal normal, com crescimento das 
+mamas iniciado aos 11 anos e aparecimento de pelos 
+pubianos aos 12 anos. Nega dor pélvica, cólicas cíclicas, 
+infecções prévias ou atividade sexual. Apresenta crescimento 
+e desenvolvimento geral dentro da normalidade. Ao exame 
+físico, exibe mamas e pelos pubianos compatíveis com 
+maturidade, genitália externa sem alterações e canal vaginal 
+curto à avaliação ginecológica, sem visualização do colo 
+uterino. O exame abdominal é normal, sem massas palpáveis. 
+Diante do quadro apresentado, qual é o diagnóstico mais 
+provável e qual deve ser a orientação correta sobre seu futuro 
+reprodutivo? 
+ 
+(A) Síndrome de Mayer–Rokitansky–Küster–Hauser; pode ter 
+filhos biológicos por meio de útero de substituição. 
+(B) Insuficiência ovariana prematura; poderá gestar apenas 
+com óvulos doados. 
+(C) Síndrome de insensibilidade androgênica; não há 
+possibilidade de gestação mesmo com técnicas de 
+reprodução assistida. 
+(D) Septo vaginal transverso; poderá menstruar e gestar após 
+correção cirúrgica. 
+##### 
+ 
+{98} 
+Gestante, 26 anos de idade, primigesta, procura atendimento 
+de urgência por sangramento vaginal leve há quatro dias. 
+Relata atraso menstrual, mas não se lembra da data da última 
+menstruação. Apresenta resultado prévio de β-hCG de  
+12.500 mIU/mL realizado há três dias. No serviço, novo β-hCG 
+é solicitado, mostrando 28.900 mIU/mL. Ao exame especular, 
+observa-se pequena quantidade de sangue vivo; no toque 
+vaginal, o colo está fechado. A paciente encontra-se estável, 
+sem dor abdominal importante. Assinale a alternativa que 
+apresenta o diagnóstico mais provável e a conduta mais 
+indicada. 
+ 
+(A) Gravidez ectópica; intervenção cirúrgica. 
+(B) Aborto inevitável; observação expectante. 
+(C) Ameaça de aborto; repouso relativo e seguimento. 
+(D) Aborto incompleto; esvaziamento uterino. 
+##### 
+ 
+ 
+{99} 
+Gestante, 32 anos de idade, G2P1, comparece para 
+atendimento na maternidade com 38 semanas e 2 dias. Relata 
+que 
+seu 
+pré-natal 
+transcorreu 
+sem 
+intercorrências 
+importantes, exceto pela detecção de pressão arterial elevada 
+por volta de 18 semanas, quando passou a fazer uso regular 
+de metildopa, com bom controle até o momento. Refere sentir-
+se bem, sem dor de cabeça, sem alterações visuais, sem dor 
+e com boa movimentação fetal. Ao exame físico, apresenta-se 
+em bom estado geral, normocorada, afebril e hemodinami-
+camente estável, porém com PA de 150×100 mmHg, 
+confirmada em segunda aferição. Altura uterina e ausculta 
+fetal dentro da normalidade. Foram solicitados exames 
+laboratoriais para avaliação materna, com os seguintes 
+resultados: 
+ 
+Hb: 11,4 g/dL 
+Plaquetas: 140.000/mm³ 
+TGO/AST: 50 U/L 
+TGP/ALT: 40 U/L 
+Bilirrubina total: 0,8 mg/dL 
+Cr: 0,8 mg/dL 
+Relação proteína/creatinina urinária: 0,6 
+DHL: 420 U/L 
+ 
+Com base nos achados clínicos e laboratoriais, assinale a 
+alternativa que apresenta o diagnóstico e a conduta mais 
+adequada. 
+ 
+(A) Hipertensão arterial gestacional - manter vigilância clínica 
+e aguardar evolução espontânea do parto. 
+(B) Hipertensão 
+arterial 
+crônica 
+- 
+reajustar 
+terapia 
+antihipertensiva e seguir controle ambulatorial. 
+(C) Pré-eclâmpsia - otimizar controle pressórico e indicar 
+indução do trabalho de parto. 
+(D) Hipertensão 
+arterial 
+crônica 
+com 
+pré-eclâmpsia 
+sobreposta - estabilizar a gestante e indicar resolução da 
+gestação. 
+##### 
+ 
+{100} 
+Mulher, 62 anos de idade, menopausada há 6 anos, procura 
+atendimento relatando episódios de sangramento vaginal 
+discreto, porém recorrente nas últimas três semanas, 
+associado a leve desconforto pélvico. É hipertensa e obesa 
+grau I, sem uso de terapia hormonal prévia. No exame 
+ginecológico, apresenta mucosa vaginal atrófica, sem lesões 
+aparentes e colo uterino normal. O ultrassom transvaginal 
+evidencia endométrio medindo 10 mm, com contornos 
+regulares e cavidade bem delimitada. Diante desse quadro, 
+assinale a alternativa que apresenta a conduta mais 
+adequada. 
+ 
+(A) Prescrever estriol tópico, pois o sangramento decorre de 
+atrofia vaginal. 
+(B) Investigar com histeroscopia e coleta de biópsia 
+endometrial dirigida. 
+(C) Suspeitar de mioma submucoso e indicar miomectomia. 
+(D) Prescrever progesterona oral por alguns meses e reavaliar 
+posteriormente. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 23 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{101} 
+Mulher, 67 anos de idade, G3P3, menopausada há 14 anos, 
+com antecedente de hipertensão, obesidade grau II e 
+diabetes tipo 2, procura atendimento por episódios de 
+sangramento 
+vaginal 
+intermitente 
+há 
+dois 
+meses, 
+acompanhados de leve dor hipogástrica. Negava uso de 
+terapia hormonal. Realizou ultrassonografia transvaginal 
+revelando endométrio medindo 18 mm, heterogêneo. Foi 
+submetida à histeroscopia diagnóstica com biópsia, cujo 
+resultado mostrou adenocarcinoma endometrioide grau 1. 
+Encaminhada ao serviço de oncologia, foram realizados 
+exames de estadiamento. A ressonância magnética pélvica 
+demonstrou lesão restrita ao corpo uterino, com invasão 
+superficial do miométrio (menos de 50%) e sem extensão para 
+o colo uterino. Não havia linfonodos pélvicos aumentados e a 
+tomografia de tórax e abdome foi negativa para metástases. 
+Ao exame físico, está em bom estado geral, pressão 
+controlada, sem dor à palpação abdominal e sem massas 
+palpáveis. 
+Avaliação 
+anestésica 
+sem 
+contraindicação 
+cirúrgica. Com base nas informações clínicas, radiológicas e 
+histopatológicas, qual é a conduta terapêutica mais 
+adequada? 
+ 
+(A) Histerectomia total com salpingo-ooforectomia bilateral 
+associada à avaliação linfonodal pélvica. 
+(B) Radioterapia pélvica exclusiva, já que se trata de tumor de 
+baixo grau. 
+(C) Quimioterapia sistêmica seguida de histerectomia, com 
+intenção neoadjuvante. 
+(D) Terapia hormonal com progestagênios, deixando a 
+cirurgia apenas para falha terapêutica. 
+##### 
+ 
+{102} 
+Gestante, 32 anos de idade, G2P1, com 32 semanas de 
+gestação, previamente diagnosticada com diabetes melito 
+gestacional, retorna ao ambulatório para reavaliação. Refere 
+estar seguindo corretamente plano alimentar e caminhadas 
+diárias de 40 minutos. Nega hipoglicemias, poliúria, polidipsia 
+ou redução de movimentos fetais. Ao exame físico, apresenta-
+se em bom estado geral, normocorada, afebril, altura uterina 
+compatível com idade gestacional (32 cm), BCF audíveis e 
+regulares (148 bpm), PA 110×70 mmHg e ganho ponderal 
+adequado. A gestante apresenta os seguintes valores de 
+glicemia capilar registrados ao longo de 7 dias, conforme 
+orientação multiprofissional: 
+ 
+Dia 
+Jejum 
+(mg/dL) 
+Pós-café 1h 
+(mg/dL) 
+Pós-almoço 1h 
+(mg/dL) 
+Pós-jantar 1h 
+(mg/dL) 
+1 
+81 
+118 
+122 
+130 
+2 
+88 
+110 
+128 
+132 
+3 
+84 
+105 
+120 
+138 
+4 
+79 
+115 
+133 
+136 
+5 
+90 
+120 
+125 
+135 
+6 
+85 
+112 
+130 
+128 
+7 
+83 
+117 
+126 
+134 
+ 
+Considerando o perfil glicêmico apresentado, assinale a 
+alternativa que apresenta a conduta mais adequada. 
+ 
+(A) Prescrever insulina NPH de manhã e à noite. 
+(B) Iniciar metformina às refeições. 
+(C) Prescrever insulina regular antes do almoço e do jantar. 
+(D) Manter dieta, exercício físico e perfil glicêmico. ##### 
+{103} 
+Gestante, 29 anos de idade, G2P1, sem comorbidades, 
+comparece à consulta de pré-natal com 22 semanas. Relata 
+bem-estar e o exame físico não identificou alterações. 
+Apresenta o cartão vacinal a seguir: 
+ 
+Hepatite B 
+ 
+Janeiro/2010 
+Hepatite B 
+ 
+Fevereiro/2010 
+Hepatite B 
+ 
+Julho/2010 
+Influenza 
+ 
+Abril/2022 
+Influenza 
+ 
+Maio/2023 
+Influenza 
+ 
+Abril/2024 
+dT 
+ 
+Agosto/2006 
+dT 
+ 
+Outubro/2016 
+dTpa 
+ 
+Abril/2024 
+Febre Amarela 
+ 
+Maio/2020 
+ 
+ 
+Covid-19 
+ 
+Janeiro 2021 
+Covid-19 
+ 
+Fevereiro/2021 
+Covid-19 
+ 
+Outubro/2024 
+Sarampo/Caxumba/ 
+Rubéola 
+ 
+Agosto/2006 
+Sarampo/Caxumba/ 
+Rubéola 
+ 
+Maio/2020 
+ 
+ 
+Com base nas recomendações atuais do Ministério da Saúde, 
+assinale a alternativa que apresenta a orientação vacinal 
+correta neste momento do pré-natal. 
+ 
+(A) Reforçar dTpa, Influenza, Covid-19 e programar vacina 
+contra vírus sincicial respiratório. 
+(B) Aplicar Sarampo/Caxumba/Rubéola, reforçar Hepatite B e 
+adiar vacinas respiratórias. 
+(C) Aplicar dT agora, adiar Influenza e Covid-19 e Febre 
+Amarela. 
+(D) Nenhuma 
+vacina 
+é 
+necessária; 
+apenas 
+seguir 
+acompanhamento.  
+##### 
+ 
+{104} 
+Mulher, 27 anos de idade, previamente saudável, procura 
+atendimento relatando prurido intenso na região vulvovaginal, 
+ardência e sensação de “queimação” durante a micção há 
+quatro dias. Refere relação sexual estável, nega uso recente 
+de antibióticos e menciona piora dos sintomas perto do 
+período 
+menstrual. 
+Ao 
+exame 
+especular, 
+observa-se 
+corrimento branco, espesso e grumoso, aderido às paredes 
+vaginais. A mucosa vaginal encontra-se hiperemiada e 
+edemaciada. A microscopia do material colhido revelou 
+pseudohifas, sem protozoários móveis ou clue cells. 
+Considerando o quadro apresentado, assinale a alternativa 
+que apresenta a conduta terapêutica mais adequada. 
+ 
+(A) Metronidazol oral por sete dias. 
+(B) Miconazol intravaginal por sete dias. 
+(C) Aciclovir oral em esquema de supressão. 
+(D) Clindamicina vaginal por sete dias. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 24 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{105} 
+Gestante, 28 anos de idade, secundigesta, com um parto 
+vaginal prévio, encontra-se com 38 semanas e 5 dias em 
+trabalho de parto ativo. Chega ao período expulsivo com 
+dilatação completa há 1 hora e 40 minutos. Feto em 
+apresentação cefálica, posição occipito-anterior, plano +2 de 
+De Lee e proporcionalidade cefalopélvica satisfatória. Durante 
+o pré-natal expressou desejo de parto vaginal, mas mostra-se 
+exausta, relatando intensa fadiga. As contrações tornam-se 
+irregularmente eficazes, mesmo após estímulo verbal e ajuste 
+de posição. Foi instituída analgesia neuroaxial, administrada 
+ocitocina e realizada amniotomia, com saída de líquido 
+amniótico claro. A cardiotocografia inicial demonstrava padrão 
+tranquilizador, motivo pelo qual a equipe optou por aguardar. 
+Após mais 40 minutos, nova cardiotocografia evidencia 
+desacelerações prolongadas e a dinâmica uterina segue 
+insuficiente para completar o período expulsivo. Com base no 
+quadro clínico descrito, assinale a alternativa que apresenta a 
+conduta mais adequada. 
+ 
+(A) Indicar cesariana de urgência. 
+(B) Realizar parto vaginal assistido. 
+(C) Aumentar novamente a dose de ocitocina. 
+(D) Aguardar completar 3 horas de período expulsivo. 
+##### 
+ 
+{106} 
+Mulher, 32 anos de idade, com diagnóstico de migrânea sem 
+aura, procura a unidade básica de saúde solicitando iniciar 
+método contraceptivo. Faz uso regular de amitriptilina para 
+prevenção das crises, com boa resposta e sem efeitos 
+adversos. Nega tabagismo, trombose prévia, hipertensão ou 
+diabetes. Ao exame físico, apresenta pressão arterial normal e 
+nenhum achado relevante. De acordo com os critérios 
+médicos de elegibilidade da Organização Mundial da Saúde 
+para 2025, qual a orientação correta para essa paciente? 
+ 
+(A) Pode utilizar qualquer método contraceptivo. 
+(B) Deve evitar contraceptivos hormonais combinados. 
+(C) Deve preferir métodos sem etinilestradiol. 
+(D) Deve escolher métodos que não sejam orais. 
+##### 
+ 
+{107} 
+Gestante, 30 anos de idade, G1, com 28 semanas, procura 
+atendimento relatando tristeza intensa, crises de choro, perda 
+de apetite, insônia e dificuldade para realizar atividades 
+básicas há seis semanas. Refere redução do vínculo com a 
+gestação e pensamentos repetitivos de desvalorização, 
+embora sem intenção suicida estruturada. Possui histórico 
+prévio de depressão tratada com antidepressivos antes da 
+gestação. Ao exame físico, apresenta postura retraída, olhar 
+reduzido, fácies de sofrimento emocional e pouca interação. 
+PA normal, BCF normal, sem alterações obstétricas. 
+Pontuação na escala de Edimburgo de 20 pontos. Assinale a 
+alternativa que apresenta a conduta mais adequada. 
+ 
+(A) Iniciar psicoterapia estruturada e reavaliar introdução de 
+medicamentos. 
+(B) Reforçar medidas de suporte e programar reavaliação em 
+curto prazo. 
+(C) Iniciar antidepressivo seguro na gestação e realizar 
+encaminhamento especializado. 
+(D) Ajustar rotina do pré-natal e intensificar orientações 
+comportamentais. ##### 
+{108} 
+Gestante, 17 anos de idade, primigesta, com 30 semanas e  
+4 dias, procura a maternidade relatando perda de líquido pela 
+vagina associada a contrações uterinas rítmicas. Refere boa 
+movimentação fetal. Há cinco dias, foi internada por trabalho 
+de parto pré-termo, recebendo tocolise e esquema completo 
+de betametasona 12 mg em duas doses. A investigação para 
+infecção materna, incluindo cultura para estreptococo do 
+grupo B foi negativa. Ao exame físico, apresenta bom estado 
+geral, afebril, dolorosa durante contrações; FC materna de  
+98 bpm, PA de 124×78 mmHg, altura uterina de 28 cm, 
+apresentação cefálica; batimentos cardíacos fetais de  
+156 bpm com variabilidade preservada. Dinâmica uterina com  
+3 contrações fortes, 45 segundos cada, a cada 10 minutos. Ao 
+exame especular: saída ativa de líquido amniótico claro, sem 
+odor ou grumos, e toque com dilatação de 4 cm. 
+Cardiotocografia classificada como categoria I. Considerando 
+o quadro clínico e evolução obstétrica, qual medicação deve 
+ser prescrito neste momento? 
+ 
+(A) Antibiótico intraparto para estreptococo do grupo B. 
+(B) Retomar tocolítico para inibição de contrações. 
+(C) Sulfato de magnésio para neuroproteção fetal. 
+(D) Repetir ciclo de corticoterapia fetal. 
+##### 
+ 
+{109} 
+Mulher, 60 anos de idade, G3P3, menopausa há 10 anos, 
+procura atendimento devido à sangramento vaginal abrupto há 
+15 dias. Refere boa saúde geral, sem uso de terapia hormonal. 
+Ao exame físico, não há lesões cervicais visíveis. O útero é de 
+tamanho normal, sem dor à mobilização. Assinale a alternativa 
+que apresenta a conduta mais apropriada. 
+ 
+(A) Iniciar progestagênio oral e reavaliar em 3 meses. 
+(B) Solicitar histerossalpingografia para avaliar a cavidade 
+endometrial. 
+(C) Realizar histeroscopia ambulatorial e biópsia endometrial. 
+(D) Realizar ultrassonografia transvaginal e biópsia endometrial 
+se endométrio ≥ 4 mm. 
+##### 
+ 
+{110} 
+Gestante de 12 semanas, negra, 31 anos de idade, G2P1A0, 
+assintomática, comparece à consulta de pré-natal. Os exames 
+IgG e IgM são positivos para Citomegalovírus (CMV). A 
+paciente está preocupada com o significado destes exames. 
+Assinale a alternativa que apresenta as informações e 
+orientações corretas para a paciente. 
+ 
+(A) O acometimento fetal pelo CMV só ocorre na fase aguda 
+da doença.  
+(B) O ganciclovir deve iniciar tão logo a mãe tenha o 
+diagnóstico de infecção aguda  
+(C) Seu afastamento do cuidado das crianças na enfermaria 
+de pediatria está indicado. 
+(D) O tratamento desta gestante com valganciclovir deverá ser 
+iniciado o mais rápido possível. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 25 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{111} 
+Gestante com 18 semanas de gestação, 38 anos de idade, obesa, G2P1C1, comparece à consulta de rotina de pré-natal. Após 
+diagnóstico de diabetes melito gestacional com glicemia do primeiro trimestre da gravidez de jejum de 102 mg/dL, recebeu 
+orientações quanto à alimentação e atividade física, visando controle glicêmico, e foi solicitado perfil glicêmico domiciliar, conforme 
+tabela apresenta a seguir: 
+ 
+Perfil glicêmico domiciliar 
+Jejum 
+2 horas pós-café da manhã 
+2 horas pós-almoço 
+2 horas pós-jantar 
+92 mg/dL 
+140 mg/dL 
+127 mg/dL 
+131 mg/dL 
+87 mg/dL 
+124 mg/dL 
+136 mg/dL 
+120 mg/dL 
+98 mg/dL 
+117 mg/dL 
+122 mg/dL 
+122 mg/dL 
+93 mg/dL 
+142 mg/dL 
+118 mg/dL 
+117 mg/dL 
+105 mg/dL 
+155 mg/dL 
+162 mg/dL 
+159 mg/dL 
+88 mg/dL 
+110 mg/dL 
+113 mg/dL 
+121 mg/dL 
+ 
+Diante do perfil apresentado pela paciente, assinale a conduta correta referente ao tratamento. 
+ 
+(A) Orientar quanto aos níveis glicêmicos dentro do alvo terapêutico e manter seguindo as orientações nutricionais. 
+(B) Reformular orientações nutricionais com redução da quantidade diária de calorias e carboidratos, objetivando perda de peso 
+corporal. 
+(C) Indicar tratamento farmacológico e prescrever metformina oral na dose de 1 g/dia. 
+(D) Indicar tratamento farmacológico e iniciar insulina humana na dosagem de 0,3 UI/kg/dia. 
+##### 
+ 
+{112} 
+Primigesta, 30 anos de idade, com 34 semanas gestacionais, procura o pronto atendimento da maternidade de risco habitual por 
+não sentir movimentos fetais há 6 horas. Nega tabagismo, etilismo, faz uso de sulfato ferroso e nega uso de drogas ilícitas. Nega 
+contrações e perdas vaginais. Ao exame físico, apresenta bom estado geral, corada, hidratada, PA de 120×75 mmHg e FC de  
+88 bpm. Dinâmica uterina ausente. Frequência cardíaca fetal de 140 bpm. O seguinte exame foi realizado: 
+ 
+ 
+ 
+Com base no caso descrito, assinale a alternativa que apresenta a melhor conduta. 
+ 
+(A) Solicitar um perfil biofísico fetal. 
+(B) Internação para avaliação diária da vitalidade. 
+(C) Internação para indução/estímulo ao parto. 
+(D) Tranquilizar a gestante e alta hospitalar. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 26 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{113} 
+Mulher, 32 anos de idade, nuligesta, e marido de 33 anos de 
+idade, desejam engravidar. Referem relacionamento sexual 
+frequente há 2 anos, sem método contraceptivo. Ela apresenta 
+irregularidade menstrual desde a menarca, com ciclos de  
+45 a 90 dias, fluxo menstrual escasso e sem dismenorreia. Ao 
+exame físico, a paciente apresenta acne de grau II em face, 
+índice de Ferriman de 9, IMC de 22 kg/m2, medida da cintura 
+de 85 cm e PA de 110×70 mmHg.  
+ 
+• Exames laboratoriais:  
+FSH: 5 mUl/mL (ref.: < 12 mUI/mL) 
+Prolactina: 15 ng/dL (ref.: < 29 ng/mL) 
+TSH: 2 µUI/mL (ref.: 0,45 a 4,5 µU/mL) 
+Testosterona total: 70 ng/dL (ref.: 2,4 a 37 ng/dL) 
+17-OH progesterona: 125 ng/dL (ref.: < 200 ng/dL) 
+ 
+Ultrassonografia pélvica com útero normal e ovários com 
+volume de 12 cm³ e 15 cm³, sem massas anexiais. 
+Histerossalpingografia com trompas pérvias bilateral. Marido 
+com espermograma dentro da normalidade. Segundo as 
+recomendações das Sociedades Internacionais de 2023, qual 
+a melhor conduta para este casal? 
+ 
+(A) Monitorização da ovulação de ciclo espontâneo para 
+orientar coito natural. 
+(B) Indução da ovulação com inibidor da aromatase e coito 
+natural. 
+(C) Monitorização da ovulação e inseminação intrauterina.  
+(D) Realizar inicialmente a propedêutica mínima da infertilidade. 
+##### 
+ 
+{114} 
+Mulher, 20 anos de idade, queixa-se de pele oleosa e acne em 
+face, aumento de pilificação. Manifesta desejo de método 
+contraceptivo, porém não quer tomar pílulas. Apresenta ciclos 
+menstruais irregulares com intervalos de 35 a 160 dias, desde 
+a menarca. Ao exame físico, apresenta PA de 120×80 mmHg, 
+IMC de 29 kg/m2, medida de cintura de 90 cm, estadiamento 
+de Tanner M5 e P5, genitália externa púbere e normal, acne 
+grau 3, Índice de Ferriman: 14 e acantose nigricans em região 
+axilar.  
+ 
+• Exames laboratoriais: 
+Teste de tolerância à glicose 120 minutos: 140 mg/dL 
+Colesterol: 195 mg/dL 
+HDL: 34 mg/dL, 
+LDL: 163 mg/dL 
+Triglicerídeos: 160 mg/dL 
+TSH, prolactina e 17-OH progesterona normais  
+ 
+Além das orientações para modificação dos hábitos de vida 
+com dieta e exercício físico, qual a melhor conduta neste caso 
+clínico? 
+ 
+(A) Espironolactona, DIU hormonal, Metformina  
+(B) Espironolactona, DIU de cobre, Mio Inositol  
+(C) Acetato de ciproterona em baixa dose e DIU hormonal  
+(D) Acetato de ciproterona em baixa dose e DIU de cobre. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{115} 
+Criança, 7 anos de idade, queixa-se de dor na região da vulva 
+há cerca de 2 semanas. A mãe notou presença de corrimento 
+vaginal amarelado na roupa íntima. Nega outras queixas, 
+doenças associadas ou uso de medicamentos. Ao exame 
+físico, peso e estatura no percentil 75, estadiamento de Tanner 
+- M1 e P1. A genitália externa pode ser visualizada na imagem 
+a seguir:  
+ 
+ 
+ 
+Com base no caso descrito, assinale a alternativa que 
+apresenta o provável diagnóstico. 
+ 
+(A) Vulvovaginite inespecífica.  
+(B) Candidíase. 
+(C) Infestação por oxiurose. 
+(D) Vaginite bacteriana. 
+##### 
+ 
+{116} 
+Em consulta, adolescente de 14 anos de idade, acompanhada 
+e com o consentimento da mãe, manifesta desejo de 
+contracepção segura. O namorado tem 15 anos e o casal está 
+junto há mais de um ano. Teve sexarca há dois meses e utiliza 
+preservativo feminino. A menarca ocorreu aos 11 anos, 
+apresenta ciclos menstruais regulares e nega dismenorreia. 
+Ao exame físico, a paciente apresenta PA de 120×70 mmHg, 
+IMC de 22 kg/m2, estadiamente de Tanner M5 e P5, genitália 
+externa normal e púbere. Qual a melhor orientação para esta 
+adolescente, segundo o Estatuto da Criança e da 
+Adolescência (ECA)? 
+ 
+(A) Exigir a presença do pai na consulta  
+(B) Notificar ao Conselho Tutelar  
+(C) Prescrever contracepção segura. 
+(D) Orientar a adolescente a não manter relações sexuais. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 27 ---
+
+Processo Seletivo aos Programas de Residência Médica –Áreas Básicas e de Acesso Direto – Edital COREME/FMBRU/RM Nº 01/2025 – PROVA AD1 
+{117} 
+Criança, 7 anos de idade, acompanhada por responsável 
+legal, em consulta de rotina, detectou-se início do 
+desenvolvimento de mamas e pelos há um ano. Nega 
+sangramento vaginal. Não há informações sobre a estatura 
+dos pais biológicos. Ao exame físico, apresenta peso e altura 
+no percentil 7, mamas M2, pelos P4. Com base no caso 
+descrito, assinale a alternativa que apresenta os exames 
+necessários 
+a 
+serem 
+solicitados 
+para 
+a 
+elucidação 
+diagnóstica. 
+ 
+(A) FSH, TSH, prolactina, estradiol, cortisol e idade óssea. 
+(B) FSH, LH, TSH, prolactina, estradiol e 17-OH progesterona. 
+(C) Idade óssea, FSH, LH, S-DHEA, testosterona e 17-OH 
+progesterona. 
+(D) Não há necessidade de investigação. 
+##### 
+ 
+{118} 
+Adolescente, 16 anos de idade, primigesta, 33 semanas de 
+gestação datada pelo ultrassom do primeiro trimestre. 
+Comparece ao pronto atendimento com queixa de cefaleia há 
+2 horas. Refere boa movimentação fetal e nega contrações 
+uterinas e perdas vaginais. Nega doenças prévias. Ao exame 
+físico, apresenta PA de 160×110 mmHg, mantida em 
+reavaliação após 20 minutos. Altura uterina de 32 cm, 
+dinâmica ausente e 150 batimentos cardíacos fetal por minuto. 
+Cardiotocografia: feto ativo.  
+ 
+• Exames laboratoriais:  
+Urina tipo 1: proteinúria ausente 
+TGO/AST: 76,0 U/L 
+Hb: 13,2g/dL 
+Plaquetas: 233.000mm3 
+Bilirrubina total: 0,12mg/dL 
+Cr: 0,7mg/dL 
+ 
+Assinale a alternativa que apresenta o possível diagnóstico. 
+ 
+(A) Pré-eclâmpsia. 
+(B) Hipertensão transitória. 
+(C) Hipertensão arterial crônica. 
+(D) Hipertensão gestacional 
+##### 
+ 
+{119} 
+Mulher, 32 anos de idade, G4P4A0, com diagnóstico 
+histológico de carcinoma espinocelular do colo uterino, 
+estágio IB1 (FIGO). Assinale a alternativa que apresenta a 
+proposta terapêutica mais adequada para a paciente. 
+ 
+(A) Histerectomia radical + salpingooforectomia bilateral + 
+linfadenectomia pélvica e/ou para-aórtica. 
+(B) Esquema de radioterapia externa / quimioterapia + 
+Braquiterapia de alta dose. 
+(C) Histerectomia radical + salpingectomia bilateral + 
+linfadenectomia pélvica e/ou para-aórtica. 
+(D) Quimioterapia neoadjuvante seguida de histerectomia 
+radical + linfadenectomia pélvica e/ou para-aórtica. 
+##### 
+ 
+ 
+ 
+ 
+ 
+{120} 
+Mulher, 35 anos de idade, queixa-se de mastalgia há 2 meses. 
+Ao exame físico, identifica-se nódulo de 3 cm, móvel, muito 
+doloroso à palpação. Realizou exame de ultrassonografia 
+mamária com o seguinte achado: 
+ 
+ 
+ 
+Assinale a alternativa que indica a categoria BI-RADS® da 
+paciente e a conduta adequada, respectivamente. 
+ 
+(A) 4a por ser palpável e punção aspirativa por agulha fina. 
+(B) 4a por ser palpável e core-biopsy. 
+(C) 2 e seguimento, já que o achado não justifica a mastalgia. 
+(D) 2 e punção aspirativa por agulha fina já que paciente 
+sintomática. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 28 ---
+

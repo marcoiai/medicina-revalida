@@ -1,0 +1,2275 @@
+
+
+--- PAGE 1 ---
+
+ 
+TIF 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 061/2025  
+ 
+Técnico de Informática 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo TIF. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 4 horas. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo 
+fiscal. O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 15 h. Não haverá tempo 
+adicional para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste concurso. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 60 questões objetivas, 
+com 5 alternativas cada, e 1 questão dissertativa. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha as folhas de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essas folhas 
+não serão substituídas em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução das folhas de respostas acompanhadas deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de respostas, bem 
+como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+ 
+
+
+--- PAGE 2 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RASCUNHO 
+ 
+ 
+NÃO SERÁ 
+CONSIDERADO NA 
+CORREÇÃO 
+
+
+--- PAGE 3 ---
+
+    Concurso Edital RH nº 061/2025 – Técnico em Informática 
+ 
+Texto para as questões 01 e 02 
+ 
+ “The Handmaid’s Tale” reveals the limits of dystopian 
+television 
+ 
+ 
+In the Spring of 2017 a 
+troubling vision of America 
+arrived on television screens. 
+Based on Margaret Atwood’s 
+novel 
+of 
+1985, 
+“The 
+Handmaid’s Tale” depicted a 
+country 
+that 
+had 
+been 
+transformed into Gilead, a theocratic dictatorship. Women 
+were stripped of their civil rights. Those who were fertile were 
+enslaved as “handmaids”: childbearing vessels for the ruling 
+class. 
+The show had its premiere on Hulu, a streaming service, 
+not long after Donald Trump’s inauguration, when people 
+feared democratic backsliding and the creep of religious 
+fundamentalism into politics. As the president stacked the 
+courts with anti-abortion judges and called for the defunding 
+of Planned Parenthood, a reproductive-health organisation, 
+some exclaimed that Ms Atwood had produced not a work of 
+fiction, but a prophecy. 
+The handmaids’ costume became a visual metaphor of 
+resistance: protesters dressed in red robes and white caps 
+stood outside statehouses across America. Critics breathlessly 
+described the adaptation as the defining artwork of the Trump 
+era. “The Handmaid’s Tale” went on to win eight Emmy awards 
+for its first season and became the first streaming show to win 
+Outstanding Drama Series. 
+Six seasons later, it will come to an end on May 27th. 
+The final season began not long after Mr Trump re-entered the 
+White House. Yet the fervour around the show has dissipated; 
+after a peak in 2021, viewership has declined. It no longer 
+dominates the public discussion. Why? 
+One reason is that “The Handmaid’s Tale” is not, in fact, 
+a mirror of the Trump era. Though there are parallels—an early 
+episode showed an attack on the Capitol, three years before 
+the real one—Mr Trump has not instituted compulsory rape or 
+the death penalty for dissenters. 
+Another is that the show has suffered by extending the 
+story beyond its source material. After using up the plot of Ms 
+Atwood’s slim novel in the first season, the show’s writers faced 
+the tricky task of keeping the story compelling and the stakes 
+high. June (Elisabeth Moss, pictured), the protagonist, has 
+been trapped in a cycle of capture, escape and recapture that 
+has strained the story’s credibility and tested viewers’ 
+patience. 
+Resistance fatigue has also played a role. “The draw of 
+the initial season was that it was so apocalyptic,” says Karen 
+Ritzenhoff, an academic. Yet outrage is difficult to sustain, on 
+screen and off it. Mr Trump remains unpopular, but his second 
+term has not seen protests on the same scale as in 2017, when 
+some 4m Americans took part in the Women’s March. 
+The show’s main problem, however, is that it is 
+unrelentingly bleak. One critic has called it a “hellhole” of “utter 
+despair and soul-destroying misery”. Another said she had an 
+anxiety attack after watching. For those concerned about the 
+future of American democracy, “The Handmaid’s Tale” offers 
+no respite. 
+Viewers may prefer the forthcoming adaptation of “The 
+Testaments”, its sequel, instead. Watching people struggle 
+under a totalitarian regime does not make for an enjoyable 
+evening. Watching that regime collapse may be rather more 
+thrilling. 
+ 
+The Economist, May 2025. 
+{01} 
+Qual das alternativas a seguir apresenta a principal razão 
+apontada pelo texto para a perda de relevância da série The 
+Handmaid’s Tale ao longo do tempo? 
+(A) O aumento da popularidade de outras séries distópicas, 
+que abordam temas semelhantes com mais leveza. 
+(B) A mudança de plataforma de exibição, que reduziu o 
+alcance da série para o público americano. 
+(C) A repetição de enredos e a falta de verossimilhança nas 
+temporadas posteriores ao material original. 
+(D) A crescente popularidade de Donald Trump, que minou o 
+impacto crítico da série. 
+(E) A transformação do gênero distópico em um espaço de 
+entretenimento leve, sem espaço para críticas sociais 
+profundas. 
+##### 
+ 
+{02} 
+A expressão “The Handmaid’s Tale” tornou-se um “hellhole” de 
+“utter 
+despair 
+and 
+soul-destroying 
+misery”, sendo 
+predominantemente um exemplo de qual figura de linguagem? 
+(A) Metonímia – por representar o sofrimento das mulheres por 
+meio do nome da obra.  
+(B) Hipérbole – por exagerar intencionalmente o sofrimento 
+causado pela série. 
+(C) Eufemismo – por suavizar a experiência negativa da 
+audiência. 
+(D) Antítese – por contrastar esperança e desespero nas 
+experiências dos personagens. 
+(E) Ironia – por utilizar elogios de forma a expressar críticas à 
+produção.  
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+    Concurso Edital RH nº 061/2025 – Técnico em Informática 
+ 
+Texto para as questões de 03 a 06 
+ 
+In Germany, the Nazis invaded people’s dreams 
+ 
+ 
+In 1933, after 
+Adolf Hitler had taken 
+power, 
+a 
+German 
+housewife dreamed 
+that her stove was 
+snooping on her. “It 
+said everything we’d 
+said 
+against 
+the 
+regime, every joke we’d told” to an eavesdropping 
+stormtrooper. “God, I thought, what is it going to say next? All 
+my little comments about Goebbels?” The woman’s fears about 
+privacy and Hitler’s chief propagandist were recorded by 
+Charlotte Beradt, a Jewish journalist who collected the dreams 
+of Germans under fascism. 
+Three decades earlier Sigmund Freud had posited that 
+dreams reveal unconscious thoughts. To Beradt, they 
+disclosed truths about authoritarianism that no one would dare 
+say aloud. Some of her subjects were nervous to share their 
+stories. Half a dozen dreamed that it was forbidden to dream. 
+A businessman imagined that Goebbels visited his factory. “It 
+took me half an hour to get my arm raised, millimetre by 
+millimetre,” he recounted. As he struggled to salute, his spine 
+snapped. 
+Beradt collected dreams from more than 300 people 
+over several years, transcribing them in code. “Party” became 
+“family”; Hitler became “Uncle Hans”. She concealed the 
+records in bookbindings and smuggled them abroad. They 
+were published in Germany in 1966; an early English 
+translation went out of print. Newly translated, the remarkable 
+collection—which is unique in the canon of Holocaust literature 
+—may now find more readers. It arrives at a time when people 
+are more interested in the connection between sleep and well-
+being than ever before. 
+Beradt organises the material into types of dreams, 
+interweaving the accounts with her own trenchant analysis. A 
+man imagines sitting down to write a formal complaint against 
+the regime, but the page he sends in is blank—a dream 
+reflecting his inaction. An eye doctor pictures that he is 
+summoned to treat Hitler because “I was the only one in the 
+world who could; I was proud of myself for that, and felt so 
+ashamed of my pride that I started crying”—a dream suffused 
+with guilt. A young woman envisions having to produce identity 
+papers and she is desperate to prove that she is not Jewish—
+a dream of racial paranoia. 
+Many of the dreams are eerily prophetic. The doctor 
+dreams about Nazi militiamen knocking out hospital windows 
+four years before Kristallnacht, the “night of broken glass” 
+(pictured on previous page), when stormtroopers destroyed 
+buildings 
+including 
+synagogues 
+and 
+Jewish-owned 
+businesses. The woman dreams of hiding under “a big pile of 
+dead bodies”. It was the early 1930s, years before the world 
+wouldlearn of the mass murder committed in concentration 
+camps. 
+The dreams of Germans in the resistance are different. 
+The night before her execution, Sophie Scholl, a 21-year-old 
+activist, dreamed that she was carrying a baby up a mountain 
+to be baptised. Before she could get to the church, a crevasse 
+cracked open on her path; she was able to set the baby down 
+before she disappeared into the chasm. Scholl saw this as a 
+metaphor for the fight against fascism. “The child is our idea, 
+and it will prevail despite all obstacles,” she explained. “We 
+can prepare the way for it, even though we will have to die for 
+it before its victory.” 
+Beradt puts Jewish dreamers in their own section as 
+their dreams, “sharpened by the acute threat they were 
+under...seem downright clairvoyant”. In 1935, a housewife 
+dreamed that “We shouldn’t go back to our homes, something 
+was going to happen.” She wanders from building to building, 
+seeking refuge and finding none. As Beradt notes, the dream 
+anticipated events to come—the displacement of Jews in 
+hiding during the “final solution”. 
+Robert Ley, a high-ranking Nazi, suggested in 1938 that 
+the only Germans with any privacy were those sleeping. He 
+under-rated the regime’s power. Dreams reflect and refract an 
+individual’s experience, shaped as it is by policy and the public 
+mood. Even in sleep, the Reich occupied the minds of its 
+subjects. 
+The Economist, May 2025. 
+ 
+{03} 
+No trecho “They disclosed truths about authoritarianism that no 
+one would dare say aloud” (2º parágrafo), o pronome “they” 
+refere-se à qual termo do parágrafo anterior? 
+ 
+(A) Os relatos codificados por Beradt. 
+(B) Os temores expressos pelas vítimas do regime.  
+(C) As ideias propostas por Freud sobre os sonhos. 
+(D) As histórias secretamente compartilhadas com a autora. 
+(E) Os sonhos coletados por Charlotte Beradt. 
+#####
+ 
+{04} 
+No trecho “She was proud of herself for that, and felt so 
+ashamed of her pride that she started crying”, a combinação 
+entre orações expressa uma relação de: 
+ 
+(A) Duas coordenadas seguidas de uma subordinada causal. 
+(B) Uma coordenação aditiva seguida de uma subordinação 
+consecutiva. 
+(C) Uma adversativa oculta seguida de uma coordenada 
+explicativa. 
+(D) Duas orações subordinadas temporais 
+(E) Uma coordenada alternativa seguida de uma subordinada 
+condicional. 
+#####
+ 
+{05} 
+Qual das alternativas a seguir apresenta a reformulação que 
+expressa, com mais precisão, o conteúdo da frase: “Newly 
+translated, the remarkable collection—which is unique in the 
+canon of Holocaust literature—may now find more readers”? 
+ 
+(A) A recent translation of the work, notable within Holocaust 
+studies, is expected to generate broader academic 
+interest. 
+(B) With a new translation, this contribution to Holocaust 
+literature could reach a wider audience. 
+(C) The text, now rewritten, might stand out as one of the most 
+influential works about the Holocaust. 
+(D) A fresh version of the collection, considered a rare piece 
+within Holocaust literature, has the potential to attract more 
+readers. 
+(E) Following its new English edition, the historical volume aims 
+to gain visibility in literary and historical circles. ##### 
+
+
+--- PAGE 5 ---
+
+    Concurso Edital RH nº 061/2025 – Técnico em Informática 
+ 
+{06} 
+Com base no trecho “Dreams reflect and refract an individual’s 
+experience, shaped as it is by policy and the public mood” (8º 
+parágrafo) e no contexto em que ele aparece, é possível inferir 
+que: 
+ 
+(A) O espaço onírico é uma forma de resistência ativa, onde o 
+sujeito pode escapar temporariamente da opressão do 
+regime. 
+(B) A 
+experiência 
+subjetiva 
+expressa 
+nos 
+sonhos 
+é, 
+inevitavelmente, influenciada pelo ambiente político e 
+cultural em que o indivíduo vive. 
+(C) Sonhar permite que os indivíduos se mantenham imunes 
+às pressões sociais e conservem intacta sua identidade 
+pessoal. 
+(D) Os sonhos funcionam como evidência de que os 
+indivíduos 
+internalizam, 
+passivamente, 
+a 
+ideologia 
+dominante sem qualquer consciência. 
+(E) O regime totalitário falha em alcançar o inconsciente dos 
+cidadãos, permitindo que os sonhos permaneçam livres de 
+censura. ##### 
+ 
+ 
+Texto para as questões de 07 a 10 
+ 
+Trem de ferro 
+ 
+A infância era ferroviária. Meninos de meu tempo iam ser 
+maquinistas. Pé descalço no calor do trilho. Cabeleira de 
+capim esvoaçando. Pontilhões me enternecendo. Os êmbolos 
+poéticos do espaço ferroviário. Minha fantasia não era morada 
+de entes sobrenaturais. Máquinas eram sobrenaturais. Sonhos 
+engrenados pelo homem cabiam em nossa medida. Entro no 
+túnel com o sobressalto musical de quem começa um 
+improviso. A penumbra, menos inteligível, mais alusiva que a 
+luz. Divaga nessas entranhas um divertimento perverso de 
+túmulo. Mas a boca de saída berra pelo sol. 
+A ferrovia tornava possível o possível. Materializava o menino. 
+Os trilhos faziam um caminho à perplexidade. Prometiam 
+convivência, exaltação, aromas, cidades, canções e alguma 
+solidão admirável.  
+Existi por antecipação. Olhava carregador, operário, menino 
+do pastel. Pasmado, erguia a cara para o chefe do trem. O 
+sino repicava à entrada do monstro. Passava um tempão 
+espiando o desvio automático. Me falava de outro mundo o 
+pica-pau do telégrafo. Trocaria minhas moedas pela lanterna 
+que o gigante de impermeável esburacado carregava na tarde 
+de aguaceiro. Meus dedos roçavam as garres do limpa-trilhos. 
+Não é só ver pra viver. Sentir na pele a locomotiva. Sujar-me 
+de graxa e carvão. Fui foguista. Guarita. Engate. Luz na curva. 
+Sem saber até hoje decompor sortilégio. Quase consumido, 
+subo os vagões sem dizer nada, encantado ainda.  
+ 
+Jornal do Brasil, 11/07/1990. 
+ 
+CAMPOS, Paulo Mendes. Minhas janelas. Companhia das Letras. 2025. 
+ 
+{07} 
+Com base em suas características, o texto pode ser 
+classificado como: 
+ 
+(A) Relato técnico, por meio de descrição de função das 
+ferrovias. 
+(B) Artigo de opinião, com posicionamento crítico e 
+argumentos racionais. 
+(C) Resenha, com predominância de informações factuais. 
+(D) Crônica, marcada por lirismo e evocação da infância. 
+(E) Editorial, destinado a persuadir o leitor sobre políticas 
+públicas. ##### 
+{08} 
+O texto apresenta-se como um exercício de memória afetiva, 
+por meio do qual a narrativa 
+ 
+(A) tem como finalidade orientar sobre o funcionamento dos 
+trens e seus mecanismos. 
+(B) sugere, de forma indireta, uma crítica às condições de 
+trabalho nas ferrovias brasileiras. 
+(C) revela distanciamento emocional diante da modernidade 
+representada pelas máquinas. 
+(D) destaca com objetividade elementos passionais sobre o 
+sistema ferroviário nacional. 
+(E) recria poeticamente a infância com imagens sensoriais 
+ligadas ao universo dos trens. 
+##### 
+ 
+{09} 
+A expressão “máquinas eram sobrenaturais” revela o emprego 
+de 
+ 
+(A) metáfora, ao atribuir caráter mágico às máquinas. 
+(B) metonímia, ao usar “máquinas” para designar o progresso. 
+(C) eufemismo, para suavizar o medo da tecnologia. 
+(D) antítese, por contrapor máquinas e sobrenatural. 
+(E) ironia, ao criticar implicitamente a ingenuidade infantil. 
+##### 
+ 
+{10} 
+O trecho “Fui foguista. Guarita. Engate. Luz na curva” (3o 
+parágrafo) expressa um movimento de 
+ 
+(A) desconexão entre sujeito e ambiente, revelando tédio 
+diante da monotonia ferroviária. 
+(B) fusão entre sujeito e paisagem ferroviária, compondo 
+simbiose com a máquina. 
+(C) enumeração cronológica de cargos administrativos 
+ferroviários, com foco na estrutura gerencial. 
+(D) alternância entre primeira e terceira pessoa, que rompe a 
+unidade enunciativa. 
+(E) intertextualidade 
+entre 
+textos 
+técnicos 
+sobre 
+o 
+funcionamento dos trens. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+    Concurso Edital RH nº 061/2025 – Técnico em Informática 
+ 
+Tirinha para as questões 11 e 12 
+ 
+ 
+Laerte. Folha de São Paulo. 
+{11} 
+O trecho “Não curto coisas que funcionam sem falhas” apresenta, predominantemente: 
+ 
+(A) Emprego de registro técnico e apresentação de conceito operacional. 
+(B) Uso de linguagem coloquial e expressão de opinião da personagem. 
+(C) Recurso metalinguístico e descrição do funcionamento da linguagem. 
+(D) Formulação lógica de uma hipótese e divulgação de dados empíricos. 
+(E) Estrutura impessoal e manifestação de neutralidade informativa.  
+#####
+ 
+{12} 
+Na tirinha, constrói-se uma sequência discursiva que 
+ 
+(A) expressa, com ironia, a dificuldade da personagem em lidar com tecnologias. 
+(B) relata a insatisfação com a falta de peças tecnológicas acessíveis. 
+(C) desenvolve uma crítica direta à ausência de escolas técnicas no país. 
+(D) mostra a valorização das máquinas modernas por seu silêncio operacional. 
+(E) revela o funcionamento técnico de dispositivos ilustrativamente. 
+##### 
+Texto para as questões de 13 a 15 
+ 
+Amor Fati: o conceito de Nietzsche que virou febre nas redes 
+ 
+Explicar resumidamente qualquer conceito filosófico já 
+parece, por si só, uma tarefa imprudente. Isso se acentua 
+quando o autor da ideia é ninguém menos que o filósofo alemão 
+Nietzsche. Isso se deve, sobretudo, ao fato de que não escreve 
+como um filósofo sistemático. Ele rejeita os tratados acadêmicos 
+e adota um estilo aforístico, poético e provocador. Seus textos 
+mesclam filosofia, poesia, crítica cultural, psicologia e até ironia. 
+Essa multiplicidade de abordagens torna suas ideias ambíguas 
+e abertas a múltiplas interpretações. É possível debater durante 
+horas apenas um de seus conceitos. Não à toa, suas ideias, 
+muitas vezes fragmentadas, continuam sendo tema de teses e 
+dissertações mais de um século após sua morte. Uma de suas 
+concepções voltou a cativar a audiência nas redes sociais 
+recentemente. Desta vez, trata-se do conceito “Amor fati”, 
+traduzido como “amor ao destino”.  A ideia aparece no livro A 
+Gaia Ciência:  “Quero cada vez mais aprender a ver como belo 
+aquilo que é necessário nas coisas. Amor-fati [amor ao destino]: 
+seja este, doravante, o meu amor!”  
+Uma primeira interpretação diz respeito à aceitação da 
+imanência, algo que tem em si próprio o seu princípio e o seu 
+fim. De forma mais vulgar, uma das perguntas que se pode 
+fazer antes de entrar no sentido do conceito é: como é possível 
+aceitar a vida, dar sentido a ela, sabendo de seu fim, diante do 
+vazio?  A ideia, portanto, mergulha na aceitação radical da vida 
+tal como ela é, com suas dores, perdas, alegrias e 
+imperfeições, sem ressentimento, negação ou arrependimento. 
+ 
+Redação Bravo! Revista Bravo. Junho de 2025. Adaptado. 
+ 
+{13} 
+Com base no texto, o conceito de Amor fati está relacionado a: 
+ 
+(A) Um ideal cristão de resignação e esperança em um futuro 
+melhor. 
+(B) Uma tentativa de negar o sofrimento da existência por meio 
+do otimismo ingênuo. 
+(C) Uma aceitação profunda da vida em sua totalidade, sem 
+arrependimento ou negação. 
+(D) Uma filosofia de negação do corpo e de valorização da 
+metafísica. 
+(E) Um modelo científico de superação das falhas humanas 
+pela razão lógica. 
+#####
+ 
+{14} 
+A expressão “não à toa”, no trecho “Não à toa, suas ideias […] 
+continuam sendo tema de teses”, introduz 
+ 
+(A) um contra-argumento que contesta o uso das redes 
+sociais como fonte filosófica. 
+(B) um juízo de valor negativo sobre os textos fragmentados 
+do filósofo. 
+(C) uma justificativa para a permanência do interesse pelas 
+ideias de Nietzsche. 
+(D) uma explicação sobre o conceito de imanência como 
+chave de leitura. 
+(E) um recurso de ironia que anula o valor das interpretações 
+correntes.##### 
+
+
+--- PAGE 7 ---
+
+    Concurso Edital RH nº 061/2025 – Técnico em Informática 
+ 
+{15} 
+No trecho “Uma primeira interpretação diz respeito à 
+aceitação da imanência”, o termo “imanência” é empregado 
+com o sentido de: 
+ 
+(A) Realidade que se basta em si mesma, sem depender de 
+algo fora dela. 
+(B) Fé em uma ordem superior que rege os acontecimentos da 
+vida. 
+(C) Tendência a idealizar a vida como projeção de um além-
+mundo. 
+(D) Busca por causas divinas como explicação para a 
+existência. 
+(E) Noção de que a verdade está além do que se pode 
+compreender.  ##### 
+ 
+ 
+{16} 
+Durante seu mandato, José Mujica não se mudou para a 
+residência presidencial, como costumam fazer os chefes de 
+Estado ao redor do mundo. Preferiu continuar, junto com a 
+esposa, vivendo em sua modesta casa em um sítio nos 
+arredores de Montevidéu, sem empregados domésticos, e 
+com pouca segurança. O casal nunca teve filhos. A isso, 
+soma-se seu estilo informal de se vestir, o hábito de dirigir um 
+velho Fusca azul-celeste de 1987, e a decisão de doar grande 
+parte do seu salário, o que lhe rendeu o título na imprensa de 
+"o presidente mais pobre do mundo". Mas Mujica, conhecido 
+em seu país pelo apelido de "Pepe", sempre rejeitou esse 
+rótulo. "Dizem que sou um presidente pobre. Não, eu não sou 
+um presidente pobre", disse em entrevista à BBC News 
+Mundo, serviço em espanhol da BBC. "Pobres são os que 
+querem sempre mais, que não se satisfazem com nada", 
+afirmou. "Esses são pobres, porque entram em uma corrida 
+infinita. E não terão tempo suficiente na vida." 
+BBC News Brasil 
+ 
+Em relação ao texto apresentado, é correto afirmar que, para 
+Pepe Mujica, a pobreza estaria relacionada à 
+ 
+(A) incapacidade de aproveitar bem o tempo e à ganância 
+material. 
+(B) ausência de saúde física, mental e espiritual. 
+(C) ingratidão relativa aos ganhos e à ausência de ganância 
+material. 
+(D) tendência de acumulação de bens e valores e à doença. 
+(E) ausência de filhos e à ganância material. ##### 
+ 
+{17} 
+ 
+Folha de São Paulo 
+ 
+Considerando a charge e seus conhecimentos, é correto 
+afirmar que o uso de celulares na educação básica foi 
+considerado prejudicial para 
+ 
+(A) o meio ambiente, contribuindo para o aumento do 
+consumo de energia. 
+(B) a saúde física das crianças, causando incremento no 
+número de casos de tendinite. 
+(C) a saúde mental dos adolescentes, causando aumento no 
+número de casos de depressão. 
+(D) o processo pedagógico, gerando dificuldades cognitivas 
+percebidas a médio prazo. 
+(E) o processo cognitivo, impedindo a alfabetização de 
+crianças. 
+#### 
+ 
+{18} 
+A escritora Ana Maria Gonçalves foi a primeira mulher negra a 
+ser eleita para a Academia Brasileira de Letras no início de 
+julho de 2025. 
+ 
+ 
+ 
+Assinale a alternativa que apresenta a sua obra mais 
+conhecida e que inspirou o enredo da Escola de Samba 
+Portela no Carnaval 2024.  
+ 
+(A) Nebulosas. 
+(B) Um Defeito de Cor. 
+(C) Canção para Ninar Menino Grande. 
+(D) O Alegre Canto da Perdiz. 
+(E) Luanda, Lisboa, Paraíso. 
+##### 
+ 
+{19} 
+ 
+A respeito do Controlador Geral da USP, é correto afirmar que 
+ele é 
+ 
+(A) membro 
+do 
+Conselho 
+Universitário, 
+podendo 
+ser 
+plenamente substituído, em suas faltas ou ausências, pelo 
+Controlador-Geral Adjunto. 
+(B) eleito pelos membros do Conselho Universitário, dentre os 
+candidatos inscritos em chapas. 
+(C) escolhido pelo Reitor, mas deve ser aprovado pelo 
+Conselho Universitário. 
+(D) um professor Titular da USP, sendo essa a única exigência 
+para sua escolha. 
+(E) uma pessoa da comunidade, externa à USP, exercendo o 
+chamado controle externo. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+    Concurso Edital RH nº 061/2025 – Técnico em Informática 
+ 
+{20} 
+Paulo teve sua inscrição em concurso para a carreira docente 
+da USP indeferida pela Congregação de uma das Unidades. 
+Contra essa decisão, interpôs recurso, que foi levado ao órgão 
+recorrido para exercício eventual de juízo de retratação. 
+Mantida a decisão da Congregação, em nova votação, o 
+processo foi encaminhado à Secretaria Geral da USP e 
+incluído na pauta da Comissão de Legislação e Recursos 
+(CLR), 
+depois 
+de 
+ouvida 
+a 
+Procuradoria 
+Geral 
+da 
+Universidade. 
+Nos termos do Regimento Geral da USP, a decisão da CLR 
+tem caráter 
+ 
+(A) definitivo, não cabendo qualquer recurso contra seu 
+conteúdo. 
+(B) opinativo, cabendo a deliberação à Comissão de 
+Atividades Acadêmicas. 
+(C) opinativo, 
+cabendo 
+a 
+deliberação 
+ao 
+Conselho 
+Universitário. 
+(D) deliberativo, cabendo recurso ao Conselho Universitário. 
+(E) deliberativo, cabendo recurso ao Conselho Universitário, 
+com juízo de retratação eventual pela própria CLR. 
+##### 
+ 
+{21} 
+Na USP, as Unidades Universitárias podem ser designadas 
+como Escolas, Faculdades ou Institutos. Assinale a alternativa 
+que explica, nos termos do Regimento Geral da Universidade, 
+a distinção entre os três vocábulos. 
+ 
+(A) A utilização depende da tradição universitária europeia e da 
+tradução dos vocábulos para o português. 
+(B) Escolas é o vocábulo usado nas áreas biológicas, 
+Faculdades, nas humanidades e Institutos, nas exatas. 
+(C) A utilização depende da tradição universitária estadunidense 
+e da tradução dos vocábulos para o português. 
+(D) Os vocábulos são usados com funções similares e não 
+estabelecem hierarquia entre as Unidades Universitárias. 
+(E) Os vocábulos designam hierarquia entre as Unidades 
+Universitárias, em razão do nível de pesquisa que realizam, 
+sendo os Institutos as Unidades mais importantes. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{22} 
+Um agrônomo deseja plantar mudas de árvores para 
+contornar um terreno retangular plano descampado, de 
+dimensões 192 m por 372 m, em um parque público. Para isso, 
+deverá colocar uma muda de árvore em cada vértice do 
+terreno e utilizar sempre a mesma distância entre as mudas 
+consecutivas. A quantidade mínima de árvores a serem 
+plantadas é igual a 
+ 
+(A) 82. 
+(B) 86. 
+(C) 90. 
+(D) 94. 
+(E) 99. 
+##### 
+ 
+{23} 
+Considere os números de 5 algarismos diferentes que podem 
+ser formados com os algarismos 1, 2, 3, 4, 5, 6 e 7. A quantidade 
+de números que possuem o algarismo 7 é igual a 
+ 
+(A) 1280. 
+(B) 1420. 
+(C) 1800. 
+(D) 1940. 
+(E) 2230. 
+##### 
+ 
+{24} 
+Em um projeto interdisciplinar de uma escola, foi solicitado aos 
+alunos que construíssem um painel com 2304 pastilhas no 
+formato de triângulo de modo que a primeira linha tivesse 
+1 pastilha, a segunda linha tivesse 3 pastilhas, a terceira linha 
+tivesse 5 pastilhas e assim sucessivamente. O número de 
+linhas no referido painel é igual a 
+ 
+(A) 28. 
+(B) 32. 
+(C) 38. 
+(D) 42. 
+(E) 48. 
+##### 
+ 
+{25} 
+A função quadrática 𝑓𝑓: ℝ→ℝ é dada por 𝑓𝑓(𝑥𝑥) = 𝑎𝑎𝑥𝑥2 −3𝑥𝑥+ 𝑐𝑐  
+com 𝑎𝑎, 𝑐𝑐 números reais. 
+Assumindo que 𝑓𝑓(1) = −5  e  2𝑓𝑓(3) −𝑓𝑓(2) = 12,  o valor de 
+𝑎𝑎+ 3𝑐𝑐  será igual a 
+ 
+(A) −12. 
+(B) −10. 
+(C) −4. 
+(D) 6. 
+(E) 4. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+    Concurso Edital RH nº 061/2025 – Técnico em Informática 
+ 
+{26} 
+A conta de água de um condomínio deve ser paga até o quinto 
+dia útil de cada mês. Para pagamentos após o vencimento, é 
+cobrado juro de 0,4% por dia de atraso. Se a conta de um 
+morador for de R$ 610,00 e ele pagar essa conta com 20 dias 
+de atraso, o valor a ser pago é 
+ 
+(A) 658,80. 
+(B) 666,80. 
+(C) 679,80. 
+(D) 681,68. 
+(E) 692,80. 
+##### 
+ 
+{27} 
+Em um grupo de 5 pessoas, a probabilidade de haver alguma 
+coincidência de pessoas nascidas no mesmo mês do ano é: 
+ 
+(A)  
+51
+96 
+(B)  
+89
+144 
+(C)  
+91
+168 
+(D)  
+103
+183 
+(E)  
+107
+195 
+Note e adote: 
+Considere que existe um equilíbrio nos nascimentos em todos os 
+meses do ano. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{28} 
+Em um ambiente de escritório que utiliza aplicações do 
+Microsoft Office 365, integradas à internet, a correta 
+configuração e uso de recursos como sincronização de 
+arquivos, colaboração em tempo real e proteção de dados são 
+essenciais. Considerando o funcionamento da internet e os 
+serviços relacionados ao uso do Office 365 na nuvem, assinale 
+a alternativa que descreve, corretamente, um aspecto técnico 
+e prático relacionado ao uso de recursos on-line integrados ao 
+Microsoft Office 365. 
+ 
+(A) A utilização do OneDrive, como serviço de armazenamento 
+integrado ao Office 365, permite colaboração em tempo 
+real, mas exige que todos os arquivos estejam em formato 
+.zip para que o Word ou Excel possam editá-los via 
+navegador. 
+(B) Quando um documento do Word é compartilhado por link 
+via OneDrive, ele é automaticamente convertido em PDF, 
+o que impede a edição simultânea com outros usuários. 
+(C) A colaboração em tempo real no Excel Online só é possível 
+com planilhas que não contenham fórmulas ou gráficos, 
+pois esses recursos não são compatíveis com o modo on-
+line. 
+(D) O uso de coautoria no Office 365 permite que múltiplos 
+usuários editem um mesmo arquivo simultaneamente, 
+sendo necessário que o arquivo esteja salvo no OneDrive 
+ou SharePoint e que os usuários tenham permissões 
+adequadas. 
+(E) Para acessar arquivos do Word armazenados na nuvem, é 
+necessário instalar um complemento do navegador 
+chamado “Office Web Access”, sem o qual não é possível 
+visualizar os documentos. 
+##### 
+ 
+{29} 
+Ao revisar um documento extenso com diversas seções 
+numeradas e subtítulos, é necessário garantir a padronização 
+do conteúdo, facilitar a navegação e possibilitar a criação de 
+um sumário automático. 
+Com base nas funcionalidades do Microsoft Word 365, versão 
+em português, assinale a alternativa que descreve o 
+procedimento mais adequado para alcançar esse objetivo de 
+forma automática e estruturada. 
+(A) Usar o recurso “Marcadores” na aba “Inserir” para numerar 
+os títulos e subtítulos, aplicando formatação manual de 
+fonte e tamanho. 
+(B) Selecionar os títulos e usar a ferramenta “Classificar” da 
+aba “Referências” para organizá-los automaticamente no 
+índice do Word. 
+(C) Aplicar estilos predefinidos como “Título 1”, “Título 2” e 
+“Título 3”, que estruturam o texto hierarquicamente e 
+permitem a geração automática de sumários. 
+(D) Ativar o modo “Rascunho” e numerar os títulos com a tecla 
+Tab, criando marcadores personalizados para cada seção 
+do documento. 
+(E) Copiar e colar os títulos em uma nova página e aplicar a 
+função “Sublinhar”, que gera automaticamente links de 
+navegação entre as seções. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+    Concurso Edital RH nº 061/2025 – Técnico em Informática 
+ 
+{30} 
+Durante a criação de uma apresentação no PowerPoint 365, 
+um usuário adiciona múltiplas animações em diferentes 
+objetos de um mesmo slide (como títulos, imagens e caixas de 
+texto). Após aplicar os efeitos, deseja-se alterar a ordem em 
+que esses elementos são animados, sem removê-los. 
+ 
+Assinale a alternativa que apresenta o procedimento mais 
+adequado para reordenar as animações já aplicadas a objetos 
+em um slide. 
+ 
+(A) Acessar a guia “Design”, selecionar os objetos e aplicar 
+novamente os efeitos na ordem desejada. 
+(B) Acessar a guia “Animações”, clicar em “Painel de 
+Animação” e arrastar os efeitos para a nova ordem 
+desejada. 
+(C) Selecionar o slide no modo “Classificação de Slides” e usar 
+a opção “Reordenar Transições” no menu de contexto. 
+(D) Clicar com o botão direito sobre o slide e escolher 
+“Configurações de Slide”, onde é possível editar a ordem 
+das animações. 
+(E) Utilizar a função “Converter em Objeto Inteligente” e ativar 
+a reorganização automática na aba “Modo de Leitura”. 
+##### 
+ 
+{31} 
+Um usuário trabalha em uma planilha no Excel 365 em 
+português e deseja calcular, automaticamente, a quantidade 
+de dias entre duas datas inseridas em células diferentes. Por 
+exemplo, a data de início está na célula A2 e a data de término 
+está na célula B2, conforme imagem a seguir: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A fórmula que retorna, corretamente, o número de dias entre 
+essas duas datas é: 
+ 
+(A) =SOMA(A2;B2) 
+ 
+(B) =DIFDATAS(A2;B2) 
+ 
+(C) =CONT.SE(A2:B2;"DIA") 
+ 
+(D) =SE(B2>A2;A2-B2;0) 
+ 
+(E) =B2-A2 
+ 
+##### 
+ 
+{32} 
+Uma empresa multinacional possui escritórios em diversos 
+países e precisa conectar suas redes locais para garantir uma 
+comunicação segura e eficiente entre todas as filiais. Assinale 
+a alternativa que apresenta o tipo de rede mais apropriada 
+para 
+esse 
+cenário 
+de 
+interconexão 
+geograficamente 
+distribuída. 
+ 
+ 
+ 
+(A) LAN  
+ 
+(B) PAN  
+ 
+(C) MAN  
+ 
+(D) WAN  
+ 
+(E) CAN ##### 
+ 
+{33} 
+Durante a instalação de um sistema de comunicação entre 
+computadores e periféricos industriais, um técnico precisa 
+identificar, corretamente, os modos de transmissão de dados 
+utilizados em diferentes canais. 
+Assinale a alternativa que representa uma comunicação full-
+duplex. 
+ 
+(A) Comunicação por rádio em que apenas um usuário fala por 
+vez. 
+(B) Transmissão de televisão aberta, onde o espectador 
+apenas recebe sinal. 
+(C) Comunicação entre dois computadores via conexão 
+Ethernet, onde ambos enviam e recebem dados 
+simultaneamente. 
+(D) Rede com dispositivos que se alternam no envio e 
+recepção de dados, como em walkie-talkies. 
+(E) Impressora térmica que envia comandos para o usuário e 
+recebe tinta via cabo USB.##### 
+ 
+{34} 
+Durante o planejamento da infraestrutura de rede para uma 
+nova unidade hospitalar, o engenheiro de redes deve 
+selecionar os meios físicos de transmissão mais adequados 
+para cada ambiente, considerando fatores como largura de 
+banda, interferência eletromagnética, custo e distância. 
+Considerando o cenário descrito e em relação a uma 
+característica da fibra óptica, é correto afirmar:  
+ 
+(A) É mais suscetível a interferência eletromagnética que o 
+cabo coaxial. 
+(B) Permite maior largura de banda e menor atenuação em 
+longas distâncias. 
+(C) Utiliza sinais elétricos, como o par trançado e as linhas de 
+energia elétrica. 
+(D) Tem desempenho inferior ao par trançado para longas 
+distâncias. 
+(E) Transmite sinais apenas por meio de campos magnéticos 
+de alta frequência. ##### 
+ 
+{35} 
+Interfaces físicas são os pontos de conexão responsáveis por 
+enviar e receber sinais através de meios físicos, estando 
+localizadas na camada mais baixa dos modelos OSI e TCP/IP. 
+Assinale a alternativa que expressa uma função da camada 
+física nesses modelos. 
+ 
+(A) Fragmentação de pacotes de dados e controle de janelas 
+de transmissão entre hosts. 
+(B) Roteamento de pacotes com base em endereços lógicos. 
+(C) Controle de sessões de comunicação entre aplicações 
+remotas. 
+(D) Conversão de nomes de domínio em endereços IP por 
+meio de consulta a servidores. 
+(E) Transmissão e recepção de bits brutos como sinais 
+elétricos, ópticos ou de rádio. 
+##### 
+
+
+--- PAGE 11 ---
+
+    Concurso Edital RH nº 061/2025 – Técnico em Informática 
+ 
+{36} 
+Os protocolos de rede estabelecem regras para a 
+comunicação eficiente e segura entre dispositivos em uma 
+rede. Cada protocolo tem uma finalidade específica dentro da 
+pilha de protocolos da internet. 
+Assinale a alternativa que apresenta os propósitos e 
+características dos protocolos listados. 
+ 
+(A) 
+FTP – protocolo usado para transferência de arquivos entre 
+cliente e servidor; 
+SSH – protocolo seguro para acesso remoto via terminal; 
+DNS – protocolo utilizado para resolução de nomes de 
+domínio; 
+HTTPS – protocolo de navegação web com camada de 
+segurança (SSL/TLS). 
+ 
+(B) 
+FTP – usado para enviar e-mails com anexos grandes; 
+SSH – responsável por traduzir nomes de domínio em  
+endereços IP; 
+DNS – protocolo de navegação segura; 
+HTTPS – protocolo de linha de comando remoto. 
+ 
+(C) 
+FTP – realiza transferência de arquivos com criptografia 
+ponta a ponta; 
+SSH – permite transferência de arquivos, mas sem 
+autenticação; 
+DNS – armazena e-mails temporariamente em servidores; 
+HTTPS – transmite vídeos ao vivo por broadcast. 
+ 
+(D) 
+ FTP – responsável pela sincronização de relógios em uma 
+rede local; 
+SSH – protocolo de roteamento interno dinâmico; 
+DNS – protocolo de gerenciamento de dispositivos de 
+rede; 
+HTTPS – responsável por resolver nomes de domínio. 
+ 
+(E) 
+FTP – protocolo para criptografar conexões Wi-Fi; 
+SSH – responsável por transmitir e-mails entre servidores; 
+DNS – implementa controle de acesso em switches 
+gerenciáveis; 
+HTTPS – usado apenas em conexões entre servidores 
+internos. 
+##### 
+ 
+{37} 
+As redes de computadores são essenciais para a 
+comunicação 
+digital. 
+Dentro 
+desse 
+contexto, 
+surgem 
+conceitos como intranet, servidor e tipos de conexão que 
+organizam e viabilizam a comunicação entre os elementos da 
+rede. 
+Assinale a alternativa que apresenta o conceito correto 
+relacionado às redes de computadores. 
+ 
+(A) Intranet é uma rede pública mundial com acesso irrestrito 
+a qualquer usuário conectado à internet. 
+(B) Intranet é uma rede privada utilizada dentro de uma 
+organização, com acesso restrito aos seus membros 
+autorizados. 
+(C) Um servidor é um equipamento utilizado exclusivamente 
+para conectar cabos coaxiais e realizar impressões em 
+rede. 
+(D) Rede de computadores é definida como um único 
+computador operando em modo offline sem qualquer 
+comunicação externa. 
+(E)  O termo "rede" refere-se exclusivamente à conexão entre 
+dispositivos móveis via tecnologia Bluetooth. 
+##### 
+ 
+{38} 
+Em aplicações distribuídas na internet, os serviços de 
+transporte de dados podem ser classificados como orientados 
+à conexão ou não orientados à conexão, de acordo com os 
+mecanismos de controle adotados. 
+Assinale a alternativa que apresenta as características 
+corretas de cada tipo de serviço. 
+ 
+(A) Serviço orientado à conexão não realiza controle de erros 
+nem de fluxo, sendo utilizado para transmissão de voz em 
+tempo real, enquanto o serviço não orientado à conexão 
+garante entrega confiável. 
+(B) Ambos os serviços garantem entrega ordenada e livre de 
+erros, mas apenas o orientado à conexão permite 
+comunicação bidirecional. 
+(C) O serviço orientado à conexão estabelece uma conexão 
+antes da transmissão e oferece controle de fluxo e de 
+erros; o serviço não orientado à conexão envia dados sem 
+verificação de entrega ou ordem. 
+(D) No serviço não orientado à conexão, o transmissor 
+aguarda confirmação do receptor antes de cada envio de 
+dados; já no orientado à conexão, os pacotes são 
+transmitidos sem controle algum. 
+(E) O serviço orientado à conexão é exclusivo para redes 
+locais, enquanto o serviço não orientado à conexão é 
+usado apenas em redes de longa distância com alto 
+controle de confiabilidade. 
+#####
+ 
+{39} 
+O Microsoft Windows é um sistema operacional que adota um 
+modelo híbrido de kernel, com suporte à multitarefa 
+preemptiva e gerenciamento de múltiplos processos. 
+Considerando os conceitos de sistemas operacionais, 
+assinale a alternativa que melhor descreve o gerenciamento 
+de processos no Windows. 
+ 
+(A) O Windows utiliza uma arquitetura monolítica na qual todos 
+os serviços do sistema operacional são executados no 
+espaço de usuário para garantir maior segurança. 
+(B) No Windows, cada processo pode conter múltiplas 
+threads, sendo que o sistema utiliza um escalonador 
+baseado em prioridades que suporta preempção para 
+alternância entre threads. 
+(C) O sistema operacional Windows implementa processos 
+como threads únicas, não oferecendo suporte à criação de 
+múltiplos threads dentro de um mesmo processo. 
+(D) O Windows organiza os processos em uma hierarquia 
+rígida, como em sistemas baseados em UNIX, onde cada 
+processo filho está diretamente vinculado ao pai até sua 
+finalização. 
+(E) O Windows não realiza distinção entre processos e 
+threads, tratando ambos como entidades equivalentes e 
+sem separação de contexto. 
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 12 ---
+
+    Concurso Edital RH nº 061/2025 – Técnico em Informática 
+ 
+{40} 
+No sistema operacional Windows, o kernel é responsável por 
+tarefas essenciais do sistema, como o gerenciamento de 
+threads, interrupções e transições entre modos de execução. 
+Assinale a alternativa que descreve, corretamente, uma 
+característica do kernel do Windows. 
+ 
+(A) O kernel do Windows é escrito inteiramente em linguagem 
+de montagem para garantir velocidade máxima na 
+execução de processos. 
+(B) O kernel do Windows é implementado com princípios 
+orientados a objetos e utiliza objetos do kernel para 
+organizar suas estruturas e funções. 
+(C) O kernel do Windows é estruturado como um interpretador 
+de comandos, responsável por executar diretamente os 
+aplicativos do usuário. 
+(D) O kernel do Windows não realiza troca entre o modo 
+usuário e o modo kernel, pois ambos operam no mesmo 
+espaço de memória. 
+(E) O kernel do Windows organiza seus componentes 
+principais no espaço de usuário, para facilitar a interação 
+com a interface gráfica. 
+##### 
+ 
+{41} 
+O sistema operacional Windows implementa mecanismos 
+avançados de gerenciamento de memória para melhorar o 
+desempenho da execução de processos. Nesse contexto, um 
+dos elementos centrais é o gerenciamento de cache, que 
+envolve tanto o cache de disco quanto o cache de páginas de 
+memória virtual. Assinale a alternativa que corretamente 
+descreve o funcionamento do sistema de cache no Windows. 
+ 
+(A) O Windows desativa o uso de cache em sistemas com 
+mais de 4 GB de RAM, pois considera que o acesso direto 
+à memória principal é mais eficiente. 
+(B) O gerenciamento de cache no Windows é feito 
+exclusivamente 
+por 
+hardware, 
+sendo 
+o 
+sistema 
+operacional incapaz de interferir na política de substituição 
+de blocos em cache. 
+(C) O cache de disco no Windows armazena blocos de dados 
+recentemente acessados e modificados, e é mantido pelo 
+sistema operacional para reduzir o número de acessos 
+físicos ao disco. 
+(D) O Windows realiza flush automático do cache de páginas 
+apenas quando a CPU atinge 100% de utilização, visando 
+otimizar o desempenho sob carga extrema. 
+(E) O subsistema de cache do Windows opera isoladamente 
+do gerenciador de memória virtual, sem compartilhamento 
+de estruturas ou dependência entre eles. 
+##### 
+ 
+{42} 
+ 
+O sistema operacional Linux suporta diversos tipos de 
+sistemas de arquivos, como ext4, XFS, Btrfs, entre outros, 
+oferecendo suporte a operações eficientes de leitura, 
+gravação, indexação e controle de integridade. 
+Com base nos conceitos de sistemas operacionais, assinale a 
+alternativa que corretamente descreve uma característica 
+verdadeira do sistema de arquivos em ambientes Linux. 
+ 
+(A) O sistema de arquivos Linux é montado como uma única 
+árvore hierárquica, onde dispositivos de armazenamento 
+adicionais são integrados a diretórios, e não a unidades 
+lógicas. 
+(B) O sistema de arquivos ext4 utiliza uma estrutura de 
+alocação contígua para todos os arquivos, garantindo 
+acesso direto aos blocos e evitando fragmentação. 
+(C) Sistemas de arquivos no Linux não implementam 
+journaling, pois dependem do kernel para restaurar o 
+estado do disco após falhas. 
+(D) Cada partição montada no Linux recebe uma letra de 
+unidade (como C:, D:) para permitir acesso via terminal. 
+(E) O sistema de arquivos Linux armazena todos os 
+metadados de arquivos, exclusivamente, em um único 
+arquivo centralizado chamado superblock, comum a todos 
+os diretórios do sistema. 
+##### 
+ 
+{43} 
+No Linux, o sistema de arquivos utiliza um modelo de 
+permissões baseado em três categorias: proprietário (owner), 
+grupo (group) e outros (others). Cada uma dessas categorias 
+pode ter permissões de leitura (r), escrita (w) e execução (x). 
+O comando ls -l exibe essas permissões de forma textual. 
+ 
+Considere a seguinte saída do terminal: 
+ 
+-rwxr-x--x  1 user1 grupo1  2048 jul 18 09:32  
+script.sh 
+ 
+Com base na estrutura de permissões exibida, e nos conceitos 
+apresentados por Silberschatz et al., assinale a alternativa 
+correta. 
+ 
+(A) O arquivo script.sh pode ser editado por qualquer 
+usuário que pertença ao grupo grupo1. 
+(B) O usuário user1 pode executar e modificar o arquivo, mas 
+não pode lê-lo. 
+(C) O grupo grupo1 tem permissão para executar o arquivo, 
+mas não pode lê-lo nem o modificar. 
+(D) Outros usuários fora do grupo e que não são o dono do 
+arquivo podem executá-lo, mas não podem ler nem 
+escrever seu conteúdo. 
+(E) O caractere inicial - indica que se trata de um diretório, e 
+não de um arquivo comum. 
+##### 
+ 
+{44} 
+Os sistemas operacionais Windows e Linux oferecem 
+interfaces de linha de comando que permitem a execução 
+direta de comandos para tarefas administrativas. No Windows, 
+essa interface é chamada de Prompt de Comando (cmd), 
+enquanto no Linux é comumente o terminal Bash. Cada 
+sistema utiliza comandos específicos para realizar tarefas 
+semelhantes. Assinale a alternativa que corretamente 
+relaciona 
+comandos 
+equivalentes 
+nos 
+dois 
+sistemas 
+operacionais. 
+ 
+(A) copy (Windows) e mv (Linux) são usados para copiar 
+arquivos de um diretório para outro. 
+(B) cd (Windows) e mkcd (Linux) são usados para criar novos 
+diretórios no sistema. 
+(C) dir (Windows) e ls (Linux) são usados para listar arquivos 
+e diretórios. 
+(D) del (Windows) e mkdir (Linux) são usados para remover 
+arquivos. 
+(E) tasklist (Windows) e sudo (Linux) são usados para 
+encerrar processos ativos. 
+##### 
+ 
+
+
+--- PAGE 13 ---
+
+    Concurso Edital RH nº 061/2025 – Técnico em Informática 
+ 
+{45} 
+O sistema operacional Linux adota um modelo de 
+gerenciamento de processos baseado em hierarquia, no qual 
+processos podem criar outros processos, formando uma 
+estrutura de árvore. O processo criado é chamado de filho, e 
+o processo criador é o pai. O comando ps -ef --forest 
+permite visualizar essa estrutura hierárquica de forma 
+organizada. 
+ 
+Considere a seguinte saída simplificada do comando em um 
+sistema Linux: 
+ 
+ 
+ 
+Com base nas informações da imagem e nos conceitos 
+apresentados por Silberschatz et al., assinale a alternativa 
+correta. 
+ 
+(A) O processo /sbin/init é um processo filho criado pelo 
+cron, 
+responsável 
+por 
+inicializar 
+serviços 
+de 
+agendamento. 
+(B) O processo rsync é o antecessor direto do processo cron, 
+o que indica que ambos foram iniciados em sequência no 
+mesmo terminal. 
+(C) O processo bash atua como processo pai do interpretador 
+sshd, pois foi iniciado diretamente após a autenticação do 
+usuário. 
+(D) O processo cron foi iniciado diretamente pelo processo 
+rsync, demonstrando uma inversão incomum na ordem de 
+criação. 
+(E) O processo python script.py é um processo neto de 
+sshd e bisneto de /sbin/init, evidenciando a herança da 
+árvore de processos. 
+##### 
+ 
+{46} 
+O gerenciamento de memória é uma função central de 
+qualquer sistema operacional moderno. Tanto Windows 
+quanto Linux utilizam técnicas como paginação por demanda, 
+memória virtual e memória cache, mas adotam estratégias 
+diferentes quanto à implementação de swap, controle de uso 
+e alocação de recursos. Assinale a alternativa que 
+corretamente descreve uma diferença ou semelhança entre os 
+dois sistemas operacionais no gerenciamento de memória. 
+ 
+(A) Ambos os sistemas evitam o uso de memória virtual e 
+swap, priorizando sempre a alocação direta na RAM para 
+garantir maior desempenho. 
+(B) O Linux utiliza exclusivamente arquivos de troca (swap 
+files), enquanto o Windows utiliza apenas partições de 
+swap alocadas durante a instalação. 
+(C) Diferentemente do Windows, o Linux não permite o uso de 
+memória virtual, exigindo que todos os processos sejam 
+mantidos inteiramente na RAM. 
+(D) O Windows e o Linux realizam paginação por demanda e 
+permitem alocação de memória virtual, mas o Linux pode 
+utilizar tanto partições quanto arquivos de swap, 
+dependendo da configuração. 
+(E) O Windows não utiliza técnicas de cache de páginas, 
+enquanto o Linux implementa essa técnica apenas em 
+servidores com mais de 16 GB de RAM. 
+##### 
+ 
+{47} 
+Um laboratório de informática de uma universidade utiliza um 
+sistema de chamados para registrar problemas relatados 
+pelos usuários. Um estudante abriu um chamado porque não 
+conseguiu acessar sua conta institucional de e-mail. O técnico 
+de suporte identificou que a senha do estudante havia 
+expirado e realizou a redefinição, restabelecendo o acesso. 
+De acordo com as boas práticas do ITIL Foundation, o 
+processo de Gerenciamento de Serviços de TI, que se 
+enquadra a esse tipo de atendimento, é o Gerenciamento de  
+(A) Incidentes. 
+(B) Problemas. 
+(C) Mudanças. 
+(D) Nível de Serviço. 
+(E) Disponibilidade. 
+##### 
+ 
+{48} 
+Durante a manutenção preventiva, o técnico encontra vários 
+computadores com lentidão ao inicializar. Ele decide realizar 
+a limpeza física e também a verificação de software. Assinale 
+a alternativa que apresenta a ação mais adequada como parte 
+da manutenção preventiva. 
+ 
+(A) Trocar o processador por um modelo mais recente em 
+todos os computadores. 
+(B) Instalar um sistema operacional diferente sem consultar 
+usuários. 
+(C) Remover 
+poeira 
+dos 
+componentes 
+e 
+executar 
+desfragmentação de disco em HDs mecânicos. 
+(D) Substituir todos os HDs por SSDs obrigatoriamente. 
+(E) Apenas apagar arquivos da pasta de downloads. 
+##### 
+ 
+{49} 
+Em sistemas de computação, o processador é um dos 
+componentes que mais gera calor durante seu funcionamento. 
+Para evitar superaquecimento e possíveis falhas, utiliza-se um 
+dispositivo específico de resfriamento. Assinale a alternativa 
+que apresenta o componente de hardware responsável por 
+essa função. 
+(A) Placa-mãe. 
+(B) Memória RAM. 
+(C) Fonte de alimentação. 
+(D) Cooler com dissipador de calor. 
+(E) Disco rígido (HD). 
+##### 
+
+
+--- PAGE 14 ---
+
+    Concurso Edital RH nº 061/2025 – Técnico em Informática 
+ 
+{50} 
+Em um laboratório de informática será implantado um sistema 
+multimídia 
+integrado 
+(projetor, 
+sistema 
+de 
+som 
+e 
+computadores). A instalação exige qualidade de áudio e 
+vídeo, prevenção de interferências eletromagnéticas (EMI) e 
+proteção contra falhas elétricas. Segundo as boas práticas de 
+instalações 
+profissionais 
+e 
+normas 
+de 
+cabeamento 
+estruturado, assinale a alternativa que apresenta a solução 
+mais adequada. 
+(A) Passar os cabos de rede, áudio e vídeo no mesmo 
+eletroduto dos cabos de energia, utilizando apenas filtros 
+de linha para compensar possíveis interferências. 
+(B) Usar cabos UTP de categoria 5e sem blindagem, pois, em 
+distâncias inferiores a 30 metros, a norma TIA/EIA não 
+exige cabos blindados. 
+(C) Instalar cabos coaxiais para sinal de vídeo, mas 
+compartilhar 
+o 
+mesmo 
+circuito 
+elétrico 
+com 
+os 
+equipamentos de ar-condicionado, já que possuem 
+potência semelhante. 
+(D) Substituir o projetor por um monitor de grande porte e 
+utilizar cabos HDMI comuns, sem considerar blindagem, 
+porque a transmissão digital reduz ruídos. 
+(E) Utilizar cabos blindados (STP/FTP), separar fisicamente os 
+dutos de energia dos dutos de dados e aplicar aterramento 
+adequado em todos os pontos. 
+##### 
+ 
+{51} 
+Na gestão de suporte técnico em laboratórios de informática, 
+a definição da prioridade de um chamado deve considerar 
+critérios objetivos. Quando se utiliza a matriz de criticidade, a 
+prioridade resulta da combinação de dois fatores principais. 
+Assinale a alternativa que apresenta esses dois fatores. 
+(A) O perfil do usuário solicitante e a complexidade técnica do 
+problema. 
+(B) O impacto no serviço ou no número de usuários afetados 
+e a urgência para o restabelecimento da operação. 
+(C) O tipo de tecnologia envolvida (hardware, software ou 
+rede) e o custo estimado da solução. 
+(D) O tempo de experiência do técnico responsável e a ordem 
+cronológica de abertura do chamado. 
+(E) A facilidade de encontrar peças de reposição e a 
+localização física do equipamento afetado. 
+##### 
+ 
+{52} 
+No contexto de tratamento de dados pessoais, a LGPD exige 
+que os agentes de tratamento adotem medidas técnicas e 
+administrativas capazes de proteger os dados contra acessos 
+não autorizados e situações acidentais ou ilícitas. Assinale a 
+alternativa que apresenta uma medida técnica recomendada 
+para proteção de dados em um laboratório de informática. 
+ 
+(A) Realização 
+de 
+palestras 
+periódicas 
+sobre 
+ética  
+profissional. 
+(B) Restrição de acesso físico ao laboratório. 
+(C) Celebração de contratos de confidencialidade. 
+(D) Criptografia dos dados armazenados em servidores. 
+(E) Divulgação da política de privacidade nos murais. 
+##### 
+{53} 
+A LGPD define as funções e as responsabilidades dos 
+agentes de tratamento de dados pessoais. Considerando um 
+cenário em que uma empresa terceirizada realiza a gestão 
+dos sistemas de um laboratório universitário de informática, 
+qual é a principal responsabilidade do operador, conforme a 
+lei? 
+ 
+(A) Realizar o tratamento conforme as instruções do 
+controlador. 
+(B) Determinar as finalidades do tratamento. 
+(C) Tomar decisões sobre o tratamento dos dados. 
+(D) Editar a política de privacidade institucional. 
+(E) Fiscalizar a autoridade nacional. 
+##### 
+ 
+{54} 
+Durante o monitoramento de um sistema informatizado, a 
+equipe técnica detectou um acesso não autorizado que 
+resultou na exposição de dados pessoais de diversos 
+usuários. Segundo a LGPD, qual deve ser a providência 
+imediata do controlador diante desse cenário? 
+ 
+(A) Desconsiderar o incidente, até que haja um dano 
+comprovado. 
+(B) Comunicar a Autoridade Nacional de Proteção de Dados 
+(ANPD) e os titulares afetados pela violação. 
+(C) Solicitar à equipe que apague os registros de log do 
+incidente, para evitar rastreamento. 
+(D) Substituir todos os equipamentos do setor. 
+(E) Divulgar amplamente o incidente nas redes sociais 
+institucionais. 
+##### 
+ 
+{55} 
+O Marco Civil da Internet prevê princípios e garantias 
+fundamentais para o uso da internet no Brasil. No que diz 
+respeito à proteção de dados pessoais, assinale a alternativa 
+que expressa corretamente uma obrigação do provedor de 
+aplicações de internet conforme o Marco Civil. 
+ 
+(A) Manter registros de conexão pelo prazo mínimo de dez 
+anos. 
+(B) Compartilhar dados pessoais com terceiros sempre que 
+solicitado. 
+(C) Apresentar 
+informações 
+claras 
+sobre 
+coleta, 
+uso, 
+armazenamento e tratamento dos dados. 
+(D) Exigir consentimento dos usuários para todo e qualquer 
+acesso à internet. 
+(E) Liberar automaticamente os dados de usuários mediante 
+decisão administrativa. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 15 ---
+
+    Concurso Edital RH nº 061/2025 – Técnico em Informática 
+ 
+{56} 
+Um computador alimentado por uma rede elétrica com tensão 
+alternada de 120 volts consome uma corrente elétrica de 2 
+amperes. Se este equipamento é utilizado 10 horas por dia, 
+durante 30 dias ao longo de um mês, qual será o seu consumo 
+de energia em kWh/mês?  
+ 
+(A) 48 kWh/mês. 
+(B) 72 kWh/mês. 
+(C) 240 kWh/mês.  
+(D) 1.920 kWh/mês. 
+(E) 4.800 kWh/mês.  
+##### 
+ 
+Note e adote: 
+Considere 1 mês com 30 dias. 
+ 
+{57} 
+Instalações prediais podem conter quilômetros de fios 
+elétricos, usados para conectar computadores, sistemas de 
+iluminação, ar-condicionado, entre outros. Se nas instalações 
+elétricas para a construção de um prédio comercial forem 
+usados 5 quilômetros de fio, com diâmetro de 2 milímetros, 
+qual será a resistência elétrica imposta pelos cabos? 
+ 
+(A) R = 1,70x10−8 Ω  
+(B) R = 8,5 x10−8 Ω 
+(C) R = 
+0,000034
+π
+ Ω 
+(D) R =8,5 x10−2/π  
+(E) R = 85/π Ω 
+##### 
+ 
+Note e adote: 
+Considere a resistividade do cobre 
+igual a 1,7x10-8 Ω.m 
+{58} 
+Duas cargas elétricas, uma com Q1 = 0,25 mA e a outra  
+Q2 = 0,4 μA, devem ser posicionadas a uma distância de tal 
+forma que a força de repulsão elétrica entre elas resulte em  
+90 N. Considerando que a constante de Coulomb vale 
+aproximadamente 9x109 N.m2/C2, qual deve ser a distância de 
+separação entre as cargas? 
+ 
+(A) x = 1,05 × 10-6 m  
+(B) x = 1,111 × 10-4 m  
+(C) x = 0,01 m  
+(D) x = 0,1 m  
+(E) x = 6,32 m  
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{59} 
+Observe a representação parcial de um circuito elétrico 
+detalhado a seguir: 
+ 
+ 
+ 
+Os componentes apresentados são ligados a uma fonte de 
+tensão de 120 V, com i1 = 2 A, i2 = 1 A, i3 = 3 A, Ra = 10 Ω e  
+Rb = 20 Ω. Qual deve ser a potência elétrica consumida pelo 
+resistor “Ra”? 
+ 
+(A) 40 W 
+(B) 160 W 
+(C) 360 W 
+(D) 480 W 
+(E) 1.080 W 
+##### 
+ 
+{60} 
+Circuitos elétricos conectados a uma corrente alternada 
+podem ser constituídos de diferentes componentes, tais como 
+resistências elétricas, motores, compressores, banco de 
+capacitores, sensores, e mais dezenas de componentes. Em 
+relação aos circuitos RLC (que podem conter resistências, 
+capacitores e indutivos), assinale a alternativa que descreve, 
+corretamente, a função dos principais componentes.  
+ 
+(A) Componentes resistivos estão relacionados a fornos 
+elétricos, aquecedores elétricos, entre outros. Já as 
+resistências indutivas estão relacionadas a motores e 
+compressores usados em geladeiras e máquinas rotativas, 
+por exemplo. 
+(B) Capacitores podem ser usados em sistemas com grandes 
+cargas indutivas, gerando um aumento no fator de 
+potência da instalação. 
+(C) O fator de potência em uma instalação está relacionado à 
+potência total instalada, sem levar em conta as cargas 
+capacitivas e/ou indutivas. 
+(D) Motores e compressores são exemplos de equipamentos 
+que apresentam somente cargas resistivas, ao passo que 
+um forno elétrico apresenta carga indutiva. 
+(E) Capacitores são usados como fontes de energia, 
+substituindo baterias e fontes de alimentação conectadas 
+à rede. 
+##### 
+ 
+ 
+
+
+--- PAGE 16 ---
+
+    Concurso Edital RH nº 061/2025 – Técnico em Informática 
+ 
+Questão dissertativa 
+Em um laboratório de informática utilizado por alunos e professores, têm sido registradas reclamações frequentes relacionadas ao 
+funcionamento dos computadores. Durante uma inspeção, verificou-se: 
+ 
+• 
+Diversos equipamentos apresentam falhas intermitentes na inicialização, reiniciando sozinhos ou não completando o 
+processo de boot; 
+• 
+Não existe um sistema formal de registro dos chamados de suporte, sendo as ocorrências anotadas apenas de maneira 
+informal pelos técnicos. 
+ 
+Com base na situação apresentada, responda: 
+ 
+a) 
+Cite, no mínimo, 4 (quatro) contribuições que o registro formal de chamados de suporte pode trazer para a gestão de 
+manutenção. 
+b) Considerando o problema das falhas intermitentes na inicialização dos computadores, diferencie os tipos de manutenção 
+preventiva, corretiva e preditiva, e indique qual é o tipo mais adequado para essa situação, justificando sua resposta. 
+c) 
+Em relação às falhas de inicialização, cite no mínimo 4 (quatro) componentes de arquitetura de computadores que podem 
+estar relacionados ao problema e explique brevemente sua importância no processo de boot. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Instruções:  
+• As respostas deverão ser redigidas de acordo com a norma padrão da língua portuguesa.  
+• Escreva com letra legível e não ultrapasse o espaço de linhas disponíveis da folha de respostas.  
+• Receberão nota zero textos que desrespeitarem os direitos humanos e textos que permitirem, por qualquer modo, a identificação do candidato(a). 
+
+
+--- PAGE 17 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RASCUNHO 
+ 
+ 
+NÃO SERÁ 
+CONSIDERADO NA 
+CORREÇÃO 
+
+
+--- PAGE 18 ---
+
+
+
+--- PAGE 19 ---
+
+ 
+ 
+ 
+Concurso DRH USP Outubro 2025 
+Publicado em 13/10/2025. 
+Universidade de São Paulo
+Técnico em Informática – Edital RH Nº 061/2025 
+PROVA TIF 
+01 
+C 
+ 
+31 
+E 
+02 
+B 
+ 
+32 
+D 
+03 
+E 
+ 
+33 
+C 
+04 
+B 
+ 
+34 
+B 
+05 
+D 
+ 
+35 
+E 
+06 
+B 
+ 
+36 
+A 
+07 
+D 
+ 
+37 
+B 
+08 
+E 
+ 
+38 
+C 
+09 
+A 
+ 
+39 
+B 
+10 
+B 
+ 
+40 
+B 
+11 
+B 
+ 
+41 
+C 
+12 
+A 
+ 
+42 
+A 
+13 
+C 
+ 
+43 
+D 
+14 
+C 
+ 
+44 
+C 
+15 
+A 
+ 
+45 
+E 
+16 
+A 
+ 
+46 
+D 
+17 
+D 
+ 
+47 
+A 
+18 
+B 
+ 
+48 
+C 
+19 
+C 
+ 
+49 
+D 
+20 
+A 
+ 
+50 
+E 
+21 
+D 
+ 
+51 
+B 
+22 
+D 
+ 
+52 
+D 
+23 
+C 
+ 
+53 
+A 
+24 
+E 
+ 
+54 
+B 
+25 
+B 
+ 
+55 
+C 
+26 
+A 
+ 
+56 
+B 
+27 
+B 
+ 
+57 
+E 
+28 
+D 
+ 
+58 
+D 
+29 
+C 
+ 
+59 
+B 
+30 
+B 
+ 
+60 
+A 
+ 
+ 
+
+
+--- PAGE 20 ---
+
+ 
+            
+ 
+ 
+ 
+ 
+CONCURSO DRH USP 2025 
+QUESTÃO DISSERTATIVA – Técnico em Informática 
+ 
+ 
+ENUNCIADO  
+ 
+ 
+Em um laboratório de informática utilizado por alunos e professores, têm sido registradas reclamações frequentes 
+relacionadas ao funcionamento dos computadores. Durante uma inspeção, verificou-se: 
+ 
+• 
+Diversos equipamentos apresentam falhas intermitentes na inicialização, reiniciando sozinhos ou não 
+completando o processo de boot; 
+• 
+Não existe um sistema formal de registro dos chamados de suporte, sendo as ocorrências anotadas apenas 
+de maneira informal pelos técnicos. 
+ 
+Com base na situação apresentada, responda: 
+ 
+a) 
+Cite, no mínimo, 4 (quatro) contribuições que o registro formal de chamados de suporte pode trazer para a 
+gestão de manutenção. 
+b) Considerando o problema das falhas intermitentes na inicialização dos computadores, diferencie os tipos de 
+manutenção preventiva, corretiva e preditiva, e indique qual é o tipo mais adequado para essa situação, 
+justificando sua resposta. 
+c) 
+Em relação às falhas de inicialização, cite no mínimo 4 (quatro) componentes de arquitetura de computadores 
+que podem estar relacionados ao problema e explique brevemente sua importância no processo de boot. 
+ 
+ 
+ 
+ 
+RESPOSTA ESPERADA 
+ 
+ 
+a) Contribuições possíveis do registro formal de chamados (mínimo 4): 
+ 
+• 
+Criação de histórico de falhas recorrentes. 
+• 
+Apoio ao planejamento da manutenção preventiva. 
+• 
+Mensuração de indicadores de desempenho (tempo médio de resposta, tempo médio de reparo). 
+• 
+Facilita a priorização de atendimentos por impacto e urgência. 
+• 
+Garante transparência e rastreabilidade no atendimento. 
+• 
+Permite comunicação clara entre equipe técnica e usuários. 
+• 
+Auxilia na distribuição equilibrada das demandas entre técnicos. 
+• 
+Apoia justificativa de investimentos em infraestrutura com base em evidências. 
+ 
+ 
+b) 
+ 
+• 
+Preventiva: manutenção programada para reduzir falhas → ex.: limpeza periódica de gabinetes e troca de 
+pasta térmica. 
+• 
+Corretiva: manutenção após a ocorrência da falha → ex.: substituição de uma fonte queimada. 
+• 
+Preditiva: baseada em monitoramento e indicadores para prever falhas → ex.: análise de temperatura e ruído 
+em HDs mecânicos para troca antes da falha total. 
+ 
+Mais adequado para a situação: Manutenção preditiva, pois falhas intermitentes exigem monitoramento para identificar 
+a causa antes da falha definitiva. Embora preventiva e corretiva também possam ocorrer, a preditiva é a mais 
+adequada porque trata de falhas intermitentes, que exigem monitoramento 
+ 
+ 
+
+
+--- PAGE 21 ---
+
+ 
+            
+ 
+ 
+ 
+ 
+c) Componentes de arquitetura de computadores relacionados à inicialização (pelo menos quatro com a justificativa, 
+todos são válidos): 
+• 
+BIOS/UEFI – realiza o POST e inicia o processo de boot. 
+• 
+Memória RAM – carrega instruções temporárias do sistema. 
+• 
+Processador (CPU) – executa as instruções iniciais do boot. 
+• 
+Disco rígido/SSD – armazena o sistema operacional e arquivos de inicialização. 
+• 
+Fonte de alimentação – fornece energia estável; falhas podem causar reinicializações. 
+• 
+Placa-mãe – integra barramentos e componentes; falhas em slots ou capacitores podem afetar o boot. 
+• 
+Placa de vídeo (GPU) – necessária para exibir a sequência de inicialização. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 22 ---
+
+ 
+            
+ 
+ 
+ 
+ 
+ 
+ 
+CRITÉRIOS DE CORREÇÃO 
+ 
+(Os critérios podem ser adaptados de acordo com as especificidades de cada área.) 
+ 
+• Critério 1: Completude e abrangência dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+Os conceitos principais são abordados com profundidade e detalhamento. 
+2 
+A maioria dos conceitos principais é abordada, mas pode faltar algum detalhe ou profundidade. 
+1 
+Alguns conceitos principais são abordados, mas a explicação é superficial ou incompleta. 
+0  
+Pouco ou nenhum conceito relevante é abordado. 
+ 
+• Critério 2: Domínio e aprofundamento dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+A resposta é precisa, com informações corretas e bem explicadas. 
+2 
+A resposta é em sua maioria precisa, mas pode conter alguns pequenos erros ou imprecisões. 
+1 
+A resposta contém várias imprecisões ou erros conceituais, mas a ideia geral é compreensível. 
+0  
+A resposta está incorreta e confusa. 
+ 
+• Critério 3: Aplicação prática / exemplificação dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+A resposta faz uma excelente conexão entre os conceitos teóricos e suas aplicações práticas. 
+2 
+A resposta faz boas conexões entre teoria e prática, mas pode ser aprimorada com mais exemplos 
+ou detalhes. 
+1 
+A conexão entre teoria e prática é mencionada, mas é superficial ou pouco clara. 
+0  
+A resposta não aborda a aplicação prática e não apresenta exemplos dos conceitos. 
+ 
+• Critério 4: Clareza e Coerência (0 a 1 ponto): 
+Faixa de nota 
+Critério 
+1 
+O texto é extremamente claro e coerente, apresentando uma explicação lógica e bem estruturada 
+dos conceitos. 
+0,5 
+O texto é claro e coerente, com algumas pequenas falhas na estrutura ou na explicação. 
+0 
+O texto é compreensível, mas apresenta várias falhas na clareza ou na coerência que dificultam a 
+compreensão total. 
+ 
+ 

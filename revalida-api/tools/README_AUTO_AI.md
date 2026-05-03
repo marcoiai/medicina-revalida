@@ -1,4 +1,4 @@
-# Auto geração de questões com Gemini
+# Auto geração de questões com IA
 
 ## Instalar
 
@@ -11,14 +11,23 @@ pip install -r tools/requirements-ai.txt
 
 ## Configurar chave
 
+Por padrão, o fluxo usa OpenAI.
+
 ```bash
-export GEMINI_API_KEY="sua_chave_aqui"
+export OPENAI_API_KEY="sua_chave_aqui"
 ```
 
 Opcional:
 
 ```bash
-export GEMINI_MODEL="gemini-2.5-flash"
+export QUESTION_AI_PROVIDER="openai"
+export OPENAI_MODEL="gpt-5-nano"
+```
+
+Ou rode sem variável e passe o provedor por comando:
+
+```bash
+python tools/auto_generate_questions.py --provider openai
 ```
 
 ## Rodar teste com 1 prompt
@@ -39,7 +48,7 @@ python tools/auto_generate_questions.py
 python tools/validate_questions.py storage/imports/questions.json
 ```
 
-Auditoria semântica opcional com Gemini:
+Auditoria semântica opcional com o mesmo provedor:
 
 ```bash
 python tools/validate_questions.py storage/imports/questions.json --llm
@@ -51,9 +60,9 @@ Se quiser ajustar o comportamento:
 
 ```bash
 export MAX_CONCURRENT_BATCHES=3
-export GEMINI_RETRY_ATTEMPTS=5
-export GEMINI_RETRY_INITIAL_DELAY_SECONDS=2
-export GEMINI_RETRY_MAX_DELAY_SECONDS=30
+export AI_RETRY_ATTEMPTS=5
+export AI_RETRY_INITIAL_DELAY_SECONDS=2
+export AI_RETRY_MAX_DELAY_SECONDS=30
 ```
 
 Saída:

@@ -1,0 +1,2128 @@
+
+
+--- PAGE 1 ---
+
+FIS 
+Universidade de São Paulo
+RH n° 058/2025  
+Físico  (ênfase em ciências do patrimônio)
+Instruções 
+1. Só abra este caderno quando o fiscal autorizar.
+2. Verifique¬se¬o¬seu¬nome¬está¬correto¬na¬capa¬deste¬caderno¬e¬se¬a¬folha¬de¬respostas¬pertence¬ao¬grupo FIS.¬
+Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+3. Durante¬a¬prova,¬são¬vedadas¬a¬comunicação¬entre¬candidatos¬e¬a¬utilização¬de¬qualquer¬material¬de¬consulta¬e¬
+de¬aparelhos¬de¬telecomunicação.¬
+4. Duração¬da¬prova:¬4 horas.¬Cabe¬ao¬candidato¬controlar¬o¬tempo¬com¬base¬nas¬informações¬fornecidas¬pelo¬
+fiscal.¬O(A)¬candidato(a)¬poderá¬retirar-se¬da¬sala¬definitivamente¬apenas¬a¬partir¬das¬15¬h.¬Não¬haverá¬tempo¬
+adicional¬para¬preenchimento¬da¬folha¬de¬respostas.¬¬
+5. O(A)¬ candidato(a)¬ deverá¬ seguir¬ as¬ orientações¬ estabelecidas¬ pela¬ FUVEST¬ a¬ respeito¬ dos¬ procedimentos¬
+adotados¬para¬a¬aplicação¬deste¬concurso.¬
+6. Lembre-se¬de¬que¬a¬FUVEST¬se¬reserva¬ao¬direito¬de¬efetuar¬procedimentos¬adicionais¬de¬identificação¬e¬controle¬
+do¬ processo,¬ visando¬ a¬ garantir¬ a¬ plena¬ integridade¬ do¬ exame.¬ Assim,¬ durante¬ a¬ realização¬ da¬ prova,¬ será¬
+coletada¬por¬um¬fiscal¬uma¬foto¬do(a)¬candidato(a)¬para¬fins¬de¬reconhecimento¬facial,¬para¬uso¬exclusivo¬da¬USP¬
+e¬da¬FUVEST.¬A¬imagem¬não¬será¬divulgada¬nem¬utilizada¬para¬quaisquer¬outras¬finalidades,¬nos¬termos¬da¬lei.¬
+7. Após¬a¬autorização¬do¬fiscal¬da¬sala,¬verifique¬se¬o¬caderno¬está¬completo.¬Ele¬deve¬conter¬60 questões objetivas,¬
+com¬5¬alternativas¬cada,¬e¬1 questão dissertativa.¬Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+8. Preencha¬as¬folhas¬de¬respostas¬com¬cuidado,¬utilizando¬caneta¬esferográfica¬de¬tinta azul ou preta.¬Essas¬folhas¬
+não serão substituídas¬em¬caso¬de¬rasura.¬
+9. Ao¬final¬da¬prova,¬é¬obrigatória¬a¬devolução¬das¬folhas¬de¬respostas¬acompanhadas¬deste¬caderno¬de¬questões.¬
+Declaração 
+Declaro¬que¬li¬e¬estou¬ciente¬das¬informações¬que¬constam¬na¬capa¬desta¬prova,¬na¬folha¬de¬respostas,¬bem¬
+como¬dos¬avisos¬que¬foram¬transmitidos¬pelo¬fiscal¬de¬sala.¬
+¬
+___________________________________________________¬
+ASSINATURA¬
+O(a)¬candidato(a)¬que¬não¬assinar¬a¬capa¬da¬prova¬será¬considerado(a)¬ausente¬da¬prova.¬
+
+
+--- PAGE 2 ---
+
+Concurso Edital RH nº 058/2025 – Físico (com ênfase em ciências do patrimônio) 
+¬
+Texto para as questões 01 e 02 
+¬
+¬“The¬Handmaid’s¬Tale”¬reveals¬the¬limits¬of¬dystopian¬
+television¬
+¬
+¬
+In¬the¬Spring¬of¬2017¬a¬
+troubling¬ vision¬ of¬ America¬
+arrived¬ on¬ television¬ screens.¬
+Based¬ on¬ Margaret¬ Atwood’s¬
+novel¬
+of¬
+1985,¬
+“The¬
+Handmaid’s¬ Tale”¬ depicted¬ a¬
+country¬
+that¬
+had¬
+been¬
+transformed¬ into¬ Gilead,¬ a¬ theocratic¬ dictatorship.¬ Women¬
+were¬stripped¬of¬their¬civil¬rights.¬Those¬who¬were¬fertile¬were¬
+enslaved¬as¬“handmaids”:¬childbearing¬vessels¬for¬the¬ruling¬
+class.¬
+The¬show¬had¬its¬premiere¬on¬Hulu,¬a¬streaming¬service,¬
+not¬ long¬ after¬ Donald¬ Trump’s¬ inauguration,¬ when¬ people¬
+feared¬ democratic¬ backsliding¬ and¬ the¬ creep¬ of¬ religious¬
+fundamentalism¬ into¬ politics.¬ As¬ the¬ president¬ stacked¬ the¬
+courts¬with¬anti-abortion¬judges¬and¬called¬for¬the¬defunding¬
+of¬ Planned¬ Parenthood,¬ a¬ reproductive-health¬ organisation,¬
+some¬exclaimed¬that¬Ms¬Atwood¬had¬produced¬not¬a¬work¬of¬
+fiction,¬but¬a¬prophecy.¬
+The¬handmaids’¬costume¬became¬a¬visual¬metaphor¬of¬
+resistance:¬ protesters¬ dressed¬ in¬ red¬ robes¬ and¬ white¬ caps¬
+stood¬outside¬statehouses¬across¬America.¬Critics¬breathlessly¬
+described¬the¬adaptation¬as¬the¬defining¬artwork¬of¬the¬Trump¬
+era.¬“The¬Handmaid’s¬Tale”¬went¬on¬to¬win¬eight¬Emmy¬awards¬
+for¬its¬first¬season¬and¬became¬the¬first¬streaming¬show¬to¬win¬
+Outstanding¬Drama¬Series.¬
+Six¬seasons¬later,¬it¬will¬come¬to¬an¬end¬on¬May¬27th.¬
+The¬final¬season¬began¬not¬long¬after¬Mr¬Trump¬re-entered¬the¬
+White¬House.¬Yet¬the¬fervour¬around¬the¬show¬has¬dissipated;¬
+after¬ a¬ peak¬ in¬ 2021,¬ viewership¬ has¬ declined.¬ It¬ no¬ longer¬
+dominates¬the¬public¬discussion.¬Why?¬
+One¬reason¬is¬that¬“The¬Handmaid’s¬Tale”¬is¬not,¬in¬fact,¬
+a¬mirror¬of¬the¬Trump¬era.¬Though¬there¬are¬parallels—an¬early¬
+episode¬showed¬an¬attack¬on¬the¬Capitol,¬three¬years¬before¬
+the¬real¬one—Mr¬Trump¬has¬not¬instituted¬compulsory¬rape¬or¬
+the¬death¬penalty¬for¬dissenters.¬
+Another¬is¬that¬the¬show¬has¬suffered¬by¬extending¬the¬
+story¬beyond¬its¬source¬material.¬After¬using¬up¬the¬plot¬of¬Ms¬
+Atwood’s¬slim¬novel¬in¬the¬first¬season,¬the¬show’s¬writers¬faced¬
+the¬tricky¬task¬of¬keeping¬the¬story¬compelling¬and¬the¬stakes¬
+high.¬ June¬ (Elisabeth¬ Moss,¬ pictured),¬ the¬ protagonist,¬ has¬
+been¬trapped¬in¬a¬cycle¬of¬capture,¬escape¬and¬recapture¬that¬
+has¬ strained¬ the¬ story’s¬ credibility¬ and¬ tested¬ viewers’¬
+patience.¬
+Resistance¬fatigue¬has¬also¬played¬a¬role.¬“The¬draw¬of¬
+the¬initial¬season¬was¬that¬it¬was¬so¬apocalyptic,”¬says¬Karen¬
+Ritzenhoff,¬an¬academic.¬Yet¬outrage¬is¬difficult¬to¬sustain,¬on¬
+screen¬and¬off¬it.¬Mr¬Trump¬remains¬unpopular,¬but¬his¬second¬
+term¬has¬not¬seen¬protests¬on¬the¬same¬scale¬as¬in¬2017,¬when¬
+some¬4m¬Americans¬took¬part¬in¬the¬Women’s¬March.¬
+The¬ show’s¬ main¬ problem,¬ however,¬ is¬ that¬ it¬ is¬
+unrelentingly¬bleak.¬One¬critic¬has¬called¬it¬a¬“hellhole”¬of¬“utter¬
+despair¬and¬soul-destroying¬misery”.¬Another¬said¬she¬had¬an¬
+anxiety¬attack¬after¬watching.¬For¬those¬concerned¬about¬the¬
+future¬of¬American¬democracy,¬“The¬Handmaid’s¬Tale”¬offers¬
+no¬respite.¬
+Viewers¬may¬prefer¬the¬forthcoming¬adaptation¬of¬“The¬
+Testaments”,¬ its¬ sequel,¬ instead.¬ Watching¬ people¬ struggle¬
+under¬ a¬ totalitarian¬ regime¬ does¬ not¬ make¬ for¬ an¬ enjoyable¬
+evening.¬Watching¬that¬regime¬collapse¬may¬be¬rather¬more¬
+thrilling.¬
+¬
+The¬Economist,¬May¬2025.¬
+{01} 
+Considerando¬o¬trecho¬“some¬exclaimed¬that¬Ms¬Atwood¬had¬
+produced¬ not¬ a¬ work¬ of¬ fiction,¬ but¬ a¬ prophecy”,¬ assinale¬ a¬
+alternativa¬ que¬ apresenta¬ a¬ reescrita¬ com¬ o¬ uso¬ de¬ verbo¬
+modal,¬que¬ transmite¬ de¬ forma¬ mais¬ precisa¬ o¬ tom¬
+especulativo¬do¬original.¬
+¬
+(A)¬Ms¬ Atwood¬ could¬ have¬ written¬ something¬ more¬ realistic¬
+than¬fiction.¬
+(B)¬Ms¬ Atwood¬ must¬ have¬ created¬ a¬ story¬ that¬ everyone¬
+believed.¬
+(C)¬Ms¬Atwood¬might¬be¬working¬on¬a¬political¬manifesto.¬
+(D)¬Ms¬ Atwood¬ would¬ have¬ avoided¬ fiction¬ in¬ different¬
+circumstances.¬
+(E)¬Ms¬Atwood¬should¬have¬focused¬on¬current¬events¬instead.¬
+##### 
+¬
+{02} 
+No¬ trecho¬ “Resistance¬ fatigue¬ has¬ also¬ played¬ a¬ role”,¬ a¬
+expressão¬ idiomática¬ played a role¬ tem¬ como¬ sujeito¬
+“resistance¬ fatigue”.¬ Considerando¬ a¬ informação¬ descrita,¬ o¬
+que¬ a¬ expressão¬ em¬ destaque¬ indica¬ sobre¬ o¬ papel¬ desse¬
+fator¬no¬contexto¬apresentado¬pelo¬texto?¬
+¬
+(A)¬Que¬o¬cansaço¬do¬público¬foi¬o¬protagonista¬da¬perda¬de¬
+interesse¬pela¬série.¬
+(B)¬Que¬o¬esgotamento¬do¬público¬foi¬o¬principal¬responsável¬
+pelo¬fim¬da¬série.¬
+(C)¬Que¬ a¬ fadiga¬ gerada¬ pela¬ resistência¬ comprometeu¬ a¬
+produção¬de¬novos¬episódios.¬
+(D)¬Que¬o¬esgotamento¬emocional¬do¬público¬contribuiu¬como¬
+um¬dos¬fatores¬para¬a¬queda¬de¬relevância¬da¬série.¬
+(E)¬Que¬ o¬ público¬ deixou¬ de¬ assistir¬ à¬ série¬ por¬ confundir¬
+ficção¬com¬realidade¬política.¬¬
+#####¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 3 ---
+
+Concurso Edital RH nº 058/2025 – Físico (com ênfase em ciências do patrimônio) 
+¬
+Texto para as questões de 03 a 06 
+¬
+In¬Germany,¬the¬Nazis¬invaded¬people’s¬dreams¬
+¬
+¬
+In¬ 1933,¬ after¬
+Adolf¬Hitler¬had¬taken¬
+power,¬
+a¬
+German¬
+housewife¬ dreamed¬
+that¬ her¬ stove¬ was¬
+snooping¬ on¬ her.¬ “It¬
+said¬ everything¬ we’d¬
+said¬
+against¬
+the¬
+regime,¬ every¬ joke¬ we’d¬ told”¬ to¬ an¬ eavesdropping¬
+stormtrooper.¬“God,¬I¬thought,¬what¬is¬it¬going¬to¬say¬next?¬All¬
+my¬little¬comments¬about¬Goebbels?”¬The¬woman’s¬fears¬about¬
+privacy¬ and¬ Hitler’s¬ chief¬ propagandist¬ were¬ recorded¬ by¬
+Charlotte¬Beradt,¬a¬Jewish¬journalist¬who¬collected¬the¬dreams¬
+of¬Germans¬under¬fascism.¬
+Three¬decades¬earlier¬Sigmund¬Freud¬had¬posited¬that¬
+dreams¬ reveal¬ unconscious¬ thoughts.¬ To¬ Beradt,¬ they¬
+disclosed¬truths¬about¬authoritarianism¬that¬no¬one¬would¬dare¬
+say¬aloud.¬Some¬of¬her¬subjects¬were¬nervous¬to¬share¬their¬
+stories.¬Half¬a¬dozen¬dreamed¬that¬it¬was¬forbidden¬to¬dream.¬
+A¬businessman¬imagined¬that¬Goebbels¬visited¬his¬factory.¬“It¬
+took¬ me¬ half¬ an¬ hour¬ to¬ get¬ my¬ arm¬ raised,¬ millimetre¬ by¬
+millimetre,”¬he¬recounted.¬As¬he¬struggled¬to¬salute,¬his¬spine¬
+snapped.¬
+Beradt¬ collected¬ dreams¬ from¬ more¬ than¬ 300¬ people¬
+over¬several¬years,¬transcribing¬them¬in¬code.¬“Party”¬became¬
+“family”;¬ Hitler¬ became¬ “Uncle¬ Hans”.¬ She¬ concealed¬ the¬
+records¬ in¬ bookbindings¬ and¬ smuggled¬ them¬ abroad.¬ They¬
+were¬ published¬ in¬ Germany¬ in¬ 1966;¬ an¬ early¬ English¬
+translation¬went¬out¬of¬print.¬Newly¬translated,¬the¬remarkable¬
+collection—which¬is¬unique¬in¬the¬canon¬of¬Holocaust¬literature¬
+—may¬now¬find¬more¬readers.¬It¬arrives¬at¬a¬time¬when¬people¬
+are¬more¬interested¬in¬the¬connection¬between¬sleep¬and¬well-
+being¬than¬ever¬before.¬
+Beradt¬ organises¬ the¬ material¬ into¬ types¬ of¬ dreams,¬
+interweaving¬the¬accounts¬with¬her¬own¬trenchant¬analysis.¬A¬
+man¬imagines¬sitting¬down¬to¬write¬a¬formal¬complaint¬against¬
+the¬ regime,¬ but¬ the¬ page¬ he¬ sends¬ in¬ is¬ blank—a¬ dream¬
+reflecting¬ his¬ inaction.¬ An¬ eye¬ doctor¬ pictures¬ that¬ he¬ is¬
+summoned¬to¬treat¬Hitler¬because¬“I¬was¬the¬only¬one¬in¬the¬
+world¬who¬could;¬I¬was¬proud¬of¬myself¬for¬that,¬and¬felt¬so¬
+ashamed¬of¬my¬pride¬that¬I¬started¬crying”—a¬dream¬suffused¬
+with¬guilt.¬A¬young¬woman¬envisions¬having¬to¬produce¬identity¬
+papers¬and¬she¬is¬desperate¬to¬prove¬that¬she¬is¬not¬Jewish—
+a¬dream¬of¬racial¬paranoia.¬
+Many¬ of¬ the¬ dreams¬ are¬ eerily¬ prophetic.¬ The¬ doctor¬
+dreams¬about¬Nazi¬militiamen¬knocking¬out¬hospital¬windows¬
+four¬ years¬ before¬ Kristallnacht,¬ the¬ “night¬ of¬ broken¬ glass”¬
+(pictured¬ on¬ previous¬ page),¬ when¬ stormtroopers¬ destroyed¬
+buildings¬
+including¬
+synagogues¬
+and¬
+Jewish-owned¬
+businesses.¬The¬woman¬dreams¬of¬hiding¬under¬“a¬big¬pile¬of¬
+dead¬bodies”.¬It¬was¬the¬early¬1930s,¬years¬before¬the¬world¬
+wouldlearn¬ of¬ the¬ mass¬ murder¬ committed¬ in¬ concentration¬
+camps.¬
+The¬dreams¬of¬Germans¬in¬the¬resistance¬are¬different.¬
+The¬night¬before¬her¬execution,¬Sophie¬Scholl,¬a¬21-year-old¬
+activist,¬dreamed¬that¬she¬was¬carrying¬a¬baby¬up¬a¬mountain¬
+to¬be¬baptised.¬Before¬she¬could¬get¬to¬the¬church,¬a¬crevasse¬
+cracked¬open¬on¬her¬path;¬she¬was¬able¬to¬set¬the¬baby¬down¬
+before¬she¬disappeared¬into¬the¬chasm.¬Scholl¬saw¬this¬as¬a¬
+metaphor¬for¬the¬fight¬against¬fascism.¬“The¬child¬is¬our¬idea,¬
+and¬it¬will¬prevail¬despite¬all¬obstacles,”¬she¬explained.¬“We¬
+can¬prepare¬the¬way¬for¬it,¬even¬though¬we¬will¬have¬to¬die¬for¬
+it¬before¬its¬victory.”¬
+Beradt¬ puts¬ Jewish¬ dreamers¬ in¬ their¬ own¬ section¬ as¬
+their¬ dreams,¬ “sharpened¬ by¬ the¬ acute¬ threat¬ they¬ were¬
+under...seem¬ downright¬ clairvoyant”.¬ In¬ 1935,¬ a¬ housewife¬
+dreamed¬that¬“We¬shouldn’t¬go¬back¬to¬our¬homes,¬something¬
+was¬going¬to¬happen.”¬She¬wanders¬from¬building¬to¬building,¬
+seeking¬refuge¬and¬finding¬none.¬As¬Beradt¬notes,¬the¬dream¬
+anticipated¬ events¬ to¬ come—the¬ displacement¬ of¬ Jews¬ in¬
+hiding¬during¬the¬“final¬solution”.¬
+Robert¬Ley,¬a¬high-ranking¬Nazi,¬suggested¬in¬1938¬that¬
+the¬only¬Germans¬with¬any¬privacy¬were¬those¬sleeping.¬He¬
+under-rated¬the¬regime’s¬power.¬Dreams¬reflect¬and¬refract¬an¬
+individual’s¬experience,¬shaped¬as¬it¬is¬by¬policy¬and¬the¬public¬
+mood.¬ Even¬ in¬ sleep,¬ the¬ Reich¬ occupied¬ the¬ minds¬ of¬ its¬
+subjects.¬
+The¬Economist,¬May¬2025.¬
+¬
+{03} 
+No¬trecho¬“They¬disclosed¬truths¬about¬authoritarianism¬that¬no¬
+one¬would¬dare¬say¬aloud”¬(2º¬parágrafo),¬o¬pronome¬“they”¬
+refere-se¬à¬qual¬termo¬do¬parágrafo¬anterior?¬
+¬
+(A)¬Os¬relatos¬codificados¬por¬Beradt.¬
+(B)¬Os¬temores¬expressos¬pelas¬vítimas¬do¬regime.¬¬
+(C)¬As¬ ideias¬ propostas¬ por¬ Freud¬ sobre¬ os¬ sonhos.¬
+(D)¬As¬histórias¬secretamente¬compartilhadas¬com¬a¬autora.¬
+(E)¬Os¬sonhos¬coletados¬por¬Charlotte¬Beradt.¬
+#####
+ 
+{04} 
+No¬ trecho¬ “She¬ was¬ proud¬ of¬ herself¬ for¬ that,¬ and¬ felt¬ so¬
+ashamed¬of¬her¬pride¬that¬she¬started¬crying”,¬a¬combinação¬
+entre¬orações¬expressa¬uma¬relação¬de:¬
+¬
+(A)¬Duas¬coordenadas¬seguidas¬de¬uma¬subordinada¬causal.¬
+(B)¬Uma¬coordenação¬aditiva¬seguida¬de¬uma¬subordinação¬
+consecutiva.¬
+(C)¬Uma¬ adversativa¬ oculta¬ seguida¬ de¬ uma¬ coordenada¬
+explicativa.¬
+(D)¬Duas¬orações¬subordinadas¬temporais¬
+(E)¬Uma¬coordenada¬alternativa¬seguida¬de¬uma¬subordinada¬
+condicional.¬
+#####
+ 
+{05} 
+Qual¬das¬alternativas¬a¬seguir¬apresenta¬a¬reformulação¬que¬
+expressa,¬ com¬ mais¬ precisão,¬ o¬ conteúdo¬ da¬ frase:¬ “Newly¬
+translated,¬the¬remarkable¬collection—which¬is¬unique¬in¬the¬
+canon¬of¬Holocaust¬literature—may¬now¬find¬more¬readers”?¬
+¬
+(A)¬A¬recent¬translation¬of¬the¬work,¬notable¬within¬Holocaust¬
+studies,¬ is¬ expected¬ to¬ generate¬ broader¬ academic¬
+interest.¬
+(B)¬With¬ a¬ new¬ translation,¬ this¬ contribution¬ to¬ Holocaust¬
+literature¬could¬reach¬a¬wider¬audience.¬
+(C)¬The¬text,¬now¬rewritten,¬might¬stand¬out¬as¬one¬of¬the¬most¬
+influential¬works¬about¬the¬Holocaust.¬
+(D)¬A¬fresh¬version¬of¬the¬collection,¬considered¬a¬rare¬piece¬
+within¬Holocaust¬literature,¬has¬the¬potential¬to¬attract¬more¬
+readers.¬
+(E)¬Following¬its¬new¬English¬edition,¬the¬historical¬volume¬aims¬
+to¬gain¬visibility¬in¬literary¬and¬historical¬circles.¬#####¬
+
+
+--- PAGE 4 ---
+
+Concurso Edital RH nº 058/2025 – Físico (com ênfase em ciências do patrimônio) 
+¬
+{06} 
+Com¬base¬no¬trecho¬“Dreams¬reflect¬and¬refract¬an¬individual’s¬
+experience,¬shaped¬as¬it¬is¬by¬policy¬and¬the¬public¬mood”¬(8º¬
+parágrafo)¬e¬no¬contexto¬em¬que¬ele¬aparece,¬é¬possível¬inferir¬
+que:¬
+¬
+(A)¬O¬espaço¬onírico¬é¬uma¬forma¬de¬resistência¬ativa,¬onde¬o¬
+sujeito¬ pode¬ escapar¬ temporariamente¬ da¬ opressão¬ do¬
+regime.¬
+(B)¬A¬ experiência¬ subjetiva¬ expressa¬
+nos¬ sonhos¬ é,¬
+inevitavelmente,¬ influenciada¬ pelo¬ ambiente¬ político¬ e¬
+cultural¬em¬que¬o¬indivíduo¬vive.¬
+(C)¬Sonhar¬permite¬que¬os¬indivíduos¬se¬mantenham¬imunes¬
+às¬pressões¬sociais¬e¬conservem¬intacta¬sua¬identidade¬
+pessoal.¬
+(D)¬Os¬ sonhos¬ funcionam¬ como¬ evidência¬ de¬ que¬ os¬
+indivíduos¬
+internalizam,¬
+passivamente,¬
+a¬
+ideologia¬
+dominante¬sem¬qualquer¬consciência.¬
+(E)¬O¬regime¬totalitário¬falha¬em¬alcançar¬o¬inconsciente¬dos¬
+cidadãos,¬permitindo¬que¬os¬sonhos¬permaneçam¬livres¬de¬
+censura. #####¬
+¬
+ 
+Texto para as questões de 07 a 11¬
+ 
+Trem¬de¬ferro¬
+¬
+A¬ infância¬ era¬ ferroviária.¬ Meninos¬ de¬ meu¬ tempo¬ iam¬ ser¬
+maquinistas.¬ Pé¬ descalço¬ no¬ calor¬ do¬ trilho.¬ Cabeleira¬ de¬
+capim¬esvoaçando.¬Pontilhões¬me¬enternecendo.¬Os¬êmbolos¬
+poéticos¬do¬espaço¬ferroviário.¬Minha¬fantasia¬não¬era¬morada¬
+de¬entes¬sobrenaturais.¬Máquinas¬eram¬sobrenaturais.¬Sonhos¬
+engrenados¬pelo¬homem¬cabiam¬em¬nossa¬medida.¬Entro¬no¬
+túnel¬ com¬ o¬ sobressalto¬ musical¬ de¬ quem¬ começa¬ um¬
+improviso.¬A¬penumbra,¬menos¬inteligível,¬mais¬alusiva¬que¬a¬
+luz.¬ Divaga¬ nessas¬ entranhas¬ um¬ divertimento¬ perverso¬ de¬
+túmulo.¬Mas¬a¬boca¬de¬saída¬berra¬pelo¬sol.¬
+A¬ferrovia¬tornava¬possível¬o¬possível.¬Materializava¬o¬menino.¬
+Os¬ trilhos¬ faziam¬ um¬ caminho¬ à¬ perplexidade.¬ Prometiam¬
+convivência,¬exaltação,¬aromas,¬cidades,¬canções¬e¬alguma¬
+solidão¬admirável.¬¬
+Existi¬por¬antecipação.¬Olhava¬carregador,¬operário,¬menino¬
+do¬pastel.¬Pasmado,¬erguia¬a¬cara¬para¬o¬chefe¬do¬trem.¬O¬
+sino¬ repicava¬ à¬ entrada¬ do¬ monstro.¬ Passava¬ um¬ tempão¬
+espiando¬o¬desvio¬automático.¬Me¬falava¬de¬outro¬mundo¬o¬
+pica-pau¬do¬telégrafo.¬Trocaria¬minhas¬moedas¬pela¬lanterna¬
+que¬o¬gigante¬de¬impermeável¬esburacado¬carregava¬na¬tarde¬
+de¬aguaceiro.¬Meus¬dedos¬roçavam¬as¬garres¬do¬limpa-trilhos.¬
+Não¬é¬só¬ver¬pra¬viver.¬Sentir¬na¬pele¬a¬locomotiva.¬Sujar-me¬
+de¬graxa¬e¬carvão.¬Fui¬foguista.¬Guarita.¬Engate.¬Luz¬na¬curva.¬
+Sem¬saber¬até¬hoje¬decompor¬sortilégio.¬Quase¬consumido,¬
+subo¬os¬vagões¬sem¬dizer¬nada,¬encantado¬ainda.¬¬
+¬
+Jornal¬do¬Brasil,¬11/07/1990.¬
+ 
+CAMPOS,¬Paulo¬Mendes.¬Minhas¬janelas.¬Companhia¬das¬Letras.¬2025.¬
+¬
+{07} 
+Com¬ base¬ em¬ suas¬ características,¬ o¬ texto¬ pode¬ ser¬
+classificado¬como:¬
+¬
+(A)¬Relato¬ técnico,¬ por¬ meio¬ de¬ descrição¬ de¬ função¬ das¬
+ferrovias.¬
+(B)¬Artigo¬ de¬ opinião,¬ com¬ posicionamento¬ crítico¬ e¬
+argumentos¬racionais.¬
+(C)¬Resenha,¬com¬predominância¬de¬informações¬factuais.¬
+(D)¬Crônica,¬marcada¬por¬lirismo¬e¬evocação¬da¬infância.¬
+(E)¬Editorial,¬ destinado¬ a¬ persuadir¬ o¬ leitor¬ sobre¬ políticas¬
+públicas.¬#####¬
+{08} 
+O¬texto¬apresenta-se¬como¬um¬exercício¬de¬memória¬afetiva,¬
+por¬meio¬do¬qual¬a¬narrativa¬
+¬
+(A)¬tem¬como¬finalidade¬orientar¬sobre¬o¬funcionamento¬dos¬
+trens¬e¬seus¬mecanismos.¬
+(B)¬sugere,¬ de¬ forma¬ indireta,¬ uma¬ crítica¬ às¬ condições¬ de¬
+trabalho¬nas¬ferrovias¬brasileiras.¬
+(C)¬revela¬distanciamento¬emocional¬diante¬da¬modernidade¬
+representada¬pelas¬máquinas.¬
+(D)¬destaca¬com¬objetividade¬elementos¬passionais¬sobre¬o¬
+sistema¬ferroviário¬nacional.¬
+(E)¬recria¬ poeticamente¬ a¬ infância¬ com¬ imagens¬ sensoriais¬
+ligadas¬ao¬universo¬dos¬trens.¬
+##### 
+¬
+{09} 
+A¬expressão¬“máquinas¬eram¬sobrenaturais”¬revela¬o¬emprego¬
+de¬
+¬
+(A)¬metáfora,¬ao¬atribuir¬caráter¬mágico¬às¬máquinas.¬
+(B)¬metonímia,¬ao¬usar¬“máquinas”¬para¬designar¬o¬progresso.¬
+(C)¬eufemismo,¬para¬suavizar¬o¬medo¬da¬tecnologia.¬
+(D)¬antítese,¬por¬contrapor¬máquinas¬e¬sobrenatural.¬
+(E)¬ironia,¬ao¬criticar¬implicitamente¬a¬ingenuidade¬infantil.¬
+##### 
+¬
+{10} 
+O¬ trecho¬ “Fui¬ foguista.¬ Guarita.¬ Engate.¬ Luz¬ na¬ curva”¬ (3o¬
+parágrafo)¬expressa¬um¬movimento¬de¬
+¬
+(A)¬desconexão¬ entre¬ sujeito¬ e¬ ambiente,¬ revelando¬ tédio¬
+diante¬da¬monotonia¬ferroviária.¬
+(B)¬fusão¬ entre¬ sujeito¬ e¬ paisagem¬ ferroviária,¬ compondo¬
+simbiose¬com¬a¬máquina.¬
+(C)¬enumeração¬ cronológica¬ de¬ cargos¬ administrativos¬
+ferroviários,¬com¬foco¬na¬estrutura¬gerencial.¬
+(D)¬alternância¬entre¬primeira¬e¬terceira¬pessoa,¬que¬rompe¬a¬
+unidade¬enunciativa.¬
+(E)¬intertextualidade¬
+entre¬
+textos¬
+técnicos¬
+sobre¬
+o¬
+funcionamento¬dos¬trens.¬
+#####
+ 
+{11} 
+No¬trecho¬“A¬ferrovia¬tornava¬possível¬o¬possível”,¬o¬narrador¬
+utiliza¬uma¬construção¬que¬
+¬
+(A)¬marca¬ um¬ afastamento¬ emocional¬ entre¬ o¬ narrador¬ e¬ o¬
+objeto¬descrito.¬
+(B)¬aponta¬uma¬dúvida¬sobre¬a¬eficácia¬simbólica¬da¬ferrovia.¬
+(C)¬sugere¬a¬impossibilidade¬de¬concretizar¬qualquer¬sonho¬
+da¬infância.¬
+(D)¬reforça¬ um¬ efeito¬ enfático¬ e¬ paradoxal,¬ ao¬ insistir¬ no¬
+concebido¬como¬realizável.¬
+(E)¬indica¬que¬a¬ferrovia¬só¬existia¬no¬plano¬da¬imaginação¬do¬
+narrador.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Concurso Edital RH nº 058/2025 – Físico (com ênfase em ciências do patrimônio) 
+¬
+Texto para as questões de 12 a 15 
+¬
+Amor¬Fati:¬o¬conceito¬de¬Nietzsche¬que¬virou¬febre¬nas¬redes¬
+¬
+Explicar¬resumidamente¬qualquer¬conceito¬filosófico¬já¬
+parece,¬ por¬ si¬ só,¬ uma¬ tarefa¬ imprudente.¬ Isso¬ se¬ acentua¬
+quando¬o¬autor¬da¬ideia¬é¬ninguém¬menos¬que¬o¬filósofo¬alemão¬
+Nietzsche.¬Isso¬se¬deve,¬sobretudo,¬ao¬fato¬de¬que¬não¬escreve¬
+como¬um¬filósofo¬sistemático.¬Ele¬rejeita¬os¬tratados¬acadêmicos¬
+e¬adota¬um¬estilo¬aforístico,¬poético¬e¬provocador.¬Seus¬textos¬
+mesclam¬filosofia,¬poesia,¬crítica¬cultural,¬psicologia¬e¬até¬ironia.¬
+Essa¬multiplicidade¬de¬abordagens¬torna¬suas¬ideias¬ambíguas¬
+e¬abertas¬a¬múltiplas¬interpretações.¬É¬possível¬debater¬durante¬
+horas¬apenas¬um¬de¬seus¬conceitos.¬Não¬à¬toa,¬suas¬ideias,¬
+muitas¬vezes¬fragmentadas,¬continuam¬sendo¬tema¬de¬teses¬e¬
+dissertações¬mais¬de¬um¬século¬após¬sua¬morte.¬Uma¬de¬suas¬
+concepções¬ voltou¬ a¬ cativar¬ a¬ audiência¬ nas¬ redes¬ sociais¬
+recentemente.¬ Desta¬ vez,¬ trata-se¬ do¬ conceito¬ “Amor¬ fati”,¬
+traduzido¬como¬“amor¬ao¬destino”.¬¬A¬ideia¬aparece¬no¬livro¬A¬
+Gaia¬Ciência:¬¬“Quero¬cada¬vez¬mais¬aprender¬a¬ver¬como¬belo¬
+aquilo¬que¬é¬necessário¬nas¬coisas.¬Amor-fati¬[amor¬ao¬destino]:¬
+seja¬este,¬doravante,¬o¬meu¬amor!”¬¬
+Uma¬primeira¬interpretação¬diz¬respeito¬à¬aceitação¬da¬
+imanência,¬algo¬que¬tem¬em¬si¬próprio¬o¬seu¬princípio¬e¬o¬seu¬
+fim.¬ De¬ forma¬ mais¬ vulgar,¬ uma¬ das¬ perguntas¬ que¬ se¬ pode¬
+fazer¬antes¬de¬entrar¬no¬sentido¬do¬conceito¬é:¬como¬é¬possível¬
+aceitar¬a¬vida,¬dar¬sentido¬a¬ela,¬sabendo¬de¬seu¬fim,¬diante¬do¬
+vazio?¬¬A¬ideia,¬portanto,¬mergulha¬na¬aceitação¬radical¬da¬vida¬
+tal¬ como¬ ela¬ é,¬ com¬ suas¬ dores,¬ perdas,¬ alegrias¬ e¬
+imperfeições,¬sem¬ressentimento,¬negação¬ou¬arrependimento.¬
+¬
+Redação¬Bravo!¬Revista¬Bravo.¬Junho¬de¬2025.¬Adaptado.¬
+¬
+{12} 
+Com¬base¬no¬texto,¬o¬conceito¬de¬Amor¬fati¬está¬relacionado¬
+a:¬
+¬
+(A)¬Um¬ideal¬cristão¬de¬resignação¬e¬esperança¬em¬um¬futuro¬
+melhor.¬
+(B)¬Uma¬tentativa¬de¬negar¬o¬sofrimento¬da¬existência¬por¬meio¬
+do¬otimismo¬ingênuo.¬
+(C)¬Uma¬aceitação¬profunda¬da¬vida¬em¬sua¬totalidade,¬sem¬
+arrependimento¬ou¬negação.¬
+(D)¬Uma¬filosofia¬de¬negação¬do¬corpo¬e¬de¬valorização¬da¬
+metafísica.¬
+(E)¬Um¬modelo¬científico¬de¬superação¬das¬falhas¬humanas¬
+pela¬razão¬lógica.¬
+#####
+ 
+{13} 
+A¬expressão¬“não¬à¬toa”,¬no¬trecho¬“Não¬à¬toa,¬suas¬ideias¬[…]¬
+continuam¬sendo¬tema¬de¬teses”,¬introduz¬
+¬
+(A)¬um¬ contra-argumento¬ que¬ contesta¬ o¬ uso¬ das¬ redes¬
+sociais¬como¬fonte¬filosófica.¬
+(B)¬um¬juízo¬de¬valor¬negativo¬sobre¬os¬textos¬fragmentados¬
+do¬filósofo.¬
+(C)¬uma¬justificativa¬para¬a¬ permanência¬ do¬interesse¬pelas¬
+ideias¬de¬Nietzsche.¬
+(D)¬uma¬ explicação¬ sobre¬ o¬ conceito¬ de¬ imanência¬ como¬
+chave¬de¬leitura.¬
+(E)¬um¬recurso¬de¬ironia¬que¬anula¬o¬valor¬das¬interpretações¬
+correntes.¬
+##### 
+ 
+ 
+{14} 
+No¬ texto,¬ o¬ uso¬ da¬ expressão¬ “ideias¬ fragmentadas”¬ indica¬
+que:¬
+¬
+(A)¬O¬filósofo¬escolheu¬esconder¬trechos¬mais¬polêmicos¬de¬
+sua¬filosofia¬pessoal.¬
+(B)¬As¬obras¬do¬filósofo¬foram¬lançadas¬com¬trechos¬ausentes¬
+e¬sem¬revisão¬final.¬
+(C)¬O¬ livro¬ A¬ Gaia¬ Ciência¬ foi¬ montado¬ a¬ partir¬ de¬ textos¬
+perdidos¬em¬arquivos¬antigos.¬
+(D)¬As¬ideias¬do¬autor¬foram¬divididas¬e¬alteradas¬por¬filósofos¬
+de¬outras¬épocas.¬
+(E)¬O¬ pensamento¬ de¬ Nietzsche¬ tem¬ estilo¬ solto,¬ sem¬
+sequência¬lógica¬ou¬estrutura¬fixa.¬¬#####¬
+¬
+{15} 
+No¬ trecho¬ “Uma¬ primeira¬ interpretação¬ diz¬ respeito¬ à¬
+aceitação¬da¬imanência”,¬o¬termo¬“imanência”¬é¬empregado¬
+com¬o¬sentido¬de:¬
+¬
+(A)¬Realidade¬que¬se¬basta¬em¬si¬mesma,¬sem¬depender¬de¬
+algo¬fora¬dela.¬
+(B)¬Fé¬em¬uma¬ordem¬superior¬que¬rege¬os¬acontecimentos¬da¬
+vida.¬
+(C)¬Tendência¬a¬idealizar¬a¬vida¬como¬projeção¬de¬um¬além-
+mundo.¬
+(D)¬Busca¬ por¬ causas¬ divinas¬ como¬ explicação¬ para¬ a¬
+existência.¬
+(E)¬Noção¬ de¬ que¬ a¬ verdade¬ está¬ além¬ do¬ que¬ se¬ pode¬
+compreender.¬¬#####¬
+¬
+{16} 
+Durante¬ seu¬ mandato,¬ José¬ Mujica¬ não¬ se¬ mudou¬ para¬ a¬
+residência¬presidencial,¬como¬costumam¬fazer¬os¬chefes¬de¬
+Estado¬ ao¬ redor¬ do¬ mundo.¬ Preferiu¬ continuar,¬ junto¬ com¬ a¬
+esposa,¬ vivendo¬ em¬ sua¬ modesta¬ casa¬ em¬ um¬ sítio¬ nos¬
+arredores¬ de¬ Montevidéu,¬ sem¬ empregados¬ domésticos,¬ e¬
+com¬ pouca¬ segurança.¬ O¬ casal¬ nunca¬ teve¬ filhos.¬ A¬ isso,¬
+soma-se¬seu¬estilo¬informal¬de¬se¬vestir,¬o¬hábito¬de¬dirigir¬um¬
+velho¬Fusca¬azul-celeste¬de¬1987,¬e¬a¬decisão¬de¬doar¬grande¬
+parte¬do¬seu¬salário,¬o¬que¬lhe¬rendeu¬o¬título¬na¬imprensa¬de¬
+"o¬presidente¬mais¬pobre¬do¬mundo".¬Mas¬Mujica,¬conhecido¬
+em¬ seu¬ país¬ pelo¬ apelido¬ de¬ "Pepe",¬ sempre¬ rejeitou¬ esse¬
+rótulo.¬"Dizem¬que¬sou¬um¬presidente¬pobre.¬Não,¬eu¬não¬sou¬
+um¬ presidente¬ pobre",¬ disse¬ em¬ entrevista¬ à¬ BBC¬ News¬
+Mundo,¬ serviço¬ em¬ espanhol¬ da¬ BBC.¬ "Pobres¬ são¬ os¬ que¬
+querem¬ sempre¬ mais,¬ que¬ não¬ se¬ satisfazem¬ com¬ nada",¬
+afirmou.¬"Esses¬são¬pobres,¬porque¬entram¬em¬uma¬corrida¬
+infinita.¬E¬não¬terão¬tempo¬suficiente¬na¬vida."¬
+BBC¬News¬Brasil¬
+¬
+Em¬relação¬ao¬texto¬apresentado,¬é¬correto¬afirmar¬que,¬para¬
+Pepe¬Mujica,¬a¬pobreza¬estaria¬relacionada¬à¬
+¬
+(A)¬incapacidade¬ de¬ aproveitar¬ bem¬ o¬ tempo¬ e¬ à¬ ganância¬
+material.¬
+(B)¬ausência¬de¬saúde¬física,¬mental¬e¬espiritual.¬
+(C)¬ingratidão¬relativa¬aos¬ganhos¬e¬à¬ausência¬de¬ganância¬
+material.¬
+(D)¬tendência¬de¬acumulação¬de¬bens¬e¬valores¬e¬à¬doença.¬
+(E)¬ausência¬de¬filhos¬e¬à¬ganância¬material.¬
+##### 
+¬
+ 
+
+
+--- PAGE 6 ---
+
+Concurso Edital RH nº 058/2025 – Físico (com ênfase em ciências do patrimônio) 
+¬
+{17} 
+O¬ ator¬ Wagner¬ Moura¬ venceu¬ neste¬ sábado¬ (24/05/2025)¬ o¬
+prêmio¬de¬melhor¬ator¬no¬Festival¬de¬Cannes¬2025,¬pelo¬filme¬“O¬
+Agente¬ Secreto”.¬ O¬ diretor¬ do¬ longa,¬ Kleber¬ Mendonça¬ Filho,¬
+também¬conquistou¬o¬prêmio¬de¬melhor¬direção.¬Também¬nesta¬
+edição¬do¬Festival¬de¬Cannes,¬o¬filme¬brasileiro¬ganhou¬o¬prêmio¬
+da¬Crítica.¬Esse¬prêmio,¬no¬entanto,¬não¬faz¬parte¬da¬lista¬oficial¬–¬
+a¬categoria¬foi¬criada¬por¬críticos¬de¬forma¬paralela.¬“O¬Agente¬
+Secreto”¬ levou¬ ainda¬ o¬ prêmio¬ “Art¬ et¬ Essai”,¬ dos¬ exibidores¬
+independentes¬da¬França.¬Além¬de¬“O¬Agente¬Secreto”,¬o¬cinema¬
+nacional¬ ganhou¬ outras¬ homenagens¬ no¬ Festival¬ de¬ Cannes¬
+deste¬ano.¬O¬Brasil¬foi¬escolhido¬como¬o¬país¬de¬honra¬dessa¬
+edição.¬Marianna¬Brennand¬recebeu¬o¬prêmio¬Women¬in¬Motion¬
+Emerging¬Talent,¬que¬reconhece¬o¬primeiro¬longa¬de¬ficção¬de¬
+diretoras¬estreantes.¬O¬troféu¬foi¬entregue¬por¬“Manas”.¬
+¬
+G1.¬Pop¬&¬Arte¬
+¬
+O¬reconhecimento¬internacional¬dos¬filmes¬“Ainda¬estou¬aqui”,¬
+“O¬Agente¬Secreto”¬e¬“Manas”¬têm¬em¬comum¬o¬fato¬de¬as¬
+obras¬apresentarem¬crítica¬à¬situação¬
+¬
+(A)¬política¬ na¬ época¬ da¬ ditadura¬ militar,¬ em¬ especial¬ à¬
+atuação¬ direta¬ dos¬ Presidentes¬ da¬ República¬ na¬
+perseguição¬aos¬oponentes¬do¬regime.¬
+(B)¬econômica¬ do¬ país¬ entre¬ a¬ redemocratização¬ e¬ a¬
+implantação¬do¬Real.¬
+(C)¬política¬ nacional¬ após¬ o¬ impeachment¬ da¬ ex-Presidente¬
+Dilma¬Rousseff.¬
+(D)¬social¬brasileira¬em¬relação¬à¬exclusão¬dos¬cidadãos¬do¬
+mercado¬formal¬de¬trabalho.¬
+(E)¬social¬ e¬ familiar¬ dos¬ protagonistas,¬ agravada¬ pela¬
+ineficiência¬ do¬ Estado¬ na¬ proteção¬ dos¬ cidadãos¬
+brasileiros.¬
+##### 
+¬
+{18} 
+ 
+ 
+Disponível¬em:¬https://einvestidor.estadao.com.br¬
+ 
+Com¬base¬em¬seus¬conhecimentos,¬é¬possível¬afirmar¬que¬a¬
+imagem¬apresentada¬faz¬alusão¬
+¬
+(A)¬ao¬declínio¬econômico¬dos¬Estados¬Unidos¬em¬relação¬ao¬
+resto¬do¬mundo,¬decorrente¬do¬descontrole¬inflacionário¬e¬
+das¬altas¬taxas¬de¬desemprego¬observadas¬desde¬o¬início¬
+do¬atual¬mandato¬de¬Donald¬Trump.¬
+(B)¬à¬pujança¬econômica¬chinesa,¬que¬ultrapassou¬os¬Estados¬
+Unidos¬ como¬ a¬ principal¬ potência¬ mundial,¬ provocando¬
+uma¬ revolução¬ cultural¬ com¬ a¬ imposição¬ de¬ suas¬
+produções¬culturais¬ao¬restante¬dos¬povos,¬sobretudo¬por¬
+meio¬de¬séries¬em¬plataformas¬de¬streaming.¬
+(C)¬à¬ guerra¬ tarifária¬ estabelecida¬ entre¬ os¬ EUA¬ e¬ a¬ China¬
+decorrente¬da¬adoção¬de¬sobretaxas¬alfandegárias¬pela¬
+administração¬Trump¬e¬a¬consequente¬adoção¬de¬medidas¬
+equivalentes¬pelo¬governo¬de¬Xi¬Jinping.¬
+(D)¬ao¬equilíbrio¬comercial,¬político¬e¬militar¬alcançado¬entre¬
+Estados¬ Unidos¬ e¬ China¬ graças¬ à¬ celebração¬ de¬ um¬
+tratado¬ de¬ livre-comércio,¬ com¬ imposição¬ de¬ uma¬ tarifa¬
+externa¬única¬comum.¬
+(E)¬ao¬ relevante¬ papel¬ que¬ o¬ órgão¬ de¬ solução¬ de¬
+controvérsias¬ da¬ Organização¬ Mundial¬ do¬ Comércio¬
+(OMC)¬ desempenhou¬ na¬ superação¬ de¬ um¬ contencioso¬
+tarifário¬iniciado¬pelos¬Estados¬Unidos¬com¬a¬imposição¬de¬
+uma¬ sobretaxa¬ abusiva¬ às¬ importações¬ de¬ produtos¬
+chineses.¬
+##### 
+ 
+Texto para as questões 19 e 20 
+Paulo¬teve¬sua¬inscrição¬em¬concurso¬para¬a¬carreira¬docente¬
+da¬USP¬indeferida¬pela¬Congregação¬de¬uma¬das¬Unidades.¬
+Contra¬essa¬decisão,¬interpôs¬recurso,¬que¬foi¬levado¬ao¬órgão¬
+recorrido¬ para¬ exercício¬ eventual¬ de¬ juízo¬ de¬ retratação.¬
+Mantida¬ a¬ decisão¬ da¬ Congregação,¬ em¬ nova¬ votação,¬ o¬
+processo¬ foi¬ encaminhado¬ à¬ Secretaria¬ Geral¬ da¬ USP¬ e¬
+incluído¬ na¬ pauta¬ da¬ Comissão¬ de¬ Legislação¬ e¬ Recursos¬
+(CLR),¬
+depois¬
+de¬
+ouvida¬
+a¬
+Procuradoria¬
+Geral¬
+da¬
+Universidade.¬
+¬
+{19} 
+Nos¬termos¬do¬Regimento¬Geral¬da¬USP,¬a¬decisão¬da¬CLR¬
+tem¬caráter¬
+¬
+(A)¬definitivo,¬ não¬ cabendo¬ qualquer¬ recurso¬ contra¬ seu¬
+conteúdo.¬
+(B)¬opinativo,¬ cabendo¬ a¬ deliberação¬ à¬ Comissão¬ de¬
+Atividades¬Acadêmicas.¬
+(C)¬opinativo,¬
+cabendo¬
+a¬
+deliberação¬
+ao¬
+Conselho¬
+Universitário.¬
+(D)¬deliberativo,¬cabendo¬recurso¬ao¬Conselho¬Universitário.¬
+(E)¬deliberativo,¬cabendo¬recurso¬ao¬Conselho¬Universitário,¬
+com¬juízo¬de¬retratação¬eventual¬pela¬própria¬CLR.¬
+##### 
+ 
+{20} 
+A¬respeito¬do¬juízo¬de¬retratação¬no¬âmbito¬da¬Universidade¬
+de¬São¬Paulo,¬considere¬as¬afirmações¬a¬seguir:¬
+¬
+I.¬¬É¬a¬regra¬em¬todos¬os¬recursos¬contra¬decisões¬tomadas¬
+por¬órgãos¬executivos¬e¬colegiados.¬
+II.¬Está¬sujeito,¬sempre,¬à¬efetiva¬presença¬dos¬membros¬do¬
+órgão¬recorrido.¬
+III.¬Obriga¬ que¬ a¬ decisão¬ seja¬ reanalisada¬ à¬ luz¬ dos¬
+argumentos¬do¬recorrente,¬pelo¬mesmo¬órgão¬que¬tomou¬
+a¬decisão¬recorrida¬e,¬em¬caso¬de¬reforma¬da¬decisão,¬o¬
+recurso¬se¬esgota¬naquela¬instância.¬
+¬
+É¬correto¬o¬que¬se¬afirma¬em:¬
+¬
+(A)¬I¬e¬II,¬apenas.¬
+(B)¬I¬e¬III,¬apenas.¬
+(C)¬II,¬apenas.¬
+(D)¬II¬e¬III,¬apenas.¬
+(E)¬III,¬apenas.¬
+##### 
+¬
+¬
+¬
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Concurso Edital RH nº 058/2025 – Físico (com ênfase em ciências do patrimônio) 
+¬
+{21} 
+Em¬ certa¬ Unidade¬ Universitária,¬ os¬ Professores¬ Titulares¬
+possuem¬ representação¬ na¬ Congregação.¬ A¬ Diretora¬
+encontra-se¬ em¬ licença¬ médica¬ e¬ a¬ Unidade¬ está¬ sendo¬
+conduzida¬ pelo¬ Vice-Diretor.¬ Ocorre¬ que¬ ele¬ é¬ obrigado¬ a¬
+gozar¬suas¬férias.¬Nesse¬caso,¬a¬gestão¬da¬Unidade¬caberá¬
+ao¬Professor¬Titular¬
+¬
+(A)¬da¬Unidade¬com¬maior¬tempo¬de¬serviço¬docente¬na¬USP.¬
+(B)¬membro¬da¬Congregação¬da¬Unidade¬com¬maior¬tempo¬
+de¬serviço¬docente¬na¬USP.¬
+(C)¬da¬Unidade¬que¬ocupe¬há¬mais¬tempo¬o¬cargo¬de¬Titular.¬
+(D)¬membro¬da¬Congregação¬da¬Unidade¬que¬ocupe¬há¬mais¬
+tempo¬o¬cargo¬de¬Titular.¬
+(E)¬que,¬ não¬ sendo¬ membro¬ da¬ Congregação¬ da¬ Unidade,¬
+tenha¬o¬maior¬tempo¬de¬serviço¬docente¬na¬USP.¬
+##### 
+¬
+{22} 
+Durante¬a¬criação¬de¬uma¬apresentação¬no¬PowerPoint¬365,¬
+um¬ usuário¬ adiciona¬ múltiplas¬ animações¬ em¬ diferentes¬
+objetos¬de¬um¬mesmo¬slide¬(como¬títulos,¬imagens¬e¬caixas¬de¬
+texto).¬Após¬aplicar¬os¬efeitos,¬deseja-se¬alterar¬a¬ordem¬em¬
+que¬esses¬elementos¬são¬animados,¬sem¬removê-los.¬
+¬
+Assinale¬ a¬ alternativa¬ que¬ apresenta¬ o¬ procedimento¬ mais¬
+adequado¬para¬reordenar¬as¬animações¬já¬aplicadas¬a¬objetos¬
+em¬um¬slide.¬
+¬
+(A)¬Acessar¬a¬guia¬“Design”,¬selecionar¬os¬objetos¬e¬aplicar¬
+novamente¬os¬efeitos¬na¬ordem¬desejada.¬
+(B)¬Acessar¬ a¬ guia¬ “Animações”,¬ clicar¬ em¬ “Painel¬ de¬
+Animação”¬ e¬ arrastar¬ os¬ efeitos¬ para¬ a¬ nova¬ ordem¬
+desejada.¬
+(C)¬Selecionar¬o¬slide¬no¬modo¬“Classificação¬de¬Slides”¬e¬usar¬
+a¬opção¬“Reordenar¬Transições”¬no¬menu¬de¬contexto.¬
+(D)¬Clicar¬ com¬ o¬ botão¬ direito¬ sobre¬ o¬ slide¬ e¬ escolher¬
+“Configurações¬de¬Slide”,¬onde¬é¬possível¬editar¬a¬ordem¬
+das¬animações.¬
+(E)¬Utilizar¬a¬função¬“Converter¬em¬Objeto¬Inteligente”¬e¬ativar¬
+a¬reorganização¬automática¬na¬aba¬“Modo¬de¬Leitura”.¬
+##### 
+{23} 
+No¬ pacote¬ Office¬ 365,¬ algumas¬ ferramentas¬ são¬ voltadas,¬
+especialmente,¬
+para¬
+o¬
+trabalho¬
+colaborativo,¬
+o¬
+armazenamento¬em¬nuvem¬e¬a¬edição¬simultânea¬de¬arquivos¬
+entre¬usuários¬conectados¬à¬internet.¬
+Assinale¬ a¬ alternativa¬ que¬ apresenta¬ duas¬ ferramentas¬ do¬
+Pacote¬Office¬365¬que¬oferecem¬as¬funcionalidades¬descritas.¬
+¬
+(A)¬OneDrive¬e¬Microsoft¬Teams.¬
+(B)¬WordPad¬e¬Excel.¬
+(C)¬Paint¬e¬Bloco¬de¬Notas.¬
+(D)¬PowerPoint¬Offline¬e¬Calculadora.¬
+(E)¬Windows¬Media¬Player¬e¬Outlook¬Express.¬
+##### 
+ 
+ 
+ 
+ 
+{24} 
+Um¬ usuário¬ trabalha¬ em¬ uma¬ planilha¬ no¬ Excel¬ 365¬ em¬
+português¬e¬deseja¬calcular,¬automaticamente,¬a¬quantidade¬
+de¬dias¬entre¬duas¬datas¬inseridas¬em¬células¬diferentes.¬Por¬
+exemplo,¬a¬data¬de¬início¬está¬na¬célula¬A2¬e¬a¬data¬de¬término¬
+está¬na¬célula¬B2,¬conforme¬imagem¬a¬seguir:¬
+¬
+¬
+¬
+¬
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+A¬fórmula¬que¬retorna,¬corretamente,¬o¬número¬de¬dias¬entre¬
+essas¬duas¬datas¬é:¬
+¬
+(A)¬=SOMA(A2;B2) 
+¬
+(B)¬=DIFDATAS(A2;B2) 
+¬
+(C)¬=CONT.SE(A2:B2;"DIA") 
+¬
+(D)¬=SE(B2>A2;A2-B2;0) 
+ 
+(E)¬=B2-A2 
+##### 
+¬
+{25} 
+Um¬ agrônomo¬ deseja¬ plantar¬ mudas¬ de¬ árvores¬ para¬
+contornar¬ um¬ terreno¬ retangular¬ plano¬ descampado,¬ de¬
+dimensões¬192¬m¬por¬372¬m,¬em¬um¬parque¬público.¬Para¬isso,¬
+deverá¬ colocar¬ uma¬ muda¬ de¬ árvore¬ em¬ cada¬ vértice¬ do¬
+terreno¬e¬utilizar¬sempre¬a¬mesma¬distância¬entre¬as¬mudas¬
+consecutivas.¬ A¬ quantidade¬ mínima¬ de¬ árvores¬ a¬ serem¬
+plantadas¬é¬igual¬a¬
+¬
+(A) 82.¬
+(B) 86.¬
+(C) 90.¬
+(D) 94.¬
+(E) 99.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 8 ---
+
+Concurso Edital RH nº 058/2025 – Físico (com ênfase em ciências do patrimônio) 
+¬
+{26} 
+Considere¬os¬números¬de¬5¬algarismos¬diferentes¬que¬podem¬
+ser¬formados¬com¬os¬algarismos¬1,¬2,¬3,¬4,¬5,¬6¬e¬7.¬A¬quantidade¬
+de¬números¬que¬possuem¬o¬algarismo¬7¬é¬igual¬a¬
+¬
+(A) 1280.¬
+(B) 1420.¬
+(C) 1800.¬
+(D) 1940.¬
+(E) 2230.¬
+##### 
+¬
+{27} 
+Em¬um¬projeto¬interdisciplinar¬de¬uma¬escola,¬foi¬solicitado¬aos¬
+alunos¬ que¬ construíssem¬ um¬ painel¬ com¬ 2304¬ pastilhas¬ no¬
+formato¬ de¬ triângulo¬ de¬ modo¬ que¬ a¬ primeira¬ linha¬ tivesse¬
+1¬pastilha,¬a¬segunda¬linha¬tivesse¬3¬pastilhas,¬a¬terceira¬linha¬
+tivesse¬ 5¬ pastilhas¬ e¬ assim¬ sucessivamente.¬ O¬ número¬ de¬
+linhas¬no¬referido¬painel¬é¬igual¬a¬
+¬
+(A) 28.¬
+(B) 32.¬
+(C) 38.¬
+(D) 42.¬
+(E) 48.¬
+##### 
+¬
+{28} 
+A¬função¬quadrática¬𝑓: ℝ→ℝ¬é¬dada¬por¬𝑓ሺ𝑥ሻ= 𝑎𝑥ଶ−3𝑥+ 𝑐¬¬
+com¬𝑎, 𝑐¬números¬reais.¬
+Assumindo¬que¬𝑓ሺ1ሻ= −5¬¬e¬¬2𝑓ሺ3ሻ−𝑓ሺ2ሻ= 12,¬¬o¬valor¬de¬
+𝑎+ 3𝑐¬¬será¬igual¬a¬
+¬
+(A) −12.¬
+(B) −10.¬
+(C) −4.¬
+(D) 6.¬
+(E) 4.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+{29} 
+Em¬um¬grupo¬de¬5¬pessoas,¬a¬probabilidade¬de¬haver¬alguma¬
+coincidência¬de¬pessoas¬nascidas¬no¬mesmo¬mês¬do¬ano¬é:¬
+¬
+(A)¬¬
+ହଵ
+ଽ଺¬
+(B)¬¬
+଼ଽ
+ଵସସ¬
+(C)¬¬
+ଽଵ
+ଵ଺଼¬
+(D)¬¬
+ଵ଴ଷ
+ଵ଼ଷ¬
+(E)¬¬
+ଵ଴଻
+ଵଽହ¬
+Note¬e¬adote:¬
+Considere¬que¬existe¬um¬equilíbrio¬nos¬nascimentos¬em¬todos¬os¬
+meses¬do¬ano.¬
+##### 
+¬
+{30} 
+O¬hexágono¬regular¬PQRSTU¬tem¬lado¬de¬1¬cm¬e¬centro¬O.¬
+¬
+As¬coordenadas¬dos¬vértices¬R¬e¬S¬são:¬
+¬
+¬
+(A)¬ (1,¬√ଷ
+ଶ)¬e¬(¬
+ଵ
+ଶ¬, √3)¬
+¬
+(B)¬ (
+ଷ
+ଶ¬,¬0)¬e¬(1,¬√3)¬
+¬
+(C)¬ (1,¬0)¬e¬(¬
+ଵ
+ଶ¬¬,¬√3)¬
+¬
+(D)¬ (2,¬√ଷ
+ଶ)¬¬e¬¬(
+ଷ
+ଶ, √3)¬
+¬
+(E)¬ (2, 1)¬¬e¬(
+ଷ
+ଶ¬¬,¬2√3)¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 9 ---
+
+Concurso Edital RH nº 058/2025 – Físico (com ênfase em ciências do patrimônio) 
+¬
+{31} 
+Em¬ relação¬ aos¬ diferentes¬ modelos¬ atômicos¬ propostos¬ ao¬
+longo¬da¬história¬da¬Física,¬é¬correto¬afirmar:¬
+¬
+(A) O¬ modelo¬ de¬ Dalton,¬ mesmo¬ muito¬ simples,¬ previa¬ a¬
+existência¬de¬ elétrons¬em¬órbitas¬circulares¬ao¬redor¬do¬
+núcleo.¬
+(B) O¬modelo¬planetário¬de¬Rutherford¬explicou¬a¬estabilidade¬
+do¬ átomo¬ com¬ base¬ na¬ quantização¬ das¬ órbitas¬
+eletrônicas.¬
+(C) O¬modelo¬de¬J.¬J.¬Thomson¬descrevia¬o¬átomo¬como¬uma¬
+esfera¬maciça¬sem¬prever¬partículas¬subatômicas.¬
+(D) O¬modelo¬de¬Bohr¬incorporou¬a¬ideia¬de¬níveis¬de¬energia¬
+quantizados¬para¬os¬elétrons.¬
+(E) O¬modelo¬de¬Rutherford-Bohr¬foi¬o¬primeiro¬a¬considerar¬a¬
+dualidade¬onda-partícula¬do¬elétron.¬
+##### 
+¬
+{32} 
+¬
+¬
+Com¬base¬no¬famoso¬experimento¬de¬Rutherford,¬que¬realizou¬
+o¬ jateamento¬ de¬ partículas¬ alfa¬ numa¬ fina¬ folha¬ de¬ ouro,¬ é¬
+correto¬afirmar:¬
+¬
+(A) As¬ dificuldades¬ básicas¬ encontradas¬ no¬ experimento¬
+levaram¬ Rutherford¬ a¬ propor¬ o¬ modelo¬ atômico¬ de¬
+Thomson.¬
+(B) A¬maioria¬das¬partículas¬alfa¬foi¬refletida,¬indicando¬que¬o¬
+átomo¬seria¬majoritariamente¬sólido.¬
+(C) O¬desvio¬das¬partículas¬alfa¬foi¬justificado¬pela¬interação¬
+com¬os¬elétrons¬da¬eletrosfera.¬
+(D) O¬experimento¬levou¬à¬conclusão¬de¬que¬os¬elétrons¬se¬
+distribuem¬uniformemente¬dentro¬do¬átomo.¬
+(E) A¬dispersão¬das¬partículas¬alfa¬sugeriu¬a¬presença¬de¬um¬
+núcleo¬ denso¬ e¬ carregado¬ no¬ átomo,¬ cuja¬ natureza¬ da¬
+carga¬é¬a¬mesma¬das¬partículas¬alfa.¬
+##### 
+¬
+{33} 
+Sobre¬os¬números¬quânticos¬e¬seus¬papéis¬na¬organização¬
+eletrônica,¬assinale¬a¬alternativa¬correta.¬
+¬
+(A) O¬ número¬ quântico¬ principal¬ (n)¬ define¬ a¬ orientação¬
+espacial¬de¬um¬orbital.¬
+(B) O¬número¬quântico¬secundário¬ou¬orbital¬(l)¬determina¬o¬
+spin¬do¬elétron¬em¬um¬orbital.¬
+(C) O¬número¬quântico¬magnético¬orbital¬(ml)¬está¬relacionado¬
+com¬o¬tamanho¬da¬orbital.¬
+(D) O¬número¬quântico¬magnético¬do¬spin¬(ms)¬pode¬assumir¬
+apenas¬os¬valores¬−1¬e¬+1.¬
+(E) O¬número¬quântico¬secundário¬(l)¬está¬relacionado¬com¬o¬
+formato¬do¬orbital.¬
+##### 
+{34} 
+Considere¬ um¬ núcleo¬ atômico¬ hipotético¬ com¬ número¬ de¬
+massa¬ A¬ =¬ 239¬ e¬ número¬ atômico¬ Z¬ =¬ 94,¬ que¬ sofre¬ um¬
+decaimento¬ por¬ emissão¬ alfa¬ (a)¬ seguido¬ de¬ uma¬ série¬ de¬
+decaimentos¬beta¬menos¬(b-).¬
+¬
+¬
+¬
+Considerando¬ os¬ princípios¬ da¬ conservação¬ de¬ número¬ de¬
+massa¬e¬número¬atômico,¬assinale¬a¬alternativa¬correta.¬
+¬
+(A) Após¬ a¬ emissão¬ alfa¬ e¬ dois¬ decaimentos¬ beta¬ menos,¬ o¬
+núcleo¬resultante¬terá¬um¬número¬atômico¬Z=92¬e¬número¬
+de¬massa¬A¬=¬235.¬
+(B) A¬emissão¬alfa¬diminui¬o¬número¬de¬massa¬em¬4¬unidades¬
+e¬ o¬ número¬ atômico¬ em¬ 2¬ unidades,¬ enquanto¬ cada¬
+emissão¬beta¬menos¬aumenta¬o¬número¬atômico¬em¬uma¬
+unidade,¬sem¬alterar¬o¬número¬de¬massa.¬
+(C) Após¬ a¬ emissão¬ alfa¬ e¬ três¬ decaimentos¬ beta¬ menos,¬ o¬
+número¬
+atômico¬
+resultante¬
+será¬
+Z=95,¬
+indicando¬
+transmutação¬em¬um¬isótopo¬do¬elemento¬seguinte.¬
+(D) O¬ processo¬ descrito¬ viola¬ a¬ conservação¬ do¬ número¬ de¬
+massa,¬ pois¬ a¬ soma¬ dos¬ produtos¬ supera¬ o¬ número¬ de¬
+massa¬inicial.¬
+(E) A¬ sequência¬ de¬ decaimentos¬ altera¬ simultaneamente¬ o¬
+número¬ de¬ massa¬ e¬ o¬ número¬ atômico¬ de¬ forma¬
+imprevisível,¬ sendo¬ necessária¬ análise¬ espectroscópica¬
+para¬determiná-los.¬
+##### 
+¬
+{35} 
+O¬ número¬ quântico¬ principal¬ n¬ =¬ 2¬ corresponde¬ a¬ quantos¬
+estados¬orbitais¬no¬átomo¬de¬hidrogênio?¬
+¬
+(A) 4¬
+(B) 6¬
+(C) 9¬
+(D) 12¬
+(E) 15¬
+##### 
+¬
+{36} 
+A¬massa¬de¬um¬objeto¬foi¬medida¬como¬4,729¬±¬0,016¬g.¬A¬
+melhor¬maneira¬de¬apresentar¬essa¬medida,¬de¬acordo¬com¬
+as¬regras¬de¬algarismos¬significativos,¬é:¬
+¬
+(A)¬4,73¬±¬0,01¬g¬
+(B)¬4,73¬±¬0,016¬g¬
+(C)¬4,7¬±¬0,02¬g¬¬
+(D)¬4,730¬±¬0,016¬g¬
+(E)¬4,73¬±¬0,02¬g¬
+##### 
+¬
+
+
+--- PAGE 10 ---
+
+Concurso Edital RH nº 058/2025 – Físico (com ênfase em ciências do patrimônio) 
+¬
+{37} 
+Um¬ cientista¬ realiza¬ um¬ experimento¬ fotoelétrico¬ com¬ uma¬
+superfície¬ metálica¬ de¬ função¬ trabalho¬ 𝜙¬ =¬ 2,0¬ eV.¬ Quando¬
+essa¬superfície¬é¬iluminada¬por¬uma¬luz¬de¬comprimento¬de¬
+onda¬ m,¬ elétrons¬ são¬ emitidos¬ com¬ energia¬ cinética¬
+máxima¬Kmáx.¬
+¬
+Nessas¬condições,¬qual¬o¬maior¬comprimento¬de¬onda¬que¬
+ainda¬será¬capaz¬de¬gerar¬a¬emissão¬de¬elétrons?¬
+¬
+(A) 207¬nm¬
+(B) 414¬nm¬
+(C) 620¬nm¬
+(D) 993¬nm¬
+(E) 1240¬nm¬
+¬
+Note¬e¬adote:¬
+Constante¬de¬Planck:¬ℎ¬=¬4,14×10−15¬eV.s¬¬
+Velocidade¬da¬luz:¬𝑐¬=¬3,0×108¬m/s.¬
+#### 
+¬
+{38} 
+Quando¬ um¬ feixe¬ de¬ luz¬ coerente¬ atravessa¬ uma¬ fenda¬
+muitíssimo¬estreita¬feita¬numa¬tela¬opaca¬e¬incide¬sobre¬um¬
+anteparo¬de¬observação¬situado¬mais¬distante,¬observa-se¬um¬
+padrão¬ alternado¬ de¬ franjas¬ claras¬ e¬ escuras,¬ conforme¬
+mostrado¬na¬figura,¬mesmo¬que¬a¬fenda¬seja¬única¬e¬estreita.¬¬
+¬
+¬
+¬
+Esse¬comportamento¬resulta¬de¬um¬fenômeno¬ondulatório¬da¬
+luz¬essencial,¬que¬é¬chamado¬de¬
+¬
+(A)¬polarização.¬
+(B)¬refração.¬
+(C)¬difração.¬
+(D)¬interferência.¬
+(E)¬absorção.¬
+##### 
+¬
+{39} 
+Um¬feixe¬de¬luz¬com¬espectro¬contínuo,¬como¬o¬emitido¬por¬
+um¬corpo¬negro¬aquecido,¬atravessa¬uma¬ampola¬contendo¬
+um¬gás¬que¬é¬mantido¬à¬baixa¬pressão¬e¬à¬baixa¬temperatura.¬
+Ao¬passar¬por¬esse¬gás,¬observa-se,¬em¬um¬espectrômetro,¬
+que¬o¬espectro¬transmitido¬exibe¬linhas¬escuras¬em¬posições¬
+bem¬definidas,¬mesmo¬que¬o¬restante¬do¬espectro¬continue¬
+visível.¬¬
+¬
+¬
+¬
+Qual¬ fenômeno¬ físico¬ está¬ mais¬ diretamente¬ associado¬ à¬
+origem¬ das¬ linhas¬ escuras¬ observadas¬ no¬ espectro¬
+transmitido?¬
+¬
+(A) Emissão.¬
+(B) Reflexão.¬
+(C) Refração.¬
+(D) Dispersão.¬
+(E) Absorção.¬
+##### 
+¬
+{40} 
+As¬ tecnologias¬ de¬ sensoriamento¬ remoto¬ utilizam¬ diferentes¬
+tipos¬de¬imagens¬espectrais¬para¬analisar¬a¬radiação¬refletida¬
+ou¬emitida¬por¬alvos¬na¬superfície¬da¬ Terra.¬Com¬base¬ nos¬
+conceitos¬físicos¬e¬a¬forma¬prática¬como¬os¬sensores¬coletam¬
+e¬registram¬os¬dados,¬assinale¬a¬alternativa¬correta.¬
+¬
+(A) Imagens¬multiespectrais¬possuem¬sempre¬maior¬resolução¬
+espacial¬que¬as¬hiperespectrais.¬
+(B) Imagens¬ hiperespectrais¬ registram¬ um¬ número¬ maior¬ de¬
+bandas¬espectrais,¬com¬intervalos¬espectrais¬mais¬largos.¬
+(C) Imagens¬ multibandas¬ sempre¬ representam¬ apenas¬ três¬
+bandas,¬correspondentes¬ao¬RGB.¬
+(D) Imagens¬ hiperespectrais¬ fornecem¬ maior¬ discriminação¬
+espectral¬ por¬ possuírem¬ muitas¬ bandas¬ com¬ intervalos¬
+estreitos.¬
+(E) A¬ principal¬ diferença¬ entre¬ imagens¬ multiespectrais¬ e¬
+hiperespectrais¬ está¬ na¬ resolução¬ temporal,¬ não¬ na¬
+espectral.¬
+##### 
+¬
+{41} 
+Imagens¬hiperespectrais¬são¬eficazes¬na¬detecção¬remota¬de¬
+alvos¬devido¬à¬sua¬alta¬resolução¬espectral.¬Uma¬das¬razões¬
+para¬ isso¬ é¬ o¬ fato¬ de¬ que¬ diferentes¬ materiais¬ possuem¬
+assinaturas¬espectrais¬distintas.¬
+Assinale¬ a¬ alternativa¬ que¬ melhor¬ explica¬ por¬ que¬ imagens¬
+hiperespectrais¬ são¬ mais¬ adequadas¬ para¬ a¬ identificação¬
+precisa¬de¬compostos¬ou¬materiais.¬
+¬
+(A) Porque¬ fornecem¬ maior¬ resolução¬ espacial,¬ permitindo¬
+distinguir¬objetos¬pequenos.¬
+(B) Porque¬ cobrem¬ apenas¬ as¬ bandas¬ do¬ visível,¬ onde¬ as¬
+diferenças¬espectrais¬são¬mais¬evidentes.¬
+(C) Porque¬permitem¬a¬análise¬de¬variações¬espectrais¬finas¬
+ao¬longo¬de¬muitas¬bandas¬contíguas.¬
+(D) Porque¬utilizam¬sensores¬mais¬sensíveis¬à¬intensidade¬total¬
+da¬radiação¬incidente.¬
+(E) Porque¬são¬menos¬afetadas¬pela¬atmosfera,¬eliminando¬a¬
+necessidade¬de¬correção¬radiométrica.¬
+##### 
+¬
+{42} 
+Assinale¬a¬alternativa¬que¬apresenta¬uma¬grandeza¬vetorial¬e¬
+uma¬grandeza¬escalar,¬respectivamente.¬
+¬
+(A) Velocidade¬e¬momento¬angular.¬
+(B) Tempo¬e¬energia.¬
+(C) Torque¬e¬velocidade¬média.¬
+(D) Aceleração¬angular¬e¬momento¬de¬inércia.¬
+(E) Massa¬e¬velocidade¬angular.¬
+##### 
+¬
+
+
+--- PAGE 11 ---
+
+Concurso Edital RH nº 058/2025 – Físico (com ênfase em ciências do patrimônio) 
+¬
+{43} 
+Um¬automóvel¬percorre¬um¬trecho¬de¬uma¬trajetória¬circular,¬
+mantendo¬constante¬o¬módulo¬de¬seu¬vetor¬velocidade.¬¬
+¬
+¬
+Com¬base¬na¬situação¬descrita,¬é¬correto¬afirmar:¬
+¬
+(A) A¬todo¬instante,¬a¬velocidade¬média¬do¬automóvel¬é¬igual¬
+à¬sua¬velocidade¬instantânea.¬
+(B) Nesse¬trecho,¬o¬vetor¬velocidade¬do¬automóvel¬não¬varia.¬
+(C) A¬ velocidade¬ média¬ deste¬ automóvel¬ é¬ nula¬ nessa¬
+trajetória¬circular.¬
+(D) A¬velocidade¬média¬do¬automóvel¬é¬sempre¬maior¬do¬que¬
+sua¬velocidade¬instantânea.¬
+(E) A¬velocidade¬média¬do¬automóvel¬pode¬ser¬diferente¬da¬
+sua¬velocidade¬instantânea.¬
+##### 
+¬
+{44} 
+Quando¬um¬objeto¬realiza¬movimento¬circular¬uniforme,¬o¬vetor¬
+aceleração¬
+¬
+(A) é¬nulo¬porque¬a¬sua¬velocidade¬é¬constante.¬
+(B) tem¬a¬mesma¬direção¬e¬sentido¬da¬sua¬velocidade.¬
+(C) é¬perpendicular¬à¬velocidade.¬
+(D) é¬ tangente¬ à¬ trajetória¬ e¬ indica¬ a¬ taxa¬ de¬ aumento¬ da¬
+velocidade.¬
+(E) é¬ oposta¬ à¬ sua¬ velocidade¬ porque¬ o¬ objeto¬ está¬
+desacelerando.¬
+##### 
+¬
+{45} 
+O¬vetor¬campo¬elétrico¬no¬interior¬de¬um¬condutor¬metálico¬
+oco,¬em¬equilíbrio¬eletrostático,¬carregado¬eletricamente¬é¬
+¬
+(A) diferente¬de¬zero¬e¬depende¬da¬carga¬superficial¬distribuída.¬
+(B) nulo,¬se¬não¬houver¬carga¬elétrica¬dentro¬da¬cavidade¬oca.¬
+(C) nulo,¬havendo¬ou¬não¬cargas¬elétricas¬dentro¬da¬cavidade¬
+oca.¬
+(D) nulo,¬mas¬sempre¬existe¬campo¬elétrico¬no¬interior¬da¬cavidade¬
+oca.¬
+(E) nulo¬apenas¬se¬o¬condutor¬for¬esférico.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+{46} 
+Dois¬capacitores¬idênticos,¬cada¬um¬com¬uma¬capacitância¬C,¬
+são¬conectados¬primeiro¬em¬série¬e¬depois¬em¬paralelo¬a¬uma¬
+mesma¬fonte¬de¬tensão¬V.¬
+¬
+¬
+¬
+Em série¬
+Em paralelo¬
+¬
+Sobre¬ a¬ energia¬ total¬ armazenada¬ no¬ sistema,¬ é¬ correto¬
+afirmar:¬
+¬
+(A) A¬energia¬armazenada¬no¬arranjo¬em¬série¬é¬igual¬à¬do¬
+arranjo¬em¬paralelo.¬
+(B) A¬energia¬armazenada¬no¬arranjo¬em¬série¬é¬2¬vezes¬maior¬
+do¬que¬no¬arranjo¬em¬paralelo.¬
+(C) A¬energia¬armazenada¬no¬arranjo¬em¬paralelo¬é¬4¬vezes¬
+maior¬do¬que¬no¬arranjo¬em¬série.¬
+(D) A¬energia¬armazenada¬no¬arranjo¬em¬paralelo¬é¬2¬vezes¬
+maior¬do¬que¬no¬arranjo¬em¬série.¬
+(E) A¬energia¬armazenada¬no¬arranjo¬em¬série¬é¬4¬vezes¬maior¬
+do¬que¬no¬arranjo¬em¬paralelo.¬
+##### 
+¬
+{47} 
+Um¬capacitor¬plano¬é¬conectado¬a¬uma¬bateria¬ideal¬de¬tensão¬
+constante¬V.¬Nesse¬arranjo,¬está¬inserido¬totalmente¬entre¬as¬
+placas¬ um¬ material¬ dielétrico¬ de¬ constante¬ dielétrica¬ k>1,¬
+conforme¬mostra¬a¬figura¬a¬seguir.¬
+¬
+¬
+¬
+Nessas¬condições,¬a¬carga¬Q,¬a¬capacitância¬C¬e¬a¬energia¬
+armazenada¬U¬serão¬afetadas¬da¬seguinte¬maneira:¬
+¬
+(A) A¬capacitância¬permanece¬constante,¬a¬carga¬aumenta,¬e¬
+a¬energia¬armazenada¬aumenta.¬
+(B) A¬ capacitância¬ aumenta,¬ a¬ carga¬ aumenta,¬ e¬ a¬ energia¬
+armazenada¬aumenta.¬
+(C) A¬capacitância¬aumenta,¬a¬carga¬permanece¬constante,¬e¬
+a¬energia¬armazenada¬aumenta.¬
+(D) A¬ capacitância¬ aumenta,¬ a¬ carga¬ aumenta,¬ e¬ a¬ energia¬
+armazenada¬permanece¬constante.¬
+(E) A¬capacitância¬permanece¬constante,¬a¬carga¬permanece¬
+constante,¬e¬a¬energia¬armazenada¬aumenta.¬
+##### 
+¬
+
+
+--- PAGE 12 ---
+
+Concurso Edital RH nº 058/2025 – Físico (com ênfase em ciências do patrimônio) 
+¬
+{48} 
+Uma¬ partícula¬ com¬ carga¬ positiva¬ q¬ e¬ massa¬ m¬ entra¬ com¬
+velocidade¬ inicial¬ v0¬ perpendicular¬ a¬ um¬ campo¬ magnético¬
+uniforme¬ B,¬ que¬ tem¬ módulo¬ variável¬ no¬ tempo¬ conforme¬
+B(t)=B0¬e−b t,¬com¬B0¬e¬b¬constantes¬positivas.¬¬
+¬
+¬
+¬
+Sobre¬o¬movimento¬da¬partícula,¬é¬correto¬afirmar:¬
+¬
+(A) A¬partícula¬descreverá¬uma¬espiral¬com¬raio¬constante¬e¬
+velocidade¬tangencial¬constante.¬
+(B) O¬raio¬da¬trajetória¬circular¬da¬partícula¬aumentará¬com¬o¬
+tempo,¬pois¬o¬campo¬magnético¬diminui.¬
+(C) A¬
+frequência¬
+angular¬
+da¬
+partícula¬
+aumentará¬
+exponencialmente¬com¬o¬tempo.¬
+(D) A¬ velocidade¬ da¬ partícula¬ diminuirá¬ exponencialmente,¬
+pois¬a¬força¬magnética¬realiza¬trabalho.¬
+(E) A¬partícula¬sairá¬da¬trajetória¬circular¬e¬passará¬a¬mover-se¬
+em¬linha¬reta¬imediatamente.¬
+¬
+Note¬e¬adote:¬
+Considere¬ que¬ não¬ haja¬ outras¬ forças¬ atuando¬ além¬ da¬ força¬
+magnética.¬
+##### 
+¬
+{49} 
+Uma¬espira¬quadrada¬condutora¬de¬lado¬L¬está¬inicialmente¬
+fora¬ de¬ um¬ campo¬ magnético¬ uniforme¬ e¬ constante¬ B,¬
+perpendicular¬ ao¬ plano¬ da¬ espira.¬ A¬ espira¬ é¬ movida¬ com¬
+velocidade¬constante¬v¬dirigida¬para¬dentro¬da¬região¬onde¬o¬
+campo¬B¬está¬presente.¬
+Nessas¬circunstâncias,¬a¬corrente¬induzida¬na¬espira¬
+¬
+(A) aumenta¬continuamente¬enquanto¬a¬espira¬entra¬na¬região¬
+com¬campo¬magnético.¬
+(B) é¬ máxima¬ quando¬ a¬ espira¬ está¬ totalmente¬ dentro¬ da¬
+região¬de¬campo¬magnético.¬
+(C) é¬ zero¬ quando¬ a¬ espira¬ está¬ completamente¬ fora¬ ou¬
+completamente¬dentro¬da¬região¬de¬campo¬magnético.¬
+(D) não¬depende¬da¬velocidade¬da¬espira.¬
+(E) é¬constante¬durante¬todo¬o¬movimento¬da¬espira.¬
+##### 
+¬
+{50} 
+O¬ Modelo¬ Padrão¬ da¬ Física¬ de¬ Partículas¬ classifica¬ as¬
+partículas¬fundamentais¬em¬duas¬grandes¬classes,¬férmions¬e¬
+bósons.¬ Os¬ férmions¬ são¬ os¬ constituintes¬ da¬ matéria,¬ como¬
+quarks¬e¬léptons,¬enquanto¬os¬bósons¬são¬os¬mediadores¬das¬
+interações¬ fundamentais.¬ De¬ acordo¬ com¬ esse¬ Modelo¬
+Padrão,¬são¬classificados¬como¬férmions:¬
+¬
+(A)¬quarks,¬charms¬e¬elétrons.¬
+(B)¬fótons¬e¬múons.¬
+(C)¬glúons¬e¬bósons¬Z.¬
+(D)¬prótons¬e¬píons.¬
+(E)¬neutrinos¬e¬bósons¬de¬Higgs.¬
+##### 
+¬
+{51} 
+Em¬2010,¬cientistas¬franceses¬investigaram¬a¬famosa¬pintura¬
+Mona¬Lisa,¬de¬Leonardo¬da¬Vinci,¬utilizando¬a¬metodologia¬de¬
+fluorescência¬ de¬ raios-X¬ (XRF),¬ que¬ permitiu¬ analisar¬ a¬
+composição¬e¬espessura¬das¬diferentes¬camadas¬de¬tinta¬e¬
+verniz,¬contribuindo¬para¬uma¬melhor¬compreensão¬da¬técnica¬
+do¬sfumato¬usada¬pelo¬artista.¬¬
+¬
+¬
+Dentre¬os¬métodos¬a¬seguir,¬qual¬seria¬o¬mais¬indicado¬para¬
+examinar¬a¬composição¬química¬de¬pigmentos,¬identificando¬
+elementos¬químicos¬leves¬e¬pesados¬e¬materiais¬de¬pinturas¬e¬
+obras¬de¬arte¬sem¬danificá-las?¬
+¬
+(A) A¬técnica¬de¬emissão¬de¬raios-gama¬induzida¬por¬prótons¬
+(PIGE).¬
+(B) A¬técnica¬de¬infravermelho¬com¬transformada¬de¬Fourier¬
+(FTIR).¬
+(C) A¬técnica¬de¬difração¬de¬raios¬X¬(XRD).¬
+(D) A¬espectrometria¬de¬massa¬por¬acelerador¬(AMS).¬
+(E) A¬técnica¬de¬microscopia¬de¬fluorescência¬por¬tempo¬de¬
+vida¬(FLIM).¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 13 ---
+
+Concurso Edital RH nº 058/2025 – Físico (com ênfase em ciências do patrimônio) 
+¬
+{52} 
+Em¬ processos¬ de¬ conservação¬ preventiva,¬ obras¬ do¬
+patrimônio¬ cultural,¬ como¬ esculturas,¬ documentos¬ e¬ objetos¬
+arqueológicos,¬
+podem¬
+ser¬
+submetidas¬
+à¬
+irradiação¬
+controlada,¬ com¬ o¬ objetivo¬ de¬ eliminar¬ fungos,¬ bactérias¬ e¬
+insetos¬que¬comprometem¬sua¬integridade.¬Esse¬tratamento¬é¬
+feito¬ com¬ doses¬ seguras¬ e¬ precisas¬ de¬ radiação¬ ionizante,¬
+geralmente¬limitadas¬a¬10¬kilograys,¬sem¬que¬o¬objeto¬se¬torne¬
+radioativo¬ou¬sofra¬alterações¬físico-químicas¬perceptíveis.¬
+Com¬base¬nas¬propriedades¬físicas¬da¬radiação¬e¬nas¬suas¬
+aplicações¬nesse¬tipo¬de¬procedimento,¬assinale¬a¬alternativa¬
+correta.¬
+¬
+(A) A¬ irradiação¬ promove¬ a¬ recomposição¬ de¬ estruturas¬
+moleculares¬ degradadas,¬ revertendo¬ parcialmente¬ os¬
+processos¬de¬envelhecimento¬do¬material.¬
+(B) Após¬ a¬ irradiação,¬ os¬ objetos¬ tornam-se¬ levemente¬
+radioativos¬
+por¬
+algumas¬
+semanas,¬
+exigindo¬
+armazenamento¬temporário¬em¬isolamento.¬
+(C) A¬irradiação¬garante¬a¬eliminação¬de¬agentes¬biológicos¬
+sem¬alterar¬as¬propriedades¬físicas¬ou¬químicas¬das¬obras¬
+tratadas.¬
+(D) O¬ processo¬ de¬ desinfecção¬ por¬ radiação¬ requer¬
+temperaturas¬ elevadas¬ e¬ pode¬ deixar¬ resíduos¬ químicos¬
+nos¬objetos¬tratados.¬
+(E) Apenas¬ equipamentos¬ com¬ fontes¬ de¬ césio-137¬ são¬
+apropriados¬ para¬ esse¬ tipo¬ de¬ aplicação,¬ devido¬ à¬ sua¬
+meia-vida¬e¬baixa¬energia.¬
+##### 
+¬
+{53} 
+Em¬análises¬não¬invasivas¬de¬objetos¬metálicos¬pertencentes¬ao¬
+patrimônio¬ cultural,¬ uma¬ técnica¬ amplamente¬ empregada¬
+baseia-se¬
+na¬
+excitação¬
+de¬
+átomos¬
+por¬
+radiação¬
+eletromagnética,¬seguida¬pela¬emissão¬de¬fótons¬com¬energias¬
+características¬ de¬ cada¬ elemento¬ presente¬ na¬ amostra.¬ Esse¬
+processo¬permite¬a¬identificação¬da¬composição¬elementar¬sem¬
+a¬necessidade¬de¬extração¬de¬material.¬
+Com¬ base¬ nessa¬ descrição,¬ qual¬ a¬ técnica¬ que¬ melhor¬
+corresponde¬ ao¬ fenômeno¬ descrito¬ e¬ à¬ propriedade¬ física¬
+explorada?¬
+¬
+(A)¬Difração¬de¬raios¬X¬(XRD).¬
+(B)¬Ressonância¬magnética¬nuclear¬(RMN).¬
+(C)¬Calorimetria¬diferencial¬de¬varredura¬(DSC).¬
+(D)¬Fluorescência¬de¬raios¬X¬(XRF).¬
+(E)¬Espectroscopia¬Raman.¬
+##### 
+¬
+{54} 
+Em¬ museus¬ e¬ centros¬ de¬ conservação,¬ uma¬ técnica¬ muito¬
+utilizada¬ para¬ identificar¬ a¬ composição¬ elementar¬ de¬
+pigmentos¬em¬pinturas¬antigas¬sem¬removê-los¬ou¬danificá-los¬
+é¬a¬espectroscopia¬de¬fluorescência¬de¬raios¬X¬(XRF).¬Sobre¬
+essa¬técnica,¬é¬correto¬afirmar:¬
+¬
+(A) É¬uma¬técnica¬destrutiva,¬pois¬exige¬amostras¬físicas¬da¬
+tinta¬para¬análise¬direta¬em¬vácuo.¬
+(B) Depende¬da¬emissão¬de¬fótons¬ultravioleta¬causados¬pela¬
+excitação¬térmica¬de¬elétrons¬em¬metais¬alcalinos.¬
+(C) Possibilita¬ a¬ identificação¬ dos¬ elementos¬ porque¬ cada¬
+elemento¬ químico¬ emite¬ fótons¬ de¬ mesma¬ frequência¬
+quando¬aquecido¬por¬infravermelho.¬
+(D) Permite¬ a¬ identificação¬ de¬ elementos¬ químicos¬ pela¬
+emissão¬ de¬ fótons¬ característicos¬ gerados¬ quando¬
+elétrons¬de¬camadas¬internas¬são¬excitados¬e¬substituídos.¬
+(E) É¬limitada¬apenas¬a¬materiais¬orgânicos,¬como¬madeira,¬
+tecidos¬ e¬ papel,¬ pois¬ metais¬ absorvem¬ totalmente¬ os¬
+raios¬X.¬
+##### 
+¬
+{55} 
+Técnicas¬espectroscópicas¬no¬infravermelho¬IV¬(na¬região¬entre¬
+a¬luz¬visível¬e¬as¬micro-ondas)¬são¬fundamentais¬na¬análise¬de¬
+materiais¬ orgânicos¬ em¬ objetos¬ culturais,¬ como¬ papéis,¬
+tecidos¬e¬resinas¬naturais.¬A¬espectroscopia¬de¬infravermelho¬
+com¬transformada¬de¬Fourier¬(FTIR),¬em¬modo¬de¬reflectância¬
+ou¬transmitância,¬fornece¬informações¬moleculares¬valiosas.¬
+Com¬ base¬ nos¬ princípios¬ físicos¬ dessa¬ técnica,¬ assinale¬ a¬
+alternativa¬correta.¬
+¬
+(A) A¬ técnica¬ FTIR¬ baseia-se¬ na¬ absorção¬ de¬ radiação¬
+infravermelha¬ por¬ transições¬ eletrônicas¬ em¬ bandas¬
+vibracionais¬específicas.¬
+(B) Apenas¬moléculas¬apolares¬absorvem¬radiação¬IV,¬desde¬
+que¬apresentem¬simetria¬cúbica¬ou¬tetraédrica.¬
+(C) A¬ absorção¬ no¬ infravermelho¬ está¬ associada¬ a¬ modos¬
+vibracionais¬que¬produzem¬variações¬no¬momento¬dipolar¬
+da¬molécula.¬
+(D) Em¬ FTIR,¬ a¬ resolução¬ espectral¬ depende¬ apenas¬ da¬
+frequência¬ da¬ fonte¬ de¬ radiação¬ utilizada,¬ sendo¬
+independente¬da¬transformada¬de¬Fourier.¬
+(E) O¬modo¬de¬reflectância¬total¬atenuada¬(ATR)¬só¬pode¬ser¬
+aplicado¬ a¬ líquidos¬ ou¬ géis,¬ sendo¬ inadequado¬ para¬
+sólidos¬como¬âmbar,¬ossos¬ou¬pergaminhos.¬
+##### 
+¬
+{56} 
+A¬ radiação¬ gama¬ desempenha¬ um¬ papel¬ importante¬ na¬
+arqueometria¬ e¬na¬ciência¬da¬conservação,¬sendo¬aplicada¬
+em¬técnicas¬como¬a¬espectrometria¬gama¬de¬alta¬resolução¬e¬
+a¬ análise¬ por¬ ativação¬ com¬ nêutrons.¬ Essas¬ metodologias¬
+permitem¬a¬identificação¬de¬elementos¬presentes¬em¬materiais¬
+antigos¬ e¬ auxiliam¬ na¬ sua¬ datação¬ ou¬ caracterização¬
+composicional,¬ sem¬ a¬ necessidade¬ de¬ danificar¬ os¬ objetos¬
+analisados.¬
+Considerando¬ as¬ propriedades¬ físicas¬ da¬ radiação¬ gama¬ e¬
+suas¬aplicações¬no¬estudo¬e¬preservação¬de¬bens¬culturais,¬
+assinale¬a¬alternativa¬correta.¬
+¬
+(A) A¬ radiação¬ gama¬ apresenta¬ baixa¬ capacidade¬ de¬
+penetração¬ em¬ materiais¬ densos,¬ o¬ que¬ limita¬ sua¬
+aplicação¬à¬análise¬superficial¬de¬objetos¬arqueológicos.¬
+(B) A¬ espectrometria¬ gama¬ só¬ pode¬ ser¬ aplicada¬ se¬ os¬
+elementos¬ da¬ amostra¬ forem¬ previamente¬ excitados¬ por¬
+fontes¬ópticas¬intensas,¬como¬lasers.¬
+(C) A¬ interação¬ da¬ radiação¬ gama¬ com¬ a¬ matéria¬ ocorre¬
+exclusivamente¬por¬efeito¬fotoelétrico,¬o¬que¬restringe¬sua¬
+aplicação¬à¬detecção¬de¬elementos¬leves.¬
+(D) A¬análise¬por¬ativação¬com¬nêutrons¬induz¬a¬formação¬de¬
+radionuclídeos¬nos¬elementos¬da¬amostra,¬os¬quais¬emitem¬
+radiação¬gama¬característica¬utilizada¬na¬identificação.¬
+(E) A¬aplicação¬de¬radiação¬gama¬em¬bens¬culturais¬é¬sempre¬
+destrutiva,¬ sendo¬ contraindicada¬ mesmo¬ em¬ exposições¬
+de¬baixa¬intensidade.¬
+##### 
+¬
+¬
+¬
+¬
+
+
+--- PAGE 14 ---
+
+Concurso Edital RH nº 058/2025 – Físico (com ênfase em ciências do patrimônio) 
+¬
+{57} 
+O¬ estudo¬ não¬ invasivo¬ de¬ obras¬ de¬ arte¬ e¬ objetos¬
+arqueológicos¬ exige¬ métodos¬ físicos¬ capazes¬ de¬ revelar¬
+estruturas¬ internas¬ e¬ composição¬ química¬ sem¬ danificar¬ o¬
+material¬ analisado.¬ Entre¬ esses¬ métodos,¬ destaca-se¬ o¬ uso¬
+dos¬ raios¬ X,¬ amplamente¬ empregados¬ na¬ investigação¬ de¬
+pinturas¬ em¬ camadas,¬ ligas¬ metálicas¬ antigas¬ e¬ cerâmicas,¬
+oferecendo¬ acesso¬ a¬ informações¬ invisíveis¬ à¬ observação¬
+óptica¬convencional.¬
+Com¬base¬nos¬princípios¬físicos¬da¬interação¬dos¬raios¬X¬com¬
+a¬ matéria¬ e¬ suas¬ aplicações¬ na¬ análise¬ de¬ bens¬ culturais,¬
+assinale¬a¬alternativa¬correta.¬
+¬
+(A) A¬ difração¬ de¬ raios¬ X¬ é¬ empregada¬ para¬ identificar¬
+elementos¬ químicos¬ por¬ meio¬ da¬ energia¬ dos¬ fótons¬
+emitidos¬durante¬a¬excitação¬de¬núcleos¬atômicos.¬
+(B) A¬técnica¬de¬XRF¬depende¬do¬espalhamento¬coerente¬dos¬
+raios¬X¬para¬gerar¬imagens¬composicionais¬em¬tempo¬real.¬
+(C) A¬ atenuação¬ da¬ radiação¬ X¬ ao¬ atravessar¬ um¬ material¬
+depende¬ exponencialmente¬ da¬ densidade¬ e¬ do¬ número¬
+atômico¬do¬material¬analisado.¬
+(D) A¬ radiografia¬ por¬ raios¬ X¬ é¬ ineficaz¬ para¬ obras¬
+multicamadas,¬ pois¬ os¬ fótons¬ são¬ totalmente¬ absorvidos¬
+pelas¬camadas¬superficiais.¬
+(E) A¬ interação¬ dos¬ raios¬ X¬ com¬ a¬ matéria¬ ocorre¬
+exclusivamente¬por¬emissão¬de¬Bremsstrahlung,¬que¬é¬a¬
+base¬da¬espectroscopia¬elementar.¬
+##### 
+¬
+{58} 
+A¬ determinação¬ da¬ idade¬ de¬ materiais¬ orgânicos¬ em¬ sítios¬
+arqueológicos¬ e¬ acervos¬ de¬ museus¬ é¬ frequentemente¬
+realizada¬ por¬ meio¬ da¬ datação¬ por¬ carbono-14¬ (¹⁴C),¬ um¬
+isótopo¬ radioativo¬ presente¬ nos¬ organismos¬ vivos.¬ Após¬ a¬
+morte¬do¬organismo,¬o¬¹⁴C¬não¬é¬mais¬absorvido¬e¬passa¬a¬
+decair¬
+radioativamente¬
+com¬
+uma¬
+meia-vida¬
+de¬
+aproximadamente¬5.730¬anos.¬
+Um¬arqueólogo¬encontra¬um¬artefato¬feito¬de¬material¬orgânico¬
+e¬deseja¬estimar¬há¬quanto¬tempo¬ele¬deixou¬de¬interagir¬com¬
+o¬ meio¬ ambiente.¬ Considerando¬ que¬ o¬ processo¬ de¬
+decaimento¬segue¬a¬lei¬exponencial¬típica¬da¬desintegração¬
+radioativa,¬qual¬será¬a¬porcentagem¬de¬carbono-14¬restante¬
+no¬artefato¬após¬cerca¬de¬17.200¬anos?¬
+¬
+(A) 12,5.¬
+(B) 25.¬
+(C) 50.¬
+(D) 62,5.¬
+(E) 75.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+{59} 
+Cientistas¬ notaram¬ que,¬ em¬ um¬ fragmento¬ cerâmico¬ antigo,¬
+foram¬ detectados¬ radionuclídeos¬ artificiais¬ com¬ meias-vidas¬
+curtas¬após¬passar¬por¬uma¬análise¬realizada¬com¬ativação¬
+por¬nêutrons.¬Em¬relação¬ao¬uso¬de¬materiais¬radioativos¬e¬sua¬
+manipulação¬ em¬ ambiente¬ como¬ um¬ museu,¬ assinale¬ a¬
+afirmativa¬correta.¬
+¬
+(A) Após¬
+a¬
+ativação,¬
+o¬
+material¬
+analisado¬
+torna-se¬
+permanentemente¬
+radioativo¬
+e¬
+deve¬
+ser¬
+isolado¬
+indefinidamente.¬
+(B) Técnicas¬ de¬ ativação¬ por¬ nêutrons¬ são¬ destrutivas,¬ pois¬
+provocam¬
+alterações¬
+químicas¬
+irreversíveis¬
+na¬
+composição¬da¬amostra.¬
+(C) A¬dose¬absorvida¬por¬objetos¬ativados¬depende¬apenas¬
+da¬
+energia¬
+da¬
+radiação¬
+gama¬
+emitida,¬
+sendo¬
+independente¬do¬tempo¬de¬exposição.¬
+(D) Em¬ técnicas¬ de¬ ativação,¬ os¬ radionuclídeos¬ formados¬
+decaem¬em¬horas¬ou¬dias,¬permitindo¬o¬retorno¬seguro¬da¬
+peça¬ao¬acervo¬após¬período¬de¬resfriamento.¬
+(E) Materiais¬ arqueológicos¬ não¬ podem¬ ser¬ ativados¬ por¬
+nêutrons,¬pois¬sua¬composição¬orgânica¬impede¬reações¬
+nucleares.¬
+##### 
+¬
+{60} 
+Diversas¬
+técnicas¬
+analíticas¬
+vêm¬
+sendo¬
+amplamente¬
+empregadas¬ no¬ estudo¬ de¬ obras¬ de¬ arte¬ e¬ artefatos¬
+arqueológicos,¬
+permitindo¬
+a¬
+caracterização¬
+de¬
+sua¬
+composição¬química¬de¬forma¬precisa¬e,¬muitas¬vezes,¬sem¬a¬
+necessidade¬de¬amostragem¬destrutiva.¬Entre¬essas¬técnicas,¬
+destaca-se¬ uma¬ metodologia¬ especialmente¬ eficaz¬ para¬ a¬
+detecção¬ de¬ elementos¬ leves,¬ como¬ boro,¬ flúor¬ e¬ sódio,¬
+mesmo¬ em¬ concentrações¬ traço,¬ sendo¬ particularmente¬
+valiosa¬na¬análise¬de¬vidros¬antigos,¬cerâmicas¬esmaltadas¬e¬
+pigmentos.¬
+Com¬ base¬ nessa¬ descrição,¬ qual¬ a¬ técnica¬ que¬ melhor¬ se¬
+enquadra¬nessa¬aplicação?¬
+¬
+(A) Emissão¬de¬raios-gama¬induzida¬por¬prótons¬(PIGE).¬
+(B) Difração¬de¬raios¬X¬(XRD).¬
+(C) Espectroscopia¬Raman.¬
+(D) Fluorescência¬de¬raios¬x¬(XRF).¬
+(E) Infravermelho¬com¬transformada¬de¬Fourier¬(FTIR).¬
+##### 
+¬
+¬
+¬
+¬
+
+
+--- PAGE 15 ---
+
+Concurso Edital RH nº 058/2025 – Físico (com ênfase em ciências do patrimônio) 
+ 
+Questão dissertativa 
+Considerando¬a¬aplicação¬de¬radiações¬ionizantes¬na¬análise¬de¬obras¬de¬arte,¬responda:¬
+¬
+1) Descreva¬a¬interação¬dos¬raios¬X¬com¬materiais¬heterogêneos¬presentes¬em¬pinturas,¬destacando¬os¬principais¬mecanismos¬de¬
+atenuação¬(absorção¬fotoelétrica,¬espalhamento¬Compton)¬e¬como¬essas¬interações¬afetam¬a¬formação¬da¬imagem¬radiográfica¬
+em¬termos¬de¬contraste¬e¬resolução¬espacial.¬
+¬
+2) Discuta¬ os¬ desafios¬ técnicos¬ e¬ físicos¬ na¬ utilização¬ de¬ radiações¬ ionizantes¬ para¬ análise¬ não¬ invasiva¬ de¬ obras¬ de¬ arte,¬
+considerando¬limitações¬como¬dose¬de¬radiação,¬danos¬potenciais¬ao¬material¬analisado¬e¬restrições¬quanto¬à¬penetração¬e¬
+resolução¬da¬técnica.¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Instruções:  
+• As¬respostas¬deverão¬ser¬redigidas¬de¬acordo¬com¬a¬norma¬padrão¬da¬língua¬portuguesa.¬¬
+• Escreva¬com¬letra¬legível¬e¬não¬ultrapasse¬o¬espaço¬de¬linhas¬disponíveis¬da¬folha¬de¬respostas.¬¬
+• Receberão¬nota¬zero¬textos¬que¬desrespeitarem¬os¬direitos¬humanos¬e¬textos¬que¬permitirem,¬por¬qualquer¬modo,¬a¬identificação¬do(a)¬candidato(a).¬
+
+
+--- PAGE 16 ---
+
+ 
+
+
+--- PAGE 17 ---
+
+ 
+
+
+--- PAGE 18 ---
+
+v1
+
+
+--- PAGE 19 ---
+
+ 
+ 
+ 
+Concurso DRH USP Outubro 2025 
+Publicado em 13/10/2025. 
+Universidade de São Paulo
+Físico (ênfase em ciências do patrimônio) – Edital RH Nº 058/2025 
+PROVA FIS 
+01 
+A 
+ 
+31 
+D 
+02 
+D 
+ 
+32 
+E 
+03 
+E 
+ 
+33 
+E 
+04 
+B 
+ 
+34 
+B 
+05 
+D 
+ 
+35 
+A 
+06 
+B 
+ 
+36 
+E 
+07 
+D 
+ 
+37 
+C 
+08 
+E 
+ 
+38 
+C 
+09 
+A 
+ 
+39 
+E 
+10 
+B 
+ 
+40 
+D 
+11 
+D 
+ 
+41 
+C 
+12 
+C 
+ 
+42 
+D 
+13 
+C 
+ 
+43 
+E 
+14 
+E 
+ 
+44 
+C 
+15 
+A 
+ 
+45 
+B 
+16 
+A 
+ 
+46 
+C 
+17 
+E 
+ 
+47 
+B 
+18 
+C 
+ 
+48 
+B 
+19 
+A 
+ 
+49 
+C 
+20 
+B 
+ 
+50 
+A 
+21 
+B 
+ 
+51 
+A 
+22 
+B 
+ 
+52 
+C 
+23 
+A 
+ 
+53 
+D 
+24 
+E 
+ 
+54 
+D 
+25 
+D 
+ 
+55 
+C 
+26 
+C 
+ 
+56 
+D 
+27 
+E 
+ 
+57 
+C 
+28 
+B 
+ 
+58 
+A 
+29 
+B 
+ 
+59 
+D 
+30 
+D 
+ 
+60 
+A 
+ 
+ 
+ 
+
+
+--- PAGE 20 ---
+
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 058/2025   
+ 
+Físico (com ênfase em ciências do 
+patrimônio) 
+ 
+ 
+ 
+ 
+QUESTÃO DISSERTATIVA 
+ 
+RESPOSTA ESPERADA 
+ 
+1) Quando um feixe de raios X atravessa uma obra de arte (como uma pintura), ele encontra diferentes materiais – 
+pigmentos, vernizes, camadas de tinta, preparação do suporte (gesso, tela, madeira etc.). Cada material interage de 
+maneira diferente com a radiação. Os principais mecanismos de atenuação são a absorção fotoelétrica e o 
+espalhamento Compton. No efeito fotoelétrico, fótons de raios X são completamente absorvidos por átomos de alto 
+número atômico (Z), e a energia transferida para um elétron, gerando ejeção de elétrons e alta atenuação. Esse 
+fenômeno realça o contraste, especialmente em pigmentos metálicos, devido à grande diferença na absorção em 
+relação a materiais orgânicos ou de baixo Z. Já o espalhamento Compton envolve colisões entre fótons de raios X e 
+elétrons quase livres, resultando em perda de energia e desvio angular dos fótons, o que causa difusão da radiação e 
+degrada a resolução espacial da imagem. Esse efeito é mais frequente em materiais de número atômico baixo (como 
+carbono e oxigênio da madeira ou da tela). A imagem radiográfica final expressa a distribuição dos diferentes pigmentos 
+e camadas pela variação na atenuação, enquanto a resolução depende da energia dos raios X (que influencia 
+penetração e espalhamento), da espessura da obra e da sensibilidade do sistema detector. 
+ 
+2) A análise por radiações ionizantes enfrenta várias limitações físicas e técnicas. A dose de radiação deve ser 
+rigorosamente controlada para evitar danos químicos e estruturais em materiais sensíveis, sobretudo pigmentos 
+orgânicos, que podem sofrer degradação irreversível. Existe um compromisso entre penetração e resolução: raios X de 
+alta energia atravessam camadas mais profundas, mas aumentam o espalhamento Compton, reduzindo contraste e 
+nitidez; já baixas energias proporcionam melhor definição, porém com menor alcance. Além disso, a heterogeneidade 
+química e estrutural das obras gera imagens complexas, exigindo calibração precisa e interpretação experiente para 
+evitar interpretações errôneas. A segurança radiológica, pois além de proteger a obra, é necessário garantir a segurança 
+dos pesquisadores e técnicos contar a exposição à radiação, o que envolve blindagens, protocolos de segurança e 
+custos adicionais. Por fim, a técnica raramente é autossuficiente e geralmente é complementada por métodos como 
+fluorescência de raios X, tomografia ou espectroscopias, para obter uma caracterização mais completa sem invasão. 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 21 ---
+
+ 
+CRITÉRIOS DE CORREÇÃO 
+ 
+• Critério 1: Completude e abrangência dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+Todos os conceitos principais são abordados com profundidade e detalhamento. 
+2 
+A maioria dos conceitos principais é abordada, mas pode faltar algum detalhe ou profundidade. 
+1 
+Alguns conceitos principais são abordados, mas a explicação é superficial ou incompleta. 
+0  
+Pouco ou nenhum conceito relevante é abordado. 
+ 
+• Critério 2: Domínio e aprofundamento dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+A resposta é precisa, com informações corretas e bem explicadas. 
+2 
+A resposta é em sua maioria precisa, mas pode conter alguns pequenos erros ou imprecisões. 
+1 
+A resposta contém várias imprecisões ou erros conceituais, mas a ideia geral é compreensível. 
+0  
+A resposta está incorreta e confusa. 
+ 
+• Critério 3: Aplicação prática / exemplificação dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+A resposta faz uma excelente conexão entre os conceitos teóricos e suas aplicações práticas. 
+2 
+A resposta faz boas conexões entre teoria e prática, mas pode ser aprimorada com mais exemplos 
+ou detalhes. 
+1 
+A conexão entre teoria e prática é mencionada, mas é superficial ou pouco clara. 
+0  
+A resposta não aborda a aplicação prática e não apresenta exemplos dos conceitos. 
+ 
+• Critério 4: Clareza e Coerência (0 a 1 ponto): 
+Faixa de nota 
+Critério 
+1 
+O texto é extremamente claro e coerente, apresentando uma explicação lógica e bem estruturada 
+dos conceitos. 
+0,5 
+O texto é claro e coerente, com algumas pequenas falhas na estrutura ou na explicação. 
+0 
+O texto é compreensível, mas apresenta várias falhas na clareza ou na coerência que dificultam a 
+compreensão total. 
+ 

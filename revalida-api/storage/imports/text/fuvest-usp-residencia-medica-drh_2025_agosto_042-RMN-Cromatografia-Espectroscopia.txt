@@ -1,0 +1,2043 @@
+
+
+--- PAGE 1 ---
+
+ 
+ERC 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 042/2025 -  
+ 
+Especialista em Laboratório (Ressonância 
+Magnética Nuclear, espectroscopia e 
+cromatografia) 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique¬se¬o¬seu¬nome¬está¬correto¬na¬capa¬deste¬caderno¬e¬se¬a¬folha¬de¬respostas¬pertence¬ao¬grupo ERC.¬
+Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+3. Durante¬a¬prova,¬são¬vedadas¬a¬comunicação¬entre¬candidatos¬e¬a¬utilização¬de¬qualquer¬material¬de¬consulta¬e¬
+de¬aparelhos¬de¬telecomunicação.¬
+4. Duração¬da¬prova:¬4¬horas.¬Cabe¬ao¬candidato¬controlar¬o¬tempo¬com¬base¬nas¬informações¬fornecidas¬pelo¬
+fiscal.¬O(A)¬candidato(a)¬poderá¬retirar-se¬da¬sala¬definitivamente¬apenas¬a¬partir¬das¬15¬h.¬Não¬haverá¬tempo¬
+adicional¬para¬preenchimento¬da¬folha¬de¬respostas.¬¬
+5. O(A)¬ candidato(a)¬ deverá¬ seguir¬ as¬ orientações¬ estabelecidas¬ pela¬ FUVEST¬ a¬ respeito¬ dos¬ procedimentos¬
+adotados¬para¬a¬aplicação¬deste¬concurso.¬
+6. Lembre-se¬de¬que¬a¬FUVEST¬se¬reserva¬ao¬direito¬de¬efetuar¬procedimentos¬adicionais¬de¬identificação¬e¬controle¬
+do¬ processo,¬ visando¬ a¬ garantir¬ a¬ plena¬ integridade¬ do¬ exame.¬ Assim,¬ durante¬ a¬ realização¬ da¬ prova,¬ será¬
+coletada¬por¬um¬fiscal¬uma¬foto¬do(a)¬candidato(a)¬para¬fins¬de¬reconhecimento¬facial,¬para¬uso¬exclusivo¬da¬USP¬
+e¬da¬FUVEST.¬A¬imagem¬não¬será¬divulgada¬nem¬utilizada¬para¬quaisquer¬outras¬finalidades,¬nos¬termos¬da¬lei.¬
+7. Após¬a¬autorização¬do¬fiscal¬da¬sala,¬verifique¬se¬o¬caderno¬está¬completo.¬Ele¬deve¬conter¬60¬questões¬objetivas¬
+com¬5¬alternativas¬cada¬e¬1¬(uma)¬questão¬dissertativa.¬Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+8. Preencha¬a¬folha¬de¬respostas¬com¬cuidado,¬utilizando¬caneta¬esferográfica¬de¬tinta azul ou preta.¬Essa¬folha¬
+não será substituída¬em¬caso¬de¬rasura.¬
+9. Ao¬final¬da¬prova,¬é¬obrigatória¬a¬devolução¬da¬folha¬de¬respostas¬acompanhada¬deste¬caderno¬de¬questões.¬
+¬
+Declaração 
+Declaro¬que¬li¬e¬estou¬ciente¬das¬informações¬que¬constam¬na¬capa¬desta¬prova,¬na¬folha¬de¬respostas,¬bem¬
+como¬dos¬avisos¬que¬foram¬transmitidos¬pelo¬fiscal¬de¬sala.¬
+¬
+___________________________________________________¬
+ASSINATURA¬
+O(a)¬candidato(a)¬que¬não¬assinar¬a¬capa¬da¬prova¬será¬considerado(a)¬ausente¬da¬prova.¬
+ 
+ 
+
+
+--- PAGE 2 ---
+
+Concurso Edital RH nº 042/2025 – Especialista em Laboratório (especialidade: Ressonância Magnética Nuclear, espectroscopia e cromatografia)¬
+Texto para as questões de 01 a 04 
+¬
+Ambiência¬
+ 
+Somos¬ nós¬ que¬ ditamos¬ o¬ mundo¬ em¬ que¬ vivemos.¬ Não¬ é¬
+alienação¬ ou¬ delírio¬ -¬ o¬ fato¬ é¬ que¬ nosso¬ mundo¬ é¬ o¬ nosso¬
+pensar.¬Claro¬que¬não¬se¬trata¬apenas¬de¬imaginar¬o¬mundo¬
+que¬desejamos¬para¬ele¬se¬concretizar¬em¬nossa¬mente.¬Para¬
+conseguir¬ esse¬ efeito,¬ você¬ tem¬ que¬ negociar¬ com¬ suas¬
+emoções¬para¬que¬elas¬permitam¬que¬sua¬mente¬viva¬nesse¬
+ambiente.¬ Se¬ as¬ emoções¬ alimentarem¬ o¬ pensamento¬ com¬
+impulsos¬positivos¬e¬amorosos,¬ele,¬então,¬poderá¬sustentar¬
+essa¬ atmosfera;¬ mas¬ se,¬ ao¬ contrário,¬ instigar¬ ânimos¬
+negativos¬e¬hostis,¬essa¬será¬a¬sua¬ambiência.¬Para¬complicar,¬
+as¬ emoções¬ são¬ reações...¬ Então¬ você¬ terá¬ que¬ atrair¬
+condutas¬ e¬ comportamentos¬ positivos¬ para¬ influenciá-las;¬
+elas,¬por¬sua¬vez,¬influenciarão¬os¬seus¬pensamentos.¬A¬boa¬
+notícia¬ é¬ que¬ ter¬ bons¬ pensamentos¬ nos¬ leva¬ a¬ ter¬ boas¬
+emoções,¬as¬quais¬irão¬cooptar¬boas¬ações¬dos¬outros.¬Acho¬
+que¬a¬pergunta,¬então,¬é¬mais¬ou¬menos¬esta:¬como¬começar¬
+tal¬processo¬da¬maneira¬certa?¬
+¬
+Adaptado¬de¬Nilson¬Bonder.¬Vapor¬dos¬vapores:¬dicionário¬de¬pensares.¬
+Rocco¬Digital.¬2025.¬
+{01} 
+O¬ título¬ “Ambiência”,¬ no¬ contexto¬ do¬ texto,¬ refere-se¬
+principalmente:¬
+¬
+(A)¬À¬influência¬da¬arquitetura¬e¬do¬espaço¬sobre¬os¬hábitos¬
+emocionais¬da¬população.¬
+(B)¬A¬ um¬ cenário¬ externo¬ que¬ independe¬ das¬ emoções¬ ou¬
+pensamentos¬do¬sujeito.¬
+(C)¬À¬ aparência¬ dos¬ lugares¬ concretos,¬ como¬ resultado¬ de¬
+estímulos¬sensoriais.¬
+(D)¬A¬uma¬noção¬vaga,¬de¬forma¬decorativa,¬sem¬vínculo¬com¬
+a¬argumentação¬do¬texto.¬
+(E)¬A¬um¬estado¬subjetivo¬criado¬por¬emoções¬e¬pensamentos¬
+que¬moldam¬experiências.¬
+##### 
+¬
+{02} 
+A¬ coerência¬ interna¬ do¬ texto¬ está¬ ancorada¬ na¬ seguinte¬
+perspectiva:¬
+¬
+(A)¬As¬ emoções¬ sempre¬ resultam¬ de¬ experiências¬ externas,¬
+não¬estando¬ligadas¬aos¬pensamentos.¬
+(B)¬O¬ pensamento¬ funciona¬ de¬ modo¬ independente¬ das¬
+emoções¬e¬do¬comportamento.¬
+(C)¬As¬emoções¬alimentam¬os¬pensamentos,¬e¬estes,¬por¬sua¬
+vez,¬moldam¬a¬vivência.¬
+(D)¬A¬ mente¬ é¬ passiva¬ diante¬ das¬ emoções¬ e¬ desejos,¬
+controlando¬todas¬as¬ações¬humanas¬de¬convívio.¬
+(E)¬O¬pensamento¬é¬o¬único¬fator¬determinante¬da¬ambiência¬
+descrita¬no¬escopo¬das¬ações¬humanas.¬
+##### 
+¬
+{03} 
+No¬ trecho¬ “Para¬ complicar,¬ as¬ emoções¬ são¬ reações...”,¬ a¬
+locução¬“Para¬complicar”¬tem¬como¬principal¬efeito¬de¬sentido¬a¬
+¬
+(A)¬ênfase¬da¬simplicidade¬com¬que¬as¬emoções¬operam.¬
+(B)¬negação¬da¬relevância¬das¬emoções¬no¬processo¬descrito.¬
+(C)¬contraposição¬da¬emoção¬à¬razão¬de¬forma¬absoluta.¬
+(D)¬introdução¬de¬um¬obstáculo¬à¬linearidade¬do¬raciocínio.¬
+(E)¬justificativa¬de¬que¬as¬emoções¬são¬sempre¬positivas.¬
+##### 
+{04} 
+Na¬oração¬“Se¬as¬emoções¬alimentarem¬o¬pensamento¬com¬
+impulsos¬positivos...”,¬a¬conjunção¬“se”¬contribui¬para¬
+¬
+(A)¬detalhar¬o¬sujeito¬em¬perspectiva¬temporal.¬
+(B)¬expressar¬uma¬consequência¬imediata¬e¬inevitável.¬
+(C)¬estabelecer¬hipótese¬de¬causa¬e¬efeito.¬
+(D)¬expressar¬finalidade¬da¬ação¬e¬de¬seu¬resultado.¬
+(E)¬opor¬ideias¬complementares¬e¬antagônicas.¬
+##### 
+¬
+ 
+Texto para as questões 05 e 06 
+ 
+No¬momento¬em¬que¬morreu,¬Joaquim¬escrevia¬um¬livro¬
+que¬nunca¬me¬mostrou.¬Meu¬pai,¬meu¬estranho.¬Ouvi¬falar¬da¬
+sua¬obra¬inacabada¬desde¬criança.¬Onde¬guardar¬a¬dança¬da¬
+mão¬direita¬do¬escritor,¬enquanto¬projetou¬o¬romance,¬toda¬a¬
+vida¬adulta,¬o¬pontilhado¬de¬gestos¬abortados,¬os¬rascunhos-
+fantasma,¬ tentativas,¬ planos,¬ ou¬ seriam¬ sonhos,¬ a¬ energia¬
+despendida,¬o¬fogo¬de¬que¬irradiavam¬ideias¬que¬jamais¬viram¬
+a¬luz?¬O¬que¬restou¬foi¬o¬vazio.¬Mas¬talvez¬o¬vazio¬seja¬um¬
+lugar¬ -¬ uma¬ cidade¬ -¬ repleto¬ de¬ avenidas.¬ Algures,¬ livro¬
+sobreviverá,¬ aberto,¬ como¬ sobrevivem¬ as¬ nossas¬ ideias,¬
+anseios,¬ as¬ nossas¬ mistificações,¬ literatura¬ desconhecida,¬
+minha¬ tradição.¬ Ninguém¬ leu¬ o¬ livro¬ que¬ dizia¬ escrever.¬ O¬
+escritor¬morreu,¬levou-o.¬Não¬é¬possível¬que¬a¬morte¬do¬meu¬
+Pai¬ tenha¬ matado¬ o¬ livro,¬ que¬ era¬ a¬ própria¬ vida.¬ O¬ sonho¬
+dessa¬ obra¬ foi¬ a¬ herança¬ que¬ me¬ deixou.¬ Como¬ parar¬ de¬
+sonhá-lo,¬se¬jamais¬o¬li?¬Imagino¬a¬biblioteca¬dos¬livros¬por¬
+escrever.¬
+¬
+Adaptado¬de¬Djaimilia¬Pereira¬de¬Almeida.¬O¬livro¬do¬meu¬pai.¬Todavia.¬
+2025.¬
+{05} 
+Considerando¬ a¬ organização¬ argumentativa,¬ o¬ texto¬ é¬
+construído¬a¬partir¬da¬
+¬
+(A)¬comprovação¬material¬da¬existência¬do¬manuscrito,¬com¬
+base¬em¬indícios¬concretos¬deixados¬pelo¬pai.¬
+(B)¬tensão¬ entre¬ ausência¬ e¬ permanência,¬ expressa¬ na¬
+evocação¬do¬livro¬inacabado¬como¬herança¬simbólica.¬
+(C)¬recusa¬ afetiva¬ em¬ reconhecer¬ a¬ importância¬ do¬ pai,¬
+centrando-se¬em¬seu¬silêncio¬literário.¬
+(D)¬progressão¬lógica¬e¬objetiva¬da¬narrativa¬sobre¬o¬processo¬
+criativo¬do¬escritor¬falecido.¬
+(E)¬reconstrução¬ factual¬ da¬ memória¬ do¬ pai,¬ com¬ foco¬ na¬
+materialidade¬de¬sua¬produção¬textual.¬
+##### 
+¬
+{06} 
+No¬ trecho¬ “Onde¬ guardar¬ a¬ dança¬ da¬ mão¬ direita¬ do¬
+escritor...”,¬o¬seu¬efeito¬expressivo¬resulta¬de¬
+¬
+(A)¬antítese,¬pela¬articulação¬entre¬movimento¬espontâneo¬e¬
+paralisia.¬
+(B)¬metáfora,¬ com¬ a¬ escrita¬ associada¬ a¬ um¬ gesto¬ vivo¬ e¬
+coreográfico.¬
+(C)¬prosopopeia,¬ pela¬ constituição¬ da¬ vida¬ plena¬ à¬ mão¬ do¬
+escritor.¬
+(D)¬metonímia,¬ com¬ a¬ atribuição¬ de¬ racionalidade¬ ao¬ leitor¬
+como¬protagonista.¬
+(E)¬paradoxo,¬pelo¬tratamento¬contraditório¬ao¬invisível¬como¬
+concreto.¬
+##### 
+ 
+
+
+--- PAGE 3 ---
+
+Concurso Edital RH nº 042/2025 – Especialista em Laboratório (especialidade: Ressonância Magnética Nuclear, espectroscopia e cromatografia)¬
+Texto para as questões de 07 a 09 
+¬
+Em¬muitos¬cantos¬do¬planeta,¬a¬leitura¬remete¬a¬eras¬
+longínquas.¬ Nos¬ tempos¬ em¬ que¬ capitaneava¬ o¬ Império¬
+Romano,¬ o¬ poderoso¬ Júlio¬ César¬ (100¬ a.C.¬ -¬ 44¬ a.C.)¬ já¬
+mencionava¬o¬hábito¬em¬seu¬”Guerra¬das¬Gálias”,¬escritos¬em¬
+que¬enaltecia¬seus¬feitos¬expansionistas,¬engolindo¬inclusive¬
+o¬que¬é¬hoje¬Paris.¬Aí¬o¬mundo¬girou,¬e¬o¬século¬XV¬registrou¬
+um¬advento¬que¬mudou¬a¬história¬dos¬livros¬-¬a¬invenção¬da¬
+prensa¬ de¬ Gutenberg,¬ que¬ substituiu¬ os¬ manuscritos¬
+artesanais¬por¬volumes¬acessíveis¬a¬um¬público¬mais¬vasto.¬A¬
+princípio,¬eram¬clérigos,¬acadêmicos¬e¬a¬elite¬letrada¬-¬uma¬
+turma¬ que¬ inflou¬ com¬ a¬ chegada¬ da¬ emergente¬ burguesia.¬
+Mais¬ tarde,¬ a¬ Revolução¬ Industrial¬ viu¬ aflorar¬ o¬ conceito¬ de¬
+produção¬em¬larga¬escala,¬o¬que¬fez¬ampliar¬ainda¬mais¬os¬
+leitores,¬ que,¬ na¬ década¬ de¬ 1930,¬ receberam¬ um¬ belo¬
+empurrão¬ com¬ o¬ aparecimento¬ da¬ opção¬ de¬ bolso,¬ os¬
+paperbacks,¬tudo¬a¬preço¬razoável¬e¬fácil¬de¬carregar.¬Só¬que¬
+a¬história¬seguiu¬sua¬marcha,¬e¬a¬entrada¬em¬cena¬da¬internet¬
+chacoalhou¬a¬sociedade,¬revolucionando¬comportamentos¬e¬
+moldando¬gerações.¬Nessa¬tremida¬de¬pilares,¬o¬prazer¬de¬se¬
+perder¬nas¬páginas¬de¬um¬livro¬(ainda¬que¬no¬meio¬digital)¬está¬
+escasseando,¬ como¬ confirma¬ de¬ forma¬ perturbadora¬ um¬
+recente¬ levantamento¬ que¬ se¬ concentrou¬ na¬ população¬
+brasileira¬ de¬ todas¬ as¬ idades¬ e¬ classes¬ sociais.¬ A¬ aferição,¬
+agora¬na¬sexta¬edição,¬pela¬primeira¬vez¬aponta¬que¬a¬maioria¬
+no¬país¬não¬está¬lendo¬um¬único¬livro,¬nem¬daqueles¬fininhos¬
+e¬de¬enredo¬simples.¬Precisamente,¬53%¬declararam¬não¬ter¬
+folheado¬nenhum¬volume¬nos¬três¬meses¬que¬antecederam¬a¬
+detalhada¬pesquisa¬“Retratos¬da¬Leitura¬no¬Brasil”,¬conduzida¬
+pelo¬instituto¬Ipec.¬
+¬
+Adaptado¬de¬Sara¬Salbert.”¬Nova¬pesquisa¬mostra¬que¬brasileiros¬estão¬
+cada¬vez¬mais¬afastados¬da¬leitura.”¬Revista¬Veja.¬Jan.¬de¬2025.¬
+{07} 
+A¬progressão¬apresentada¬no¬texto¬permite¬compreender¬que¬
+¬
+(A)¬a¬
+leitura¬
+passou¬
+de¬
+prática¬
+elitista¬
+a¬
+atividade¬
+potencialmente¬massificada,¬embora¬em¬declínio.¬
+(B)¬o¬ advento¬ da¬ imprensa¬ historicamente¬ eliminou¬ por¬
+completo¬os¬manuscritos¬da¬circulação¬cultural.¬
+(C)¬a¬ popularização¬ dos¬ livros¬ esteve¬ sempre¬ ligada¬ a¬ uma¬
+preocupação¬estatal¬com¬o¬acesso¬à¬educação.¬
+(D)¬a¬leitura¬escolar¬e¬social¬foi¬uma¬importante¬constante¬na¬
+vida¬das¬populações¬em¬todas¬as¬épocas.¬
+(E)¬a¬ internet¬ representa¬ um¬ avanço¬ absoluto,¬ inclusive¬ na¬
+promoção¬da¬leitura¬e¬da¬formação¬cidadã.¬
+##### 
+¬
+{08} 
+A¬expressão¬“o¬mundo¬girou”¬tem,¬no¬contexto,¬a¬função¬de¬
+¬
+(A)¬sugerir¬que¬as¬transformações¬culturais¬foram¬abruptas¬e¬
+destrutivas.¬
+(B)¬criticar¬o¬dinamismo¬exagerado¬da¬modernidade¬e¬seus¬
+impactos.¬
+(C)¬ironizar¬ a¬ ideia¬ de¬ progresso¬ civilizacional¬ no¬ âmbito¬
+social.¬
+(D)¬indicar¬
+a¬
+instabilidade¬
+política¬
+causada¬
+por¬
+transformações¬tecnológicas.¬
+(E)¬marcar¬coloquialmente¬uma¬transição¬histórica¬e¬cultural.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+{09} 
+No¬trecho¬“Só¬que¬a¬história¬seguiu¬sua¬marcha”,¬a¬expressão¬
+“só¬que”¬serve,¬principalmente,¬para¬
+¬
+(A)¬sugerir¬algo¬independente¬em¬relação¬ao¬que¬aconteceu.¬
+(B)¬oferecer¬ uma¬ explicação¬ sobre¬ a¬ queda¬ do¬ hábito¬ de¬
+leitura.¬
+(C)¬mostrar¬que¬o¬desfecho¬foi¬igual¬ao¬que¬se¬esperava.¬
+(D)¬indicar¬ uma¬ mudança¬ de¬ rumo¬ em¬ relação¬ ao¬ que¬ foi¬
+mencionado.¬
+(E)¬apresentar¬ uma¬ consequência¬ do¬ que¬ vinha¬ sendo¬
+narrado.¬
+##### 
+¬
+ 
+Texto para as questões de 10 a 12 
+¬
+How¬to¬write,¬according¬to¬the¬bestselling¬novelist¬of¬all¬time¬
+¬
+Everyone¬has¬a¬book¬inside¬them,¬or¬so¬the¬saying¬goes.¬In¬
+this¬day¬and¬age,¬those¬who¬want¬help¬coaxing¬the¬story¬out¬
+can¬receive¬instruction¬online¬from¬some¬of¬the¬world’s¬most¬
+popular¬authors.¬Lee¬Child¬and¬Harlan¬Coben,¬who¬have¬sold¬
+hundreds¬ of¬ millions¬ of¬ books¬ between¬ them,¬ teach¬ thriller¬
+writing;¬ Jojo¬ Moyes¬ offers¬ tips¬ on¬ romance¬ yarns.¬ And¬ now¬
+Agatha¬ Christie,¬ the¬ world’s¬ bestselling¬ writer¬ of¬ fiction,¬ with¬
+more¬than¬2¬bn¬copies¬sold,¬is¬instructing¬viewers¬in¬the¬art¬of¬
+the¬whodunnit—even¬though¬she¬died¬in¬1976.¬
+Christie’s¬ course¬ is¬ the¬ result¬ not¬ of¬ recently¬ unearthed¬
+archival¬ footage,¬ but¬ artificial¬ intelligence.¬ BBC¬ Maestro,¬ an¬
+online¬ education¬ platform,¬ brought¬ the¬ idea¬ to¬ the¬ Christie¬
+family,¬which¬still¬controls¬36%¬of¬Agatha¬Christie¬Ltd¬(AMC¬
+Networks,¬ an¬ entertainment¬ giant,¬ owns¬ the¬ rest).¬ They¬
+consented¬to¬bring¬the¬“Queen¬of¬Crime”¬back¬to¬life,¬to¬teach¬
+the¬mysterious¬flair¬of¬her¬style.¬
+A¬team¬of¬almost¬100—including¬Christie¬scholars¬as¬well¬
+as¬ AI¬ specialists—worked¬ on¬ the¬ project.¬ Vivien¬ Keene,¬ an¬
+actor,¬provided¬a¬stand-in¬for¬the¬author;¬Christie’s¬face¬was¬
+mapped¬ on¬ top.¬ Crucially,¬ Ms¬ Keene’s¬ eerily¬ credible¬
+performance¬ employs¬ only¬ Christie’s¬ words:¬ a¬ tapestry¬ of¬
+extracts¬from¬her¬own¬writings,¬notebooks¬and¬interviews.¬
+In¬this¬way,¬the¬creator¬of¬Hercule¬Poirot¬and¬Miss¬Marple¬
+shares¬handy¬writing¬tips,¬such¬as¬the¬neatest¬ways¬to¬dispatch¬
+fictional¬ victims.¬ Firearms¬ bring¬ ballistic¬ complications.¬ Be¬
+wary¬ of¬ poisons,¬ as¬ each¬ works¬ in¬ a¬ unique¬ way.¬ Novice¬
+authors¬can¬“always¬rely¬on¬a¬dull¬blow¬to¬the¬head”.¬
+Many¬of¬Christie’s¬writing¬rules¬concern¬playing¬fair.¬She¬
+practiced¬ misdirection¬ and¬ laid¬ “false¬ clues”¬ alongside¬ true¬
+ones,¬ but¬ insisted¬ that¬ her¬ plots¬ do¬ not¬ cheat¬ or¬ hide¬ key¬
+evidence:¬“I¬never¬deceive¬my¬readers.”¬In¬sections¬devoted¬
+to¬plot¬and¬setting,¬she¬explains¬how¬to¬plant¬key¬clues¬“in¬plain¬
+sight”¬and¬plan¬events¬with¬detailed¬“maps¬and¬diagrams”.¬She¬
+advises¬viewers¬to¬watch¬and¬listen¬to¬strangers¬on¬buses¬or¬in¬
+shops¬and¬to¬spice¬up¬motives¬for¬murder¬with¬a¬love¬triangle.¬
+Some¬ of¬ the¬ most¬ engaging¬ sections¬ come¬ from¬ “An¬
+Autobiography”,¬ published¬ posthumously¬ in¬ 1977:¬ Poirot’s¬
+origins¬ among¬ the¬ Belgian¬ refugees¬ who¬ reached¬ Devon¬
+during¬ the¬ First¬ World¬ War,¬ or¬ fond¬ memories¬ of¬ her¬
+charismatic,¬feckless¬brother¬Monty,¬who¬had¬“broken¬the¬laws¬
+of¬a¬lot¬of¬countries”¬and¬provided¬the¬inspiration¬for¬many¬of¬
+Christie’s¬“wayward¬young¬male¬figures”.¬
+By¬relying¬on¬Christie’s¬own¬words,¬BBC¬Maestro¬hopes¬to¬
+avoid¬charges¬of¬creepy¬pedagogical¬deepfakery.¬At¬the¬same¬
+time,¬it¬is¬that¬focus¬on¬quotation¬which¬limits¬the¬course’s¬value¬
+as¬a¬creative-writing¬toolbox.¬The¬woman¬born¬Agatha¬Miller¬in¬
+1890¬speaks¬from¬her¬own¬time¬and¬place.¬She¬tells¬wannabe¬
+writers¬to¬use¬snowstorms¬to¬isolate¬murder¬scenes¬(as¬they¬
+bring¬ down¬ telephone¬ wires)¬ and¬ cites¬ the¬ clue-generating¬
+value¬of¬railway¬timetables,¬ink¬stains¬and¬cut-up¬newspapers.¬
+These¬charming¬details¬are¬irrelevant¬to¬modern¬scribblers.¬
+
+
+--- PAGE 4 ---
+
+Concurso Edital RH nº 042/2025 – Especialista em Laboratório (especialidade: Ressonância Magnética Nuclear, espectroscopia e cromatografia)¬
+Yet¬anachronism¬is¬not¬the¬course’s¬biggest¬flaw:¬it¬is¬that¬it¬
+lacks¬ vitality.¬ Christie¬ enjoyed¬ a¬ richer¬ life¬ than¬ learners¬ will¬
+glean¬from¬this¬prim¬phantom:¬she¬was¬a¬wartime¬nurse¬(hence¬
+her¬deep¬knowledge¬of¬toxins),¬thwarted¬opera¬singer,¬keen¬
+surfer¬ and¬ archaeological¬ expert¬ who¬ joined¬ her¬ second¬
+husband¬ on¬ digs¬ in¬ Iraq.Furthermore,¬ her¬ juiciest¬ mysteries¬
+smash¬crime-writing¬rules.¬The¬narrator¬does¬it;¬the¬detective¬
+does¬it;¬all¬the¬suspects¬do¬it.¬Sometimes¬there’s¬no¬detective:¬
+in¬“The¬Hollow”¬(1946)¬Christie¬regretted¬that¬Poirot¬appeared¬
+at¬ all.¬ With¬ its¬ working-class¬ antihero¬ and¬ gothic¬ darkness,¬
+“Endless¬ Night”¬ (1967)¬ shatters¬ every¬ Christie¬ cliché.¬ This¬
+high-tech,¬ retrofitted¬ version¬ of¬ the¬ author¬ feels¬ smaller¬ and¬
+flatter¬than¬the¬ingenious¬original.¬
+¬
+The¬Economist,¬May,¬8th,¬2025¬
+¬
+{10} 
+“Crucially,¬ Ms¬ Keene’s¬ eerily¬ credible¬ performance¬ employs¬
+only¬ Christie’s¬ words:¬ a tapestry of extracts¬ from¬ her¬ own¬
+writings,¬notebooks¬and¬interviews.”¬
+¬
+Em¬relação¬ao¬trecho¬apresentado,¬qual¬a¬figura¬de¬linguagem¬
+que¬está¬na¬expressão¬“a tapestry of extracts”?¬
+¬
+(A)¬Antítese.¬
+(B)¬Hipérbole.¬
+(C)¬Metáfora.¬
+(D)¬Sinestesia.¬
+(E)¬Personificação.¬
+##### 
+¬
+{11} 
+Assinale¬a¬alternativa¬que¬sintetiza¬com¬mais¬precisão¬a¬crítica¬
+principal¬do¬autor¬ao¬curso¬de¬escrita¬“ministrado”¬por¬Agatha¬
+Christie¬via¬inteligência¬artificial.¬
+¬
+(A)¬The¬ use¬ of¬ deepfake¬ technology¬ raises¬ serious¬ ethical¬
+questions¬about¬pedagogical¬authenticity.¬
+(B)¬The¬presentation¬is¬engaging¬but¬falters¬by¬prioritizing¬the¬
+actor’s¬performance¬over¬Christie’s¬original¬words.¬
+(C)¬Despite¬ its¬ modern¬ platform,¬ the¬ course¬ fails¬ to¬ remain¬
+practically¬ relevant,¬ relying¬ solely¬ on¬ period‐specific¬
+examples¬without¬offering¬new¬techniques.¬
+(D)¬The¬ course¬ depends¬ exclusively¬ on¬ anachronistic¬
+quotations,¬ lacks¬ vitality,¬ and¬ provides¬ no¬ immediate¬
+practical¬value¬for¬contemporary¬writers.¬
+(E)¬The¬ digital¬ adaptation¬ of¬ Christie¬ revives¬ her¬ life¬
+experiences¬ but¬ renders¬ the¬ format¬ overly¬ long¬ and¬
+detailed.¬¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{12} 
+“Watch¬and¬listen¬to¬strangers¬on¬buses¬or¬in¬shops¬to¬gather¬
+ideas.”¬
+¬
+Assinale¬a¬alternativa¬que¬transforma¬a¬recomendação¬direta¬
+citada¬em¬um¬pedido¬ou¬sugestão¬mais¬polida,¬sem¬alteração¬
+do¬seu¬sentido¬básico.¬
+¬
+(A)¬You¬ must¬ watch¬ and¬ listen¬ to¬ strangers¬ on¬ buses¬ or¬ in¬
+shops¬to¬gather¬ideas.¬
+(B)¬You¬should¬watch¬and¬listen¬to¬strangers¬on¬buses¬or¬in¬
+shops¬to¬gather¬ideas.¬
+(C)¬You¬need¬to¬watch¬and¬listen¬to¬strangers¬on¬buses¬or¬in¬
+shops¬to¬gather¬ideas.¬
+(D)¬Don’t¬forget¬to¬watch¬and¬listen¬to¬strangers¬on¬buses¬or¬in¬
+shops¬to¬gather¬ideas.¬
+(E)¬Watch¬and¬listen¬politely¬to¬strangers¬on¬buses¬or¬in¬shops¬
+to¬gather¬ideas.¬
+##### 
+ 
+ 
+Texto para as questões de 13 a 15 
+¬
+Leveraging¬Student¬Interests¬to¬Teach¬Critical¬Analysis¬
+¬
+Critical¬ analysis¬ often¬ feels¬ burdensome¬ to¬ students—an¬
+exercise¬in¬sorting¬hazy¬ideas¬with¬no¬clear¬payoff.¬Yet,¬when¬
+learners¬ glimpse¬ something¬ of¬ value—a¬ “gem”¬ amid¬ the¬
+clutter—the¬ process¬ becomes¬ not¬ just¬ manageable¬ but¬
+invigorating.¬By¬tapping¬into¬topics¬they¬already¬care¬about,¬
+we¬ can¬ model¬ the¬ habits¬ of¬ mind¬ involved¬ in¬ deep¬ thinking¬
+before¬ guiding¬ students¬ into¬ unfamiliar¬ territory.¬ In¬ this¬ way,¬
+what¬begins¬as¬an¬exploration¬of¬personal¬passion¬becomes¬a¬
+transferable¬skill¬for¬any¬subject.¬
+First,¬ invite¬ students¬ to¬ choose¬ a¬ subject¬ that¬ genuinely¬
+interests¬them—whether¬it’s¬dissecting¬the¬social¬commentary¬
+in¬a¬favorite¬song¬or¬debating¬the¬ethics¬of¬a¬beloved¬athlete’s¬
+off-field¬behavior.¬Guide¬them¬through¬selecting¬an¬analytical¬
+angle,¬ unpacking¬ layers¬ of¬ meaning,¬ and¬ celebrating¬
+discoveries.¬ As¬ they¬ experience¬ critical¬ analysis¬ as¬ an¬
+energizing¬process¬rather¬than¬a¬dry¬requirement,¬they¬build¬
+confidence¬in¬their¬own¬intellectual¬curiosity¬and¬learn¬to¬seek¬
+connections¬between¬ideas.¬
+Next,¬ when¬ faced¬ with¬ assignments¬ that¬ initially¬ seem¬
+remote—say,¬an¬art¬critique¬or¬a¬historical¬essay—provide¬a¬
+lens¬that¬resonates¬with¬each¬student’s¬strengths.¬A¬budding¬
+fiction¬ writer,¬ for¬ example,¬ can¬ approach¬ a¬ painting¬ as¬ she¬
+would¬ a¬ story:¬ considering¬ character,¬ narrative¬ arc,¬ and¬
+emotional¬impact.¬By¬framing¬unfamiliar¬topics¬through¬familiar¬
+mindsets,¬you¬grant¬students¬an¬entry¬point¬that¬makes¬critical¬
+analysis¬feel¬both¬relevant¬and¬compelling.¬
+Once¬students¬have¬internalized¬the¬underlying¬process,¬
+encourage¬them¬to¬take¬the¬reins.¬Rather¬than¬asking,¬“What¬
+does¬ this¬ mean?”¬ shift¬ to,¬ “What¬ does¬ this¬ mean¬ to¬ me?”¬
+Students¬might¬analyze¬ecological¬themes¬in¬a¬novel¬from¬their¬
+passion¬ for¬ climate¬ justice,¬ or¬ reinterpret¬ a¬ political¬ speech¬
+through¬ the¬ lens¬ of¬ family¬ heritage.¬ These¬ personal¬
+connections¬transform¬assignments¬from¬obligatory¬tasks¬into¬
+opportunities¬for¬authentic¬inquiry.¬
+Ultimately,¬ teaching¬ critical¬ analysis¬ in¬ this¬ way¬ moves¬
+learners¬from¬guided¬practice¬to¬independent¬exploration.¬By¬
+beginning¬with¬their¬interests,¬scaffolding¬new¬angles,¬and¬then¬
+inviting¬ student-driven¬ investigations,¬ educators¬ can¬ help¬
+every¬ learner—from¬ the¬ avid¬ gamer¬ to¬ the¬ reluctant¬ essay-
+writer—carry¬ these¬ skills¬ into¬ diverse¬ subjects.¬ In¬ doing¬ so,¬
+critical¬analysis¬becomes¬not¬a¬chore¬but¬a¬doorway¬to¬richer¬
+understanding.¬
+Edutopia,¬May,¬1st,¬2025¬
+¬
+
+
+--- PAGE 5 ---
+
+Concurso Edital RH nº 042/2025 – Especialista em Laboratório (especialidade: Ressonância Magnética Nuclear, espectroscopia e cromatografia)¬
+{13} 
+Assinale¬ a¬ alternativa¬ que¬ apresenta,¬ resumidamente,¬ o¬
+sentido¬geral¬do¬texto.¬¬
+¬
+(A)¬Students¬gain¬confidence¬by¬applying¬critical¬thinking¬first¬
+to¬ familiar¬ topics¬ they¬ love,¬ which¬ then¬ equips¬ them¬ to¬
+tackle¬new¬subjects¬more¬independently.¬
+(B)¬Critical¬thinking¬deepens¬most¬effectively¬when¬practiced¬
+within¬one’s¬existing¬areas¬of¬interest,¬allowing¬learners¬to¬
+build¬expertise¬before¬broadening¬their¬scope.¬
+(C)¬Teachers¬
+equip¬
+students¬
+with¬
+detailed¬
+analytical¬
+frameworks,¬ ensuring¬ they¬ internalize¬ the¬ process¬ fully¬
+before¬venturing¬into¬original¬interpretations.¬
+(D)¬Making¬analysis¬engaging¬involves¬tailoring¬tasks¬to¬each¬
+student’s¬
+personal¬
+preferences,¬
+thereby¬
+sustaining¬
+motivation¬and¬curiosity.¬
+(E)¬By¬framing¬analysis¬through¬students’¬interests,¬teachers¬
+make¬critical¬thinking¬both¬engaging¬and¬transferable.¬¬
+¬
+##### 
+¬
+{14} 
+Na¬ oração¬ “Once¬ students¬ have¬ internalized¬ the¬ underlying¬
+process,¬encourage¬them¬to¬take¬the¬reins.”¬a¬expressão¬take 
+the reins¬tem¬o¬mesmo¬sentido¬da¬expressão¬destacada¬em:¬
+¬
+(A)¬Once¬internalized,¬encourage¬them¬to¬grab the saddle.¬¬
+(B)¬Once¬internalized,¬encourage¬them¬to¬jump the gun.¬
+(C)¬Once¬internalized,¬encourage¬them¬to¬hit the sack.¬
+(D)¬Once¬internalized,¬encourage¬them¬to¬face the music.¬
+(E)¬Once¬internalized,¬encourage¬them¬to¬take the plunge.¬
+##### 
+¬
+{15} 
+Leia¬o¬excerto¬a¬seguir¬que¬apresenta¬um¬resumo,¬em¬inglês,¬
+do¬texto¬original:¬¬
+¬
+“After¬ modeling¬ the¬ analysis¬ process¬ through¬ students’¬
+interests¬ and¬ providing¬ familiar¬ lenses¬ for¬ new¬ topics,¬ the¬
+author¬suggests¬that¬in¬the¬final¬stage,¬students¬independently¬
+apply¬this¬method¬to¬subjects¬previously¬unknown¬to¬them.”¬
+¬
+Em¬ relação¬ ao¬ trecho¬ apresentado,¬ qual das situações 
+descritas a seguir¬melhor¬exemplifica¬o¬estágio¬em¬que¬o¬aluno¬
+“tome¬o¬controle”¬do¬próprio¬processo¬de¬aprendizagem?¬
+¬
+(A)¬João¬analisa¬um¬artigo¬histórico¬seguindo¬rigorosamente¬o¬
+roteiro¬sugerido¬pelo¬docente.¬
+(B)¬Maria¬traslada¬as¬etapas¬usadas¬ao¬esmiuçar¬sua¬música¬
+favorita¬para¬decifrar¬um¬poema¬clássico.¬¬
+(C)¬Pedro¬ interpreta¬ um¬ texto¬ literário¬ repetindo¬ fielmente¬ o¬
+exemplo¬apresentado¬em¬sala.¬¬
+(D)¬Ana¬consulta¬o¬professor¬em¬todas¬as¬fases¬de¬análise¬de¬
+uma¬pintura¬famosa.¬¬
+(E)¬Lucas¬ adota¬ as¬ mesmas¬ perguntas¬ elaboradas¬ pelo¬
+manual¬didático¬para¬examinar¬outro¬gênero¬textual.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{16} 
+Observe¬a¬charge¬a¬seguir:¬
+¬
+Folha¬de¬São¬Paulo,¬20.05.2025.¬
+¬
+Assinale¬ a¬ alternativa¬ que¬ melhor¬ descreve¬ o¬ sentido¬ da¬
+charge¬ em¬ face¬ de¬ recentes¬ circunstâncias¬ vivenciadas¬ na¬
+sociedade¬brasileira.¬
+¬
+(A)¬Diante¬das¬dificuldades¬de¬ordem¬técnica¬para¬reversão¬
+do¬caso¬de¬gripe¬aviária¬detectado,¬sugere-se,¬para¬conter¬
+a¬contaminação,¬a¬substituição¬das¬aves¬por¬animais¬feitos¬
+de¬material¬sintético.¬
+(B)¬Os¬prejuízos¬para¬a¬balança¬comercial¬brasileira¬em¬razão¬
+do¬caso¬de¬gripe¬aviária¬constatado¬é¬agravado¬pelo¬alto¬
+custo¬de¬importação¬dos¬chamados¬bebês¬reborn.¬
+(C)¬Uma¬ forma¬ de¬ enfrentar¬ os¬ custos¬ decorrentes¬ das¬
+medidas¬sanitárias¬adotadas¬pelas¬autoridades¬brasileiras¬
+é¬ o¬ racionamento¬ da¬ alimentação¬ fornecida¬ às¬ aves¬ na¬
+área¬infestada.¬
+(D)¬Assim¬como¬ocorre¬com¬os¬bebês¬reborn,¬que¬viraram¬uma¬
+tendência¬ entre¬ adultos,¬ os¬ animais¬ reborn¬ têm¬ sido¬
+usados¬
+como¬
+conforto¬
+psicológico¬
+para¬
+crianças¬
+infectadas¬por¬gripe¬aviária.¬
+(E)¬A¬ alimentação¬ dos¬ seres¬ humanos¬ está¬ cada¬ vez¬ mais¬
+sintética,¬o¬que¬afeta¬a¬imunidade¬da¬população,¬tornando-
+a¬infectável¬pelo¬vírus¬da¬gripe¬aviária.¬
+##### 
+¬
+{17} 
+“Pouco¬tempo¬depois¬de¬publicar¬meu¬primeiro¬romance,¬fui¬a¬
+uma¬ emissora¬ de¬ TV¬ em¬ Lagos¬ [na¬ Nigéria]¬ para¬ uma¬
+entrevista.¬Uma¬mulher¬que¬trabalhava¬lá¬me¬abordou¬e¬disse:¬
+‘Gostei¬muito¬do¬seu¬romance,¬mas¬não¬gostei¬do¬fim.¬Você¬
+precisa¬ escrever¬ uma¬ continuação,¬ e¬ é¬ isso¬ que¬ vai¬
+acontecer...’¬–¬então¬começou¬a¬me¬dizer¬o¬que¬escrever”.¬
+¬
+Chimamanda¬Ngozi¬Adichie.¬O¬perigo¬de¬uma¬história¬única.¬
+¬
+O¬trecho¬apresentado¬está¬inserido¬num¬contexto¬em¬que¬a¬
+autora¬
+¬
+(A)¬critica¬ os¬ que¬ se¬ intrometem¬ na¬ produção¬ artística¬ dos¬
+escritores.¬
+(B)¬elogia¬os¬leitores¬nigerianos¬não¬convencionais¬e¬celebra¬
+a¬criatividade¬que¬a¬leitura¬pode¬despertar.¬
+(C)¬critica¬ o¬ acesso¬ facilitado¬ às¬ redes¬ abertas¬ de¬ TV¬ em¬
+detrimento¬do¬acesso¬aos¬livros.¬
+(D)¬elogia¬as¬múltiplas¬possibilidades¬interpretativas¬que¬um¬
+mesmo¬texto¬pode¬despertar.¬
+(E)¬assume¬postura¬neutra¬relativamente¬aos¬leitores¬de¬sua¬
+obra.¬¬
+#####¬
+
+
+--- PAGE 6 ---
+
+Concurso Edital RH nº 042/2025 – Especialista em Laboratório (especialidade: Ressonância Magnética Nuclear, espectroscopia e cromatografia)¬
+{18} 
+“É¬claro¬que¬durante¬esses¬anos¬nós¬deixamos¬de¬ser¬colônia¬
+para¬constituir¬o¬Estado¬brasileiro¬e¬entramos¬no¬século¬XXI,¬
+quando¬ a¬ maior¬ parte¬ das¬ previsões¬ apostava¬ que¬ as¬
+populações¬ indígenas¬ não¬ sobreviveriam¬ à¬ ocupação¬ do¬
+território,¬ pelo¬ menos¬ não¬ mantendo¬ formas¬ próprias¬ de¬
+organização,¬ capazes¬ de¬ gerir¬ suas¬ vidas.¬ Isso¬ porque¬ a¬
+máquina¬estatal¬atua¬para¬desfazer¬as¬formas¬de¬organização¬
+das¬ nossas¬ sociedades,¬ buscando¬ uma¬ integração¬ entre¬
+essas¬populações¬e¬o¬conjunto¬da¬sociedade¬brasileira”.¬
+¬
+Ailton¬Krenak.¬Ideias¬para¬adiar¬o¬fim¬do¬mundo.¬
+¬
+O¬trecho¬apresentado¬está¬inserido¬num¬contexto¬em¬que¬o¬
+autor¬critica¬a¬
+¬
+(A)¬mistura¬de¬valores¬culturais¬e¬a¬perda¬da¬identidade¬dos¬
+povos¬indígenas.¬
+(B)¬falta¬de¬respeito¬com¬a¬vida¬simples¬que¬é¬levada¬pelos¬
+povos¬indígenas.¬
+(C)¬forma¬ como¬ são¬ chamados¬ os¬ povos¬ indígenas¬ pela¬
+população¬brasileira,¬que¬segue¬se¬referindo¬a¬eles¬como¬
+índios.¬
+(D)¬intensificação¬ do¬ extermínio¬ de¬ indígenas¬ nos¬ últimos¬
+anos,¬por¬meio¬de¬políticas¬oficiais¬do¬Estado.¬
+(E)¬imposição¬ aos¬ povos¬ indígenas¬ de¬ estruturas¬ e¬ de¬ um¬
+modo¬de¬vida¬cultural¬de¬matriz¬europeia.¬
+##### 
+¬
+{19} 
+Segundo¬ as¬ normas¬ da¬ USP,¬ os¬ docentes¬ que¬ assumem¬
+funções¬de¬Direção¬e¬que,¬por¬isso,¬ficam¬desobrigados¬de¬
+suas¬atividades¬docentes,¬são,¬além¬do¬Reitor,¬
+¬
+(A)¬os¬Pró-Reitores¬e¬os¬Diretores¬de¬Unidades.¬
+(B)¬o¬Vice-Reitor¬e¬os¬Diretores¬de¬Unidades.¬
+(C)¬os¬Diretores¬de¬Unidades¬e¬os¬Chefes¬de¬Departamento.¬
+(D)¬o¬Vice-Reitor¬e¬os¬Pró-Reitores.¬
+(E)¬os¬ Pró-Reitores¬ e¬ os¬ Presidentes¬ das¬ Comissões¬
+Estatutárias.¬
+##### 
+¬
+{20} 
+Na¬ hipótese¬ de¬ criação¬ de¬ uma¬ nova¬ Unidade¬ da¬ USP,¬ ao¬
+elaborar¬ o¬ Regimento¬ Interno,¬ são¬ propostas¬ 3¬ comissões.¬
+Assinale¬a¬alternativa¬que¬apresenta¬as¬comissões¬possíveis¬
+nos¬termos¬do¬Estatuto¬da¬USP.¬
+¬
+(A)¬Comissão¬ de¬ Ensino¬ (Graduação¬ e¬ Pós-Graduação)¬ –¬
+Comissão¬de¬Pesquisa¬e¬Inovação¬–¬Comissão¬de¬Inclusão¬
+e¬Pertencimento.¬
+(B)¬Comissão¬ de¬ Graduação¬ e¬ Extensão¬ Universitária¬ –¬
+Comissão¬ de¬ Pós-Graduação,¬ Pesquisa¬ e¬ Inovação¬ –¬
+Comissão¬de¬Inclusão¬e¬Pertencimento.¬
+(C)¬Comissão¬ de¬ Graduação¬ –¬ Comissão¬ de¬ Cultura¬ e¬
+Extensão¬ Universitária¬ –¬ Comissão¬ de¬ Inclusão¬ e¬
+Pertencimento.¬
+(D)¬Comissão¬de¬Cultura¬e¬Extensão¬Universitária¬–¬Comissão¬
+de¬Pesquisa¬e¬Inovação¬–¬Comissão¬de¬Pós-Graduação.¬
+(E)¬Comissão¬ de¬ Graduação¬ –¬ Comissão¬ de¬ Pesquisa¬ e¬
+Inovação¬–¬Comissão¬de¬Cultura¬e¬Extensão¬Universitária.¬
+##### 
+ 
+ 
+ 
+ 
+{21} 
+Nos¬termos¬do¬Estatuto¬da¬Universidade¬de¬São¬Paulo,¬pode-
+se¬ dizer¬ que¬ a¬ composição¬ do¬ Conselho¬ Técnico-
+Administrativo¬das¬Unidades¬é¬
+¬
+(A)¬fixa,¬não¬podendo¬ser¬alterada.¬
+(B)¬aquela¬ que¬ venha¬ a¬ ser¬ estabelecida¬ livremente¬ pelo¬
+Regimento¬Interno¬da¬Unidade.¬
+(C)¬aquela¬ que¬ venha¬ a¬ ser¬ estabelecida¬ pelo¬ Regimento¬
+Interno¬ da¬ Unidade,¬ respeitada¬ a¬ composição¬ mínima¬
+fixada¬pelo¬Estatuto¬da¬USP.¬
+(D)¬de¬natureza¬eminentemente¬acadêmica.¬
+(E)¬de¬natureza¬eminentemente¬financeiro-orçamentária.¬
+##### 
+¬
+{22} 
+A¬equação¬de¬segundo¬grau¬𝑎𝑥ଶ−6𝑥+ 𝑐= 0¬tem¬raízes¬2¬e¬
+ଵ
+ଶ.¬O¬valor¬de¬𝑎+ 𝑐¬é¬
+¬
+(A)¬
+ଶଶ
+ହ¬
+¬
+(B)¬
+ଶସ
+ହ¬
+¬
+(C)¬
+ଶସ
+଻¬
+¬
+(D)¬
+ଶ଺
+ହ¬
+¬
+(E)¬
+ଶ଺
+ଷ¬
+##### 
+¬
+{23} 
+Um¬ exemplar¬ da¬ bandeira¬ do¬ Brasil¬ mede¬ 20¬ metros¬ de¬
+comprimento¬ por¬ 14¬ metros¬ de¬ altura.¬ Sabendo-se¬ que¬ o¬
+losango¬ interno¬ a¬ ela¬ tem¬ diagonais¬ medindo¬ 16,6¬ e¬¬
+10,6¬metros,¬a¬área¬da¬parte¬verde¬da¬bandeira¬mede:¬
+¬
+(A)¬145,76¬metros¬quadrados.¬¬
+(B)¬171,18¬metros¬quadrados.¬
+(C)¬192,02¬metros¬quadrados.¬
+(D)¬202,54¬metros¬quadrados.¬
+(E)¬210,20¬metros¬quadrados.¬
+##### 
+¬
+{24} 
+Uma¬ progressão¬ aritmética¬ (PA)¬ de¬ razão¬ 𝑥≠0¬ e¬ uma¬
+progressão¬geométrica¬(PG)¬de¬razão¬𝑦¬começam¬ambas¬no¬
+número¬2¬e¬possuem¬os¬dois¬primeiros¬termos¬coincidentes.¬
+Sabendo¬que¬o¬terceiro¬termo¬da¬PG¬coincide¬com¬o¬quinto¬da¬
+PA,¬pode-se¬afirmar¬
+¬
+(A)¬A¬razão¬𝑥¬é¬estritamente¬maior¬do¬que¬𝑦.¬
+(B)¬A¬razão¬𝑦¬é¬estritamente¬maior¬do¬que¬𝑥.¬
+(C)¬As¬razões¬𝑥¬e¬𝑦¬são¬iguais.¬
+(D)¬A¬soma¬𝑥+ 𝑦¬é¬um¬número¬par.¬
+(E)¬A¬soma¬𝑥+ 𝑦¬é¬múltiplo¬de¬cinco.¬
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Concurso Edital RH nº 042/2025 – Especialista em Laboratório (especialidade: Ressonância Magnética Nuclear, espectroscopia e cromatografia)¬
+{25} 
+O¬menor¬número¬inteiro¬que¬é¬múltiplo¬de¬todos¬os¬inteiros¬
+entre¬2¬e¬o¬sexto¬número¬primo¬é:¬
+¬
+(A)¬240.680.¬
+(B)¬280.460.¬
+(C)¬300.100.¬
+(D)¬320.240.¬
+(E)¬360.360.¬
+##### 
+¬
+{26} 
+Uma¬senha¬tem¬4¬letras¬dentre¬as¬vogais¬AEIOU¬e¬deve¬seguir¬
+as¬seguintes¬regras:¬
+¬
+•¬Nenhuma¬letra¬pode¬aparecer¬mais¬do¬que¬duas¬vezes;¬
+•¬A¬letra¬A¬só¬pode¬aparecer¬na¬primeira¬posição;¬
+•¬A¬letra¬U¬só¬pode¬aparecer¬na¬última¬posição.¬
+¬
+O¬número¬de¬possibilidades¬de¬senhas¬é:¬
+¬
+(A)¬98.¬
+(B)¬103.¬
+(C)¬108.¬
+(D)¬111.¬
+(E)¬120.¬
+##### 
+¬
+{27} 
+Um¬corredor¬treina¬em¬uma¬pista¬circular¬que¬tem¬100¬metros¬
+de¬diâmetro.¬O¬número¬de¬voltas¬que¬ele¬precisa¬percorrer¬
+para¬completar¬a¬distância¬de¬20¬quilômetros¬está¬no¬intervalo¬
+entre¬
+¬
+(A)¬55¬e¬58¬voltas.¬
+(B)¬59¬e¬62¬voltas.¬
+(C)¬62¬e¬65¬voltas.¬
+(D)¬66¬e¬69¬voltas.¬
+(E)¬70¬e¬73¬voltas.¬
+##### 
+¬
+{28} 
+Durante¬ o¬ controle¬ de¬ despesas¬ mensais,¬ utilizou-se¬ o¬
+Microsoft¬Excel,¬em¬português,¬para¬registrar¬os¬gastos¬com¬
+materiais¬de¬escritório.¬Os¬valores¬foram¬inseridos¬nas¬células¬
+de¬B2¬até¬B6.¬Para¬calcular¬o¬total¬das¬despesas,¬deseja-se¬
+usar¬a¬função¬SOMA¬de¬forma¬correta¬e¬eficiente,¬sem¬somar¬
+célula¬ por¬ célula¬ manualmente.¬ Assinale¬ a¬ alternativa¬ que¬
+apresenta¬ a¬ fórmula¬ que¬ se¬ deve¬ utilizar¬ para¬ obter¬
+corretamente¬o¬total¬entre¬as¬células¬B2¬e¬B6.¬
+¬
+(A)¬=SOMA(B2+B3+B4+B5+B6)¬
+(B)¬=SOMA(B2 até B6) 
+(C)¬=SOMA(B2→B6)¬
+(D)¬=SOMA(B2:B6)¬
+(E)¬SOMA=B2:B6 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{29} 
+No¬PowerPoint,¬do¬Microsoft¬Office¬365,¬é¬possível¬tornar¬as¬
+apresentações¬mais¬atrativas¬utilizando¬efeitos¬que¬controlam¬
+o¬ modo¬ da¬ entrada¬ e¬ da¬ saída¬ de¬ um¬ slide¬ durante¬ a¬
+apresentação.¬Esses¬efeitos¬podem¬ser¬personalizados¬com¬
+sons,¬ tempo¬ de¬ duração¬ e¬ tipo¬ de¬ animação.¬ Assinale¬ a¬
+alternativa¬que¬apresenta:¬o¬tipo¬de¬recurso¬para¬aplicar¬os¬
+efeitos¬de¬entrada¬e¬saída¬de¬um¬slide¬durante¬a¬apresentação¬
+e¬ em¬ qual¬ opção¬ do¬ menu¬ ela¬ é¬ encontrada¬ na¬ versão¬ em¬
+português¬do¬PowerPoint.¬
+¬
+(A)¬Animações,¬acessadas¬no¬menu¬“Inserir”,¬utilizadas¬para¬
+criar¬efeitos¬entre¬os¬slides¬de¬uma¬apresentação.¬
+(B)¬Transições,¬acessadas¬no¬menu¬“Transições”,¬aplicadas¬
+diretamente¬ao¬slide¬para¬controlar¬como¬ele¬aparece¬ou¬
+desaparece¬durante¬a¬apresentação.¬
+(C)¬Modo¬de¬leitura,¬acessado¬no¬menu¬“Exibir”,¬utilizado¬para¬
+inserir¬ efeitos¬ sonoros¬ e¬ visuais¬ durante¬ a¬ transição¬ de¬
+slides.¬
+(D)¬Design¬de¬slide,¬encontrado¬no¬menu¬“Design”,¬utilizado¬
+para¬aplicar¬efeitos¬visuais¬e¬animar¬a¬exibição¬dos¬slides¬
+automaticamente.¬
+(E)¬Layout¬personalizado,¬acessado¬no¬menu¬“Início”,¬utilizado¬
+para¬controlar¬o¬movimento¬entre¬slides¬e¬aplicar¬efeitos¬
+visuais¬dinâmicos.¬
+##### 
+¬
+{30} 
+Em¬um¬ambiente¬de¬trabalho,¬três¬tarefas¬distintas¬precisam¬
+ser¬executadas¬com¬os¬programas¬do¬Microsoft¬Office¬365,¬
+versão¬em¬português:¬
+¬
+I. 
+Editar¬ um¬ documento¬ com¬ mais¬ de¬ 20¬ páginas,¬
+substituindo¬todas¬as¬ocorrências¬de¬uma¬palavra-chave¬
+por¬
+outra¬
+e¬
+padronizando¬
+o¬
+estilo¬
+de¬
+títulos¬
+automaticamente.¬
+II. 
+Organizar¬ dados¬ de¬ orçamento¬ com¬ fórmulas¬ de¬ soma,¬
+aplicar¬ uma¬ formatação¬ visual¬ automática¬ em¬ valores¬
+acima¬de¬R$¬5.000¬e¬proteger¬a¬planilha¬contra¬edições¬
+acidentais.¬
+III. 
+Sugerir¬ajustes¬pontuais¬em¬uma¬apresentação¬já¬pronta,¬
+sem¬alterar¬o¬conteúdo,¬utilizando¬anotações¬não¬visíveis¬
+na¬exibição¬do¬slide.¬
+¬
+Considerando¬ os¬ recursos¬ mais¬ adequados¬ de¬ cada¬
+programa¬para¬as¬atividades¬descritas,¬assinale¬a¬alternativa¬
+que¬apresenta,¬corretamente,¬a¬ferramenta¬utilizada¬em¬cada¬
+caso.¬
+¬
+(A)¬I¬–¬PowerPoint¬com¬temas¬automáticos;¬II¬–¬Word¬com¬mala¬
+direta;¬III¬–¬Excel¬com¬comentários¬em¬célula.¬
+(B)¬I¬ –¬ Excel¬ com¬ estilos¬ de¬ célula;¬ II¬ –¬ PowerPoint¬ com¬
+fórmulas;¬III¬–¬Word¬com¬controle¬de¬alterações.¬
+(C)¬I¬–¬Word¬com¬“Localizar¬e¬Substituir”¬e¬Estilos;¬II¬–¬Excel¬
+com¬ fórmulas,¬ formatação¬ condicional¬ e¬ proteção¬ de¬
+planilha;¬III¬–¬PowerPoint¬com¬inserção¬de¬comentários.¬
+(D)¬I¬ –¬ Excel¬ com¬ formatação¬ condicional;¬ II¬ –¬ Word¬ com¬
+validação¬de¬dados;¬III¬–¬PowerPoint¬com¬layout¬mestre.¬
+(E)¬I¬–¬Word¬com¬pincel¬de¬formatação;¬II¬–¬Excel¬com¬gráficos¬
+de¬dispersão;¬III¬–¬PowerPoint¬com¬slide¬mestre¬e¬hiperlink.¬
+##### 
+ 
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 8 ---
+
+Concurso Edital RH nº 042/2025 – Especialista em Laboratório (especialidade: Ressonância Magnética Nuclear, espectroscopia e cromatografia)¬
+{31} 
+Ao¬longo¬de¬uma¬série¬de¬análises¬por¬GC-MS,¬após¬diversas¬
+injeções,¬observou-se¬a¬redução¬da¬razão¬sinal/ruído¬na¬linha¬
+de¬base,¬além¬do¬surgimento¬de¬picos¬não¬identificados¬no¬
+cromatograma.¬Ao¬injetar¬apenas¬o¬solvente,¬observou-se¬a¬
+mesma¬ ocorrência.¬ Qual¬ das¬ alternativas¬ explica¬ essas¬
+observações¬e¬como¬o¬problema¬pode¬ser¬sanado?¬
+¬
+(A) O¬solvente¬foi¬contaminado.¬Trocar¬o¬solvente¬usado¬para¬
+preparar¬as¬amostras.¬
+(B) Houve¬ contaminação¬ no¬ espectrômetro¬ de¬ massas.¬
+Realizar¬a¬manutenção¬corretiva¬no¬equipamento.¬
+(C) O¬liner¬ou¬a¬lã¬de¬vidro¬podem¬estar¬sujos.¬Limpar¬ou¬trocar¬
+os¬componentes,¬conforme¬necessário.¬
+(D) A¬coluna¬capilar¬está¬com¬sangramento.¬Trocar¬a¬coluna¬
+capilar.¬
+(E) O¬ gás¬ de¬ arraste¬ está¬ contaminado.¬ Trocar¬ os¬ filtros¬ do¬
+gás.¬
+##### 
+¬
+{32} 
+Ao¬injetar¬uma¬amostra¬contendo¬hidrocarbonetos¬no¬GC-MS,¬
+obteve-se¬ o¬ cromatograma¬ apresentado¬ na¬ figura¬ a¬ seguir,¬
+que¬mostra¬a¬redução¬da¬resolução¬dos¬picos¬e¬o¬surgimento¬
+de¬cauda¬nestes,¬com¬o¬aumento¬do¬tempo¬de¬retenção.¬
+¬
+As¬condições¬do¬equipamento¬são¬as¬seguintes:¬
+• Coluna¬DB-MS¬30¬m,¬0,25¬mm,¬0,25¬um;¬
+• Rampa¬ do¬ forno:¬ 80¬ ºC¬ (0,8¬ min),¬ 80-325¬ ºC¬ a¬ 15¬ ºC/min,¬
+325¬ºC¬(2¬min);¬
+• Gás¬de¬arraste:¬He¬40¬cm/seg;¬
+• Injetor:¬Splitless,¬120ºC;¬
+• Liner:¬Focal¬sem¬lã¬de¬vidro;¬
+• Detector:¬
+Linha¬
+de¬
+transferência:¬
+200¬ºC,¬
+Fonte:¬
+100¬ºC,¬Quadrupolo:¬100¬ºC.¬
+¬
+Qual¬alternativa¬explica¬corretamente¬o¬problema¬e¬o¬que¬deve¬
+ser¬feito¬para¬resolvê-lo?¬
+¬
+(A) Foi¬utilizada¬uma¬coluna¬capilar¬inadequada¬para¬esses¬
+compostos.¬ Trocar¬ a¬ coluna¬ por¬ uma¬ fase¬ estacionária¬
+polar.¬
+(B) Foi¬utilizada¬uma¬coluna¬capilar¬curta,¬de¬30¬m.¬Trocar¬a¬
+coluna¬por¬uma¬de¬maior¬tamanho.¬
+(C) O¬modo¬splitless¬é¬inadequado¬para¬esses¬compostos.¬
+Alterar¬a¬forma¬de¬injeção¬para¬split.¬
+(D) A¬ausência¬da¬lã¬de¬vidro¬no¬liner¬favoreceu¬a¬formação¬
+da¬cauda¬e¬prejudicou¬a¬resolução.¬Inserir¬a¬lã¬de¬vidro¬
+no¬liner.¬
+(E) As¬temperaturas¬baixas¬do¬injetor¬e¬do¬detector¬causaram¬
+a¬ condensação¬ dos¬ compostos.¬ Aumentar¬ essas¬
+temperaturas.¬
+##### 
+¬
+¬
+¬
+{33} 
+Um¬GC¬que¬está¬equipado¬com¬um¬detector¬de¬captura¬de¬
+elétrons¬(ECD)¬é¬adequado¬para¬a¬análise¬de¬qual¬classe¬de¬
+compostos?¬
+¬
+(A) Pesticidas¬organoclorado.¬
+(B) Aminoácidos.¬
+(C) Proteínas.¬
+(D) Esteróis.¬
+(E) Ácidos¬graxos.¬
+##### 
+¬
+{34} 
+Um¬HPLC¬foi¬equipado¬com¬uma¬coluna¬de¬permeação¬em¬gel¬
+(GPC),¬de¬forma¬a¬ser¬usado¬como¬equipamento¬preparativo,¬
+ou¬seja,¬para¬realizar¬a¬purificação¬de¬extratos¬orgânicos¬para¬
+posterior¬análise¬por¬GC.¬Qual¬é¬o¬princípio¬da¬separação¬dos¬
+compostos¬que¬passam¬por¬essa¬coluna?¬
+¬
+(A) Polaridade¬dos¬compostos¬em¬relação¬à¬fase¬estacionária.¬
+(B) Tamanho¬ molecular¬ dos¬ compostos,¬ com¬ base¬ na¬
+exclusão¬por¬tamanho.¬
+(C) Interações¬ iônicas¬ entre¬ os¬ compostos¬ e¬ o¬ material¬ da¬
+coluna.¬
+(D) Coeficiente¬ de¬ partição¬ dos¬ compostos¬ entre¬ fases¬
+estacionária¬e¬móvel.¬
+(E) Afinidade¬química¬dos¬compostos¬com¬a¬fase¬móvel.¬
+##### 
+¬
+{35} 
+Para¬a¬determinação¬de¬CO¬e¬CO2¬em¬uma¬amostra¬de¬gás¬
+natural,¬propõe-se¬a¬análise¬por¬cromatografia¬gasosa.¬Qual¬o¬
+detector¬acoplado¬ao¬GC¬mais¬indicado¬para¬essa¬análise?¬
+¬
+(A) Detector¬de¬ionização¬por¬chama.¬
+(B) Detector¬de¬captura¬de¬elétrons.¬
+(C) Espectrômetro¬de¬massas/ionização¬por¬elétrons.¬
+(D) Detector¬de¬condutividade¬térmica.¬
+(E) Detector¬de¬fotoionização.¬
+##### 
+¬
+
+
+--- PAGE 9 ---
+
+Concurso Edital RH nº 042/2025 – Especialista em Laboratório (especialidade: Ressonância Magnética Nuclear, espectroscopia e cromatografia)¬
+{36} 
+Em¬um¬experimento,¬foi¬realizada¬a¬extração¬de¬pigmentos¬de¬
+folhas¬de¬espinafre¬utilizando¬propanona.¬Uma¬fração¬desse¬
+extrato¬ foi¬ inserida¬ em¬ uma¬ coluna¬ de¬ vidro¬ previamente¬
+preenchida¬ com¬ sílica¬ condicionada¬ com¬ mistura¬ de¬
+hexano/propanona¬ (7:3¬ v/v)¬ e¬ procedeu-se¬ a¬ eluição¬ do¬
+extrato¬com¬a¬mesma¬mistura.¬Foram¬coletadas¬três¬frações¬
+(1,¬2¬e¬3),¬separando-as¬pela¬cor,¬conforme¬a¬figura¬a¬seguir.¬
+¬
+¬
+Os¬seguintes¬compostos¬foram¬identificados:¬¬
+Fração¬1:¬beta-caroteno;¬Fração¬2:¬clorofila;¬Fração¬3:¬luteína.¬
+Assinale¬ a¬ alternativa¬ que¬ apresenta¬ a¬ ordem¬ crescente¬ de¬
+polaridade¬ desses¬ pigmentos¬ e¬ a¬ técnica¬ analítica¬ que¬
+possibilita¬a¬identificação¬dos¬compostos¬por¬comparação¬do¬
+sinal¬com¬soluções¬padrões.¬
+¬
+¬
+Ordem¬de¬polaridade¬
+Técnica¬analítica¬
+(A)¬
+1<2<3¬
+GC-MS¬
+(B)¬
+1<2<3¬
+HPLC/Arranjo¬de¬diodos¬
+(C)¬
+3<2<1¬
+GC-MS¬
+(D)¬
+3<2<1¬
+HPLC/Arranjo¬de¬diodos¬
+(E)¬
+2<3<1¬
+GC-TOF¬
+¬
+Note¬e¬adote:¬
+Massa¬molecular¬(u):¬beta-caroteno:¬537;¬luteína:¬569;¬clorofila:¬894¬
+##### 
+¬
+{37} 
+Duas¬amostras,¬A¬e¬B,¬contendo¬os¬mesmos¬analitos¬foram¬
+preparadas¬da¬seguinte¬forma:¬¬
+• Amostra¬A:¬dissolvida¬em¬70%¬água¬/¬30%¬metanol;¬
+• Amostra¬B:¬dissolvida¬em¬100%¬metanol.¬
+Caso¬ essas¬ amostras¬ sejam¬ analisadas¬ em¬ um¬ HPLC¬
+operando¬em¬modo¬isocrático,¬com¬fase¬móvel¬composta¬por¬
+70%¬ água¬ /¬ 30%¬ metanol,¬ qual¬ das¬ alternativas¬ descreve¬ o¬
+cromatograma¬esperado¬da¬amostra¬B¬em¬comparação¬com¬
+o¬da¬amostra¬A?¬
+¬
+(A) A¬amostra¬B¬apresentará¬picos¬mais¬estreitos¬e¬tempo¬de¬
+retenção¬maior¬por¬estar¬em¬solvente¬mais¬forte.¬
+(B) A¬amostra¬B¬terá¬picos¬alargados,¬assimétricos¬e¬menor¬
+sensibilidade¬devido¬à¬força¬do¬seu¬solvente,¬prejudicando¬
+a¬separação.¬
+(C) Ambas¬gerarão¬picos¬semelhantes,¬pois¬a¬composição¬do¬
+solvente¬da¬amostra¬não¬influencia¬a¬separação.¬
+(D) A¬amostra¬B¬gerará¬apenas¬o¬morro¬de¬mistura¬complexa¬
+não¬resolvida¬devido¬à¬polaridade¬do¬metanol.¬
+(E) A¬ amostra¬ B¬ terá¬ melhor¬ separação,¬ pois¬ o¬ metanol¬
+aumenta¬a¬interação¬com¬a¬fase¬estacionária.¬
+¬
+Note¬e¬adote:¬
+Considere¬o¬volume¬de¬injeção¬de¬ambas¬como¬20¬μL.¬
+##### 
+{38} 
+Durante¬ o¬ desenvolvimento¬ de¬ um¬ método¬ de¬ HPLC¬ para¬
+análise¬de¬uma¬formulação¬farmacêutica¬contendo¬compostos¬
+com¬diferentes¬polaridades,¬o¬analista¬observou¬que¬a¬eluição¬
+isocrática¬ resultava¬ em¬ picos¬ sobrepostos¬ ou¬ tempos¬ de¬
+retenção¬ excessivamente¬ longos.¬ Qual¬ a¬ melhor¬ estratégia¬
+cromatográfica¬para¬resolver¬esse¬problema?¬
+¬
+(A) Reduzir¬
+o¬
+volume¬
+de¬
+injeção¬
+para¬
+minimizar¬
+a¬
+sobreposição¬de¬picos.¬
+(B) Utilizar¬apenas¬solventes¬orgânicos¬polares¬para¬garantir¬
+eluição¬rápida¬de¬todos¬os¬compostos.¬
+(C) Ajustar¬o¬pH¬da¬fase¬móvel¬para¬aumentar¬a¬polaridade¬
+dos¬analitos.¬
+(D) Utilizar¬
+eluição¬
+em¬
+gradiente,¬
+aumentando¬
+progressivamente¬a¬força¬eluente¬da¬fase¬móvel¬durante¬a¬
+análise.¬
+(E) Instalar¬uma¬coluna¬de¬exclusão¬por¬tamanho¬(GPC),¬que¬
+é¬mais¬adequada¬para¬misturas¬complexas.¬
+##### 
+¬
+{39} 
+O¬ espectro¬ de¬ massas¬ do¬ composto¬ de¬ fórmula¬ molecular¬
+C3H6O,¬ mostrado¬ a¬ seguir,¬ apresentou¬ um¬ pico¬ base¬ de¬
+relação¬massa/carga¬de¬43.¬
+¬
+Esse¬espectro¬corresponde¬a¬qual¬dos¬isômeros¬possíveis?¬
+¬
+(A) Propanona.¬
+(B) Propanal.¬
+(C) Propen-1-ol.¬
+(D) Metoxieteno.¬
+(E) Propan-1-ol.¬
+##### 
+¬
+{40} 
+Com¬base¬na¬regra¬do¬nitrogênio,¬qual¬dos¬compostos¬a¬seguir¬
+possui¬um¬íon¬molecular¬com¬m/z¬par¬na¬espectrometria¬de¬
+massas?¬
+¬
+(A) Propilamina.¬
+(B) Etanolamina.¬
+(C) Metilamina.¬
+(D) Dimetilamina.¬
+(E) Butanona.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 10 ---
+
+Concurso Edital RH nº 042/2025 – Especialista em Laboratório (especialidade: Ressonância Magnética Nuclear, espectroscopia e cromatografia)¬
+{41} 
+Os¬espectros¬de¬massa¬apresentados¬a¬seguir¬correspondem¬
+ao¬2-cloropropano¬e¬ao¬bromoetano.¬Ambos¬apresentam¬dois¬
+picos¬ moleculares¬ principais¬ separados¬ por¬ 2¬ unidades¬ de¬
+massa¬(m/z),¬com¬diferentes¬intensidades¬relativas.¬
+¬
+¬
+Considerando¬ os¬ íons¬ moleculares¬ observados¬ para¬ cada¬
+composto,¬o¬que¬se¬pode¬inferir¬sobre¬a¬abundância¬isotópica¬
+dos¬elementos¬Cl¬e¬Br?¬
+¬
+(A) O¬ cloro¬ possui¬ dois¬ isótopos¬ principais¬ em¬ proporção¬
+aproximadamente¬1:1,¬enquanto¬o¬bromo¬possui¬isótopos¬
+majoritários¬com¬maior¬diferença¬de¬abundância.¬
+(B) A¬presença¬de¬dois¬picos¬moleculares¬com¬intensidades¬
+muito¬ próximas¬ (quase¬ 1:1)¬ no¬ espectro¬ do¬ bromoetano¬
+indica¬ que¬ o¬ Br¬ possui¬ 2¬ isótopos¬ de¬ abundância¬
+semelhante.¬
+(C) A¬diferença¬de¬intensidade¬entre¬os¬dois¬picos¬moleculares¬
+no¬ espectro¬ do¬ 2-cloropropano¬ indica¬ que¬
+37Cl¬ é¬
+significativamente¬
+mais¬
+abundante¬
+que¬
+35Cl,¬
+com¬
+proporção¬próxima¬de¬3:1.¬
+(D) Em¬ambos¬os¬casos,¬os¬dupletos¬são¬gerados¬em¬função¬
+da¬ressonância¬dos¬hidrogênios¬nas¬vizinhanças.¬
+(E) O¬íon¬molecular¬com¬menor¬m/z¬é¬resultado¬do¬decaimento¬
+radioativo¬do¬m/z¬principal.¬
+##### 
+¬
+{42} 
+Na¬ espectrometria¬ de¬ massas,¬ as¬ técnicas¬ de¬ ionização¬ por¬
+impacto¬ eletrônico¬ (IE)¬ e¬ ionização¬ química¬ (CI)¬ apresentam¬
+características¬distintas.¬Qual¬alternativa¬descreve¬corretamente¬
+uma¬diferença¬entre¬essas¬duas¬técnicas?¬
+¬
+(A) IE¬é¬uma¬técnica¬de¬ionização¬suave,¬enquanto¬CI¬promove¬
+fragmentações¬intensas.¬
+(B) IE¬ forma¬ preferencialmente¬ íons¬ negativos,¬ enquanto¬ CI¬
+forma¬radicais¬neutros.¬
+(C) IE¬utiliza¬um¬gás¬reagente¬para¬gerar¬os¬íons,¬enquanto¬CI¬
+ioniza¬diretamente¬a¬amostra.¬
+(D) IE¬ tende¬ a¬ produzir¬ fragmentações¬ mais¬ intensas,¬
+enquanto¬CI¬preserva¬mais¬o¬íon¬molecular.¬
+(E) IE¬ e¬ CI¬ não¬ diferem¬ em¬ mecanismo,¬ apenas¬ no¬ tipo¬ de¬
+detector¬utilizado.¬
+##### 
+¬
+{43} 
+Na¬espectroscopia¬molecular¬de¬absorção¬no¬infravermelho¬(IV),¬
+nem¬todas¬as¬moléculas¬apresentam¬bandas¬de¬absorção.¬Qual¬
+alternativa¬
+explica¬
+corretamente¬
+por¬
+que¬
+moléculas¬
+homonucleares¬ diatômicas,¬ como¬ N₂¬ e¬ O₂,¬ não¬ absorvem¬
+radiação¬no¬infravermelho?¬
+¬
+(A) Essas¬ moléculas¬ possuem¬ alta¬ massa¬ molecular,¬ que¬
+impede¬sua¬vibração.¬
+(B) Essas¬ moléculas¬ não¬ possuem¬ momento¬ de¬ inércia¬
+suficiente¬para¬interagir¬com¬a¬radiação¬IV.¬
+(C) Essas¬ moléculas¬ não¬ apresentam¬ variação¬ no¬ momento¬
+dipolar¬durante¬a¬vibração¬molecular.¬
+(D) Essas¬ moléculas¬ possuem¬ ligações¬ muito¬ fortes¬ para¬
+serem¬excitadas¬por¬radiação¬IV.¬
+(E) Essas¬moléculas¬não¬podem¬ser¬excitadas¬por¬radiação¬
+eletromagnética¬de¬baixa¬energia.¬
+##### 
+¬
+{44} 
+A¬ respeito¬ das¬ espectroscopias¬ UV-Vis¬ e¬ de¬ absorção¬ no¬
+infravermelho¬(IV),¬assinale¬a¬alternativa¬correta.¬
+¬
+(A) Ambas¬promovem¬transições¬eletrônicas¬que¬dependem¬
+da¬presença¬de¬pares¬de¬elétrons¬não¬ligantes.¬
+(B) ¬Ambas¬ exigem¬ a¬ presença¬ de¬ momento¬ dipolar¬
+permanente¬na¬molécula.¬
+(C) A¬
+espectroscopia¬
+UV-Vis¬
+depende¬
+de¬
+transições¬
+eletrônicas,¬enquanto¬a¬IV¬envolve¬transições¬vibracionais.¬
+(D) Apenas¬ a¬ espectroscopia¬ IV¬ permite¬ quantificação¬ de¬
+compostos¬em¬solução.¬
+(E) ¬A¬espectroscopia¬UV-Vis¬é¬aplicável¬apenas¬a¬moléculas¬
+polares¬com¬grupos¬funcionais¬ativos.¬
+##### 
+¬
+{45} 
+Sobre¬o¬preparo¬de¬amostras¬e¬aplicações¬da¬espectroscopia¬
+FTIR,¬é¬correto¬afirmar:¬
+¬
+(A) As¬ amostras¬ líquidas¬ devem¬ ser¬ sempre¬ diluídas¬ em¬
+solventes¬orgânicos¬voláteis¬ou¬semivoláteis,¬como¬tolueno¬
+ou¬benzeno.¬
+(B) Amostras¬sólidas¬são,¬preferencialmente,¬analisadas¬por¬
+dissolução¬em¬água¬e¬aplicação¬direta¬na¬célula¬de¬leitura.¬
+(C) O¬ FTIR¬ é¬ utilizado¬ apenas¬ para¬ compostos¬ orgânicos¬
+voláteis¬em¬fase¬gasosa.¬
+(D) ¬Amostras¬sólidas¬podem¬ser¬analisadas¬em¬pastilhas¬de¬
+KBr.¬
+(E) A¬ técnica¬ FTIR¬ não¬ é¬ adequada¬ para¬ identificação¬ de¬
+polímeros,¬
+pois¬
+estes¬
+não¬
+apresentam¬
+bandas¬
+características.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 11 ---
+
+Concurso Edital RH nº 042/2025 – Especialista em Laboratório (especialidade: Ressonância Magnética Nuclear, espectroscopia e cromatografia)¬
+{46} 
+Considerando¬ o¬ momento¬ angular¬ de¬ spin¬ e¬ o¬ momento¬
+magnético¬ de¬ núcleos¬ atômicos,¬ qual¬ das¬ alternativas¬
+apresenta¬um¬conjunto¬de¬núcleos¬capazes¬de¬gerar¬sinal¬em¬
+espectroscopia¬de¬RMN?¬
+¬
+(A) 
+C
+଺
+ଵଶ,¬
+O
+଼
+ଵ଺,¬
+S
+ଵ଺
+ଷଶ¬
+(B) H
+ଵ
+ଶ,¬
+C
+଺
+ଵଷ,¬
+F
+ଽ
+ଵଽ¬
+(C) H
+ଵ
+ଵ,¬
+C
+଺
+ଵଶ,¬
+N
+଻
+ଵସ¬
+(D) H
+ଵ
+ଶ,¬
+O
+଼
+ଵ଺,¬
+F
+ଽ
+ଵଽ¬
+(E) H
+ଵ
+ଶ,¬
+Ca
+ଶ଴
+ସ଴
+,¬
+O
+଼
+ଵ଺¬
+##### 
+¬
+{47} 
+A¬ espectroscopia¬ de¬ RMN¬ é¬ amplamente¬ utilizada¬ para¬ a¬
+caracterização¬
+estrutural¬
+de¬
+compostos¬
+orgânicos.¬
+Considerando¬os¬princípios¬básicos¬dessa¬técnica,¬assinale¬a¬
+alternativa¬correta.¬
+¬
+(A) Núcleos¬com¬spin¬diferente¬de¬zero,¬sob¬campo¬magnético¬
+externo,¬absorvem¬radiação¬na¬faixa¬de¬radiofrequência.¬
+(B) ¬A¬técnica¬é¬aplicada¬exclusivamente¬para¬caracterização¬
+de¬moléculas¬que¬contenham¬apenas¬C¬e¬H,¬não¬sendo¬
+aplicável¬para¬as¬demais.¬
+(C) A¬ técnica¬ detecta¬ transições¬ eletrônicas¬ dos¬ átomos¬
+presentes¬ na¬ amostra,¬ possibilitando¬ a¬ determinação¬ da¬
+massa¬molecular¬do¬composto.¬
+(D) A¬ técnica¬ utiliza¬ vibrações¬ moleculares¬ para¬ identificar¬
+grupos¬funcionais.¬
+(E) O¬deslocamento¬químico¬em¬RMN¬é¬medido¬em¬unidades¬
+de¬ massa¬ atômica,¬ o¬ que¬ permite¬ diferenciar¬ isótopos¬
+presentes¬na¬amostra.¬
+##### 
+¬
+{48} 
+Considere¬os¬haletos¬de¬alquila:¬CH3F,¬CH3Cl,¬CH3Br¬e¬CH3I.¬
+Qual¬alternativa¬apresenta¬a¬correta¬posição¬dos¬núcleos¬de¬H¬
+de¬cada¬molécula¬em¬relação¬à¬frequência¬em¬um¬esquema¬
+simplificado¬de¬um¬espectro¬RMN¬de¬1H?¬
+¬
+(A)¬
+¬
+(B)¬
+¬
+(C)¬
+¬
+(D)¬
+¬
+(E)¬
+¬
+##### 
+¬
+{49} 
+Em¬ relação¬ ao¬ deslocamento¬ químico¬ (δ)¬ no¬ sinal¬ do¬ RMN,¬
+utilizando¬ o¬ tetrametilsilano¬ (TMS),¬ (CH3)4Si,¬ como¬ padrão,¬
+avalie¬as¬afirmações¬a¬seguir:¬
+¬
+(1) A¬unidade¬do¬δ¬no¬espectro¬de¬RMN¬é¬hertz¬(Hz).¬
+(2) O¬ TMS¬ gera¬ somente¬ um¬ sinal¬ no¬ espectro,¬ apesar¬ de¬
+possuir¬12¬H.¬
+(3) Os¬H¬de¬cada¬metila¬do¬TMS¬ressonam¬em¬frequências¬
+diferentes.¬
+(4) O¬TMS¬é¬um¬bom¬padrão¬por¬ser¬inerte¬e¬solúvel¬na¬maioria¬
+dos¬solventes¬orgânicos.¬
+¬
+Quais¬afirmações¬estão¬corretas?¬
+¬
+(A) Todas¬as¬afirmações¬estão¬corretas.¬
+(B) Todas¬as¬afirmações¬estão¬erradas.¬
+(C) Estão¬corretas¬as¬afirmações¬2,¬3¬e¬4,¬apenas.¬
+(D) Estão¬corretas¬as¬afirmações¬1¬e¬4,¬apenas.¬
+(E) Estão¬corretas¬as¬afirmações¬2¬e¬4,¬apenas.¬
+##### 
+¬
+
+
+--- PAGE 12 ---
+
+Concurso Edital RH nº 042/2025 – Especialista em Laboratório (especialidade: Ressonância Magnética Nuclear, espectroscopia e cromatografia)¬
+{50} 
+Em¬ um¬ experimento¬ de¬ RMN¬ de¬ ¹H¬ utilizando¬ um¬
+espectrômetro¬com¬frequência¬de¬operação¬de¬600¬MHz,¬um¬
+sinal¬é¬observado¬a¬3,0¬unidades¬de¬deslocamento¬em¬relação¬
+ao¬ padrão¬ TMS.¬ Com¬ base¬ nessa¬ informação,¬ qual¬ é¬ a¬
+diferença¬de¬frequência¬entre¬o¬sinal¬observado¬e¬o¬sinal¬de¬
+referência?¬
+¬
+(A) 180¬Hz.¬
+(B) 200¬Hz.¬
+(C) 900¬Hz.¬
+(D) 1800¬Hz.¬
+(E) 2000¬Hz.¬
+##### 
+¬
+{51} 
+Qual¬alternativa¬apresenta¬moléculas¬que¬geram¬mais¬de¬um¬
+sinal¬ no¬ espectro¬ de¬ RMN¬ de¬ ¹H,¬ indicando¬ a¬ presença¬ de¬
+diferentes¬ambientes¬químicos¬de¬hidrogênio?¬
+¬
+(A) Metano¬e¬etano.¬
+(B) Cloreto¬de¬metila¬e¬metanol.¬
+(C) Propan-1-ol¬e¬propan-2-ol.¬
+(D) Tetracloreto¬de¬carbono¬e¬propano.¬
+(E) Etanol¬e¬benzeno.¬
+##### 
+¬
+{52} 
+O¬espectro¬RMN¬de¬1H¬do¬propanoato¬de¬metila¬é¬apresentado¬
+na¬figura¬seguir:¬
+¬
+Qual¬ alternativa¬ apresenta¬ a¬ correlação¬ correta¬ entre¬ a¬
+multiplicidade¬ dos¬ sinais¬ de¬ RMN¬ de¬ 1H¬ e¬ os¬ hidrogênios¬
+ligados¬aos¬carbonos¬da¬molécula?¬
+¬
+(A) a¬–¬1,¬b¬–¬4,¬c¬–¬3.¬
+(B) a¬–¬3,¬b¬–¬4,¬c¬–¬1.¬
+(C) a¬–¬4,¬b¬–¬3,¬c¬–¬1.¬
+(D) a¬–¬4,¬b¬–¬1,¬c¬–¬3.¬
+(E) a¬–¬1,¬b¬–¬3,¬c¬–¬4.¬
+##### 
+¬
+¬
+¬
+{53} 
+Para¬uma¬análise¬de¬RMN¬de¬13C,¬é¬correto¬afirmar:¬
+¬
+(A) A¬amostra¬não¬precisa¬estar¬tão¬concentrada¬quanto¬para¬
+uma¬análise¬de¬RMN¬de¬1H.¬
+(B) A¬ ocorrência¬ de¬ acoplamento¬ spin-spin¬ entre¬ 13C-13C¬ é¬
+mais¬frequente¬do¬que¬o¬acoplamento¬1H-1H.¬
+(C) A¬faixa¬de¬deslocamento¬químico¬é¬maior¬no¬RMN¬de¬13C¬
+do¬que¬no¬RMN¬de¬1H.¬
+(D) O¬padrão¬TMS¬não¬pode¬ser¬utilizado¬para¬o¬RMN¬de¬13C.¬
+(E) Para¬o¬RMN¬de¬13C,¬não¬é¬possível¬detectar¬o¬acoplamento¬
+13C-1H.¬
+##### 
+¬
+{54} 
+Considere¬o¬espectro¬de¬RMN¬do¬propan-1-ol,¬apresentado¬na¬
+figura¬a¬seguir:¬
+¬
+Com¬base¬no¬espectro¬exibido,¬assinale¬a¬alternativa¬correta.¬
+¬
+(A) Trata-se¬de¬um¬RMN¬de¬ 13C¬desacoplado,¬no¬qual¬cada¬
+singleto¬ representa¬ os¬ hidrogênios¬ ligados¬ a¬ cada¬
+carbono.¬
+(B) Trata-se¬de¬um¬RMN¬de¬1H¬acoplado,¬no¬qual¬cada¬singleto¬
+representa¬um¬carbono.¬
+(C) Esse¬ espectro¬ é¬ gerado¬ aplicando¬ uma¬ segunda¬
+frequência,¬ que¬ impede¬ o¬ acoplamento¬ 13C-1H,¬ no¬ qual¬
+cada¬C¬gera¬um¬singleto.¬
+(D) O¬singleto¬mais¬deslocado¬corresponde¬à¬metila¬terminal,¬
+enquanto¬ o¬ menos¬ deslocado¬ corresponde¬ ao¬ carbono¬
+próximo¬à¬hidroxila.¬
+(E) Trata-se¬ de¬ um¬ RMN¬ de¬ 16O¬ acoplado,¬ cada¬ singleto¬
+representa¬uma¬ressonância¬do¬H¬da¬hidroxila.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 13 ---
+
+Concurso Edital RH nº 042/2025 – Especialista em Laboratório (especialidade: Ressonância Magnética Nuclear, espectroscopia e cromatografia)¬
+{55} 
+A¬ Ressonância¬ Magnética¬ Nuclear¬ (RMN)¬ é¬ uma¬ técnica¬
+espectroscópica¬baseada¬na¬interação¬de¬núcleos¬com¬spin¬
+com¬
+campos¬
+magnéticos¬
+externos.¬
+Com¬
+base¬
+nos¬
+fundamentos¬físicos¬da¬RMN,¬assinale¬a¬alternativa¬correta.¬
+¬
+(A) A¬frequência¬de¬Larmor¬é¬independente¬da¬intensidade¬do¬
+campo¬magnético¬estático¬(B₀)¬e¬depende¬apenas¬do¬tipo¬
+de¬núcleo¬analisado.¬
+(B) A¬
+aplicação¬
+do¬
+campo¬
+de¬
+radiofrequência¬
+(B₁),¬
+perpendicular¬
+ao¬
+campo¬
+B₀,¬
+causa¬
+alinhamento¬
+permanente¬dos¬spins¬nucleares¬no¬estado¬excitado.¬
+(C) O¬tempo¬de¬relaxação¬T₂¬está¬relacionado¬ao¬retorno¬do¬
+vetor¬de¬magnetização¬ao¬eixo¬longitudinal¬(z),¬enquanto¬o¬
+tempo¬ T₁¬ representa¬ a¬ perda¬ de¬ coerência¬ no¬ plano¬
+transversal¬(xy).¬
+(D) A¬condição¬de¬ressonância¬ocorre¬quando¬a¬frequência¬da¬
+radiação¬ de¬ radiofrequência¬ aplicada¬ coincide¬ com¬ a¬
+frequência¬de¬precessão¬dos¬núcleos.¬
+(E) A¬ intensidade¬ do¬ sinal¬ em¬ RMN¬ independe¬ da¬
+concentração¬ da¬ amostra¬ e¬ é¬ influenciada¬ apenas¬ pelo¬
+tempo¬de¬relaxação¬dos¬núcleos.¬
+##### 
+¬
+{56} 
+O¬termo¬"ressonância"¬é¬empregado¬em¬diferentes¬contextos¬
+na¬ química.¬ Com¬ base¬ nos¬ princípios¬ que¬ regem¬ esse¬
+conceito,¬assinale¬a¬alternativa¬correta¬sobre¬a¬relação¬entre¬
+ressonância¬química¬estrutural¬e¬RMN.¬
+¬
+(A) ¬São¬sinônimos,¬ambos¬descrevendo¬a¬deslocalização¬de¬
+elétrons¬para¬estabilizar¬moléculas.¬
+(B) Ambas¬referem-se¬ao¬mesmo¬fenômeno¬de¬absorção¬de¬
+energia¬ por¬ uma¬ molécula¬ e¬ ocorrem¬ quando¬ as¬
+frequências¬vibracionais¬coincidem.¬
+(C) Ressonância¬química¬estrutural¬é¬deslocalização¬eletrônica¬
+que¬estabiliza¬a¬molécula.¬RMN¬é¬a¬absorção¬de¬energia¬por¬
+núcleos¬no¬campo¬de¬radiofrequência.¬
+(D) RMN¬é¬uma¬extensão¬da¬ressonância¬química¬estrutural,¬
+aplicando¬a¬deslocalização¬a¬núcleos.¬
+(E) RMN¬ depende¬ da¬ emissão¬ de¬ partículas¬ alfa,¬ enquanto¬
+ressonância¬ química¬ estrutural¬ envolve¬ excitação¬ de¬
+elétrons.¬¬
+##### 
+¬
+{57} 
+Para¬se¬obter¬espectros¬de¬RMN¬de¬qualidade,¬é¬essencial¬
+seguir¬
+procedimentos¬
+adequados¬
+na¬
+preparação¬
+e¬
+acondicionamento¬ da¬ amostra¬ para¬ a¬ análise.¬ Sobre¬ esse¬
+tema,¬é¬correto¬afirmar:¬
+¬
+(A) Solventes¬ comuns,¬ como¬ água¬ destilada¬ ou¬ etanol,¬ são¬
+preferidos¬em¬RMN¬por¬sua¬polaridade.¬
+(B) Tubos¬ de¬ RMN¬ comuns¬ de¬ laboratório,¬ com¬ paredes¬
+espessas,¬ são¬ ideais¬ para¬ minimizar¬ interferências¬ no¬
+campo¬magnético.¬
+(C) Solventes¬ utilizados¬ em¬ RMN¬ devem,¬ preferencialmente,¬
+conter¬ hidrogênio¬ (¹H)¬ para¬ facilitar¬ a¬ calibração¬ do¬
+equipamento.¬
+(D) O¬uso¬de¬solventes¬deuterados¬reduz¬sinais¬indesejados¬
+no¬ espectro¬ e¬ permite¬ o¬ uso¬ do¬ sistema¬ de¬ lock¬ para¬
+estabilizar¬o¬campo¬magnético.¬
+(E) É¬ recomendável¬ encher¬ completamente¬ o¬ tubo¬ de¬ RMN¬
+para¬evitar¬movimentação¬da¬amostra¬durante¬a¬rotação¬no¬
+equipamento.¬
+##### 
+{58} 
+Qual¬alternativa¬apresenta¬uma¬recomendação¬de¬segurança¬
+correta¬a¬se¬adotar¬perto¬de¬um¬espectrômetro¬de¬RMN?¬
+¬
+(A) A¬presença¬de¬materiais¬ferromagnéticos¬em¬equipamentos¬
+é¬recomendada¬desde¬que¬estes¬estejam¬fixados¬no¬chão.¬
+(B) Pessoas¬ com¬ marca-passos¬ ou¬ dispositivos¬ eletrônicos¬
+implantados¬devem¬evitar¬a¬proximidade¬da¬sala¬de¬RMN.¬
+(C) ¬O¬campo¬magnético¬desaparece¬imediatamente¬quando¬
+o¬equipamento¬é¬desligado,¬sem¬necessidade¬de¬manter¬
+o¬criostato¬ativo.¬
+(D) ¬Objetos¬ferromagnéticos¬podem¬ser¬usados¬livremente¬na¬
+sala¬de¬RMN¬desde¬que¬não¬toquem¬diretamente¬no¬ímã.¬
+(E) É¬permitido¬transportar¬materiais¬metálicos¬leves¬próximos¬
+ao¬espectrômetro¬desde¬que¬estejam¬em¬caixas¬fechadas.¬
+##### 
+¬
+{59} 
+Considere¬as¬afirmações¬a¬seguir¬sobre¬a¬manutenção¬básica¬
+de¬um¬espectrômetro¬de¬RMN:¬
+¬
+1.¬Interromper¬temporariamente¬o¬sistema¬de¬resfriamento¬em¬
+períodos¬ prolongados¬ de¬ inatividade¬ para¬ reduzir¬ custos¬
+operacionais.¬
+2.¬ Manter¬ sob¬ monitoramento¬ constante¬ a¬ temperatura¬ do¬
+criostato¬e¬os¬níveis¬de¬hélio¬e¬nitrogênio,¬realizando¬reposição¬
+conforme¬indicado¬pelos¬sensores.¬
+3.¬ Efetuar¬ a¬ limpeza¬ interna¬ do¬ ímã¬ e¬ seus¬ componentes¬
+regularmente¬ para¬ prevenir¬ acúmulo¬ de¬ poeira¬ e¬ possíveis¬
+interferências.¬
+¬
+É¬correto¬o¬que¬se¬afirma¬apenas¬em:¬
+¬
+(A) 1.¬
+(B) 2.¬
+(C) 3.¬
+(D) 1¬e¬2.¬
+(E) 2¬e¬3.¬
+##### 
+¬
+{60} 
+Em¬qual¬das¬moléculas¬a¬seguir,¬o¬experimento¬DEPT¬permite¬
+identificar¬ e¬ distinguir¬ dois¬ ou¬ mais¬ tipos¬ de¬ carbono¬
+hidrogenado?¬¬
+¬
+(A) Hexano.¬
+(B) Benzeno.¬
+(C) Metanol.¬
+(D) Acetona.¬
+(E) Ácido¬acético.¬
+##### 
+¬
+¬
+¬
+
+
+--- PAGE 14 ---
+
+Concurso Edital RH nº 042/2025 – Especialista em Laboratório (especialidade: Ressonância Magnética Nuclear, espectroscopia e cromatografia)¬
+Questão dissertativa 
+Descreva,¬em¬linhas¬gerais,¬como¬a¬combinação¬das¬técnicas¬(1)¬espectroscopia¬no¬infravermelho,¬(2)¬ressonância¬magnética¬
+nuclear¬(RMN)¬e¬(3)¬cromatografia¬(líquida¬ou¬gasosa)¬pode¬ser¬utilizada¬para¬caracterizar¬estruturalmente¬e¬quantificar¬o¬fármaco¬
+ibuprofeno¬(estrutura¬molecular¬na¬figura¬a¬seguir)¬em¬uma¬formulação¬farmacêutica¬(comprimido).¬¬
+¬
+¬
+¬
+Redija¬sua¬resposta¬abordando,¬obrigatoriamente,¬as¬três¬técnicas¬analíticas¬e¬considerando¬os¬seguintes¬aspectos:¬
+(I)¬A¬função¬específica¬de¬cada¬técnica¬no¬contexto¬da¬análise¬do¬ibuprofeno¬(caracterização,¬quantificação¬ou¬ambas);¬
+(II)¬ As¬ propriedades¬ físicas¬ ou¬ químicas¬ nas¬ quais¬ cada¬ uma¬ das¬ três¬ técnicas¬ se¬ baseia¬ para¬ caracterizar¬ ou¬ quantificar¬ o¬
+ibuprofeno.¬Para¬RMN¬e¬cromatografia,¬considerar¬os¬detalhes¬a¬seguir:¬
+• 
+Para¬RMN,¬indique¬os¬tipos¬de¬experimentos¬aplicáveis¬(1D¬e/ou¬2D),¬suas¬funções¬e¬quais¬parâmetros¬espectrais¬podem¬
+ser¬utilizados¬na¬análise¬do¬ibuprofeno;¬
+• 
+Para¬a¬cromatografia,¬especifique¬o¬tipo¬mais¬adequado¬(líquida¬ou¬gasosa)¬e¬detector¬correspondente¬(ECD,¬FID,¬MS¬ou¬
+TCD)¬justificando¬a¬escolha¬com¬base¬nas¬características¬do¬ibuprofeno;¬
+¬(III)¬A¬forma¬de¬preparação¬adequada¬da¬amostra¬para¬cada¬técnica¬analítica.¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Instruções:  
+• As¬respostas¬deverão¬ser¬redigidas¬de¬acordo¬com¬a¬norma¬padrão¬da¬língua¬portuguesa.¬¬
+• Escreva¬com¬letra¬legível¬e¬não¬ultrapasse¬o¬espaço¬de¬linhas¬disponíveis¬da¬folha¬de¬respostas.¬¬
+• Receberão¬nota¬zero¬textos¬que¬desrespeitarem¬os¬direitos¬humanos¬e¬textos¬que¬permitirem,¬por¬qualquer¬modo,¬a¬identificação¬do(a)¬candidato(a).¬
+¬
+
+
+--- PAGE 15 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RASCUNHO 
+ 
+ 
+NÃO SERÁ 
+CONSIDERADO NA 
+CORREÇÃO 
+
+
+--- PAGE 16 ---
+
+v2
+
+
+--- PAGE 17 ---
+
+ 
+ 
+ 
+Concurso DRH USP Agosto 2025 
+Publicado em 04/08/2025. 
+Universidade de São Paulo
+Especialista em Laboratório (Ressonância Magnética Nuclear, espectroscopia e cromatografia) – Edital RH Nº 042/2025 
+PROVA ERC  
+01 
+E 
+ 
+31 
+D 
+02 
+C 
+ 
+32 
+E 
+03 
+D 
+ 
+33 
+A 
+04 
+C 
+ 
+34 
+B 
+05 
+B 
+ 
+35 
+D 
+06 
+B 
+ 
+36 
+B 
+07 
+A 
+ 
+37 
+B 
+08 
+E 
+ 
+38 
+D 
+09 
+D 
+ 
+39 
+A 
+10 
+C 
+ 
+40 
+E 
+11 
+D 
+ 
+41 
+B 
+12 
+B 
+ 
+42 
+D 
+13 
+E 
+ 
+43 
+C 
+14 
+A 
+ 
+44 
+C 
+15 
+B 
+ 
+45 
+D 
+16 
+A 
+ 
+46 
+B 
+17 
+B 
+ 
+47 
+A 
+18 
+E 
+ 
+48 
+B 
+19 
+D 
+ 
+49 
+E 
+20 
+B 
+ 
+50 
+D 
+21 
+C 
+ 
+51 
+C 
+22 
+B 
+ 
+52 
+E 
+23 
+C 
+ 
+53 
+C 
+24 
+A 
+ 
+54 
+C 
+25 
+E 
+ 
+55 
+D 
+26 
+D 
+ 
+56 
+C 
+27 
+C 
+ 
+57 
+D 
+28 
+D 
+ 
+58 
+B 
+29 
+B 
+ 
+59 
+B 
+30 
+C 
+ 
+60 
+A 
+ 
+ 
+ 
+
+
+--- PAGE 18 ---
+
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 042/2025   
+ 
+Especialista em Laboratório (Ressonância 
+Magnética Nuclear, espectroscopia e 
+cromatografia) 
+ 
+ 
+QUESTÃO DISSERTATIVA 
+ 
+RESPOSTA ESPERADA 
+ 
+A caracterização e quantificação do ibuprofeno pode ser realizada de forma abrangente utilizando uma abordagem 
+integrada de técnicas analíticas: FTIR, RMN e LC-MS: 
+ 
+1. Espectroscopia no Infravermelho:  
+(I) A espectroscopia no infravermelho permite a identificação preliminar de grupos funcionais  
+(II) A técnica tem por base na absorção da radiação pelas vibrações das suas ligações químicas. No ibuprofeno, o IV 
+permite identificar grupos funcionais do ibuprofeno, como por exemplo: 
+• 
+Estiramento C=O da carboxila; 
+• 
+Estiramento C–H aromático; 
+• 
+Estiramento O–H da função ácida. 
+(III) Preparação da amostra: Pode-se analisar o fármaco puro por pastilha de KBr ou ATR, sem necessidade de solvente. 
+A técnica não é quantitativa com alta precisão, mas é útil para verificação da integridade da molécula e controle de 
+identidade. 
+ 
+2. Ressonância Magnética Nuclear (RMN):  
+(I) A RMN permite a elucidação estrutural completa por identificar os diferentes ambientes químicos dos núcleos de 
+hidrogênio e carbono, 
+(II) O RMN trabalha com o acoplamento spin-spin, entre as possibilidades de RMN: 
+¹H-RMN (1D): Identifica hidrogênios alifáticos, aromáticos e da carboxila. Permite contagem e acoplamentos spin-spin 
+simples. 
+¹³C-RMN (1D): Dá acesso aos tipos de carbonos presentes: alifáticos, aromáticos e do grupo carboxílico. Pode ser feito 
+com desacoplamento de ¹H para facilitar interpretação. 
+COSY (2D): Permite correlações entre hidrogênios acoplados — útil para mapear cadeias laterais. 
+HSQC (2D): Conecta cada hidrogênio ao seu carbono diretamente ligado, facilitando a atribuição completa do espectro 
+¹H/¹³C. 
+HMBC (2D): Mostra correlações long-range (2–3 ligações), essencial para conectar fragmentos e confirmar a posição 
+da carboxila em relação ao anel aromático. 
+(III) Preparação da amostra: Dissolução do fármaco em solvente deuterado (ex: CDCl₃ ou DMSO-d₆), com concentração 
+adequada. 
+ 
+3. Cromatografia acoplada ao espectrômetro de massas 
+(I) Cromatografia permite isolar e quantificar o composto utilizando uma curva de calibração, o espectrômetro de massas 
+permite confirmar a molécula com base no seu íon molecular (m/z) 
+(II) O ibuprofeno é moderadamente polar e termolábil, tornando a LC mais adequada que a GC. A presença de grupos 
+OH também dificultam a análise por GC, a menos que a molécula seja derivatizada antes da análise cromatográfica 
+(pode ser o caso, caso mencionado). 
+Separação: Cromatografia líquida (HPLC ou UPLC): O LC em coluna cromatográfica, como por exemplo C18, permite a 
+separação do ibuprofeno de excipientes da formulação.  
+Identificação: Espectrometria de massas (MS): A identificação do íon molecular gerado, assim como os seus fragmentos 
+permitem a identificação do composto.  
+Quantificação: Pode-se usar padrão interno ou curva de calibração com múltiplos pontos, para quantificar a amostra. 
+(III) Preparação da amostra: Diluição da formulação em solvente compatível com a fase móvel, seguida de filtração (no 
+caso da menção do LC-MS) ou formulação adequada e derivatização no caso seja mencionado o GC-MS. 
+ 
+ 
+ 
+
+
+--- PAGE 19 ---
+
+ 
+CRITÉRIOS DE CORREÇÃO 
+ 
+• Critério 1: Completude e abrangência dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+Todos os conceitos principais são abordados com profundidade e detalhamento. 
+2 
+A maioria dos conceitos principais é abordada, mas pode faltar algum detalhe ou profundidade. 
+1 
+Alguns conceitos principais são abordados, mas a explicação é superficial ou incompleta. 
+0  
+Pouco ou nenhum conceito relevante é abordado. 
+ 
+• Critério 2: Domínio e aprofundamento dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+A resposta é precisa, com informações corretas e bem explicadas. 
+2 
+A resposta é em sua maioria precisa, mas pode conter alguns pequenos erros ou imprecisões. 
+1 
+A resposta contém várias imprecisões ou erros conceituais, mas a ideia geral é compreensível. 
+0  
+A resposta está incorreta e confusa. 
+ 
+• Critério 3: Aplicação prática / exemplificação dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+A resposta faz uma excelente conexão entre os conceitos teóricos e suas aplicações práticas. 
+2 
+A resposta faz boas conexões entre teoria e prática, mas pode ser aprimorada com mais exemplos 
+ou detalhes. 
+1 
+A conexão entre teoria e prática é mencionada, mas é superficial ou pouco clara. 
+0  
+A resposta não aborda a aplicação prática e não apresenta exemplos dos conceitos. 
+ 
+• Critério 4: Clareza e Coerência (0 a 1 ponto): 
+Faixa de nota 
+Critério 
+1 
+O texto é extremamente claro e coerente, apresentando uma explicação lógica e bem estruturada 
+dos conceitos. 
+0,5 
+O texto é claro e coerente, com algumas pequenas falhas na estrutura ou na explicação. 
+0 
+O texto é compreensível, mas apresenta várias falhas na clareza ou na coerência que dificultam a 
+compreensão total. 
+ 
+ 

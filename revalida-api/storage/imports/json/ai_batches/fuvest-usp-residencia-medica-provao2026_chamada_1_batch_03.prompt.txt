@@ -1,0 +1,483 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/provao2026_chamada_1.pdf"
+  }
+]
+
+TEXTO-BASE:
+ca -  NOTURNO - Faculdade de Ciências e Tecnologia
+B
+ALICE PRIMANI MILANI
+***266.288**
+UNESP - 146 - Odontologia -  INTEGRAL - Faculdade de Odontologia
+A
+ALICE SANTOS DE ASSIS
+***529.688**
+FATEC - 2160611 - Sistemas Biomédicos - Manhã - Fatec Osasco - "Prefeito Hirant Sanazar"
+A
+ALICE SARDELI TONON
+***056.028**
+FATEC - 1200703 - Agronegócio - Noite - Fatec Mococa - "Mário Roberson de Sylos Filho"
+A
+ALICE TIZZEI
+***299.418**
+FATEC - 2961461 - Gestão de Logística Integrada - Manhã - Fatec Sumaré
+A
+ALICIA CATARINA
+***020.878**
+FATEC - 1960283 - Banco de Dados - Noite - Fatec Bauru
+A
+ALICIA DA SILVA CASTRO
+***741.258**
+FATEC - 1110622 - Comércio Exterior - 1º ao 4º semestre Tarde/ 5º e 6º semestre Noite - Fatec Zona Leste - 
+Município de São Paulo
+A
+ALICIA DANIELA NOGUEIRA SILVA
+***881.008**
+FATEC - 1550661 - Secretariado - Manhã - Fatec Itaquaquecetuba
+A
+ALICIA FERREIRA DIAS
+***277.686**
+FATEC - 3091393 - Desenvolvimento de Software Multiplataforma - Noite - Fatec Atibaia
+A
+ALICIA PINHEIRO DE JESUS MENESES
+***354.498**
+FATEC - 1290621 - Comércio Exterior - Manhã - Fatec Praia Grande
+A
+ALICIA RIBEIRO TEIXEIRA*
+***642.358**
+UNICAMP - 109 - Administração - Noturno - Limeira
+C
+ALICIA SEBASTIAO SOTANA
+***378.198**
+FATEC - 1300753 - Gestão Comercial - Noite - Fatec Marília - "Estudante Rafael Almeida Camarinha"
+A
+ALICIA SIERRA IPOLITO
+***254.268**
+UNESP - 065 - Engenharia Civil -  INTEGRAL - Faculdade de Engenharia
+C
+ALICIA TESSA DE FREITAS
+***625.338**
+USP - 22013/0 - Enfermagem (Bacharelado) - Integral - Escola de Enfermagem de Ribeirão Preto
+A
+ALINE ABREU MONTEIRO
+***549.898**
+FATEC - 2171013 - Cosméticos - Noite - Fatec Diadema – “Luigi Papaiz”
+B
+ALINE ALVES DA SILVA ROCHA
+***627.248**
+FATEC - 0220771 - Gestão da Produção Industrial - Manhã - Fatec Taquaritinga - "Marlene Maria Miletta Servidoni"
+A
+ALINE AQUINO DA ROCHA
+***242.738**
+FATEC - 1130921 - Informática para Negócios - Manhã - Fatec Mauá
+A
+ALINE CORDEIRO GERALDO
+***701.248**
+FATEC - 1840891 - Gestão de Recursos Humanos - Manhã - Fatec Mogi das Cruzes
+A
+ALINE CRISTINA LIMA VALENTE
+***225.384**
+UNESP - 107 - Geografia - Bacharelado e Licenciatura -  NOTURNO - Faculdade de Ciências, Tecnologia e 
+Educação
+A
+ALINE DA SILVA CONCEICAO
+***445.898**
+FATEC - 2500841 - Transporte Terrestre - Manhã - Fatec Tatuapé - "Victor Civita" - Município de São Paulo
+A
+ALINE DA SILVA OLIVEIRA
+***155.225**
+FATEC - 1430647 - Gestão Empresarial - EaD - Fatec Carapicuíba
+A
+ALINE DIAS DE OLIVEIRA
+***356.156**
+FATEC - 1820643 - Gestão Empresarial - Noite - Fatec Catanduva
+A
+ALINE FRANCISCA SILVA COSTA
+***353.328**
+FATEC - 2830973 - Segurança da Informação - Noite - Fatec Santana de Parnaíba
+A
+ALINE KAORI FUGITA
+***997.588**
+USP - 86300/103 - Gerontologia (Bacharelado) - Vespertino - São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+C
+ALINE MARTINS DE OLIVEIRA DA SILVA
+***346.948**
+FATEC - 1730873 - Gestão Ambiental - Noite - Fatec Jaboticabal - "Nilo de Stéfani"
+A
+ALINE NOELI DA COSTA
+***562.278**
+FATEC - 1740647 - Gestão Empresarial - EaD - Fatec Capão Bonito
+A
+ALINE OLIVEIRA DO NASCIMENTO
+***978.878**
+FATEC - 2830753 - Gestão Comercial - Noite - Fatec Santana de Parnaíba
+A
+ALINE RUFINO DA SILVA
+***897.228**
+UNESP - 116 - Letras - Bacharelado e Licenciatura -  MATUTINO - Faculdade de Ciências e Letras
+A
+ALINE VICTORIA VIEIRA
+***166.898**
+FATEC - 0200743 - Logística - Noite - Fatec Jahu - "Octavio Celso Pacheco de Almeida Prado"
+A
+6
+* convocado para vaga PPI
+
+
+--- PAGE 7 ---
+
+Lista de convocação para matrícula - 1ª Chamada
+nome do candidato
+identificação
+curso
+Provão Paulista Seriado 2025 - 3ª Série Ensino Médio
+grupo
+ALINE VIEIRA NUNES
+***895.968**
+FATEC - 0031361 - Gestão da Qualidade - Manhã - Fatec Sorocaba - "José Crespo Gonzales"
+A
+ALIRIO RODRIGUES DE OLIVEIRA NETO
+***418.626**
+FATEC - 2840481 - Análise e Desenvolvimento de Sistemas - Manhã - Fatec Ribeirão Preto
+A
+ALISON LUIZ BARROSO DUARTE
+***715.368**
+FATEC - 0210973 - Segurança da Informação - Noite - Fatec Ourinhos
+C
+ALISON RODRIGUES DIAS DE OLIVEIRA
+***091.988**
+FATEC - 1601133 - Mecânica Automobilística - Noite - Fatec Santo André
+A
+ALISSON ALMEIDA CARDOSO
+***611.018**
+FATEC - 1781083 - Agroindústria - Noite - Fatec Capão Bonito
+A
+ALISSON ANGELO DA SILVA
+***998.904**
+FATEC - 1750713 - Biocombustíveis - Noite - Fatec Piracicaba - "Deputado Roque Trevisan"
+A
+ALISSON CLAUDINEI DOS SANTOS
+***952.518**
+FATEC - 1890643 - Gestão Empresarial - Noite - Fatec São Sebastião
+A
+ALISSON GABRIEL FELICIANO*
+***738.518**
+UNICAMP - 9 - Engenharia Química - Integral - CAMPINAS
+A
+ALISSON HENRI BELEM SANTOS
+***242.878**
+FATEC - 1210647 - Gestão Empresarial - EaD - Fatec São José do Rio Preto - "Profa. Olga Malluk da Silva"
+A
+ALISSON LIRA MELO
+***560.958**
+FATEC - 1670647 - Gestão Empresarial - EaD - Fatec Guarulhos
+A
+ALLAN ALVES SALLUM
+***317.328**
+FATEC - 0020482 - Análise e Desenvolvimento de Sistemas - 1º ao 4º semestre Tarde/ 5º e 6º semestre Noite - Fatec 
+São Paulo - Município de São Paulo
+C
+ALLAN BESERRA CUSTODIO
+***159.978**
+FATEC - 0050643 - Gestão Empresarial - Noite - Fatec Baixada Santista – “Rubens Lara” – Santos
+A
+ALLAN BORTOLLI REGHINI
+***744.188**
+FATEC - 0220771 - Gestão da Produção Industrial - Manhã - Fatec Taquaritinga - "Marlene Maria Miletta Servidoni"
+C
+ALLAN CLARK ARAUJO DA SILVA
+***558.988**
+FATEC - 2861392 - Desenvolvimento de Software Multiplataforma - Tarde - Fatec Itatiba - "Maria Eunice Amadeo de 
+Almeida"
+A
+ALLAN DE SOUZA GOMES
+***144.528**
+FATEC - 2160292 - Redes de Computadores - Tarde - Fatec Osasco - "Prefeito Hirant Sanazar"
+B
+ALLAN EDUARDO AVELINO DE SOUZA MENEZES
+***094.608**
+FATEC - 1110622 - Comércio Exterior - 1º ao 4º semestre Tarde/ 5º e 6º semestre Noite - Fatec Zona Leste - 
+Município de São Paulo
+A
+ALLAN GUILHERME ALOISIO BATISTA
+***441.698**
+FATEC - 1140647 - Gestão Empresarial - EaD - Fatec Jundiaí - "Deputado Ary Fossen"
+B
+ALLAN HENRIQUE SIMOES*
+***321.508**
+USP - 98002/0 - Educação Física (Bacharelado) - Integral - Escola de Educação Física e Esporte de Ribeirão Preto
+A
+ALLAN MOREIRA
+***032.278**
+FATEC - 1060753 - Gestão Comercial - Noite - Fatec Guaratinguetá - "Prof. João Mod"
+A
+ALLAN NOBRE DE ARAUJO
+***228.458**
+UNESP - 181 - Zootecnia -  INTEGRAL - Faculdade de Engenharia
+C
+ALLAN PEREIRA DE ARAUJO E SILVA
+***737.788**
+UNESP - 127 - Matemática - Licenciatura -  NOTURNO - Faculdade de Ciências
+A
+ALLAN VICTOR SANTOS DE ALMEIDA JESUS
+***095.518**
+FATEC - 2090781 - Gestão da Tecnologia da Informação - Manhã - Fatec Barueri – “Padre Danilo José de Oliveira 
+Ohl”
+C
+ALLAN XAVIER FERREIRA
+***164.918**
+FATEC - 2831353 - Ciência de Dados - Noite - Fatec Santana de Parnaíba
+A
+ALLAN ZULIN
+***478.168**
+FATEC - 1570481 - Análise e Desenvolvimento de Sistemas - Manhã - Fatec Presidente Prudente
+A
+ALLANA VITORIA DE OLIVEIRA LIMA
+***463.488**
+FATEC - 0031003 - Fabricação Mecânica - Noite - Fatec Sorocaba - "José Crespo Gonzales"
+A
+ALLANE LUISE PIRES DE MEDEIROS
+***531.988**
+FATEC - 0051121 - Gestão Portuária - Manhã - Fatec Baixada Santista – “Rubens Lara” – Santos
+A
+ALLANIS SANTOS PEREIRA MARQUES
+***276.848**
+FATEC - 1430647 - Gestão Empresarial - EaD - Fatec Carapicuíba
+A
+ALLANYS HELENA ALMEIDA ALVES
+***113.578**
+FATEC - 2700621 - Comércio Exterior - Manhã - Fatec Cotia
+A
+ALLYCA SOFIA DE SOUZA SILVA
+***382.778**
+FATEC - 0021022 - Gestão de Turismo - Tarde - Fatec São Paulo - Município de São Paulo
+B
+ALLYF GABRIEL BARROS DA SILVA
+***755.298**
+FATEC - 1830763 - Gestão Financeira - Noite - Fatec Bragança Paulista – “Jornalista Omair Fagundes de Oliveira”
+B
+ALLYSON KAYK DE SOUZA
+***022.398**
+FATEC - 0200721 - Construção Naval - Manhã - Fatec Jahu - "Octavio Celso Pacheco de Almeida Prado"
+C
+ALVARO COSTA BRITO
+***907.288**
+FATEC - 1370743 - Logística - Noite - Fatec Zona Sul - "Dom Paulo Evaristo Arns" - Município de São Paulo
+A
+ALVARO DA SILVA PAGANI
+***281.928**
+UNESP - 002 - Administração - Bacharelado -  NOTURNO - Faculdade de Ciências Agrárias e Veterinárias
+A
+ALVARO HENRIQUE MATIAS FELIX
+***581.298**
+FATEC - 0030483 - Análise e Desenvolvimento de Sistemas - Noite - Fatec Sorocaba - "José Crespo Gonzales"
+C
+7
+* convocado para vaga PPI
+
+
+--- PAGE 8 ---
+
+Lista de convocação para matrícula - 1ª Chamada
+nome do candidato
+identificação
+curso
+Provão Paulista Seriado 2025 - 3ª Série Ensino Médio
+grupo
+ALVARO NUNES POSSENATTO
+***472.708**
+FATEC - 1120483 - Análise e Desenvolvimento de Sistemas - Noite - Fatec Botucatu
+A
+ALVARO RAMOS MARTINEZ*
+***424.728**
+UNESP - 098 - Física - Licenciatura -  NOTURNO - Faculdade de Engenharia
+C
+ALVARO TADEU SANTOS SOUZA
+***109.188**
+UNESP - 081 - Engenharia Eletrônica e de Telecomunicações -  INTEGRAL - Faculdade de Engenharia
+B
+ALVARO VASCONCELOS SANTOS
+***549.758**
+FATEC - 1371392 - Desenvolvimento de Software Multiplataforma - Tarde - Fatec Zona Sul - "Dom Paulo Evaristo 
+Arns" - Município de São Paulo
+A
+ALYCI PEDROSA DE FREITAS LEMES
+***844.086**
+FATEC - 1310871 - Gestão Ambiental - 1º ao 4º semestre Manhã/ 5º e 6º semestre Noite - Fatec Itapetininga - "Prof. 
+Antonio Belizandro Barbosa Rezende"
+A
+ALYNE BRANDAO SANTOS
+***154.388**
+FATEC - 1141641 - Gestão de Eventos - Manhã - Fatec Jundiaí - "Deputado Ary Fossen"
+A
+ALYSON MAKLEY SOUZA DA SILVA*
+***022.868**
+UNESP - 131 - Matemática - Licenciatura -  NOTURNO - Instituto de Biociências, Letras e Ciências Exatas
+C
+ALYSSON GABRIEL LIMA CRUZ
+***515.018**
+FATEC - 2581393 - Desenvolvimento de Software Multiplataforma - Noite - Fatec Jacareí - "Prof. Francisco de Moura"
+A
+ALYSSON SILVA DE ANDRADE
+***743.978**
+FATEC - 1780793 - Mecatrônica Industrial - Noite - Fatec Itu - "Dom Amaury Castanho"
+A
+AMABILE GIANNA MACHADO DE SOUSA
+***520.198**
+FATEC - 1090893 - Gestão de Recursos Humanos - Noite - Fatec Franca – “Dr. Thomaz Novelino”
+A
+AMABLLY NOBREGA LANTIN
+***161.058**
+FATEC - 1770647 - Gestão Empresarial - EaD - Fatec Araçatuba – “Prof. Fernando Amaral de Almeida Prado”
+A
+AMANDA ALBINO ORTIZ
+***556.618**
+FATEC - 1750643 - Gestão Empresarial - Noite - Fatec Piracicaba - "Deputado Roque Trevisan"
+A
+AMANDA ALEGRIA JESUS DE OLIVEIRA
+***567.458**
+FATEC - 1320852 - Produção Fonográfica - Tarde - Fatec Tatuí - "Prof. Wilson Roberto Ribeiro de Camargo"
+C
+AMANDA ANDRADE PIRES
+***906.938**
+FATEC - 1460283 - Banco de Dados - Noite - Fatec São José dos Campos - "Prof. Jessen Vidal"
+A
+AMANDA APARECIDA FERREIRA ALVES CABRAL
+***413.208**
+FATEC - 2510483 - Análise e Desenvolvimento de Sistemas - Noite - Fatec Taubaté
+A
+AMANDA ARAUJO CRUZ*
+***024.888**
+UNICAMP - 109 - Administração - Noturno - Limeira
+A
+AMANDA BEATRIZ FERREIRA FERRAZ
+***265.668**
+FATEC - 0210647 - Gestão Empresarial - EaD - Fatec Ourinhos
+A
+AMANDA BEATRIZ LIMA DA SILVA
+***652.228**
+USP - 48015/104 - Pedagogia (Licenciatura) - Noturno - São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+A
+AMANDA BECKERT SUZUKI
+***795.568**
+FATEC - 1460481 - Análise e Desenvolvimento de Sistemas - Manhã - Fatec São José dos Campos - "Prof. Jessen 
+Vidal"
+A
+AMANDA CAMPOS DE SOUZA*
+***185.978**
+USP - 75014/100 - Química (Bacharelado) - Integral - Instituto de Física de São Carlos
+C
+AMANDA CASAGRANDE DOS SANTOS
+***170.048**
+FATEC - 0040641 - Gestão Empresarial - Manhã - Fatec Americana - "Ministro Ralph Biasi"
+A
+AMANDA CLARA BONINI
+***178.028**
+FATEC - 1570643 - Gestão Empresarial - Noite - Fatec Presidente Prudente
+A
+AMANDA DA SILVA LIMA
+***343.628**
+FATEC - 0021021 - Gestão de Turismo - Manhã - Fatec São Paulo - Município de São Paulo
+A
+AMANDA DA SILVA LOPES
+***812.768**
+FATEC - 2160762 - Gestão Financeira - Tarde - Fatec Osasco - "Prefeito Hirant Sanazar"
+B
+AMANDA DE SENA LINS
+***457.558**
+FATEC - 1140647 - Gestão Empresarial - EaD - Fatec Jundiaí - "Deputado Ary Fossen"
+A
+AMANDA DE SOUZA REIS*
+***977.647**
+USP - 8051/104 - Letras (Bacharelado/Licenciatura) - Noturno - São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+A
+AMANDA EVELLYN DA LUZ
+***879.669**
+FATEC - 2041641 - Gestão de Eventos - Manhã - Fatec Ipiranga - "Pastor Enéas Tognini" - Município de São Paulo
+A
+AMANDA FERREIRA ANTONIASSI
+***184.168**
+UNESP - 106 - Geografia - Bacharelado e Licenciatu

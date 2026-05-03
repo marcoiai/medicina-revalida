@@ -1,0 +1,470 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/fuvest2026-simulado-fase1-prova-S1.pdf"
+  }
+]
+
+TEXTO-BASE:
+iatamente¬para¬a¬fase¬gasosa,¬quantas¬vezes¬o¬volume¬
+do¬CO2¬liberado¬é¬maior¬que¬o¬da¬garrafa¬no¬qual¬ele¬estava¬
+dissolvido?¬
+¬
+(A) 1¬vez.¬
+(B) 2¬vezes.¬
+(C) 4¬vezes.¬
+(D) 8¬vezes.¬
+(E) 16¬vezes.¬
+¬
+Note¬e¬adote:¬
+Considere¬a¬abertura¬da¬garrafa¬em¬ambiente¬com¬1¬atm¬e¬a¬27°C.¬
+Massa¬molar¬(g/mol):¬CO2¬=¬44¬
+T(K)¬=¬T(°C)¬+¬273¬
+Constante¬dos¬gases¬ideais:¬R¬=¬0,082¬atm.L.Kꟷ1.molꟷ1¬
+ 
+¬
+56 
+Considere¬dois¬frascos¬contendo¬o¬mesmo¬volume¬de¬(I)¬água¬
+e¬(II)¬solução¬com¬mesma¬concentração¬de¬H2CO3¬e¬NaHCO3.¬
+No¬frasco¬(II),¬observa-se¬o¬seguinte¬equilíbrio:¬
+¬
+H2CO3¬(aq)¬⇌¬HCO3ꟷ¬(aq)¬+¬H+¬(aq)¬
+¬
+Ao¬ acrescentar¬ quantidades¬ iguais¬ de¬ um¬ mesmo¬ suco¬ de¬
+limão¬em¬(I)¬e¬(II),¬notou-se¬uma¬variação¬de¬pH¬em¬ambos.¬
+Como¬o¬limão¬possui¬ácido¬cítrico¬em¬sua¬composição,¬isso¬
+lhe¬confere¬um¬caráter¬___1___¬,¬de¬forma¬que¬o¬pH¬___2___¬
+nos¬dois¬frascos¬após¬adição¬do¬suco¬de¬limão.¬Porém,¬essa¬
+variação¬de¬pH¬foi¬___3___¬no¬frasco¬(II),¬pois¬o¬H+¬proveniente¬
+do¬ácido¬cítrico¬deslocou¬o¬equilíbrio¬da¬reação¬para¬___4___.¬
+Com¬base¬no¬experimento¬realizado,¬as¬lacunas¬podem¬ser¬
+preenchidas¬corretamente¬por:¬
+¬
+¬
+1¬
+2¬
+3¬
+4¬
+(A)¬
+ácido¬
+diminuiu¬
+menor¬
+esquerda¬
+(B)¬
+básico¬
+diminuiu¬
+maior¬
+direita¬
+(C)¬
+ácido¬
+aumentou¬
+maior¬
+esquerda¬
+(D)¬
+básico¬
+aumentou¬
+maior¬
+direita¬
+(E)¬
+ácido¬
+diminuiu¬
+menor¬
+direita¬
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 19 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S1 
+57 
+Os¬antiácidos¬estomacais¬são¬consumidos¬para¬neutralizar¬o¬
+excesso¬ de¬ HC,¬ do¬ suco¬ gástrico¬ presente¬ em¬ nosso¬
+estômago¬e,¬consequentemente,¬aliviar¬sintomas¬como¬dores¬
+ou¬desconforto¬abdominal,¬chamado¬de¬azia.¬Supondo¬que¬o¬
+volume¬do¬estômago¬seja¬de¬400mL,¬que¬seu¬conteúdo¬tenha¬
+pH¬igual¬a¬2¬e¬que¬todo¬H+¬do¬suco¬gástrico¬seja¬oriundo¬do¬
+HC,,¬ qual¬ volume¬ mínimo¬ de¬ leite¬ de¬ magnésia¬ (Mg(OH)2),¬
+em¬mL,¬seria¬necessário¬para¬neutralizar¬totalmente¬o¬ácido¬do¬
+estômago?¬
+¬
+(A) 1¬
+(B) 2¬
+(C) 3¬
+(D) 4¬
+(E) 5¬
+¬
+Note¬e¬adote:¬
+Massa¬molar¬(g/mol):¬Mg(OH)2¬=¬58.¬
+Considere¬que¬o¬leite¬de¬magnésia¬é¬uma¬suspensão¬de¬hidróxido¬
+de¬magnésio¬de¬concentração¬58¬mg/mL.¬
+¬
+58 
+Nas¬ últimas¬ décadas,¬ diferentes¬ descobertas¬ na¬ área¬ da¬
+tecnologia¬médica¬têm¬permitido¬diagnósticos¬mais¬precisos¬
+para¬muitas¬doenças.¬Muitos¬deles¬são¬obtidos¬em¬exames¬
+radiológicos¬e¬se¬baseiam¬nas¬interações¬entre¬as¬células¬do¬
+corpo¬ humano¬ e¬ a¬ radiação,¬ por¬ meio¬ de¬ colisões¬ entre¬
+elétrons¬e¬fótons¬de¬raios-X.¬A¬frequência¬dos¬fótons¬após¬a¬
+colisão¬é¬diferente¬daquela¬antes¬da¬colisão.¬
+Um¬ fóton¬ de¬ frequência¬ f¬ transporta¬ energia¬ dada¬ por¬ hf,¬
+sendo¬h¬a¬constante¬de¬Planck.¬Considere¬que¬a¬frequência¬
+de¬um¬fóton¬de¬raios-X¬varia¬de¬5×1016¬s-1¬para¬2,5×1016¬s-1¬
+devido¬à¬colisão¬com¬um¬elétron¬e¬que¬a¬energia¬perdida¬pelo¬
+fóton¬é¬totalmente¬transferida¬para¬o¬elétron.¬
+Nessas¬condições,¬a¬variação¬da¬energia¬do¬elétron¬devido¬à¬
+colisão¬é¬
+¬
+(A) −4,5×10ꟷ17J¬
+(B) −1,5×10ꟷ17J¬
+(C) 0¬J¬
+(D) 1,5×10ꟷ17J¬
+(E) 4,5×10ꟷ17J¬
+¬
+Note¬e¬adote:¬¬
+Constante¬de¬Planck:¬ℎ≅ 6×10ꟷ34¬J⋅s¬
+ 
+¬
+59 
+A¬hipertermia¬maligna¬é¬uma¬condição¬grave¬em¬que¬pessoas¬
+portadoras¬ da¬ mutação¬ no¬ gene¬ do¬ receptor¬ de¬ rianodina¬
+desenvolvem¬reação¬à¬anestesia,¬gerando¬calor¬por¬contração¬
+muscular¬ intensa¬ e¬ aumentando¬ a¬ temperatura¬ corporal¬ de¬
+forma¬letal,¬caso¬não¬seja¬tratada¬imediatamente. 
+A¬mutação¬permite¬liberação¬de¬altas¬concentrações¬de¬cálcio¬
+para¬o¬citosol,¬conforme¬ilustrado¬a¬seguir.¬
+ 
+ 
+¬
+A¬ organela¬ celular¬ responsável¬ pela¬ maior¬ parte¬ do¬
+armazenamento¬ de¬ cálcio¬ na¬ célula¬ muscular¬ e¬ um¬
+mecanismo¬ fisiológico¬ para¬ a¬ redução¬ da¬ temperatura¬
+corporal¬em¬humanos¬são:¬
+¬
+(A) Retículo¬endoplasmático¬e¬sudorese.¬
+(B) Mitocôndria¬e¬vasoconstrição¬periférica.¬
+(C) Ribossomo¬e¬vasodilatação¬periférica.¬
+(D) Retículo¬endoplasmático¬e¬redução¬da¬frequência¬respiratória.¬
+(E) Núcleo¬e¬aumento¬da¬frequência¬respiratória.¬
+ 
+¬
+60 
+No¬trecho¬a¬seguir,¬o¬personagem¬Quincas¬Borba¬pretende¬
+criticar¬ uma¬ opinião¬ bastante¬ comum¬ sobre¬ as¬ doenças¬
+infecciosas¬letais.¬Para¬tanto,¬ele¬apresenta¬um¬argumento:¬
+¬
+“Aparentemente,¬há¬nada¬mais¬contristador¬que¬uma¬dessas¬
+terríveis¬pestes¬que¬devastam¬um¬ponto¬do¬globo?¬E,¬todavia,¬
+esse¬suposto¬mal¬é¬um¬benefício,¬não¬só¬porque¬elimina¬os¬
+organismos¬fracos,¬incapazes¬de¬resistência,¬como¬porque¬dá¬
+lugar¬à¬observação,¬à¬descoberta¬da¬droga¬curativa.”¬
+Machado¬de¬Assis.¬Quincas¬Borba.¬
+Qual¬ das¬ sentenças¬ a¬ seguir¬ enfraquece¬ o¬ argumento¬
+desenvolvido¬no¬texto?¬
+¬
+(A) Organismos¬ fracos¬ são¬ mais¬ suscetíveis¬ a¬ doenças¬
+contagiosas.¬
+(B) Normalmente¬ as¬ pessoas¬ ignoram¬ os¬ benefícios¬ de¬
+situações¬devastadoras.¬
+(C) Não¬é¬preciso¬esperar¬a¬disseminação¬de¬uma¬peste¬para¬
+estudar¬as¬drogas¬que¬a¬combatem.¬
+(D) Os¬ organismos¬ incapazes¬ de¬ resistência¬ dependem¬ da¬
+seleção¬natural¬para¬não¬ser¬eliminados.¬
+(E) A¬ observação¬ cientifica¬ se¬ serve¬ das¬ pestes¬ para¬
+progredir.¬
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 20 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S1 
+61 
+Pessoas¬havia¬que¬julgavam¬que¬o¬viver¬com¬moderação¬
+e¬ o¬ evitar¬ qualquer¬ superfluidade¬ muito¬ ajudavam¬ para¬ se¬
+resistir¬ao¬mal.¬
+Outras¬ pessoas¬ declaravam¬ que,¬ para¬ tão¬ imenso¬ mal,¬
+eram¬ remédios¬ eficazes¬ o¬ beber¬ abundantemente,¬ o¬ gozar¬
+com¬intensidade,¬o¬divertir-se¬de¬todas¬as¬maneiras.¬
+Inúmeras¬pessoas¬preferiam¬o¬caminho¬do¬meio.¬Usavam¬
+todas¬as¬coisas,¬com¬suficiência¬e¬moderação.¬Vagavam¬de¬
+um¬lugar¬a¬outro.¬
+Tão¬grande¬era¬o¬número¬de¬mortos¬que,¬escasseando¬os¬
+caixões,¬ os¬ cadáveres¬ eram¬ postos¬ em¬ cima¬ de¬ simples¬
+tábuas.¬Não¬foi¬um¬só¬o¬caixão¬a¬receber¬dois¬ou¬três¬mortos¬
+simultaneamente.¬
+Giovanni¬Boccaccio.¬Decamerão.¬São¬Paulo:¬Abril¬Cultural,¬1970.¬
+Adaptado.¬
+¬
+O¬ texto¬ (c.¬ 1350)¬ refere-se¬ à¬ Peste¬ Negra¬ e¬ às¬ suas¬
+consequências¬em¬Florença¬no¬século¬XIV.¬
+Acerca¬dessa¬epidemia¬e¬de¬seus¬efeitos,¬é¬correto¬afirmar:¬
+¬
+(A) A¬ Peste¬ Negra¬ foi¬ devastadora¬ apenas¬ na¬ região¬ da¬
+Península¬Itálica¬e¬foi¬atribuída¬ao¬comércio¬de¬especiarias¬
+orientais¬e¬à¬superfluidade¬da¬vida¬mundana.¬
+(B) Os¬efeitos¬comportamentais¬provocados¬pela¬Peste¬Negra¬
+dificultaram¬ a¬ disseminação¬ da¬ doença¬ pelo¬ continente¬
+europeu.¬
+(C) A¬ falta¬ de¬ conhecimento¬ preciso¬ sobre¬ as¬ formas¬ de¬
+contaminação¬ favoreceu¬ a¬ sua¬ disseminação¬ para¬
+diversas¬regiões¬europeias.¬
+(D) A¬disseminação¬da¬morte¬preservou¬as¬práticas¬e¬os¬rituais¬
+fúnebres,¬que¬mantiveram¬suas¬características¬vinculadas¬
+às¬orientações¬cristãs.¬
+(E) A¬Peste¬Negra¬provocou¬uma¬ruptura¬institucional¬imediata¬
+na¬cristandade¬medieval,¬baseada¬nas¬práticas¬culturais.¬
+ 
+¬
+62 
+Consoada 
+¬
+Quando¬a¬Indesejada¬das¬gentes¬chegar¬
+(Não¬sei¬se¬dura¬ou¬caroável),¬
+Talvez¬eu¬tenha¬medo.¬
+Talvez¬sorria,¬ou¬diga:¬
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬-¬Alô,¬iniludível!¬
+O¬meu¬dia¬foi¬bom,¬pode¬a¬noite¬descer.¬
+(A¬noite¬com¬os¬seus¬sortilégios.)¬
+Encontrará¬lavrado¬o¬campo,¬a¬casa¬limpa,¬
+A¬mesa¬posta,¬
+Com¬cada¬coisa¬em¬seu¬lugar.¬
+¬
+Manuel¬Bandeira.¬Opus¬10.¬
+¬
+Nos¬versos¬“Quando¬a¬Indesejada¬das¬gentes¬chegar”¬e¬“O¬
+meu¬ dia¬ foi¬ bom,¬ pode¬ a¬ noite¬ descer”,¬ destacam-se¬ as¬
+seguintes¬figuras¬de¬linguagem:¬
+¬
+(A)¬Anáfora¬e¬hipérbole.¬
+(B)¬Ironia¬e¬catacrese.¬
+(C)¬Eufemismo¬e¬antítese.¬
+(D)¬Metonímia¬e¬onomatopeia.¬
+(E)¬Catacrese¬e¬hipérbole.¬
+ 
+¬
+¬
+¬
+¬
+¬
+63 
+Um¬sistema¬de¬inteligência¬artificial¬formulou¬o¬seguinte¬texto¬
+para¬explicar¬a¬relação¬entre¬a¬febre¬maculosa¬e¬os¬fatores¬
+bióticos¬e¬abióticos¬a¬ela¬relacionados:¬
+“A¬febre¬maculosa,¬uma¬doença¬infecciosa¬transmitida¬por¬
+carrapatos,¬ está¬ intrinsecamente¬ ligada¬ a¬ fatores¬ bióticos¬ e¬
+abióticos¬ presentes¬ em¬ seu¬ ambiente.¬ Os¬ fatores¬ bióticos¬
+incluem¬ a¬ presença¬ do¬ carrapato¬ estrela,¬ vetor¬ da¬ bactéria¬
+Rickettsia¬ rickettsii,¬ e¬ dos¬ hospedeiros¬ necessários¬ para¬ a¬
+alimentação¬do¬carrapato,¬como¬roedores¬e¬outros¬animais.¬
+Além¬disso,¬os¬fatores¬abióticos¬desempenham¬um¬papel¬
+significativo¬ na¬ disseminação¬ da¬ doença.¬ A¬ umidade¬ é¬ um¬
+fator-chave,¬ uma¬ vez¬ que¬ carrapatos¬ preferem¬ ambientes¬
+úmidos¬para¬se¬desenvolverem¬e¬sobreviverem.¬A¬temperatura¬
+também¬desempenha¬um¬papel¬importante,¬afetando¬tanto¬a¬
+atividade¬dos¬carrapatos¬quanto¬a¬sobrevivência¬da¬bactéria.¬
+Outros¬fatores¬abióticos,¬como¬o¬clima,¬a¬vegetação¬e¬a¬
+disponibilidade¬de¬água,¬podem¬influenciar¬a¬abundância¬e¬a¬
+distribuição¬
+dos¬
+carrapatos¬
+e,¬
+consequentemente,¬
+a¬
+propagação¬da¬febre¬maculosa.¬
+Portanto,¬compreender¬e¬monitorar¬esses¬fatores¬bióticos¬
+e¬ abióticos¬ é¬ fundamental¬ para¬ prevenir¬ e¬ controlar¬ a¬ febre¬
+maculosa.¬
+Estratégias¬
+de¬
+controle¬
+de¬
+carrapatos,¬
+conscientização¬pública¬e¬medidas¬de¬proteção¬pessoal¬são¬
+essenciais¬para¬reduzir¬a¬incidência¬da¬doença.”¬
+Assinale¬ a¬ alternativa¬ que¬ corrige,¬ adequadamente,¬ uma¬
+informação¬incorreta¬do¬texto¬gerado¬pelo¬sistema.¬
+¬
+(A) A¬ febre¬ maculosa¬ é¬ transmitida¬ por¬ roedor,¬ e¬ não¬ por¬
+carrapato.¬
+(B) A¬vegetação¬é¬um¬componente¬biológico,¬e¬não¬um¬fator¬
+abiótico.¬
+(C) A¬febre¬maculosa¬tem¬origem¬viral,¬e¬não¬bacteriana.¬
+(D) O¬carrapato¬estrela¬alimenta-se¬da¬vegetação,¬e¬não¬do¬
+roedor.¬
+(E) A¬ temperatura¬ é¬ um¬ fator¬ ambiental,¬ e¬ não¬ um¬ fator¬
+abiótico.¬
+ 
+¬
+
+
+--- PAGE 21 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S1 
+64 
+Embora¬historiadores¬frequentemente¬se¬refiram¬à¬chamada¬
+“revolução¬ impressa”¬ atribuída¬ a¬ Johannes¬ Gutenberg,¬ em¬
+Mogúncia¬(Mainz),¬nos¬meados¬do¬século¬XV,¬não¬se¬pode¬
+duvidar¬
+do¬
+impacto,¬
+sobre¬
+a¬
+leitura,¬
+da¬
+revolução¬
+informatizada¬ que¬ se¬ observa¬ neste¬ século.¬ Tampouco¬
+podemos¬ duvidar¬ da¬ velocidade¬ da¬ revolução¬ eletrônica.¬
+“Creio¬ que¬ há¬ um¬ mercado¬ mundial¬ para¬ uns¬ cinco¬
+computadores”,¬disse¬Thomas¬J.¬Watson,¬então¬presidente¬da¬
+IBM¬em¬1943,¬demonstrando¬o¬nível¬de¬astúcia¬empresarial¬
+que¬costumamos¬associar¬a¬essa¬grande¬empresa.¬Em¬1949,¬
+a¬revista¬Popular¬Mechanics,¬prevendo¬o¬incansável¬avanço¬
+das¬ descobertas¬ científicas,¬ previu¬ que¬ “computadores,¬ no¬
+futuro,¬ pesarão¬ não¬ mais¬ que¬ quinze¬ toneladas”.¬ Essa¬
+previsão,¬ no¬ mínimo,¬ teve¬ a¬ virtude¬ de¬ estar¬ correta.¬ Mais¬
+recentemente,¬ em¬ 1977,¬ Ken¬ Olsen,¬ então¬ presidente¬ da¬
+Digital¬Corporation,¬garantiu¬ao¬mundo¬que¬“não¬há¬razão¬para¬
+qualquer¬indivíduo¬ter¬um¬computador¬em¬casa”.¬
+Martyn¬Lyons.¬A¬palavra¬impressa:¬histórias¬da¬leitura¬no¬século¬XIX.¬Rio¬
+de¬Janeiro:¬Casa¬da¬Palavra,¬1999.¬
+¬
+A¬ analogia¬ entre¬ a¬ “revolução¬ impressa”¬ e¬ a¬ “revolução¬
+técnico-científico-informacional”,¬às¬quais¬o¬texto¬se¬refere,¬diz¬
+respeito¬
+¬
+(A) ao¬ diminuto¬ impacto¬ que¬ as¬ revoluções¬ científico-
+tecnológicas¬trouxeram¬às¬relações¬interpessoais.¬
+(B) ao¬ espírito¬ empreendedor¬ e¬ visionário¬ de¬ personagens¬
+históricos¬como¬Gutenberg¬e¬Ken¬Olsen.¬
+(C) à¬ausência,¬em¬ambos¬os¬casos,¬de¬um¬mercado¬amplo¬de¬
+leitores¬e¬de¬informações.¬
+(D) à¬lentidão¬das¬inovações¬tecnológicas,¬resultado¬da¬falta¬
+de¬investimentos¬estatais.¬
+(E) à¬ampliação¬do¬acesso¬à¬informação¬como¬decorrência¬de¬
+transformações¬tecnológicas.¬
+ 
+¬
+65 
+Há¬um¬princípio¬da¬dúvida¬que¬consiste¬na¬máxima¬de¬tratar¬os¬
+conhecimentos¬no¬intuito¬de¬torná-los¬incertos¬e¬mostrar¬que¬é¬
+impossível¬ alcançar¬ a¬ certeza.¬ Esse¬ método¬ de¬ filosofar¬ é¬ o¬
+modo¬de¬pensar¬cético¬ou¬ceticismo,¬que¬se¬opõe¬ao¬modo¬de¬
+pensar¬dogmático¬ou¬dogmatismo,¬que¬é¬uma¬confiança¬cega¬
+no¬poder¬de¬a¬razão¬sem¬crítica¬ampliar-se¬a¬priori¬somente¬por¬
+conceitos,¬em¬virtude¬apenas¬de¬um¬êxito¬aparente.¬
+Kant.¬Manual¬dos¬cursos¬de¬lógica¬geral.¬Campinas:¬Ed.¬da¬Unicamp,¬
+2014.¬
+¬
+Considerando¬ as¬ definições¬ apresentadas¬ no¬ texto,¬ qual¬
+alternativa¬
+apresenta¬
+afirmações¬
+que¬
+correspondem,¬
+respectivamente,¬a¬uma¬tese¬cética¬e¬a¬uma¬tese¬dogmática?¬
+¬
+(A) Os¬ fenômenos¬ físico-químicos¬ não¬ esgotam¬ todos¬ os¬
+eventos¬do¬mundo.¬O¬conceito¬de¬um¬Deus¬criador¬é¬uma¬
+marca¬das¬religiões¬monoteístas.¬¬
+(B) A¬existência¬do¬mundo¬exterior¬é¬algo¬altamente¬duv

@@ -1,0 +1,463 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/fuvest2026-simulado-fase1-prova-S2.pdf"
+  }
+]
+
+TEXTO-BASE:
+odemos¬abstrair¬o¬conceito¬de¬
+quantidade¬de¬coleções¬diversas¬de¬objetos. 
+ 
+46 
+A¬probabilidade¬de¬dois¬lançamentos¬de¬um¬dado¬(de¬6¬faces¬
+equiprováveis,¬numeradas¬de¬1¬a¬6)¬somarem¬10¬ou¬mais¬é¬
+¬
+(A)¬1/9.¬
+(B)¬1/6.¬
+(C)¬1/5.¬
+(D)¬1/4.¬
+(E)¬1/2.¬
+ 
+¬
+47 
+Ana,¬ Beto,¬ Cíntia,¬ Dênis¬ e¬ Elza¬ são¬ amigos.¬ Quatro¬ deles¬
+sempre¬dizem¬a¬verdade¬e¬um¬deles¬sempre¬mente.¬Ana¬diz¬
+que¬Elza¬fala¬a¬verdade.¬Beto¬diz¬que¬Cíntia¬mente.¬Cíntia¬diz¬
+que¬sempre¬fala¬a¬verdade.¬Dênis¬diz¬que¬Beto¬mente.¬Elza¬diz¬
+que¬Dênis¬fala¬a¬verdade.¬Qual¬deles¬mente?¬
+¬
+(A)¬Ana.¬
+(B)¬Beto.¬
+(C)¬Cíntia.¬
+(D)¬Dênis.¬
+(E)¬Elza.¬
+ 
+¬
+48 
+Um¬jogo¬de¬talheres¬tem¬colheres¬de¬sobremesa¬e¬colheres¬de¬
+sopa.¬Os¬dois¬tipos¬têm¬formatos¬perfeitamente¬iguais,¬exceto¬
+pelo¬tamanho:¬a¬colher¬de¬sopa¬é¬1,6¬vezes¬maior¬do¬que¬a¬
+colher¬de¬sobremesa.¬Nesse¬caso,¬o¬conteúdo¬de¬uma¬colher¬
+de¬ sopa¬ cheia¬ de¬ água,¬ se¬ transferido¬ para¬ colheres¬ de¬
+sobremesa,¬sem¬perdas,¬
+¬
+(A)¬enche¬1¬mas¬não¬enche¬2¬colheres.¬
+(B)¬enche¬2¬mas¬não¬enche¬3¬colheres.¬
+(C)¬enche¬3¬mas¬não¬enche¬4¬colheres.¬
+(D)¬enche¬4¬mas¬não¬enche¬5¬colheres.¬
+(E)¬enche¬5¬mas¬não¬enche¬6¬colheres.¬
+ 
+¬
+¬
+¬
+¬
+
+
+--- PAGE 16 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S2 
+49 
+O¬ chocolate¬ não¬ foi¬ comido,¬ mas¬ ingerido¬ sob¬ forma¬
+líquida¬em¬90%¬de¬sua¬longa¬história.¬E,¬desse¬período¬maior¬
+de¬tempo,¬apenas¬20%¬é¬posterior¬à¬queda¬da¬capital¬asteca,¬
+em¬1521.¬
+O¬início¬da¬aclimatação¬da¬cultura¬do¬cacau¬deu-se¬entre¬
+os¬olmecas,¬a¬complexa¬cultura¬da¬costa¬do¬Golfo¬do¬México,¬
+por¬volta¬de¬1500¬a.C..¬Os¬maias¬trouxeram¬a¬palavra¬cacao¬
+desses¬ancestrais.¬
+Ao¬ que¬ tudo¬ indica,¬ os¬ astecas¬ bebiam¬ o¬ chocolate¬ –¬
+chamado¬ por¬ eles¬ de¬ cacahuatl¬ –¬ frio¬ e¬ preparado¬ à¬ moda¬
+maia.¬As¬sementes¬de¬cacau¬eram¬trituradas,¬pulverizadas¬e¬
+deixadas¬ de¬ molho.¬ Adicionava-se,¬ então,¬ pouca¬ água,¬ e¬ o¬
+preparado¬ era¬ ventilado,¬ filtrado¬ e¬ coado.¬ Em¬ seguida,¬ o¬
+líquido¬era¬entornado¬repetidamente¬de¬uma¬vasilha¬a¬outra,¬
+para¬que¬se¬formasse¬uma¬espuma¬pequena.¬
+Ao¬ final¬ do¬ século¬ XVII,¬ o¬ encontro¬ de¬ conquistado¬ e¬
+conquistador,¬ também¬ expresso¬ na¬ culinária,¬ já¬ havia¬
+modificado¬o¬uso¬da¬bebida¬até¬então¬consumida¬amarga¬e¬
+fria.¬ Nessa¬ época,¬ o¬ cacau¬ encontraria¬ um¬ outro¬ produto¬
+também¬proveniente¬de¬cultivo¬adaptado.¬O¬açúcar¬chegava¬
+às¬ Américas¬ por¬ meio¬ de¬ um¬ longo¬ processo¬ de¬
+transplantação¬continental¬e¬oceânica:¬a¬cana¬de¬açúcar¬saiu¬
+da¬Ásia,¬atravessou¬o¬Mediterrâneo¬e¬as¬ilhas¬atlânticas,¬para¬
+desembarcar¬ em¬ Santo¬ Domingo¬ e,¬ por¬ fim,¬ nos¬ Estados¬
+controlados¬ pela¬ família¬ de¬ Hernán¬ Cortez,¬ no¬ México.¬ A¬
+combinação¬permitiu¬o¬preparo¬do¬chocolate¬quente¬e¬doce.¬
+Kenneth¬Maxwell.¬A¬verdadeira¬história¬do¬chocolate.¬In:¬Chocolates,¬
+piratas¬e¬outros¬malandros:¬ensaios¬tropicais.¬Rio¬de¬Janeiro:¬Paz¬e¬Terra,¬
+1999.¬Adaptado.¬
+¬
+O¬texto¬recupera,¬desde¬longínquos¬séculos¬passados,¬etapas¬
+da¬história¬do¬que,¬no¬século¬XVII,¬passou¬a¬se¬chamar¬de¬
+chocolate.¬A¬leitura¬permite¬reconhecer¬
+¬
+(A) os¬paralelos¬entre¬as¬antigas¬e¬atuais¬formas¬de¬preparo¬e¬
+consumo¬do¬alimento.¬
+(B) o¬ desinteresse¬ dos¬ conquistadores¬ espanhóis¬ pelas¬
+plantas¬e¬costumes¬das¬populações¬nativas.¬
+(C) a¬ primazia¬ da¬ América¬ como¬ lugar¬ de¬ origem¬ dos¬
+principais¬alimentos¬contemporâneos.¬
+(D) o¬papel¬da¬integração¬de¬gêneros¬de¬origem¬americana¬e¬
+exógena¬na¬história¬do¬chocolate.¬
+(E) o¬protagonismo¬do¬conquistador¬Hernán¬Cortez¬na¬fusão¬
+do¬açúcar¬e¬do¬chocolate.¬
+ 
+¬
+¬
+Texto para as questões 50 e 51 
+¬
+Uma¬ pesquisa¬ desenvolvida¬ na¬ Faculdade¬ de¬ Zootecnia¬ e¬
+Engenharia¬de¬Alimentos¬da¬USP¬mostrou¬que¬a¬suplementação¬
+com¬ óleos¬ vegetais¬na¬dieta¬de¬vacas¬leiteiras¬pode¬ alterar¬ o¬
+percentual¬ da¬ gordura¬ e¬ a¬ composição¬ do¬ leite¬ por¬ elas¬
+produzido,¬tornando¬o¬perfil¬dos¬ácidos¬graxos¬do¬leite¬ainda¬mais¬
+saudável¬para¬a¬alimentação¬humana.¬
+Nesse¬estudo,¬as¬vacas¬foram¬divididas¬em¬3¬grupos:¬
+-¬Grupo¬1:¬recebeu¬alimentação¬sem¬suplementação;¬
+-¬Grupo¬2:¬recebeu¬alimentação¬suplementada¬com¬óleo¬de¬
+soja;¬
+-¬Grupo¬3:¬recebeu¬alimentação¬suplementada¬com¬óleo¬de¬
+linhaça.¬
+A¬análise¬do¬teor¬de¬gordura¬e¬de¬ácidos¬graxos¬no¬leite¬de¬
+cada¬grupo¬de¬vacas¬é¬apresentada¬a¬seguir.¬
+¬
+¬
+¬
+Suplementação¬
+da¬alimentação¬
+das¬vacas¬
+%¬de¬
+gordura¬
+no¬leite¬
+%¬de¬ácidos¬
+graxos¬
+saturados¬
+na¬gordura¬
+%¬ácidos¬
+graxos¬
+insaturados¬¬
+na¬gordura¬
+Grupo¬1:¬Sem¬
+suplementação¬
+3,4¬
+66,9¬
+33,1¬
+Grupo¬2:¬Óleo¬
+de¬Soja¬
+2,8¬
+56,5¬
+43,5¬
+Grupo¬3:¬Óleo¬
+de¬Linhaça¬
+2,9¬
+56,6¬
+43,4¬
+Em¬ particular,¬ a¬ alteração¬ na¬ dieta¬ dos¬ animais¬ melhorou¬ a¬
+proporção¬ de¬ Ômega-6¬ (Ω-6)¬ e¬ Ômega-3¬ (Ω-3)¬ que,¬ em¬
+quantidades¬adequadas,¬têm¬um¬importante¬papel¬na¬prevenção,¬
+por¬ exemplo,¬ de¬ doenças¬ cardiovasculares¬ e¬ inflamatórias¬
+crônicas,¬além¬de¬alguns¬tipos¬de¬câncer.¬
+O¬estudo¬mostrou¬que¬a¬suplementação¬de¬óleo¬de¬linhaça¬na¬dieta¬
+das¬vacas¬diminuiu¬no¬leite¬a¬proporção¬Ω-6¬/¬Ω-3¬de¬7,92¬para¬2,72.¬
+Essa¬proporção¬mais¬baixa¬no¬leite¬pode¬contribuir¬para¬que¬a¬
+proporção¬desses¬ácidos¬graxos¬na¬alimentação¬diária¬total¬dos¬
+seres¬humanos¬esteja¬dentro¬da¬faixa¬indicada¬pela¬OMS,¬que¬é¬de¬
+5¬a¬10.¬
+Mauricio¬X.¬S.¬Oliveira¬et¬al.¬(2021).¬PLoS¬ONE¬16(2):¬e0246357.¬¬
+Disponível¬em¬https://doi.org/10.1371/journal.pone.0246357/.¬
+¬
+50 
+Em¬relação¬ao¬leite¬produzido¬pelas¬vacas¬com¬alimentação¬
+suplementada,¬é¬correto¬afirmar:¬
+¬
+(A) A¬suplementação¬da¬alimentação¬aumentou¬a¬proporção¬
+de¬ácidos¬graxos¬com¬duplas¬ligações¬entre¬os¬átomos¬de¬
+carbono¬no¬leite.¬
+(B) O¬ ponto¬ de¬ ebulição¬ do¬ leite¬ produzido¬ pelas¬ vacas¬ do¬
+grupo¬ 1¬ deve¬ ser¬ inferior¬ ao¬ daquele¬ produzido¬ pelas¬
+vacas¬dos¬grupos¬2¬e¬3.¬
+(C) A¬composição¬do¬leite¬produzido¬pelas¬vacas¬do¬grupo¬2¬
+foi¬ significativamente¬ diferente¬ do¬ leite¬ produzido¬ pelas¬
+vacas¬do¬grupo¬3.¬
+(D) O¬ leite¬ produzido¬ pelas¬ vacas¬ do¬ grupo¬ 1¬ tem¬ ácidos¬
+graxos¬de¬cadeias¬mais¬longas¬do¬que¬o¬leite¬produzido¬
+pelas¬vacas¬dos¬grupos¬2¬e¬3.¬
+(E) A¬ quantidade¬ absoluta¬ de¬ ácidos¬ graxos¬ saturados¬ é¬
+menor¬no¬leite¬das¬vacas¬do¬grupo¬1.¬
+ 
+¬
+51 
+Os¬resultados¬apresentados¬permitem¬concluir¬que,¬após¬a¬dieta¬
+de¬óleo¬de¬linhaça,¬
+¬
+(A)¬a¬quantidade¬de¬Ω-6¬no¬leite¬das¬vacas¬foi¬7,92¬vezes¬maior¬
+do¬que¬a¬quantidade¬de¬Ω-3.¬
+(B)¬a¬quantidade¬de¬Ω-6¬no¬leite¬das¬vacas¬foi¬2,72¬vezes¬maior¬
+do¬que¬a¬quantidade¬de¬Ω-3.¬
+(C)¬a¬quantidade¬de¬Ω-6¬no¬leite¬das¬vacas¬foi¬5¬a¬10¬vezes¬
+maior¬do¬que¬a¬quantidade¬de¬Ω-6¬encontrada¬no¬leite¬sem¬
+o¬uso¬da¬dieta.¬
+(D)¬a¬quantidade¬de¬Ω-3¬no¬leite¬das¬vacas¬foi¬2,72¬vezes¬maior¬
+do¬que¬a¬quantidade¬de¬Ω-3¬encontrada¬no¬leite¬sem¬o¬uso¬
+da¬dieta.¬
+(E)¬a¬quantidade¬de¬Ω-6¬no¬leite¬das¬vacas¬aumentou¬em¬5¬
+vezes,¬ ao¬ mesmo¬ tempo¬ em¬ que¬ a¬ quantidade¬ de¬ Ω-3¬
+diminuiu¬em¬10¬vezes.¬
+ 
+¬
+¬
+¬
+
+
+--- PAGE 17 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S2 
+52 
+O¬diagrama¬a¬seguir¬apresenta¬os¬estados¬físicos¬da¬água¬em¬
+diferentes¬pressões¬e¬temperaturas.¬
+¬
+Considere¬que¬o¬cozimento¬total¬de¬um¬determinado¬alimento¬
+em¬ uma¬ cidade¬ ao¬ nível¬ do¬ mar¬ requer¬ mantê-lo¬ por,¬ no¬
+mínimo,¬5¬minutos¬na¬água¬após¬a¬fervura.¬Para¬a¬obtenção¬
+desse¬alimento¬totalmente¬cozido¬no¬alto¬de¬uma¬montanha¬
+onde¬a¬pressão¬atmosférica¬é¬de¬cerca¬de¬0,6¬atm,¬o¬tempo¬
+que¬o¬alimento¬deverá¬permanecer¬na¬água¬após¬a¬fervura¬é¬
+¬
+(A) o¬mesmo¬que¬na¬cidade¬ao¬nível¬do¬mar¬porque¬o¬ponto¬
+de¬ ebulição¬ da¬ água¬ não¬ depende¬ do¬ local¬ em¬ que¬ é¬
+medido.¬
+(B) menor¬ do¬ que¬ o¬ necessário¬ na¬ cidade¬ ao¬ nível¬ do¬ mar¬
+porque¬ o¬ ponto¬ de¬ ebulição¬ da¬ água¬ diminui¬ com¬ a¬
+diminuição¬da¬pressão.¬
+(C) maior¬ do¬ que¬ o¬ necessário¬ na¬ cidade¬ ao¬ nível¬ do¬ mar¬
+porque¬ o¬ ponto¬ de¬ ebulição¬ da¬ água¬ aumenta¬ com¬ a¬
+diminuição¬da¬pressão.¬
+(D) maior¬ do¬ que¬ o¬ necessário¬ na¬ cidade¬ ao¬ nível¬ do¬ mar¬
+porque¬ o¬ ponto¬ de¬ ebulição¬ da¬ água¬ diminui¬ com¬ a¬
+diminuição¬da¬pressão.¬
+(E) menor¬ do¬ que¬ o¬ necessário¬ na¬ cidade¬ ao¬ nível¬ do¬ mar¬
+porque¬ o¬ ponto¬ de¬ ebulição¬ da¬ água¬ aumenta¬ com¬ a¬
+diminuição¬da¬pressão.¬
+ 
+¬
+53 
+¬
+A¬tirinha¬de¬Fernando¬Gonsales¬representa,¬de¬maneira¬cômica,¬
+a¬reprodução¬
+¬
+(A)¬sexuada¬a¬partir¬de¬meiose.¬
+(B)¬sexuada¬a¬partir¬de¬mitose.¬
+(C)¬assexuada¬a¬partir¬de¬meiose.¬
+(D)¬assexuada¬a¬partir¬de¬mitose.¬
+(E)¬sexuada¬por¬autofecundação.¬
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+54 
+Um¬fabricante¬notou¬que¬o¬interesse¬em¬seu¬novo¬produto¬tem¬
+crescido¬bastante¬e,¬prevendo¬que¬suas¬vendas¬vão¬aumentar¬
+exponencialmente¬ por¬ mais¬ de¬ um¬ ano,¬ planejou¬ aumentar¬
+suas¬compras¬de¬insumos,¬de¬cada¬mês¬para¬o¬mês¬seguinte,¬
+por¬um¬fator¬multiplicativo¬que¬fará¬a¬compra¬do¬mesmo¬mês¬
+no¬ano¬seguinte¬ser¬64¬vezes¬a¬compra¬do¬primeiro¬mês.¬Qual¬
+fator¬de¬aumento¬mensal¬ele¬deve¬utilizar?¬
+¬
+(A) √2¬
+(B) √8¬
+(C) √12¬
+(D) 12¬√2¬
+(E) 8¬√2¬
+ 
+¬
+55 
+O¬ desenvolvimento¬ do¬ capitalismo¬ envolveu,¬ em¬ seus¬
+primórdios,¬ os¬ cercamentos¬ de¬ terra,¬ que¬ passaram¬ a¬ ser¬
+empregados¬ de¬ forma¬ mais¬ intensa¬ na¬ Inglaterra¬ no¬ século¬
+XVIII.¬São¬elementos¬constitutivos¬desse¬processo¬
+¬
+(A) a¬privatização¬das¬terras¬comuns,¬o¬êxodo¬rural¬e¬a¬adoção¬
+de¬ práticas¬ de¬ produção¬ modernizadas¬ e¬ com¬ fins¬
+comerciais.¬
+(B) a¬coletivização¬das¬terras,¬o¬controle¬das¬pastagens¬pelos¬
+camponeses¬
+e¬
+a¬
+manutenção¬
+da¬
+produção¬
+de¬
+subsistência.¬
+(C) a¬construção¬de¬cercas¬para¬definir¬as¬novas¬propriedades,¬
+a¬ transformação¬ dos¬ camponeses¬ em¬ proprietários¬ e¬ a¬
+criação¬de¬ovelhas¬para¬a¬produção¬de¬lã.¬
+(D) a¬privatização¬de¬terras¬sem¬amparo¬legal,¬a¬concentração¬
+fundiária¬ em¬ detrimento¬ da¬ propriedade¬ comunal¬ e¬ a¬
+contenção¬da¬urbanização.¬
+(E) a¬ preparação¬ das¬ terras¬ com¬ fins¬ lucrativos,¬ a¬ justa¬
+compensação¬dos¬camponeses¬expropriados¬e¬o¬aumento¬
+de¬ofertas¬vantajosas¬de¬trabalho¬no¬campo. 
+ 
+¬
+56 
+No¬mercado¬de¬agronegócio,¬a¬razão¬entre¬o¬custo¬total¬de¬
+produção¬por¬hectare¬e¬a¬produção¬esperada¬(também¬por¬
+hectare)¬é¬denominada¬preço¬equilíbrio.¬Um¬agricultor¬teve¬um¬
+custo¬ total¬ de¬ R$¬ 4.300,00¬ por¬ hectare¬ para¬ produção¬ de¬
+milho,¬e¬espera¬produzir¬99¬sacas¬por¬hectare.¬O¬valor¬mínimo¬
+aproximado¬ de¬ venda,¬ por¬ saca,¬ para¬ obter¬ lucro¬ de¬ 40%¬
+sobre¬o¬preço¬equilíbrio¬é¬
+¬
+(A) R$¬60,81.¬
+(B) R$¬63,20.¬
+(C) R$¬65,45.¬
+(D) R$¬67,31.¬
+(E) R$¬68,21.¬
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 18 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S2 
+57 
+Um¬aumento¬no¬consumo¬de¬água¬e¬produtos¬agropecuários¬
+pela¬população¬humana,¬direta¬ou¬indiretamente,¬geralmente¬
+vem¬atrelado¬a¬um¬aumento¬na¬pressão¬exercida¬sobre¬o¬meio¬
+ambiente.¬Por¬outro¬lado,¬há¬uma¬crescente¬preocupação¬com¬
+a¬preservação¬dos¬biomas¬brasileiros,¬de¬forma¬a¬garantir¬o¬
+suprimento¬ de¬ recursos¬ ambientais¬ e¬ evitar¬ a¬ extinção¬ de¬
+espécies.¬
+Assinale¬a¬alternativa¬que¬apresenta¬duas¬soluções¬de¬amplo¬
+alcance¬ geográfico¬ e¬ sustentáveis¬ (dos¬ pontos¬ de¬ vista¬
+ambiental¬e¬econômico)¬para¬diminuir¬o¬impacto¬da¬expansão¬
+da¬ lavoura¬ sobre¬ a¬ vegetação¬ nativa¬ (I)¬ e¬ para¬ o¬ melhor¬
+aproveitamento¬de¬recursos¬hídricos¬(II).¬
+¬
+(A)¬
+I¬-¬Diminuição¬da¬produção¬agrícola.¬
+II¬-¬Instalação¬de¬condensadores¬de¬umidade¬do¬ar¬
+nas¬áreas¬rurais.¬
+(B)¬
+I¬ -¬ Aumento¬ da¬ produtividade¬ nas¬ lavouras¬ sem¬
+aumento¬da¬área¬cultivada.¬
+II¬-¬Preservação¬e¬recuperação¬de¬nascentes¬e¬matas¬
+ciliares.¬
+(C)¬
+I¬-¬Uso¬extensivo¬de¬sementes¬transgênicas.¬
+II¬-¬Instalação¬de¬um¬maior¬número¬de¬poços¬artesianos¬
+nas¬cidades¬e¬no¬campo.¬
+(D)¬
+I¬-¬Diminuição¬da¬produção¬agrícola.¬
+II¬-¬Criação¬de¬novas¬represas¬para¬o¬armazenamento¬
+de¬água¬dos¬rios.¬
+(E)¬
+I¬-¬Aumento¬da¬carga¬tributária¬sobre¬os¬alimentos.¬
+II¬-¬Aumento¬da¬eficiência¬dos¬sistemas¬de¬distribuição¬
+de¬água¬e¬irrigação.¬
+ 
+¬
+58 
+¬
+¬
+O¬ esquema¬ descreve¬ o¬ ciclo¬ biogeoquímico¬ do¬ nitrogênio,¬ um¬
+elemento¬químico¬essencial¬na¬vida¬dos¬organismos¬por¬fazer¬parte¬
+de¬proteínas¬e¬ácidos¬nucleicos.¬Em¬relação¬a¬esse¬ciclo,¬é¬correto¬
+afirmar:¬
+¬
+(A) Todas¬ as¬ plantas¬ absorvem¬ o¬ nitrogênio¬

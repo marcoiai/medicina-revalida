@@ -1,0 +1,365 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "INTO / Ministério da Saúde - Residência Médica - https://www.into.saude.gov.br/ensino/residencia/medica?id=1156&layout=edit"
+  }
+]
+
+TEXTO-BASE:
+
+
+--- PAGE 1 ---
+
+ 
+MINISTÉRIO DA SAÚDE 
+SECRETÁRIA DE ATENÇÃO À SAÚDE 
+INSTITUTO NACIONAL DE TRAUMATOLOGIA E ORTOPEDIA  
+  
+ 
+ 
+PROCESSO SELETIVO AOS PROGRAMAS DE RESIDÊNCIA MÉDICA 
+2025/2026  
+ORTOPEDIA E TRAUMATOLOGIA 
+PROVA TIPO A 
+ 
+ 
+INSTRUÇÕES DA PROVA OBJETIVA 
+VOCÊ RECEBEU O SEGUINTE MATERIAL: 
+ 
+ 
+A) Um CARTÃO-RESPOSTA personalizado; 
+ 
+B) Um CADERNO DE QUESTÕES constituído de cinquenta questões de múltipla escolha, com 
+cinco alternativas cada, sendo apenas uma opção correta. 
+ 
+- Confira, no CARTÃO-RESPOSTA, se seus dados pessoais, número da inscrição e cargo 
+escolhido estão corretos. 
+- Assine o CARTÃO-RESPOSTA logo após o seu recebimento. Os cartões que forem entregues 
+sem assinatura NÃO serão corrigidos. 
+- Após autorização para o início da prova, verifique, neste CADERNO DE QUESTÕES, se a 
+sequência da numeração das questões e da paginação está correta. 
+- Se houver alguma irregularidade no material recebido, comunique a um dos fiscais. 
+- Em cima da mesa do candidato, só poderão estar o CARTÃO-RESPOSTA, este CADERNO DE 
+QUESTÕES e a caneta esferográfica transparente de tina azul ou preta. 
+- Somente as respostas assinaladas no CARTÃO-RESPOSTA serão objeto de correção. 
+- Por motivo de segurança, o candidato NÃO poderá anotar seu gabarito em outro local que 
+não seja seu CARTÃO-RESPOSTA. 
+- Após o término da prova, entregue ao fiscal o CARTÃO-RESPOSTA e este CADERNO DE 
+QUESTÕES. 
+- A prova terá duração de três horas. 
+- Por motivo de segurança, o candidato só poderá se ausentar definitivamente do recinto das 
+provas após uma hora contada a partir de seu início. 
+- Este CADERNO DE QUESTÕES NÃO poderá ser levado pelo candidato em nenhum momento. 
+- Os três últimos candidatos somente poderão deixar a sala juntos, até que o último 
+entregue a prova, ou até que termine o tempo de duração. Deverão assinar a ata de sala, 
+atestando a idoneidade e regularidade da finalização da prova.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 2 ---
+
+2 
+ 
+ 
+CLÍNICA MÉDICA 
+ 
+1- Mulher, 71 anos, procurou a emergência por dor torácica opressiva desencadeada ao subir 
+escadas, com início há 90 minutos e alívio parcial em repouso. Antecedentes: hipertensão 
+arterial, DRC estágio 3, dislipidemia e ex-tabagista. ECG da admissão reproduzido a seguir. 
+Assinale a alternativa com a conduta mais adequada. 
+ 
+A) Cateterismo precoce. 
+B) AAS, clopidogrel + morfina e cateterismo para estratificação em um segundo momento, 
+antes da alta. 
+C) AAS, clopidogrel e angiotomografia de coronária ambulatorialmente. 
+D) AAS, clopidogrel, heparina e cateterismo na mesma internação, antes da alta. 
+E) AAS, clopidogrel e angiotomografia de coronária na mesma internação.  
+ 
+ 
+2- Homem, 68 anos, portador de cardiomiopatia isquêmica com ICFEr (FEVE 25%), chega ao 
+pronto-socorro com dispneia em repouso, oligúria e piora do edema em membros inferiores. 
+Ao exame: PA 85 x 55 mmHg, FC 118 bpm, FR 28 irpm, saturação 89% em O₂ nasal 2 L/min, 
+turgência jugular aumentada, crepitações bibasais, extremidades frias e tempo de enchimento 
+capilar prolongado. Considerando o perfil hemodinâmico do paciente como tipo C, qual 
+conduta terapêutica inicial é mais adequada? 
+ 
+A) Iniciar IECA ou BRA e um antagonista de aldosterona em doses baixas e observar por 48h 
+antes de outras intervenções. 
+B) Administrar betabloqueador em dose plena e iniciar vasodilatadores de ação prolongada 
+para melhorar o débito. 
+C) Iniciar diurético de alça intravenoso para reduzir a congestão e um inotrópico, como 
+dobutamina, para melhorar a perfusão, monitorando de perto a resposta hemodinâmica. 
+D) Restringir líquidos e sódio e apenas acompanhar a pressão arterial nas primeiras 24h antes 
+de introduzir terapias medicamentosas. 
+E) Iniciar nitroprussiato/nitroglicerina em doses altas para rápida redução da pós-carga, apesar 
+da hipotensão, sem suporte inotrópico. 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 3 ---
+
+3 
+3- Mulher, 62 anos, diabética tipo 2 há 10 anos, interrompeu as medicações há 6 semanas. 
+Referia usar NPH 2x/dia, metformina e gliclazida. Chega ao pronto-socorro com poliúria, 
+polidipsia, náuseas e perda ponderal de 6% em 1 mês. Ao exame: mucosas secas, PA 100 x 65 
+mmHg, FC 104 bpm. Glicemia capilar = 460 mg/dL; cetonúria: traços. Qual medicação 
+antidiabética deve ser evitada nesse contexto clínico? 
+ 
+A) Liraglutida. 
+B) Alogliptina. 
+C) Acarbose. 
+D) Insulina. 
+E) Dapagliflozina. 
+ 
+ 
+4- Mulher, 69 anos, é admitida na Emergência por febre há 8 dias e piora da dispneia há 2 dias, 
+sem outros sintomas. Portadora de prótese valvar mitral mecânica implantada há 6 anos; 
+encontrava-se em classe funcional NYHA I antes da piora recente. Exame cardíaco com bulhas 
+normofonéticas e clique metálico de prótese; demais achados sem novidades, exceto 
+temperatura axilar de 38,2 °C. ECG, radiografia de tórax e ecocardiograma transtorácico sem 
+alterações. Considerando a principal hipótese diagnóstica, qual exame de imagem deve ser 
+solicitado? 
+ 
+A) Tomografia computadoriza de tórax. 
+B) Tomografia computadoriza de abdômen. 
+C) Ecocardiograma transesofágico. 
+D) Ressonância magnética cardíaca. 
+E) Cintilografia miocárdica. 
+ 
+ 
+5- Homem, 81 anos, sofreu queda em casa e fraturou o colo do fêmur esquerdo há 3 dias, 
+estando internado para correção cirúrgica. AP: HAS em uso de losartana. Exame físico: dor à 
+mobilização do membro inferior E e equimose em face lateral da coxa; pequenos linfonodos 
+cervicais e axilares (0,5-1 cm), móveis e indolores. Exames laboratoriais pré-operatórios: Hb = 
+12,9 g/dL; Ht = 39%; plaquetas = 262.000/mm³; leucócitos = 58.700/mm³ (contagem 
+diferencial = 2.900 neutrófilos/mm³; 55.000 linfócitos/mm³; 450 eosinófilos/mm³; 350 
+monócitos/mm³); DHL = 310 U/L (VN 120-246); ácido úrico = 5,1 mg/dL; PCR = 1,1 mg/dL; Cr = 
+1,0 mg/dL; Ureia = 41 mg/dL. Assinale a alternativa correta: 
+ 
+A) Trata-se de leucocitose reacional ao estresse metabólico da fratura; sem necessidade de 
+abordagem adicional. Prosseguir com a cirurgia como programado. 
+B) Linfocitose reacional típica do idoso sob inflamação aguda; mediada por citocinas e 
+autolimitada após a correção do fator desencadeante. 
+C) O diagnóstico mais provável é de doença linfoproliferativa crônica (ex.: LLC). A investigação 
+pode ser feita na rotina, dado que o paciente estava assintomático, e não há contraindicação 
+para prosseguir com a cirurgia proposta. 
+D) Em idosos com fratura, leucocitose sugere infecção; coletar culturas, iniciar antibiótico 
+empírico e adiar a cirurgia até normalização clínica e laboratorial. 
+E) Hiperleucocitose com risco iminente de leucostase; indicar leucoaférese e quimioterapia 
+citorredutora de urgência, adiando indefinidamente a cirurgia. 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+4 
+6- Homem, 45 anos, etilista ativo, com cirrose hepática Child-Pugh C12 e ascite, é trazido ao 
+pronto-socorro por sonolência e desorientação há 48 horas. Há antecedente de episódio 
+semelhante há dois meses, na ocasião precipitado por constipação. Nega sangramento 
+digestivo, febre ou uso de benzodiazepínicos. Exame: asterixis presente, sonolento porém 
+desperta ao chamado, sem rigidez de nuca. Eletrólitos e hemograma sem alterações 
+significativas; TC de crânio sem alterações agudas. Qual das seguintes alternativas está correta? 
+ 
+ 
+A) Testes psicométricos e eletroencefalograma não são usados rotineiramente para estabelecer 
+a etiologia da encefalopatia hepática; o diagnóstico é clínico, após excluir causas alternativas. 
+B) Pela sonolência com resposta a estímulos verbais, o quadro deve ser classificado como 
+encefalopatia hepática grau 4. 
+C) Paracentese diagnóstica não está indicada, pois o procedimento aumenta o risco de 
+translocação bacteriana. 
+D) Há forte correlação entre gravidade clínica da encefalopatia e níveis de amônia, 
+especialmente quando superiores a 10 μmol/L. 
+E) Após resolução do episódio, não se recomenda profilaxia secundária com lactulose. 
+ 
+ 
+7- Homem, 34 anos, previamente hígido, residente em Salvador (BA), há 5 dias com febre alta 
+contínua, cefaleia intensa, mialgia e artralgias. Hoje iniciou dispneia leve. Exame: PA 100 x 62 
+mmHg, FC 96 bpm, FR 28 irpm, SpO₂ 93% em ar ambiente, 38,7 °C. Hemograma: Hb = 15,1 
+g/dL, Ht = 46%, leucócitos = 3.900/mm³, plaquetas = 72.000/mm³. Ultrassom pulmonar: linhas 
+B difusas bilaterais sem consolidação. A conduta mais adequada é: 
+ 
+A) Alta com orientações de hidratação e hemograma diário. 
+B) Alta com hemograma diário e prescrição de doxiciclina. 
+C) Internação para monitoramento da contagem de plaquetas e observação clínica. 
+D) Internação para tratamento com doxiciclina e observação clínica. 
+E) Alta com prescrição de ácido acetilsalicílico para controle da dor, por provável dengue, e 
+retorno ambulatorial. 
+ 
+ 
+8- Preencha corretamente as lacunas com os nomes dos fármacos associados às seguintes 
+descrições: 
+__________ 1: Antibiótico macrolídeo de meia-vida longa, com alta penetração intracelular, 
+que se liga à subunidade 50S do ribossomo e é usado em pneumonias atípicas e uretrite por 
+Chlamydia trachomatis. 
+__________ 2: Cefalosporina de 3ª geração com boa penetração no LCR e eliminação 
+predominantemente biliar, indicada em meningite bacteriana e gonorreia. 
+ 
+As lacunas são corretamente preenchidas, respectivamente, por: 
+ 
+A) Claritromicina, Cefazolina. 
+B) Eritromicina, Meropenem. 
+C) Doxiciclina, Cefepima. 
+D) Roxitromicina, Piperacilina. 
+E) Azitromicina, Ceftriaxona. 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+5 
+9- Mulher, 52 anos, é levada ao pronto-socorro por cefaleia em trovoada de início súbito 
+(menos de 1 minuto) há 45 minutos, acompanhada de breve síncope. Ao exame: PA 185 x 105 
+mmHg, Glasgow 15, rigidez de nuca; sem déficits focais. TC de crânio: hemorragia 
+subaracnoidea. Angio-TC: aneurisma de artéria comunicante anterior. Prescritas: analgesia 
+(dipirona/morfina), controle pressórico com nicardipina EV, nimodipina VO, e fenitoína. A 
+neurocirurgia informa disponibilidade de sala para clipagem em 1-2 horas. Qual medida 
+realizada reduz especificamente a chance de isquemia cerebral tardia? 
+ 
+A) Nitroprussiato de sódio. 
+B) Nimodipina. 
+C) Clipagem do aneurisma antes de 12 horas. 
+D) Fenitoína. 
+E) Atorvastatina em alta dose nas primeiras 24 horas. 
+ 
+ 
+10- Mulher, 79 anos, frágil e hipertensa, internada por pielonefrite. No 2º dia, evolui com 
+agitação, desorientação e inversão do ciclo sono–vigília. Exame: estado geral regular, confusa, 
+desidratada +/4+, PA 152x 70 mmHg, FC 96 bpm, FR 20 irpm, SatO₂ 95% em O₂ a 2 L/min. 
+Ausculta com roncos difusos. Sem uso de álcool ou benzodiazepínicos. Qual é o tratamento 
+medicamentoso mais adequado para a alteração comportamental? 
+ 
+A) Diazepam. 
+B) Clorpromazina. 
+C) Clonazepam. 
+D) Haloperidol. 
+E) Risperidona.  
+ 
+ 
+ 
+CIRURGIA GERAL 
+ 
+11- Em relação à terapia nutricional no paciente crítico, assinale a alternativa correta: 
+ 
+A) Em pacientes previamente bem nutridos, quando a nutrição enteral não é possível, a 
+nutrição parenteral pode ser adiada por cerca de 5-8 dias; já nos gravemente desnutridos, 
+considerar NP mais precoce. 
+B) Estudos mostram que a nutrição enteral precoce é superior ao início tardio (> 48 horas) 
+sendo, portanto, recomendada para todos pacientes críticos incapazes de se alimentar por via 
+oral. 
+C) A estratégia de hipocaloria permissiva não deve ser utilizada na fase aguda da doença crítica 
+em hipótese alguma. 
+D) É obrigatório monitorar resíduo gástrico rotineiramente antes mesmo da primeira infusão; 
+volumes > 200 mL impõem suspensão imediata da dieta enteral. 
+E) A suplementação de glutamina intravenosa de rotina é recomendada para todos os 
+pacientes críticos em NE ou NP por reduzir mortalidade. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+6 
+ 
+12- Paciente vítima de colisão auto x ônibus é trazido pelos bombeiros à sala de trauma com 
+colar cervical. À monitorização: frequência cardíaca de 140 bpm, pressão arterial de 80 x 40 
+mmHg, frequência respiratória de 36 ipm, saturação de oxigênio (com máscara de O₂) de 84%. 
+Apresenta instabilidade pélvica, equimose na parede ab

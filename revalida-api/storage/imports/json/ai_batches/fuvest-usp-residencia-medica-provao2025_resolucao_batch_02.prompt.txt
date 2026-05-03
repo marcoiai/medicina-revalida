@@ -1,0 +1,273 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/provao2025_resolucao.pdf"
+  }
+]
+
+TEXTO-BASE:
+ue tenham cursado
+integralmente o Ensino Médio em escolas públicas brasileiras (EP);
+II. após, restando vagas, essas serão transferidas para o ingresso pelo ENEM-USP 2025
+entre os candidatos autodeclarados pretos, pardos ou indígenas com renda familiar bruta
+per capita igual ou inferior a 1,5 salário mínimo, que tenham cursado integralmente o
+Ensino Médio em escolas públicas brasileiras (PPI-L2-ENEM-USP);
+III. após, restando vagas, essas serão transferidas para ingresso pelo ENEM-USP 2025 entre
+os candidatos autodeclarados pretos, pardos ou indígenas que, independente da renda,
+tenham cursado integralmente o Ensino Médio em escolas públicas brasileiras (PPI-L4-
+ENEM-USP);
+IV. após, restando vagas, essas serão transferidas para ingresso pelo ENEM-USP 2025 entre
+os candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo,
+que tenham cursado integralmente o Ensino Médio em escolas públicas brasileiras (EP-L1-
+ENEM-USP);
+V. após, restando vagas, essas serão transferidas para ingresso pelo ENEM-USP 2025 entre
+os candidatos que, independente da renda, tenham cursado integralmente o Ensino Médio
+em escolas públicas brasileiras (EP-L3-ENEM-USP);
+VI. após, restando vagas, à Ampla Concorrência (AC) do ENEM-USP 2025;
+VII. após, restando vagas, essas serão transferidas para ingresso do Concurso Vestibular da
+FUVEST 2025 entre os candidatos pretos, pardos ou indígenas, que tenham cursado
+integralmente o Ensino Médio em escolas públicas brasileiras (PPI-FUVEST);
+VIII. após, restando vagas, essas serão transferidas para ingresso do Concurso Vestibular
+da FUVEST 2025 entre os candidatos que tenham cursado integralmente o Ensino Médio
+em escolas públicas brasileiras (EP-FUVEST);
+IX. após, restando vagas, à Ampla Concorrência (AC) do Concurso Vestibular da FUVEST
+2025.
+§ 2º. Se a cada chamada da lista de espera do PROVÃO PAULISTA SERIADO não houver
+candidatos classificados em número suficiente para o preenchimento das vagas reservadas aos
+candidatos que tenham cursado integralmente o Ensino Médio em escolas públicas brasileiras
+(EP), aquelas eventualmente remanescentes serão ofertadas:
+I. essas serão transferidas para ingresso pelo ENEM-USP 2025 entre os candidatos com
+renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo, que tenham cursado
+integralmente o Ensino Médio em escolas públicas brasileiras (EP-L1-ENEM-USP);
+II. após, restando vagas, essas serão transferidas para ingresso pelo ENEM-USP 2025 entre
+os candidatos que, independentemente da renda, tenham cursado integralmente o Ensino
+Médio em escolas públicas brasileiras (EP-L3-ENEM-USP);
+Este documento pode ser verificado pelo código 2024.12.17.1.1.43.1.4.2.220.783926
+em https://www.doe.sp.gov.br/autenticidade
+5/21
+Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).
+
+
+--- PAGE 6 ---
+
+III. após, restando vagas, essas serão transferidas para ingresso pelo ENEM-USP 2025 entre
+os candidatos autodeclarados pretos, pardos ou indígenas com renda familiar bruta per
+capita igual ou inferior a 1,5 salário mínimo, que tenham cursado integralmente o Ensino
+Médio em escolas públicas brasileiras (PPI-L2-ENEM-USP);
+IV. após, restando vagas, essas serão transferidas para ingresso pelo ENEM-USP 2025 entre
+os candidatos autodeclarados pretos, pardos ou indígenas que, independente da renda,
+tenham cursado integralmente o Ensino Médio em escolas públicas brasileiras (PPI-L4-
+ENEM-USP);
+V. após, restando vagas, à Ampla Concorrência (AC) do ENEM-USP 2025;
+VI. após, restando vagas, aos candidatos inscritos para o ingresso pelo Concurso Vestibular
+da FUVEST 2025 entre candidatos que tenham cursado integralmente o Ensino Médio em
+escolas públicas brasileiras (EP-FUVEST);
+VII. após, restando vagas, essas serão transferidas para ingresso pelo Concurso Vestibular
+da FUVEST 2025 entre candidatos autodeclarados pretos, pardos ou indígenas, que
+tenham cursado integralmente o Ensino Médio em escolas públicas brasileiras (PPI-
+FUVEST);
+VIII. após, restando vagas, à Ampla Concorrência (AC) do Concurso Vestibular da FUVEST
+2025.
+§ 3º. Em caso de empate na nota final, o desempate na classificação para o curso pretendido
+será feito, sucessivamente, até que se completem as vagas, pelos seguintes critérios, nesta
+ordem:
+I. maior nota na prova de redação do PROVÃO PAULISTA SERIADO III;
+II. maior idade, respeitando o ano, mês e dia de nascimento.
+Artigo 20. As convocações das listas de espera se darão exclusivamente no site da FUVEST,
+www.fuvest.br. A USP poderá fazer contato, por meio de seus canais oficiais de comunicação (e-mail,
+telefone e similares) utilizando-se dos dados do candidato informados no momento da inscrição,
+orientando sobre os procedimentos de matrícula. Não há qualquer obrigatoriedade de convocação
+pelos citados canais e é de EXCLUSIVA RESPONSABILIDADE dos candidatos acompanhar as
+convocações, periodicamente, pelo site da FUVEST, www.fuvest.br.
+Artigo 21. Ao final das listas de espera poderá haver eventuais LISTAS DE ESPERA EXTRAS, a critério da
+USP. Ao candidato que deseje participar de tais LISTAS DE ESPERA EXTRAS, poderá ser obrigatória
+uma nova manifestação de interesse. Apenas os candidatos que manifestaram interesse em
+participar das listas de espera poderão manifestar interesse em uma eventual LISTA DE ESPERA
+EXTRA, desde que não estejam pré-matriculados ou matriculados em qualquer curso, neste processo
+seletivo de ingresso 2025. É de exclusiva responsabilidade do candidato acompanhar,
+periodicamente, no site da FUVEST, www.fuvest.br a divulgação de eventuais LISTAS DE ESPERA
+EXTRAS, observando prazos, procedimentos e documentos exigidos para matrícula, assim como
+datas e horários de atendimento definidos aos candidatos para acesso eletrônico e encaminhamento
+de documentação necessária para a matrícula.
+Este documento pode ser verificado pelo código 2024.12.17.1.1.43.1.4.2.220.783926
+em https://www.doe.sp.gov.br/autenticidade
+6/21
+Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).
+
+
+--- PAGE 7 ---
+
+DA MATRÍCULA
+Artigo 22. Os candidatos serão convocados para a matrícula, por meio de chamadas, de acordo com o
+cronograma de convocações, conforme disposto no Anexo II desta Instrução Normativa, também
+divulgado no site da VUNESP, www.vunesp.com.br, obedecendo-se o número de vagas oferecidas.
+§ 1º. A matrícula é composta por duas etapas virtuais obrigatórias, consistindo a primeira em
+uma pré-matrícula e a segunda em uma efetivação de matrícula. As duas etapas virtuais de
+matrícula serão consolidadas apenas após a validação pela Central Unificada de Matrículas da
+Pró-Reitoria de Graduação da USP dos documentos enviados pelo candidato.
+§ 2º. O candidato convocado em qualquer das 3 (três) chamadas regulares do PROVÃO
+PAULISTA SERIADO ou da(s) lista(s) de espera que deixar de realizar qualquer uma das duas
+etapas virtuais obrigatórias (etapa virtual de pré-matrícula e etapa virtual de efetivação de
+matrícula), por qualquer motivo, ou não apresentar a documentação exigida para a matrícula,
+por 
+meio 
+do 
+endereço 
+eletrônico
+https://uspdigital.usp.br/jupiterweb/graduacaoMatriculaIngressante, 
+nas 
+datas
+estabelecidas no cronograma, conforme Anexo II, perderá o direito à vaga, sendo substituído
+pelo próximo candidato da lista, respeitada a ordem de classificação e observadas as Políticas
+de Ações Afirmativas.
+Artigo 23. No ato da etapa virtual de pré-matrícula do PROVÃO PAULISTA SERIADO, o candidato
+convocado deverá, obrigatoriamente, realizar a solicitação de matrícula, dentro do prazo estabelecido
+no cronograma, conforme Anexo II, preenchendo o formulário constante no endereço eletrônico
+https://uspdigital.usp.br/jupiterweb/graduacaoMatriculaIngressante 
+e 
+enviando 
+toda 
+a
+documentação exigida, conforme definição dos artigos 24 ao 30 desta Instrução Normativa, para
+garantir o direito à vaga para a qual foi convocado.
+§1º. O candidato convocado em umas das três (3) primeiras chamadas regulares que, dentro
+dos prazos e formas previstas nesta Instrução Normativa, não concluir a etapa virtual de pré-
+matrícula, perderá o direito à vaga para a qual foi convocado, concorrendo nas listas
+subsequentes, inclusive na lista de espera, desde que tenha acessado o Portal de Escolhas,
+disponível no endereço https://provaopaulistaseriado.vunesp.com.br/, e indicado curso da USP
+como opção para concorrer na lista de espera.
+§ 2º. O candidato convocado em qualquer chamada da lista de espera que, dentro dos prazos e
+formas previstas nesta Instrução Normativa, não concluir a etapa virtual de pré-matrícula,
+perderá o direito à vaga para a qual foi convocado, encerrando a sua participação no processo
+seletivo.
+§ 3º. Ao efetivar a matrícula ou pré-matrícula a partir de qualquer uma das convocações do
+PROVÃO PAULISTA SERIADO, independentemente da instituição a qual o curso pertence, o
+candidato será automaticamente excluído das listas de convocações subsequentes e da lista de
+espera para suas demais opções de escolha. Dessa forma, ao confirmar a matrícula ou pré-
+matrícula em uma de suas opções, o candidato abdica de sua posição nas listas de espera das
+outras opções indicadas no momento de escolha dos cursos.
+DOS DOCUMENTOS PARA MATRÍCULA
+Este documento pode ser verificado pelo código 2024.12.17.1.1.43.1.4.2.220.783926
+em https://www.doe.sp.gov.br/autenticidade
+7/21
+Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).
+
+
+--- PAGE 8 ---
+
+Artigo 24. A primeira etapa de pré-matrícula virtual dos candidatos convocados para os cursos de
+graduação dependerá do preenchimento do formulário de matrícula no Sistema USP, no endereço
+eletrônico https://uspdigital.usp.br/jupiterweb/graduacaoMatriculaIngressante, acompanhado
+da frente e do verso dos seguintes documentos em formato eletrônico (PDF, JPG, PNG, GIF):
+I. Certificado de conclusão de curso do Ensino Médio ou equivalente a esse nível e
+respectivo histórico escolar, ou; diploma do Ensino Médio ou equivalente a esse nível
+de ensino e respectivo histórico escolar;
+II. documento de identidade oficial com foto;
+III. uma fotografia recente, com menos de um ano, nítida, individual, colorida, com fundo
+branco, que enquadre desde a cabeça até os ombros, de rosto inteiro, sem o uso de óculos
+escuros e artigos de chapelaria como boné, chapéu, viseira, gorro ou similares;
+IV. autodeclaração de raça, no caso de candidatos que se declararam pretos, pardos ou
+indígenas (PPI) e que, no momento da inscrição expressamente, optaram por concorrer às vagas
+PPI.
+§ 1º. Para a realização da pré-matrícula virtual, deverá ser apresentado, ainda, pelos candidatos
+de nacionalidade estrangeira, documento de identidade de estrangeiro que comprove sua
+condição temporária ou permanente no país.
+§ 2º. Em situações excepcionais, devidamente justificadas e comprovadas, candidatos que ainda
+não possuam a dupla de documentos (certificado de conclusão/diploma e histórico escolar)
+citados no inciso I do art. 24 poderão substituir esses documentos, temporariamente, por uma
+declaração de conclusão de curso contendo todas as informações exigidas no artigo 30,
+conforme Resolução CoG 7954, de 27 de maio de 2020.
+Artigo 25. É de responsabilidade exclusiva do candidato a veracidade das declarações prestadas e a
+autenticidade dos documentos digitalizados.
+Artigo 26. É de integral responsabilidade do candidato a apresentação de seus documentos em sua
+inteireza (frente e verso) e em arquivo legível.
+Artigo 27. Serão aceitos como documento de identidade oficial, a que se refere o inciso II do artigo 24,
+os seguintes documentos:
+I. documentos de identidade expedidos pelas Secretarias de Segurança Pública, pelas Forças
+Armadas, pela Polícia Militar, bem como Carteira Nacional de Habilitação (com foto) e Carteira
+de Trabalho e Previdência Social;
+II. documento de identidade de estrangeiro (CIE), Carteira de Registro Nacional

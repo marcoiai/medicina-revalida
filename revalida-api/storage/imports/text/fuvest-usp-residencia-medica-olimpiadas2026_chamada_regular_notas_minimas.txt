@@ -1,0 +1,375 @@
+
+
+--- PAGE 1 ---
+
+Competições do Conhecimento 2026 
+Relação de notas mínimas dos candidatos aprovados na Chamada Regular 
+ 
+Código 
+Nome 
+Classificação 
+do último 
+convocado 
+2 
+EACH - Ciências da Natureza - noturno (Licenciatura) 
+321 
+1 
+EACH - Educação Física e Saúde - integral (Bacharelado) 
+450 
+3 
+EACH - Gestão Ambiental - matutino (Bacharelado) 
+531 
+7 
+EACH - Marketing - matutino (Bacharelado) 
+206 
+8 
+EACH - Marketing - noturno (Bacharelado) 
+197 
+4 
+EACH - Obstetrícia - integral (Bacharelado) 
+280 
+5 
+EACH - Sistemas de Informação - matutino (Bacharelado) 
+309 
+6 
+EACH - Sistemas de Informação - noturno (Bacharelado) 
+221 
+9 
+EE - Enfermagem - integral (Bacharelado/Licenciatura) 
+141 
+10 
+EEFERP - Educação Física - integral (Bacharelado) 
+229 
+16 
+EEL - Engenharia Ambiental - integral (Bacharelado) 
+314 
+11 
+EEL - Engenharia Bioquímica - integral (Bacharelado) 
+223 
+17 
+EEL - Engenharia de Materiais - integral (Bacharelado) 
+318 
+12 
+EEL - Engenharia de Produção - noturno (Bacharelado 
+191 
+13 
+EEL - Engenharia Física - integral (Bacharelado) 
+210 
+14 
+EEL - Engenharia Química - integral (Bacharelado) 
+88 
+15 
+EEL - Engenharia Química - noturno (Bacharelado 
+301 
+18 
+EERP - Enfermagem - integral (Bacharelado) 
+369 
+19 
+EERP - Enfermagem - noturno (Licenciatura e Bacharelado)  
+109 
+26 
+EESC - Eng. Elétrica - Ênf. Sistemas de Energia e Automação - integral 
+(Bacharelado) 
+135 
+24 
+EESC - Engenharia Aeronáutica - integral (Bacharelado)  
+37 
+23 
+EESC - Engenharia Ambiental - integral (Bacharelado)  
+305 
+21 
+EESC - Engenharia Civil - integral (Bacharelado)  
+97 
+29 
+EESC - Engenharia de Computação - integral (Bacharelado) 
+19 
+27 
+EESC - Engenharia de Materiais e Manufatura - integral (Bacharelado) 
+188 
+22 
+EESC - Engenharia de Produção - integral (Bacharelado) 
+194 
+25 
+EESC - Engenharia Elétrica - Ênfase em Eletrônica - integral (Bacharelado) 
+110 
+20 
+EESC - Engenharia Mecânica - integral (Bacharelado) 
+62 
+28 
+EESC - Engenharia Mecatrônica - integral (Bacharelado) 
+172 
+40 
+EP - Engenharia Ambiental - integral (Bacharelado)  
+146 
+30 
+EP - Engenharia Civil - integral (Bacharelado) 
+49 
+39 
+EP - Engenharia de Computação - integral (Bacharelado)  
+10 
+33 
+EP - Engenharia de Minas/Petróleo - Ciclo Básico- integral (Bacharelado) 
+35 
+EP - Engenharia de Produção - integral (Bacharelado) 
+77 
+31 
+EP - Engenharia Elétrica - Ciclo Básico - integral (Bacharelado)  
+7 
+32 
+EP - Engenharia Mecânica - integral (Bacharelado) 
+33 
+38 
+EP - Engenharia Mecatrônica - integral (Bacharelado) 
+9 
+34 
+EP - Engenharia Naval e Oceânica - integral (Bacharelado) 
+36 
+36 
+EP - Engenharia Química - integral (Bacharelado)  
+27 
+37 
+EP - Eng. Materiais/Metalúrgica/Nuclear - Ciclo Básico - integral (Bacharelado)  
+38 
+
+
+--- PAGE 2 ---
+
+Competições do Conhecimento 2026 
+Relação de notas mínimas dos candidatos aprovados na Chamada Regular 
+ 
+46 
+ESALQ - Administração - integral (Bacharelado) 
+400 
+45 
+ESALQ - Ciências Biológicas - noturno (Bacharelado/Licenciatura)  
+289 
+43 
+ESALQ - Ciências dos Alimentos - noturno (Bacharelado) 
+345 
+44 
+ESALQ - Ciências Econômicas - integral (Bacharelado)  
+311 
+41 
+ESALQ - Engenharia Agronômica - integral (Bacharelado)  
+264 
+42 
+ESALQ - Engenharia Florestal - integral (Bacharelado) 
+449 
+47 
+ESALQ - Gestão Ambiental - noturno (Bacharelado) 
+48 
+FAU - Arquitetura e Urbanismo - integral (Bacharelado) 
+205 
+49 
+FAU - Design - noturno (Bacharelado) 
+324 
+50 
+FCF - Farmácia - integral (Bacharelado)  
+15 
+51 
+FCFRP - Farmácia - integral (Bacharelado) 
+143 
+52 
+FEA - Administração - integral (Bacharelado) 
+308 
+53 
+FEA - Administração - noturno (Bacharelado) 
+173 
+54 
+FEA - Ciências Atuariais - noturno (Bacharelado) 
+357 
+55 
+FEA - Ciências Contábeis - noturno (Bacharelado) 
+293 
+56 
+FEA - Ciências Econômicas - integral (Bacharelado) 
+11 
+57 
+FEA - Ciências Econômicas - noturno (Bacharelado)  
+16 
+58 
+FFCLRP - Biblioteconomia e Ciência da Informação - noturno (Bacharelado) 
+227 
+59 
+FFCLRP - Ciência da Computação - integral (Bacharelado) 
+59 
+60 
+FFCLRP - Física Médica - integral (Bacharelado) 
+163 
+61 
+FFCLRP - Matemática Aplicada a Negócios - integral (Bacharelado) 
+368 
+63 
+FFCLRP - Química - integral (Bacharelado)  
+340 
+62 
+FFCLRP - Química - noturno (Licenciatura e Bacharelado) 
+356 
+65 
+FFLCH - Ciências Sociais - noturno (Bacharelado/Licenciatura) 
+169 
+64 
+FFLCH - Ciências Sociais - vespertino (Bacharelado/Licenciatura) 
+164 
+67 
+FFLCH - Geografia - noturno (Bacharelado/Licenciatura)  
+66 
+FFLCH - Geografia - vespertino (Bacharelado/Licenciatura)  
+113 
+69 
+FFLCH - História - noturno (Bacharelado/Licenciatura) 
+68 
+FFLCH - História - vespertino (Bacharelado/Licenciatura)  
+73 
+FMBRU - Medicina - integral (Bacharelado) 
+13 
+70 
+FM - Fonoaudiologia - integral (Bacharelado)  
+239 
+71 
+FM - Medicina - integral (Bacharelado) 
+6 
+74 
+FMRP - Ciências Biomédicas - integral (Bacharelado) 
+183 
+75 
+FMRP - Informática Biomédica - integral (Bacharelado) 
+265 
+76 
+FMRP - Nutrição e Metabolismo - integral (Bacharelado)  
+220 
+72 
+FM - Terapia Ocupacional - integral (Bacharelado 
+267 
+77 
+FMVZ - Medicina Veterinária - integral (Bacharelado) 
+152 
+78 
+FSP - Nutrição - matutino (Bacharelado) 
+214 
+79 
+FSP - Nutrição - noturno (Bacharelado) 
+80 
+FZEA - Engenharia de Alimentos - integral (Bacharelado) 
+307 
+81 
+FZEA - Engenharia de Alimentos - noturno (Bacharelado) 
+352 
+82 
+FZEA - Engenharia de Biossistemas - integral (Bacharelado) 
+285 
+83 
+FZEA - Medicina Veterinária - integral (Bacharelado) 
+132 
+84 
+FZEA - Zootecnia - integral (Bacharelado) 
+535 
+85 
+IAG - Astronomia - integral (Bacharelado) 
+
+
+--- PAGE 3 ---
+
+Competições do Conhecimento 2026 
+Relação de notas mínimas dos candidatos aprovados na Chamada Regular 
+ 
+86 
+IAG - Geofísica - integral (Bacharelado) 
+107 
+87 
+IAG - Meteorologia - integral (Bacharelado) 
+521 
+88 
+IB - Ciências Biológicas - Integral (Bacharelado/Licenciatura)  
+8 
+89 
+IB - Ciências Biológicas - Noturno (Bacharelado/Licenciatura) 
+139 
+90 
+ICB - Ciências Biomédicas - integral (Bacharelado) 
+52 
+96 
+ICMC - Ciência de Dados - integral (Bacharelado)  
+255 
+91 
+ICMC - Ciências de Computação - integral (Bacharelado) 
+64 
+95 
+ICMC - Estatística e Ciência de Dados - noturno (Bacharelado) 
+263 
+94 
+ICMC - Matemática Aplicada e Computação Científica - integral (Bacharelado) 
+304 
+93 
+ICMC - Matemática - Núcleo Geral - integral (Bacharelado/Licenciatura) 
+179 
+92 
+ICMC - Sistemas de Informação - noturno (Bacharelado)  
+296 
+97 
+IF - Física - integral (Bacharelado) 
+118 
+99 
+IF - Física - integral (Licenciatura) 
+423 
+101 
+IF - Física Médica- noturno (Bacharelado)  
+184 
+98 
+IF - Física - noturno (Bacharelado)  
+43 
+100 
+IF - Física - noturno (Licenciatura)  
+337 
+105 
+IFSC - Ciências Exatas - noturno (Licenciatura) 
+541 
+104 
+IFSC - Física Biomolecular - integral (Bacharelado)  
+358 
+103 
+IFSC - Física Computacional - integral (Bacharelado) 
+232 
+102 
+IFSC - Física - integral (Bacharelado) 
+343 
+107 
+IGc - Geociências e Educação Ambiental - noturno (Licenciatura) 
+565 
+106 
+IGc - Geologia - integral (Bacharelado) 
+212 
+108 
+IME - Ciência da Computação - integral (Bacharelado) 
+5 
+109 
+IME - Estatística - integral (Bacharelado) 
+157 
+111 
+IME - Matemática Aplicada e Computacional - noturno (Bacharelado) 
+170 
+110 
+IME - Matemática Aplicada - integral (Bacharelado) 
+114 
+112 
+IME - Matemática - matutino (Licenciatura) 
+82 
+113 
+IME - Matemática - noturno (Licenciatura)  
+112 
+114 
+IO - Oceanografia - integral (Bacharelado) 
+44 
+115 
+IP - Psicologia - integral (Bacharelado/Licenciatura/Psicólogo)  
+154 
+116 
+IQ - Química - integral (Bacharelado/Licenciatura) 
+272 
+117 
+IQ - Química - noturno (Bacharelado/Licenciatura)  
+32 
+118 
+IQSC - Química - integral (Bacharelado) 
+411 
+ 

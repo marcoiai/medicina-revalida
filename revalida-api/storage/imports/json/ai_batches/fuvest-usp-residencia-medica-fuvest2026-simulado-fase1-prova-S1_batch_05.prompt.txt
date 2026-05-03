@@ -1,0 +1,380 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/fuvest2026-simulado-fase1-prova-S1.pdf"
+  }
+]
+
+TEXTO-BASE:
+ões.¬ Talvez¬ não¬ seja¬ novidade¬ para¬
+ninguém¬e¬eu¬seja¬só¬a¬tia¬atrasada¬do¬rolê.¬Talvez¬todo¬mundo¬
+ache¬que¬a¬vida¬é¬assim,¬mas¬quando¬percebi¬a¬mutreta,¬achei¬
+muito¬
+esperto¬
+e,¬
+também,¬
+bastante¬
+desonesto.¬
+São¬
+celebridades¬e¬perfis¬que¬ganharam¬projeção¬com¬fofocas¬do¬
+meio¬artístico,¬cobertura¬sobre¬a¬programação¬de¬TV,¬que¬hoje¬
+abrange¬ o¬ streaming,¬ alguns¬ com¬ comentários¬ bem-
+humorados¬ e,¬ muitas¬ vezes,¬ críticas¬ bastante¬ ácidas.¬ Eu¬
+passei¬a¬seguir¬algumas¬dessas¬páginas,¬que¬muitas¬vezes¬
+nem¬rosto¬têm,¬por¬causa¬do¬humor¬e¬das¬sacadas¬geniais¬
+para¬zombar¬da¬vida¬e¬de¬gente¬famosa.¬Não¬foi¬de¬cara¬que¬
+percebi¬a¬repetição¬do¬mesmo¬padrão,¬foto¬ou¬vídeo¬postados¬
+não¬ vêm¬ mais¬ com¬ uma¬ legenda¬ opinativa,¬ mas¬ com¬ a¬
+descrição¬do¬episódio¬—¬às¬vezes,¬nem¬isso,¬e¬uma¬pergunta:¬
+"o¬ que¬ vocês¬ acharam¬ disso?",¬ "qual¬ dos¬ dois¬ está¬ certo?",¬
+"fulano¬tem¬razão?"¬Quem¬está¬distraído¬pode¬até¬pensar¬que¬
+a¬boa¬alma,¬que¬quase¬sempre¬tem¬milhões¬de¬seguidores,¬
+quer¬dar¬voz¬ao¬seguidor,¬abrir¬espaço¬para¬que¬todos¬deem¬
+sua¬opinião,¬democratizar¬o¬debate.¬Na¬prática,¬é¬só¬um¬jeito¬
+de¬conseguir¬muito¬engajamento¬sem¬expor¬a¬própria¬opinião,¬
+sem¬fazer¬nenhum¬esforço¬de¬reflexão,¬sem¬correr¬o¬risco¬de¬
+ser¬cancelado¬por¬desagradar¬A¬ou¬B.¬Muitos¬desses¬perfis¬
+romperam¬ a¬ barreira¬ do¬ assunto¬ entretenimento¬ e¬ possuem¬
+também¬ conteúdo¬ político.¬ Quem¬ resiste,¬ não¬ é¬ mesmo?¬
+Parece¬que¬se¬você¬não¬falar¬de¬política¬nos¬dias¬de¬hoje,¬você¬
+nem¬existe.¬Mas¬como¬falar¬do¬assunto¬para¬quem¬só¬está¬ali¬
+porque¬quer¬ver¬as¬tretas¬sobre¬o¬BBB?¬Posando¬de¬isentão.¬
+Mariliz¬Pereira¬Jorge.¬Os¬influenciadores¬isentões.¬Folha¬de¬S.¬Paulo.¬
+31.05.2022.¬Adaptado.¬
+¬
+38 
+A¬pose¬de¬isentão¬no¬texto¬é¬melhor¬caracterizada¬pelo¬excerto:¬
+¬
+(A) “Há¬ um¬ fenômeno¬ interessante¬ nas¬ redes¬ sociais,¬ os¬
+influenciadores¬ isentões.¬ Talvez¬ não¬ seja¬ novidade¬ para¬
+ninguém¬e¬eu¬seja¬só¬a¬tia¬atrasada¬do¬rolê".¬¬
+(B) "quase¬sempre¬tem¬milhões¬de¬seguidores,¬quer¬dar¬voz¬
+ao¬ seguidor,¬ abrir¬ espaço¬ para¬ que¬ todos¬ deem¬ sua¬
+opinião,¬democratizar¬o¬debate”.¬
+(C) ”um¬ jeito¬ de¬ conseguir¬ muito¬ engajamento¬ sem¬ correr¬ o¬
+risco¬de¬ser¬cancelado¬por¬desagradar¬A¬ou¬B”.¬
+(D) “Muitos¬ desses¬ perfis¬ romperam¬ a¬ barreira¬ do¬ assunto¬
+entretenimento¬e¬possuem¬também¬conteúdo¬político".¬
+(E) “Mas¬como¬falar¬do¬assunto¬para¬quem¬só¬¬está¬ali¬porque¬
+quer¬ver¬as¬tretas¬sobre¬o¬BBB?”¬
+ 
+¬
+39 
+No¬trecho¬“Parece¬que¬se¬você¬não¬falar¬de¬política¬nos¬dias¬
+de¬hoje,¬você¬nem¬existe",¬o¬uso¬do¬pronome¬“você"¬
+¬
+(A) refere-se¬ exclusivamente¬ à¬ pessoa¬ que¬ lê¬ o¬ texto¬ e¬
+constitui¬atributo¬do¬gênero¬textual¬em¬questão.¬
+(B) apresenta¬ o¬ mesmo¬ sentido¬ dos¬ pronomes¬ pessoais¬
+“ela/ele”.¬
+(C) integra¬uma¬estratégia¬argumentativa¬formal,¬excluindo¬o¬
+leitor¬da¬discussão¬em¬curso.¬
+(D) indica¬ polidez¬ no¬ tratamento¬ com¬ o¬ leitor,¬ mas¬ o¬
+responsabiliza¬pelo¬que¬circula¬nas¬redes¬sociais.¬
+(E) apresenta¬ caráter¬ genérico,¬ reforçando¬ o¬ alcance¬ da¬
+mensagem¬que¬se¬pretende¬expressar.¬
+ 
+¬
+¬
+40 
+Tenho¬uma¬filha¬crescida¬que¬ainda¬estuda¬embora¬já¬tenha¬
+estudado¬muito.¬Um¬dia¬disse-me¬(...)¬Que¬a¬terra¬é¬a¬mãe¬da¬
+natureza¬e¬tudo¬suporta¬para¬parir¬a¬vida.¬Como¬a¬mulher.¬Os¬
+golpes¬ da¬ vida¬ a¬ mulher¬ suporta¬ no¬ silêncio¬ da¬ terra.¬ Na¬
+amargura¬suave¬segrega¬um¬líquido¬triste¬e¬viscoso¬como¬o¬
+melão.¬Quem¬já¬viajou¬no¬mundo¬da¬mulher?¬Quem¬ainda¬não¬
+foi,¬que¬vá.¬Basta¬dar¬um¬golpe¬profundo,¬profundo,¬que¬do¬
+centro¬vermelho¬explodirá¬um¬fogo¬mesmo¬igual¬à¬erupção¬de¬
+um¬vulcão.¬
+Paulina¬Chiziane.¬Balada¬de¬amor¬ao¬vento.¬
+¬
+A¬ citação¬ apresentada¬ estabelece¬ argumentos¬ que¬ serão¬
+desenvolvidos¬ ao¬ longo¬ do¬ romance¬ de¬ Paulina¬ Chiziane.¬
+Considerando¬a¬comparação¬que¬constitui¬esse¬argumento,¬é¬
+correto¬afirmar:¬
+¬
+(A) A¬comparação¬da¬mulher¬com¬a¬terra,¬força¬geradora¬da¬
+vida,¬ecoa¬em¬Sarnau.¬Contudo,¬apesar¬de¬experimentar¬
+a¬ maternidade¬ e¬ ter¬ de¬ lidar¬ com¬ as¬ tradições,¬ a¬
+conclusão¬da¬narrativa¬informa¬que¬ela¬não¬encontra¬seu¬
+lugar¬na¬sociedade.¬
+(B) A¬ideia¬de¬que¬a¬mulher¬suporta¬os¬"golpes¬da¬vida¬no¬
+silêncio¬ da¬ terra"¬ reflete¬ apenas¬ as¬ experiências¬ de¬
+Sarnau.¬ As¬ outras¬ personagens¬ femininas¬ do¬ romance¬
+não¬compartilham¬do¬mesmo¬sofrimento.¬
+(C) Ao¬narrar¬a¬vida¬de¬Sarnau,¬o¬romance¬convida¬a¬"viajar¬
+no¬ mundo¬ da¬ mulher",¬ dando¬ voz¬ às¬ experiências¬ e¬
+complexidades¬ da¬ vida¬ feminina¬ em¬ Moçambique¬ e¬
+expondo¬um¬universo¬bem¬compreendido¬pelos¬homens.¬
+(D) A¬ metáfora¬ do¬ vulcão¬ que¬ explode¬ de¬ um¬ "centro¬
+vermelho"¬ ao¬ receber¬ um¬ "golpe¬ profundo"¬ relaciona-se¬
+aos¬momentos¬de¬ruptura¬com¬as¬tradições¬e¬à¬resistência¬
+de¬Sarnau¬à¬pressão¬social.¬
+(E) O¬trecho¬sugere¬haver¬uma¬força¬feminina¬oculta¬capaz¬
+de¬explodir¬em¬face¬da¬violência,¬mas¬a¬comparação¬da¬
+mulher¬ com¬ a¬ terra,¬ enfatizando¬ o¬ silêncio¬ e¬ a¬ dor¬
+suportada,¬ reflete¬ a¬ atitude¬ passiva¬ com¬ que¬ Sarnau¬
+reage¬às¬adversidades¬de¬sua¬jornada.¬
+ 
+¬
+41 
+No¬quadro¬a¬seguir,¬são¬reproduzidos¬três¬trocadilhos,¬frases¬
+que¬possuem¬a¬função¬de¬serem¬engraçadas.¬
+I¬don’t¬trust¬stairs¬because¬they’re¬always¬up¬to¬something.¬
+I¬was¬wondering¬why¬the¬ball¬was¬getting¬bigger.¬Then¬it¬
+hit¬me.¬
+I¬can’t¬believe¬I¬got¬fired¬from¬the¬calendar¬factory.¬All¬I¬did¬
+was¬take¬a¬day¬off!¬
+Disponível¬em¬https://parade.com/1024249/marynliles/.¬
+¬
+O¬efeito¬de¬humor¬dos¬trocadilhos¬decorre¬da¬compreensão¬da¬
+¬
+(A)¬aproximação¬ de¬ termos¬ com¬ sentidos¬ diversos¬ e¬
+pronúncias¬semelhantes.¬
+(B)¬mudança¬da¬ordem¬sintática¬das¬palavras¬em¬relação¬ao¬
+uso¬cotidiano¬da¬linguagem.¬
+(C)¬diferença¬ entre¬ o¬ significado¬ literal¬ e¬ o¬ significado¬
+conotativo¬das¬expressões¬idiomáticas¬usadas.¬
+(D)¬adoção¬de¬vocábulos¬eruditos¬consagrados¬pela¬tradição¬
+literária¬da¬língua¬inglesa.¬¬
+(E)¬utilização¬ de¬ recursos¬ sonoros¬ como¬ aliterações¬ e¬
+onomatopeias¬para¬criar¬interpretações¬absurdas.¬
+ 
+¬
+
+
+--- PAGE 14 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S1 
+42 
+Um¬self¬social¬deste¬tipo¬pode¬ser¬chamado¬de¬self¬refletido¬
+ou¬self¬espelho.¬Ao¬ver¬nossa¬face,¬imagem¬e¬vestimenta¬no¬
+espelho,¬e¬ao¬estarmos¬interessados¬neles¬por¬serem¬nossos,¬
+e¬satisfeitos¬ou¬não¬com¬eles¬dependendo¬de¬corresponderem¬
+ou¬não¬ao¬que¬gostaríamos¬que¬fossem;¬então,¬na¬imaginação,¬
+nós¬percebemos¬na¬mente¬do¬outro¬algum¬pensamento¬sobre¬
+nossa¬aparência,¬nosso¬jeito,¬nossos¬objetivos,¬atos,¬caráter,¬
+amigos¬ etc.,¬ e¬ somos¬ afetados¬ por¬ isso.¬ Uma¬ ideia¬ de¬ self¬
+deste¬tipo¬parece¬ter¬três¬elementos¬principais:¬a¬imaginação¬
+da¬ nossa¬ aparência¬ para¬ a¬ outra¬ pessoa;¬ a¬ imaginação¬ do¬
+julgamento¬que¬o¬outro¬faz¬dessa¬aparência,¬e¬algum¬tipo¬de¬
+sentimento¬sobre¬si,¬tal¬como¬orgulho¬ou¬mortificação.¬O¬que¬
+nos¬move¬para¬o¬orgulho¬ou¬vergonha¬não¬é¬o¬mero¬reflexo¬
+mecânico¬ de¬ nós,¬ mas¬ um¬ sentimento¬ imputado,¬ o¬ efeito¬
+imaginado¬deste¬reflexo¬na¬mente¬do¬outro.¬
+Charles¬Horton¬Cooley.¬Human¬nature¬and¬public¬order.¬(Revised¬edition).¬
+New¬York:¬Charles¬Scribner's¬Sons,¬1922.¬Adaptado.¬
+¬
+De¬que¬maneira¬é¬possível¬compreender¬os¬efeitos¬de¬redes¬
+sociais¬como¬o¬Instagram¬na¬saúde¬mental¬e¬vida¬dos¬jovens¬
+a¬ partir¬ da¬ noção¬ de¬ “self-refletido”¬ /¬ “self-espelho”¬
+desenvolvida¬pelo¬sociólogo¬Charles¬Cooley?¬
+¬
+(A) Ao¬ compartilhar¬ fotos¬ nas¬ redes¬ sociais,¬ os¬ jovens¬
+conseguem¬acessar¬os¬julgamentos¬objetivos¬dos¬outros¬
+sobre¬ si¬ que¬ definem¬ o¬ seu¬ self¬ e,¬ com¬ isso,¬ tornam-se¬
+inseguros.¬
+(B) O¬ compartilhamento¬ de¬ fotos¬ nas¬ redes¬ sociais¬ permite¬
+que¬os¬jovens¬julguem¬com¬maior¬precisão¬a¬imagem¬dos¬
+outros¬ e,¬ com¬ isso,¬ tornem-se¬ menos¬ confiantes¬ para¬
+apresentar¬o¬seu¬verdadeiro¬self.¬
+(C) Nas¬redes¬sociais,¬os¬jovens¬criam¬um¬self¬dissociado¬da¬
+avaliação¬que¬os¬outros¬fazem¬dele¬e,¬por¬isso,¬tornam-se¬
+ansiosos¬e¬inseguros¬com¬a¬sua¬própria¬imagem.¬
+(D) O¬compartilhamento¬de¬fotos¬nas¬redes¬sociais¬faz¬com¬
+que¬os¬jovens¬fiquem¬excessivamente¬preocupados¬com¬a¬
+imagem¬ dos¬ outros¬ e¬ parem¬ de¬ se¬ preocupar¬ com¬ a¬
+autoimagem,¬gerando¬baixa¬autoestima.¬
+(E) A¬ imagem¬ idealizada¬ dos¬ outros¬ retratada¬ pelas¬ fotos¬
+compartilhadas¬ nas¬ redes¬ sociais¬ torna¬ irreais¬ os¬
+parâmetros¬de¬julgamento¬de¬si¬imaginados¬pelos¬jovens,¬
+gerando¬baixa¬autoestima.¬
+ 
+¬
+43 
+¬
+Disponível¬em¬https://cultura.estadao.com.br/.¬
+¬
+Contribui¬ para¬ o¬ efeito¬ de¬ humor¬ da¬ tirinha¬ a¬ fala¬ final¬ de¬
+Calvin,¬no¬quarto¬quadrinho,¬em¬que¬ele¬se¬mostra¬
+¬
+(A) orgulhoso¬de¬ter¬culpado¬o¬pai¬pelo¬seu¬comportamento¬
+inconsequente.¬
+(B) satisfeito¬ por¬ ter¬ que¬ assumir¬ uma¬ responsabilidade¬
+transmitida¬pelo¬pai.¬
+(C) seguro¬ de¬ que¬ o¬ pai¬ poderia¬ voltar¬ atrás¬ em¬ relação¬ à¬
+ordem¬dada.¬
+(D) frustrado¬ por¬ ter¬ falhado¬ em¬ persuadir¬ o¬ pai¬ com¬ sua¬
+argumentação.¬
+(E) inconformado¬ com¬ a¬ influência¬ que¬ o¬ pai¬ é¬ capaz¬ de¬
+exercer¬sobre¬ele.¬
+ 
+¬
+44 
+viii. Canção de matar  
+¬
+Do¬dia¬nada¬sei¬
+¬
+O¬teu¬amor¬em¬mim¬
+Está¬como¬o¬gume¬
+De¬uma¬faca¬nua¬¬
+Ele¬me¬atravessa¬
+E¬atravessa¬os¬dias¬
+Ele¬me¬divide¬¬
+¬
+Tudo¬o¬que¬em¬mim¬vive¬¬
+Traz¬dentro¬uma¬faca¬¬
+O¬teu¬amor¬em¬mim¬¬
+Que¬por¬dentro¬me¬corta¬
+¬
+Com¬uma¬faca¬limpa¬¬
+Me¬libertarei¬¬
+Do¬teu¬sangue¬que¬põe¬
+Na¬minha¬alma¬nódoas¬
+¬
+O¬teu¬amor¬em¬mim¬¬
+De¬tudo¬me¬separa¬¬
+No¬gume¬de¬uma¬faca¬¬
+O¬meu¬viver¬se¬corta¬¬
+¬
+Do¬dia¬nada¬sei¬¬
+E¬a¬própria¬noite¬azul¬
+Me¬fecha¬a¬sua¬porta¬
+¬
+Do¬dia¬nada¬sei¬¬
+Com¬uma¬faca¬limpa¬¬
+Me¬libertarei.¬
+Sophia¬de¬Mello¬Breyner¬Andresen.¬O¬Cristo¬cigano¬(Grifos¬nossos).¬
+¬
+O¬ Cristo¬ cigano¬ é¬ um¬ poema¬ narrativo,¬ dividido¬ em¬ onze¬
+poemas¬numerados¬e¬um¬prefácio.¬A¬palavra¬faca¬é¬repetida¬
+diversas¬ vezes,¬ assumindo¬ diferentes¬ possibilidades¬ de¬
+significação.¬No¬texto,¬a¬palavra¬faca¬indica¬a¬separação¬
+¬
+(A) de¬objetos:¬a¬escultura¬de¬Cristo¬e¬o¬rosto¬do¬cigano¬que¬a¬
+inspirará.¬
+(B) em¬partes¬do¬sujeito¬poético:¬o¬que¬mata¬e¬o¬que¬ama.¬
+(C) em¬partes¬de¬um¬mesmo¬ato:¬esculpir¬e¬matar.¬
+(D) das¬ vozes¬ que¬ compõem¬ o¬ poema:¬ o¬ escultor¬ e¬ o¬
+assassino.¬
+(E) da¬noite¬e¬do¬dia,¬a¬sombra¬que¬recobre¬toda¬a¬narrativa.¬
+ 
+¬
+¬
+¬
+
+
+--- PAGE 15 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S1 
+Texto para as questões 45 e 46 
+ 
+Returning¬to¬my¬hometown¬is¬an¬occasion¬not¬to¬worry¬about¬
+street¬parking¬or¬dinner¬reservations.¬But¬on¬April¬8¬—¬thanks¬to¬
+the¬region’s¬position¬in¬the¬path¬of¬the¬total¬solar¬eclipse¬—¬I’ll¬be¬
+among¬ the¬throngs¬ of¬ out-of-towners¬ donning¬funky¬glasses¬to¬
+watch¬the¬sun¬disappear¬behind¬the¬moon’s¬shadow.¬In¬a¬small¬
+town¬ in¬ the¬ USA¬ a¬ judge¬ has¬ already¬ declared¬ a¬ state¬ of¬
+emergency¬in¬anticipation¬of¬the¬population¬doubling¬or¬tripling¬in¬
+the¬days¬leading¬up¬to¬the¬eclipse.¬Maybe¬you¬don’t¬plan¬to¬be¬
+among¬the¬solar¬pilgrims¬battling¬highway¬gridlock.¬Maybe¬you¬
+are¬wondering¬if¬people¬have¬lost¬their¬minds.¬Why¬all¬the¬fuss¬
+about¬a¬predictable¬alignment¬of¬the¬Earth,¬moon¬and¬sun?¬
+Here’s¬a¬reason¬to¬give¬in¬to¬eclipse-mania.¬Post-pandemic,¬
+many¬of¬us¬feel¬less¬a¬part¬of¬our¬communities.¬In¬a¬polarized¬world,¬
+we¬lack¬common¬cause.¬Amid¬this¬disconnection¬and¬alienation,¬a¬
+solar¬eclipse¬is¬an¬opportunity¬not¬only¬for¬awe¬and¬wonder—¬but¬
+for¬binding¬ourselves¬to¬the¬past¬and¬future¬of¬humanity.¬¬
+People¬ have¬ been¬ looking¬ up¬ to¬ the¬ stars¬ for¬ answers¬ for¬
+millennia,¬ whether¬ it¬ was¬ to¬ know¬ the¬ will¬ of¬ their¬ gods¬ or¬ to¬
+navigate¬ their¬ ships¬ across¬ unknown¬ seas.¬ The¬ solar¬ eclipse¬
+carried¬omens¬for¬the¬ancient¬Mayans¬and¬Greeks.¬We¬can¬only¬
+imagine¬what¬it¬might¬mean¬to¬our¬descendants¬in¬the¬future,¬or¬to¬
+the¬artificial¬intelligence¬overlords¬that¬might¬govern¬them.¬What¬
+we¬do¬know¬is¬that¬total¬eclipses¬will¬recur¬for¬the¬next¬half-billion¬
+years,¬and¬that¬as¬long¬as¬people¬inhabit¬Earth,¬these¬events¬will¬
+be¬a¬spectacle¬if¬only¬for¬their¬rarity.¬
+Total¬ solar¬ eclipses¬ happen¬ about¬ once¬ every¬ year¬ to¬ three¬
+years,¬but¬most¬are¬visible¬only¬from¬the¬poles¬or¬the¬middle¬of¬the¬
+ocean.¬From¬any¬specific¬location,

@@ -1,0 +1,468 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/provao2026_chamada_3.pdf"
+  }
+]
+
+TEXTO-BASE:
+50753 - Gestão Comercial - Noite - Fatec Assis - "Prof. Dr. José Luiz Guimarães"
+A
+BERNARDO DE SOUZA NUNES
+***235.288**
+FATEC - 2571003 - Fabricação Mecânica - Noite - Fatec Itaquera - "Prof. Miguel Reale" - Município de São Paulo
+A
+BETUEL ALEXANDRE DE PAULA RODRIGUES GOMES
+***437.238**
+FATEC - 1270643 - Gestão Empresarial - Noite - Fatec Cruzeiro – “Prof. Waldomiro May”
+C
+BIANCA CAETANO DE LUNA
+***992.798**
+FATEC - 2091303 - Design de Mídias Digitais - Noite - Fatec Barueri – “Padre Danilo José de Oliveira Ohl”
+A
+BIANCA CRISTINA DA SILVA ANTONIO
+***592.978**
+FATEC - 2690773 - Gestão da Produção Industrial - Noite - Fatec São Carlos
+A
+BIANCA CRISTINA MACHADO LIMA
+***503.469**
+FATEC - 3011053 - Controle de Obras - Noite - Fatec Votorantim - "Benedicto Pagliato"
+A
+BIANCA GOMES PEREIRA
+***492.988**
+FATEC - 3111603 - Gestão da Sustentabilidade Ambiental, Social e Governança Corporativa - Noite - Fatec Rio Claro
+C
+BIANCA NEVES GALDINO
+***341.218**
+UNESP - 034 - Ciências Sociais - Bacharelado e Licenciatura - matutino - Faculdade de Ciências e Letras - 
+Araraquara
+C
+BIANCA OLIVEIRA MELO
+***500.098**
+FATEC - 1190793 - Mecatrônica Industrial - Noite - Fatec Garça - "Deputado Júlio Julinho Marcondes de Moura"
+C
+BIANCA PEREIRA DAVILA GOMES
+***259.908**
+UNESP - 062 - Engenharia Cartográfica e de Agrimensura - integral - Faculdade de Ciências e Tecnologia - 
+Presidente Prudente
+A
+BIANCA RIBEIRO ALVES
+***683.718**
+FATEC - 1140647 - Gestão Empresarial - EaD - Fatec Jundiaí - "Deputado Ary Fossen"
+A
+BIANCA RODRIGUES GOMES
+***861.793**
+FATEC - 1090773 - Gestão da Produção Industrial - Noite - Fatec Franca – “Dr. Thomaz Novelino”
+A
+BIANCA SIQUEIRA CORREA DA SILVA
+***668.958**
+FATEC - 1050642 - Gestão Empresarial - Tarde - Fatec Indaiatuba - "Dr. Archimedes Lammoglia"
+A
+BIANCA SOUZA BATISTA
+***537.398**
+FATEC - 1130803 - Polímeros - Noite - Fatec Mauá
+A
+BRANDON DE SOUSA FIGUEIREDO
+***479.478**
+FATEC - 0020483 - Análise e Desenvolvimento de Sistemas - Noite - Fatec São Paulo - Município de São Paulo
+A
+BRAYAN EDUARDO DE SOUZA SILVA
+***526.428**
+FATEC - 1190791 - Mecatrônica Industrial - Manhã - Fatec Garça - "Deputado Júlio Julinho Marcondes de Moura"
+A
+11
+* convocado para vaga PPI
+
+
+--- PAGE 12 ---
+
+Lista de convocação para matrícula - 3ª Chamada
+nome do candidato
+identificação
+curso
+Provão Paulista Seriado 2025 - 3ª Série Ensino Médio
+grupo
+BRAYAN FELIPE ROSSI DA MOTTA
+***713.638**
+FATEC - 1821653 - Ciência de Dados para o Agronegócio - Noite - Fatec Catanduva
+A
+BRAYAN FERREIRA NASCIMENTO
+***099.968**
+FATEC - 1670742 - Logística - Tarde - Fatec Guarulhos
+A
+BRAYAN MIGUEL DOS SANTOS GUIRIOLI
+***072.618**
+FATEC - 1670773 - Gestão da Produção Industrial - Noite - Fatec Guarulhos
+A
+BRENDA CAUANI RAMOS PROENCA MOREIRA DE LIMA ***211.398**
+FATEC - 1741613 - Sistemas Inteligentes - Noite - Fatec Capão Bonito
+C
+BRENDA DE SOUSA BARBOSA DA SILVA
+***762.388**
+FATEC - 2501341 - Design de Produto com Ênfase em Processos de Produção e Industrialização - Manhã - Fatec 
+Tatuapé - "Victor Civita" - Município de São Paulo
+A
+BRENDA DE SOUZA ALENCAR LEMES
+***340.998**
+UNESP - 054 - Engenharia Agronômica - integral - Faculdade de Ciências Agrárias e Tecnológicas - Dracena
+A
+BRENDA GIRON BARBOSA
+***489.268**
+UNESP - 007 - Arquitetura e Urbanismo - integral - Faculdade de Ciências e Tecnologia - Presidente Prudente
+B
+BRENDA HAMUD SILVA
+***701.918**
+FATEC - 2040751 - Gestão Comercial - Manhã - Fatec Ipiranga - "Pastor Enéas Tognini" - Município de São Paulo
+A
+BRENDA LUCENA PELOGIA
+***765.138**
+FATEC - 1461153 - Projetos de Estruturas Aeronáuticas - Noite - Fatec São José dos Campos - "Prof. Jessen Vidal"
+A
+BRENDA SILVA VIANA
+***196.198**
+FATEC - 1110621 - Comércio Exterior - Manhã - Fatec Zona Leste - Município de São Paulo
+A
+BRENDHA FIGUEIREDO NASCIMENTO
+***307.678**
+FATEC - 1290931 - Processos Químicos - Manhã - Fatec Praia Grande
+A
+BRENDO DE CAMARGO FRANCISCO
+***348.058**
+FATEC - 1630792 - Mecatrônica Industrial - 1º e 2º ano Tarde / 3º ano Noite - Fatec Mogi Mirim - "Arthur de Azevedo"
+A
+BRENDON YURI MOURA
+***974.298**
+FATEC - 0220773 - Gestão da Produção Industrial - Noite - Fatec Taquaritinga - "Marlene Maria Miletta Servidoni"
+C
+BRENO CARDOSO DE SOUZA
+***797.138**
+FATEC - 1200703 - Agronegócio - Noite - Fatec Mococa - "Mário Roberson de Sylos Filho"
+A
+BRENO DANTI MORAES
+***825.178**
+UNESP - 182 - Zootecnia - integral - Faculdade de Medicina Veterinária e Zootecnia - Botucatu
+C
+BRENO GABRIEL DA CONCEICAO BATISTA
+***718.708**
+FATEC - 1060482 - Análise e Desenvolvimento de Sistemas - 1º ao 3º semestre Tarde/ 4º ao 6º semestre Noite - 
+Fatec Guaratinguetá - "Prof. João Mod"
+C
+BRENO LEONARDO SILVESTRINI SILVA
+***328.188**
+FATEC - 1300647 - Gestão Empresarial - EaD - Fatec Marília - "Estudante Rafael Almeida Camarinha"
+A
+BRENO MONTEIRO SILVA
+***654.238**
+FATEC - 1260903 - Automação Industrial - Noite - Fatec São Bernardo do Campo - "Adib Moisés Dib"
+C
+BRENO SCHIRMANOFF LEITE
+***618.828**
+FATEC - 2510733 - Eletrônica Automotiva - Noite - Fatec Taubaté
+B
+BRIAN ROBERTO DE OLIVEIRA LIMA
+***629.018**
+FATEC - 0220702 - Agronegócio - Tarde - Fatec Taquaritinga - "Marlene Maria Miletta Servidoni"
+A
+BRUNA BEATRIZ SILVA DAMASIO
+***259.618**
+FATEC - 1260903 - Automação Industrial - Noite - Fatec São Bernardo do Campo - "Adib Moisés Dib"
+A
+BRUNA CAVALCANTI SOARES
+***406.998**
+FATEC - 2040893 - Gestão de Recursos Humanos - Noite - Fatec Ipiranga - "Pastor Enéas Tognini" - Município de 
+São Paulo
+C
+BRUNA MARCELINO CRUZ
+***443.268**
+FATEC - 2590883 - Mecanização em Agricultura de Precisão - Noite - Fatec Pompéia - "Shunji Nishimura"
+A
+BRUNA MARIA DA SILVA
+***464.578**
+FATEC - 0200647 - Gestão Empresarial - EaD - Fatec Jahu - "Octavio Celso Pacheco de Almeida Prado"
+A
+BRUNA MENDES DE SOUZA*
+***509.778**
+UNESP - 108 - Geografia - Licenciatura - noturno - Instituto de Geociências e Ciências Exatas de Rio Claro - Rio 
+Claro
+C
+BRUNA REALI NERY
+***576.828**
+FATEC - 2041641 - Gestão de Eventos - Manhã - Fatec Ipiranga - "Pastor Enéas Tognini" - Município de São Paulo
+A
+BRUNA ROBERTA QUEIROZ SILVA
+***529.978**
+FATEC - 1670581 - Logística Aeroportuária - Manhã - Fatec Guarulhos
+A
+BRUNA VITORIA RAIMUNDO DE OLIVEIRA
+***527.138**
+FATEC - 2750753 - Gestão Comercial - Noite - Fatec Assis - "Prof. Dr. José Luiz Guimarães"
+A
+BRUNNA EUSTAQUIO DA SILVA
+***216.898**
+FATEC - 1300311 - Alimentos - Manhã - Fatec Marília - "Estudante Rafael Almeida Camarinha"
+A
+BRUNO CARDOSO DE JESUS
+***358.338**
+FATEC - 0051121 - Gestão Portuária - Manhã - Fatec Baixada Santista – “Rubens Lara” – Santos
+A
+BRUNO CARDOSO QUINTAO
+***734.508**
+FATEC - 2040751 - Gestão Comercial - Manhã - Fatec Ipiranga - "Pastor Enéas Tognini" - Município de São Paulo
+A
+BRUNO CARMELLO
+***779.488**
+FATEC - 0201181 - Sistemas Navais - Manhã - Fatec Jahu - "Octavio Celso Pacheco de Almeida Prado"
+C
+BRUNO COUTO MACHADO
+***566.978**
+FATEC - 1120481 - Análise e Desenvolvimento de Sistemas - Manhã - Fatec Botucatu
+A
+BRUNO DA SILVA MALAQUIAS
+***304.278**
+FATEC - 1190791 - Mecatrônica Industrial - Manhã - Fatec Garça - "Deputado Júlio Julinho Marcondes de Moura"
+A
+12
+* convocado para vaga PPI
+
+
+--- PAGE 13 ---
+
+Lista de convocação para matrícula - 3ª Chamada
+nome do candidato
+identificação
+curso
+Provão Paulista Seriado 2025 - 3ª Série Ensino Médio
+grupo
+BRUNO DE OLIVEIRA DOS SANTOS
+***899.408**
+FATEC - 1630993 - Projetos Mecânicos - Noite - Fatec Mogi Mirim - "Arthur de Azevedo"
+A
+BRUNO DE SOUZA GONCALVES
+***456.368**
+FATEC - 1290623 - Comércio Exterior - Noite - Fatec Praia Grande
+C
+BRUNO DOS SANTOS DOMINGUES
+***950.268**
+FATEC - 0030483 - Análise e Desenvolvimento de Sistemas - Noite - Fatec Sorocaba - "José Crespo Gonzales"
+A
+BRUNO GIUSEPPE RUSSI ARGENTIERI
+***524.588**
+FATEC - 2721213 - Marketing - Noite - Fatec Sebrae - Município de São Paulo
+A
+BRUNO HENRIQUE ALBUQUERQUE ALVES
+***231.238**
+FATEC - 0021251 - Microeletrônica - 1º ao 4º semestre Manhã/ 5º e 6º semestre Noite - Fatec São Paulo - Município 
+de São Paulo
+A
+BRUNO HENRIQUE DO CARMO FURLAN
+***989.568**
+FATEC - 1300313 - Alimentos - Noite - Fatec Marília - "Estudante Rafael Almeida Camarinha"
+A
+BRUNO HENRIQUE GHILARDI MOLINA MOMESSO
+***760.408**
+FATEC - 0021251 - Microeletrônica - 1º ao 4º semestre Manhã/ 5º e 6º semestre Noite - Fatec São Paulo - Município 
+de São Paulo
+A
+BRUNO HENRIQUE RIBEIRO DE OLIVEIRA
+***225.478**
+FATEC - 1110483 - Análise e Desenvolvimento de Sistemas - Noite - Fatec Zona Leste - Município de São Paulo
+A
+BRUNO LEONARDO LIMEIRA ADAO
+***180.148**
+FATEC - 0030991 - Projetos Mecânicos - Manhã - Fatec Sorocaba - "José Crespo Gonzales"
+A
+BRUNO LUIZ CORREIA DOS SANTOS*
+***847.358**
+UNESP - 070 - Engenharia de Biossistemas - integral - Faculdade de Ciências e Engenharia - Tupã
+A
+BRUNO MENDES LOBO
+***330.178**
+FATEC - 2880753 - Gestão Comercial - Noite - Fatec Araraquara – “Prof. José Arana Varela”
+A
+BRUNO MONCAYO DE CAMARGO
+***273.768**
+FATEC - 2040482 - Análise e Desenvolvimento de Sistemas - Tarde - Fatec Ipiranga - "Pastor Enéas Tognini" - 
+Município de São Paulo
+A
+BRUNO OLIVEIRA RODRIGUES
+***018.938**
+FATEC - 1710703 - Agronegócio - Noite - Fatec Jales - "Prof. José Camargo"
+A
+BRUNO RAFAEL FAGUNDES DOS SANTOS
+***420.448**
+FATEC - 1090771 - Gestão da Produção Industrial - Manhã - Fatec Franca – “Dr. Thomaz Novelino”
+A
+BRUNO VIANA TSCHINKEL
+***681.528**
+FATEC - 1631001 - Fabricação Mecânica - Manhã - Fatec Mogi Mirim - "Arthur de Azevedo"
+A
+BRYAN DE AZEVEDO MENEZES
+***790.198**
+FATEC - 1670647 - Gestão Empresarial - EaD - Fatec Guarulhos
+A
+BRYAN DOS REIS GOMES
+***333.218**
+FATEC - 2941391 - Desenvolvimento de Software Multiplataforma - Manhã - Fatec Franco da Rocha - "Giuliano 
+Cecchettini"
+A
+BRYAN EDSON METZNER
+***579.198**
+FATEC - 2900643 - Gestão Empresarial - Noite - Fatec Araras – "Antonio Brambilla"
+A
+CAIO AGUIAR REGHINI
+***654.188**
+USP - 25022/0 - Fonoaudiologia (Bacharelado) - Integral - Faculdade de Odontologia de Bauru
+C
+CAIO ALVES DA ROCHA
+***581.188**
+FATEC - 3081363 - Gestão da Qualidade - Noite - Fatec Itapevi
+A
+CAIO AUGUSTO RIBEIRO SCHIAVO
+***244.458**
+FATEC - 2961461 - Gestão de Logística Integrada - Manhã - Fatec Sumaré
+B
+CAIO CARVALHO PEREIRA DE OLIVEIRA
+***412.048**
+FATEC - 2510733 - Eletrônica Automotiva - Noite - Fatec Taubaté
+A
+CAIO CRISPIM DO NASCIMENTO
+***539.198**
+USP - 8021/103 - Geografia (Bacharelado/Licenciatura) - Vespertino - São Paulo (Butantã/Leste/Quadrilátero 
+Saúde/Direito)
+A
+CAIO DE SOUZA SCANDIUSSI
+***322.818**
+FATEC - 1431301 - Design de Mídias Digitais - Manhã - Fatec Carapicuíba
+A
+CAIO DE SOUZA TORRES
+***678.488**
+FATEC - 2501053 - Controle de Obras - Noite - Fatec Tatuapé - "Victor Civita" - Município de São Paulo
+A
+CAIO EDUARDO CARVALHO DOS SANTOS
+***368.208**
+FATEC - 2090843 - Transporte Terrestre - Noite - Fatec Barueri – “Padre Danilo José de Oliveira Ohl”
+A
+CAIO FABIO FERREIRA DA SILVA
+***791.128**
+FATEC - 1630483 - Análise e Desenvolvimento de Sistemas - Noite - Fatec Mogi Mirim - "Arthur de Azevedo"
+C
+CAIO GONCALVES BRAS
+***443.488**
+UNESP - 071 - Engenharia de Controle e Automação - integral - Instituto de Ciência e Tecnologia - Sorocaba
+C
+CAIO GONCALVES PEREIRA
+***828.638**
+UNESP - 070 - Engenharia de Biossistemas - integral - Faculdade de Ciências e Engenharia - Tupã
+A
+CAIO HENRIQUE MARCIANO
+***613.368**
+FATEC - 1060643 - Gestão Empresarial - Noite - Fatec Guaratinguetá - "Prof. João Mod"
+A
+CAIO HENRIQUE NEGRI DE OLIVEIRA
+***904.348**
+FATEC - 1630792 - Mecatrônica Industrial - 1º e 2º ano Tarde / 3º ano Noite - Fatec Mogi Mirim - "Arthur de Azevedo"
+C
+CAIO MIGUEL SIQUEIRA
+***579.538**
+UNICAMP - 110 - Administração Pública - Noturno - Limeira
+A
+CAIO RIBEIRO LOPES
+***960.638**
+FATEC - 1571643 - Gestão de Eventos - Noite - Fatec Presidente Prudente
+A
+13
+* convocado para vaga PPI
+
+
+--- PAGE 14 ---
+
+Lista de convocação para matrícula - 3ª Chamada
+nome do candidato
+identificação
+curso
+Provão Paulista Seriado 2025 - 3ª Série Ensino Médio
+grupo
+CAIO SOUSA DA SILVA
+***031.118**
+FATEC - 2830481 - Análise e Desenvolvimento de Sistemas - 1º ao 4º semestre Manhã/ 5º e 6º sem

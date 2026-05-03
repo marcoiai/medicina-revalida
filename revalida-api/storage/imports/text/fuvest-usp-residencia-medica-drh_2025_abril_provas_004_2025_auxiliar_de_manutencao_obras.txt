@@ -1,0 +1,1226 @@
+
+
+--- PAGE 1 ---
+
+ 
+AXM 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 004/2025   
+ 
+Auxiliar de Manutenção/Obras 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique¬se¬o¬seu¬nome¬está¬correto¬na¬capa¬deste¬caderno¬e¬se¬a¬folha¬de¬respostas¬pertence¬ao¬grupo AXM.¬
+Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+3. Durante¬a¬prova,¬são¬vedadas¬a¬comunicação¬entre¬candidatos¬e¬a¬utilização¬de¬qualquer¬material¬de¬consulta¬e¬
+de¬aparelhos¬de¬telecomunicação.¬
+4. Duração¬ da¬ prova:¬ 2¬ horas¬ e¬ 30¬ minutos.¬ Cabe¬ ao¬ candidato¬ controlar¬ o¬ tempo¬ com¬ base¬ nas¬ informações¬
+fornecidas¬pelo¬fiscal.¬O(A)¬candidato(a)¬poderá¬retirar-se¬da¬sala¬definitivamente¬apenas¬a¬partir¬das¬15¬h.¬Não¬
+haverá¬tempo¬adicional¬para¬preenchimento¬da¬folha¬de¬respostas.¬¬
+5. O(A)¬ candidato(a)¬ deverá¬ seguir¬ as¬ orientações¬ estabelecidas¬ pela¬ FUVEST¬ a¬ respeito¬ dos¬ procedimentos¬
+adotados¬para¬a¬aplicação¬deste¬concurso.¬
+6. Lembre-se¬de¬que¬a¬FUVEST¬se¬reserva¬ao¬direito¬de¬efetuar¬procedimentos¬adicionais¬de¬identificação¬e¬controle¬
+do¬ processo,¬ visando¬ a¬ garantir¬ a¬ plena¬ integridade¬ do¬ exame.¬ Assim,¬ durante¬ a¬ realização¬ da¬ prova,¬ será¬
+coletada¬por¬um¬fiscal¬uma¬foto¬do(a)¬candidato(a)¬para¬fins¬de¬reconhecimento¬facial,¬para¬uso¬exclusivo¬da¬USP¬
+e¬da¬FUVEST.¬A¬imagem¬não¬será¬divulgada¬nem¬utilizada¬para¬quaisquer¬outras¬finalidades,¬nos¬termos¬da¬lei.¬
+7. Após¬a¬autorização¬do¬fiscal¬da¬sala,¬verifique¬se¬o¬caderno¬está¬completo.¬Ele¬deve¬conter¬40¬questões¬objetivas,¬
+com¬5¬alternativas¬cada.¬Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+8. Preencha¬a¬folha¬de¬respostas¬com¬cuidado,¬utilizando¬caneta¬esferográfica¬de¬tinta azul ou preta.¬Essa¬folha¬
+não será substituída¬em¬caso¬de¬rasura.¬
+9. Ao¬final¬da¬prova,¬é¬obrigatória¬a¬devolução¬da¬folha¬de¬respostas¬acompanhada¬deste¬caderno¬de¬questões.¬
+Declaração 
+Declaro¬que¬li¬e¬estou¬ciente¬das¬informações¬que¬constam¬na¬capa¬desta¬prova,¬na¬folha¬de¬respostas,¬bem¬
+como¬dos¬avisos¬que¬foram¬transmitidos¬pelo¬fiscal¬de¬sala.¬
+¬
+___________________________________________________¬
+ASSINATURA¬
+O(a)¬candidato(a)¬que¬não¬assinar¬a¬capa¬da¬prova¬será¬considerado(a)¬ausente¬da¬prova.¬
+ 
+ 
+
+
+--- PAGE 2 ---
+
+Concurso Edital RH nº 004/2025 – Auxiliar de Manutenção/Obras 
+{01} 
+Para¬ realizar¬ um¬ serviço¬ de¬ solda,¬ qual¬ o¬ Equipamento¬ de¬
+Proteção¬Individual¬(EPI)¬mais¬indicado?¬
+¬
+(A)¬¬
+¬
+(B)¬¬
+¬
+(C)¬¬
+¬
+(D)¬¬
+¬
+(E)¬¬
+¬
+ 
+ 
+##### 
+{02} 
+Durante¬as¬operações¬em¬que¬o¬usuário¬precisa¬ter¬as¬duas¬
+mãos¬livres¬para¬soldar¬e¬moldar,¬é¬importante¬o¬uso¬de¬um¬
+¬
+(A)¬soprador¬térmico¬com¬base¬reta¬para¬uso¬estacionário.¬
+(B)¬maçarico¬portátil¬com¬base¬reta¬para¬uso¬estacionário.¬
+(C)¬ferro¬de¬solda¬com¬base¬reta¬para¬uso¬estacionário.¬
+(D)¬soprador¬térmico¬com¬base¬ovalada¬para¬uso¬suspenso.¬
+(E)¬maçarico¬portátil¬com¬base¬ovalada¬para¬uso¬suspenso.¬
+##### 
+¬
+{03} 
+A¬ respeito¬ das¬ esmerilhadeiras,¬ considere¬ as¬ seguintes¬
+afirmações:¬
+¬
+I.¬É¬um¬dispositivo¬de¬metal¬que¬tem¬como¬função¬lixar,¬cortar¬¬
+e¬fazer¬acabamentos¬em¬materiais¬metálicos.¬
+II.¬Existem¬três¬tipos¬de¬esmerilhadeiras:¬à¬bateria,¬angular¬e¬
+pneumática.¬
+III.¬Diferencia-se¬
+das¬
+lixadeiras¬
+comuns,¬
+pois¬
+as¬¬
+esmerilhadeiras¬ fazem¬ um¬ maior¬ número¬ de¬ rotações¬ por¬
+minuto.¬
+¬
+Estão¬corretas¬as¬afirmações¬contidas¬em:¬
+¬
+(A)¬I,¬apenas.¬
+(B)¬II,¬apenas.¬
+(C)¬I¬e¬II,¬apenas.¬
+(D)¬I¬e¬III,¬apenas.¬
+(E)¬II¬e¬III,¬apenas.¬
+##### 
+¬
+{04} 
+Considere¬a¬situação¬a¬seguir:¬
+¬
+Seu¬chefe¬lhe¬pede¬que¬reforme¬todas¬as¬cadeiras¬de¬madeira¬
+utilizadas¬por¬professores¬nas¬salas¬de¬aula¬da¬sua¬unidade.¬
+O¬material¬de¬revestimento¬de¬todas¬está¬em¬perfeito¬estado¬e¬
+você¬os¬retira¬com¬bastante¬cuidado.¬Terminada¬a¬reforma¬da¬
+estrutura¬ de¬ madeira¬ e¬ do¬ estofado¬ das¬ cadeiras,¬ você¬
+recoloca¬o¬revestimento,¬de¬modo¬mais¬eficaz,¬com¬o¬auxílio¬
+de¬um(a):¬
+¬
+(A)¬Martelo.¬
+(B)¬Chave¬de¬fenda.¬
+(C)¬Grampeador¬pinador¬elétrico.¬
+(D)¬Grampeador¬pinador¬manual.¬
+(E)¬Alicate¬de¬crimpar.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 3 ---
+
+Concurso Edital RH nº 004/2025 – Auxiliar de Manutenção/Obras 
+{05} 
+Assinale¬a¬alternativa¬que¬representa¬uma¬serra¬tico-tico.¬
+¬
+(A)¬¬
+¬
+(B)¬¬
+¬
+(C)¬¬
+¬
+(D)¬
+¬
+(E)¬
+¬
+¬
+¬
+##### 
+{06} 
+Observe¬a¬imagem¬a¬seguir:¬
+¬
+¬
+¬
+Em¬relação¬à¬imagem¬apresentada,¬trata-se¬de¬um(a)¬
+¬
+(A)¬visor¬digital.¬
+(B)¬campainha.¬
+(C)¬rebatedor¬de¬wi-fi.¬
+(D)¬interruptor¬digital.¬
+(E)¬bloqueador¬de¬wi-fi.¬
+##### 
+¬
+{07} 
+Observe¬a¬imagem¬a¬seguir:¬
+¬
+¬
+A¬respeito¬da¬imagem¬apresentada,¬a¬cor¬vermelha¬indica¬que¬
+o¬ponto¬de¬energia¬é¬
+¬
+(A)¬110V¬
+(B)¬127V¬
+(C)¬220V¬
+(D)¬da¬ mesma¬ voltagem¬ que¬ os¬ demais¬ pontos¬ de¬ energia¬
+daquele¬circuito.¬
+(E)¬de¬ voltagem¬ diversa¬ que¬ os¬ demais¬ pontos¬ de¬ energia¬
+daquele¬circuito.¬
+##### 
+¬
+
+
+--- PAGE 4 ---
+
+Concurso Edital RH nº 004/2025 – Auxiliar de Manutenção/Obras 
+{08} 
+Ângelo¬ solicita¬ a¬ Pedro¬ que¬ faça¬ duas¬ perfurações¬ numa¬
+parede¬de¬um¬laboratório¬da¬Universidade,¬para¬a¬instalação¬
+de¬um¬suporte,¬usando¬uma¬furadeira¬elétrica.¬Pedro¬sabe¬que¬
+não¬ existem¬ plantas¬ que¬ indiquem¬ por¬ onde¬ passam¬ as¬
+instalações¬elétricas¬e¬hidráulicas¬naquela¬parede.¬Por¬isso,¬
+usa¬a¬seguinte¬estratégia¬para¬escolher¬onde¬fixar¬o¬suporte:¬
+ 
+Fonte:¬Folha¬de¬S.¬Paulo¬(on-line)¬
+¬
+Considerando¬a¬situação¬e¬a¬imagem¬apresentadas,¬pode-se¬
+dizer¬que¬a¬estratégia¬utilizada¬se¬mostra¬
+¬
+(A)¬adequada¬e¬certa,¬desde¬que¬os¬dois¬furos¬sejam¬feitos¬
+sobre¬as¬linhas¬azuis¬imaginárias.¬
+(B)¬adequada¬e¬infalível,¬desde¬que¬os¬dois¬furos¬sejam¬feitos¬
+nas¬ áreas¬ centrais¬ de¬ um¬ dos¬ quadriláteros¬ menores¬
+formados¬pelas¬linhas¬azuis¬imaginárias.¬
+(C)¬adequada,¬porém¬falível,¬mesmo¬que¬os¬dois¬furos¬sejam¬
+feitos¬nas¬áreas¬centrais¬de¬um¬dos¬quadriláteros¬maiores¬
+formados¬pelas¬linhas¬azuis¬imaginárias.¬
+(D)¬inadequada,¬pois¬sem¬as¬plantas¬mencionadas¬é¬proibido¬
+realizar¬a¬perfuração¬solicitada.¬
+(E)¬ absolutamente¬ inadequada,¬ mesmo¬ que¬ os¬ dois¬ furos¬
+sejam¬feitos¬nas¬áreas¬centrais¬de¬um¬dos¬quadriláteros¬
+maiores¬ formados¬ pelas¬ linhas¬ azuis¬ imaginárias,¬ pois¬
+certamente¬há¬dutos¬nessas¬áreas.¬
+##### 
+¬
+{09} 
+Sobre¬lixadeiras,¬considere¬as¬seguintes¬afirmações:¬
+¬
+I.¬¬A¬politriz¬orbital¬é¬indicada¬para¬lixar¬paredes¬de¬alvenaria¬
+de¬áreas¬externas,¬por¬ocasião¬de¬nova¬pintura.¬
+II.¬¬A¬lixadeira¬orbital¬é¬indicada¬para¬projetos¬de¬marcenaria,¬
+restauração¬ de¬ móveis¬ ou¬ até¬ mesmo¬ para¬ pequenos¬
+reparos.¬
+III.¬A¬lixadeira¬de¬parede¬roto-orbital¬com¬LED¬é¬indicada¬para¬
+lixar¬ paredes¬ e¬ tetos¬ de¬ alvenaria¬ por¬ ocasião¬ de¬ nova¬
+pintura,¬ permitindo¬ a¬ observância¬ de¬ imperfeições¬ na¬
+superfície.¬
+¬
+Estão¬corretas¬as¬afirmações¬contidas¬em:¬
+¬
+(A)¬I,¬apenas.¬
+(B)¬II,¬apenas.¬
+(C)¬I¬e¬II,¬apenas.¬
+(D)¬I¬e¬III,¬apenas.¬
+(E)¬II¬e¬III,¬apenas.¬
+ 
+##### 
+{10} 
+Na¬impossibilidade¬de¬se¬usar¬uma¬parafusadeira¬elétrica,¬a¬
+opção¬mais¬eficiente¬é¬substituí-la¬por¬uma¬chave¬
+¬
+(A)¬de¬fenda¬comum.¬
+(B)¬phillips.¬
+(C)¬de¬boca.¬
+(D)¬canhão¬longo¬soquete¬profissional.¬
+(E)¬estrela.¬
+##### 
+¬
+{11} 
+Em¬razão¬da¬aposentadoria¬do¬antigo¬responsável¬pelo¬Setor¬
+de¬Manutenção¬da¬Unidade,¬o¬chefe¬da¬Seção¬de¬Materiais¬
+convida¬cinco¬servidores¬do¬setor¬para¬um¬teste.¬A¬pergunta¬
+que¬ele¬lhes¬faz¬é:¬“do¬que¬a¬Unidade¬precisa¬em¬termos¬de¬
+manutenção?¬”.¬Ele¬pede¬a¬quatro¬de¬vocês¬que¬saiam¬da¬sala¬
+e¬ouve¬a¬resposta¬de¬um¬a¬um,¬isoladamente.¬¬
+¬
+Assinale¬a¬alternativa¬que¬apresenta¬um¬diferencial,¬e¬deve¬ter¬
+sido¬determinante¬na¬escolha¬do¬novo¬responsável.¬
+¬
+(A)¬A¬ Unidade¬ precisa¬ de¬ mais¬ funcionários¬ no¬ setor¬ de¬
+manutenção.¬
+(B)¬A¬
+Unidade¬
+precisa¬
+organizar¬
+um¬
+calendário¬
+de¬
+manutenção¬ preventiva,¬ levando¬ em¬ consideração¬ os¬
+períodos¬ de¬ maior¬ utilização¬ das¬ áreas,¬ sobretudo¬ dos¬
+espaços¬didáticos.¬
+(C)¬A¬
+Unidade¬
+precisa¬
+organizar¬
+um¬
+calendário¬
+de¬
+manutenção¬preventiva,¬dividindo¬sua¬área¬em¬12¬espaços¬
+e¬priorizando¬cada¬espaço¬em¬um¬mês¬específico.¬
+(D)¬A¬ Unidade¬ precisa¬ investir¬ em¬ equipamentos¬ mais¬
+modernos¬para¬a¬manutenção.¬
+(E)¬A¬ unidade¬ deve¬ focar¬ seus¬ esforços¬ na¬ manutenção¬
+corretiva,¬ fazendo¬ uma¬ manutenção¬ preventiva¬ apenas¬
+quando¬houver¬tempo¬livre¬para¬os¬funcionários¬do¬setor.¬
+##### 
+¬
+{12} 
+Para¬a¬melhor¬troca¬do¬piso¬e¬do¬revestimento¬cerâmico¬das¬
+paredes¬ de¬ um¬ cômodo,¬ é¬ necessário¬ observar¬ a¬ seguinte¬
+ordem¬depois¬da¬retirada¬do¬material¬que¬será¬substituído:¬
+¬
+(A)¬ Fixação¬ das¬ novas¬ peças¬ de¬ revestimento¬ com¬ uso¬ de¬
+espaçadores¬–¬aplicação¬do¬rejunte¬–¬feitura¬do¬contrapiso¬
+e¬da¬impermeabilização.¬
+(B)¬ Aplicação¬ do¬ rejunte¬ –¬ feitura¬ do¬ contrapiso¬ e¬ da¬
+impermeabilização¬ –¬ fixação¬ das¬ novas¬ peças¬ de¬
+revestimento¬sem¬necessidade¬de¬usar¬espaçadores.¬
+(C)¬Feitura¬ do¬ contrapiso¬ e¬ da¬ impermeabilização¬ –¬ fixação¬
+das¬ novas¬ peças¬ de¬ revestimento¬ com¬ uso¬ de¬
+espaçadores¬–¬aplicação¬do¬rejunte.¬
+(D)¬ Fixação¬ das¬ novas¬ peças¬ de¬ revestimento¬ com¬ uso¬ de¬
+espaçadores¬
+–¬
+feitura¬
+do¬
+contrapiso¬
+e¬
+da¬
+impermeabilização¬–¬aplicação¬do¬rejunte.¬
+(E)¬Feitura¬ do¬ contrapiso¬ e¬ da¬ impermeabilização¬ –¬ fixação¬
+das¬ novas¬ peças¬ de¬ revestimento¬ sem¬ necessidade¬ de¬
+usar¬espaçadores¬–¬aplicação¬do¬rejunte.¬
+ 
+##### 
+¬
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Concurso Edital RH nº 004/2025 – Auxiliar de Manutenção/Obras 
+{13} 
+Observe¬a¬imagem¬a¬seguir:¬
+¬
+¬
+¬
+Para¬ o¬ correto¬ assentamento¬ de¬ pisos¬ e¬ revestimentos,¬ é¬
+recomendável¬o¬uso¬de¬um¬equipamento¬que¬emite¬um¬feixe¬
+de¬laser¬que¬permite¬não¬apenas¬o¬correto¬alinhamento¬das¬
+peças,¬mas,¬também,¬o¬nivelamento¬das¬mesmas.¬Para¬que¬o¬
+nivelamento¬seja¬ainda¬mais¬preciso¬e¬permita¬a¬correção¬do¬
+serviço¬imediatamente,¬é¬recomendável¬que¬o¬equipamento¬
+possua¬sistema¬de¬autonivelamento¬com¬alerta¬
+¬
+(A)¬sonoro,¬ que¬ se¬ ajusta¬ automaticamente¬ em¬ superfícies¬
+planas¬e¬emite¬um¬bip¬quando¬há¬desnivelamento.¬
+(B)¬luminoso,¬que¬se¬ajusta¬automaticamente¬em¬superfícies¬
+planas¬e¬emite¬um¬bip¬quando¬há¬desnivelamento.¬
+(C)¬sonoro,¬ que¬ se¬ ajusta¬ automaticamente¬ em¬ superfícies¬
+inclinadas¬e¬emite¬um¬bip¬quando¬há¬desnivelamento.¬
+(D)¬luminoso,¬que¬se¬ajusta¬automaticamente¬em¬superfícies¬
+inclinadas¬e¬emite¬um¬bip¬quando¬há¬desnivelamento.¬
+(E)¬luminoso,¬que¬se¬ajusta¬automaticamente¬em¬superfícies¬
+inclinadas¬ e¬ emite¬ um¬ feixe¬ de¬ outra¬ cor¬ quando¬ há¬
+desnivelamento.¬
+##### 
+¬
+{14} 
+Observe¬a¬imagem¬a¬seguir:¬
+¬
+¬
+¬
+Para¬ colocação¬ adequada¬ de¬ quadros¬ de¬ aviso,¬ lousas¬ e¬
+outros¬
+equipamentos¬
+relevantes¬
+no¬
+processo¬
+ensino-
+aprendizagem,¬ é¬ mais¬ recomendável¬ o¬ uso¬ de¬ um¬
+equipamento¬que¬emita¬
+¬
+(A)¬um¬feixe¬de¬laser¬oblíquo¬ao¬solo.¬
+(B)¬três¬feixes¬de¬laser¬perpendiculares¬entre¬si.¬
+(C)¬dois¬feixes¬de¬laser¬oblíquos¬entre¬si.¬
+(D)¬dois¬feixes¬de¬laser¬perpendiculares¬entre¬si.¬
+(E)¬dois¬feixes¬de¬laser¬paralelos¬entre¬si.#####¬
+{15} 
+A¬ respeito¬ dos¬ sistemas¬ de¬ climatização,¬ considere¬ as¬
+afirmações¬a¬seguir:¬
+¬
+I.¬¬ ¬ O¬ funcionamento¬ do¬ aparelho¬ de¬ ar-condicionado¬ se¬
+caracteriza¬pela¬captação¬do¬ar¬quente¬e¬por¬devolvê-lo¬
+resfriado¬ ao¬ ambiente,¬ através¬ da¬ passagem¬ do¬ ar¬ pela¬
+serpentina¬do¬evaporador.¬
+II.¬¬Nos¬ventiladores¬de¬baixa¬pressão,¬o¬ar¬quente¬passa¬por¬
+uma¬
+placa¬
+tipo¬
+‘colmeia’¬
+de¬
+celulose¬
+que¬
+fica¬
+permanentemente¬ úmida¬ por¬ um¬ processo¬ de¬ água¬
+circulante¬do¬sistema.¬Este¬ar,¬já¬resfriado¬e¬umidificado¬é¬
+então¬insuflado¬por¬um¬ventilador¬de¬ambiente.¬
+III.¬O¬ climatizador¬ evaporativo¬ utiliza¬ um¬ sistema¬ de¬ disco,¬
+onde¬a¬água¬é¬atomizada¬pela¬força¬centrífuga.¬Por¬utilizar¬
+baixa¬ pressão,¬ emitem¬ gotas¬ maiores,¬ que¬ levam¬ mais¬
+tempo¬para¬evaporar.¬
+IV.¬O¬ sistema¬ de¬ microaspersão¬ produz¬ micropartículas¬ de¬
+água,¬ que¬ são¬ aspergidas¬ em¬ alta¬ pressão.¬ Assim¬ que¬
+entram¬em¬contato¬com¬o¬ambiente,¬são¬instantaneamente¬
+evaporadas¬
+em¬
+uma¬
+ação¬
+rápida¬
+e¬
+uniforme,¬
+proporcionando¬sensação¬de¬frescor.¬
+¬
+Estão¬corretas¬as¬afirmações¬contidas¬em:¬
+¬
+(A)¬I¬e¬III,¬apenas.¬
+(B)¬I¬e¬IV,¬apenas.¬
+(C)¬II¬e¬III,¬apenas.¬
+(D)¬I,¬II¬e¬III,¬apenas.¬
+(E)¬I,¬III¬e¬IV,¬apenas.¬
+##### 
+¬
+{16} 
+Após¬ um¬ dia¬ de¬ trabalho,¬ os¬ funcionários¬ do¬ setor¬ de¬
+manutenção¬devem¬
+¬
+(A)¬pendurar¬ as¬ ferramentas¬ ou¬ colocá-las¬ em¬ estantes,¬
+providenciando¬a¬limpeza¬com¬pano¬umedecido¬a¬cada¬
+uma¬ou¬duas¬semanas.¬
+(B)¬guardar¬as¬ferramentas¬sujas¬em¬caixas¬adequadas,¬sem¬
+tampa,¬para¬que¬possam¬respirar.¬
+(C)¬guardar¬suas¬ferramentas¬antes¬de¬limpar,¬pois¬a¬limpeza¬
+só¬é¬recomendada¬a¬cada¬três¬dias.¬
+(D)¬deixar¬as¬ferramentas¬ao¬sol,¬mesmo¬que¬tenham¬partes¬
+de¬madeira¬ou¬plástico.¬
+(E)¬guardar¬as¬ferramentas¬elétricas¬com¬os¬fios¬dobrados¬e¬
+emaranhados.¬
+##### 
+¬
+{17} 
+O¬ piso¬ vinílico¬ é¬ considerado¬ um¬ dos¬ revestimentos¬ mais¬
+vantajosos¬ do¬ mercado,¬ por¬ ser¬ composto¬ de¬ PVC,¬ um¬
+material¬ plástico¬ que¬ garante¬ maior¬ durabilidade¬ e¬ que¬ é¬
+resistente¬ à¬ água.¬ São¬ características¬ desse¬ tipo¬ de¬
+revestimento:¬
+¬
+(A)¬Não¬ manchar,¬ não¬ reter¬ cheiro,¬ porém,¬ estufar¬ com¬
+facilidade.¬
+(B)¬Não¬manchar,¬não¬reter¬cheiro¬e¬não¬estufar.¬
+(C)¬Não¬manchar,¬não¬estufar,¬porém,¬exalar¬um¬cheiro¬forte¬e¬
+desagradável.¬
+(D)¬Não¬ manchar,¬ não¬ estufar,¬ porém,¬ reter¬ cheiro¬ com¬
+facilidade.¬
+(E)¬Não¬reter¬cheiro,¬não¬estufar,¬porém,¬manchar¬com¬relativa¬
+facilidade.¬####¬
+
+
+--- PAGE 6 ---
+
+Concurso Edital RH nº 004/2025 – Auxiliar de Manutenção/Obras 
+{18} 
+São¬Equipamentos¬de¬Proteção¬Individual¬(EPI),¬EXCETO:¬
+¬
+¬
+(A)¬
+¬
+(B)¬
+¬
+(C)¬
+¬
+(D)¬
+¬
+¬
+¬
+¬
+¬
+(E)¬
+¬
+¬
+¬
+ 
+ 
+##### 
+Texto para as questões 19 e 20 
+A¬ horticultura¬ é¬ a¬ parte¬ da¬ Agricultura¬ dedicada¬ à¬
+ciência¬ (ou¬ arte)¬ de¬ cultivar¬ o¬ hortus,¬ expressão¬ latina¬ que¬
+significa¬jardim.¬A¬formação¬da¬palavra¬Horticultura¬reflete¬sua¬
+origem.¬O¬horto¬–¬ou¬jardim¬–¬era¬o¬espaço¬de¬terreno¬fechado¬
+junto¬ à¬ residência,¬ destinado¬ ao¬ cultivo¬ de¬ frutas,¬ legumes,¬
+temperos,¬ervas¬medicinais¬e¬também¬de¬flores.¬
+Assim,¬antes¬de¬chegar¬a¬sua¬função,¬o¬jardim¬teve¬
+primeiro¬uma¬utilidade¬prática.¬
+Com¬ o¬ avanço¬ do¬ conhecimento¬ e¬ o¬ interesse¬ em¬
+aumentar¬ a¬ produtividade¬ dos¬ cultivos,¬ o¬ antigo¬ horto¬ foi¬
+dividido¬em¬três¬áreas¬específicas,¬surgindo¬o¬pomar,¬a¬horta¬
+e¬o¬jardim¬propriamente¬dito.¬
+Assim¬sendo,¬nesse¬jardim¬cada¬planta¬tem¬um¬valor¬
+estético¬a¬ser¬destacado.¬O¬caráter¬ornamental¬pode¬estar¬nas¬
+flores,¬como¬nas¬rosas,¬na¬disposição¬matemática¬das¬folhas,¬
+como¬na¬echeveria¬no¬caule¬escultural¬do¬umbu¬ou¬até¬mesmo¬
+no¬perfume¬agradável¬das¬inflorescências¬do¬capim-limão¬nos¬
+campos¬de¬pastagem.¬
+A¬característica¬mais¬importante¬para¬que¬uma¬planta¬
+cumpra¬ a¬ sua¬ função¬ ornamental¬ é¬ seu¬ aspecto¬ saudável,¬
+atestando¬ estar¬ bem¬ nutrida¬ e¬ hidratada,¬ sem¬ doenças¬ ou¬
+pragas.¬
+¬
+Noções¬básicas¬de¬jardinagem,¬Simões,¬Paiva,¬Neri¬e¬Paiva,¬
+bibliotecaagptea.org.br¬
+{19} 
+A¬respeito¬das¬partes¬em¬que¬se¬dividiu¬o¬horto,¬considere¬as¬
+afirmações¬a¬seguir:¬
+¬
+I.¬¬¬O¬pomar¬é¬um¬conjunto¬de¬árvores¬frutíferas¬ou¬o¬terreno¬
+em¬que¬são¬cultivadas¬em¬quantidade.¬
+II.¬ ¬A¬ horta¬ é¬ um¬ terreno¬ de¬ grande¬ extensão¬ onde¬ são¬
+cultivadas¬plantas¬que¬servem¬de¬alimento¬aos¬homens.¬
+III.¬O¬ jardim¬ é¬ o¬ local¬ onde¬ se¬ cultivam¬ flores¬ e¬ plantas¬
+ornamentais¬para¬lazer¬ou¬estudo.¬
+¬
+Estão¬corretas¬as¬afirmações¬contidas¬em:¬
+¬
+(A)¬I,¬apenas.¬
+(B)¬II,¬apenas.¬
+(C)¬III,¬apenas.¬
+(D)¬I¬e¬II,¬apenas.¬
+(E)¬I¬e¬III,¬apenas.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Concurso Edital RH nº 004/2025 – Auxiliar de Manutenção/Obras 
+{20} 
+Assinale¬a¬alternativa¬em¬que¬a¬planta¬parece¬NÃO¬cumprir¬
+sua¬função¬ornamental.¬
+¬
+(A)¬
+¬
+¬
+(B)¬
+¬
+¬
+(C)¬
+¬
+¬
+(D)¬
+¬
+¬
+(E)¬
+¬
+ 
+##### 
+¬
+¬
+{21} 
+Observe¬a¬charge¬a¬seguir:¬
+¬
+ 
+Jornal¬do¬Tocantins,¬02.01.2025¬
+Com¬base¬em¬seus¬conhecimentos,¬pode-se¬afirmar¬que,¬na¬
+charge,¬o¬planeta¬Terra¬está¬
+¬
+(A)¬com¬insônia¬e¬ansioso¬por¬um¬novo¬ano.¬
+(B)¬saudável,¬mas¬demonstrando¬ser¬supersticioso.¬
+(C)¬doente,¬mas¬feliz¬que¬sobreviveu¬a¬mais¬um¬ano.¬
+(D)¬preocupado¬com¬as¬mudanças¬climáticas¬e¬triste¬por¬ter¬
+sobrevivido.¬
+(E)¬ morto,¬ tendo¬ em¬ vista¬ a¬ extinção¬ possível¬ da¬ vida¬ no¬
+planeta.¬
+##### 
+¬
+{22} 
+Em¬A¬revolução¬dos¬bichos,¬de¬George¬Orwell,¬o¬porco¬Major,¬
+sob¬a¬desculpa¬de¬contar¬um¬sonho¬aos¬demais¬animais,¬os¬
+reúne¬numa¬noite.¬Antes,¬porém,¬de¬contar¬o¬sonho,¬Major¬faz¬
+um¬ inflamado¬ discurso¬ em¬ que¬ defende¬ que¬ todos¬ os¬ que¬
+andassem¬ sobre¬ quatro¬ pernas¬ ou¬ tivessem¬ asas¬ eram¬
+amigos,¬ ao¬ passo¬ que¬ os¬ homens,¬ por¬ andarem¬ em¬ duas¬
+pernas,¬ eram¬ sempre¬ inimigos.¬ Algum¬ tempo¬ depois,¬ tem¬
+início¬ a¬ Revolução¬ dos¬ Bichos¬ na¬ fazenda¬ de¬ Jones,¬ que¬
+acaba¬expulso.¬Da¬revolução,¬Major¬não¬participou,¬uma¬vez¬
+que¬
+¬
+(A)¬fugira¬ da¬ fazenda¬ do¬ senhor¬ Jones,¬ para¬ viver¬ livre¬ na¬
+natureza.¬
+(B)¬fora¬ morto¬ para¬ ser¬ assado¬ e¬ comido¬ pela¬ família¬ do¬
+fazendeiro¬Jones.¬
+(C)¬decidiu¬se¬aliar¬a¬Jones¬e¬organizar¬uma¬contrarrevolução.¬
+(D)¬fora¬vendido¬para¬outra¬fazenda,¬onde¬também¬viria¬a¬se¬
+instalar¬ uma¬ revolução¬ semelhante¬ àquela¬ vivida¬ na¬
+fazenda¬de¬Jones.¬
+(E)¬morrera,¬de¬causas¬naturais,¬três¬dias¬depois¬de¬contar¬seu¬
+sonho.¬
+##### 
+ 
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 8 ---
+
+Concurso Edital RH nº 004/2025 – Auxiliar de Manutenção/Obras 
+{23} 
+A¬relação¬entre¬os¬animais¬e¬os¬homens,¬tal¬como¬retratada¬em¬
+A¬revolução¬dos¬bichos,¬de¬George¬Orwell¬é¬uma¬fabulação¬
+da¬relação¬entre¬
+¬
+(A)¬professores¬e¬alunos.¬
+(B)¬pais¬e¬filhos.¬
+(C)¬nobres¬e¬plebeus.¬
+(D)¬patrões¬e¬empregados.¬
+(E)¬adultos¬e¬crianças.¬
+##### 
+¬
+{24} 
+Observe¬a¬charge¬a¬seguir:¬
+¬
+¬
+Folha¬de¬São¬Paulo,¬02.01.2024¬
+Em¬02¬de¬janeiro¬de¬2024,¬a¬Folha¬de¬São¬Paulo¬publicou¬a¬
+charge¬ apresentada.¬ Passado¬ mais¬ de¬ um¬ ano,¬ é¬ possível¬
+afirmar:¬
+¬
+(A)¬Trump¬surpreendeu¬o¬mundo¬ao¬reassumir¬a¬presidência¬
+dos¬Estados¬Unidos,¬por¬ter¬adotado¬medidas¬equilibradas¬
+e¬conciliatórias.¬
+(B)¬ Um¬ cessar-fogo¬ com¬ troca¬ de¬ reféns¬ e¬ prisioneiros¬ de¬
+guerra¬foi¬assinado¬entre¬Israel¬e¬o¬Hamas,¬minimizando¬os¬
+conflitos¬armados¬globais,¬em¬janeiro¬de¬2025.¬
+(C)¬A¬
+temperatura¬
+do¬
+planeta¬
+Terra¬
+se¬
+estabilizou,¬
+minimizando¬ os¬ efeitos¬ decorrentes¬ de¬ mudanças¬
+climáticas¬durante¬o¬ano¬de¬2024,¬sobretudo¬nas¬regiões¬
+equatoriais¬e¬no¬hemisfério¬sul.¬
+(D)¬Putin¬ sofreu¬ importantes¬ derrotas¬ ao¬ longo¬ de¬ 2024,¬
+perdendo¬ influência¬ em¬ áreas¬ conquistadas¬ da¬ Ucrânia¬
+que¬a¬Rússia¬considerava¬vitais.¬
+(E)¬As¬eleições¬municipais¬brasileiras¬transcorreram¬de¬forma¬
+pacífica¬ e¬ observou-se,¬ no¬ cômputo¬ geral,¬ um¬ equilíbrio¬
+entre¬as¬forças¬políticas¬nacionais.¬
+##### 
+¬
+{25} 
+Uma¬Unidade¬tem¬20¬Professores¬Titulares,¬todos¬membros¬
+natos¬ da¬ Congregação.¬ O¬ número¬ de¬ representantes¬ dos¬
+Professores¬ Associados¬ e¬ dos¬ Professores¬ Doutores¬ é,¬
+respectivamente:¬
+¬
+(A)¬6¬e¬4.¬
+(B)¬10¬e¬6.¬
+(C)¬12¬e¬8.¬
+(D)¬10¬e¬8.¬
+(E)¬12¬e¬6.¬
+##### 
+¬
+ 
+{26} 
+Abertas¬ as¬ inscrições¬ para¬ Diretor¬ de¬ um¬ Instituto¬ da¬ USP,¬
+Paulo¬ e¬Ana,¬ ambos¬Professores¬Associados¬3¬inscreveram¬
+uma¬chapa.¬Ao¬término¬do¬período¬de¬10¬dias,¬nenhuma¬outra¬
+chapa¬se¬inscreveu.¬Reaberto¬o¬perÍodo,¬João,¬o¬atual¬Vice-
+Diretor¬e¬José,¬o¬atual¬Diretor,¬se¬inscreveram¬para¬disputar¬as¬
+posições¬inversas.¬Pode-se¬dizer¬que¬a¬inscrição¬da¬Chapa¬
+formada¬por¬João¬e¬José¬é¬
+¬
+(A)¬válida,¬pois¬as¬normas¬da¬USP¬não¬impedem¬as¬inscrições¬
+de¬Titulares¬nessa¬hipótese.¬
+(B)¬válida,¬pois¬as¬normas¬da¬USP¬permitem¬a¬reeleição¬para¬
+as¬funções¬de¬Diretor¬e¬Vice-Diretor.¬
+(C)¬inválida,¬pois¬as¬normas¬da¬USP¬permitem¬a¬reeleição¬para¬
+as¬funções¬de¬Diretor¬e¬Vice-Diretor.¬
+(D)¬inválida,¬pois¬no¬segundo¬período¬de¬inscrições,¬apenas¬
+professores¬menos¬titulados¬podem¬se¬inscrever.¬
+(E)¬inválida,¬ pois¬ Professor¬ Titulares¬ só¬ podem¬ disputar¬
+quando¬houver¬pelo¬menos¬duas¬chapas¬de¬associados¬
+inscritas.¬
+##### 
+¬
+{27} 
+Compete¬ao¬Reitor¬designar,¬EXCETO¬o¬
+¬
+(A)¬Procurador¬Geral.¬
+(B)¬Secretário¬Geral.¬
+(C)¬Coordenador¬de¬Administração¬Geral.¬
+(D)¬Superintendente¬de¬Saúde.¬
+(E)¬Vice-Reitor.¬
+##### 
+¬
+{28} 
+Evandro¬é¬servidor¬técnico-administrativo¬da¬USP,¬ocupando¬
+uma¬função¬de¬chefia.¬Em¬suas¬atividades,¬lida¬com¬questões¬
+sensíveis¬ e¬ atinentes¬ aos¬ objetivos¬ científicos,¬ culturais¬ e¬
+sociais¬ da¬ Universidade.¬ Recentemente,¬ Evandro¬ passou¬ a¬
+adotar¬posições¬ideológicas¬complexas,¬que¬tem¬interferido¬
+no¬ serviço¬ que¬ desempenha.¬ Considerando¬ o¬ contexto¬
+apresentado,¬cabe¬a¬Evandro,¬
+¬
+(A)¬manifestar¬livremente¬seu¬pensamento,¬mesmo¬que¬ele¬fira¬
+valores¬científicos¬consolidados.¬
+(B)¬agir¬com¬cautela¬e¬atenção¬para¬não¬infringir¬o¬Código¬de¬
+Ética¬da¬USP.¬
+(C)¬manifestar¬livremente¬seu¬pensamento,¬como¬lhe¬garante¬
+o¬Estatuto¬da¬USP.¬
+(D)¬manifestar¬livremente¬seu¬pensamento,¬como¬lhe¬garante¬
+o¬Código¬de¬Ética¬da¬USP.¬
+(E)¬agir¬ com¬ cautela¬ e¬ atenção¬ para¬ não¬ violar¬ o¬ regime¬
+disciplinar¬da¬USP.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+¬
+¬
+¬
+
+
+--- PAGE 9 ---
+
+Concurso Edital RH nº 004/2025 – Auxiliar de Manutenção/Obras 
+Texto para as questões de 29 a 31 
+ 
+Recado¬ao¬senhor¬903¬
+¬¬¬¬¬¬¬¬¬¬¬¬¬
+Vizinho,¬
+¬¬¬¬¬¬¬¬¬¬¬¬¬
+¬¬¬¬¬¬¬¬¬¬¬¬Quem¬fala¬aqui¬é¬o¬homem¬do¬1003.¬Recebi¬outro¬dia,¬
+consternado,¬a¬visita¬do¬zelador,¬que¬me¬mostrou¬a¬carta¬em¬
+que¬ o¬ senhor¬ reclamava¬ contra¬ o¬ barulho¬ em¬ meu¬
+apartamento.¬Recebi¬depois¬a¬sua¬própria¬visita¬pessoal¬—¬
+devia¬ser¬meia-noite¬—¬e¬a¬sua¬veemente¬reclamação¬verbal.¬
+Devo¬dizer¬que¬estou¬desolado¬com¬tudo¬isso,¬e¬lhe¬dou¬inteira¬
+razão.¬O¬regulamento¬do¬prédio¬é¬explícito¬e,¬se¬não¬o¬fosse,¬
+o¬ senhor¬ ainda¬ teria¬ ao¬ seu¬ lado¬ a¬ lei¬ e¬ a¬ polícia.¬ Quem¬
+trabalha¬ o¬ dia¬ inteiro¬ tem¬ direito¬ ao¬ repouso¬ noturno¬ e¬ é¬
+impossível¬ repousar¬ no¬ 903¬ quando¬ há¬ vozes,¬ passos¬ e¬
+música¬ no¬ 1003.¬ Ou¬ melhor:¬ é¬ impossível¬ ao¬ 903¬ dormir¬
+quando¬o¬1003¬se¬agita;¬pois¬como¬não¬sei¬o¬seu¬nome¬nem¬o¬
+senhor¬sabe¬o¬meu,¬ficamos¬reduzidos¬a¬ser¬dois¬números,¬
+dois¬números¬empilhados¬entre¬dezenas¬de¬outros.¬Eu,¬1003,¬
+me¬limito¬a¬leste¬pelo¬1005,¬a¬oeste¬pelo¬ 1001,¬ao¬sul¬pelo¬
+oceano¬ Atlântico,¬ ao¬ norte¬ pelo¬ 1004¬ ao¬ alto¬ pelo¬ 1103¬ e¬
+embaixo¬pelo¬903¬—¬que¬é¬o¬senhor.¬Todos¬esses¬números¬
+são¬ comportados¬ e¬ silenciosos;¬ apenas¬ eu¬ e¬ o¬ oceano¬
+Atlântico¬fazemos¬algum¬ruído¬e¬funcionamos¬fora¬dos¬horários¬
+civis;¬nós¬dois¬apenas¬nos¬agitamos¬e¬bramimos¬ao¬sabor¬da¬
+maré,¬ dos¬ ventos¬ e¬ da¬ lua.¬ Prometo¬ sinceramente¬ adotar,¬
+depois¬das¬22¬horas,¬de¬hoje¬em¬diante,¬um¬comportamento¬
+de¬ manso¬ lago¬ azul.¬ Prometo.¬ Quem¬ vier¬ à¬ minha¬ casa¬
+(perdão,¬ao¬meu¬número)¬será¬convidado¬a¬se¬retirar¬às¬21:45,¬
+e¬explicarei:¬o¬903¬precisa¬repousar¬das¬22¬às¬7¬pois¬às¬8:15¬
+deve¬deixar¬o¬783¬para¬tomar¬o¬109¬que¬o¬levará¬até¬o¬527¬de¬
+outra¬rua,¬onde¬ele¬trabalha¬na¬sala¬305.¬Nossa¬vida,¬vizinho,¬
+está¬ toda¬ numerada;¬ e¬ reconheço¬ que¬ ela¬ só¬ pode¬ ser¬
+tolerável¬quando¬um¬número¬não¬incomoda¬outro¬número,¬mas¬
+o¬ respeita,¬ ficando¬ dentro¬ dos¬ limites¬ de¬ seus¬ algarismos.¬
+Peço-lhe¬desculpas¬—¬e¬prometo¬silêncio.¬¬
+¬
+...¬Mas¬que¬me¬seja¬permitido¬sonhar¬com¬outra¬vida¬
+e¬outro¬mundo,¬em¬que¬um¬homem¬batesse¬à¬porta¬do¬outro¬e¬
+dissesse:¬"Vizinho,¬são¬três¬horas¬da¬manhã¬e¬ouvi¬música¬em¬
+tua¬casa.¬Aqui¬estou".¬E¬o¬outro¬respondesse:¬"Entra,¬vizinho¬e¬
+come¬de¬meu¬pão¬e¬bebe¬do¬meu¬vinho.¬Aqui¬estamos¬todos¬
+a¬bailar¬e¬cantar,¬pois¬descobrimos¬que¬a¬vida¬é¬curta¬e¬a¬lua¬
+é¬bela".¬¬
+¬
+E¬o¬homem¬trouxesse¬sua¬mulher,¬e¬os¬dois¬ficassem¬
+entre¬os¬amigos¬e¬amigas¬do¬vizinho¬entoando¬canções¬para¬
+agradecer¬a¬Deus¬o¬brilho¬das¬estrelas¬e¬o¬murmúrio¬da¬brisa¬
+nas¬árvores,¬e¬o¬dom¬da¬vida,¬e¬a¬amizade¬entre¬os¬humanos,¬
+e¬o¬amor¬e¬a¬paz.¬¬
+¬
+BRAGA,¬Rubem.¬In:¬Para¬gostar¬de¬ler.¬v.¬1.¬São¬Paulo:¬Ática,¬1996.¬¬
+¬
+{29} 
+Os¬gêneros¬
+textuais¬são¬
+organizados¬
+conforme¬
+as¬
+características¬comuns¬que¬os¬textos¬apresentam¬em¬relação¬
+à¬ linguagem¬ e¬ ao¬ conteúdo.¬ Feita¬ essa¬ análise,¬ o¬ texto¬ de¬
+Rubem¬Braga¬classifica-se¬como¬¬¬
+¬
+(A)¬conto¬ popular,¬ considerando¬ que¬ há¬ dois¬ conflitos¬
+vivenciados¬pelos¬moradores¬desolados¬que¬entregaram¬
+uma¬carta¬ao¬agitado¬morador¬do¬1003.¬¬
+(B)¬relato¬pessoal,¬uma¬vez¬que¬os¬destemidos¬homens¬do¬903¬
+e¬1004¬descreveram¬uma¬experiência¬constrangedora¬ao¬
+receber¬a¬visita¬do¬zelador.¬¬¬
+(C)¬crônica,¬ pois¬ o¬ narrador¬ relata¬ um¬ fato¬ do¬ cotidiano¬ e¬
+apresenta¬uma¬crítica¬à¬falta¬de¬relacionamento¬entre¬os¬
+vizinhos,¬o¬que¬compromete¬a¬boa¬convivência.¬
+¬
+(D)¬artigo¬de¬opinião,¬porque¬o¬articulista¬defende¬a¬ideia¬de¬
+que¬um¬condômino¬desrespeita¬o¬regulamento¬ao¬se¬referir¬
+às¬pessoas¬utilizando¬números.¬
+(E)¬carta¬de¬reclamação,¬visto¬que¬evidencia¬a¬importância¬do¬
+cumprimento¬ da¬ legislação¬ brasileira¬ que¬ assegura¬ o¬
+direito¬do¬silêncio¬após¬as¬22¬horas.¬
+##### 
+¬
+{30} 
+Considere¬este¬fragmento¬textual:¬“Todos¬esses¬números¬são¬
+comportados¬e¬silenciosos;¬apenas¬eu¬e¬o¬Oceano¬Atlântico¬
+fazemos¬algum¬ruído¬e¬funcionamos¬fora¬dos¬horários¬civis;¬
+nós¬dois¬apenas¬nos¬agitamos¬e¬bramimos¬ao¬sabor¬da¬maré,¬
+dos¬ventos¬e¬da¬lua”.¬Nessa¬comparação¬entre¬o¬narrador¬e¬o¬
+Oceano¬Atlântico,¬empregou-se¬como¬recurso¬linguístico¬a¬
+(A)¬denotação¬ para¬ informar¬ que¬ o¬ barulhento¬ condômino¬
+desejava¬incomodar¬os¬vizinhos¬que¬eram¬muito¬tranquilos.¬
+(B)¬conotação¬para¬evidenciar¬a¬irreverência¬e¬a¬agitação¬do¬
+morador¬que¬desrespeitava¬o¬regulamento¬do¬prédio.¬
+(C)¬polissemia¬ para¬ reforçar¬ a¬ ideia¬ de¬ que¬ o¬ homem¬ agia¬
+como¬
+o¬
+turbulento¬
+oceano¬
+durante¬
+as¬
+violentas¬
+tempestades.¬
+(D)¬ambiguidade¬para¬confundir¬os¬residentes¬que¬estavam¬
+indignados¬ com¬ a¬ falta¬ de¬ respeito¬ aos¬ horários¬
+estabelecidos.¬
+(E)¬antonímia¬para¬enfatizar¬as¬palavras¬com¬sentido¬contrário¬
+que¬revelam¬o¬comportamento¬do¬homem¬e¬do¬oceano.¬
+##### 
+¬
+{31} 
+Neste¬trecho¬ em¬que¬o¬autor¬escreve¬ “...¬Mas¬que¬me¬seja¬
+permitido¬sonhar¬com¬outra¬vida¬e¬outro¬mundo,¬em¬que¬um¬
+homem¬batesse¬à¬porta¬do¬outro¬e¬dissesse:¬"Vizinho,¬são¬três¬
+horas¬da¬manhã¬e¬ouvi¬música¬em¬tua¬casa.¬Aqui¬estou".¬E¬o¬
+outro¬respondesse:¬"Entra,¬vizinho¬e¬come¬de¬meu¬pão¬e¬bebe¬
+do¬ meu¬ vinho.¬ Aqui¬ estamos¬ todos¬ a¬ bailar¬ e¬ cantar,¬ pois¬
+descobrimos¬que¬a¬vida¬é¬curta¬e¬a¬lua¬é¬bela".¬O¬conectivo¬
+destacado¬é¬um¬elemento¬de¬coesão¬textual¬que¬indica¬
+¬
+(A)¬conclusão,¬já¬que¬apresenta¬o¬desejo¬do¬narrador¬viver¬
+outra¬experiência¬para¬promover¬a¬solidariedade.¬
+(B)¬adição,¬pois¬conecta¬a¬oração¬à¬ideia¬de¬uma¬mudança¬
+imediata¬que¬transformará¬a¬realidade¬dos¬moradores.¬
+(C)¬explicação,¬uma¬vez¬que¬esclarece¬a¬mudança¬de¬vida¬
+necessária¬a¬todos¬os¬residentes¬daquele¬condomínio.¬
+(D)¬oposição,¬ visto¬ que¬ revela¬ o¬ contraste¬ entre¬ uma¬ vida¬
+regrada¬e¬o¬desejo¬de¬viver¬mais¬espontaneamente.¬
+(E)¬ exclusão,¬ porque¬ os¬ condôminos¬ podem¬ escolher¬ uma¬
+vida¬repleta¬de¬regras¬ou¬uma¬mais¬simples.¬
+¬
+####
+
+
+--- PAGE 10 ---
+
+Concurso Edital RH nº 004/2025 – Auxiliar de Manutenção/Obras 
+{32} 
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+QUINO.¬10¬anos¬com¬Mafalda¬(tradução¬Monica¬Stahel).¬São¬Paulo:¬Martins¬Fontes,¬2012.¬
+¬
+Mafalda¬é¬uma¬personagem¬bastante¬reflexiva,¬criada¬pelo¬cartunista¬argentino¬Quino.¬Em¬relação¬à¬tirinha¬apresentada,¬no¬último¬
+quadro,¬Mafalda¬faz¬uma¬reflexão¬inesperada,¬explicitada¬pelo¬uso¬da¬palavra:¬
+(A)¬“fantástico”,¬escolhida¬pela¬mãe¬para¬ressaltar¬as¬qualidades¬do¬lugar¬onde¬eles¬passarão¬as¬férias.¬
+(B)¬“lindíssimos”,¬que¬intensifica¬a¬beleza¬da¬cidade¬onde¬elas¬estão¬no¬momento.¬
+(C)¬“isso”,¬que¬retoma¬“lagos¬maravilhosos”,¬reforçando¬a¬crítica¬à¬destruição¬da¬natureza.¬
+(D)¬“conta”,¬indicando¬que¬Mafalda¬já¬conhece¬as¬características¬da¬região¬a¬ser¬visitada.¬
+(E)¬“aqui”,¬como¬se¬as¬paisagens¬dependessem¬de¬uma¬licitação¬para¬serem¬criadas¬e¬modificadas.¬
+####
+ 
+{33} 
+ 
+Disponível¬em:¬https://www.gov.br/saude/pt-br.¬Acesso¬em¬03/02/2025.¬
+¬
+Considerando¬a¬campanha¬publicitária¬apresentada,¬utilizam-se¬elementos¬verbais¬e¬não¬verbais¬para¬convencer¬o¬leitor¬a¬
+¬
+(A)¬praticar¬diariamente¬atitudes¬eficazes¬que¬evitam¬a¬proliferação¬do¬mosquito¬da¬dengue.¬¬
+(B)¬refletir¬sobre¬a¬importância¬da¬prevenção¬da¬doença¬no¬comércio¬e¬nas¬indústrias.¬¬
+(C)¬cuidar¬da¬limpeza¬de¬sua¬residência,¬sem¬preocupar-se¬com¬as¬ações¬da¬vizinhança.¬
+(D)¬obedecer¬às¬orientações¬governamentais¬que¬eliminam,¬a¬longo¬prazo,¬os¬locais¬contaminados.¬
+(E)¬combater¬os¬criadouros¬do¬mosquito¬da¬dengue,¬utilizando¬a¬reciclagem¬de¬garrafas¬pets.¬¬
+####
+
+
+--- PAGE 11 ---
+
+Concurso Edital RH nº 004/2025 – Auxiliar de Manutenção/Obras 
+{34} 
+Texto 1 
+¬
+Na¬ planície¬ avermelhada¬ os¬ juazeiros¬ alargavam¬
+duas¬manchas¬verdes.¬Os¬infelizes¬tinham¬caminhado¬o¬dia¬
+inteiro,¬ estavam¬ cansados¬ e¬ famintos.¬ Ordinariamente¬
+andavam¬pouco,¬mas¬como¬haviam¬repousado¬bastante¬na¬
+areia¬do¬rio¬seco,¬a¬viagem¬progredira¬bem¬três¬léguas.¬Fazia¬
+horas¬que¬procuravam¬uma¬sombra.¬A¬folhagem¬dos¬juazeiros¬
+apareceu¬longe,¬através¬dos¬galhos¬pelados¬da¬catinga¬rala.¬
+Arrastaram-se¬para¬lá,¬devagar,¬Sinha¬Vitória¬com¬o¬
+filho¬ mais¬ novo¬ escanchado¬ no¬ quarto¬ e¬ o¬ baú¬ de¬ folha¬ na¬
+cabeça,¬ Fabiano¬ sombrio,¬ cambaio,¬ o¬ aió¬ a¬ tiracolo,¬ a¬ cuia¬
+pendurada¬numa¬correia¬presa¬ao¬cinturão,¬a¬espingarda¬de¬
+pederneira¬no¬ombro.¬O¬menino¬mais¬velho¬e¬a¬cachorra¬Baleia¬
+iam¬atrás.¬Os¬juazeiros¬aproximaram-se,¬recuaram,¬sumiram-
+se...¬
+As¬ manchas¬ dos¬ juazeiros¬ tornaram¬ a¬ aparecer,¬
+Fabiano¬aligeirou¬o¬passo,¬esqueceu¬a¬fome,¬a¬canseira¬e¬os¬
+ferimentos.¬As¬alpercatas¬dele¬estavam¬gastas¬nos¬saltos,¬e¬a¬
+embira¬ tinha-lhe¬ aberto¬ entre¬ os¬ dedos¬ rachaduras¬ muito¬
+dolorosas.¬Os¬calcanhares,¬duros¬como¬cascos,¬gretavam-se¬
+e¬sangravam.¬
+Num¬cotovelo¬do¬caminho¬avistou¬um¬canto¬de¬cerca,¬
+encheu-o¬ a¬ esperança¬ de¬ achar¬ comida,¬ sentiu¬ desejo¬ de¬
+cantar...¬
+¬
+RAMOS.¬Graciliano.¬Vidas¬Secas.¬Rio¬de¬Janeiro:¬Record,¬2021.¬
+ 
+ 
+ 
+Texto 2 
+ 
+¬
+¬
+PORTINARI,¬Cândido.¬Retirantes,¬1944.¬Óleo¬sobre¬tela,¬190¬X¬180¬cm.¬
+Disponível¬em:¬https://masp.org.br/acervo/obra/retirantes.¬Acesso¬em¬
+04/02/2025.¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+ 
+O¬ texto¬ literário¬ e¬ a¬ pintura¬ são¬ manifestações¬ artísticas¬
+diferentes¬ que¬ abordam¬ a¬ mesma¬ temática.¬ Ambos¬
+apresentam¬a¬profunda¬reflexão¬sobre¬a¬
+¬
+(A)¬tristeza¬ e¬ o¬ cansaço¬ que¬ uma¬ pequena¬ parcela¬ da¬
+população¬demonstra¬na¬luta¬contra¬a¬seca.¬¬
+(B)¬solidão¬e¬a¬falta¬de¬esperança¬que¬os¬habitantes¬da¬zona¬
+urbana¬sentem¬no¬sertão¬brasileiro.¬
+(C)¬fome¬e¬a¬luta¬do¬povo¬nordestino¬pela¬difícil¬sobrevivência¬
+em¬um¬ambiente¬árido¬e¬desolador.¬
+(D)¬discriminação¬e¬o¬descaso¬da¬sociedade¬paulista¬pelos¬
+cidadãos¬que¬enfrentam¬a¬pobreza.¬
+(E)¬injustiça¬e¬o¬isolamento¬social¬vivenciado¬pelos¬brasileiros¬
+que¬sofrem¬com¬a¬escassez¬de¬energia.¬
+##### 
+¬
+{35} 
+Um¬ auxiliar¬ de¬ laboratório¬ precisa¬ comprar¬ um¬ microscópio¬
+para¬suas¬análises.¬O¬equipamento¬custa¬R$¬2.500,00,¬mas¬
+pode¬ser¬financiado¬com¬juros¬simples¬de¬4%¬ao¬mês.¬
+Se¬ele¬escolher¬pagar¬o¬microscópio¬em¬6¬meses,¬qual¬será¬o¬
+valor¬total¬pago¬ao¬final¬desse¬período?¬
+(A)¬R$¬2.800,00¬
+(B)¬R$¬2.900,00¬
+(C)¬R$¬3.000,00¬
+(D)¬R$¬3.100,00¬
+(E)¬R$¬3.200,00¬
+#### 
+¬
+{36} 
+Em¬ um¬ laboratório,¬ há¬ 500¬ tubos¬ de¬ ensaio¬ armazenados.¬
+Durante¬uma¬vistoria,¬verificou-se¬que¬30%¬dos¬tubos¬estavam¬
+contaminados¬ e¬ precisavam¬ ser¬ descartados.¬ Além¬ disso,¬
+20%¬ dos¬ tubos¬ restantes¬ foram¬ reservados¬ para¬ testes¬
+específicos.¬
+Quantos¬tubos¬de¬ensaio¬ainda¬estarão¬disponíveis¬para¬uso¬
+geral¬após¬esses¬descartes¬e¬reservas?¬
+(A)¬250¬tubos.¬
+(B)¬280¬tubos.¬
+(C)¬300¬tubos.¬
+(D)¬320¬tubos.¬
+(E)¬350¬tubos.¬
+#### 
+¬
+{37} 
+¬
+Uma¬empresa¬de¬construção¬civil¬concluiu¬a¬reforma¬de¬um¬
+prédio¬em¬80¬dias,¬utilizando¬4¬trabalhadores.¬Se¬essa¬mesma¬
+reforma¬ fosse¬ realizada¬ por¬ 5¬ trabalhadores,¬ mantendo¬ o¬
+mesmo¬ ritmo¬ de¬ trabalho,¬ em¬ quantos¬ dias¬ ela¬ seria¬
+concluída?¬
+(A)¬64¬dias.¬
+(B)¬70¬dias.¬
+(C)¬75¬dias.¬
+(D)¬85¬dias.¬
+(E)¬100¬dias.¬
+#### 
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 12 ---
+
+Concurso Edital RH nº 004/2025 – Auxiliar de Manutenção/Obras 
+{38} 
+Um¬ agricultor¬ trabalha¬ com¬ a¬ produção¬ de¬ mudas¬ em¬ sua¬
+fazenda.¬Ele¬percebeu¬que¬a¬cada¬mês¬o¬número¬de¬mudas¬
+dobra¬em¬relação¬ao¬mês¬anterior.¬Se¬ele¬começou¬o¬plantio¬
+com¬3¬
+mudas,¬
+quantas¬
+mudas¬
+ele¬
+terá¬
+após¬5¬
+meses¬seguindo¬esse¬padrão¬de¬crescimento?¬
+(A)¬15¬mudas.¬
+(B)¬24¬mudas.¬
+(C)¬48¬mudas.¬
+(D)¬96¬mudas.¬
+(E)¬192¬mudas.¬
+#### 
+¬
+{39} 
+Um¬agricultor¬acompanha¬a¬produção¬de¬soja¬em¬sua¬fazenda¬
+ao¬ longo¬ de¬ cinco¬ anos¬ e¬ registra¬ os¬ seguintes¬ dados¬ de¬
+colheita¬(em¬toneladas):¬
+ANO¬
+2019¬
+2020¬
+2021¬
+2022¬
+2023¬
+PRODUÇÃO¬
+(t)¬
+50¬
+65¬
+80¬
+70¬
+85¬
+Considerando¬os¬dados¬apresentados,¬assinale¬a¬alternativa¬
+correta.¬
+(A)¬A¬produção¬de¬soja¬aumentou¬de¬forma¬constante¬ao¬longo¬
+dos¬anos.¬
+(B)¬O¬ano¬de¬2021¬teve¬a¬maior¬produção¬registrada.¬
+(C)¬O¬maior¬crescimento¬de¬produção¬ocorreu¬entre¬os¬anos¬
+de¬2019¬e¬2020.¬
+(D)¬A¬média¬de¬produção¬no¬período¬foi¬75¬toneladas¬
+(E)¬A¬ produção¬ caiu¬ apenas¬ no¬ ano¬ de¬ 2022¬ em¬
+relação¬ao¬ano¬anterior. 
+#### 
+¬
+{40} 
+Em¬um¬laboratório¬de¬química,¬um¬cientista¬está¬misturando¬
+um¬reagente¬químico¬a¬uma¬solução¬líquida.¬A¬cada¬minuto,¬o¬
+cientista¬adiciona¬5¬mL¬desse¬reagente¬à¬solução¬inicial,¬que¬
+já¬tinha¬20¬mL.¬¬
+Se¬x¬representa¬o¬tempo¬em¬minutos,¬qual¬equação¬expressa¬
+corretamente¬ o¬ volume¬ total¬ V(x)¬ da¬ solução¬ em¬ função¬ do¬
+tempo?¬
+(A)¬V(x)¬=¬5x+20¬
+(B)¬V(x)¬=¬20x+5¬
+(C)¬V(x)¬=¬5x−20¬
+(D)¬V(x)¬=¬x+5+20¬
+(E)¬V(x)¬=¬25x¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 13 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RASCUNHO 
+ 
+ 
+NÃO SERÁ 
+CONSIDERADO NA 
+CORREÇÃO 
+
+
+--- PAGE 14 ---
+
+
+
+--- PAGE 15 ---
+
+ 
+ 
+                 
+ 
+ 
+Universidade de São Paulo 
+GABARITO – CONCURSOS DRH USP – ABRIL/2025 
+ 
+ 
+ 
+ 
+Auxiliar de Manutenção/Obras – Edital RH Nº 004/2025 
+PROVA AXM 
+1 
+A 
+21 
+C 
+2 
+A 
+22 
+E 
+3 
+C 
+23 
+D 
+4 
+C 
+24 
+B 
+5 
+B 
+25 
+B 
+6 
+D 
+26 
+A 
+7 
+E 
+27 
+E 
+8 
+C 
+28 
+B 
+9 
+E 
+29 
+C 
+10 
+D 
+30 
+B 
+11 
+B 
+31 
+D 
+12 
+C 
+32 
+E 
+13 
+A 
+33 
+A 
+14 
+D 
+34 
+C 
+15 
+B 
+35 
+D 
+16 
+A 
+36 
+B 
+17 
+B 
+37 
+A 
+18 
+D 
+38 
+D 
+19 
+E 
+39 
+E 
+20 
+E 
+40 
+A 

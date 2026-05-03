@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "input": "/Users/auser/Projects/medicina-valida/revalida-api/storage/imports/generated/scale_to_100k_20260503_024037/questions.generated.json",
+    "output_dir": "/Users/auser/Projects/medicina-valida/revalida-api/storage/imports/generated/scale_to_100k_20260503_024037/validation",
+    "llm_enabled": false,
+    "total": 0,
+    "approved": 0,
+    "flagged": 0,
+    "rejected": 0
+  },
+  "issue_counts": {},
+  "severity_counts": {},
+  "results": []
+}

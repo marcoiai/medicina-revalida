@@ -1,0 +1,968 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pt-br" dir="ltr"> <![endif]-->
+<!--[if IE 7]>         <html prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8" lang="pt-br" dir="ltr"> <![endif]-->
+<!--[if IE 8]>         <html prefix="og: http://ogp.me/ns#" class="no-js lt-ie9" lang="pt-br" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]><!--> <html prefix="og: http://ogp.me/ns#" class="no-js" lang="pt-br" dir="ltr"> <!--<![endif]-->
+<head>
+    <!--[if lt IE 9]>
+    <script src="/templates/padraogoverno01/js/html5shiv.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="/templates/padraogoverno01/bootstrap/css/bootstrap.min.css" type='text/css'/>
+    <link rel="stylesheet" href="/templates/padraogoverno01/css/template-azul.css" type='text/css'/>
+    		<link rel="stylesheet" href="/templates/padraogoverno01/css/icones-bmp-azul.css" type='text/css'/>
+		    <link rel="stylesheet" href="/templates/padraogoverno01/font-awesome/css/font-awesome.min.css" type='text/css'/>
+    <!--[if lt IE 10]>
+    <link rel="stylesheet" href="/templates/padraogoverno01/css/ie.css" />
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="/templates/padraogoverno01/css/ie8.css" />
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="/templates/padraogoverno01/css/ie7.css" />
+    <link rel="stylesheet" href="/font-awesome/css/font-awesome-ie7.min.css" />
+    <![endif]-->    
+        	<base href="https://www.into.saude.gov.br/images/pdf/ensino/residencia/concurso_2019_2020/PROVA-ORTOPEDIA-E-TRAUMATOLOGIA-2019-2020---PROVA-B.pdf" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Into" />
+	<title>INTO</title>
+	<link href="/templates/padraogoverno01/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/media/k2/assets/css/k2.fonts.css?v2.7.1" rel="stylesheet" type="text/css" />
+	<link href="/components/com_k2/css/k2.css?v2.7.1" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_slideshowck/themes/default/css/camera.css" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+#camera_wrap_453 .camera_pag_ul li img, #camera_wrap_453 .camera_thumbs_cont ul li > img {height:75px;}
+#camera_wrap_453 .camera_caption {
+	display: block;
+	position: absolute;
+}
+#camera_wrap_453 .camera_caption > div {
+	-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;font-family:'Droid Sans';
+}
+#camera_wrap_453 .camera_caption > div div.camera_caption_title {
+	font-size: 1.1em;
+}
+#camera_wrap_453 .camera_caption > div div.camera_caption_desc {
+	font-size: 0.8em;
+}
+
+@media screen and (max-width: 480px) {
+		#camera_wrap_453 .camera_caption {
+			font-size: 0.6em !important;
+		}
+}
+	</style>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/k2/assets/js/k2.frontend.js?v2.7.1&amp;sitepath=/" type="text/javascript"></script>
+	<script src="/modules/mod_slideshowck/assets/jquery.easing.1.3.js" type="text/javascript"></script>
+	<script src="/modules/mod_slideshowck/assets/camera.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+
+		jQuery(document).ready(function(){
+			new Slideshowck('#camera_wrap_453', {
+				 height: '42%',
+				 minHeight: '150',
+				 pauseOnClick: false,
+				 hover: 1,
+				 fx: 'simpleFade',
+				 loader: 'none',
+				 pagination: 1,
+				 thumbnails: 0,
+				 thumbheight: 75,
+				 thumbwidth: 100,
+				 time: 7000,
+				 transPeriod: 1500,
+				 alignment: 'center',
+				 autoAdvance: 1,
+				 mobileAutoAdvance: 1,
+				 portrait: 0,
+				 barDirection: 'leftToRight',
+				 imagePath: '/modules/mod_slideshowck/images/',
+				 lightbox: 'mediaboxck',
+				 fullpage: 0,
+				 mobileimageresolution: '0',
+				 navigationHover: false,
+					mobileNavHover: false,
+					navigation: false,
+					playPause: false,
+				 barPosition: 'bottom',
+				 responsiveCaption: 0,
+				 keyboardNavigation: 0,
+				 container: ''
+		});
+}); 
+
+	</script>
+	
+	<style>
+ .container-fluid{margin-top: -24px;}
+span a:hover {color:#005580 !important;}
+.container-fluid .row {padding-bottom: 5px; padding-left:4%; border-bottom: 1px dotted #CFCDCD;} 
+span {font-family: open_sansregular,'Open Sans',Arial,Helvetica,sans-serif;}
+.span8  {color:#757782;}
+.row .span8{font-weight: bold;}
+  
+#lista_agenda { border-top: 2px solid #3268BA; }
+#lista_agenda a {font-family: open_sansregular,'Open Sans',Arial,Helvetica,sans-serif; color: #3268ba; float: right; margin-right: 10px; margin-bottom: 10px; margin-top: 10px; }
+#lista_agenda a:hover {color: #08c; float: right; margin-right: 10px; margin-bottom: 10px; margin-top: 10px; }
+</style>
+
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        		<link href='https://www.into.saude.gov.br/templates/padraogoverno01/css/fontes.css'  rel='stylesheet' type='text/css'>
+		  
+  <!-- Hotjar Tracking Code for https://www.into.saude.gov.br/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:836438,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2YZLYFRJ79"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2YZLYFRJ79');
+</script>
+
+
+</head>
+<body >
+    <a class="hide" id="topo" href="#accessibility">Ir direto para menu de acessibilidade.</a>
+    <noscript>
+      <div class="error minor-font">
+        Seu navegador de internet está sem suporte à JavaScript. Por esse motivo algumas funcionalidades do site podem não estar acessíveis.
+      </div>
+    </noscript>
+    <!--[if lt IE 7]><center><strong>Atenção, a versão de seu navegador não é compatível com este sítio. Atualize seu navegador.</strong></center><![endif]-->
+    
+    <div class="layout">
+        <header>
+            <div class="container">
+                <div class="row-fluid accessibility-language-actions-container">
+                    <div class="span6 accessibility-container">
+                        <ul id="accessibility">
+                            <li>
+                                <a accesskey="1" href="#content" id="link-conteudo">
+                                    Ir para o conte&uacute;do
+                                    <span>1</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a accesskey="2" href="#navigation" id="link-navegacao">
+                                    Ir para o menu
+                                    <span>2</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a accesskey="3" href="#portal-searchbox" id="link-buscar">
+                                    Ir para a busca
+                                    <span>3</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a accesskey="4" href="#footer" id="link-rodape">
+                                    Ir para o rodap&eacute;
+                                    <span>4</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- fim div.span6 -->
+                    <div class="span6 language-and-actions-container">
+                        		<h2 class="hide">Opções de acessibilidade</h2>
+		
+<ul class="pull-right" id="portal-siteactions">
+<li class="item-140"><a href="/acessibilidade" accesskey="5" >Acessibilidade</a></li><li class="item-141 toggle-contraste"><a class="toggle-contraste" href="#"  accesskey="6" >Alto contraste</a></li><li class="item-142"><a href="/mapa-do-site" accesskey="7" >Mapa do site</a></li></ul>
+	
+                    </div>
+                    <!-- fim div.span6 -->
+                </div>
+                <!-- fim .row-fluid -->
+                <div class="row-fluid">
+                    <div id="logo" class="span8">
+                        <a href="https://www.into.saude.gov.br/" title="Instituto Nacional de Traumatologia e Ortopedia">
+                                                        <span class="portal-title-1"></span>
+                            <h1 class="portal-title corto">Instituto Nacional de Traumatologia e Ortopedia</h1>
+                            <span class="portal-description">Ministério da Saúde</span>
+                        </a>
+                    </div>
+                    <!-- fim .span8 -->
+                    <div class="span4">
+                        	<div id="" class="row">
+    	<h2 class="hidden">IdiomasEN</h2>
+    	
+<ul class="pull-right" id="language">
+<li class="item-143 language-en"><a href="/en" accesskey="8" >EN</a></li><li class="item-730 language-es"><a href="/es" accesskey="9" >ES</a></li></ul>
+    </div>
+		<div id="portal-searchbox" class="row">
+    	<h2 class="hidden">Buscar no portal</h2>
+    	<form action="/" method="post" class="pull-right">
+ 	<fieldset>
+        <legend class="hide">Busca</legend>
+        <h2 class="hidden">Buscar no portal</h2>
+        <div class="input-append">
+        	<label for="portal-searchbox-field" class="hide">Busca: </label>
+        	<input type="text" id="portal-searchbox-field" class="searchField" placeholder="Buscar no portal" title="Buscar no portal" name="searchword">       
+            <button type="submit" class="btn searchButton"><span class="hide">Buscar</span><i class="icon-search"></i></button>
+		</div>
+		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="101" />
+	</fieldset>
+</form>
+    </div>
+		<div id="social-icons" class="row">
+    	<h2 class="hidden">Redes Sociais</h2>
+    	
+<ul class="pull-right">
+<li class="portalredes-item item-138"><a href="https://www.facebook.com/into.ms" ><i class="icon-facebook-sign"><span>Facebook</span></i></a></li><li class="portalredes-item item-257"><a href="https://www.instagram.com/intosaude" ><i class="icon-instagram"><span>Instagram</span></i></a></li><li class="portalredes-item item-137"><a href="https://www.youtube.com/user/intonamidia" ><i class="icon-youtube"><span>YouTube</span></i></a></li></ul>
+    </div>
+	
+                    </div>
+                    <!-- fim .span4 -->
+                </div>
+                <!-- fim .row-fluid -->
+            </div>
+            <!-- fim div.container -->
+            <div class="sobre">
+                <div class="container">
+                    	<nav class="menu-servicos pull-right">
+        <h2 class="hide">Serviços</h2>
+        
+<ul>
+<li class="item-131 parent"><a href="/perguntas-frequentes" >Perguntas Frequentes</a></li><li class="item-132 parent"><a href="/central-de-atendimento" >Central de Atendimento</a></li><li class="item-135 parent"><a href="/area-de-imprensa" >Área de imprensa</a></li><li class="item-133"><a href="/webmail-e-extranet" >Webmail e Extranet</a></li></ul>
+<span class="hide">Fim do menu de serviços</span>
+    </nav>
+	
+                </div>
+                <!-- .container -->
+            </div>
+            <!-- fim .sobre -->
+        </header>
+        <main>
+            <div class="container">
+                	<div class="row-fluid">
+		<section>
+						
+<div class="rastro-navegacao row-flutuante">
+<a href="/" class="pathway">Página inicial</a></div>
+		</section>
+	</div>
+	
+                <div class="row-fluid">
+                                        <div id="navigation" class="span3">
+                        <a href="#" class="visible-phone visible-tablet mainmenu-toggle btn"><i class="icon-list"></i>&nbsp;Menu</a>
+                        <section id="navigation-section">
+                            <span class="hide">Início do menu principal</span>
+                            <a href="/"><img src="/images/chamadas/logo_into.jpg" alt="Logo do Into" /></a>	<nav class="sobre span9">
+		<h2 >Paciente <i class="icon-chevron-up visible-phone visible-tablet pull-right"></i></h2><!-- visible-phone visible-tablet -->
+		
+<ul>
+<li class="item-264 parent"><a href="/centros-de-atendimento-especializado" >Centros de Atendimento Especializado</a></li><li class="item-304 parent"><a href="/como-ser-atendido-no-into" >Como ser atendido no Into</a></li><li class="item-300 parent"><a href="/dicas-dos-especialistas" >Dicas dos Especialistas</a></li><li class="item-301"><a href="/direitos-da-pessoa-com-deficiencia" >Direitos da Pessoa com Deficiência</a></li><li class="item-306 parent"><a href="/folhetos-e-cartilhas-para-o-paciente" > Folhetos e Cartilhas para o paciente</a></li><li class="item-303 parent"><a href="/laudo-medico" >Laudo Médico</a></li><li class="item-697"><a href="/copia-prontuario" >Solicitação de cópia de prontuário</a></li><li class="item-299 parent"><a href="/lista-de-espera-para-cirurgia" >Lista de Espera para Cirurgia</a></li><li class="item-305"><a href="/orientacao-para-internacao" >Orientação para Internação</a></li></ul>
+	</nav>
+		<nav class="sobre span9">
+		<h2 >Nosso Instituto <i class="icon-chevron-up visible-phone visible-tablet pull-right"></i></h2><!-- visible-phone visible-tablet -->
+		
+<ul>
+<li class="item-261"><a href="/departamentos-e-servicos" >Departamentos e Serviços</a></li><li class="item-262 parent"><a href="/banco-de-tecidos" >Banco de Tecidos</a></li><li class="item-712 parent"><a href="/area-de-reabilitacao" >Reabilitação</a></li><li class="item-720 parent"><a href="/clinica-da-dor" >Clínica da Dor</a></li><li class="item-718"><a href="/area-de-reabilitacao-2" >Área de Imagem</a></li><li class="item-326"><a href="/documentos-institucionais" >Documentos Institucionais</a></li><li class="item-327 parent"><a href="/hemointo" >Hemointo</a></li><li class="item-328 parent"><a href="/humanizacao" >Humanização</a></li><li class="item-329"><a href="/fisioterapia" >Fisioterapia</a></li><li class="item-330"><a href="/ouvidoria" >Ouvidoria</a></li><li class="item-331 parent"><a href="/voluntariado" >Voluntariado</a></li></ul>
+	</nav>
+		<nav class="assuntos span9">
+		<h2 >Ensino e Pesquisa <i class="icon-chevron-up visible-phone visible-tablet pull-right"></i></h2><!-- visible-phone visible-tablet -->
+		
+<ul>
+<li class="item-705 parent"><a href="/nit" >NIT</a></li><li class="item-263 parent"><a href="/ensino" >Ensino</a></li><li class="item-284 parent"><a href="/pesquisa" >Pesquisa</a></li></ul>
+	</nav>
+		<nav class="sobre span9">
+		<h2 >Acesso à Informação <i class="icon-chevron-up visible-phone visible-tablet pull-right"></i></h2><!-- visible-phone visible-tablet -->
+		
+<ul>
+<li class="item-112 parent"><a href="/institucional" >Institucional</a></li><li class="item-113 parent"><a href="/acoes-e-programas" >Ações e Programas</a></li><li class="item-114 parent"><a href="/auditoria" >Auditoria</a></li><li class="item-700"><a href="/agenda-diretor" >Agenda Diretor</a></li><li class="item-115"><a href="/convenios" >Convênios</a></li><li class="item-116"><a href="/despesas" >Despesas</a></li><li class="item-117 parent"><a href="/licitacoes-e-contratos" >Licitações e contratos</a></li><li class="item-118 parent"><a href="/servidores" >Servidores</a></li><li class="item-119"><a href="/informacoes-classificadas" >Informações classificadas</a></li><li class="item-260"><a href="/sobre-a-lei-de-acesso-a-informacao" >Sobre a Lei de Acesso à Informação</a></li><li class="item-120"><a href="/servico-de-informacao-ao-cidadao-sic" >Serviço de Informação ao Cidadão (SIC)</a></li></ul>
+	</nav>
+		<nav class="central-conteudos span9">
+		<h2 >Central de conteúdos <i class="icon-chevron-up visible-phone visible-tablet pull-right"></i></h2><!-- visible-phone visible-tablet -->
+		
+<ul>
+<li class="item-146"><a class="videos" href="/videos" ><span class="icon-li icon-stack"><i class="icon-circle icon-stack-base"><span class="hide">&nbsp;</span></i><i class="icon-play icon-light"><span class="hide">&nbsp;</span></i></span>
+Vídeos</a></li><li class="item-147"><a class="audios" href="/audios" ><span class="icon-li icon-stack"><i class="icon-circle icon-stack-base"><span class="hide">&nbsp;</span></i><i class="icon-volume-up icon-light"><span class="hide">&nbsp;</span></i></span>
+Áudios</a></li><li class="item-148"><a class="publicacoes" href="/publicacoes" ><span class="icon-li icon-stack"><i class="icon-circle icon-stack-base"><span class="hide">&nbsp;</span></i><i class="icon-file-text icon-light"><span class="hide">&nbsp;</span></i></span>
+Publicações</a></li></ul>
+	</nav>
+	
+                            <span class="hide">Fim do menu principal</span>
+                        </section>
+                    </div>
+                    <!-- fim #navigation.span3 -->
+                                        <div id="content" class="span9">
+                        <section id="content-section">
+                            <span class="hide">Início do conteúdo da página</span>
+
+                            
+                            
+                                		<div class="row-fluid module ">
+									  <script type="text/javascript">
+    function clrbusca(a){
+        if((a=="Busca no site")){
+            document.getElementById("itBusca").value="";
+            }
+         if ((a=="Nº prontuário")){
+            document.getElementById("pront").value="";
+            }
+            return true
+    }
+                   
+                  
+         function buscaFila(event) {
+            if (event.keyCode == 13) {
+                pesquisa()
+                return false; 
+            }  
+            else
+                return true;
+         }
+         
+            function pesquisa(){
+            if ((document.getElementById('pront').value.replace(/ /g,'') != "") && (isNaN(document.getElementById('pront').value) == false)){
+             window.open('https://sistemas.into.saude.gov.br/internet/fila/resultado.aspx?p=' + document.getElementById('pront').value, '_self');
+            }
+            else{
+            alert('Digite um número de prontuário válido');
+            document.getElementById('pront').select();
+            }
+            }            
+            
+        </script>
+	
+
+	   <div id="dvFila"  style="display: inline-flex;" >
+                <table>               
+                <tr><td width="550px">
+	        <strong>Lista de espera para cirurgia</strong> <input type="text" placeholder="Digite o nº do prontuário" class="input-small" size="100" onkeypress="return buscaFila(event);" onfocus="clrbusca(this.value);" id="pront" style="width: 156px; vertical-align:baseline !important;"  /> <a href="javascript:pesquisa()" ><button id="singlebutton" name="singlebutton" class="btn btn-primary">Buscar</button></a> 
+                </td>
+               <td><a href="/como-ser-atendido-no-into" ><button id="singlebutton" name="singlebutton" class="btn btn-primary">Como ser Atendido no Into</button></a> </td> 
+               </tr>
+               </table>
+
+
+<!-- &nbsp; &nbsp;  &nbsp; <a href="#" ><button id="singlebutton" name="singlebutton" class="btn btn-primary">Adicional por Plantão Hospitalar - APH</button></a> &nbsp; &nbsp; -->
+
+	    </div>
+	
+					</div>
+		<div class="row-fluid">
+		
+	<div class="span4"><div class="module">
+						
+			
+<!-- Blank250 Starts Here --><!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box-cookies.hide {
+            display: none !important;
+        }
+        
+        .box-cookies {
+            position: fixed;
+            background: rgba(153, 153, 153, 0.795);
+            width: 24%;
+            z-index: 998;
+            bottom: 10px;
+            left: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border-radius: 10px;
+            box-shadow: #333 5px 5px 5px;
+        }
+        
+        .box-cookies .msg-cookies,
+        .box-cookies .btn-cookies {
+            text-align: initial;
+            padding-top: 10px;
+            padding-left: 10px;
+            padding-right: 5px;
+            color: #333;
+            font-size: 18px;
+            font-weight: 600;
+        }
+        
+        .box-cookies .btn-cookies {
+            background: #333;
+            cursor: pointer;
+            align-self: normal;
+            border-radius: 5px;
+            color: #fff;
+        }
+        
+        @media screen and (max-width: 600px) {
+            .box-cookies {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box-cookies hide">
+        <p class="msg-cookies">Ao navegar neste site, você aceita os cookies para melhorar sua experiência.<a href="/lista-servicos/219-perguntas-frequentes/perguntas-lgpd/809-politica-de-privacidade-e-protecao-de-dados-do-into"  target="_blank"> Mais informações.</a></p>
+        <div class="btn-cookies">Entendi</div>
+    </div>
+    <script>
+        if (!localStorage.nomeDoSeuCookies) {
+            document.querySelector(".box-cookies").classList.remove('hide');
+        }
+
+        const acceptCookies = () => {
+            document.querySelector(".box-cookies").classList.add('hide');
+            localStorage.setItem("nomeDoSeuCookies", "accept");
+        };
+
+        const btnCookies = document.querySelector(".btn-cookies");
+
+        btnCookies.addEventListener('click', acceptCookies);
+    </script>
+</body>
+
+</html>
+
+<!-- Blank250 Ends Here -->
+			
+	
+										
+			
+			</div>
+</div>
+	</div>
+		<div class="row-fluid module ">
+									
+		<!--[if lte IE 7]>
+		<link href="/modules/mod_slideshowck/themes/default/css/camera_ie.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+		<!--[if IE 8]>
+		<link href="/modules/mod_slideshowck/themes/default/css/camera_ie8.css" rel="stylesheet" type="text/css" />
+		<![endif]--><!-- debut Slideshow CK -->
+<div class="slideshowck camera_wrap camera_amber_skin" id="camera_wrap_453">
+			<div data-thumb="/images/banners/2026/Maio/th/ciclo_inter_infec_2a_palestra_Site_th.png" data-src="/images/banners/2026/Maio/ciclo_inter_infec_2a_palestra_Site.png" data-link="https://www.into.saude.gov.br/index.php?option=com_content&view=article&layout=edit&id=1194" data-target="_blank" data-alignment="center">
+								</div>
+		<div data-thumb="/images/banners/2026/th/agendamento_retorno_whatsapp_site_th.png" data-src="/images/banners/2026/agendamento_retorno_whatsapp_site.png" data-link="https://www.into.saude.gov.br/index.php?option=com_content&view=article&layout=edit&id=1035" data-target="_parent">
+								</div>
+		<div data-thumb="/images/banners/2026/Abril/th/banner_site_th.png" data-src="/images/banners/2026/Abril/banner_site.png" data-link="https://www.into.saude.gov.br/index.php?option=com_content&view=article&layout=edit&id=1200" data-target="_parent">
+								</div>
+		<div data-thumb="/images/banners/2026/Abril/th/Site_th.png" data-src="/images/banners/2026/Abril/Site.png" data-link="https://www.into.saude.gov.br/index.php?option=com_content&view=article&layout=edit&id=1199" data-target="_blank">
+								</div>
+		<div data-thumb="/images/banners/2026/Abril/th/INTOCAST_Abril_2026_site_th.jpg" data-src="/images/banners/2026/Abril/INTOCAST_Abril_2026_site.jpg" data-link="https://www.youtube.com/watch?v=1laYYX4_GHU" data-target="_blank">
+								</div>
+		<div data-thumb="/images/banners/2023/th/WhatsApp-Image-2023-11-28-at-09.16.43_th.jpeg" data-src="/images/banners/2023/WhatsApp-Image-2023-11-28-at-09.16.43.jpeg" data-link="https://www.youtube.com/watch?v=FPHpEIeqAdY" data-target="_blank">
+								</div>
+		<div data-thumb="/images/banners/2025/th/Siteatencao_th.png" data-src="/images/banners/2025/Siteatencao.png" >
+								</div>
+		<div data-thumb="/images/banners/2023/th/Plano-de-Logistica-Sustentavel---Banner-Site---730-px-x-314-px_th.png" data-src="/images/banners/2023/Plano-de-Logistica-Sustentavel---Banner-Site---730-px-x-314-px.png" data-link="https://www.into.saude.gov.br/index.php?option=com_content&view=article&layout=edit&id=870" data-target="_parent">
+								</div>
+		<div data-thumb="/images/banners/2021/setembro/th/Curso-de-Aperfeicoamento-Multiprofissional-2021-RESULTADO-PRIMEIRA-FASE--Banner-1-1_th.png" data-src="/images/banners/2021/setembro/Curso-de-Aperfeicoamento-Multiprofissional-2021-RESULTADO-PRIMEIRA-FASE--Banner-1-1.png" data-link="https://www.into.saude.gov.br/index.php?option=com_content&view=article&layout=edit&id=820" data-target="_parent">
+								</div>
+</div>
+<div style="clear:both;"></div>
+<!-- fin Slideshow CK -->
+	
+					</div>
+				<div class="moduletable">
+
+		
+			<a href="/images/videos/2024/junho/video_carta_artus_atualizado.mp4" target="_blank">
+
+<p><img src="/images/banners/2024/IMG-20240611-WA0013.jpg" alt="" /></p>
+
+</a>
+		</div>
+
+			<div class="row-fluid module outstanding-02 variacao-module-03">
+							<div class="outstanding-header">			 	<h2 class="outstanding-title"><span>Notícias</span></h2>
+			 	</div>									<div class="manchete-texto-lateral">
+		<div class="row-fluid">
+			
+		<div class="span4 pull-right">
+				
+		
+					
+				<h1 >
+					<a href="/component/content/article?id=1201" >
+						INTO recebe profissionais do Acre para viabilização do transplante de pele no Estado					</a>
+				</h1>
+		
+					<p class="description">A visita técnica integra ações de cooperação entre instituições do SUS.
+</p>				</div>
+				<div class="span8 no-margin img-manchete-lateral">				
+											
+					<a href="/component/content/article?id=1201">
+						<img src="/images/noticias/2026/WhatsApp-Image-2026-04-20-at-14.14.22.jpeg" class="img-rounded" width="490" height="auto" alt="" />
+					</a>				
+								
+		</div>
+			</div>
+							<div class="chamadas-secundarias row-fluid">
+			<div class="span4 no-margin">
+				
+											
+				
+							
+						<h2 >
+							<a href="/component/content/article?id=1198" >
+								Transplantes ortopédicos avançam no país e ampliam acesso à reconstrução							</a>
+						</h2>
+				
+									<p class="description">Pacientes relatam como as técnicas reconstrutivas mudaram suas vidas.
+</p>									
+			</div>
+									<div class="span4">
+				
+											
+				
+							
+						<h2 >
+							<a href="/component/content/article?id=1196" >
+								Ministro da Saúde visita leitos reabertos no INTO e paciente do mutirão de cirurgias							</a>
+						</h2>
+				
+									<p class="description">A ampliação da internação e da produção cirúrgica foram possíveis após a chegada de profissionais do Programa Agora Tem Especialistas.
+</p>									
+			</div>
+									<div class="span4">
+				
+											
+				
+							
+						<h2 >
+							<a href="/component/content/article?id=1195" >
+								INTO inaugura Centro Tecnológico de Impressão 3D e Reabilitação							</a>
+						</h2>
+				
+									<p class="description">Setor irá triplicar produção de próteses personalizadas aos pacientes com mais rapidez e tecnologia.
+</p>									
+			</div>
+					</div>
+				<div class="outstanding-footer no-bkg">
+		<a href="/area-de-imprensa/noticias" class="outstanding-link">
+							<span class="text">Mais notícias</span>
+						<span class="icon-box">                                          
+		      <i class="icon-angle-right icon-light"><span class="hide">&nbsp;</span></i>
+		    </span>
+		</a>	
+	</div>
+</div>	
+					</div>
+				<div class="row-fluid module variacao-module-02">
+							<div class="outstanding-header">			 	<h2 class="outstanding-title"><span>Destaques</span></h2>
+			 	</div>									<div class="chamadas-secundarias">
+	<div class="module span4 no-margin">		
+						
+			<a href="/banco-de-tecidos/publico-geral" class="img-rounded">
+				<img src="/images/chamadas/Doacao-de-Ossos.jpg" width="230" height="136" alt="Banco de Tecidos" />
+			</a>
+						
+		
+		<p class="subtitle">
+		Banco de Tecidos	</p>
+	
+	
+			<div class="control-label"> Com certeza você já ouviu falar em transplante de medula, coração, córnea, rins, fígado. Existe também o transplante de ossos.</div>		</div>	<div class="module span4">		
+						
+			<a href="/pesquisa/laboratorios-e-pesquisas/laboratorios" class="img-rounded">
+				<img src="/images/chamadas/laboratorios-de-pesquisa-into.jpg" width="230" height="136" alt="Laboratório de Pesquisa do Sistema Músculo-Esquelético" />
+			</a>
+						
+		
+		<p class="subtitle">
+		Pesquisa	</p>
+	
+	
+			Laboratório de Pesquisa do Sistema Músculo-Esquelético.		</div>	<div class="module span4">		
+						
+			<a href="/hemointo" class="img-rounded">
+				<img src="/images/chamadas/Doe-Sangue-hemointo.jpg" width="230" height="136" alt="HemoInto" />
+			</a>
+						
+		
+		<p class="subtitle">
+		HemoInto	</p>
+	
+	
+			Ajude a aumentar as reservas de sangue para pacientes que passarão por cirurgia.		</div>
+</div>	
+					</div>
+				<div class="row-fluid module module-box-01 span8">
+							<div class="outstanding-header">			 	<h2 class="outstanding-title"><span>Agenda de Eventos</span></h2>
+			 	</div>									
+<!-- Blank250 Starts Here --><!--<div class="container-fluid">
+	<div class="row">
+      <div class="span4 icon-calendar"> <span>          21/05/15 </span> </div>
+      <div class="span8" > IV Seminário do Serviço Social</div>
+	  <span class="icon-play" style="color:#757782;">  <a href="/" <n style= "font-family: open_sansregular,'Open Sans',Arial,Helvetica,sans-serif; font-size: 14px; color:#757782; margin-left: 0px ! important; height:42px;"> Inscrições abertas </n> </a> </span>
+	</div>
+  <br>
+	<div class="row">
+	  <div class="span4 icon-calendar"> <span>          21/05/15 </span> </div>
+	  <div class="span8" > Oficina de Protocolos Clínicos e Diretrizes Terapêuticas</div>
+	  <span class="icon-play" style="color:#757782;">  <a href="/" <n style= "font-family: open_sansregular,'Open Sans',Arial,Helvetica,sans-serif; font-size: 14px; color:#757782; margin-left: 0px ! important; height:42px;"> Evento realizado </n> </a> </span>
+	</div>
+<br>
+  	<div class="row">
+	  <div class="span4 icon-calendar"> <span>          21/05/15 </span> </div>
+	  <div class="span8" > Semana de Enfermagem </div>
+	  <span class="icon-play" style="color:#757782;">  <a href="/" <n style= "font-family: open_sansregular,'Open Sans',Arial,Helvetica,sans-serif; font-size: 14px; color:#757782; margin-left: 0px ! important; height:42px;"> Evento realizado </n> </a> </span>
+	</div>
+</div>
+
+
+<div id = "lista_agenda">
+	<a href="#" >Veja a agenda completa</a>
+</div>-->
+	  <div id="nenhum"><a href='http://sistemas.into.saude.gov.br/internet/form/evento.aspx?f=1200&p1=2025' >Veja a agenda completa</a></div><br/><br/>
+<!-- Blank250 Ends Here -->
+	
+					</div>
+				<div class="moduletablemodule-box-01 span4">
+
+		
+			<!--<img src="/images/galeria_em_artigos/img.png">-->
+
+<a href="/como-ser-atendido-no-into/como-chegar-ao-into">
+    <img src="/images/chamadas/Como-chegar---1.png" alt="Como Chegar ao Into" />
+</a>
+<a href="/como-ser-atendido-no-into/central-de-atendimento">
+    <img src="/images/chamadas/Fale-Conosco2.jpg" alt="Central de Atendimento" style="padding-top: 25px; padding-bottom: 37px;" />
+</a>
+		</div>
+
+			<div class="row-fluid module span12 variacao-module-04">
+							<div class="outstanding-header">			 	<h2 class="outstanding-title"><span>Pacientes</span></h2>
+			 	</div>									<div class="chamadas-secundarias">
+	<div class="module span4 no-margin">		
+						
+			<a href="/dicas-dos-especialistas" class="img-rounded">
+				<img src="/images/chamadas/dicas-dos-especialistas.jpg" width="230" height="136" alt="Dicas dos Especialistas" />
+			</a>
+						
+		
+		<p class="subtitle">
+		Dicas dos Especialistas	</p>
+	
+	
+			<div>Orientações sobre prevenção e tratamento</div>		</div>	<div class="module span4">		
+						
+			<a href="/laudo-medico" class="img-rounded">
+				<img src="/images/chamadas/Laudo-Medico.jpg" width="230" height="136" alt="Laudo Médico" />
+			</a>
+						
+		
+		<p class="subtitle">
+		Laudo Médico	</p>
+	
+	
+			Saiba o que é necessário para solicitar o laudo médico		</div>	<div class="module span4">		
+						
+			<a href="/folhetos-e-cartilhas-para-o-paciente?view=default" class="img-rounded">
+				<img src="/images/chamadas/cartilhas-e-folhetos-para-pacientes-into.jpg" width="230" height="136" alt="" />
+			</a>
+						
+		
+		<p class="subtitle">
+		Folhetos e Cartilhas	</p>
+	
+	
+			Acesse os folhetos informativos e as cartilhas para pacientes		</div>
+</div>	
+					</div>
+				<div class="moduletable">
+
+		
+			<div class="row-fluid module">
+
+           <div class="module span8 variacao-module-01">
+		   <div class="outstanding-header"><h2 class="outstanding-title">Cursos</h2>
+	       </div>
+			
+			<div class="chamadas-secundarias">
+				<div class="module span6 no-margin">
+	                        <a href="/ensino/curso-aperfeicoamento-visita" class="img-rounded">
+				      <img src="/images/chamadas/cursos-aperfeicoamento-multidisciplinar.jpg" alt="Programa para Aperfeiçoamento e Visita Multiprofissional" height="136" width="230">
+			        </a>
+			        <h3>
+				   <a href="/ensino/curso-aperfeicoamento-visita">Programa para Aperfeiçoamento e Visita Multiprofissional</a>
+			        </h3>
+				</div>
+			
+			
+				<div class="module span6 no-margin" style="padding-left: 23px;">
+	                        <a href="/ensino/residencia" class="img-rounded">
+				      <img src="/images/chamadas/residencia-medica-into.jpg" alt="Residencia Médica Into" height="136" width="230">
+			        </a>
+			        <h3>
+				   <a href="/ensino/residencia">Residência</a>
+			        </h3>
+				</div>
+
+			</div>
+		    </div>
+            <div class="module span4 variacao-module-01">
+				<div class="outstanding-header">
+                                <h2 class="outstanding-title">Pós-Graduação</h2>
+				</div>
+
+                               <a href="/ensino/posgraduacao" class="img-rounded">
+				      <img src="/images/posgraduacao.jpeg" alt="Pós-Graduação em Ciências Aplicadas ao Sistema Musculoesquelético" height="136" width="230">
+			        </a>
+			        <h3>
+				   <a href="/ensino/posgraduacao">Pós-Graduação em Ciências Aplicadas ao Sistema Musculoesquelético</a>
+			        </h3>
+				
+			</div>
+</div>
+
+<!-- <div class="row-fluid module">
+
+	<div class="module span8 variacao-module-03">
+				<div class="outstanding-header"><h2 class="outstanding-title">+ Lidas</h2>
+
+				</div>
+
+			<div class="chamadas-secundarias">
+				<div class="module span4 no-margin">
+					<h1>teste</h1>
+				</div>
+
+			</div>
+			<div class="module span4">
+				<div class="outstanding-header"><h2 class="outstanding-title">Certificações</h2>
+
+				</div>
+				<h1>teste</h1>
+
+
+			</div>
+	</div>
+
+
+</div> -->
+
+		</div>
+
+			<div class="row-fluid module ">
+									<div class="row-fluid module">
+		
+	<div class="module span4 variacao-module-04">
+		<div class="outstanding-header"><h2 class="outstanding-title">Paciente</h2>
+	        					
+	        </div>
+			<div class="chamadas-secundarias">
+
+                        <a href="/centros-de-atendimento-especializado" class="img-rounded">
+				<img src="/images/chamadas/centro-home.png" alt="Centros de Atendimento<" height="136" width="230">
+			</a>
+				
+			<h3>
+				<a href="/centros-de-atendimento-especializado">Centros de Atendimento</a>
+			</h3>		
+                      </div>				
+			
+	</div>
+
+<div class="span8 module span4 variacao-module-02">
+				<div class="outstanding-header"><h2 class="outstanding-title">Programas</h2>
+	        					
+	</div>
+			
+			<div class="listagem-chamadas-secundarias">
+<a href="/acoes-e-programas/fortalecer" class="img-rounded">
+				<img src="/images/galeria_em_artigos/programa-fortalecer-into.jpg" alt="Programa Fortalecer" height="136" width="230">
+			</a>
+
+                    <div class="row-fluid">
+                                            		
+                <div class="content-container">
+                    <h3><a href="/acoes-e-programas/fortalecer">Fortalecer</a></h3>
+
+
+
+
+
+
+
+                    <div class="description">
+                                            </div>
+                </div>
+                        </div>
+                    <div class="row-fluid">
+                                            		
+                <div class="content-container">
+                    <!--<h3><a href="/editais/resultados">Resultados</a></h3>-->
+                    <div class="description">
+                                            </div>
+                </div>
+                        </div>
+    </div>
+			
+	
+										
+			
+			</div>
+<div class="module span4 variacao-module-03">
+										<div class="outstanding-header">				<h2 class="outstanding-title">Acesso à Informação</h2>
+	        					
+				</div>
+			
+			<div class="chamadas-secundarias">
+			
+	<a href="/servidores/adicional-por-plantao-hospitalar" class="img-rounded">
+				<img src="/images/chamadas/adicional-plantao-hospitalar.jpg" alt="Adicional Plantão Hospitalar" height="136" width="230">
+			</a>
+				
+			<h3>
+				<a href="/servidores/adicional-por-plantao-hospitalar">
+					Adicional por Plantão Hospitalar</a>
+			</h3>
+	
+		
+</div>			
+	
+										
+			
+			</div>
+
+	</div>	
+					</div>
+		
+
+                            
+                            <span class="hide">Fim do conteúdo da página</span>
+                        </section>
+                    </div>
+                    <!-- fim #content.span9 -->
+                </div>
+                <!-- fim .row-fluid -->
+            </div>
+            <!-- fim .container -->
+        </main>
+        <footer>
+            <div class="footer-atalhos">
+                <div class="container">
+                    <div class="pull-right voltar-ao-topo"><a href="#portal-siteactions"><i class="icon-chevron-up"></i>&nbsp;Voltar para o topo</a></div>
+                </div>
+            </div>
+            <div class="container container-menus">
+                <div id="footer" class="row footer-menus">
+                    <span class="hide">Início da navegação de rodapé</span>
+                    	
+		<div class="span3">		
+			<nav class="row sobre nav">
+				 			
+				<h2>Paciente</h2>
+								
+<ul>
+<li class="item-264 parent"><a href="/centros-de-atendimento-especializado" >Centros de Atendimento Especializado</a></li><li class="item-304 parent"><a href="/como-ser-atendido-no-into" >Como ser atendido no Into</a></li><li class="item-300 parent"><a href="/dicas-dos-especialistas" >Dicas dos Especialistas</a></li><li class="item-301"><a href="/direitos-da-pessoa-com-deficiencia" >Direitos da Pessoa com Deficiência</a></li><li class="item-306 parent"><a href="/folhetos-e-cartilhas-para-o-paciente" > Folhetos e Cartilhas para o paciente</a></li><li class="item-303 parent"><a href="/laudo-medico" >Laudo Médico</a></li><li class="item-697"><a href="/copia-prontuario" >Solicitação de cópia de prontuário</a></li><li class="item-299 parent"><a href="/lista-de-espera-para-cirurgia" >Lista de Espera para Cirurgia</a></li><li class="item-305"><a href="/orientacao-para-internacao" >Orientação para Internação</a></li></ul>
+			</nav>					
+		</div>
+	
+		
+		<div class="span3">		
+			<nav class="row assuntos nav">
+				 			
+				<h2>Nosso Instituto</h2>
+								
+<ul>
+<li class="item-261"><a href="/departamentos-e-servicos" >Departamentos e Serviços</a></li><li class="item-262 parent"><a href="/banco-de-tecidos" >Banco de Tecidos</a></li><li class="item-712 parent"><a href="/area-de-reabilitacao" >Reabilitação</a></li><li class="item-720 parent"><a href="/clinica-da-dor" >Clínica da Dor</a></li><li class="item-718"><a href="/area-de-reabilitacao-2" >Área de Imagem</a></li><li class="item-326"><a href="/documentos-institucionais" >Documentos Institucionais</a></li><li class="item-327 parent"><a href="/hemointo" >Hemointo</a></li><li class="item-328 parent"><a href="/humanizacao" >Humanização</a></li><li class="item-329"><a href="/fisioterapia" >Fisioterapia</a></li><li class="item-330"><a href="/ouvidoria" >Ouvidoria</a></li><li class="item-331 parent"><a href="/voluntariado" >Voluntariado</a></li></ul>
+			</nav>					
+		</div>
+	
+		
+		<div class="span3">		
+			<nav class="row assuntos nav">
+				 			
+				<h2>Ensino e Pesquisa</h2>
+								
+<ul>
+<li class="item-705 parent"><a href="/nit" >NIT</a></li><li class="item-263 parent"><a href="/ensino" >Ensino</a></li><li class="item-284 parent"><a href="/pesquisa" >Pesquisa</a></li></ul>
+			</nav>					
+		</div>
+	
+		
+		<div class="span3">		
+			<nav class="row sobre nav">
+				 			
+				<h2>Navegação</h2>
+								
+<ul>
+<li class="item-172"><a href="/acessibilidade" >Acessibilidade</a></li><li class="item-173"><a href="/mapa-do-site" >Mapa do site</a></li></ul>
+			</nav>					
+		</div>
+	
+		
+		<div class="span3">		
+			<nav class="row servicos nav">
+				 			
+				<h2>Serviços</h2>
+								
+<ul>
+<li class="item-131 parent"><a href="/perguntas-frequentes" >Perguntas Frequentes</a></li><li class="item-132 parent"><a href="/central-de-atendimento" >Central de Atendimento</a></li><li class="item-135 parent"><a href="/area-de-imprensa" >Área de imprensa</a></li><li class="item-133"><a href="/webmail-e-extranet" >Webmail e Extranet</a></li></ul>
+			</nav>					
+		</div>
+	
+		
+		<div class="span3">		
+			<nav class="row redes-sociais nav">
+				 			
+				<h2>Redes Sociais</h2>
+								
+<ul>
+<li class="item-138"><a href="https://www.facebook.com/into.ms" >Facebook</a></li><li class="item-257"><a href="https://www.instagram.com/intosaude" >Instagram</a></li><li class="item-137"><a href="https://www.youtube.com/user/intonamidia" >YouTube</a></li></ul>
+			</nav>					
+		</div>
+	
+	
+                    <span class="hide">Fim da navegação de rodapé</span>
+                </div>
+                <!-- fim .row -->
+            </div>
+            <!-- fim .container -->
+            <div class="footer-logos">
+                <div class="container">
+                                            <a href="http://www.acessoainformacao.gov.br/" class="logo-acesso pull-left"><img src="/templates/padraogoverno01/images/acesso-a-informacao.png" alt="Acesso a Informação"></a>
+                                                                <!-- separador para fins de acessibilidade --><span class="hide">&nbsp;</span><!-- fim separador para fins de acessibilidade -->
+                        <!-- ######## link da logo do Governo ##### 28/06/2018 -->
+						<a href="https://www.brasil.gov.br/" class="brasil pull-right"><img src="/templates/padraogoverno01/images/brasil.png" alt="Brasil - Governo Federal"></a>
+                                    </div>
+            </div>
+            <div class="footer-ferramenta">
+                <div class="container">
+                    Desenvolvido com CMS de código aberto.                </div>
+            </div>
+            <div class="footer-atalhos visible-phone">
+                <div class="container">
+                    <span class="hide">Fim do conteúdo da página</span>
+                    <div class="pull-right voltar-ao-topo"><a href="#portal-siteactions"><i class="icon-chevron-up"></i>&nbsp;Voltar para o topo</a></div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <!-- fim div#wrapper -->
+    <!-- scripts principais do template -->
+    		<script src="/templates/padraogoverno01/bootstrap/js/bootstrap.min.js" type="text/javascript"></script><noscript>&nbsp;<!-- item para fins de acessibilidade --></noscript>
+	    <script src="/templates/padraogoverno01/js/jquery.cookie.js" type="text/javascript"></script><noscript>&nbsp;<!-- item para fins de acessibilidade --></noscript>
+	    <script src="/templates/padraogoverno01/js/template.js" type="text/javascript"></script><noscript>&nbsp;<!-- item para fins de acessibilidade --></noscript>
+		            <!-- debug -->
+    
+    </body>
+</html>

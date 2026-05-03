@@ -45,5 +45,50 @@
     "institution": "FUVEST / USP",
     "exam": "Residência Médica",
     "url": "https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+  },
+  {
+    "name": "FHEMIG - Processo Seletivo Residências",
+    "institution": "FHEMIG",
+    "exam": "Residência Médica",
+    "url": "https://www.fhemig.mg.gov.br/ensino-e-pesquisa/processo-seletivo-residencias-fhemig"
+  },
+  {
+    "name": "INTO - Residência Médica 2025/2026",
+    "institution": "INTO / Ministério da Saúde",
+    "exam": "Residência Médica",
+    "url": "https://www.into.saude.gov.br/ensino/residencia/medica?id=1156&layout=edit"
+  },
+  {
+    "name": "HU-UFSC - Gabaritos e Resultados",
+    "institution": "Ebserh / HU-UFSC",
+    "exam": "Residência Médica",
+    "url": "https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-sul/hu-ufsc/comunicacao/noticias/confira-os-gabaritos-das-provas-para-residencia-medica-em-duas-especialidades-no-hu"
+  },
+  {
+    "name": "Franca - Residência Médica 2025",
+    "institution": "Prefeitura de Franca",
+    "exam": "Residência Médica",
+    "year": "2025",
+    "url": "https://www3.franca.sp.gov.br/noticia/21286/sade-divulga-gabarito-do-programa-residncia-mdica.html"
+  },
+  {
+    "name": "Franca - Residência Médica 2026",
+    "institution": "Prefeitura de Franca",
+    "exam": "Residência Médica",
+    "year": "2026",
+    "url": "https://www3.franca.sp.gov.br/noticia/37837/sade-divulga-gabarito-da-prova-objetiva-da-residncia-mdica.html"
+  },
+  {
+    "name": "Macaé - Residência Médica 2026",
+    "institution": "Prefeitura de Macaé",
+    "exam": "Residência Médica",
+    "year": "2026",
+    "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/pss-gabarito-das-provas-de-residencia-medica-disponivel-no-portal-da-prefeitura"
+  },
+  {
+    "name": "EMSERH - Residência Médica",
+    "institution": "EMSERH",
+    "exam": "Residência Médica",
+    "url": "https://www.emserh.ma.gov.br/emserh-realiza-seletivo-para-residencia-medica/"
   }
 ]

@@ -1,0 +1,2171 @@
+
+
+--- PAGE 1 ---
+
+ 
+EGF 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 009/2025   
+ 
+Engenheiro (Florestal) 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique¬se¬o¬seu¬nome¬está¬correto¬na¬capa¬deste¬caderno¬e¬se¬a¬folha¬de¬respostas¬pertence¬ao¬grupo EGF.¬
+Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+3. Durante¬a¬prova,¬são¬vedadas¬a¬comunicação¬entre¬candidatos¬e¬a¬utilização¬de¬qualquer¬material¬de¬consulta¬e¬
+de¬aparelhos¬de¬telecomunicação.¬
+4. Duração¬da¬prova:¬4¬horas.¬Cabe¬ao¬candidato¬controlar¬o¬tempo¬com¬base¬nas¬informações¬fornecidas¬pelo¬
+fiscal.¬O(A)¬candidato(a)¬poderá¬retirar-se¬da¬sala¬definitivamente¬apenas¬a¬partir¬das¬15¬h.¬Não¬haverá¬tempo¬
+adicional¬para¬preenchimento¬da¬folha¬de¬respostas.¬¬
+5. O(A)¬ candidato(a)¬ deverá¬ seguir¬ as¬ orientações¬ estabelecidas¬ pela¬ FUVEST¬ a¬ respeito¬ dos¬ procedimentos¬
+adotados¬para¬a¬aplicação¬deste¬concurso.¬
+6. Lembre-se¬de¬que¬a¬FUVEST¬se¬reserva¬ao¬direito¬de¬efetuar¬procedimentos¬adicionais¬de¬identificação¬e¬controle¬
+do¬ processo,¬ visando¬ a¬ garantir¬ a¬ plena¬ integridade¬ do¬ exame.¬ Assim,¬ durante¬ a¬ realização¬ da¬ prova,¬ será¬
+coletada¬por¬um¬fiscal¬uma¬foto¬do(a)¬candidato(a)¬para¬fins¬de¬reconhecimento¬facial,¬para¬uso¬exclusivo¬da¬USP¬
+e¬da¬FUVEST.¬A¬imagem¬não¬será¬divulgada¬nem¬utilizada¬para¬quaisquer¬outras¬finalidades,¬nos¬termos¬da¬lei.¬
+7. Após¬a¬autorização¬do¬fiscal¬da¬sala,¬verifique¬se¬o¬caderno¬está¬completo.¬Ele¬deve¬conter¬60¬questões¬objetivas,¬
+com¬5¬alternativas¬cada,¬e¬1¬questão¬dissertativa.¬Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+8. Preencha¬a¬folha¬de¬respostas¬com¬cuidado,¬utilizando¬caneta¬esferográfica¬de¬tinta azul ou preta.¬Essa¬folha¬
+não será substituída¬em¬caso¬de¬rasura.¬
+9. Ao¬final¬da¬prova,¬é¬obrigatória¬a¬devolução¬da¬folha¬de¬respostas¬acompanhada¬deste¬caderno¬de¬questões.¬
+Declaração 
+Declaro¬que¬li¬e¬estou¬ciente¬das¬informações¬que¬constam¬na¬capa¬desta¬prova,¬na¬folha¬de¬respostas,¬bem¬
+como¬dos¬avisos¬que¬foram¬transmitidos¬pelo¬fiscal¬de¬sala.¬
+¬
+___________________________________________________¬
+ASSINATURA¬
+O(a)¬candidato(a)¬que¬não¬assinar¬a¬capa¬da¬prova¬será¬considerado(a)¬ausente¬da¬prova.¬
+ 
+ 
+
+
+--- PAGE 2 ---
+
+Concurso Edital RH nº 009/2025 – Engenheiro (especialidade: Florestal) 
+Texto para as questões 01 e 02 
+¬
+Em¬silêncio¬¬
+¬
+¬
+Precisava¬de¬silêncio¬para¬pensar,¬ordenar¬sua¬vida¬
+e¬rumos.¬Juntou¬poucas¬coisas,¬navegou¬até¬uma¬ilha¬deserta.¬
+Mas¬a¬gritaria¬das¬aves¬marinhas¬fundia-se¬com¬o¬farfalhar¬do¬
+vento¬ nas¬ palmeiras,¬ e¬ quando¬ ambos¬ se¬ calavam,¬ batiam¬
+inevitáveis¬ as¬ ondas¬ contra¬ as¬ pedras.¬ Silêncio¬ não¬ havia.¬
+Tomou¬suas¬coisas,¬voltou¬ao¬continente,¬recolheu-se¬numa¬
+gruta¬ em¬ montanha¬ distante.¬ Embora¬ isolado,¬ logo¬ se¬ viu¬
+rodeado¬de¬ruídos,¬pequenos¬alguns,¬minúsculos¬outros,¬que¬
+o¬aparente¬silêncio¬circundante¬agigantava.¬Era¬o¬gotejar¬do¬
+excesso¬de¬umidade,¬o¬esvoejar¬dos¬morcegos¬ao¬anoitecer,¬
+o¬zumbir¬de¬um¬ou¬outro¬inseto,¬um¬gorjear¬lá¬fora,¬um¬escavar¬
+cá¬ dentro,¬ um¬ rastejar,¬ e¬ o¬ ronco¬ majestoso¬ dos¬ trovões,¬ o¬
+estalar¬dos¬relâmpagos.¬Novamente¬arrebanhou¬seus¬poucos¬
+pertences.¬ E¬ desceu¬ a¬ montanha,¬ regressou¬ à¬ cidade.¬ As¬
+chaves¬da¬sua¬casa¬tilintavam¬no¬bolso,¬não¬atendeu¬ao¬apelo.¬
+Tomou¬ônibus¬e¬metrô,¬caminhou¬até¬a¬praça¬mais¬central.¬Ali,¬
+onde¬tantos¬passavam¬e¬as¬buzinas¬dos¬carros¬e¬os¬apitos¬dos¬
+guardas¬e¬o¬gritar¬dos¬ambulantes¬e¬o¬chamado¬das¬sirenes¬
+se¬entrecruzavam,¬sentou-se.¬Assim¬como¬havia¬ignorado¬as¬
+chaves,¬ ignorou¬ os¬ sons¬ todos¬ que¬ lhe¬ atingiam¬ a¬ cabeça,¬
+esqueceu¬os¬ouvidos.¬E,¬vagarosamente,¬começou¬a¬descida¬
+em¬seu¬silêncio¬interior.¬
+¬
+Marina¬Colasanti.¬Hora¬de¬alimentar¬serpentes.¬Global,¬2013¬
+¬
+{01} 
+No¬conto,¬a¬busca¬do¬protagonista¬está¬relacionada¬à¬tentativa¬
+de¬
+¬
+(A)¬demonstrar¬ que¬ o¬ silêncio¬ perfeito¬ é¬ uma¬ construção¬
+imaginária¬e¬artificial.¬
+(B)¬isolar-se¬ do¬ mundo¬ externo¬ para¬ criar¬ uma¬ realidade¬
+paralela¬e¬inexorável.¬
+(C)¬ comprovar¬ que¬ a¬ natureza¬ é¬ menos¬ ruidosa¬ do¬ que¬ o¬
+ambiente¬urbano.¬
+(D)¬encontrar¬ uma¬ quietude¬ absoluta¬ que,¬ paradoxalmente,¬
+revela-se¬inalcançável.¬
+(E)¬estabelecer¬um¬contraponto¬entre¬a¬vida¬solitária¬e¬a¬vida¬
+social¬da¬cidade.¬
+##### 
+¬
+{02} 
+O¬sufixo¬“-ejar”,¬presente¬em¬“esvoejar”,¬desempenha¬papel¬
+semântico¬específico¬na¬construção¬do¬verbo,¬conferindo-lhe¬
+a¬ideia¬de:¬
+¬
+(A)¬Estado¬contínuo¬e¬permanente.¬
+(B)¬Movimento¬leve¬e¬intermitente.¬
+(C)¬Intensificação¬de¬uma¬ação.¬
+(D)¬Formação¬de¬substantivos¬abstratos.¬
+(E)¬Relação¬de¬causa¬e¬consequência.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Texto para as questões 03 e 04 
+¬
+Mal¬o¬CEO¬da¬Meta,¬Mark¬Zuckerberg,¬anunciou¬as¬mudanças¬
+nas¬ políticas¬ de¬ moderação¬ de¬ suas¬ plataformas,¬ muitos¬
+educadores,¬ comunicadores¬ e¬ jornalistas¬ presentes¬ nos¬
+diferentes¬ grupos¬ dos¬ quais¬ faço¬ parte¬ começaram¬ a¬
+questionar¬a¬eficácia¬da¬Educação¬Midiática.¬O¬que¬podemos¬
+diante¬de¬um¬Musk¬e¬um¬Zuckerberg?¬De¬que¬adianta¬educar¬
+para¬ a¬ checagem¬ de¬ notícias¬ se¬ agora¬ “abriram-se¬ as¬
+porteiras”¬e¬nenhum¬de¬nós¬vai¬dar¬conta¬de¬distinguir¬o¬que¬é¬
+verdadeiro¬ ou¬ falso,¬ de¬ remover¬ conteúdos¬ agressivos,¬
+preconceituosos,¬ de¬ construir¬ referenciais¬ seguros¬ para¬
+obtermos¬informações¬íntegras¬e¬confiáveis?¬É¬enxugar¬gelo,¬
+nadar¬contra¬a¬corrente,¬melhor¬a¬gente¬se¬preparar¬para¬viver¬
+no¬caos,¬diziam¬alguns,¬já¬ameaçando¬sair¬de¬vez¬das¬redes,¬
+boicotar¬ a¬ Meta,¬ banir¬ o¬ digital¬ de¬ vez¬ do¬ seu¬ cotidiano.¬
+Entendo¬a¬Educação¬Midiática¬como¬um¬importante¬e¬potente¬
+elemento¬ para¬ que¬ possamos¬ lidar¬ com¬ todos¬ os¬ desafios¬
+presentes¬no¬mundo¬digital¬–¬e¬de¬resto,¬no¬mundo¬real,¬que¬o¬
+reflete.¬Ela¬é¬uma¬alternativa¬viável¬e¬segura¬que¬todos¬nós,¬
+que¬ desejamos¬ continuar¬ a¬ viver¬ civilizadamente¬ em¬
+sociedade,¬podemos¬tomar¬em¬nossas¬mãos.¬Se¬as¬chamadas¬
+big¬techs¬nos¬abandonam¬à¬própria¬sorte,¬cabe¬a¬cada¬um¬de¬
+nós¬entender¬qual¬é¬o¬nosso¬papel¬nesse¬ecossistema.¬¬
+¬
+Adaptado¬de:¬Januária¬Cristina¬Alves.¬“Novas¬diretrizes¬da¬Meta:¬será¬o¬
+fim¬da¬Educação¬Midiática?”¬Nexo¬Jornal.¬16¬de¬janeiro¬de¬2025¬
+¬
+{03} 
+No¬trecho¬“Mal¬o¬CEO¬da¬Meta,¬Mark¬Zuckerberg,¬anunciou¬as¬
+mudanças¬nas¬políticas¬de¬moderação¬de¬suas¬plataformas”,¬
+o¬termo¬“Mal”¬estabelece¬uma¬relação¬de¬
+¬
+(A)¬comparação,¬
+equiparando¬
+dois¬
+acontecimentos¬
+simultâneos.¬¬
+(B)¬condição,¬introduzindo¬uma¬possibilidade¬de¬mudança.¬
+(C)¬consequência,¬ indicando¬ um¬ efeito¬ direto¬ da¬ ação¬
+posterior.¬
+(D)¬oposição,¬contrastando¬ideias¬consideradas¬divergentes.¬
+(E)¬tempo,¬indicando¬uma¬ação¬ocorrida¬imediatamente¬após¬
+outra.¬
+##### 
+¬
+{04} 
+No¬período¬em¬que¬se¬encontra,¬a¬sequência¬textual¬“melhor¬
+a¬gente¬se¬preparar”¬apresenta-se¬gramaticalmente¬como¬
+¬
+(A)¬uma¬inversão¬sintática,¬típica¬da¬linguagem¬formal.¬
+(B)¬ um¬ erro¬ gramatical,¬ com¬ a¬ falta¬ do¬ verbo¬ principal¬ na¬
+oração.¬
+(C)¬uma¬ construção¬ elíptica,¬ simplificando¬ o¬ segmento¬
+sintático.¬
+(D)¬um¬ exemplo¬ de¬ hipérbole,¬ intensificando¬ a¬ situação¬
+descrita.¬
+(E)¬uma¬ construção¬ arcaica,¬ comum¬ em¬ textos¬ literários¬
+antigos.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 3 ---
+
+Concurso Edital RH nº 009/2025 – Engenheiro (especialidade: Florestal) 
+Texto para as questões de 05 a 08 
+Rain¬Is¬Coming¬to¬Burning¬Los¬Angeles¬and¬Will¬Bring¬Its¬Own¬Risks¬
+Rain¬ is¬ forecast¬ to¬ begin¬ as¬ soon¬ as¬ Saturday¬
+afternoon¬ and¬ to¬ continue¬ as¬ late¬ as¬ Monday¬ evening,¬ says¬
+meteorologist¬Kristan¬Lund¬of¬the¬National¬Weather¬Service’s¬
+Los¬ Angeles¬ office.¬ The¬ area¬ desperately¬ needs¬ the¬
+precipitation,¬ but¬ experts¬ are¬ warily¬ monitoring¬ the¬ situation¬
+because¬rain¬poses¬its¬own¬risks¬in¬recently¬burned¬areas—
+most¬notably¬the¬potential¬occurrence¬of¬mudslides¬and¬similar¬
+hazards.¬ “Rain¬ is¬ good¬ because¬ we’ve¬ been¬ so¬ dry,”¬ Lund¬
+says.¬ “However,¬ if¬ we¬ get¬ heavier¬ rain¬ rates¬ or¬ we¬ get¬ the¬
+thunderstorms,¬it’s¬actually¬a¬lot¬more¬dangerous¬because¬you¬
+can¬get¬debris¬flows.”¬
+Fires¬do¬a¬couple¬of¬different¬things¬to¬the¬landscape¬
+that¬can¬increase¬the¬risk¬of¬burned¬material,¬soil¬and¬detritus¬
+hurtling¬out¬of¬control.¬When¬fires¬burn¬hot¬or¬long¬enough,¬they¬
+leave¬an¬invisible¬layer¬of¬waxy¬material¬just¬under¬the¬surface¬
+of¬the¬ground.¬This¬develops¬from¬decomposing¬leaves¬and¬
+other¬organic¬material,¬which¬contain¬naturally¬hydrophobic¬or¬
+water-repellent¬compounds.¬Fire¬can¬vaporize¬this¬litter,¬and¬
+the¬resulting¬gas¬seeps¬into¬the¬upper¬soil—where¬it¬quickly¬
+cools¬and¬condenses,¬forming¬the¬slippery¬layer.¬
+When¬rain¬falls¬on¬ground¬that¬has¬been¬affected¬by¬
+this¬phenomenon,¬it¬can’t¬sink¬beyond¬the¬hydrophobic¬layer—
+so¬the¬water¬flows¬away,¬often¬hauling¬debris¬with¬it.¬“All¬of¬the¬
+trees,¬branches,¬everything¬that’s¬been¬burned—unfortunately,¬
+if¬ it¬ rains,¬ that¬ stuff¬ just¬ floats,”¬ Lund¬ says.¬ “It’s¬ really¬
+concerning.”¬Even¬a¬fire¬that¬isn’t¬severe¬enough¬to¬create¬a¬
+hydrophobic¬layer¬can¬still¬cause¬debris¬flows,¬says¬Danielle¬
+Touma,¬a¬climate¬scientist¬at¬the¬University¬of¬Texas¬at¬Austin.¬
+Under¬normal¬conditions,¬trees¬and¬other¬plants¬usually¬trap¬
+some¬rain¬above¬the¬surface,¬slowing¬the¬water’s¬downward¬
+journey.¬But¬on¬freshly¬burned¬land¬there’s¬much¬less¬greenery¬
+to¬interfere;¬all¬the¬rain¬immediately¬hits¬the¬ground.¬[...]¬
+Fortunately,¬the¬rain¬should¬also¬help¬firefighters¬tame¬
+the¬blazes¬that¬remain¬active.¬The¬largest,¬the¬Palisades¬Fire,¬
+is¬ currently¬ 77¬ percent¬ contained.¬ The¬ second¬ largest,¬ the¬
+Eaton¬Fire,¬is¬95¬percent¬contained.¬The¬Hughes¬Fire¬is¬third¬
+largest¬ and¬ only¬ 56¬ percent¬ contained.¬ A¬ fire¬ can¬ be¬ fully¬
+contained¬but¬still¬burning.¬The¬containment¬percentage¬refers¬
+to¬the¬amount¬of¬the¬perimeter¬that¬has¬barriers¬that¬firefighters¬
+expect¬will¬prevent¬further¬spread.¬
+¬
+Scientific¬American.¬January¬27th,¬2025.¬Adaptado.¬
+{05} 
+Com¬ base¬ no¬ primeiro¬ parágrafo¬ e¬ na¬ opinião¬ dos¬
+especialistas,¬qual¬das¬seguintes¬inferências¬pode¬ser¬feita?¬
+¬
+(A)¬A¬ área¬ queimada¬ apresenta¬ sérios¬ danos,¬ e¬ as¬ chuvas¬
+fortes¬podem¬auxiliar¬na¬recuperação¬do¬meio¬ambiente.¬
+(B)¬O¬meteorologista¬Kristan¬Lund¬acredita¬que¬a¬chuva¬será¬
+um¬problema,¬independentemente¬de¬sua¬intensidade.¬
+(C)¬Embora¬a¬chuva¬prevista¬para¬o¬fim¬de¬semana¬seja¬bem-
+vinda,¬ há¬ também¬ preocupações¬ devido¬ aos¬ riscos¬ de¬
+deslizamentos¬de¬terra.¬
+(D)¬Como¬ a¬ possibilidade¬ de¬ deslizamentos¬ de¬ terra¬ ocorre¬
+apenas¬ nos¬ locais¬ não¬ afetados¬ por¬ incêndios,¬ os¬
+malefícios¬são¬imperceptíveis.¬
+(E)¬Uma¬vez¬que¬a¬região¬está¬bem-preparada¬para¬lidar¬
+com¬a¬ocorrência¬de¬chuvas,¬a¬área¬não¬está¬suscetível¬a¬
+riscos.¬
+##### 
+ 
+ 
+ 
+ 
+{06} 
+O¬termo¬"litter”,¬no¬parágrafo¬2,¬refere-se¬¬¬
+¬
+(A)¬ao¬ gás¬ que¬ é¬ liberado¬ pela¬ decomposição¬ das¬ folhas¬
+durante¬as¬queimadas.¬
+(B)¬à¬substância¬que¬resulta¬na¬maior¬fertilidade¬do¬solo¬após¬
+o¬incêndio.¬
+(C)¬ao¬ material¬ utilizado¬ pelos¬ bombeiros¬ para¬ controlar¬
+incêndios¬florestais.¬
+(D)¬ao¬acumulado¬de¬cinzas¬que¬se¬forma¬após¬a¬queima¬do¬
+material¬decomposto.¬
+(E)¬à¬camada¬de¬material¬orgânico¬que¬cobre¬a¬superfície¬do¬
+solo.¬
+##### 
+¬
+{07} 
+Considerando¬ a¬ oração¬ "[...]¬ it¬ can’t¬ sink¬ beyond¬ the¬
+hydrophobic¬ layer—so¬ the¬ water¬ flows¬ away¬ [...]”¬ (3º¬
+parágrafo),¬o¬termo¬“so”¬pode¬ser¬substituído,¬sem¬prejuízo¬de¬
+sentido,¬por¬
+¬
+(A)¬moreover.¬
+(B)¬therefore.¬
+(C)¬nevertheless.¬
+(D)¬conversely.¬
+(E)¬furthermore.¬
+##### 
+¬
+{08} 
+Segundo¬ Danielle¬ Touma,¬ uma¬ especialista¬ em¬ ciências¬
+climáticas¬da¬Universidade¬do¬Texas¬em¬Austin,¬¬
+¬
+(A)¬mesmo¬ em¬ terrenos¬ queimados,¬ a¬ chuva¬ não¬ consegue¬
+causar¬deslizamentos¬de¬detritos.¬
+(B)¬qualquer¬queimada¬pode¬criar¬uma¬camada¬que¬repele¬a¬
+água,¬dificultando¬sua¬absorção.¬
+(C)¬até¬ incêndios¬ menos¬ graves¬ podem¬ resultar¬ em¬
+deslizamentos¬de¬detritos¬em¬períodos¬de¬chuva¬devido¬à¬
+falta¬de¬vegetação.¬
+(D)¬a¬ chuva¬ é¬ mais¬ eficaz¬ em¬ terrenos¬ queimados,¬ pois¬ a¬
+camada¬hidrofóbica¬impede¬a¬perda¬de¬água.¬
+(E)¬sob¬condições¬normais,¬a¬mata¬impede¬as¬águas¬pluviais¬
+de¬penetrar¬no¬solo¬de¬maneira¬eficiente.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 4 ---
+
+Concurso Edital RH nº 009/2025 – Engenheiro (especialidade: Florestal) 
+{09} 
+“ChatGPT,¬ DeepSeek¬ e¬ similares¬ pertencem¬ à¬ classe¬ de¬
+LLMs,¬avançados¬modelos¬de¬linguagem¬treinados¬a¬partir¬de¬
+grandes¬bancos¬de¬dados¬–¬majoritariamente¬em¬inglês.¬Os¬
+mais¬populares¬pertencem¬a¬empresas¬norte-americanas.¬E¬
+assim¬como¬os¬algoritmos¬de¬pesquisa¬e¬redes¬sociais,¬não¬
+são¬neutros.¬Ou¬seja,¬podem¬reproduzir¬vieses,¬preconceitos¬
+e¬ estereótipos¬ de¬ seus¬ programadores,¬ que¬ por¬ sua¬ vez¬
+podem¬receber¬ordens¬dos¬donos¬das¬empresas¬e¬de¬outros¬
+atores¬–¬na¬China,¬por¬exemplo,¬empresas¬devem¬passar¬por¬
+análise¬de¬segurança¬e¬obter¬aprovações¬do¬governo¬antes¬de¬
+lançar¬produtos¬(...).¬
+Nesse¬cenário,¬como¬ficam¬os¬países¬que¬não¬têm¬plataformas¬
+nacionais¬de¬alcance¬global,¬como¬é¬o¬caso¬do¬Brasil?¬E¬mais:¬
+o¬que¬acontecerá¬com¬a¬História¬e¬a¬memória¬desses¬países¬
+diante¬de¬uma¬população¬cada¬vez¬mais¬conectada¬a¬LLMs¬
+estrangeiras¬globais¬que¬acredita¬mais¬no¬que¬encontra¬nos¬
+apps¬e¬sites¬de¬busca¬do¬que¬nos¬livros¬de¬História?”¬
+¬
+Luciana¬Garbin,¬IAs¬estão¬apagando¬e¬reescrevendo¬pedaços¬da¬
+História.¬E¬o¬Brasil¬com¬isso?,¬O¬Estado¬de¬S.¬Paulo¬(on-line),¬29/01/2025¬
+(Adaptado)¬
+¬
+O¬texto¬apresentado¬traz¬uma¬crítica¬
+¬
+(A)¬ao¬ trabalho¬ dos¬ programadores,¬ que¬ estabelecem¬
+mecanismos¬frágeis¬de¬intelecção¬das¬máquinas¬dotadas¬
+de¬inteligência.¬
+(B)¬às¬chamadas¬big¬techs¬que¬visam¬apenas¬o¬lucro¬a¬partir¬
+dos¬ serviços¬ que¬ disponibilizam,¬ gerando¬ dificuldades¬
+para¬o¬usuário.¬
+(C)¬às¬ empresas¬ de¬ tecnologia¬ brasileiras,¬ que¬ não¬
+desenvolveram¬ LLMs¬ de¬ alcance¬ global,¬ o¬ que¬ seria¬
+possível¬a¬despeito¬do¬alcance¬da¬língua¬portuguesa¬no¬
+mundo.¬
+(D)¬aos¬
+governos¬
+das¬
+nações¬
+desenvolvidas,¬
+por¬
+estabelecerem¬
+padrões¬
+desiguais¬
+de¬
+controle¬
+de¬
+segurança¬ para¬ os¬ produtos¬ como¬ o¬ ChatGPT¬ e¬ o¬
+DeepSeek.¬
+(E)¬às¬pessoas¬que,¬em¬grande¬parte,¬passaram¬a¬confiar¬em¬
+fontes¬e¬a¬acreditar¬em¬informações¬não¬contextualizadas¬
+historicamente.¬
+##### 
+¬
+{10} 
+Em¬Ideias¬para¬adiar¬o¬fim¬do¬Mundo,¬Ailton¬Krenak¬coloca¬
+ênfase¬no¬papel¬que¬o¬rio¬Watu¬desempenha¬para¬a¬unidade¬
+do¬povo¬krenak,¬o¬povo¬“cabeça¬da¬terra”.¬O¬rio¬foi¬palco¬de¬
+um¬ evento¬ que¬ marcou¬ nosso¬ país.¬ De¬ posse¬ dessas¬
+informações¬ e¬ com¬ base¬ na¬ leitura¬ do¬ livro,¬ assinale¬ a¬
+alternativa¬que¬indica¬o¬nome¬do¬rio,¬em¬português,¬e¬o¬evento¬
+mencionado.¬
+¬
+(A)¬Solimões¬–¬seca¬de¬2023.¬
+(B)¬Doce¬–¬rompimento¬da¬barragem¬do¬Fundão.¬
+(C)¬Tietê¬–¬enchente¬de¬São¬Paulo¬em¬1929.¬
+(D)¬São¬Francisco¬–¬transposição¬de¬suas¬águas.¬
+(E)¬Paraopeba¬¬–¬¬rompimento¬¬da¬¬barragem¬¬de¬¬Brumadinho.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+{11} 
+Em¬ O¬ Perigo¬ de¬ uma¬ História¬ Única,¬ Chimamanda¬ Ngozi¬
+Adichie¬afirma¬que¬“Há¬pouco¬tempo¬dei¬uma¬palestra¬numa¬
+universidade¬e¬um¬aluno¬me¬disse¬que¬era¬uma¬grande¬pena¬
+que¬ os¬ homens¬ nigerianos¬ fossem¬ agressivos¬ como¬ o¬
+personagem¬do¬pai¬no¬meu¬romance.¬Eu¬disse¬a¬ele¬que¬tinha¬
+acabado¬de¬ler¬um¬livro¬chamado¬O¬psicopata¬americano¬e¬
+que¬ achava¬ uma¬ grande¬ pena¬ que¬ os¬ jovens¬ americanos¬
+fossem¬assassinos¬em¬série.¬Bem,¬obviamente¬eu¬disse¬isso¬
+num¬ leve¬ ataque¬ de¬ irritação.¬ Mas¬ jamais¬ teria¬ me¬ ocorrido¬
+pensar¬que,¬só¬porque¬li¬um¬romance¬no¬qual¬o¬personagem¬
+era¬ um¬ assassino¬ em¬ série,¬ ele¬ de¬ alguma¬ maneira¬
+representava¬todos¬os¬americanos.¬Não¬digo¬isso¬porque¬me¬
+considero¬uma¬pessoa¬melhor¬do¬que¬esse¬aluno¬(...).¬Já¬tinha¬
+lido¬Tyler,¬Updike,¬Steinbeck¬e¬Gaitskill.¬Não¬tinha¬uma¬história¬
+única¬dos¬Estados¬Unidos”.¬¬
+Nesse¬livro,¬como¬no¬trecho¬de¬O¬Estado¬de¬S.¬Paulo¬citado¬
+na¬questão¬9,¬pode-se¬afirmar¬que¬a¬versão¬de¬um¬fato¬será¬
+tanto¬mais¬disseminada¬quanto¬
+¬
+(A)¬maior¬ for¬ o¬ poder¬ econômico¬ e¬ cultural¬ de¬ quem¬ a¬
+comunica.¬
+(B)¬mais¬críveis¬forem¬os¬seus¬contornos¬narrativos.¬
+(C)¬menos¬verossímeis¬forem¬os¬valores¬ínsitos¬à¬mensagem.¬
+(D)¬maior¬for¬o¬poder¬militar¬e¬científico¬de¬quem¬a¬comunica.¬
+(E)¬menores¬forem¬os¬riscos¬de¬conter¬inverdades.¬
+##### 
+¬
+{12} 
+Observe¬a¬charge¬a¬seguir:¬
+¬
+ 
+¬
+Folha¬de¬São¬Paulo,¬26.01.2025¬
+Assinale¬ a¬ alternativa¬ que¬ melhor¬ descreve¬ as¬ situações¬ às¬
+quais¬a¬charge¬se¬refere.¬
+¬
+(A)¬Denuncismo,¬ confusão¬ relativa¬ às¬ categorias¬ sociais¬ e¬
+mudanças¬climáticas.¬
+(B)¬Estigmas¬sociais,¬alarmismo¬social¬e¬mobilidade¬social.¬
+(C)¬Alarmismo¬ social,¬ identificação¬ dos¬ imigrantes¬ como¬
+animais¬e¬mudanças¬climáticas.¬
+(D)¬Racismo,¬degelo¬da¬Antártida¬e¬luta¬de¬classes.¬
+(E)¬Denuncismo,¬extinção¬de¬espécimes¬da¬fauna¬e¬mudanças¬
+sociais.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Concurso Edital RH nº 009/2025 – Engenheiro (especialidade: Florestal) 
+{13} 
+Considere¬o¬art.¬2º¬do¬Estatuto¬da¬USP:¬
+¬
+Artigo 2º –¬São¬fins¬da¬USP:¬
+¬
+I¬ –¬promover¬ e¬ desenvolver¬ todas¬ as¬ formas¬ de¬
+conhecimento,¬por¬meio¬do¬ensino¬e¬da¬pesquisa;¬
+II¬ –¬ ministrar¬ o¬ ensino¬ superior¬ visando¬ à¬ formação¬ de¬
+pessoas¬ capacitadas¬ ao¬ exercício¬ da¬ investigação¬ e¬ do¬
+magistério¬em¬todas¬as¬áreas¬do¬conhecimento,¬bem¬como¬
+à¬qualificação¬para¬as¬atividades¬profissionais;¬
+III¬ –¬ estender¬ à¬ sociedade¬ serviços¬ indissociáveis¬ das¬
+atividades¬de¬ensino¬e¬de¬pesquisa.¬
+¬
+As¬ alternativas¬ a¬ seguir¬ indicam¬ as¬ cinco¬ Pró-Reitorias¬
+existentes¬na¬USP.¬Assinale¬aquela¬cujas¬atividades¬NÃO¬se¬
+relacionam¬diretamente¬com¬os¬fins¬da¬Universidade.¬
+¬
+(A)¬Pró-Reitoria¬de¬Cultura¬e¬Extensão¬Universitária.¬
+(B)¬Pró-Reitoria¬de¬Graduação.¬
+(C)¬Pró-Reitoria¬de¬Inclusão¬e¬Pertencimento.¬
+(D)¬Pró-Reitoria¬de¬Pesquisa¬e¬Inovação.¬
+(E)¬Pró-Reitoria¬de¬Pós-Graduação.¬
+##### 
+¬
+{14} 
+Considere¬a¬seguinte¬situação:¬Ênio¬Oliveira,¬Vice-Reitor¬da¬
+USP,¬ falece¬ em¬ um¬ acidente.¬ Nesse¬ caso,¬ Edna¬ Cruz,¬ a¬
+Reitora,¬deverá¬
+¬
+(A)¬indicar¬um¬novo¬Vice-Reitor,¬que¬será¬homologado¬pelo¬
+Conselho¬Universitário¬em¬até¬15¬dias.¬
+(B)¬dar¬início¬ao¬processo¬eleitoral,¬para¬a¬escolha¬de¬um¬novo¬
+Vice-Reitor,¬que¬cumprirá¬um¬mandato¬novo,¬de¬4¬anos.¬
+(C)¬ser¬substituída,¬em¬suas¬ausências¬ou¬impedimentos,¬pelo¬
+decano¬do¬Conselho¬Universitário.¬
+(D)¬dar¬início¬ao¬processo¬eleitoral,¬para¬a¬escolha¬de¬um¬novo¬
+Vice-Reitor,¬ que¬ exercerá¬ tal¬ função¬ pelo¬ tempo¬ que¬
+restava¬de¬mandato¬para¬Ênio.¬
+(E)¬indicar¬um¬novo¬Vice-Reitor,¬que¬deverá¬ser¬nomeado¬pelo¬
+Governador¬de¬SP¬em¬até¬15¬dias.¬
+##### 
+¬
+{15} 
+Aproximando-se¬as¬inscrições¬para¬Diretor¬de¬um¬Instituto,¬a¬
+comunidade¬local¬sabe¬que¬Lucas,¬Ana¬e¬Maria¬pretendem¬ser¬
+candidatos,¬
+tendo¬
+como¬
+candidatos¬
+a¬
+Vice-Diretor,¬
+respectivamente,¬Sara,¬Lia¬e¬Marcos.¬Sabendo¬que¬Marcos¬é¬
+Professor¬ Associado¬ 2¬ e¬ todos¬ os¬ demais¬ são¬ Professores¬
+Titulares,¬é¬possível¬afirmar¬que¬a¬Chapa¬Maria¬e¬Marcos¬
+¬
+(A)¬não¬pode¬se¬candidatar,¬em¬nenhuma¬hipótese.¬
+(B)¬pode¬se¬candidatar,¬sem¬qualquer¬restrição.¬
+(C)¬pode¬ se¬ candidatar¬ numa¬ eventual¬ segunda¬ fase¬ de¬
+inscrições,¬ mas¬ apenas¬ se¬ Lucas¬ e¬ Sara¬ ou¬ Ana¬ e¬ Lia¬
+deixarem¬de¬se¬inscrever.¬
+(D)¬pode¬ se¬ candidatar¬ numa¬ eventual¬ segunda¬ fase¬ de¬
+inscrições,¬mesmo¬que¬as¬chapas¬Lucas¬e¬Sara¬e¬Ana¬e¬
+Lia¬se¬inscrevam.¬
+(E)¬pode¬ se¬ candidatar¬ desde¬ logo,¬ mas¬só¬ concorrerão¬ se¬
+Lucas¬e¬Sara¬ou¬Ana¬e¬Lia¬deixarem¬de¬se¬inscrever.¬
+##### 
+ 
+ 
+ 
+ 
+{16} 
+Uma¬ Unidade¬ tem¬ 8¬ Professores¬ Titulares,¬ todos¬ membros¬
+natos¬ da¬ Congregação.¬ O¬ número¬ de¬ representantes¬ dos¬
+Professores¬ Associados¬ e¬ dos¬ Professores¬ Doutores¬ é,¬
+respectivamente,¬
+¬
+(A)¬2¬e¬1.¬
+(B)¬4¬e¬3.¬
+(C)¬5¬e¬3.¬
+(D)¬4¬e¬2.¬
+(E)¬6¬e¬3.¬
+##### 
+¬
+{17} 
+Analise¬as¬afirmativas¬apresentadas¬a¬seguir:¬
+¬
+I.¬Considera-se¬área¬rural¬consolidada¬aquela¬com¬ocupação¬
+antrópica¬ preexistente¬ a¬ 22¬ de¬ julho¬ de¬ 2008,¬ com¬
+edificações,¬benfeitorias¬ou¬atividades¬agrossilvopastoris,¬
+admitida,¬ neste¬ último¬ caso,¬ a¬ adoção¬ do¬ regime¬ de¬
+pousio.¬
+II.¬Considera-se¬como¬interesse¬social¬o¬manejo¬agroflorestal¬
+sustentável,¬ consistente¬ na¬ administração¬ da¬ vegetação¬
+natural¬para¬a¬obtenção¬de¬benefícios¬econômicos,¬sociais¬
+e¬ambientais.¬
+III.¬A¬ utilização¬ e¬ a¬ exploração¬ da¬ vegetação¬ de¬ forma¬
+contrária¬ a¬ mencionada¬ lei¬ configuram¬ uso¬ irregular¬ da¬
+propriedade,¬ com¬ possibilidade¬ de¬ responsabilidades¬
+civil,¬penal¬e¬administrativa.¬
+IV.¬A¬reserva¬legal¬consiste¬em¬área¬localizada¬no¬interior¬de¬
+uma¬propriedade¬ou¬posse,¬com¬a¬função¬de¬assegurar,¬
+entre¬ outras¬ funções,¬ o¬ uso¬ econômico¬ sustentável¬ dos¬
+recursos¬naturais.¬
+¬
+Com¬base¬na¬Lei¬n.º¬12.651/2012,¬está¬correto¬o¬que¬se¬afirma¬
+em:¬
+¬
+(A)¬I¬e¬III.¬
+(B)¬II¬e¬III.¬
+(C)¬III¬e¬IV.¬
+(D)¬I,¬II¬e¬III.¬
+(E)¬Nenhuma¬das¬alternativas¬anteriores¬está¬correta.¬
+##### 
+¬
+{18} 
+Conforme¬ a¬ Lei¬ 12.305/2010¬ (Política¬ Nacional¬ de¬ Resíduos¬
+Sólidos),¬na¬gestão¬e¬gerenciamento¬de¬resíduos¬sólidos,¬deve¬
+ser¬observada¬a¬seguinte¬ordem¬de¬prioridade:¬
+¬
+(A)¬não¬
+geração,¬
+reutilização,¬
+reciclagem,¬
+redução,¬
+tratamento¬ dos¬ resíduos¬ sólidos¬ e¬ disposição¬ final¬
+ambientalmente¬adequada¬dos¬rejeitos.¬
+(B)¬não¬
+geração,¬
+reciclagem,¬
+redução,¬
+reutilização,¬
+tratamento¬ dos¬ resíduos¬ sólidos¬ e¬ disposição¬ final¬
+ambientalmente¬adequada¬dos¬rejeitos.¬
+(C)¬não¬ geração,¬ redução,¬ tratamento¬ dos¬ resíduos¬ sólidos,¬
+reutilização,¬
+reciclagem,¬
+e¬
+disposição¬
+final¬
+ambientalmente¬adequada¬dos¬rejeitos.¬
+(D)¬não¬geração,¬reciclagem,¬tratamento¬dos¬resíduos¬sólidos,¬
+redução,¬ reutilização¬ e¬ disposição¬ final¬ ambientalmente¬
+adequada¬dos¬rejeitos.¬
+(E)¬não¬
+geração,¬
+redução,¬
+reutilização,¬
+reciclagem,¬
+tratamento¬ dos¬ resíduos¬ sólidos¬ e¬ disposição¬ final¬
+ambientalmente¬adequada¬dos¬rejeitos.¬
+##### 
+
+
+--- PAGE 6 ---
+
+Concurso Edital RH nº 009/2025 – Engenheiro (especialidade: Florestal) 
+{19} 
+A¬ competência¬ para¬ legislar¬ sobre¬ a¬ proteção¬ ao¬ meio¬
+ambiente¬é¬comum¬à¬União,¬aos¬estados,¬ao¬Distrito¬Federal¬e¬
+aos¬
+municípios,¬
+havendo¬
+ações¬
+administrativas¬
+que¬
+competem¬a¬cada¬um¬desses¬entes¬de¬maneira¬exclusiva.¬De¬
+acordo¬ com¬ a¬ Lei¬ Complementar¬ nº¬ 140/2011,¬ compete¬
+exclusivamente¬à¬União¬
+¬
+(A)¬promover¬o¬licenciamento¬ambiental¬de¬empreendimentos¬
+e¬ atividades¬ localizados¬ ou¬ desenvolvidos¬ em¬ áreas¬ de¬
+proteção¬ambiental.¬
+(B)¬aprovar¬o¬manejo¬e¬a¬supressão¬de¬vegetação,¬florestas¬e¬
+informações¬
+sucessoras¬
+em¬
+atividades¬
+ou¬
+empreendimentos¬
+licenciados¬
+ou¬
+autorizados¬
+ambientalmente¬pelo¬Estado.¬
+(C)¬Aprovar¬o¬funcionamento¬de¬criadouro¬da¬fauna¬silvestre.¬
+(D)¬promover¬ e¬ orientar¬ a¬ educação¬ ambiental¬ em¬ todos¬ os¬
+níveis¬ de¬ ensino¬ e¬ a¬ conscientização¬ pública¬ para¬ a¬
+proteção¬do¬meio¬ambiente.¬
+(E)¬promover¬o¬licenciamento¬ambiental¬de¬empreendimentos¬
+e¬ atividades¬ localizados¬ ou¬ desenvolvidos¬ em¬ terras¬
+indígenas.¬
+##### 
+¬
+{20} 
+Os¬ prazos¬ previstos¬ nesta¬ Lei¬ de¬ Licitações¬ e¬ Contratos¬
+Administrativos¬serão¬contados¬
+¬
+(A)¬com¬ exclusão¬ do¬ dia¬ do¬ começo¬ e¬ inclusão¬ do¬ dia¬ do¬
+vencimento.¬
+(B)¬com¬ inclusão¬ do¬ dia¬ do¬ começo¬ e¬ exclusão¬ do¬ dia¬ do¬
+vencimento.¬
+(C)¬com¬ exclusão¬ do¬ dia¬ do¬ começo¬ e¬ exclusão¬ do¬ dia¬ do¬
+vencimento.¬
+(D)¬com¬ inclusão¬ do¬ dia¬ do¬ começo¬ e¬ Inclusão¬ do¬ dia¬ do¬
+vencimento.¬
+(E)¬nenhuma¬das¬alternativas¬anteriores¬está¬correta.¬
+##### 
+¬
+{21} 
+Conforme¬a¬Lei¬nº¬12.305/2010¬(Política¬Nacional¬de¬Resíduos¬
+Sólidos),¬ na¬ gestão¬ e¬ gerenciamento¬ de¬ resíduos¬ sólidos,¬
+poderão¬ ser¬ utilizadas¬ tecnologias¬ visando¬ à¬ recuperação¬
+energética¬ dos¬ resíduos¬ sólidos¬ urbanos,¬ desde¬ que¬ tenha¬
+sido¬
+¬
+(A)¬comprovada¬ sua¬ viabilidade¬ técnica¬ e¬ ambiental¬ com¬ a¬
+implantação¬de¬programa¬de¬monitoramento¬de¬emissão¬
+de¬gases¬tóxicos¬aprovado¬pelo¬órgão¬ambiental.¬
+(B)¬comprovada¬ exclusivamente¬ pelo¬ Estudo¬ de¬ Impacto¬
+Ambiental¬
+sem¬
+a¬
+implantação¬
+de¬
+programa¬
+de¬
+monitoramento¬ de¬ emissão¬ de¬ gases¬ tóxicos¬ aprovado¬
+pelo¬órgão¬ambiental.¬
+(C)¬comprovada¬ exclusivamente¬ pelo¬ Relatório¬ Ambiental¬
+Preliminar¬
+sem¬
+a¬
+implantação¬
+de¬
+programa¬
+de¬
+monitoramento¬ de¬ emissão¬ de¬ gases¬ tóxicos¬ aprovado¬
+pelo¬órgão¬ambiental.¬
+(D)¬comprovada¬
+sua¬
+inviabilidade¬
+ambiental¬
+com¬
+a¬
+implantação¬de¬programa¬de¬monitoramento¬de¬emissão¬
+de¬gases¬tóxicos¬aprovado¬pelo¬órgão¬ambiental.¬
+(E)¬comprovada¬ sua¬ viabilidade¬ técnica¬ e¬ ambiental¬ sem¬ a¬
+implantação¬de¬programa¬de¬monitoramento¬de¬emissão¬
+de¬gases¬tóxicos¬aprovado¬pelo¬órgão¬ambiental.¬
+##### 
+ 
+ 
+{22} 
+No¬ processo¬ licitatório,¬ o¬ edital¬ deverá¬ conter¬ o¬ objeto¬ da¬
+licitação¬e¬as¬regras¬relativas¬à¬convocação,¬ao¬julgamento,¬à¬
+habilitação,¬ aos¬ recursos¬ e¬ às¬ penalidades¬ da¬ licitação,¬ à¬
+fiscalização¬e¬à¬gestão¬do¬contrato,¬à¬entrega¬do¬objeto¬e¬às¬
+condições¬ de¬ pagamento,¬ e¬ quanto¬ ao¬ licenciamento¬
+ambiental¬de¬obras¬e¬serviços¬de¬engenharia¬e¬deverá¬¬
+¬
+(A)¬ter¬ prioridade¬ de¬ tramitação¬ nos¬ órgãos¬ e¬ entidades¬
+integrantes¬ do¬ Sistema¬ Nacional¬ do¬ Meio¬ Ambiente¬
+(Sisnama)¬ e¬ deverão¬ ser¬ orientados¬ pelos¬ princípios¬ da¬
+celeridade,¬ da¬ cooperação,¬ da¬ economicidade¬ e¬ da¬
+eficiência.¬
+(B)¬ter¬ todos¬ os¬ elementos¬ do¬ edital,¬ incluídos¬ minuta¬ de¬
+contrato,¬ termos¬ de¬ referência,¬ anteprojeto,¬ projetos¬ e¬
+outros¬anexos,¬poderão¬ser¬divulgados¬em¬sítio¬eletrônico¬
+oficial¬ na¬ mesma¬ data¬ de¬ divulgação¬ do¬ edital,¬ com¬
+necessidade¬de¬identificação¬para¬acesso.¬
+(C)¬ter¬ prioridade¬ de¬ tramitação¬ nos¬ órgãos¬ e¬ entidades¬
+integrantes¬do¬Sistema¬Nacional¬de¬Informação¬sobre¬Meio¬
+Ambiente¬ (Sinima)¬ e¬ poderão¬ ser¬ orientados¬ pelos¬
+princípios¬
+da¬
+celeridade,¬
+da¬
+cooperação,¬
+da¬
+economicidade¬e¬da¬eficiência.¬
+(D)¬ter¬ todos¬ os¬ elementos¬ do¬ edital,¬ excluídos¬ minuta¬ de¬
+contrato,¬ termos¬ de¬ referência,¬ anteprojeto,¬ projetos,¬
+poderão¬ ser¬ divulgados¬ em¬ sítio¬ eletrônico¬ oficial¬ na¬
+mesma¬data¬de¬divulgação¬do¬edital,¬com¬necessidade¬de¬
+identificação¬para¬acesso.¬
+(E)¬ter¬ prioridade¬ de¬ tramitação¬ nos¬ órgãos¬ e¬ entidades¬
+integrantes¬ do¬ Sistema¬ Nacional¬ do¬ Meio¬ Ambiente¬
+(Sisnama)¬e¬deverão¬ser¬orientados¬exclusivamente¬pelos¬
+princípios¬da¬celeridade¬e¬da¬cooperação.¬
+##### 
+¬
+{23} 
+Nos¬termos¬da¬Lei¬nº¬6.938/81¬(PNMA),¬o¬cadastro¬Técnico¬
+Federal¬de¬Atividades¬e¬Instrumentos¬de¬ Defesa¬Ambiental,¬
+para¬registro¬obrigatório¬de¬pessoas¬físicas¬ou¬jurídicas,¬que¬
+se¬dedicam¬à¬consultoria¬técnica¬sobre¬problemas¬ecológicos¬
+e¬ ambientais¬ e¬ à¬ indústria¬ e¬ comércio¬ de¬ equipamentos,¬
+aparelhos¬e¬instrumentos¬destinados¬ao¬controle¬de¬atividades¬
+efetiva¬ou¬potencialmente¬poluidoras¬é¬de¬atribuição¬do¬
+¬
+(A)¬CONAMA.¬
+(B)¬CETESB.¬
+(C)¬IBAMA.¬
+(D)¬ICMBIO.¬
+(E)¬ MMAMC¬ -¬ Ministério¬ de¬ Meio¬ Ambiente¬ e¬ Mudança¬ do¬
+Clima.¬
+##### 
+¬
+{24} 
+É¬ afirmativo¬ que¬ um¬ conjunto¬ de¬ instrumentos¬ urbanísticos¬
+regulatórios¬autoaplicáveis¬que¬contribui¬para¬a¬efetividade¬na¬
+implementação¬de¬diretrizes,¬tais¬como¬ocupação¬territorial,¬
+ambiental,¬econômica¬e¬administrativa,¬seja¬denominado:¬
+¬
+(A)¬Plano¬de¬Manejo.¬
+(B)¬Plano¬Diretor¬Estratégico.¬
+(C)¬Plano¬de¬Trabalho.¬
+(D)¬Estudo¬de¬Impacto¬Ambiental.¬
+(E)¬Estudo¬Prévio¬Ambiental.¬
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Concurso Edital RH nº 009/2025 – Engenheiro (especialidade: Florestal) 
+{25} 
+Considerando¬as¬afirmativas,¬segundo¬a¬Política¬Nacional¬de¬
+Meio¬Ambiente,¬indique¬a¬resposta¬correta.¬
+¬
+(A)¬É¬
+o¬
+usuário¬
+dos¬
+recursos¬
+ambientais¬
+obrigado,¬
+independentemente¬da¬existência¬de¬culpa,¬a¬indenizar¬ou¬
+reparar¬os¬danos¬causados¬ao¬meio¬ambiente¬e¬a¬terceiros,¬
+afetados¬por¬sua¬atividade.¬O¬Ministério¬Público¬da¬União¬
+e¬ dos¬ Estados¬ terá¬ legitimidade¬ para¬ propor¬ ação¬ de¬
+responsabilidade¬civil¬e¬criminal,¬por¬danos¬causados¬ao¬
+meio¬ambiente.¬
+(B)¬É¬o¬poluidor¬obrigado,¬independentemente¬da¬existência¬
+de¬culpa,¬a¬indenizar¬ou¬reparar¬os¬danos¬causados¬ao¬
+meio¬ambiente¬e¬a¬terceiros,¬afetados¬por¬sua¬atividade.¬O¬
+Ministério¬Público¬da¬União¬e¬dos¬Estados¬terá¬legitimidade¬
+para¬propor¬ação¬de¬responsabilidade¬civil¬e¬criminal,¬por¬
+danos¬causados¬ao¬meio¬ambiente.¬
+(C)¬É¬ o¬ empreendedor¬ obrigado,¬ independentemente¬ da¬
+existência¬ de¬ culpa,¬ a¬ indenizar¬ ou¬ reparar¬ os¬ danos¬
+causados¬ao¬meio¬ambiente¬e¬a¬terceiros,¬afetados¬por¬sua¬
+atividade.¬O¬Ministério¬Público¬da¬União¬e¬dos¬Estados¬terá¬
+legitimidade¬para¬propor¬ação¬de¬responsabilidade¬civil¬e¬
+criminal,¬por¬danos¬causados¬ao¬meio¬ambiente.¬
+(D)¬É¬o¬dirigente¬obrigado,¬independentemente¬da¬existência¬
+de¬culpa,¬a¬indenizar¬ou¬reparar¬os¬danos¬causados¬ao¬
+meio¬ambiente¬e¬a¬terceiros,¬afetados¬por¬sua¬atividade.¬O¬
+Ministério¬Público¬da¬União¬e¬dos¬Estados¬terá¬legitimidade¬
+para¬propor¬ação¬de¬responsabilidade¬civil¬e¬criminal,¬por¬
+danos¬causados¬ao¬meio¬ambiente.¬
+(E)¬É¬o¬gestor¬obrigado,¬independentemente¬da¬existência¬de¬
+culpa,¬a¬indenizar¬ou¬reparar¬os¬danos¬causados¬ao¬meio¬
+ambiente¬ e¬ a¬ terceiros,¬ afetados¬ por¬ sua¬ atividade.¬ O¬
+Ministério¬Público¬da¬União¬e¬dos¬Estados¬terá¬legitimidade¬
+para¬propor¬ação¬de¬responsabilidade¬civil¬e¬criminal,¬por¬
+danos¬causados¬ao¬meio¬ambiente.¬
+##### 
+¬
+{26} 
+No¬SISNAMA¬(Sistema¬Nacional¬de¬Meio¬Ambiente)¬a¬função¬
+(finalidade)¬ do¬ CONAMA¬ se¬ insere¬ em¬ qual¬ dos¬ órgãos¬
+previsto¬ pela¬ (PNMA)¬ Política¬ Nacional¬ de¬ Meio¬ Ambiente¬
+brasileira?¬¬
+¬
+(A)¬Órgão¬superior:¬com¬a¬função¬de¬assessorar¬o¬Presidente¬
+da¬ República¬ na¬ formulação¬ da¬ política¬ nacional¬ e¬ nas¬
+diretrizes¬ governamentais¬ para¬ o¬ meio¬ ambiente¬ e¬ os¬
+recursos¬ambientais.¬
+(B)¬Órgão¬ local:¬ os¬ órgãos¬ ou¬ entidades¬ municipais,¬
+responsáveis¬
+pelo¬
+controle¬
+e¬
+fiscalização¬
+dessas¬
+atividades,¬nas¬suas¬respectivas¬jurisdições.¬
+(C)¬Órgão¬ executor:¬ com¬ a¬ finalidade¬ de¬ executar¬ e¬ fazer¬
+executar¬a¬política¬e¬as¬diretrizes¬governamentais¬fixadas¬
+para¬ o¬ meio¬ ambiente,¬ de¬ acordo¬ com¬ as¬ respectivas¬
+competências.¬¬
+(D)¬Órgão¬ consultivo¬ e¬ deliberativo:¬ com¬ a¬ finalidade¬ de¬
+assessorar,¬ estudar¬ e¬ propor¬ ao¬ Conselho¬ de¬ Governo,¬
+diretrizes¬ de¬ políticas¬ governamentais¬ para¬ o¬ meio¬
+ambiente¬e¬os¬recursos¬naturais¬e¬deliberar,¬no¬âmbito¬de¬
+sua¬ competência,¬ sobre¬ normas¬ e¬ padrões¬ compatíveis¬
+com¬ o¬ meio¬ ambiente¬ ecologicamente¬ equilibrado¬ e¬
+essencial¬à¬sadia¬qualidade¬de¬vida.¬
+(E)¬Órgão¬ central:¬ com¬ a¬ finalidade¬ de¬ planejar,¬ coordenar,¬
+supervisionar¬ e¬ controlar,¬ como¬ órgão¬ federal,¬ a¬ política¬
+nacional¬ e¬ as¬ diretrizes¬ governamentais¬ fixadas¬ para¬ o¬
+meio¬ambiente.¬
+##### 
+ 
+{27} 
+Analise¬as¬afirmativas¬apresentadas¬a¬seguir:¬
+¬
+I.¬São¬objetivos¬da¬Política¬Ambiental¬da¬Universidade¬de¬São¬
+Paulo:¬proteger¬a¬saúde¬e¬a¬qualidade¬do¬meio¬ambiente¬
+dentro¬de¬seus¬campi¬e¬na¬sua¬zona¬de¬influência;¬adotar¬
+padrões¬sustentáveis¬de¬produção¬e¬consumo¬de¬bens¬e¬
+serviços;¬ adotar,¬ desenvolver¬ e¬ aprimorar¬ tecnologias¬
+limpas¬ como¬ forma¬ de¬ minimizar¬ impactos¬ ambientais;¬
+promover¬ a¬ gestão¬ ambiental¬ integrada;promover¬ a¬
+educação¬ ambiental¬ nas¬ atividades¬ da¬ Universidade¬ de¬
+São¬
+Paulo;¬
+desenvolver¬
+um¬
+sistema¬
+corporativo¬
+informatizado¬ de¬ gestão¬ ambiental¬ da¬ USP;¬ construir,¬
+implementar¬e¬avaliar¬a¬Política¬Ambiental¬da¬Universidade¬
+de¬ São¬ Paulo;¬ e,¬ criar¬ e¬ implementar¬ estruturas¬ de¬
+governança¬para¬a¬gestão¬ambiental¬da¬USP.¬
+II.¬As¬Comissões¬Técnicas¬de¬Gestão¬Ambiental¬dos¬campi¬da¬
+Universidade¬de¬São¬Paulo,¬segundo¬sua¬normativa¬sobre¬
+a¬política¬ambiental,¬tem¬como¬atribuição¬revisar¬o¬Plano¬
+Diretor¬Ambiental,¬a¬cada¬2¬(dois)¬anos,¬ou¬em¬intervalos¬
+menores,¬desde¬que¬justificada¬sua¬necessidade.¬
+III.¬Estão¬ entre¬ os¬ instrumentos¬ da¬ Política¬ Ambiental¬ da¬
+Universidade¬ de¬ São¬ Paulo:¬ a)¬ as¬ Políticas¬ Ambientais¬
+Temáticas;¬ b)¬ o¬ Plano¬ de¬ Gestão¬ Ambiental¬ da¬ USP,¬
+composto¬por¬Planos¬de¬Gestão¬Temáticos;¬c)¬os¬Planos¬
+Diretores¬ Ambientais¬ dos¬ campi;¬ d)¬ os¬ Programas¬
+Ambientais;¬ e¬ d)¬ as¬ estruturas¬ de¬ gestão¬ e¬ governança¬
+para¬ elaboração,¬ implementação¬ e¬ monitoramento¬ das¬
+políticas¬e¬planos.¬
+¬
+Estão¬corretas¬as¬afirmações:¬
+¬
+(A)¬I,¬II¬e¬III.¬
+(B)¬I¬e¬III,¬apenas.¬
+(C)¬I¬e¬II,¬apenas.¬
+(D)¬II¬e¬III,¬apenas.¬
+(E)¬III,¬apenas.¬
+##### 
+¬
+{28} 
+Considera-se¬ Área¬ de¬ Preservação¬ Permanente,¬ em¬ zonas¬
+rurais¬ou¬urbanas,¬segundo¬o¬atual¬“código¬florestal”¬brasileiro:¬
+¬
+(A)¬as¬ bordas¬ dos¬ tabuleiros¬ ou¬ chapadas,¬ até¬ a¬ linha¬ de¬
+ruptura¬do¬relevo,¬em¬faixa¬inferior¬a¬100¬(cem)¬metros¬em¬
+projeções¬horizontais.¬
+(B)¬no¬ topo¬ de¬ morros,¬ montes,¬ montanhas¬ e¬ serras,¬ com¬
+altura¬ máxima¬ de¬ 100¬ (cem)¬ metros¬ e¬ inclinação¬ média¬
+maior¬que¬25º¬as¬áreas¬delimitadas¬a¬partir¬da¬curva¬de¬
+nível¬correspondente¬a¬2/3¬(dois¬terços)¬da¬altura¬mínima¬
+da¬ elevação¬ sempre¬ em¬ relação¬ à¬ base,¬ sendo¬ está¬
+definida¬pelo¬plano¬horizontal¬determinado¬por¬planície¬ou¬
+espelho¬d’água¬adjacente¬ou,¬nos¬relevos¬ondulados,¬pela¬
+cota¬do¬ponto¬de¬sela¬mais¬próximo¬da¬elevação.¬
+(C)¬as¬ áreas¬ em¬ altitude¬ superior¬ a¬ 1.800¬ (mil¬ e¬ oitocentos)¬
+metros,¬qualquer¬que¬seja¬a¬vegetação.¬
+(D)¬em¬veredas,¬a¬faixa¬marginal,¬em¬projeção¬horizontal,¬com¬
+largura¬ máxima¬ de¬ 50¬ (cinquenta)¬ metros,¬ a¬ partir¬ do¬
+espaço¬permanentemente¬brejoso¬e¬encharcado.¬
+(E)¬as¬encostas¬ou¬partes¬destas¬com¬declividade¬superior¬a¬
+75º,¬equivalente¬a¬100%¬(cem¬por¬cento)¬na¬linha¬de¬maior¬
+declive.¬
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+Concurso Edital RH nº 009/2025 – Engenheiro (especialidade: Florestal) 
+{29} 
+Considerando¬as¬proposições¬seguintes,¬assinale¬a¬resposta¬
+correta.¬
+¬
+(A)¬SIG¬ (GIS)¬ refere-se¬ àqueles¬ sistemas¬ que¬ efetuam¬
+tratamento¬
+computacional¬
+de¬
+dados¬
+geográficos.¬
+Armazenando¬ a¬ geometria¬ e¬ os¬ atributos¬ dos¬ dados¬
+georreferenciados,¬ ou¬ seja,¬ localizados¬ na¬ superfície¬
+terrestre¬ e¬ em¬ uma¬ projeção¬ cartográfica¬ qualquer.¬ Os¬
+dados¬tratados¬em¬geoprocessamento¬têm¬como¬principal¬
+característica¬ a¬ diversidade¬ de¬ fontes¬ geradoras¬ e¬ de¬
+formatos¬apresentados.¬
+(B)¬SIG¬ (GIS)¬ sistematiza¬ dados¬ georreferenciados¬ que¬
+possibilitam¬ um¬ planejamento¬ e¬ monitoramento¬ de¬
+assuntos¬ligados¬ao¬espaço¬físico¬geográfico¬através¬dos¬
+produtos¬gerados¬pelo¬sistema,¬que¬são¬arquivos¬digitais¬
+incluindo¬mapas,¬tabelas,¬gráficos¬e¬relatórios.¬¬Quando¬a¬
+representação¬de¬dados¬espaciais¬é¬feita¬por¬limites¬das¬
+feições¬e¬são¬definidos¬por¬uma¬série¬de¬pontos¬que¬se¬
+agrupam¬ formando¬ linhas¬ ou¬ polígonos;¬¬ os¬ pontos¬
+possuem¬coordenadas¬geográficas¬(X¬e¬Y);¬e¬¬os¬atributos¬
+das¬ feições¬ são¬ armazenados¬ separadamente¬ no¬
+programa¬e¬a¬ligação¬entre¬ambos¬pode¬ser¬feita¬através¬
+de¬um¬número¬identificador¬denomina-se¬do¬tipo¬Raster.¬¬
+(C)¬SIG¬ (GIS)¬ sistematiza¬ dados¬ georreferenciados¬ que¬
+possibilitam¬ um¬ planejamento¬ e¬ monitoramento¬ de¬
+assuntos¬ligados¬ao¬espaço¬físico¬geográfico¬através¬dos¬
+produtos¬gerados¬pelo¬sistema,¬que¬são¬arquivos¬digitais¬
+incluindo¬mapas,¬tabelas,¬gráficos¬e¬relatórios.¬Quando¬a¬
+representação¬
+gráfica¬
+das¬
+feições¬
+e¬
+atributos¬
+é¬
+unificada;¬¬a¬área¬de¬estudo¬é¬dividida¬em¬uma¬malha¬de¬
+células¬ou¬pixels¬que¬armazenam¬os¬atributos¬da¬área;¬a¬
+cada¬ célula¬ é¬ dado¬ um¬ valor¬ numérico¬ que¬ pode¬
+representar¬tanto¬o¬identificador¬da¬feição¬quanto¬atributos¬
+qualitativos¬e¬quantitativos,¬denomina-se¬do¬tipo¬Vetorial.¬
+(D)¬SIG¬(GIS)¬sistematiza¬dados¬exclusivamente¬de¬relatórios¬
+oferecidos¬ pelo¬ governo¬ federal¬ que¬ possibilitam¬ um¬
+monitoramento¬ de¬ assuntos¬ ligados¬ ao¬ espaço¬ físico¬
+geográfico.¬
+(E)¬SIG¬ (GIS)¬ sistematiza¬ dados¬ georreferenciados¬ que¬
+possibilitam¬ um¬ planejamento¬ e¬ monitoramento¬ de¬
+assuntos¬ligados¬ao¬espaço¬físico¬geográfico¬através¬dos¬
+produtos¬gerados¬pelo¬sistema,¬que¬são¬arquivos¬digitais¬
+incluindo¬mapas,¬tabelas,¬gráficos¬e¬relatórios.¬Quando¬a¬
+representação¬
+gráfica¬
+das¬
+feições¬
+e¬
+atributos¬
+é¬
+unificada;¬¬a¬área¬de¬estudo¬é¬dividida¬em¬uma¬malha¬de¬
+células¬ou¬pixels¬que¬armazenam¬os¬atributos¬da¬área;¬a¬
+cada¬ célula¬ é¬ dado¬ um¬ valor¬ numérico¬ que¬ pode¬
+representar¬tanto¬o¬identificador¬da¬feição¬quanto¬atributos¬
+qualitativos¬e¬quantitativos,¬denomina-se¬ArcView¬GIS.¬
+##### 
+¬
+{30} 
+Tem-se¬que¬o¬“instrumento¬de¬desenvolvimento¬econômico¬e¬
+social¬
+caracterizado¬
+pelo¬
+conjunto¬
+de¬
+ações,¬
+de¬
+procedimentos¬e¬de¬meios¬destinados¬a¬viabilizar¬a¬coleta¬e¬a¬
+restituição¬ dos¬ resíduos¬ sólidos¬ ao¬ setor¬ empresarial,¬ para¬
+reaproveitamento,¬ em¬ seu¬ ciclo¬ ou¬ em¬ outros¬ ciclos¬
+produtivos,¬ ou¬ para¬ outra¬ destinação¬ final¬ ambientalmente¬
+adequada”,¬é¬identificado¬como¬
+¬
+(A)¬Plano¬Estratégico¬Diretor.¬
+(B)¬Acordo¬Setorial.¬
+(C)¬Logística¬Reversa.¬
+(D)¬Estudo¬de¬Impacto¬Ambiental.¬
+(E)¬Avaliação¬Ambiental¬Estratégica.¬
+##### 
+{31} 
+Conforme¬ a¬ Resolução¬ CONAMA¬ nº¬ 237/97,¬ tem-se¬ como¬
+Licença¬de¬Instalação¬aquela¬que¬
+¬
+(A)¬autoriza¬ a¬ operação¬ da¬ atividade¬ ou¬ empreendimento,¬
+após¬a¬verificação¬do¬efetivo¬cumprimento¬do¬que¬consta¬
+das¬ licenças¬ anteriores,¬ com¬ as¬ medidas¬ de¬ controle¬
+ambiental¬
+e¬
+condicionantes¬
+determinados¬
+para¬
+a¬
+operação.¬
+(B)¬concedida¬ na¬ fase¬ preliminar¬ do¬ planejamento¬ do¬
+empreendimento¬ou¬atividade¬aprovando¬sua¬localização¬
+e¬ concepção,¬ atesta¬ que¬ a¬ viabilidade¬ ambiental¬ e¬
+estabelecendo¬ os¬ requisitos¬ básicos¬ e¬ condicionantes¬ a¬
+serem¬
+atendidos¬
+nas¬
+próximas¬
+fases¬
+de¬
+sua¬
+implementação.¬
+(C)¬autoriza¬
+na¬
+fase¬
+preliminar¬
+do¬
+planejamento¬
+do¬
+empreendimento¬ou¬atividade¬aprovando¬sua¬localização¬
+e¬ concepção,¬ atestando¬ a¬ viabilidade¬ ambiental¬ com¬ a¬
+verificação¬ do¬ efetivo¬ cumprimento¬ do¬ que¬ consta¬ das¬
+licenças¬anteriores.¬
+(D)¬autoriza¬a¬instalação¬do¬empreendimento¬ou¬atividade¬de¬
+acordo¬ com¬ as¬ especificações¬ constantes¬ dos¬ planos,¬
+programas¬e¬projetos¬aprovados,¬incluindo¬as¬medidas¬de¬
+controle¬ ambiental¬ e¬ demais¬ condicionantes,¬ da¬ qual¬
+constituem¬motivo¬determinante.¬
+(E)¬concedida¬
+na¬
+fase¬
+final¬
+do¬
+planejamento¬
+do¬
+empreendimento¬ou¬atividade¬aprovando¬sua¬localização¬
+e¬concepção,¬atesta¬que¬a¬viabilidade¬inicial¬ambiental¬e¬
+estabelecendo¬ os¬ requisitos¬ básicos¬ e¬ condicionantes¬ a¬
+serem¬
+atendidos¬
+após¬
+a¬
+implementação¬
+do¬
+empreendimento.¬
+##### 
+¬
+{32} 
+De¬acordo¬com¬a¬Lei¬nº¬14.133/2021¬(Nova¬Lei¬de¬Licitações),¬
+as¬ licitações¬ de¬ obras¬ e¬ serviços¬ de¬ engenharia¬ devem¬
+respeitar,¬especialmente,¬as¬normas¬relativas¬a:¬
+¬
+I.¬disposição¬ final¬ ambientalmente¬ adequada¬ dos¬ resíduos¬
+sólidos¬gerados¬pelas¬obras¬contratadas;¬
+II.¬mitigação¬ por¬ condicionantes¬ e¬ compensação¬ ambiental,¬
+que¬ serão¬ definidas¬ no¬ procedimento¬ de¬ licenciamento¬
+ambiental;¬
+III.¬utilização¬ de¬ produtos,¬ de¬ equipamentos¬ e¬ de¬ serviços¬
+que,¬ comprovadamente,¬ favoreçam¬ a¬ redução¬ do¬
+consumo¬de¬energia¬e¬de¬recursos¬naturais;¬
+IV.¬avaliação¬ de¬ impacto¬ de¬ vizinhança,¬ na¬ forma¬ da¬
+legislação¬urbanística;¬
+V.¬proteção¬ do¬ patrimônio¬ histórico,¬ cultural,¬ arqueológico¬ e¬
+imaterial,¬inclusive¬por¬meio¬da¬avaliação¬do¬impacto¬direto¬
+ou¬indireto¬causado¬pelas¬obras¬contratadas;¬
+VI.¬acessibilidade¬ para¬ pessoas¬ com¬ deficiência¬ ou¬ com¬
+mobilidade¬reduzida.¬
+¬
+Está¬correto¬o¬que¬se¬afirma¬em:¬
+¬
+(A)¬I¬e¬II,¬apenas.¬
+(B)¬V¬e¬VI,¬apenas.¬
+(C)¬II,¬V¬e¬VI,¬apenas.¬
+(D)¬I,¬II,¬III,¬apenas.¬
+(E)¬I,¬II,¬III,¬IV,¬V¬e¬VI.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Concurso Edital RH nº 009/2025 – Engenheiro (especialidade: Florestal) 
+{33} 
+Conforme¬ a¬ Resolução¬ CONAMA¬ nº¬ 237/97,¬ tem-se¬ que¬ o¬
+procedimento¬ administrativo¬ pelo¬ qual¬ o¬ órgão¬ ambiental¬
+competente¬licencia¬a¬localização,¬instalação,¬ampliação¬e¬a¬
+operação¬ de¬ empreendimentos¬ e¬ atividades¬ utilizadoras¬ de¬
+recursos¬ambientais,¬consideradas¬efetiva¬ou¬potencialmente¬
+poluidoras¬ ou¬ daquelas¬ que,¬ sob¬ qualquer¬ forma,¬ possam¬
+causar¬degradação¬ambiental,¬considerando¬as¬disposições¬
+legais¬e¬regulamentares¬e¬as¬normas¬técnicas¬aplicáveis¬ao¬
+caso,¬como¬sendo¬o(a)¬
+¬
+(A)¬Licenciamento¬Ambiental.¬
+(B)¬Licença¬Ambiental.¬
+(C)¬Estudo¬Ambiental.¬
+(D)¬Avaliação¬de¬Impacto¬Ambiental.¬
+(E)¬Zoneamento¬Ecológico¬Ambiental.¬
+##### 
+¬
+{34} 
+Nos¬ termos¬ da¬ Resolução¬ CONAMA¬ n.¬ 001/86,¬ no¬ que¬ diz¬
+respeito¬ aos¬ instrumentos¬ para¬ o¬ licenciamento¬ ambiental,¬
+considera-se¬que¬impacto¬ambiental¬se¬define¬como:¬
+¬
+(A)¬Estudo¬ para¬ atender¬ à¬ legislação,¬ em¬ especial¬ os¬
+princípios¬e¬objetivos¬expressos¬na¬Lei¬de¬Política¬Nacional¬
+do¬ Meio¬ Ambiente,¬ obedecerá¬ às¬ seguintes¬ diretrizes¬
+gerais:¬I¬-¬Contemplar¬todas¬as¬alternativas¬tecnológicas¬e¬
+de¬localização¬do¬projeto,¬confrontando-as¬com¬a¬hipótese¬
+de¬ não¬ execução¬ do¬ projeto;¬ II¬ -¬ Identificar¬ e¬ avaliar¬
+sistematicamente¬ os¬ impactos¬ ambientais¬ gerados¬ nas¬
+fases¬de¬implantação¬e¬operação¬da¬atividade.¬
+(B)¬O¬ relatório¬ que¬ refletirá¬ as¬ conclusões¬ do¬ estudo¬ de¬
+impacto¬ambiental¬e¬conterá,¬no¬mínimo:¬I¬-¬Os¬objetivos¬e¬
+justificativas¬do¬projeto,¬sua¬relação¬e¬compatibilidade¬com¬
+as¬políticas¬setoriais,¬planos¬e¬programas¬governamentais;¬
+II¬-¬A¬descrição¬do¬projeto¬e¬suas¬alternativas¬tecnológicas¬
+e¬locacionais.¬
+(C)¬Qualquer¬alteração¬das¬propriedades¬físicas,¬químicas¬e¬
+biológicas¬ do¬ meio¬ ambiente,¬ presumidas¬ por¬ qualquer¬
+forma¬ de¬ matéria¬ ou¬ energia¬ resultante¬ das¬ atividades¬
+humanas¬que,¬direta¬ou¬indiretamente,¬afetam:¬I¬-¬a¬saúde,¬
+a¬segurança¬e¬o¬bem-estar¬da¬população;¬II¬-¬as¬atividades¬
+sociais¬ e¬ econômicas;¬ III¬ -¬ a¬ biota;¬ IV¬ -¬ as¬ condições¬
+estéticas¬e¬sanitárias¬do¬meio¬ambiente;¬V¬-¬a¬qualidade¬
+dos¬recursos¬ambientais.¬
+(D)¬Diagnóstico¬ ambiental¬ da¬ área¬ de¬ influência¬ do¬ projeto¬
+completa¬descrição¬e¬análise¬dos¬recursos¬ambientais¬e¬
+suas¬interações,¬tal¬como¬existem,¬de¬modo¬a¬caracterizar¬
+a¬ situação¬ ambiental¬ da¬ área,¬ antes¬ da¬ implantação¬ do¬
+projeto,¬considerando:¬a)¬o¬meio¬físico,¬b)¬o¬meio¬biológico¬
+e¬os¬ecossistemas¬naturais,¬e¬c)¬o¬meio¬sócio-econômico.¬
+(E)¬Qualquer¬alteração¬das¬propriedades¬físicas,¬químicas¬e¬
+biológicas¬do¬meio¬ambiente,¬causada¬por¬qualquer¬forma¬
+de¬matéria¬ou¬energia¬resultante¬das¬atividades¬humanas¬
+que,¬ direta¬ ou¬ indiretamente,¬ afetam:¬ I¬ -¬ a¬ saúde,¬ a¬
+segurança¬e¬o¬bem-estar¬da¬população;¬II¬-¬as¬atividades¬
+sociais¬ e¬ econômicas;¬ III¬ -¬ a¬ biota;¬ IV¬ -¬ as¬ condições¬
+estéticas¬e¬sanitárias¬do¬meio¬ambiente;¬V¬-¬a¬qualidade¬
+dos¬recursos¬ambientais.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{35} 
+Contemplar¬ todas¬ as¬ alternativas¬ tecnológicas¬ e¬ de¬
+localização¬de¬projeto,¬confrontando¬as¬com¬a¬hipótese¬de¬não¬
+execução¬do¬projeto;¬identificar¬e¬avaliar¬sistematicamente¬os¬
+impactos¬ ambientais¬ gerados¬ nas¬ fases¬ de¬ implantação¬ e¬
+operação¬da¬atividade;¬definir¬os¬limites¬da¬área¬geográfica¬a¬
+ser¬ direta¬ ou¬ indiretamente¬ afetada¬ pelos¬ impactos,¬
+denominada¬área¬de¬influência¬do¬projeto,¬considerando,¬em¬
+todos¬ os¬ casos,¬ a¬ bacia¬ hidrográfica¬ na¬ qual¬ se¬ localiza;¬ e¬
+considerar¬os¬planos¬e¬programas¬governamentais,¬propostos¬
+e¬ em¬ implantação¬ na¬ área¬ de¬ influência¬ do¬ projeto,¬ e¬ sua¬
+compatibilidade.¬ Todos¬ estes¬ objetivos¬ são¬ de¬ qual¬
+instrumento¬ambiental?¬¬
+¬
+(A)¬Avaliação¬Ambiental¬Estratégica.¬
+(B)¬Zoneamento¬Ecológico-Econômico.¬
+(C)¬Estudo¬de¬Impacto¬Ambiental.¬
+(D)¬Servidão¬Ambiental.¬
+(E)¬Plano¬Diretor¬Estratégico.¬
+##### 
+¬
+{36} 
+Considera-se¬ Área¬ de¬ Preservação¬ Permanente,¬ em¬ zonas¬
+rurais¬ou¬urbanas,¬segundo¬o¬atual¬“código¬florestal”¬brasileiro¬
+¬
+I.¬as¬faixas¬marginais¬de¬qualquer¬curso¬d’água¬natural¬perene¬
+e¬intermitente,¬excluídos¬os¬efêmeros,¬desde¬a¬borda¬da¬
+calha¬do¬leito¬regular,¬em¬largura¬mínima¬de:¬a)¬30¬(trinta)¬
+metros,¬ para¬ os¬ cursos¬ d’água¬ de¬ menos¬ de¬ 10¬ (dez)¬
+metros¬ de¬ largura;¬ b)¬ 50¬ (cinquenta)¬ metros,¬ para¬ os¬
+cursos¬d’água¬que¬tenham¬de¬10¬(dez)¬a¬50¬(cinquenta)¬
+metros¬ de¬ largura;¬ c)¬ 100¬ (cem)¬ metros,¬ para¬ os¬ cursos¬
+d’água¬ que¬ tenham¬ de¬ 50¬ (cinquenta)¬ a¬ 200¬ (duzentos)¬
+metros¬ de¬ largura;¬ d)¬ 200¬ (duzentos)¬ metros,¬ para¬ os¬
+cursos¬ d’água¬ que¬ tenham¬ de¬ 200¬ (duzentos)¬ a¬ 600¬
+(seiscentos)¬metros¬de¬largura;¬e)¬500¬(quinhentos)¬metros,¬
+para¬os¬cursos¬d’água¬que¬tenham¬largura¬superior¬a¬600¬
+(seiscentos)¬metros.¬
+II.¬as¬áreas¬no¬entorno¬dos¬lagos¬e¬lagoas¬naturais,¬em¬faixa¬
+com¬largura¬mínima¬de:¬a)¬100¬(cem)¬metros,¬em¬zonas¬
+rurais,¬ exceto¬ para¬ o¬ corpo¬ d’água¬ com¬ até¬ 20¬ (vinte)¬
+hectares¬ de¬ superfície,¬ cuja¬ faixa¬ marginal¬ será¬ de¬ 50¬
+(cinquenta)¬ metros;¬ b)¬ 30¬ (trinta)¬ metros,¬ em¬ zonas¬
+urbanas.¬
+III.¬as¬ áreas¬ no¬ entorno¬ dos¬ reservatórios¬ d’água¬ artificiais,¬
+decorrentes¬ de¬ barramento¬ ou¬ represamento¬ de¬ cursos¬
+d’água¬naturais,¬na¬faixa¬definida¬na¬licença¬ambiental¬do¬
+empreendimento.¬
+¬
+Está¬correto¬apenas¬o¬que¬se¬afirma¬em:¬
+¬
+¬
+(A)¬I.¬
+(B)¬III.¬
+(C)¬II¬e¬III.¬
+(D)¬I¬e¬II.¬
+(E)¬I,¬II¬e¬III.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Concurso Edital RH nº 009/2025 – Engenheiro (especialidade: Florestal) 
+{37} 
+A¬ administração¬ da¬ vegetação¬ natural¬ para¬ a¬ obtenção¬ de¬
+benefícios¬econômicos,¬sociais¬e¬ambientais,¬respeitando-se¬
+os¬ mecanismos¬ de¬ sustentação¬ do¬ ecossistema¬ objetivado,¬
+considerando-se,¬cumulativa¬ou¬alternativamente,¬a¬utilização¬
+de¬ múltiplas¬ espécies¬ madeireiras¬ ou¬ não,¬ de¬ múltiplos¬
+produtos¬e¬subprodutos¬da¬flora,¬bem¬como¬a¬utilização¬de¬
+outros¬ bens¬ e¬ serviços,¬ segundo¬ o¬ Código¬ Florestal¬ é¬
+denominada¬como:¬
+¬
+(A)¬Ação¬ governamental¬ de¬ proteção¬ e¬ uso¬ sustentável¬ de¬
+florestas.¬
+(B)¬Atividades¬de¬segurança¬nacional¬e¬proteção¬sanitária¬
+(C)¬Atividades¬eventuais¬ou¬de¬baixo¬impacto¬ambiental¬
+(D)¬Manejo¬sustentável.¬
+(E)¬Uso¬sustentável¬do¬solo¬¬
+##### 
+¬
+{38} 
+Considera-se¬ Área¬ de¬ Preservação¬ Permanente,¬ em¬ zonas¬
+rurais¬ou¬urbanas,¬segundo¬o¬atual¬“código¬florestal”¬brasileiro¬
+–¬Lei¬12.651/2012:¬
+¬
+I.¬as¬ áreas¬ no¬ entorno¬ das¬ nascentes¬ e¬ dos¬ olhos¬ d’água¬
+perenes,¬qualquer¬que¬seja¬sua¬situação¬topográfica,¬no¬
+raio¬ mínimo¬ de¬ 50¬ (cinquenta)¬ metros¬ para¬ os¬ cursos¬
+d’água¬de¬menos¬de¬10¬(dez)¬metros¬de¬largura.¬
+II.¬as¬encostas¬ou¬partes¬destas¬com¬declividade¬superior¬a¬
+45º¬equivalente¬a¬100%¬(cem¬por¬cento)¬na¬linha¬de¬maior¬
+declive.¬
+III.¬as¬restingas,¬como¬fixadoras¬de¬dunas¬ou¬estabilizadoras¬
+de¬mangues.¬
+IV.¬os¬manguezais,¬em¬toda¬a¬sua¬extensão.¬
+¬
+Está¬correto¬o¬que¬se¬afirma¬em:¬
+¬
+(A)¬I¬e¬III,¬apenas.¬
+(B)¬II,¬III¬e¬IV,¬apenas.¬
+(C)¬I,¬II¬e¬III,¬apenas.¬
+(D)¬I,¬II,¬III¬e¬IV.¬
+(E)¬Nenhuma¬das¬alternativas¬anteriores¬está¬correta.¬
+##### 
+¬
+{39} 
+Analise¬ a¬ seguinte¬ definição,¬ segundo¬ a¬ CETESB:¬ Área¬
+incluída¬ no¬ perímetro¬ urbano¬ ou¬ em¬ zona¬ urbana¬ aprovada¬
+pelo¬plano¬diretor¬ou¬por¬lei¬municipal¬específica;¬com¬sistema¬
+viário¬implantado¬e¬vias¬de¬circulação¬pavimentadas¬ou¬não;¬
+organizada¬
+em¬
+quadras¬
+e¬
+lotes¬
+predominantemente¬
+edificados;¬de¬uso¬predominantemente¬urbano,¬caracterizada¬
+pela¬ existência¬ de¬ edificações¬ residenciais,¬ comerciais,¬
+industriais,¬institucionais,¬mistas¬ou¬voltadas¬à¬prestação¬de¬
+serviços;¬ e¬ com¬ a¬ presença¬ de,¬ no¬ mínimo,¬ 3¬ (três)¬ dos¬
+seguintes¬
+equipamentos¬
+de¬
+infraestrutura¬
+urbana¬
+implantados:¬ drenagem¬ de¬ águas¬ pluviais;¬ esgotamento¬
+sanitário;¬ abastecimento¬ de¬ água¬ potável;¬ distribuição¬ de¬
+energia¬ elétrica;¬ e¬ limpeza¬ urbana,¬ coleta¬ e¬ manejo¬ de¬
+resíduos¬sólidos.¬Essa¬definição¬refere-se¬a¬qual¬conceito?¬
+¬
+(A)¬Área¬ rural¬ consolidada¬ em¬ Área¬ de¬ Preservação¬
+Permanente¬–¬APP.¬
+(B)¬Área¬Urbana¬Consolidada.¬
+(C)¬Árvore¬nativa¬isolada.¬
+(D)¬Floresta¬Estacional.¬
+(E)¬Imóvel¬Rural.¬
+##### 
+{40} 
+Com¬base¬na¬Resolução¬SMA¬(SEMIL)¬SP¬nº¬07/2017,¬que¬trata¬
+da¬ compensação¬ ambiental¬ de¬ áreas¬ objeto¬ de¬ pedido¬ de¬
+autorização¬para¬supressão¬de¬vegetação¬nativa,¬assinale¬a¬
+alternativa¬ que¬ corresponde¬ à¬ afirmação¬ correspondente¬ a¬
+esta¬norma.¬
+¬
+(A)¬A¬ compensação¬ ambiental¬ no¬ caso¬ de¬ concessão¬ de¬
+autorização¬ para¬ o¬ corte¬ de¬ árvores¬ nativas¬ isoladas¬
+deverá¬atender¬aos¬seguintes¬critérios:¬I¬-¬Corte¬de¬árvores¬
+nativas¬isoladas¬localizadas¬em¬Municípios¬com¬índice¬de¬
+cobertura¬vegetal¬nativa¬inferior¬ou¬igual¬a¬5%¬(cinco¬por¬
+cento),¬ conforme¬ tabela¬ constante¬ do¬ Anexo¬ II¬ (Res.¬
+07/2017),¬ deverá¬ ser¬ compensada¬ na¬ proporção¬ de¬ 10¬
+para¬1.¬¬
+(B)¬São¬ áreas¬ particulares,¬ desde¬ que¬ não¬ sejam¬ alvo¬ de¬
+obrigações¬judiciais¬ou¬administrativas¬estabelecidas¬em¬
+licenças,¬Termos¬de¬Compromisso¬Ambiental¬ou¬Termos¬
+de¬ Ajustamento¬ de¬ Conduta¬ firmados¬ com¬ órgãos¬ do¬
+Sistema¬ Ambiental¬ Paulista,¬ bem¬ como¬ não¬ sejam¬
+abrangidas¬ por¬ projetos¬ de¬ restauração¬ ecológica¬
+executados¬com¬recursos¬públicos¬e¬mediante¬anuência¬
+do¬órgão¬gestor.¬
+(C)¬A¬ compensação¬ ambiental¬ no¬ caso¬ de¬ concessão¬ de¬
+autorização¬ para¬ o¬ corte¬ de¬ árvores¬ nativas¬ isoladas¬
+deverá¬atender¬aos¬seguintes¬critérios:¬I¬-¬Corte¬de¬árvores¬
+nativas¬isoladas¬localizadas¬em¬Municípios¬com¬índice¬de¬
+cobertura¬vegetal¬nativa¬inferior¬ou¬igual¬a¬5%¬(cinco¬por¬
+cento),¬ conforme¬ tabela¬ constante¬ do¬ Anexo¬ II¬ (Res.¬
+07/2017),¬ deverá¬ ser¬ compensada¬ na¬ proporção¬ de¬ 25¬
+para¬1.¬¬
+(D)¬São¬ áreas¬ públicas,¬ desde¬ que¬ não¬ sejam¬ alvo¬ de¬
+obrigações¬judiciais¬ou¬administrativas¬estabelecidas¬em¬
+licenças,¬Termos¬de¬Compromisso¬Ambiental¬ou¬Termos¬
+de¬ Ajustamento¬ de¬ Conduta,¬ firmados¬ com¬ órgãos¬ do¬
+Sistema¬ Ambiental¬ Paulista,¬ bem¬ como¬ não¬ sejam¬
+abrangidas¬ por¬ projetos¬ de¬ restauração¬ ecológica¬
+executados¬com¬recursos¬públicos¬e¬mediante¬anuência¬
+do¬proprietário,¬comprovada¬a¬dominialidade¬da¬área.¬
+(E)¬A¬ compensação¬ ambiental¬ no¬ caso¬ de¬ concessão¬ de¬
+autorização¬ para¬ o¬ corte¬ de¬ árvores¬ nativas¬ isoladas¬
+deverá¬atender¬aos¬seguintes¬critérios:¬I¬-¬Corte¬de¬árvores¬
+nativas¬isoladas¬localizadas¬em¬Municípios¬com¬índice¬de¬
+cobertura¬vegetal¬nativa¬inferior¬ou¬igual¬a¬5%¬(cinco¬por¬
+cento),¬ conforme¬ tabela¬ constante¬ do¬ Anexo¬ II¬ (Res.¬
+07/2017),¬ deverá¬ ser¬ compensada¬ na¬ proporção¬ de¬ 15¬
+para¬1.¬¬
+##### 
+¬
+{41} 
+A¬área¬localizada¬no¬interior¬de¬uma¬propriedade¬ou¬posse¬
+rural,¬com¬a¬função¬de¬assegurar¬o¬uso¬econômico¬de¬modo¬
+sustentável¬ dos¬ recursos¬ naturais¬ do¬ imóvel¬ rural,¬ auxiliar¬ a¬
+conservação¬ e¬ a¬ reabilitação¬ dos¬ processos¬ ecológicos¬ e¬
+promover¬ a¬ conservação¬ da¬ biodiversidade,¬ bem¬ como¬ o¬
+abrigo¬ e¬ a¬ proteção¬ de¬ fauna¬ silvestre¬ e¬ da¬ flora¬ nativa,¬
+segundo¬o¬Código¬Florestal,¬é¬denominada¬como:¬
+¬
+(A)¬Reserva¬Legal.¬
+(B)¬Área¬de¬Preservação¬Permanente.¬
+(C)¬Área¬consolidada.¬
+(D)¬Pequena¬Propriedade.¬
+(E)¬Posse¬rural.¬
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+Concurso Edital RH nº 009/2025 – Engenheiro (especialidade: Florestal) 
+{42} 
+Como¬é¬possível¬realizar¬um¬teste¬rápido¬da¬viabilidade¬de¬um¬
+lote¬ de¬ sementes¬ de¬ árvores,¬ sem¬ ter¬ que¬ colocá-las¬ para¬
+germinar¬por¬algumas¬semanas?¬
+¬
+(A)¬Fazer¬ cortes¬ muito¬ finos¬ de¬ sementes¬ com¬ lâmina¬ de¬
+barbear¬ de¬ uma¬ amostra¬ do¬ lote¬ e¬ olhar¬ a¬ presença¬ de¬
+reservas¬ao¬microscópio.¬
+(B)¬Cortar¬uma¬amostra¬de¬sementes¬ao¬meio¬com¬lâmina¬de¬
+barbear,¬colocar¬em¬solução¬de¬reagente¬de¬tetrazólio¬em¬
+água,¬ esperar¬ meia¬ hora¬ e¬ avaluar¬ a¬ porcentagem¬ que¬
+muda¬para¬a¬cor¬rosa.¬
+(C)¬Cortar¬uma¬amostra¬de¬sementes¬ao¬meio¬com¬lâmina¬de¬
+barbear,¬colocar¬em¬solução¬de¬minerais¬NPK¬mais¬o¬metal¬
+cromo¬(Cr)¬(5%¬em¬água),¬esperar¬meia¬hora¬e¬avaliar¬a¬
+porcentagem¬que¬muda¬para¬a¬cor¬verde.¬
+(D)¬Cortar¬uma¬amostra¬de¬sementes¬ao¬meio¬com¬lâmina¬de¬
+barbear,¬colocar¬em¬solução¬aquosa¬de¬fenolftaleína¬(1%)¬
+com¬ amônio¬ (0,1%),¬ esperar¬ meia¬ hora¬ e¬ avaliar¬ a¬
+porcentagem¬que¬muda¬da¬cor¬rosa¬para¬branco.¬
+(E)¬Colocar¬uma¬amostra¬de¬sementes¬do¬lote¬em¬água¬mineral¬
+e¬ aguardar¬ meia¬ hora¬ para¬ verificar¬ se¬ as¬ sementes¬
+embebem¬e¬incham.¬
+##### 
+¬
+{43} 
+Assinale¬a¬alternativa¬que¬apresenta¬o¬melhor¬indicador¬para¬
+confirmação¬da¬germinação¬de¬uma¬essência¬florestal.¬
+¬
+(A)¬O¬aparecimento¬de¬protrusão¬com¬relevo¬sob¬o¬tegumento¬
+da¬semente.¬
+(B)¬A¬ruptura¬do¬tegumento¬e¬saída¬dos¬cotilédones¬da¬testa¬
+da¬semente.¬
+(C)¬A¬ emergência¬ da¬ radícula¬ e¬ exposição¬ completa¬ dos¬
+cotilédones.¬
+(D)¬A¬ formação¬ da¬ raiz¬ primária,¬ formação¬ de¬ eofilos¬ e¬
+crescimento¬do¬ápice¬da¬plântula,¬independentemente¬dos¬
+cotilédones¬se¬exporem¬ou¬não.¬
+(E)¬A¬completa¬exposição¬e¬expansão¬dos¬cotilédones¬e¬da¬
+plúmula.¬
+##### 
+¬
+{44} 
+Assinale¬a¬alternativa¬que¬apresenta¬a¬maneira¬mais¬correta¬
+de¬podar¬um¬galho¬secundário,¬saindo¬do¬tronco¬principal.¬
+¬
+(A)¬Cortar¬ o¬ galho¬ com¬ serra,¬ paralelamente¬ ao¬ tronco¬
+principal¬ (plano¬ vertical),¬ deixando¬ uma¬ seção¬ exposta¬
+elíptica¬e¬removendo¬o¬colo¬para¬facilitar¬a¬cicatrização.¬
+(B)¬Cortar¬ o¬ galho¬ com¬ serra,¬ paralelamente¬ ao¬ tronco¬
+principal¬(plano¬vertical),¬deixando¬um¬toco¬de¬5¬cm¬do¬
+galho,¬sem¬remover¬o¬colo¬para¬facilitar¬a¬cicatrização.¬
+(C)¬Cortar¬o¬galho¬com¬serra,¬perpendicularmente¬ao¬seu¬eixo,¬
+próximo¬ao¬colo,¬mas¬sem¬machucá-lo,¬deixando¬a¬crista¬
+intacta,¬ mas¬ a¬ face¬ cortada¬ oblíqua¬ em¬ relação¬ ao¬
+horizonte.¬
+(D)¬Cortar¬o¬galho¬perpendicularmente¬ao¬seu¬eixo,¬deixando¬
+toco¬de¬3¬cm¬do¬colo,¬mas¬sem¬machucá-lo,¬deixando¬a¬
+crista¬intacta,¬mas¬a¬face¬cortada¬paralela¬em¬relação¬ao¬
+horizonte.¬
+(E)¬Cortar¬
+o¬
+galho¬
+com¬
+facão,¬
+machado¬
+ou¬
+foice,¬
+perpendicularmente¬ ao¬ seu¬ eixo,¬ próximo¬ ao¬ colo,¬ mas¬
+sem¬ machucá-lo,¬ deixando¬ a¬ crista¬ intacta,¬ mas¬ a¬ face¬
+cortada¬paralela¬em¬relação¬ao¬horizonte.¬
+##### 
+{45} 
+Assinale¬
+a¬
+alternativa¬
+que¬
+apresenta¬
+um¬
+método¬
+INADEQUADO¬para¬quebra¬da¬dormência¬de¬sementes.¬
+¬
+(A)¬Aquecimento¬das¬sementes¬em¬forno¬de¬micro-ondas¬a¬95¬
+ºC¬graus¬por¬meia¬hora.¬
+(B)¬Escarificação¬mecânica¬com¬lixas.¬
+(C)¬Choque¬ térmico¬ de¬ sementes¬ colocando-as¬ em¬ água¬
+aquecida¬a¬60¬ºC¬e¬dando¬um¬choque¬térmico¬em¬água¬fria¬
+a¬10¬ºC.¬
+(D)¬Escarificação¬ química¬ com¬ ácido¬ sulfúrico¬ concentrado¬
+por¬até¬90¬minutos.¬
+(E)¬Imersão¬em¬água¬por¬24h¬com¬a¬remoção¬do¬arilo¬ e/ou¬
+sarcotesta.¬
+##### 
+¬
+{46} 
+Assinale¬a¬alternativa¬que¬apresenta¬a¬classe¬de¬hormônios¬
+vegetais¬ e¬ o¬ tratamento¬ que¬ deve¬ ser¬ utilizado¬ para¬ a¬
+multiplicação¬de¬plantas¬por¬estaquia.¬
+¬
+(A)¬Citocininas¬concentradas.¬
+(B)¬Giberelinas¬em¬alta¬concentração.¬
+(C)¬Strigolactonas¬de¬raízes¬em¬baixa¬concentração.¬
+(D)¬Auxinas¬em¬alta¬concentração.¬
+(E)¬Auxinas¬em¬baixa¬concentração.¬
+##### 
+¬
+{47} 
+Considerando¬ características¬ morfológicas¬ e¬ biológicas¬ das¬
+espécies¬arbóreas¬a¬seguir¬bem¬como¬equipamentos¬urbanos,¬
+como¬casas,¬postes,¬fiação,¬calçadas,¬assinale¬a¬alternativa¬
+que¬ apresenta¬ a¬ espécie¬ mais¬ adequada¬ para¬ arborização¬
+urbana.¬
+¬
+(A)¬Falsa-seringueira,¬Ficus¬elastica,¬Moraceae.¬
+(B)¬Flamboyant,¬Delonix¬regia,¬Fabaceae.¬
+(C)¬Eucalipto-citriodora,¬Corymbia¬citriodora,¬Myrtaceae.¬
+(D)¬Ipê,¬Handroanthus¬serratifolius,¬Bignoniaceae.¬
+(E)¬Figueira,¬Ficus¬microcarpa,¬Moraceae.¬
+##### 
+¬
+{48} 
+A¬ fim¬ de¬ evitar¬ apodrecimento,¬ assinale¬ a¬ alternativa¬ que¬
+apresenta¬ os¬ produtos¬ mais¬ adequados¬ para¬ aplicação¬ em¬
+cepos¬de¬galhos¬após¬a¬poda.¬
+¬
+(A)¬Cal¬ virgem,¬ para¬ impedir¬ o¬ crescimento¬ de¬ bactérias¬ e¬
+fungos¬e¬entrada¬de¬formigas.¬
+(B)¬Pentaclorofenato¬de¬sódio¬para¬impedir¬o¬crescimento¬de¬
+bactérias¬e¬fungos.¬
+(C)¬Tinta¬
+verde¬
+a¬
+base¬
+de¬
+esmalte¬
+sintético¬
+para¬
+impermeabilizar¬ a¬ região¬ e¬ impedir¬ o¬ crescimento¬ de¬
+bactérias¬e¬fungos.¬
+(D)¬Piche,¬ asfalto¬ ou¬ betume¬ derretidos,¬ aplicados¬ quentes,¬
+para¬impermeabilização.¬
+(E)¬Sulfato¬de¬cobre¬com¬óxido¬de¬cálcio¬ou¬resina¬de¬abeto.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 12 ---
+
+Concurso Edital RH nº 009/2025 – Engenheiro (especialidade: Florestal) 
+{49} 
+Para¬o¬plantio¬de¬árvores¬urbanas,¬quais¬são¬as¬dimensões¬de¬
+altura¬ e¬ Diâmetro¬ na¬ Altura¬ do¬ Peito¬ (DAP)¬ de¬ árvores¬ que¬
+possuem¬ mais¬ chance¬ de¬ sobrevivência¬ no¬ plantio¬ urbano,¬
+considerando¬ a¬ qualidade¬ dos¬ solos,¬ urbanização,¬ risco¬ de¬
+vandalismo¬e¬o¬vigor¬das¬mudas?¬
+¬
+(A)¬Altura¬mínima¬de¬2,5¬m¬e¬DAP¬>¬5¬cm.¬
+(B)¬Altura¬mínima¬de¬1,5¬m¬e¬DAP¬>¬2,5¬cm.¬
+(C)¬Altura¬mínima¬de¬0,6¬m¬e¬DAP¬>¬1¬cm.¬
+(D)¬Altura¬mínima¬de¬1,5¬m¬e¬DAP¬<¬3,5¬cm.¬
+(E)¬Altura¬mínima¬de¬0,5¬m¬e¬DAP¬>¬5¬cm.¬
+##### 
+¬
+{50} 
+A¬supressão¬de¬uma¬árvore¬urbana¬de¬via,¬praça¬ou¬parque¬
+se¬justifica¬quando¬a¬
+¬
+(A)¬copa¬está¬desfigurada¬e¬esteticamente¬desagradável¬com¬
+¾¬ da¬ copa¬ atacada¬ pela¬ lacerdinha¬ (Gynaikothrips¬
+ficorum)¬(Marchal)¬(Thysanoptera).¬
+(B)¬árvore¬apresenta¬mais¬de¬3/4¬do¬diâmetro¬da¬madeira¬do¬
+tronco¬colonizada¬por¬Ganoderma¬sp¬associado¬a¬ninho¬
+de¬Coptotermes¬gestroi.¬¬
+(C)¬árvore¬apresenta¬muitas¬ folhas¬ necróticas¬e¬cloróticas¬e¬
+ninho¬
+de¬
+jataí-amarela¬
+(Tetragonisca¬
+angustula,¬
+Hymenoptera).¬
+(D)¬árvore¬está¬com¬100%¬de¬sua¬copa¬atacada¬pela¬“mosca-
+branca”¬ (Singhiella¬ simplex)¬ com¬ muitas¬ manchas¬
+necróticas.¬
+(E)¬árvore¬apresenta¬¾¬do¬seu¬tronco¬ocupado¬por¬cerne¬e¬¼¬
+por¬alburno¬e¬mais¬de¬2¬tubos¬de¬saída¬de¬ninhos¬de¬jataí-
+amarela¬(Tetragonisca¬angustula,¬Hymenoptera).¬
+##### 
+¬
+{51} 
+Considerando¬os¬“Objetivos¬de¬Desenvolvimento¬Sustentável¬
+da¬ ONU”,¬ “11-Cidades¬ e¬ Comunidades¬ Sustentáveis”,¬ “13-
+Ação¬ Contra¬ a¬ Mudança¬ Global¬ do¬ Clima”¬ e¬ “15¬ Vida¬
+Terrestre”.¬Qual¬das¬alternativas¬faz¬parte¬integral¬dos¬subitens¬
+dos¬objetivos?¬
+¬
+(A)¬Até¬ 2020,¬ assegurar¬ a¬ conservação,¬ recuperação¬ e¬ uso¬
+sustentável¬ de¬ ecossistemas¬ terrestres¬ e¬ de¬ água¬ doce¬
+interiores¬ e¬ seus¬ serviços,¬ em¬ especial¬ florestas,¬ zonas¬
+úmidas,¬montanhas¬e¬terras¬áridas,¬em¬conformidade¬com¬
+as¬obrigações¬decorrentes¬dos¬acordos¬internacionais.¬
+(B)¬Até¬ 2040,¬ promover¬ a¬ implementação¬ da¬ gestão¬
+sustentável¬ de¬ todos¬ os¬ tipos¬ de¬ florestas,¬ deter¬ o¬
+desmatamento,¬restaurar¬florestas¬degradadas¬e¬aumentar¬
+substancialmente¬ o¬ florestamento¬ e¬ o¬ reflorestamento¬
+globalmente.¬
+(C)¬Tomar¬medidas¬para¬acabar¬com¬o¬tráfico¬de¬espécies¬da¬
+fauna,¬flora¬e¬funga.¬
+(D)¬Reforçar¬o¬apoio¬global¬para¬os¬esforços¬de¬combate¬à¬
+pesca¬ilegal.¬
+(E)¬Até¬2040,¬reduzir¬significativamente¬o¬número¬de¬mortes¬e¬
+o¬ número¬ de¬ pessoas¬ afetadas¬ por¬ catástrofes¬ e¬
+substancialmente¬diminuir¬as¬perdas¬econômicas¬diretas¬
+causadas¬ por¬ elas¬ em¬ relação¬ ao¬ produto¬ interno¬ bruto¬
+global,¬incluindo¬os¬desastres¬relacionados¬à¬água,¬com¬o¬
+foco¬em¬proteger¬os¬pobres¬e¬as¬pessoas¬em¬situação¬de¬
+vulnerabilidade.¬
+##### 
+ 
+ 
+{52} 
+Assinale¬ a¬ alternativa¬ que¬ apresenta¬ a¬ maneira¬ mais¬
+adequada¬de¬preparar¬o¬local¬para¬o¬plantio¬de¬uma¬muda¬de¬
+espécie¬arbórea¬nativa¬com¬até¬1,5¬m¬de¬altura.¬
+¬
+(A)¬Preparar¬ a¬ cova¬ de¬ 10¬ cm¬ de¬ diâmetro,¬ 15¬ cm¬ de¬
+profundidade¬com¬um¬mês¬de¬antecedência¬(mantendo¬a¬
+coveta¬tampada¬até¬o¬plantio),¬realizar¬calagem,¬adicionar¬
+1¬kg¬de¬adubo¬sintético¬NPK¬(15:15:15)¬adicionar¬1¬kg¬de¬
+matéria¬orgânica.¬
+(B)¬Preparar¬ a¬ cova¬ de¬ 30¬ cm¬ de¬ diâmetro,¬ 60¬ cm¬ de¬
+profundidade,¬com¬um¬mês¬de¬antecedência¬(mantendo¬a¬
+coveta¬tampada¬até¬o¬plantio),¬realizar¬calagem,¬adicionar¬
+100¬g¬de¬adubo¬sintético¬NPK¬(proporções¬a¬depender¬de¬
+análise¬solo),¬adicionar¬5¬kg¬de¬matéria¬orgânica.¬
+(C)¬Preparar¬a¬cova¬de¬30¬cm¬de¬diâmetro,¬na¬hora¬do¬plantio¬
+adicionar¬ 100¬ g¬ de¬ adubo¬ sintético¬ NPK¬ (proporções¬
+5:5:5),¬adicionar¬0,5¬kg¬de¬matéria¬orgânica.¬
+(D)¬Preparar¬a¬cova¬de¬30¬cm¬de¬diâmetro,¬mínimo¬de¬60¬cm¬
+de¬profundidade,¬com¬um¬mês¬de¬antecedência.¬Adubar¬
+com¬5¬kg¬de¬esterco¬fresco¬de¬galinha,¬adicionar¬100¬g¬de¬
+adubo¬sintético¬NPK.¬
+(E)¬Preparar¬ cova¬ de¬ 50¬ cm¬ de¬ diâmetro,¬ usando¬ trado¬
+motorizado¬ com¬ 1¬ m¬ de¬ profundidade¬ e¬ preencher¬ com¬
+mistura¬de¬celulose¬para¬hidrofertilização¬adicionando¬na¬
+hora¬do¬plantio¬ureia,¬nitrato¬de¬potássio¬e¬sulfato¬de¬cobre.¬
+##### 
+¬
+{53} 
+Considerando¬a¬queda¬de¬árvores¬no¬centro¬de¬São¬Paulo¬na¬
+última¬ década,¬ assinale¬ a¬ alternativa¬ que¬ apresenta¬
+corretamente¬ quais¬ as¬ partes¬ das¬ árvores¬ com¬ maiores¬
+porcentagens¬de¬ruptura.¬
+¬
+(A)¬Galhos¬e¬troncos.¬
+(B)¬Troncos¬e¬colo.¬
+(C)¬Galhos¬e¬raízes.¬
+(D)¬Raízes¬e¬colo.¬
+(E)¬Troncos¬e¬raízes.¬
+##### 
+¬
+{54} 
+Considerando¬ as¬ formações¬ vegetais¬ e¬ biomas¬ originais¬
+ocorrentes¬ na¬ cidade¬ de¬ São¬ Paulo¬ e¬ nos¬ campi¬ da¬ USP¬
+localizados¬em¬São¬Paulo¬(Cidade¬Universitária¬Armando¬de¬
+Salles¬Oliveira¬–¬CUASO),¬São¬Carlos¬e¬Pirassununga,¬assinale¬
+a¬ alternativa¬ que¬ apresenta¬ os¬ biomas¬ e¬ as¬ formações¬
+vegetais¬ mais¬ adequadas¬ para¬ serem¬ usados¬ como¬
+referências¬para¬restauração¬florestal¬e¬arborização¬urbana.¬
+¬
+(A)¬Mata¬Atlântica,¬floresta¬ombrófila¬densa,¬Cerrado,¬campo¬
+cerrado.¬
+(B)¬Mata¬atlântica,¬floresta¬de¬restinga¬e¬Cerrado,¬cerradão¬
+(C)¬Mata¬atlântica,¬floresta¬ombrófila¬mista¬e¬Cerrado,¬cerrado¬
+sensu¬stricto.¬
+(D)¬Mata¬ Atlântica,¬ floresta¬ estacional¬ semi-decidual¬ e¬
+Cerrado,¬cerradão.¬
+(E)¬Mata¬atlântica,¬floresta¬nebular¬e¬Cerrado,¬cerradão.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 13 ---
+
+Concurso Edital RH nº 009/2025 – Engenheiro (especialidade: Florestal) 
+{55} 
+Considerando¬os¬tipos¬e¬tamanhos¬de¬frutos¬que¬portam,¬quais¬
+espécies¬ arbóreas¬ já¬ usadas¬ em¬ arborização¬ de¬ vias¬ em¬
+cidades¬ Brasil¬ são¬ as¬ mais¬ adequadas¬ e¬ recomendadas,¬
+considerados¬ seus¬ caracteres¬ biogeográficos,¬ biológicos¬ e¬
+ecológicos?¬
+¬
+(A)¬Mangueira¬(Mangifera¬indica)¬e¬tipuana¬Tipuana¬tipu).¬
+(B)¬Amendoim-de-campinas¬(Holocalix¬balsanae)¬e¬dedaleira¬
+(Lafoensia¬pacari).¬
+(C)¬Abricó-de-macaco¬ (Coroupita¬ guianensis)¬ e¬ chapéu-de-
+sol¬(Terminalia¬catappa).¬
+(D)¬Flamboyant¬ (Delonix¬ regia)¬ e¬ palmeira-rabo-de-peixe¬
+(Caryota¬urens).¬
+(E)¬Tipuana¬(Tipuana¬tipu)¬e¬sapucaia¬(Lecythis¬pisonis).¬
+##### 
+¬
+{56} 
+Do¬ponto¬de¬vista¬do¬valor¬econômico¬a¬ser¬gerado,¬assinale¬
+a¬ alternativa¬ que¬ apresenta¬ a¬ melhor¬ solução¬ para¬ a¬
+destinação¬ dos¬ resíduos¬ de¬ poda,¬ supressão¬ ou¬ remoção¬
+após¬queda¬de¬árvores¬urbanas.¬
+¬
+(A)¬Corte¬de¬troncos¬e¬galhos¬grandes¬em¬segmentos¬maiores¬
+que¬ 2¬ m¬ de¬ comprimento¬ para¬ desdobro¬ e¬ uso¬ como¬
+madeira¬serrada¬e¬segmentos¬menores¬para¬lenha.¬
+(B)¬Trituração¬no¬local¬e¬disposição¬no¬local¬das¬árvores,¬para¬
+incorporação¬como¬matéria¬orgânica¬do¬solo.¬
+(C)¬Trituração¬no¬local¬transporte¬para¬preparação¬de¬cepilho¬
+para¬avicultura.¬
+(D)¬Trituração¬ no¬ local¬ transporte¬ para¬ preparação¬ de¬
+composto¬orgânico¬para¬adubação¬de¬hortaliças.¬
+(E)¬Trituração¬ no¬ local¬ transporte¬ para¬ preparação¬ de¬
+briquetes¬para¬geração¬de¬energia.¬
+##### 
+¬
+{57} 
+Árvores¬de¬um¬estágio¬sucessional¬bem¬avançado,¬definido¬
+como¬ “clímax”,¬ possuem¬ quais¬ características¬ biológicas¬ e¬
+ecológicas?¬
+¬
+(A)¬Sementes¬pequenas,¬tolerantes¬à¬sombra,¬intolerantes¬à¬
+insolação¬
+intensa,¬
+madeira¬
+de¬
+densidade¬
+baixa,¬
+crescimento¬rápido,¬tempo¬de¬vida¬muito¬curto¬(~¬10¬anos),¬
+e¬maturidade¬de¬reprodução¬precoce¬(<¬5¬anos).¬
+(B)¬Sementes¬ muito¬ grandes¬ (>¬ 8¬ kg),¬ tolerantes¬ à¬ sombra,¬
+intolerantes¬ à¬ insolação¬ intensa,¬ madeira¬ de¬ densidade¬
+baixa,¬crescimento¬lento,¬tempo¬de¬vida¬mediano¬(10-20¬
+anos)¬ e¬ maturidade¬ de¬ reprodução¬ muito¬ precoce¬ (<¬ 5¬
+anos).¬
+(C)¬Frutos¬e¬sementes¬grandes,¬plantas¬tolerantes¬à¬sombra,¬
+madeira¬de¬densidade¬alta,¬crescimento¬lento,¬tempo¬de¬
+vida¬muito¬longo¬(>¬20¬anos)¬e¬maturidade¬de¬reprodução¬
+tardia¬(>¬20¬anos).¬
+(D)¬Sementes¬ pequenas,¬ tolerantes¬ à¬ seca,¬ intolerantes¬ à¬
+sombra,¬madeira¬de¬densidade¬alta,¬crescimento¬rápido,¬
+tempo¬de¬vida¬muito¬longo¬(~¬20¬anos),¬e¬maturidade¬de¬
+reprodução¬tardia¬(>¬10¬anos).¬
+(E)¬Frutos¬ e¬ sementes¬ pequenos,¬ plantas¬ intolerantes¬ à¬
+sombra,¬madeira¬de¬densidade¬baixa,¬crescimento¬rápido,¬
+tempo¬de¬vida¬muito¬longo¬(>¬20¬anos)¬e¬maturidade¬de¬
+reprodução¬precoce¬(<¬5¬anos).¬
+##### 
+ 
+ 
+ 
+{58} 
+Segundo¬ o¬ Código¬ Florestal¬ Brasileiro¬ vigente¬ (Lei¬ no¬
+12.651/2012)¬ quais¬ áreas¬ cobertas¬ com¬ florestas¬ ou¬ outras¬
+formas¬de¬vegetação¬NÃO¬são¬de¬preservação¬permanente¬
+por¬ declaração¬ de¬ interesse¬ social¬ pelo¬ Chefe¬ do¬ Poder¬
+Executivo?¬
+¬
+(A)¬Área¬ para¬ conter¬ a¬ erosão¬ do¬ solo¬ e¬ mitigar¬ riscos¬ de¬
+enchentes¬e¬deslizamentos¬de¬terra¬e¬de¬rocha.¬
+(B)¬Área¬para¬proteger¬as¬restingas¬ou¬veredas.¬
+(C)¬Área¬ para¬ proteger¬ patrimônio¬ natural¬ da¬ humanidade¬
+tombado¬pela¬UNESCO¬(Organização¬das¬Nações¬Unidas¬
+para¬a¬Educação,¬Ciência¬e¬Cultura).¬
+(D)¬Área¬para¬formar¬faixas¬de¬proteção¬ao¬longo¬de¬rodovias¬
+e¬ferrovias.¬
+(E)¬Área¬para¬auxiliar¬a¬defesa¬do¬território¬nacional,¬a¬critério¬
+das¬autoridades¬militares;¬
+##### 
+¬
+{59} 
+Qual¬
+serviço¬
+ambiental¬
+as¬
+árvores¬
+urbanas¬
+NÃO¬
+proporcionam?¬
+¬
+(A)¬Sombreamento¬e¬resfriamento¬no¬entorno.¬
+(B)¬Umidificação¬do¬ar¬no¬ambiente¬em¬seu¬entorno.¬
+(C)¬Lixiviação¬do¬solo.¬
+(D)¬Retenção¬ de¬ água¬ da¬ chuva¬ na¬ copa,¬ retardo¬ de¬
+escoamento¬e¬redução¬de¬enxurradas.¬
+(E)¬Diminuição¬de¬stress¬e¬dor¬em¬humanos.¬
+##### 
+¬
+{60} 
+Para¬ a¬ recomposição¬ florestal¬ de¬ um¬ bosque¬ ou¬ floresta¬
+urbana,¬qual¬combinação¬de¬tipos¬de¬árvores¬com¬relação¬ao¬
+seu¬ comportamento¬ sucessional¬ e¬ afinidade¬ com¬ a¬ luz¬ é¬ a¬
+mais¬ barata¬ e¬ eficiente¬ para¬ obter¬ uma¬ floresta¬ com¬ mais¬
+riqueza¬e¬diversidade?¬
+¬
+(A)¬Plantar¬ primeiro¬ mudas¬ de¬ árvores¬ pioneiras;¬ após¬ dois¬
+anos¬enriquecer¬com¬árvores¬secundárias¬iniciais;¬depois¬
+de¬dois¬anos¬secundárias¬tardias.¬Após¬dez¬anos¬plantas¬
+árvores¬climáxicas¬de¬baixa¬densidade.¬
+(B)¬Plantar¬ primeiro¬ por¬ sementes¬ árvores¬ pioneiras¬ e¬
+secundárias¬ iniciais;¬ após¬ dois¬ anos¬ enriquecer¬ com¬
+árvores¬secundárias¬tardias.¬¬
+(C)¬Plantar¬primeiro¬mudas¬de¬árvores¬pioneiras¬ciófitas;¬após¬
+dois¬ anos¬ enriquecer¬ com¬ árvores¬ secundárias¬ iniciais¬
+ciófitas;¬ depois¬ de¬ dois¬ anos¬ secundárias¬ tardias.¬ Após¬
+cinco¬anos¬plantas¬árvores¬de¬dossel.¬
+(D)¬Plantar¬ primeiro¬ árvores¬ heliófitas¬ com¬ “bomba-de-
+sementes”;¬ após¬ dois¬ anos¬ enriquecer¬ com¬ árvores¬
+secundárias¬iniciais¬ciófitas;¬depois¬de¬dois¬anos¬árvores¬
+de¬sub-bosque¬heliófitas.¬
+(E)¬Plantar¬ simultaneamente¬ uma¬ combinação¬ de¬ plantas¬
+pioneiras¬ e¬ secundárias¬ iniciais¬ heliófitas¬ em¬ maior¬
+proporção,¬ com¬ uma¬ menor¬ proporção¬ de¬ árvores¬
+secundárias¬tardias¬e¬climáxicas¬ciófitas.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 14 ---
+
+Concurso Edital RH nº 009/2025 – Engenheiro (especialidade: Florestal) 
+Questão dissertativa 
+A¬escolha¬de¬espécies¬arbóreas¬para¬instalação¬no¬ambiente¬urbano¬(vias,¬praças,¬parques¬e¬florestas¬urbanas)¬é¬um¬assunto¬muito¬
+discutido¬há¬décadas¬e¬que¬vem¬sendo¬revisto¬e¬repensado¬ao¬longo¬do¬tempo.¬Considerando¬aspectos¬biológicos¬(diversidade,¬
+crescimento¬vegetativo,¬porte,¬nutrição¬mineral,¬resistência¬a¬pragas,¬órgãos¬vegetais,¬reprodução¬etc.),¬aspectos¬urbanísticos¬(vias¬
+e¬aparelhos¬urbanos¬como¬postes,¬fiação,¬tubulações¬de¬comunicação¬ou¬saneamento¬básico,¬calçadas¬etc.),¬bem¬como¬usos¬do¬
+espaço,¬discuta¬critérios¬que¬devem¬ser¬levados¬em¬conta¬na¬escolha¬de¬espécies¬de¬árvores¬para¬o¬ambiente¬urbano¬em¬cada¬
+tipo¬de¬espaço¬citado,¬apresentando,¬ao¬menos¬dois¬exemplos¬de¬espécies,¬mais¬ou¬menos¬adequadas¬para¬cada¬um,¬suas¬
+vantagens¬ e¬ desvantagens.¬ Justifique¬ detalhadamente¬ as¬ escolhas.¬ Por¬ fim,¬ apresente¬ sugestões¬ argumentadas¬ de¬ como¬ o¬
+planejamento¬do¬espaço¬urbano¬do¬Brasil¬poderia¬ser¬melhor,¬de¬forma¬a¬ter¬elementos¬arbóreos¬em¬quantidade¬e¬porte¬adequados¬
+para¬atingir¬os¬Objetivos¬de¬Desenvolvimento¬Sustentável¬(ODS)¬propostos¬pela¬ONU.¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Instruções:  
+• As¬respostas¬deverão¬ser¬redigidas¬de¬acordo¬com¬a¬norma¬padrão¬da¬língua¬portuguesa.¬¬
+• Escreva¬com¬letra¬legível¬e¬não¬ultrapasse¬o¬espaço¬de¬linhas¬disponíveis¬da¬folha¬de¬respostas.¬¬
+• Receberão¬nota¬zero¬textos¬que¬desrespeitarem¬os¬direitos¬humanos¬e¬textos¬que¬permitirem,¬por¬qualquer¬modo,¬a¬identificação¬do¬candidato(a).¬
+
+
+--- PAGE 15 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RASCUNHO 
+ 
+ 
+NÃO SERÁ 
+CONSIDERADO NA 
+CORREÇÃO 
+
+
+--- PAGE 16 ---
+
+V2 
+
+
+--- PAGE 17 ---
+
+ 
+ 
+                 
+ 
+ 
+Universidade de São Paulo 
+GABARITO – CONCURSOS DRH USP – ABRIL/2025 
+ 
+ 
+ 
+ 
+Engenheiro (especialidade: Florestal) – Edital RH Nº 009/2025 
+PROVA EGF 
+1 
+D 
+31 
+D 
+2 
+B 
+32 
+E 
+3 
+E 
+33 
+A 
+4 
+C 
+34 
+E 
+5 
+C 
+35 
+C 
+6 
+E 
+36 
+E 
+7 
+B 
+37 
+D 
+8 
+C 
+38 
+B 
+9 
+E 
+39 
+B 
+10 
+B 
+40 
+C 
+11 
+A 
+41 
+A 
+12 
+C 
+42 
+B 
+13 
+C 
+43 
+D 
+14 
+D 
+44 
+C 
+15 
+C 
+45 
+A 
+16 
+B 
+46 
+E 
+17 
+B 
+47 
+D 
+18 
+E 
+48 
+E 
+19 
+E 
+49 
+A 
+20 
+A 
+50 
+B 
+21 
+A 
+51 
+A 
+22 
+A 
+52 
+B 
+23 
+C 
+53 
+C 
+24 
+B 
+54 
+D 
+25 
+B 
+55 
+B 
+26 
+D 
+56 
+A 
+27 
+B 
+57 
+C 
+28 
+C 
+58 
+C 
+29 
+A 
+59 
+C 
+30 
+C 
+60 
+E 
+ 
+
+
+--- PAGE 18 ---
+
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 009/2025   
+ 
+Engenheiro (Florestal) 
+ 
+QUESTÃO DISSERTATIVA 
+ 
+RESPOSTA ESPERADA 
+ 
+Espera-se que o candidato enumere: 
+ 
+- Características dos ambientes urbanos citados: vias, parques/praças e florestas urbanas; 
+- Características de cada espaço urbano (calçada, esgoto, encanamento, eletrificação, postes, áreas de lazer, etc. 
+- Apresente caracteres vantajosos e desvantajosos que as espécies arbóreas (com nome popular e gênero botânico) 
+podem ter e onde podem ser adequar ou não e o porquê. 
+- Discutir características do ambiente urbano que fazem com que as espécies sejam adequadas ou não. 
+- Sugerir medidas de planejamento urbano para alcançar os ODS da ONU. 
+ 
+CRITÉRIOS DE CORREÇÃO 
+ 
+• Critério 1: Completude e abrangência dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+Os conceitos principais são abordados com profundidade e detalhamento. 
+2 
+A maioria dos conceitos principais é abordada, mas pode faltar algum detalhe ou profundidade. 
+1 
+Alguns conceitos principais são abordados, mas a explicação é superficial ou incompleta. 
+0  
+Pouco ou nenhum conceito relevante é abordado. 
+ 
+• Critério 2: Domínio e aprofundamento dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+A resposta é precisa, com informações corretas e bem explicadas. 
+2 
+A resposta é em sua maioria precisa, mas pode conter alguns pequenos erros ou imprecisões. 
+1 
+A resposta contém várias imprecisões ou erros conceituais, mas a ideia geral é compreensível. 
+0  
+A resposta está incorreta e confusa. 
+ 
+• Critério 3: Aplicação prática / exemplificação dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+A resposta faz uma excelente conexão entre os conceitos teóricos e suas aplicações práticas. 
+2 
+A resposta faz boas conexões entre teoria e prática, mas pode ser aprimorada com mais exemplos 
+ou detalhes. 
+1 
+A conexão entre teoria e prática é mencionada, mas é superficial ou pouco clara. 
+0  
+A resposta não aborda a aplicação prática e não apresenta exemplos dos conceitos. 
+ 
+• Critério 4: Clareza e Coerência (0 a 1 ponto): 
+Faixa de nota 
+Critério 
+1 
+O texto é extremamente claro e coerente, apresentando uma explicação lógica e bem estruturada 
+dos conceitos. 
+0,5 
+O texto é claro e coerente, com algumas pequenas falhas na estrutura ou na explicação. 
+0 
+O texto é compreensível, mas apresenta várias falhas na clareza ou na coerência que dificultam a 
+compreensão total. 
+ 

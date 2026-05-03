@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import json
 from pathlib import Path
 
@@ -9,6 +11,9 @@ TEXT_DIR = ROOT / "storage" / "imports" / "text"
 
 def main():
     manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
+    if not isinstance(manifest, list) or not manifest:
+        raise SystemExit("Nenhum PDF disponível em storage/imports/pdf_manifest.json para converter em texto.")
+
     TEXT_DIR.mkdir(parents=True, exist_ok=True)
 
     parsed = []
@@ -32,6 +37,9 @@ def main():
         json.dumps(parsed, ensure_ascii=False, indent=2),
         encoding="utf-8"
     )
+
+    if not parsed:
+        raise SystemExit("Nenhum PDF pôde ser convertido em texto.")
 
     print("\nOK: textos salvos em storage/imports/text/")
     print("Manifest: storage/imports/text_manifest.json")

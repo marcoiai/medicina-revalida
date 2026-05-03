@@ -1,0 +1,1219 @@
+
+Você é um revisor técnico de questões médicas para Revalida/Residência.
+
+TAREFA:
+Reescreva somente as alternativas de cada questão abaixo.
+
+OBJETIVO:
+- melhorar alternativas curtas, telegráficas, vagas ou desequilibradas
+- tornar as alternativas mais homogêneas em extensão e formato
+- preservar tema, enunciado, eixo decisório e gabarito
+- deixar as erradas plausíveis, mas incorretas ou menos adequadas
+- evitar alternativas caricatas ou obviamente descartáveis
+
+REGRAS CRÍTICAS:
+- NÃO altere o enunciado
+- NÃO altere o gabarito
+- NÃO mude o tema central da questão
+- NÃO invente detalhe técnico não sustentado pelo enunciado
+- mantenha todas as alternativas na mesma categoria lógica
+- evite rótulos secos quando for possível escrever algo mais informativo
+- a alternativa correta não pode ficar nitidamente mais longa ou mais específica que as demais
+- se a reescrita segura não for possível, marque `rewrite_status` como `manual_review`
+
+FORMATO DE SAÍDA:
+Responda APENAS com JSON válido, no formato:
+[
+  {
+    "id": 123,
+    "rewrite_status": "rewritten",
+    "rewrite_version": 1,
+    "rewritten_alternatives": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "answer_changed": false,
+    "risk_flags": [],
+    "rewrite_notes": [
+      "frase curta explicando a reescrita"
+    ]
+  }
+]
+
+QUESTÕES:
+[
+  {
+    "id": 5540,
+    "area": "Clínica Médica",
+    "tema": "Dor neuropática",
+    "dificuldade": "Difícil",
+    "enunciado": "Um paciente de 68 anos, com histórico de diabetes mellitus tipo 2 mal controlado por 15 anos, queixa-se de dor crônica em queimação e choque nas extremidades inferiores, acompanhada de alodinia e hiperalgesia. O exame físico revela perda de sensibilidade vibratória e reflexos aquileus diminuídos bilateralmente. Qual das seguintes opções terapêuticas é considerada de primeira linha para o manejo da dor neuropática diabética?",
+    "original_alternatives": {
+      "A": "Paracetamol.",
+      "B": "Ibuprofeno.",
+      "C": "Amitriptilina.",
+      "D": "Morfina.",
+      "E": "Ciclobenzaprina."
+    },
+    "gabarito": "C",
+    "original_comment": "A dor neuropática, como a neuropatia diabética, responde mal a analgésicos comuns e anti-inflamatórios não esteroides. Antidepressivos tricíclicos (como a amitriptilina), inibidores seletivos da recaptação de serotonina e noradrenalina (ISRSN) e gabapentinoides (gabapentina e pregabalina) são considerados de primeira linha para o tratamento da dor neuropática. Opioides (morfina) são geralmente reservados para casos refratários devido aos riscos e efeitos colaterais. Paracetamol e ibuprofeno são ineficazes, e ciclobenzaprina é um relaxante muscular.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 12,
+        "B": 11,
+        "C": 14,
+        "D": 8,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5553,
+    "area": "Preventiva/SUS",
+    "tema": "Vigilância Epidemiológica - Notificação Compulsória",
+    "dificuldade": "Fácil",
+    "enunciado": "Um médico atende um paciente com suspeita de tétano. De acordo com a legislação brasileira, qual a classificação da notificação deste agravo?",
+    "original_alternatives": {
+      "A": "Notificação semanal.",
+      "B": "Notificação mensal.",
+      "C": "Notificação imediata.",
+      "D": "Não é um agravo de notificação compulsória.",
+      "E": "Notificação semestral."
+    },
+    "gabarito": "C",
+    "original_comment": "O tétano é uma doença de notificação compulsória imediata no Brasil. Isso significa que a suspeita ou confirmação do caso deve ser comunicada às autoridades de saúde em até 24 horas a partir do conhecimento do agravo. Essa agilidade é crucial para a vigilância epidemiológica e para a tomada de medidas de controle e prevenção. As outras opções estão incorretas, pois o tétano exige uma resposta rápida.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 7,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 20,
+        "B": 19,
+        "C": 21,
+        "D": 43,
+        "E": 22
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5564,
+    "area": "Preventiva/SUS",
+    "tema": "Saúde do Trabalhador - Riscos Ocupacionais",
+    "dificuldade": "Média",
+    "enunciado": "Um trabalhador de uma indústria de mineração é diagnosticado com silicose. Este agravo é um exemplo de qual tipo de risco ocupacional?",
+    "original_alternatives": {
+      "A": "Risco ergonômico.",
+      "B": "Risco de acidentes.",
+      "C": "Risco físico.",
+      "D": "Risco químico.",
+      "E": "Risco biológico."
+    },
+    "gabarito": "D",
+    "original_comment": "A silicose é uma pneumoconiose causada pela inalação de partículas de sílica cristalina, que é uma substância química. Portanto, a exposição à sílica no ambiente de trabalho representa um risco químico. Riscos ergonômicos (A) estão relacionados a posturas inadequadas, movimentos repetitivos. Riscos de acidentes (B) envolvem máquinas sem proteção, quedas, etc. Riscos físicos (C) incluem ruído, vibração, calor, frio, radiações. Riscos biológicos (E) envolvem exposição a vírus, bactérias, fungos, parasitas.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 19,
+        "C": 13,
+        "D": 14,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5566,
+    "area": "Clínica Médica",
+    "tema": "Hematologia - Anemia Ferropriva",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma mulher de 25 anos, com queixa de fadiga, palidez e dispneia aos esforços, apresenta hemograma com hemoglobina de 8,5 g/dL, VCM de 68 fL e HCM de 22 pg. A dosagem de ferritina sérica é de 8 ng/mL. Qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Anemia megaloblástica.",
+      "B": "Anemia de doença crônica.",
+      "C": "Anemia hemolítica.",
+      "D": "Anemia ferropriva.",
+      "E": "Talassemia."
+    },
+    "gabarito": "D",
+    "original_comment": "O quadro clínico de fadiga e palidez, associado a um hemograma com anemia microcítica (VCM < 80 fL) e hipocrômica (HCM < 27 pg), e ferritina sérica muito baixa (< 30 ng/mL, com < 15 ng/mL sendo altamente sugestivo), é diagnóstico de anemia ferropriva. A ferritina é o melhor marcador de estoques de ferro. Anemia megaloblástica (A) é macrocítica. Anemia de doença crônica (B) geralmente tem ferritina normal ou elevada. Anemia hemolítica (C) cursa com reticulocitose e sinais de hemólise. Talassemia (E) é uma condição genética com microcitose e hipocromia, mas com ferritina normal ou elevada.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 4,
+        "C": 2,
+        "D": 2,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 22,
+        "B": 25,
+        "C": 18,
+        "D": 18,
+        "E": 11
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5567,
+    "area": "Pediatria",
+    "tema": "Crescimento e Desenvolvimento - Marcos do Desenvolvimento",
+    "dificuldade": "Fácil",
+    "enunciado": "Um bebê de 6 meses de idade, nascido a termo e sem intercorrências, é trazido para consulta de puericultura. Qual dos seguintes marcos do desenvolvimento motor grosso é esperado para esta idade?",
+    "original_alternatives": {
+      "A": "Andar sem apoio.",
+      "B": "Sentar-se sem apoio.",
+      "C": "Ficar em pé com apoio.",
+      "D": "Engatinhar.",
+      "E": "Correr."
+    },
+    "gabarito": "B",
+    "original_comment": "Aos 6 meses de idade, um marco importante do desenvolvimento motor grosso esperado é a capacidade de sentar-se sem apoio por curtos períodos. Andar sem apoio (A) e correr (E) são marcos de desenvolvimento posterior (a partir de 12 meses). Ficar em pé com apoio (C) e engatinhar (D) geralmente ocorrem entre 7 e 10 meses. A avaliação dos marcos do desenvolvimento é crucial na puericultura para identificar possíveis atrasos.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 5,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 16,
+        "B": 20,
+        "C": 22,
+        "D": 11,
+        "E": 7
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5582,
+    "area": "Preventiva/SUS",
+    "tema": "Epidemiologia - Medidas de Ocorrência de Doenças",
+    "dificuldade": "Média",
+    "enunciado": "Em um estudo epidemiológico sobre uma doença crônica, foram identificados 100 novos casos em uma população de 10.000 pessoas em risco durante um período de um ano. No início do estudo, havia 500 casos já existentes da doença na mesma população. Qual a medida de ocorrência de doença que melhor representa o número de novos casos na população em risco durante o período do estudo?",
+    "original_alternatives": {
+      "A": "Prevalência pontual.",
+      "B": "Prevalência de período.",
+      "C": "Incidência acumulada.",
+      "D": "Taxa de mortalidade.",
+      "E": "Letalidade."
+    },
+    "gabarito": "C",
+    "original_comment": "A incidência acumulada (ou risco) mede a proporção de indivíduos sadios que desenvolveram a doença em um determinado período de tempo. No caso, são 100 novos casos em uma população de 10.000 pessoas em risco ao longo de um ano. A prevalência (A e B) refere-se ao número total de casos (novos e antigos) em um dado momento ou período. Taxa de mortalidade (D) refere-se a óbitos. Letalidade (E) é a proporção de óbitos entre os casos de uma doença. Portanto, a incidência acumulada é a medida correta para o número de novos casos.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 2,
+        "D": 3,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 20,
+        "B": 23,
+        "C": 21,
+        "D": 20,
+        "E": 11
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5592,
+    "area": "Preventiva/SUS",
+    "tema": "Vigilância Epidemiológica - Doenças de Notificação Compulsória",
+    "dificuldade": "Fácil",
+    "enunciado": "Um médico atende um paciente com quadro clínico compatível com dengue. Após a confirmação laboratorial, o profissional deve realizar a notificação do caso. De acordo com a legislação brasileira de vigilância em saúde, a dengue é classificada como uma doença de notificação compulsória. Qual a modalidade de notificação compulsória aplicável à dengue?",
+    "original_alternatives": {
+      "A": "Notificação semanal.",
+      "B": "Notificação imediata (até 24 horas).",
+      "C": "Notificação negativa.",
+      "D": "Notificação mensal.",
+      "E": "Notificação de surto."
+    },
+    "gabarito": "A",
+    "original_comment": "As doenças de notificação compulsória no Brasil são classificadas quanto à sua periodicidade. A dengue é uma doença de notificação compulsória semanal, o que significa que os casos devem ser registrados e enviados aos órgãos de vigilância epidemiológica semanalmente. A notificação imediata (até 24 horas) é reservada para doenças de alto potencial epidêmico ou de relevância para a saúde pública que exigem uma resposta rápida (ex: sarampo, cólera, botulismo, raiva humana). A notificação negativa é a ausência de casos. A notificação mensal não é uma modalidade padrão. A notificação de surto é uma situação específica, não a modalidade de notificação da doença em si, embora um surto de dengue exija atenção especial e pode levar a notificações imediatas de eventos relacionados ao surto.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 5,
+        "C": 2,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 20,
+        "B": 36,
+        "C": 21,
+        "D": 19,
+        "E": 21
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5596,
+    "area": "Cirurgia",
+    "tema": "Diagnóstico diferencial de abdome agudo",
+    "dificuldade": "Média",
+    "enunciado": "Paciente de 35 anos, sexo feminino, comparece ao pronto-socorro com dor abdominal intensa, súbita, em quadrante inferior direito, irradiando para a região lombar direita. Refere náuseas e um episódio de vômito. Menstruação regular, última menstruação há 10 dias. Exame físico revela dor à palpação profunda em FID, descompressão brusca negativa. Hemograma com leucocitose discreta (11.000/mm³), sem desvio à esquerda. Beta-hCG negativo. Qual a hipótese diagnóstica mais provável?",
+    "original_alternatives": {
+      "A": "Apendicite aguda.",
+      "B": "Gravidez ectópica rota.",
+      "C": "Torção de cisto ovariano.",
+      "D": "Cistite aguda.",
+      "E": "Diverticulite aguda."
+    },
+    "gabarito": "C",
+    "original_comment": "A dor súbita e intensa em quadrante inferior direito, com irradiação para a região lombar, náuseas e vômitos, em mulher em idade fértil, sem sinais claros de peritonite (descompressão brusca negativa) e Beta-hCG negativo, levanta forte suspeita de torção de cisto ovariano. Apendicite aguda geralmente tem dor periumbilical migratória para FID e desvio à esquerda. Gravidez ectópica rota seria Beta-hCG positivo e geralmente com sinais de choque. Cistite aguda teria disúria e polaciúria, e a dor seria mais suprapúbica. Diverticulite aguda é mais comum em idosos e a dor geralmente é em QIE.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 4,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 23,
+        "C": 25,
+        "D": 14,
+        "E": 20
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5620,
+    "area": "Cirurgia",
+    "tema": "Cirurgia Plástica - Avaliação e Tratamento Inicial de Queimaduras",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 35 anos sofreu queimaduras por chama direta, afetando todo o membro superior direito, a face anterior do tronco e a face anterior da coxa esquerda. Qual a porcentagem aproximada da superfície corporal queimada (SCQ), de acordo com a Regra dos Nove para adultos?",
+    "original_alternatives": {
+      "A": "27%",
+      "B": "36%",
+      "C": "45%",
+      "D": "18%",
+      "E": "54%"
+    },
+    "gabarito": "B",
+    "original_comment": "A Regra dos Nove para adultos distribui a superfície corporal da seguinte forma:\n*   Cabeça e pescoço: 9%\n*   Cada membro superior: 9%\n*   Tronco anterior: 18%\n*   Tronco posterior: 18%\n*   Cada membro inferior: 18%\n*   Genitália: 1%\nNo caso, temos:\n*   Membro superior direito: 9%\n*   Face anterior do tronco: 18%\n*   Face anterior da coxa esquerda (metade de um membro inferior): 9% (18%/2)\nTotal: 9% + 18% + 9% = 36%.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5621,
+    "area": "Cirurgia",
+    "tema": "Hérnias da Parede Abdominal - Hérnia Inguinal",
+    "dificuldade": "Fácil",
+    "enunciado": "Um homem de 50 anos apresenta abaulamento na região inguinal direita que se torna mais evidente ao tossir e se reduz espontaneamente ao deitar. Ele relata desconforto local, mas nega dor intensa ou sinais de obstrução intestinal. Qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Hidrocele",
+      "B": "Lipoma inguinal",
+      "C": "Hérnia inguinal redutível",
+      "D": "Linfonodomegalia inguinal",
+      "E": "Varicocele"
+    },
+    "gabarito": "C",
+    "original_comment": "O quadro clínico de abaulamento na região inguinal que se torna evidente com o aumento da pressão intra-abdominal (tosse) e que é redutível (reduz espontaneamente ao deitar) é característico de uma hérnia inguinal redutível. As outras opções são diagnósticos diferenciais, mas não se encaixam tão bem: hidrocele é uma coleção de líquido, lipoma é uma massa de gordura que não se altera com a tosse/deitar, linfonodomegalia é um aumento de linfonodos e varicocele é um aumento das veias do plexo pampiniforme, geralmente mais evidente em pé e com sensação de 'saco de vermes'.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 2,
+        "C": 3,
+        "D": 2,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 9,
+        "B": 15,
+        "C": 25,
+        "D": 25,
+        "E": 10
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5624,
+    "area": "Pediatria",
+    "tema": "Anemia na Infância",
+    "dificuldade": "Média",
+    "enunciado": "Uma criança de 8 meses de idade é levada à consulta de puericultura com queixa de palidez e irritabilidade. A mãe relata dieta baseada principalmente em leite materno e introdução alimentar recente e irregular. O hemograma revela: Hemoglobina (Hb) = 9,8 g/dL, Volume Corpuscular Médio (VCM) = 68 fL, Hemoglobina Corpuscular Média (HCM) = 22 pg e Amplitude de Distribuição dos Glóbulos Vermelhos (RDW) = 17%. Qual é o diagnóstico mais provável para este quadro?",
+    "original_alternatives": {
+      "A": "Anemia falciforme.",
+      "B": "Anemia megaloblástica.",
+      "C": "Anemia ferropriva.",
+      "D": "Talassemia maior.",
+      "E": "Anemia de doença crônica."
+    },
+    "gabarito": "C",
+    "original_comment": "Os valores de referência para Hb em crianças de 6 meses a 2 anos são de 11 a 14 g/dL. O paciente apresenta Hb de 9,8 g/dL, indicando anemia. O VCM (80-100 fL) e HCM (27-32 pg) estão baixos, caracterizando anemia microcítica e hipocrômica. O RDW (11-14%) está elevado (17%), indicando anisocitose. A história de dieta inadequada e a combinação de anemia microcítica, hipocrômica e RDW elevado são achados clássicos da anemia ferropriva, que é a causa mais comum de anemia na infância. As outras opções não se encaixam no perfil laboratorial e clínico apresentado.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 22,
+        "C": 18,
+        "D": 17,
+        "E": 25
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5625,
+    "area": "Clínica Médica",
+    "tema": "Distúrbios da Tireoide",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 45 anos procura atendimento com queixas de fadiga, ganho de peso inexplicável, constipação e intolerância ao frio. Seus exames laboratoriais mostram: TSH = 12,5 mUI/mL e T4 Livre = 0,7 ng/dL. Com base nos valores de referência para adultos, qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Hipertireoidismo primário.",
+      "B": "Hipotireoidismo primário.",
+      "C": "Hipotireoidismo subclínico.",
+      "D": "Tireoidite subaguda.",
+      "E": "Hipertireoidismo secundário."
+    },
+    "gabarito": "B",
+    "original_comment": "Os valores de referência para TSH (de 20 a 60 anos) são 0,45 a 4,5 mUI/mL e para T4 Livre são 0,9 a 1,8 ng/dL. A paciente apresenta TSH elevado (12,5 mUI/mL) e T4 Livre baixo (0,7 ng/dL). Essa combinação laboratorial, juntamente com os sintomas clínicos clássicos (fadiga, ganho de peso, constipação, intolerância ao frio), é diagnóstica de hipotireoidismo primário. O hipotireoidismo subclínico teria TSH elevado, mas T4 Livre normal. Hipertireoidismo teria TSH baixo e T4 Livre alto.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 26,
+        "B": 25,
+        "C": 27,
+        "D": 20,
+        "E": 28
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5626,
+    "area": "Ginecologia e Obstetrícia",
+    "tema": "Distúrbios Endócrinos Femininos",
+    "dificuldade": "Difícil",
+    "enunciado": "Uma mulher de 26 anos apresenta queixas de irregularidade menstrual (oligomenorreia), hirsutismo e dificuldade para engravidar. Exames hormonais realizados na fase folicular (DUM há 3 semanas) revelam: LH = 20 UI/L, FSH = 6 UI/L, Estradiol = 1,5 ng/dL e Prolactina = 18 μg/L. Qual a condição clínica mais provável, considerando os valores de referência?",
+    "original_alternatives": {
+      "A": "Síndrome dos Ovários Policísticos (SOP).",
+      "B": "Insuficiência ovariana prematura.",
+      "C": "Hiperprolactinemia.",
+      "D": "Menopausa precoce.",
+      "E": "Hipotireoidismo."
+    },
+    "gabarito": "A",
+    "original_comment": "Na fase folicular, os valores de referência são: LH até 12 UI/L, FSH até 12 UI/L, Estradiol 1,2 a 23,3 ng/dL e Prolactina até 29 μg/L. A paciente apresenta LH elevado (20 UI/L) e FSH normal (6 UI/L), resultando em uma relação LH/FSH > 2 (20/6 ≈ 3,3), que é um achado característico da Síndrome dos Ovários Policísticos (SOP). O Estradiol está baixo, o que é comum na SOP devido à anovulação. A Prolactina está normal, excluindo hiperprolactinemia como causa primária. Insuficiência ovariana prematura ou menopausa precoce teriam FSH e LH elevados, com Estradiol muito baixo. Hipotireoidismo teria TSH alterado, o que não foi avaliado aqui, mas os achados de LH/FSH são muito específicos para SOP.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 5,
+        "B": 3,
+        "C": 1,
+        "D": 2,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 40,
+        "B": 33,
+        "C": 19,
+        "D": 18,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5631,
+    "area": "Clínica Médica",
+    "tema": "Pancreatite Aguda",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 40 anos, com histórico de etilismo, chega ao PS com dor abdominal intensa em faixa, irradiando para o dorso, acompanhada de náuseas e vômitos. O exame físico revela dor à palpação epigástrica. Exames laboratoriais mostram: Amilase = 450 UI/L e Lipase = 320 UI/L. Com base nos valores de referência, qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Colecistite aguda.",
+      "B": "Apendicite aguda.",
+      "C": "Pancreatite aguda.",
+      "D": "Úlcera péptica perfurada.",
+      "E": "Gastroenterite aguda."
+    },
+    "gabarito": "C",
+    "original_comment": "Os valores de referência são: Amilase = 28 a 100 UI/L e Lipase = inferior a 60 UI/L. O paciente apresenta elevações significativas de Amilase (450 UI/L) e Lipase (320 UI/L), sendo a lipase mais de 3 vezes o limite superior da normalidade. A clínica de dor abdominal em faixa irradiando para o dorso, náuseas e vômitos, em um paciente etilista, é altamente sugestiva de pancreatite aguda. A elevação das enzimas pancreáticas, especialmente a lipase (que é mais específica para o pâncreas), confirma o diagnóstico. As outras condições não causariam elevações tão marcadas dessas enzimas ou teriam outros padrões de dor e exames.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 3,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 17,
+        "C": 18,
+        "D": 25,
+        "E": 21
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5634,
+    "area": "Clínica Médica",
+    "tema": "Insuficiência Cardíaca",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 68 anos, hipertenso e diabético, é internado com dispneia progressiva, ortopneia e edema de membros inferiores 3+/4+. Ao exame físico, apresenta estertores crepitantes em bases pulmonares, turgência jugular a 45 graus e B3 audível. Qual exame complementar é o mais indicado para confirmar a etiologia e avaliar a função cardíaca neste momento?",
+    "original_alternatives": {
+      "A": "Eletrocardiograma (ECG).",
+      "B": "Radiografia de tórax.",
+      "C": "Ecocardiograma transtorácico.",
+      "D": "Dosagem de troponina I.",
+      "E": "Angiotomografia de tórax."
+    },
+    "gabarito": "C",
+    "original_comment": "O quadro clínico é altamente sugestivo de insuficiência cardíaca descompensada. O ecocardiograma transtorácico é o exame padrão-ouro para avaliar a função ventricular (fração de ejeção), identificar valvulopatias, e estimar pressões de enchimento, sendo crucial para guiar o tratamento e determinar a etiologia da disfunção. ECG e radiografia de tórax são úteis como exames iniciais, mas não fornecem a mesma riqueza de detalhes sobre a função e estrutura cardíaca. Troponina seria mais para síndrome coronariana aguda. Angiotomografia é para embolia pulmonar ou doença aórtica, não a principal investigação inicial para ICC.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 2,
+        "D": 4,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 24,
+        "B": 21,
+        "C": 29,
+        "D": 23,
+        "E": 25
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5639,
+    "area": "Clínica Médica",
+    "tema": "Hipotireoidismo",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 45 anos queixa-se de fadiga, ganho de peso, constipação e intolerância ao frio nos últimos meses. Ao exame físico, apresenta bradicardia, pele seca e reflexos tendinosos profundos lentificados. Exames laboratoriais mostram TSH elevado e T4 livre diminuído. Qual o tratamento de escolha para esta condição?",
+    "original_alternatives": {
+      "A": "Iodo radioativo.",
+      "B": "Propiltiouracil.",
+      "C": "Levotiroxina.",
+      "D": "Metimazol.",
+      "E": "Prednisona."
+    },
+    "gabarito": "C",
+    "original_comment": "O quadro clínico (fadiga, ganho de peso, constipação, intolerância ao frio, bradicardia, pele seca, reflexos lentificados) e laboratorial (TSH elevado, T4 livre diminuído) é diagnóstico de hipotireoidismo primário. O tratamento de escolha é a reposição hormonal com levotiroxina, um análogo sintético do T4. Iodo radioativo, propiltiouracil e metimazol são utilizados no tratamento do hipertireoidismo. Prednisona é um corticoide, sem indicação primária no hipotireoidismo.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 16,
+        "B": 16,
+        "C": 13,
+        "D": 10,
+        "E": 11
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5656,
+    "area": "Clínica Médica",
+    "tema": "Otorrinolaringologia - Rinossinusite Aguda",
+    "dificuldade": "Fácil",
+    "enunciado": "Um paciente de 28 anos apresenta quadro de congestão nasal, rinorreia purulenta, dor facial e cefaleia frontal há 12 dias. Ele relata que os sintomas iniciaram como um resfriado comum, mas não apresentaram melhora após 7 dias e, nos últimos 3 dias, houve piora da dor facial e aparecimento de febre baixa. Qual o diagnóstico mais provável para este caso?",
+    "original_alternatives": {
+      "A": "Rinoconjuntivite alérgica",
+      "B": "Resfriado comum prolongado",
+      "C": "Rinossinusite bacteriana aguda",
+      "D": "Rinossinusite fúngica invasiva",
+      "E": "Migrânea com sintomas nasais"
+    },
+    "gabarito": "C",
+    "original_comment": "O quadro clínico de rinossinusite bacteriana aguda é sugerido pela persistência dos sintomas por mais de 10 dias sem melhora, ou pela piora dos sintomas após uma melhora inicial (padrão de 'dupla piora'), além da presença de rinorreia purulenta, dor facial e febre. Um resfriado comum geralmente melhora em 7-10 dias. Rinoconjuntivite alérgica não cursa com febre ou piora progressiva com secreção purulenta. Rinossinusite fúngica invasiva é rara e geralmente ocorre em imunocomprometidos. Migrânea não explicaria todos os sintomas.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 25,
+        "B": 26,
+        "C": 30,
+        "D": 30,
+        "E": 28
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5667,
+    "area": "Preventiva/SUS",
+    "tema": "Princípios do SUS",
+    "dificuldade": "Fácil",
+    "enunciado": "O Sistema Único de Saúde (SUS) no Brasil é regido por princípios e diretrizes que visam garantir a saúde como direito de todos e dever do Estado. Entre os princípios doutrinários do SUS, qual deles se refere à capacidade de organizar os serviços de forma regionalizada e hierarquizada, com o objetivo de oferecer uma atenção integral à saúde?",
+    "original_alternatives": {
+      "A": "Universalidade.",
+      "B": "Equidade.",
+      "C": "Integralidade.",
+      "D": "Descentralização.",
+      "E": "Regionalização e Hierarquização."
+    },
+    "gabarito": "E",
+    "original_comment": "A Regionalização e Hierarquização são princípios organizacionais do SUS que visam à organização dos serviços em níveis de complexidade crescente, garantindo o acesso e a integralidade da atenção. A Universalidade é o acesso de todos. A Equidade busca reduzir desigualdades. A Integralidade se refere ao conjunto de ações e serviços que o SUS deve oferecer. A Descentralização é a redistribuição de poder e responsabilidades entre as esferas de governo. Embora a integralidade seja um objetivo, a regionalização e hierarquização são os princípios que descrevem a organização para atingi-la.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 15,
+        "B": 9,
+        "C": 14,
+        "D": 17,
+        "E": 32
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5681,
+    "area": "Cirurgia",
+    "tema": "Queimaduras",
+    "dificuldade": "Fácil",
+    "enunciado": "Um paciente sofreu queimaduras em todo o membro superior direito (face anterior e posterior), tórax anterior e face. Utilizando a Regra dos Nove para adultos, qual a porcentagem aproximada de superfície corporal queimada (SCQ) neste paciente?",
+    "original_alternatives": {
+      "A": "18%",
+      "B": "27%",
+      "C": "36%",
+      "D": "45%",
+      "E": "9%"
+    },
+    "gabarito": "B",
+    "original_comment": "De acordo com a Regra dos Nove para adultos:\n*   Membro superior direito (completo): 9%\n*   Tórax anterior: 9%\n*   Face (geralmente interpretado como cabeça e pescoço em questões de prova para totalizar 9%): 9%\n*   Total: 9% (MSD) + 9% (Tórax anterior) + 9% (Cabeça e pescoço/Face) = 27%.\nSe a face fosse considerada apenas a porção anterior da cabeça (4,5%), o total seria 22,5%, que não é uma opção. Portanto, a interpretação mais provável para chegar a uma das alternativas é considerar a 'face' como a região da cabeça e pescoço.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 2
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5682,
+    "area": "Preventiva/SUS",
+    "tema": "Atenção Primária à Saúde",
+    "dificuldade": "Média",
+    "enunciado": "A Atenção Primária à Saúde (APS) é a porta de entrada preferencial e ordenadora do sistema de saúde. Qual das características abaixo NÃO é um atributo essencial da Atenção Primária à Saúde, conforme as diretrizes internacionais e nacionais?",
+    "original_alternatives": {
+      "A": "Primeiro contato.",
+      "B": "Longitudinalidade.",
+      "C": "Integralidade.",
+      "D": "Coordenação.",
+      "E": "Hospitalocentrismo."
+    },
+    "gabarito": "E",
+    "original_comment": "Os atributos essenciais da Atenção Primária à Saúde (APS) são: Primeiro Contato (acessibilidade), Longitudinalidade (continuidade do cuidado ao longo do tempo), Integralidade (abordagem do indivíduo em todas as suas dimensões) e Coordenação (articulação dos diferentes níveis de atenção). O Hospitalocentrismo, que prioriza o hospital como centro do cuidado, é o oposto da filosofia da APS, que preconiza um modelo de atenção centrado na comunidade e na promoção da saúde.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 18,
+        "C": 14,
+        "D": 12,
+        "E": 19
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  }
+]

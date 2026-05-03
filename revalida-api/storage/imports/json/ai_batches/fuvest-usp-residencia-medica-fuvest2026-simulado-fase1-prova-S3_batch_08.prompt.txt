@@ -1,0 +1,435 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/fuvest2026-simulado-fase1-prova-S3.pdf"
+  }
+]
+
+TEXTO-BASE:
+al¬na¬educação¬
+de¬ um¬ país¬ que¬ se¬ desenvolve.¬ Arte¬ não¬ é¬ enfeite.¬ Arte¬ é¬
+cognição,¬é¬profissão,¬é¬uma¬forma¬diferente¬da¬palavra¬para¬
+interpretar¬o¬mundo,¬a¬realidade,¬o¬imaginário,¬e¬é¬conteúdo.¬
+Como¬ conteúdo,¬ arte¬ representa¬ o¬ melhor¬ trabalho¬ do¬ ser¬
+humano.¬ Arte¬ é¬ qualidade¬ e¬ exercita¬ nossa¬ capacidade¬ de¬
+julgar¬ e¬ de¬ formular¬ significados¬ que¬ excedem¬ nossa¬
+capacidade¬ de¬ dizer¬ em¬ palavras.¬ E¬ o¬ limite¬ da¬ nossa¬
+consciência¬excede¬o¬limite¬das¬palavras.”¬
+Ana¬Mae¬Tavares¬Bastos¬Barbosa.¬Situação¬política¬do¬ensino¬da¬Arte¬no¬
+Brasil¬no¬fim¬dos¬anos¬oitenta.¬In:¬A¬imagem¬no¬ensino¬da¬arte:¬anos¬
+oitenta¬e¬novos¬tempos.¬São¬Paulo:¬Perspectiva,¬2005.¬
+¬
+V-¬“Falando¬muito¬do¬nosso¬ambiente,¬do¬nosso¬meio,¬onde¬
+nós¬estamos¬trabalhando¬e¬vivemos,¬eu¬começaria¬pensando¬
+um¬pouco¬sobre¬o¬que¬é¬a¬arte¬e¬a¬obra¬de¬arte.¬Eu¬veria¬a¬arte¬
+como¬ um¬ fenômeno¬ humano¬ e,¬ como¬ tal,¬ uma¬ decorrência¬
+natural¬ de¬ uma¬ manifestação¬ poética.¬ Seria¬ também¬ um¬
+anseio¬ de¬ totalidade¬ que¬ nos¬ levaria¬ a¬ uma¬ questão¬ que¬
+entendo¬como¬de¬um¬projeto¬pessoal.¬Por¬outro¬lado,¬nesse¬
+mesmo¬ ato,¬ nesse¬ mesmo¬ acontecimento¬ ou¬ realidade,¬
+concentram-se¬também¬as¬energias¬das¬civilizações.”¬¬
+Evandro¬Carlos¬Jardim.¬Arte¬como¬manifestação¬poética.¬In:¬Seminário¬
+Ações¬singulares¬2:¬História¬do¬Ensino¬da¬Arte:¬Experiências.¬São¬Paulo:¬
+Instituto¬Tomie¬Ohtake,¬2009.¬
+¬
+Com¬ base¬ em¬ sua¬ compreensão¬ dos¬ textos,¬ assinale¬ a¬
+alternativa¬ que¬ expressa¬ corretamente¬ a¬ relação¬ entre¬ arte,¬
+imaginação¬e¬sociedade,¬conforme¬o¬autor¬referenciado.¬
+¬
+(A) Fayga¬Ostrower¬defende¬que¬a¬imaginação¬criativa¬sempre¬
+se¬origina¬no¬abstrato,¬em¬conceitos¬que¬transcendem¬o¬
+tangível,¬o¬concreto¬e¬a¬própria¬existência¬do¬artista,¬o¬qual¬
+concebe¬a¬obra¬de¬arte¬a¬partir¬de¬uma¬visão¬de¬mundo¬
+externa,¬sem¬relação¬com¬as¬próprias¬experiências.¬
+(B) Lev¬ Semionovitch¬ Vygotsky¬ afirma¬ que¬ a¬ imaginação¬
+emana¬unicamente¬da¬pessoa,¬não¬sendo¬influenciada¬ou¬
+construída¬ a¬ partir¬ de¬ elementos¬ da¬ realidade¬ ou¬ de¬
+experiências¬anteriores.¬
+(C) Benedito¬ Nunes¬ compreende¬ a¬ obra¬ de¬ arte¬ como¬ uma¬
+manifestação¬ solitária¬ e¬ desconectada¬ da¬ experiência¬
+social,¬ desprovida,¬ portanto,¬ de¬ qualquer¬ influência¬
+externa,¬ de¬ modo¬ que¬ forma¬ e¬ conteúdo¬ da¬ obra¬ são¬
+expressões¬da¬pura¬subjetividade¬artística.¬
+(D) Ana¬Mae¬Tavares¬Bastos¬Barbosa¬chama¬a¬atenção¬para¬o¬
+perigo¬ de¬ se¬ considerar¬ a¬ arte¬ como¬ uma¬ ferramenta¬
+superficial,¬ subestimando¬ seu¬ poder¬ transformador¬ na¬
+formação¬de¬uma¬nação¬e¬negligenciando¬seu¬papel¬crucial¬
+no¬desenvolvimento¬crítico¬e¬intelectual¬das¬pessoas.¬
+(E) Evandro¬ Carlos¬ Jardim,¬ ao¬ comparar¬ a¬ arte¬ a¬ um¬
+“fenômeno¬humano”,¬insinua¬que¬o¬“anseio¬de¬totalidade”¬
+se¬refere¬à¬busca¬incessante¬da¬humanidade¬pelo¬avanço¬
+tecnológico,¬sempre¬visando¬à¬perfeição¬e¬à¬otimização.¬
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 24 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S3 
+Texto para as questões 72 e 73 
+¬
+O¬ cubo¬ truncado¬ é¬ o¬ sólido¬ arquimediano¬ resultante¬ da¬
+remoção¬ de¬ uma¬ pirâmide¬ de¬ base¬ triangular¬ em¬ torno¬ de¬
+cada¬ vértice¬ de¬ um¬ cubo,¬ que¬ será¬ chamado¬ de¬ cubo¬ de¬
+partida,¬conforme¬mostra¬a¬figura.¬
+¬
+As¬ faces¬ do¬ sólido¬ resultante¬ são¬ octógonos¬ regulares¬ e¬
+triângulos¬ equiláteros.¬ Suponha¬ que¬ as¬ arestas¬ do¬ cubo¬de¬
+partida¬tenham¬comprimento¬de¬1¬unidade¬de¬medida.¬
+72 
+Qual¬é¬o¬número¬de¬arestas¬do¬cubo¬truncado?¬
+¬
+(A) 12¬
+(B) 24¬
+(C) 36¬
+(D) 48¬
+(E) 72¬¬
+ 
+¬
+73 
+Qual¬ é¬ a¬ medida¬ mais¬ aproximada¬ das¬ arestas¬ do¬ cubo¬
+truncado?¬
+¬
+(A) 0,4¬
+(B) 0,6¬
+(C) 0,7¬
+(D) 1,0¬
+(E) 1,4¬
+¬
+Note¬e¬adote:¬
+Considere¬√2¬=¬1,4¬
+¬
+74 
+Uma¬ folha¬ de¬ papel¬ retangular¬ é¬ vincada¬ de¬ modo¬ que¬ o¬
+vinco¬ℓ¬ incide¬ sobre¬ os¬ lados¬ maiores,¬ dividindo-os¬ em¬
+segmentos¬ de¬ comprimentos¬ 𝑥¬ e¬ 𝑦,¬ de¬ modo¬ alternado,¬
+conforme¬mostra¬a¬figura¬a¬seguir.¬
+¬
+A¬folha¬tem¬dimensões¬de¬20¬cm¬por¬30¬cm.¬Seja¬𝜃¬o¬menor¬
+ângulo¬ formado¬ entre¬ ℓ¬ e¬ qualquer¬ dos¬ lados¬ maiores¬ do¬
+papel.¬Qual¬o¬valor¬de¬sen 𝜃¬se¬ℓ¬for¬a¬diagonal¬do¬retângulo,¬
+isto¬é,¬quando¬𝑥¬=¬0?¬
+¬
+(A) 2¬/¬√13¬
+(B) 3¬/¬√13¬
+(C) √13¬/¬2¬
+(D) √50¬/¬3¬¬
+(E) 2¬√50¬
+ 
+¬
+75 
+ 
+Bill¬Whitehead.¬Disponível¬em¬facebook.com/FreeRangeComic.¬
+ 
+No¬quadrinho,¬a¬origem¬do¬humor¬essencialmente¬reside¬
+¬
+(A) na¬inversão¬da¬ordem¬normal¬das¬palavras¬na¬frase.¬
+(B) no¬sentido¬duplo¬de¬uma¬das¬palavras¬usadas¬e¬no¬seu¬
+contraste¬em¬relação¬à¬imagem.¬
+(C) na¬ invenção¬ de¬ palavras¬ ou¬ expressões¬ imprevistas¬ na¬
+língua.¬
+(D) na¬inserção¬de¬erros¬propositais¬de¬grafia¬na¬frase.¬
+(E) na¬quebra¬de¬regras¬gramaticais¬consagradas¬pela¬norma¬
+culta.¬
+ 
+¬
+¬
+
+
+--- PAGE 25 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S3 
+76 
+O¬uso¬da¬memória,¬mesclado¬ao¬nacionalismo¬da¬primeira¬fase¬
+modernista,¬ foi¬ recorrente¬ entre¬ os¬ autores¬ da¬ literatura¬
+regionalista.¬ A¬ tela¬ de¬ Tarsila¬ do¬ Amaral,¬ Palmeiras¬ (1925),¬
+reproduzida¬ a¬ seguir,¬ destaca¬ a¬ memória¬ nacional¬ para¬ a¬
+produção¬artística¬na¬medida¬em¬que¬apresenta¬uma¬fazenda¬
+de¬maneira¬peculiar.¬
+¬
+¬
+¬
+Tarsila¬do¬Amaral.¬Palmeiras.¬1925.¬Óleo¬sobre¬tela.¬87¬x¬74,5¬cm.¬
+Coleção¬Particular.¬Foto:¬Romulo¬Fialdini.¬Reprodução:¬300¬dpi¬22,1¬x¬30¬
+cm.¬Fonte:¬https://www.tarsiladoamaral.com.br/.¬
+Considerando¬que¬a¬tela¬de¬Tarsila¬do¬Amaral¬foi¬a¬capa¬da¬
+terceira¬ edição¬ (2018)¬ de¬ Água¬ Funda,¬ depreende-se,¬ da¬
+relação¬entre¬as¬duas¬obras,¬que¬Ruth¬Guimarães¬
+¬
+(A)¬introduz¬ um¬ novo¬ ponto¬ de¬ vista¬ narrativo,¬ a¬ partir¬ de¬
+personagens¬ escravizados,¬ ao¬ passo¬ que,¬ até¬ então,¬ o¬
+ponto¬de¬vista¬dominante¬era¬o¬da¬classe¬senhorial,¬como¬
+na¬tela¬de¬Tarsila¬do¬Amaral.¬
+(B)¬apresenta¬ ponto¬ de¬ vista¬ semelhante¬ ao¬ de¬ Tarsila¬ do¬
+Amaral,¬na¬medida¬em¬que¬as¬obras¬de¬ambas¬evidenciam¬
+mais¬do¬que¬o¬objeto¬representado¬(a¬fazenda¬senhorial),¬
+mas¬o¬seu¬contraste¬com¬o¬tempo¬presente¬(a¬Companhia).¬
+(C)¬intervém¬ na¬ forma¬ tradicional¬ do¬ romance¬ regionalista¬
+brasileiro,¬comprometendo-se¬com¬a¬memória¬da¬infância¬
+dos¬senhores¬de¬engenho,¬assim¬como¬a¬tela¬de¬Tarsila¬do¬
+Amaral,¬pintada¬com¬traços¬rurais,¬entretanto¬infantis.¬
+(D)¬apropria-se¬
+dos¬
+procedimentos¬
+do¬
+regionalismo¬
+modernista,¬enquanto¬Tarsila¬do¬Amaral,¬através¬de¬uma¬
+perspectiva¬particular,¬não¬dá¬espaço¬à¬representação¬das¬
+transformações¬ sociais,¬ culturais¬ e¬ econômicas¬ na¬ vida¬
+rural.¬
+(E)¬tem¬ objetivo¬ convergente¬ ao¬ de¬ Tarsila¬ do¬ Amaral¬ por¬
+sobrevalorizar,¬ de¬ modo¬ ufanista,¬ a¬ nacionalidade¬
+brasileira,¬de¬acordo¬com¬os¬pressupostos¬do¬movimento¬
+modernista¬brasileiro.¬
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Texto para as questões 77 a 79 
+¬
+¬
+ 
+Gossip¬may¬not¬be¬good¬for¬you,¬per¬se,¬but¬it’s¬deeply¬
+connected¬to¬human¬nature.¬¬
+The¬historian¬Yuval¬Noah¬Harari¬wrote¬that¬gossip¬helped¬
+early¬Homo¬sapiens¬form¬larger¬and¬more¬stable¬bands.¬He¬
+borrowed¬the¬idea¬from¬the¬anthropologist¬Robin¬Dunbar,¬who¬
+theorized¬ that¬ language¬ —¬ and¬ by¬ extension,¬ gossip¬ —¬
+replaced¬grooming,¬a¬social¬bonding¬practice¬still¬seen¬among¬
+our¬primate¬cousins.¬
+Humans¬needed¬something¬that¬would¬help¬them¬keep¬up-
+to-date¬ with¬ friends¬ and¬ family¬ as¬ they¬ spread¬ out¬ across¬
+distances,¬and¬networks¬of¬Homo¬sapiens¬were¬becoming¬too¬
+large¬for¬everyone¬to¬effectively¬groom¬everyone¬else.¬
+Or,¬to¬put¬it¬another¬way,¬humans¬evolved¬to¬gossip.¬The¬
+language¬of¬social¬bonding¬is¬thought¬to¬play¬a¬pivotal¬part¬in¬
+ensuring¬our¬survival¬and¬later¬flourishing.¬
+Gossip’s¬ability¬to¬drive¬“vicarious¬learning”¬and¬facilitate¬
+“social¬ connection”¬ was¬ the¬ subject¬ of¬ a¬ recent¬ study¬ by¬
+scientists¬ at¬ Dartmouth’s¬ Computational¬ Social¬ Affective¬
+Neuroscience¬Laboratory.¬
+Luke¬ Chang,¬ a¬ professor¬ of¬ psychological¬ and¬ brain¬
+sciences,¬ explained¬ that¬ he¬ and¬ his¬ co-researcher,¬ Eshin¬
+Jolly,¬dug¬into¬the¬topic¬because¬gossip¬is¬ubiquitous¬but¬not¬
+well-studied.¬¬
+They¬ created¬ a¬ game¬ where¬ individuals¬ received¬ small¬
+amounts¬of¬money¬and¬were¬divided¬into¬groups¬of¬six.¬Each¬
+round,¬an¬individual¬could¬choose¬to¬keep¬the¬money¬or¬put¬it¬
+into¬ a¬ pot,¬ benefiting¬ everyone.¬ To¬ replicate¬ the¬ societal¬
+pressures¬ of¬ gossip,¬ they¬ gave¬ the¬ players¬ the¬ option¬ to¬
+exchange¬private¬communications,¬which¬inevitably¬turned¬into¬
+a¬ way¬ for¬ people¬ to¬ size¬ up¬ who¬ was¬ hoarding¬ or¬ who¬ was¬
+contributing.¬
+“Our¬work¬suggests¬that¬there’s¬a¬lot¬more¬richness¬there¬
+than¬ we’re¬ willing¬ to¬ think¬ about,”¬ Mr.¬ Jolly¬ said.¬ “When¬ I’m¬
+talking¬ with¬ you¬ about¬ somebody,¬ even¬ if¬ it’s¬ negative¬ or¬
+positive,¬it’s¬this¬idea¬that¬we’ve¬decided¬to¬temperature¬check¬
+how¬we¬feel¬about¬the¬social¬world¬at¬large.”¬
+The¬New¬York¬Times,¬28¬May,¬2021.¬Adaptado.¬
+¬
+77 
+Segundo¬o¬texto,¬para¬os¬primeiros¬Homo¬Sapiens,¬a¬fofoca¬
+¬
+(A) exerceu¬papel¬auxiliar¬na¬constituição¬de¬grupos¬maiores¬
+e¬mais¬equilibrados.¬
+(B) gerou¬ uso¬ de¬ maledicência¬ com¬ o¬ intuito¬ de¬ causar¬
+intrigas.¬
+(C) diminuiu¬ a¬ necessidade¬ do¬ contato¬ entre¬ bandos¬ de¬
+linhagens¬distintas.¬
+(D) contribuiu¬
+para¬
+o¬
+estabelecimento¬
+de¬
+padrões¬
+hierárquicos¬entre¬povos¬primitivos.¬
+(E) funcionou¬como¬filtro¬para¬eles¬distinguirem¬manifestações¬
+agressivas¬de¬sinais¬amigáveis.¬
+ 
+¬
+
+
+--- PAGE 26 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S3 
+78 
+De¬acordo¬com¬o¬texto,¬no¬estudo¬conduzido¬por¬cientistas¬de¬
+Dartmouth¬College,¬um¬aspecto¬associado¬à¬fofoca¬refere-se¬
+¬
+(A) à¬toxicidade¬presente¬no¬hábito¬de¬falar¬dos¬outros.¬
+(B) à¬
+desvalorização¬
+das¬
+características¬
+de¬
+pessoas¬
+próximas.¬
+(C) ao¬ aprendizado¬ alcançado¬ por¬ meio¬ do¬ contato¬ com¬ o¬
+outro.¬
+(D) ao¬seu¬potencial¬para¬a¬manutenção¬da¬ordem¬econômica.¬
+(E) à¬ estratégia¬ de¬ autoproteção¬ construída¬ pelo¬ indivíduo¬
+frente¬aos¬mexericos.¬
+ 
+¬
+79 
+Conforme¬ o¬ texto,¬ uma¬ característica¬ relativa¬ à¬ pesquisa¬
+mencionada¬sobre¬a¬fofoca¬envolve¬
+¬
+(A) testar¬o¬fator¬disciplinar¬entre¬participantes¬do¬jogo¬durante¬
+a¬troca¬de¬mensagens.¬
+(B) estabelecer¬ mecanismos¬ de¬ sanções¬ para¬ condutas¬
+condenáveis.¬
+(C) compreender¬ a¬ motivação¬ de¬ diálogos¬ com¬ conteúdo¬
+neutro.¬
+(D) medir¬ a¬ frequência¬ de¬ tópicos¬ sociais¬ nas¬ discussões¬
+propostas¬durante¬o¬experimento.¬
+(E) poder¬ avaliar¬ pessoas¬ com¬ atitudes¬ cooperativas¬ ou¬
+egoístas.¬
+ 
+¬
+¬
+Texto para as questões 80 e 81 
+¬
+O¬Retorno¬do¬Rei:¬Queda¬e¬Ascensão¬de¬Elvis¬Presley¬é¬uma¬
+jornada¬fascinante¬por¬trás¬do¬icônico¬especial¬de¬retorno¬de¬
+Elvis¬Presley,¬que¬marcou¬um¬dos¬momentos¬mais¬decisivos¬
+da¬carreira¬do¬lendário¬cantor.¬No¬verão¬de¬1968,¬Elvis¬estava¬
+em¬ uma¬ encruzilhada.¬ Após¬ uma¬ meteórica¬ ascensão¬ ao¬
+estrelato¬nos¬anos¬1950,¬dois¬anos¬no¬exército¬e¬uma¬carreira¬
+em¬declínio¬com¬filmes¬de¬Hollywood¬sem¬sucesso,¬ele¬estava¬
+longe¬do¬auge¬de¬sua¬fama.¬
+Disponível¬em¬https://www.adorocinema.com/filmes/.¬Adaptado.¬
+¬
+80 
+Em¬relação¬à¬descrição¬do¬momento¬de¬1968¬na¬carreira¬de¬
+Elvis¬Presley,¬a¬sinopse¬destaca¬um¬ponto¬crucial¬na¬trajetória¬
+do¬cantor,¬referindo-se¬ao¬ano¬como¬uma¬fase¬de¬decisão.¬O¬
+retorno¬de¬Elvis¬é¬representado¬principalmente¬como¬
+¬
+(A) um¬distanciamento¬da¬popularidade¬dos¬anos¬1950.¬
+(B) uma¬busca¬por¬revitalização¬artística¬após¬declínio.¬
+(C) um¬esforço¬para¬resgatar¬sua¬imagem¬no¬cinema.¬
+(D) uma¬ascensão¬gradual,¬sem¬grandes¬destaques.¬
+(E) uma¬tentativa¬de¬continuar¬o¬sucesso¬no¬cinema.¬
+ 
+¬
+81 
+O¬ uso¬ do¬ adjetivo¬ “meteórica”¬ no¬ trecho¬ que¬ descreve¬ a¬
+ascensão¬ de¬ Elvis¬ nos¬ anos¬ 1950¬ revela¬ a¬ intenção¬ de¬ se¬
+enfatizar¬
+¬
+(A) a¬intensidade¬do¬sucesso¬de¬Elvis,¬caracterizando-o¬como¬
+algo¬efêmero.¬
+(B) a¬falta¬de¬profundidade¬e¬consistência¬no¬sucesso¬de¬Elvis¬
+durante¬os¬anos¬1950.¬
+(C) o¬planejamento¬meticuloso¬por¬trás¬da¬ascensão¬de¬Elvis¬
+no¬cenário¬musical.¬
+(D) a¬ligação¬de¬Elvis¬ao¬movimento¬astronômico,¬sugerindo¬
+algo¬grandioso¬e¬distante.¬
+(E) o¬ sucesso¬ duradouro¬ e¬ gradual¬ de¬ Elvis,¬ que¬ foi¬
+consolidado¬ao¬longo¬do¬tempo.¬
+ 
+

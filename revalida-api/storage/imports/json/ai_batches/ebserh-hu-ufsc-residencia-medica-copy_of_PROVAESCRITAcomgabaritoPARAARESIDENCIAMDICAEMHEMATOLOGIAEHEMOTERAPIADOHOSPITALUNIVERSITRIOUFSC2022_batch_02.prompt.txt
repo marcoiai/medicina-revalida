@@ -1,0 +1,175 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "Ebserh / HU-UFSC - Residência Médica - https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sul/hu-ufsc/comunicacao/noticias/copy_of_PROVAESCRITAcomgabaritoPARAARESIDENCIAMDICAEMHEMATOLOGIAEHEMOTERAPIADOHOSPITALUNIVERSITRIOUFSC2022.pdf"
+  }
+]
+
+TEXTO-BASE:
+o meio é: 
+a) Pequenas células B. 
+b) Celularidade Mista. 
+c) Predominância linfocitária. 
+d) Depleção linfocitária. 
+e) Esclerose Nodular. 
+ 
+15) Com relação à síndrome de lise tumoral, marque a alternativa correta: 
+a) A síndrome de lise tumoral é mais frequente após início do tratamento de tumores de 
+baixo grau. 
+b) A medida mais eficaz na prevenção da síndrome de lise tumoral é o uso de agentes 
+que induzem a diminuição do nível sérico de ácido úrico como o alopurinol. 
+c)A lise tumoral está associada ao início da quimioterapia, radioterapia ou corticoterapia 
+de tumores como linfoma folicular e a policitemia vera. 
+d) A síndrome de lise tumoral geralmente é acompanhada de hipercalemia, 
+hipercalcemia, hipofosfatemia e hipouricemia. 
+e) Não é considerada uma emergência oncológica e apresenta pouco impacto no 
+desfecho clínico; 
+ 
+16) Mulher, 46 anos, procura atendimento ambulatorial devido a formigamento nas 
+pernas há 3 meses. Não faz uso de nenhum medicamento. Antecedentes pessoais: 
+vitiligo há 4 anos; doença diverticular do cólon com episódios frequentes de 
+sangramento nas fezes. Exames laboratoriais: Hb = 11,0 g/dL; VCM = 108; contagem 
+de reticulócitos = 25.000; leucócitos = 2.800/mm3; segmentados = 1200/mm3; 
+plaquetas = 120.000/mm3 Descrição do esfregaço sanguíneo: ausência de células 
+imaturas e presença de neutrófilos hipersegmentados. O diagnóstico mais provável para 
+a paciente é: 
+a) Anemia de doença crônica. 
+b) Leucemia Aguda. 
+c) Anemia ferropriva. 
+d) Anemia megaloblástica. 
+e) Neutropenia cíclica. 
+ 
+17) Paciente masculina, 56 anos, apresenta anemia, esplenomegalia, leucocitose com 
+basofilia, hiperuricemia com pesquisa da mutação BCR-ABL positiva e 
+hipercelularidade granulocítica da medula óssea. Assinale a alternativa que apresenta o 
+provável diagnóstico: 
+a) Leucemia linfoblástica aguda 
+b) Leucemia linfóide crônica 
+c) Leucemia mieloblástica aguda 
+d) Leucemia mielóide crônica 
+e) Anemia hemolítica auto imune 
+ 
+18) Qual o método de imagem mais adequado para avaliação de hemocromatose? 
+
+
+--- PAGE 7 ---
+
+a) Elastografia. 
+b) Tomografia computadorizada. 
+c) Ultrassonografia. 
+d) Ressonância magnética 
+e) nenhuma das opções acima. 
+ 
+19) Paciente 51 anos, procura atendimento médico com quadro de perda de peso de 12 
+kg em 3 meses, febre vespertina e sudorese noturna. Ao exame físico apresenta 
+linfonodomegalias cervicais, axilares e inguinais bilaterais, os maiores com 4,5 cm de 
+diâmetro. Submetido a biópsia de linfonodo cervical que revela um linfoma difuso de 
+grandes células B. PET CT demonstra linfonodos cervicais em nível I e II com 3,0 cm 
+de diâmetro e SUV de 14; linfonodos axilares de 2,5 cm de diâmetro com SUV de 13,7; 
+massa mediastinal de 12,5 cm com SUV de 16,4; linfonodos inguinais de 4 cm com 
+SUV de 13,8. A biópsia de medula óssea mostra ausência de infiltração neoplasia. 
+Conforme critérios de Ann Arbor, qual é o estadiamento do paciente? 
+a) IIB 
+b) IIIAs 
+c ) IIIB 
+d ) IVBs 
+e) nenhuma das anteriores 
+ 
+20)As leucemias são neoplasias do sistema hematopoiético, que diferem de acordo com 
+o tempo de duplicação celular e envolvimento da medula óssea em doenças agudas e 
+crônicas. Sobre as leucemias agudas, assinale a alternativa INCORRETA: 
+A) A imunofenotipagem da medula óssea consegue diferenciar a origem do blasto, 
+dividindo as leucemias em subtipos mieloide e linfoide, bem como sub classificando 
+estas células 
+B) Chamamos de santuário, locais do corpo do paciente em que as células leucêmicas se 
+infiltram e se tornam menos sensíveis aos quimioterápicos, como a região do testículo e 
+SNC. 
+c) O diagnóstico de uma leucemia aguda começa pela observação de blastos no sangue 
+periférico, com contagem medular superior a 20% destas células imaturas. 
+d)As leucemias linfoides agudas têm excelente prognóstico nos adultos, se comparadas 
+às leucemias mieloides, cuja mortalidade ultrapassa 60%; 
+e) A leucemia mieloide crônica pode se transformar em leucemia aguda, quando evolui 
+para a fase blástica, com potencial de tornar-se uma neoplasia linfoide ou mieloide 
+aguda. 
+

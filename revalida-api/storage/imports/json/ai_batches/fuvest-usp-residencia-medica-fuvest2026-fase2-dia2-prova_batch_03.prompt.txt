@@ -1,0 +1,429 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/fuvest2026-fase2-dia2-prova.pdf"
+  }
+]
+
+TEXTO-BASE:
+orque nem o quê. Votam como vão à festa da Penha – por divertimento. A Constituição é para 
+eles uma coisa inteiramente desconhecida. Estão prontos para tudo: uma revolução ou um golpe de Estado.” 
+ 
+Machado de Assis. “História de Quinze Dias”. In: Obra Completa. Volume III. Rio de Janeiro: Nova Aguillar, 1986. 
+ 
+Com base na leitura do excerto, responda às questões: 
+ 
+a) Qual é o fato social denunciado pelo cronista? 
+b) Cite dois efeitos sociais decorrentes da observação de que “70% dos cidadãos votam do mesmo modo que respiram: sem 
+saber porque nem o quê." 
+c) Relacione a frase “A Constituição é para eles uma coisa inteiramente desconhecida” com exigências formais para o 
+exercício do direito ao voto no período. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 25 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 26 ---
+
+ 
+ 
+H03 
+ 
+“As agitações de 1989 na China superaram em escala e intensidade quaisquer outras ocorridas na Europa Oriental, 
+para não falar na Rússia, naquele ano ou nos seguintes. A energia rebelde e o idealismo dos estudantes chineses, bem como 
+a solidariedade ativa da população urbana, não tiveram paralelo em outros lugares: um testemunho, a seu modo, da vitalidade 
+política de uma sociedade ainda próxima das suas origens revolucionárias. Na China, porém, energias de dois tipos se 
+chocaram. Quando veio a crise, a liderança pós-revolucionária responsável pela administração diária do Estado e do Partido 
+hesitou e ficou dividida. Mas os Anciãos, veteranos de décadas de luta armada para a conquista do poder, não iriam perdê-lo 
+por indecisão. Eles ainda eram os combatentes de sempre, não hesitando em neutralizar uma ameaça ao poder do Partido, tal 
+como a viam, tão logo se mobilizou a força necessária para tanto. Em junho, o Exército de Libertação Popular recebeu ordens 
+de evacuar a praça, e o movimento foi esmagado numa noite de violência.”  
+ 
+ANDERSON, Perry. Duas revoluções: Rússia e China. São Paulo: Boitempo, 2018, tradução: Hugo Mader e Pedro Davoglio. 
+ 
+A partir do excerto e considerando a história da China, responda: 
+ 
+a) O que foram as “agitações de 1989” citadas no excerto? 
+b) Quem são os Anciãos mencionados no excerto? 
+c) Após 1989, como se desenvolveu o modelo do socialismo com características chinesas? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+H04 
+ 
+“O meu ensino recebeu tanta força e autoridade que aqueles que anteriormente aderiam com mais veemência àquele 
+nosso mestre, e que molestavam ao máximo o meu ensino, acorreram em revoada às minhas aulas, e aquele mesmo que havia 
+sucedido ao meu mestre na escola-catedral de Paris me ofereceu o seu lugar, a fim de que aí mesmo, junto com os outros, ele 
+se inscrevesse entre os meus alunos, onde antes florescera aquele que fora o seu e o meu mestre. No entanto, não é fácil 
+exprimir como, poucos dias depois de eu aí reger a cadeira de dialética, meu mestre começou a consumir-se de inveja, e com 
+que sofrimento se atormentava, de tal modo que, não sustentando por muito tempo o ardor da miséria que o dominara, 
+empreendeu astutamente conseguir a minha remoção. Mas como não tinha motivo para agir contra mim abertamente, resolveu 
+privar da escola, sob a acusação de crimes detestáveis, aquele que me cedera o seu lugar de professor e que foi substituído 
+na sua função por um outro que fora outrora meu rival. Então voltei a Melun e aí estabeleci a minha escola como antes, e quanto 
+mais claramente a sua inveja me perseguia tanto mais autoridade ele me proporcionava.” 
+ 
+ABELARDO, Pedro. “A história das minhas calamidades: carta autobiográfica”. In: Os pensadores. 2ª ed. São Paulo: Abril, 1979, tradução: Ruy Afonso 
+da Costa Nunes. 
+ 
+Abelardo (1079-1142) foi um dos iniciadores do movimento que deu origem à Universidade de Paris. Como demonstra o excerto 
+apresentado, ocorreu um desenvolvimento espontâneo de escolas, que foi determinante para a consolidação das primeiras 
+universidades europeias na Baixa Idade Média. Considerando o excerto,  
+ 
+a) apresente uma característica das formas de transmissão de conhecimento na Baixa Idade Média, período no qual esse 
+texto foi escrito. 
+b) explique o grau de autonomia das universidades medievais, frente às demais instâncias de poder na Baixa Idade Média. 
+c) é possível afirmar que as universidades se estruturavam em torno da autoridade intelectual de um mestre? Justifique sua 
+resposta. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 27 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 28 ---
+
+ 
+ 
+H05 
+ 
+“- Mas esta terra é a nossa terra. A gente cultivou, fez ela produzir. Nascemos aqui, demos a nossa vida a ela e queremos 
+morrer aqui. Mesmo que não preste, ela é nossa. É isso que faz que a terra seja nossa: a gente nasce nela, trabalha nela, morre 
+nela. É isto o que dá direito de propriedade, e não um monte de papéis, cheio de números. [...] 
+- Oh, sentimos muito – disseram os representantes. – O banco, dono de todas essas terras, vinte mil hectares de terra, 
+não pode ser responsável. Vocês estão numa terra que não é de vocês, não lhes pertence. Talvez vocês consigam trabalho lá 
+na fronteira, no outono, na colheita de algodão. Talvez consigam ajuda como indigentes. Por que não vão para oeste, para a 
+Califórnia. Lá há muito trabalho e nunca faz frio. Lá, basta estender a mão para colher uma laranja. Lá sempre há safras para 
+colher. Por que não vão pra lá? [...] 
+E o homem do trator dizia: 
+- O que é que eu vou fazer? Tenho que pensar na minha família. São três dólares, que vêm todo dia. Os tempos 
+mudaram, não sabe disso? Não se pode mais viver da terra, a não ser que se tenha dois, cinco, dez mil hectares e um trator. 
+A lavoura já não é mais para pobretões como a gente. Você não começa a reclamar porque não pode fabricar Fords ou porque 
+não é a companhia telefônica. Bem, as safras são agora assim. Não há nada a fazer contra isso.” 
+ 
+STEINBECK, John. As vinhas da ira. Rio de Janeiro: Record, 2022, tradução: Herbert Caro e Ernesto Vinhaes.  (Originalmente publicado em 1939). 
+ 
+Os excertos apresentam diálogos travados entre personagens do romance e abordam as transformações econômicas no setor 
+agrícola dos Estados Unidos nas décadas de 1920 e 1930. Responda às questões: 
+ 
+a) Como é denominado o processo histórico retratado no romance? 
+b) A partir do excerto, aponte dois fenômenos na história social dos Estados Unidos, decorrentes da concentração de terras 
+e mecanização da agricultura. 
+c) Indique as modalidades de propriedade fundiária e as respectivas relações de trabalho mencionadas no texto. 
+ 
+ 
+H06 
+ 
+“Pisei o chão frio da noite. A lua pintava de prata as paredes do céu, as copas das árvores, os cones das palhotas, as 
+estrelas brincavam ao pisca-pisca com os seus olhos amarelo-prateados, o meu marido estava bêbado de morrer, vai torturar-
+me, este búfalo louco, por Deus! 
+- Sarnau, estás zangada? 
+- Não, não estou. 
+- Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, 
+Sarnau. És a minha primeira mulher. É tua toda a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o 
+meu mundo, minha flor, rebuçado do meu coração. 
+Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me 
+coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava-me, maltratando o meu corpinho frágil. Explodi furiosa e 
+chorei de amargura.” 
+Paulina Chiziane. Balada de amor ao vento. São Paulo: Companhia das Letras, 2022. 
+ 
+ 
+“As vozes cantam, o canavial balança, a máquina gira. De repente ouve-se um grito e o trabalho para. Um homem 
+deixou o braço ser arrastado pelas roldanas, puxando-o para a máquina, e... crás! A cabeça esmigalhou-se como um coco. 
+ 
+- Parem! – gritou o colono. – Dois de vocês encarregam-se do homem. Outros limpam a máquina, rápido, tempo é 
+dinheiro! 
+ 
+A lua já brincava no céu sem nuvens, quando os homens rudes de chapéu de palha e calcanhares de matope 
+regressaram ao dormitório. Veio a refeição de fubá que comeram com apetite mesmo ao lado do morto.  Depois veio a cachaça. 
+Era todos os dias assim. Em cada noite eram presenteados com um cadáver vitimado por uma cobra, uma máquina, febre, ou 
+pelo calor excessivo das torradeiras de café. 
+ 
+- Depressa, Damião, vai chamar o padre Moçambique e o curandeiro Januário. 
+ 
+A cachaça rodava enquanto aguardavam a chegada dos dirigentes espirituais, velando pelo morto sem uma lágrima 
+nos olhos, contando histórias da terra, da travessia dos mares e das lutas de resistência. 
+ 
+Mwando, o padre Moçambique, chegou trajando a sua batina de pano cru, chapéu de palha e pés descalços, levando 
+a Bíblia na mão esquerda. Logo a seguir chegou também o angolano Januário. Todos se ergueram, tiraram os chapéus 
+curvando-se numa vênia, em saudação aos seus dirigentes.” 
+ 
+Paulina Chiziane. Balada de amor ao vento. São Paulo: Companhia das Letras, 2022. 
+ 
+Cada um dos excertos menciona um dos protagonistas do romance: Sarnau, em Moçambique e Mwando, em Angola. A partir 
+do contexto apresentado, 
+ 
+a) indique qual é a situação política de Angola e Moçambique no período em que ocorrem os episódios relatados nos 
+excertos. 
+b) aponte dois traços das relações entre gêneros na sociedade em que se passa o excerto que enfoca Sarnau. 
+c) caracterize as relações religiosas e de trabalho presentes no excerto que menciona Mwando. 
+ 
+ 
+ 
+
+
+--- PAGE 29 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 30 ---
+
+
+
+--- PAGE 31 ---
+
+ 
+ 
+M01 
+ 
+A palavra ARARA, para além da beleza da ave e de ser um palíndromo, é comumente utilizada em exercícios de análise 
+combinatória e probabilidade, pois é formada por cinco letras, com apenas duas letras distintas. Supondo que as letras dessa 
+palavra estão numa urna em que a retirada de cada uma das letras é equiprovável, responda: 
+ 
+a) Qual a probabilidade de sortear duas letras, sem reposição, formando a palavra AR, isto é, sortear a primeira letra A e, sem 
+a reposição, sortear a segunda letra R? 
+b) Qual a probabilidade de sortear 5 letras, sem reposição, e formar novamente a palavra ARARA? 
+c) Supondo agora que as letras colocadas na urna são coloridas, isto é, ARARA, qual a probabilidade de sortear novamente, 
+sem reposição, 5 letras que formem a palavra ARARA com a mesma coloração inicial? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+M02 
+ 
+Uma rede de supermercados vende dois tipos de frascos de um determinado álcool, um com capacidade de 1 litro e outro de 
+2 litros. Em um certo dia do mês, um dos supermercados da rede vendeu um total de 50 frascos e, nesse dia, o valor arrecadado 
+com as vendas desses frascos foi de R$ 320,00.  
+ 
+a) Se o preço do frasco de álcool de 1 litro é de R$ 6,00 e de 2 litros é de R$ 10,00, quantos frascos de cada tipo foram 
+vendidos nesse dia?  
+b) Agora suponha que nesse dia o supermercado vendeu 25 frascos de 1 litro pelo valor total de R$ 125,00. Qual era o valor 
+do frasco de 2 litros?  
+c) Agora imagine que a validade do frasco de 2 litros está próxima do vencimento e que o supermercado anunciou uma 
+promoção em que o valor do frasco de 2 litros será o mesmo do frasco de 1 litro, ou seja, R$ 6,00. É possível que, ao final 
+da promoção, o gerente venda a mesma quantidade de frascos (50 frascos) arrecadando o mesmo valor (R$ 320,00)? Se 
+for possível, quantos frascos de cada tipo foram vendidos? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 32 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 33 ---
+
+ 
+ 
+M03 
+ 
+Na parte frontal do casco de um submarino está localizado um sonar esférico de raio 3 m para detectar objetos ao seu redor. 
+O sonar emite ondas que se propagam em todas as direções, formando esferas de raio igual à distância entre o centro do 
+sonar até a superfície do objeto detectado. O centro do sonar está a uma profundidade de 120 m em relação à superfície da 
+água.  
+ 
+ 
+ 
+a) Qual a distância mínima do centro do sonar até a superfície do objeto para que ele seja detectado?  
+b) Se o sonar detecta um objeto a uma distância de 10 m do seu centro, em um pont

@@ -1,0 +1,1637 @@
+
+
+--- PAGE 1 ---
+
+ 
+TOM 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 047/2025 -  
+ 
+Técnico de Laboratório (Observador 
+Meteorológico) 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo TOM. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 4 horas. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo 
+fiscal. O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 15 h. Não haverá tempo 
+adicional para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste concurso. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 60 questões objetivas 
+com 5 alternativas cada e 1 (uma) questão dissertativa. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+ 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de respostas, bem 
+como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+ 
+
+
+--- PAGE 2 ---
+
+Concurso Edital RH nº 047/2025 – Técnico de Laboratório (especialidade: Observador Meteorológico) 
+Texto para as questões de 01 a 04 
+ 
+Ambiência 
+ 
+Somos nós que ditamos o mundo em que vivemos. Não é 
+alienação ou delírio - o fato é que nosso mundo é o nosso 
+pensar. Claro que não se trata apenas de imaginar o mundo 
+que desejamos para ele se concretizar em nossa mente. Para 
+conseguir esse efeito, você tem que negociar com suas 
+emoções para que elas permitam que sua mente viva nesse 
+ambiente. Se as emoções alimentarem o pensamento com 
+impulsos positivos e amorosos, ele, então, poderá sustentar 
+essa atmosfera; mas se, ao contrário, instigar ânimos 
+negativos e hostis, essa será a sua ambiência. Para complicar, 
+as emoções são reações... Então você terá que atrair 
+condutas e comportamentos positivos para influenciá-las; 
+elas, por sua vez, influenciarão os seus pensamentos. A boa 
+notícia é que ter bons pensamentos nos leva a ter boas 
+emoções, as quais irão cooptar boas ações dos outros. Acho 
+que a pergunta, então, é mais ou menos esta: como começar 
+tal processo da maneira certa? 
+ 
+Adaptado de Nilson Bonder. Vapor dos vapores: dicionário de pensares. 
+Rocco Digital. 2025. 
+{01} 
+O título “Ambiência”, no contexto do texto, refere-se 
+principalmente: 
+ 
+(A) À influência da arquitetura e do espaço sobre os hábitos 
+emocionais da população. 
+(B) A um cenário externo que independe das emoções ou 
+pensamentos do sujeito. 
+(C) À aparência dos lugares concretos, como resultado de 
+estímulos sensoriais. 
+(D) A uma noção vaga, de forma decorativa, sem vínculo com 
+a argumentação do texto. 
+(E) A um estado subjetivo criado por emoções e pensamentos 
+que moldam experiências. 
+##### 
+ 
+{02} 
+A coerência interna do texto está ancorada na seguinte 
+perspectiva: 
+ 
+(A) As emoções sempre resultam de experiências externas, 
+não estando ligadas aos pensamentos. 
+(B) O pensamento funciona de modo independente das 
+emoções e do comportamento. 
+(C) As emoções alimentam os pensamentos, e estes, por sua 
+vez, moldam a vivência. 
+(D) A mente é passiva diante das emoções e desejos, 
+controlando todas as ações humanas de convívio. 
+(E) O pensamento é o único fator determinante da ambiência 
+descrita no escopo das ações humanas. 
+##### 
+ 
+{03} 
+No trecho “Para complicar, as emoções são reações...”, a 
+locução “Para complicar” tem como principal efeito de sentido a 
+ 
+(A) ênfase da simplicidade com que as emoções operam. 
+(B) negação da relevância das emoções no processo descrito. 
+(C) contraposição da emoção à razão de forma absoluta. 
+(D) introdução de um obstáculo à linearidade do raciocínio. 
+(E) justificativa de que as emoções são sempre positivas. 
+##### 
+{04} 
+Na oração “Se as emoções alimentarem o pensamento com 
+impulsos positivos...”, a conjunção “se” contribui para 
+ 
+(A) detalhar o sujeito em perspectiva temporal. 
+(B) expressar uma consequência imediata e inevitável. 
+(C) estabelecer hipótese de causa e efeito. 
+(D) expressar finalidade da ação e de seu resultado. 
+(E) opor ideias complementares e antagônicas. 
+##### 
+ 
+ 
+Texto para as questões 05 e 06 
+ 
+No momento em que morreu, Joaquim escrevia um livro 
+que nunca me mostrou. Meu pai, meu estranho. Ouvi falar da 
+sua obra inacabada desde criança. Onde guardar a dança da 
+mão direita do escritor, enquanto projetou o romance, toda a 
+vida adulta, o pontilhado de gestos abortados, os rascunhos-
+fantasma, tentativas, planos, ou seriam sonhos, a energia 
+despendida, o fogo de que irradiavam ideias que jamais viram 
+a luz? O que restou foi o vazio. Mas talvez o vazio seja um 
+lugar - uma cidade - repleto de avenidas. Algures, livro 
+sobreviverá, aberto, como sobrevivem as nossas ideias, 
+anseios, as nossas mistificações, literatura desconhecida, 
+minha tradição. Ninguém leu o livro que dizia escrever. O 
+escritor morreu, levou-o. Não é possível que a morte do meu 
+Pai tenha matado o livro, que era a própria vida. O sonho 
+dessa obra foi a herança que me deixou. Como parar de 
+sonhá-lo, se jamais o li? Imagino a biblioteca dos livros por 
+escrever. 
+ 
+Adaptado de Djaimilia Pereira de Almeida. O livro do meu pai.  
+Todavia. 2025. 
+{05} 
+Considerando a organização argumentativa, o texto é 
+construído a partir da 
+ 
+(A) comprovação material da existência do manuscrito, com 
+base em indícios concretos deixados pelo pai. 
+(B) tensão entre ausência e permanência, expressa na 
+evocação do livro inacabado como herança simbólica. 
+(C) recusa afetiva em reconhecer a importância do pai, 
+centrando-se em seu silêncio literário. 
+(D) progressão lógica e objetiva da narrativa sobre o processo 
+criativo do escritor falecido. 
+(E) reconstrução factual da memória do pai, com foco na 
+materialidade de sua produção textual. 
+##### 
+ 
+{06} 
+No trecho “Onde guardar a dança da mão direita do 
+escritor...”, o seu efeito expressivo resulta de 
+ 
+(A) antítese, pela articulação entre movimento espontâneo e 
+paralisia. 
+(B) metáfora, com a escrita associada a um gesto vivo e 
+coreográfico. 
+(C) prosopopeia, pela constituição da vida plena à mão do 
+escritor. 
+(D) metonímia, com a atribuição de racionalidade ao leitor 
+como protagonista. 
+(E) paradoxo, pelo tratamento contraditório ao invisível como 
+concreto. 
+##### 
+ 
+
+
+--- PAGE 3 ---
+
+Concurso Edital RH nº 047/2025 – Técnico de Laboratório (especialidade: Observador Meteorológico) 
+Texto para as questões de 07 a 09 
+ 
+Em muitos cantos do planeta, a leitura remete a eras 
+longínquas. Nos tempos em que capitaneava o Império 
+Romano, o poderoso Júlio César (100 a.C.-44 a.C.) já 
+mencionava o hábito em seu ”Guerra das Gálias”, escritos em 
+que enaltecia seus feitos expansionistas, engolindo inclusive 
+o que é hoje Paris. Aí o mundo girou, e o século XV registrou 
+um advento que mudou a história dos livros - a invenção da 
+prensa de Gutenberg, que substituiu os manuscritos 
+artesanais por volumes acessíveis a um público mais vasto. A 
+princípio, eram clérigos, acadêmicos e a elite letrada - uma 
+turma que inflou com a chegada da emergente burguesia. 
+Mais tarde, a Revolução Industrial viu aflorar o conceito de 
+produção em larga escala, o que fez ampliar ainda mais os 
+leitores, que, na década de 1930, receberam um belo 
+empurrão com o aparecimento da opção de bolso, os 
+paperbacks, tudo a preço razoável e fácil de carregar. Só que 
+a história seguiu sua marcha, e a entrada em cena da internet 
+chacoalhou a sociedade, revolucionando comportamentos e 
+moldando gerações. Nessa tremida de pilares, o prazer de se 
+perder nas páginas de um livro (ainda que no meio digital) está 
+escasseando, como confirma de forma perturbadora um 
+recente levantamento que se concentrou na população 
+brasileira de todas as idades e classes sociais. A aferição, 
+agora na sexta edição, pela primeira vez aponta que a maioria 
+no país não está lendo um único livro, nem daqueles fininhos 
+e de enredo simples. Precisamente, 53% declararam não ter 
+folheado nenhum volume nos três meses que antecederam a 
+detalhada pesquisa “Retratos da Leitura no Brasil”, conduzida 
+pelo instituto Ipec. 
+ 
+Adaptado de Sara Salbert.” Nova pesquisa mostra que brasileiros estão 
+cada vez mais afastados da leitura.” Revista Veja. Jan. de 2025. 
+{07} 
+A progressão apresentada no texto permite compreender que 
+ 
+(A) a 
+leitura 
+passou 
+de 
+prática 
+elitista 
+a 
+atividade 
+potencialmente massificada, embora em declínio. 
+(B) o advento da imprensa historicamente eliminou por 
+completo os manuscritos da circulação cultural. 
+(C) a popularização dos livros esteve sempre ligada a uma 
+preocupação estatal com o acesso à educação. 
+(D) a leitura escolar e social foi uma importante constante na 
+vida das populações em todas as épocas. 
+(E) a internet representa um avanço absoluto, inclusive na 
+promoção da leitura e da formação cidadã. 
+##### 
+ 
+{08} 
+A expressão “o mundo girou” tem, no contexto, a função de 
+ 
+(A) sugerir que as transformações culturais foram abruptas e 
+destrutivas. 
+(B) criticar o dinamismo exagerado da modernidade e seus 
+impactos. 
+(C) ironizar a ideia de progresso civilizacional no âmbito 
+social. 
+(D) indicar 
+a 
+instabilidade 
+política 
+causada 
+por 
+transformações tecnológicas. 
+(E) marcar coloquialmente uma transição histórica e cultural. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+{09} 
+No trecho “Só que a história seguiu sua marcha”, a expressão 
+“só que” serve, principalmente, para 
+ 
+(A) sugerir algo independente em relação ao que aconteceu. 
+(B) oferecer uma explicação sobre a queda do hábito de 
+leitura. 
+(C) mostrar que o desfecho foi igual ao que se esperava. 
+(D) indicar uma mudança de rumo em relação ao que foi 
+mencionado. 
+(E) apresentar uma consequência do que vinha sendo 
+narrado. 
+##### 
+ 
+{10} 
+Observe a charge a seguir: 
+ 
+Folha de São Paulo, 20.05.2025. 
+ 
+Assinale a alternativa que melhor descreve o sentido da 
+charge em face de recentes circunstâncias vivenciadas na 
+sociedade brasileira. 
+ 
+(A) Diante das dificuldades de ordem técnica para reversão 
+do caso de gripe aviária detectado, sugere-se, para conter 
+a contaminação, a substituição das aves por animais feitos 
+de material sintético. 
+(B) Os prejuízos para a balança comercial brasileira em razão 
+do caso de gripe aviária constatado é agravado pelo alto 
+custo de importação dos chamados bebês reborn. 
+(C) Uma forma de enfrentar os custos decorrentes das 
+medidas sanitárias adotadas pelas autoridades brasileiras 
+é o racionamento da alimentação fornecida às aves na 
+área infestada. 
+(D) Assim como ocorre com os bebês reborn, que viraram uma 
+tendência entre adultos, os animais reborn têm sido 
+usados 
+como 
+conforto 
+psicológico 
+para 
+crianças 
+infectadas por gripe aviária. 
+(E) A alimentação dos seres humanos está cada vez mais 
+sintética, o que afeta a imunidade da população, tornando-
+a infectável pelo vírus da gripe aviária. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Concurso Edital RH nº 047/2025 – Técnico de Laboratório (especialidade: Observador Meteorológico) 
+{11} 
+“Pouco tempo depois de publicar meu primeiro romance, fui a 
+uma emissora de TV em Lagos [na Nigéria] para uma 
+entrevista. Uma mulher que trabalhava lá me abordou e disse: 
+‘Gostei muito do seu romance, mas não gostei do fim. Você 
+precisa escrever uma continuação, e é isso que vai 
+acontecer...’ – então começou a me dizer o que escrever”. 
+ 
+Chimamanda Ngozi Adichie. O perigo de uma história única. 
+ 
+O trecho apresentado está inserido num contexto em que a 
+autora 
+ 
+(A) critica os que se intrometem na produção artística dos 
+escritores. 
+(B) elogia os leitores nigerianos não convencionais e celebra 
+a criatividade que a leitura pode despertar. 
+(C) critica o acesso facilitado às redes abertas de TV em 
+detrimento do acesso aos livros. 
+(D) elogia as múltiplas possibilidades interpretativas que um 
+mesmo texto pode despertar. 
+(E) assume postura neutra relativamente aos leitores de sua 
+obra.  
+##### 
+ 
+{12} 
+“É claro que durante esses anos nós deixamos de ser colônia 
+para constituir o Estado brasileiro e entramos no século XXI, 
+quando a maior parte das previsões apostava que as 
+populações indígenas não sobreviveriam à ocupação do 
+território, pelo menos não mantendo formas próprias de 
+organização, capazes de gerir suas vidas. Isso porque a 
+máquina estatal atua para desfazer as formas de organização 
+das nossas sociedades, buscando uma integração entre 
+essas populações e o conjunto da sociedade brasileira”. 
+ 
+Ailton Krenak. Ideias para adiar o fim do mundo. 
+ 
+O trecho apresentado está inserido num contexto em que o 
+autor critica a 
+ 
+(A) mistura de valores culturais e a perda da identidade dos 
+povos indígenas. 
+(B) falta de respeito com a vida simples que é levada pelos 
+povos indígenas. 
+(C) forma como são chamados os povos indígenas pela 
+população brasileira, que segue se referindo a eles como 
+índios. 
+(D) intensificação do extermínio de indígenas nos últimos 
+anos, por meio de políticas oficiais do Estado. 
+(E) imposição aos povos indígenas de estruturas e de um 
+modo de vida cultural de matriz europeia. 
+##### 
+ 
+{13} 
+Segundo as normas da USP, os docentes que assumem 
+funções de Direção e que, por isso, ficam desobrigados de 
+suas atividades docentes, são, além do Reitor, 
+ 
+(A) os Pró-Reitores e os Diretores de Unidades. 
+(B) o Vice-Reitor e os Diretores de Unidades. 
+(C) os Diretores de Unidades e os Chefes de Departamento. 
+(D) o Vice-Reitor e os Pró-Reitores. 
+(E) os Pró-Reitores e os Presidentes das Comissões 
+Estatutárias. 
+##### 
+{14} 
+Na hipótese de criação de uma nova Unidade da USP, ao 
+elaborar o Regimento Interno, são propostas 3 comissões. 
+Assinale a alternativa que apresenta as comissões possíveis 
+nos termos do Estatuto da USP. 
+ 
+(A) Comissão de Ensino (Graduação e Pós-Graduação) – 
+Comissão de Pesquisa e Inovação – Comissão de Inclusão 
+e Pertencimento. 
+(B) Comissão de Graduação e Extensão Universitária – 
+Comissão de Pós-Graduação, Pesquisa e Inovação – 
+Comissão de Inclusão e Pertencimento. 
+(C) Comissão de Graduação – Comissão de Cultura e 
+Extensão Universitária – Comissão de Inclusão e 
+Pertencimento. 
+(D) Comissão de Cultura e Extensão Universitária – Comissão 
+de Pesquisa e Inovação – Comissão de Pós-Graduação. 
+(E) Comissão de Graduação – Comissão de Pesquisa e 
+Inovação – Comissão de Cultura e Extensão Universitária. 
+##### 
+ 
+{15} 
+Nos termos do Estatuto da Universidade de São Paulo, pode-
+se dizer que a composição do Conselho Técnico-
+Administrativo das Unidades é 
+ 
+(A) fixa, não podendo ser alterada. 
+(B) aquela que venha a ser estabelecida livremente pelo 
+Regimento Interno da Unidade. 
+(C) aquela que venha a ser estabelecida pelo Regimento 
+Interno da Unidade, respeitada a composição mínima 
+fixada pelo Estatuto da USP. 
+(D) de natureza eminentemente acadêmica. 
+(E) de natureza eminentemente financeiro-orçamentária. 
+##### 
+ 
+{16} 
+A professora Rosa Maria precisa participar de uma reunião no 
+campus da Universidade de São Paulo (USP), em Bauru, que 
+se inicia às 11h da manhã. Ela pretende sair do campus da 
+USP, na capital, às 07h da manhã, para percorrer um trajeto 
+de 320 km, desenvolvendo uma velocidade média de 90 km/h. 
+Qual será o horário aproximado que ela chegará em Bauru? 
+ 
+(A) 3h30 da manhã. 
+(B) 3h55 da tarde. 
+(C) 10h55 da manhã. 
+(D) 10h55 da noite. 
+(E) 10h30 da manhã. 
+##### 
+ 
+{17} 
+Um grupo de 11 pacientes apresenta a massa média de  
+72,5 kg. E a massa média de outro grupo de 5 pacientes é de 
+75,6 kg. Qual é a massa média, aproximada, em quilogramas, 
+de todos os pacientes juntos? 
+ 
+(A) 72,94 
+(B) 73,50 
+(C) 74,05 
+(D) 74,60 
+(E) 74,63 
+##### 
+ 
+
+
+--- PAGE 5 ---
+
+Concurso Edital RH nº 047/2025 – Técnico de Laboratório (especialidade: Observador Meteorológico) 
+Texto para as questões 18 e 19 
+ 
+O rodízio municipal da cidade de São Paulo tem como objetivo 
+regulamentar a circulação de caminhões e automóveis, dentro 
+de uma região chamada de “Mini-Anel” pela Companhia de 
+Engenharia de Tráfego (CET). Durante o rodízio, caminhões e 
+automóveis estão proibidos de circular na região do “Mini-
+Anel” de acordo com os números finais da placa de cada 
+veículo, em determinados horários dos dias úteis da semana. 
+ 
+A figura a seguir ilustra o mapa dessa região chamada de 
+“Mini-Anel” e as suas dimensões aproximadas. 
+ 
+ 
+ 
+Adaptado de: https://www.cetsp.com.br/consultas/rodizio-
+municipal/como-funciona/.aspx 
+{18} 
+Se a região do “Min-Anel” fosse representada por um 
+retângulo, cujas dimensões são indicadas na figura, qual seria 
+seu perímetro, em quilômetros? 
+ 
+(A) 24 
+(B) 28 
+(C) 32 
+(D) 56 
+(E) 96 
+##### 
+ 
+{19} 
+Qual seria a área desse retângulo que representa essa região 
+chamada de “Mini-Anel”, em quilômetros quadrados? 
+ 
+(A) 28 
+(B) 56  
+(C) 96 
+(D) 182 
+(E) 192 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{20} 
+O aquecimento global tem sido um assunto cada vez mais 
+discutido no mundo inteiro. Segundo um relatório publicado 
+pela World Meteorological Organization (WMO), uma agência 
+especializada da Organização das Nações Unidas (ONU), o 
+ano de 2024 apresentou a maior diferença de temperatura 
+média em relação ao período pré-industrial (1850-1900). 
+Observe o gráfico a seguir que apresenta a síntese dos seis 
+principais conjuntos de dados utilizados para a medição de 
+temperatura mundial: 
+ 
+ 
+Fonte: https://library.wmo.int/records/item/69455-state-of-the-global-
+climate-2024  
+ 
+De acordo com os dados apontados no gráfico, é correto 
+afirmar: 
+ 
+(A) A diferença de temperatura média em relação ao período 
+pré-industrial teve um maior aumento entre a década de 
+2010 a 2020. 
+(B) A maior diferença de temperatura média em relação ao 
+período pré-industrial foi na década de 1970 a 1980. 
+(C) A diferença de temperatura média em relação ao período 
+pré-industrial manteve-se estável durante o período de 
+1980 a 2020. 
+(D) O período que abrange de 1860 a 1920 apresentou a 
+maior diferença positiva de temperatura média em relação 
+ao período pré-industrial. 
+(E) O período de 1940 a 1960 apresentou uma diferença de 
+temperatura média negativa em relação ao período pré-
+industrial. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+     Concurso Edital RH nº047/2025 – Técnico de Laboratório (especialidade: Observador Meteorológico) 
+Texto para as questões 21 e 22 
+ 
+O crédito imobiliário é uma modalidade de financiamento para aquisição de imóveis, novos ou usados, que possui um prazo 
+prolongado de pagamento e uma taxa de juros mais competitiva comparada a outras modalidades de empréstimo bancário. Nesse 
+tipo de financiamento, exige-se um valor de entrada, que é uma parte do valor do imóvel, que deve ser pago por meio de recursos 
+próprios do comprador. O percentual mínimo do valor de entrada varia de acordo com as regras de cada instituição bancária, bem 
+como as condições impostas pelo vendedor do imóvel. O valor do financiamento será o preço do imóvel descontando-se o valor 
+de entrada. 
+ 
+Observe a tabela, a seguir, de simulação de crédito imobiliário de uma instituição bancária para a aquisição de um imóvel localizado 
+na cidade de São Paulo. 
+ 
+ 
+ 
+Fonte: www.caixa.gov.br 
+ 
+ 
+{21} 
+De acordo com a tabela apresentada, qual é o preço do imóvel que se pretende adquirir com esse financiamento? 
+ 
+(A) R$ 110.000,00 
+(B) R$ 260.000,00 
+(C) R$ 344.326,83 
+(D) R$ 370.000,00 
+(E) R$ 454.326,83 
+##### 
+ 
+{22} 
+Suponha que esse comprador esteja interessado em outro imóvel que custa R$ 420.000,00 e que o valor de entrada seja o mesmo 
+que o apresentado na tabela. Quanto que o valor de entrada representa, aproximadamente, em relação ao preço do imóvel? 
+ 
+(A) 0,51% 
+(B) 0,62% 
+(C) 6,2% 
+(D) 51% 
+(E) 62% 
+##### 
+
+
+--- PAGE 7 ---
+
+     Concurso Edital RH nº047/2025 – Técnico de Laboratório (especialidade: Observador Meteorológico) 
+{23} 
+Em uma empresa, foi criada uma planilha no Microsoft Excel 
+365, para registrar a presença de colaboradores em 
+treinamentos internos. Cada linha contém o nome do 
+colaborador e as colunas indicam os dias do mês, com os 
+valores "P" para presente e "F" para falta. Para facilitar a leitura 
+dos dados, o responsável pelo controle deseja destacar 
+automaticamente com uma cor diferente todas as células que 
+contenham a letra "F", conforme a imagem a seguir: 
+ 
+ 
+Assinale a alternativa que apresenta o recurso do Excel que 
+deve ser utilizado para automatizar essa formatação com base 
+no conteúdo das células. 
+ 
+(A) Formatação condicional. 
+(B) Inserção de gráfico de colunas. 
+(C) Validação de dados. 
+(D) Congelar painéis. 
+(E) Proteger planilha. 
+##### 
+ 
+{24} 
+No PowerPoint, do Microsoft Office 365, é possível tornar as 
+apresentações mais atrativas utilizando efeitos que controlam 
+o modo da entrada e da saída de um slide durante a 
+apresentação. Esses efeitos podem ser personalizados com 
+sons, tempo de duração e tipo de animação. Assinale a 
+alternativa que apresenta: o tipo de recurso para aplicar os 
+efeitos de entrada e saída de um slide durante a apresentação 
+e em qual opção do menu ela é encontrada na versão em 
+português do PowerPoint. 
+ 
+(A) Animações, acessadas no menu “Inserir”, utilizadas para 
+criar efeitos entre os slides de uma apresentação. 
+(B) Transições, acessadas no menu “Transições”, aplicadas 
+diretamente ao slide para controlar como ele aparece ou 
+desaparece durante a apresentação. 
+(C) Modo de leitura, acessado no menu “Exibir”, utilizado para 
+inserir efeitos sonoros e visuais durante a transição de 
+slides. 
+(D) Design de slide, encontrado no menu “Design”, utilizado 
+para aplicar efeitos visuais e animar a exibição dos slides 
+automaticamente. 
+(E) Layout personalizado, acessado no menu “Início”, utilizado 
+para controlar o movimento entre slides e aplicar efeitos 
+visuais dinâmicos. 
+##### 
+ 
+ 
+ 
+ 
+ 
+{25} 
+Em um ambiente de trabalho, três tarefas distintas precisam 
+ser executadas com os programas do Microsoft Office 365, 
+versão em português: 
+ 
+I. Editar um documento com mais de 20 páginas, substituindo 
+todas as ocorrências de uma palavra-chave por outra e 
+padronizando o estilo de títulos automaticamente. 
+II. Organizar dados de orçamento com fórmulas de soma, 
+aplicar uma formatação visual automática em valores 
+acima de R$ 5.000 e proteger a planilha contra edições 
+acidentais. 
+III. Sugerir ajustes pontuais em uma apresentação já pronta, 
+sem alterar o conteúdo, utilizando anotações não visíveis 
+na exibição do slide. 
+ 
+Considerando os recursos mais adequados de cada 
+programa para as atividades descritas, assinale a alternativa 
+que apresenta, corretamente, a ferramenta utilizada em cada 
+caso. 
+ 
+(A) I – PowerPoint com temas automáticos; II – Word com mala 
+direta; III – Excel com comentários em célula. 
+(B) I – Excel com estilos de célula; II – PowerPoint com 
+fórmulas; III – Word com controle de alterações. 
+(C) I – Word com “Localizar e Substituir” e Estilos; II – Excel 
+com fórmulas, formatação condicional e proteção de 
+planilha; III – PowerPoint com inserção de comentários. 
+(D) I – Excel com formatação condicional; II – Word com 
+validação de dados; III – PowerPoint com layout mestre. 
+(E) I – Word com pincel de formatação; II – Excel com gráficos 
+de dispersão; III – PowerPoint com slide mestre e hiperlink. 
+#####
+ 
+{26} 
+Os programas do Microsoft Office 365 foram desenvolvidos 
+com finalidades distintas, sendo amplamente utilizados em 
+ambientes corporativos, acadêmicos e pessoais. Conhecer as 
+funções principais de cada um desses softwares é essencial 
+para otimizar o uso de recursos e escolher a ferramenta 
+adequada para cada tipo de tarefa. 
+ 
+Considerando as funcionalidades específicas de cada 
+programa, assinale a alternativa que apresenta a principal 
+função atribuída ao Word, ao Excel e ao PowerPoint, 
+respectivamente. 
+ 
+(A) Processamento de texto, edição de vídeos e criação de 
+planilhas. 
+(B) Criação de apresentações, planilhas orçamentárias e 
+banco de dados relacionais. 
+(C) Criação de banco de dados, edição de slides e 
+modelagem de texto. 
+(D) Edição de planilhas, construção de slides e digitalização 
+de documentos em PDF. 
+(E) Produção de textos formatados, organização e análise de 
+dados por meio de planilhas eletrônicas e criação de 
+apresentações visuais. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+     Concurso Edital RH nº047/2025 – Técnico de Laboratório (especialidade: Observador Meteorológico) 
+{27} 
+Um usuário revisa uma apresentação longa no PowerPoint 
+365, versão em português. Para facilitar a organização lógica 
+do conteúdo, deseja-se visualizar todos os slides em 
+miniatura, reordenar sua sequência de forma prática e ter uma 
+visão geral da estrutura da apresentação, sem precisar 
+percorrer cada slide individualmente no modo de edição. 
+Assinale a alternativa que apresenta o recurso mais indicado 
+para a tarefa descrita no PowerPoint 365.  
+ 
+(A) Ativar o modo “Apresentação de Slides” e pausar com a 
+tecla Esc para reorganizar os slides durante a exibição. 
+(B) Acessar a guia “Design” e alterar o layout do slide para 
+“Resumo” com agrupamento automático. 
+(C) Acessar a guia “Inserir” e escolher “Quadro de estrutura”, 
+que exibe a hierarquia de tópicos da apresentação. 
+(D) Acessar a guia “Exibir” e selecionar o modo “Classificação 
+de Slides” para reorganizá-los visualmente. 
+(E) Ir até a guia “Transições” e aplicar efeitos de troca para 
+visualizar as conexões entre os slides. 
+##### 
+ 
+{28} 
+Assinale a alternativa que apresenta a ordem dos planetas do 
+Sistema Solar em ordem inversa, ou seja, do mais distante 
+para o mais próximo do Sol. 
+ 
+(A) Netuno, Urano, Saturno, Júpiter, Marte, Terra, Vênus e 
+Mercúrio. 
+(B) Plutão, Urano, Saturno, Marte, Júpiter, Terra, Vênus e 
+Mercúrio. 
+(C) Netuno, Plutão, Urano, Júpiter, Marte, Vênus, Terra e 
+Mercúrio. 
+(D) Netuno, Urano, Saturno, Júpiter, Marte, Lua, Terra e 
+Mercúrio. 
+(E) Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano e 
+Netuno. 
+##### 
+ 
+{29} 
+Assinale a alternativa que contém as palavras corretas para 
+completar a frase, respectivamente:  
+Os movimentos principais do Planeta Terra são a ____ em 
+torno de seu eixo e a ____ em torno do Sol. 
+ 
+(A) translação e rotação. 
+(B) rotação e movimentação. 
+(C) translação e movimentação. 
+(D) movimentação e rotação. 
+(E) rotação e translação. 
+##### 
+ 
+{30} 
+A consequência principal da rotação realizada pelo Planeta 
+é a  
+ 
+(A) elevação do nível do mar. 
+(B) existência das estações do ano. 
+(C) alternância sucessiva entre os dias e as noites. 
+(D) distribuição de temperatura ao redor do globo. 
+(E) determinação das fases da Lua. 
+##### 
+ 
+{31} 
+A luz do Sol leva aproximadamente 11 minutos para percorrer 
+os 150 milhões de quilômetros até chegar no Planeta Terra. 
+Essa é a fonte primordial de energia para o sistema climático 
+terrestre, e é denominada de 
+ 
+(A) radiação de ondas longas. 
+(B) radiação de ondas curtas. 
+(C) irradiação atmosférica. 
+(D) convecção solar. 
+(E) irradiação solar. 
+##### 
+ 
+{32} 
+Assinale a alternativa que apresenta a denominação da 
+camada mais interior do Planeta Terra. 
+ 
+(A) Núcleo. 
+(B) Litosfera. 
+(C) Manto. 
+(D) Crosta. 
+(E) Magma. 
+##### 
+ 
+{33} 
+Assinale a alternativa que apresenta a camada mais externa 
+da Terra. 
+ 
+(A) Continentes. 
+(B) Litosfera. 
+(C) Manto.  
+(D) Placas tectônicas. 
+(E) Crosta. 
+#####
+ 
+{34} 
+Deriva continental é a teoria que afirma que os continentes do 
+Planeta Terra 
+ 
+(A) mantiveram suas posições geográficas atuais inalteradas. 
+(B) possuem distâncias entre si que oscilam com o decorrer 
+do tempo. 
+(C) flutuam constantemente sobre o magma, afastando-se. 
+(D) já estiveram unidos em um continente único e se separam 
+ao longo do tempo. 
+(E) flutuam constantemente sobre o manto, aproximando-se. 
+##### 
+ 
+{35} 
+É correto afirmar que as placas tectônicas são 
+(A) camadas 
+sucessivas 
+de 
+rochas 
+que 
+formam 
+o 
+núcleo terrestre. 
+(B) devidas à convecção do magma desde o interior do 
+planeta. 
+(C) regiões do interior da Terra que alimentam os vulcões. 
+(D) fragmentos da crosta e da parte superior do manto 
+terrestre. 
+(E) estruturas fixas que dão sustentação aos continentes. 
+##### 
+ 
+
+
+--- PAGE 9 ---
+
+     Concurso Edital RH nº047/2025 – Técnico de Laboratório (especialidade: Observador Meteorológico) 
+{36} 
+A formação das montanhas na superfície terrestre requer o 
+entendimento da ação de forças que tem a capacidade de 
+deformar os continentes. Assinale a alternativa que apresenta 
+o principal fator responsável por essa deformação. 
+ 
+(A) Forças gravitacionais exercidas pela Lua e pelo Sol. 
+(B) Movimentação das placas tectônicas. 
+(C) Forças da água e do vento que geram erosão. 
+(D) Movimentação vertical do magma em subsuperfície. 
+(E) Movimentação vertical das camadas mais profundas do 
+manto. 
+##### 
+ 
+{37} 
+Assinale a alternativa que apresenta a melhor descrição da 
+chamada zona de subducção. 
+ 
+(A) a região caracterizada pela colisão entre duas placas 
+tectônicas, 
+sendo 
+que 
+uma 
+acaba 
+sendo 
+empurrada para baixo da outra. 
+(B) região na qual as placas tectônicas afastam-se umas das 
+outras. 
+(C) região em que as placas tectônicas se formam. 
+(D) região onde placas tectônicas se movem paralelamente. 
+(E) região onde não existe placa tectônica. 
+##### 
+ 
+{38} 
+A manutenção da movimentação das placas tectônicas é 
+explicada pela atuação da força 
+ 
+(A) gravitacional do Sol. 
+(B) gravitacional da Lua. 
+(C) do peso dos oceanos. 
+(D) do peso dos continentes. 
+(E) de convecção aplicada no manto terrestre. 
+##### 
+ 
+{39} 
+A teoria que descreve o movimento dos corpos celestes em 
+torno do Sol é a 
+ 
+(A) Teoria Geocêntrica. 
+(B) Teoria de Newton. 
+(C) Teoria Heliocêntrica. 
+(D) Teoria de Einstein. 
+(E) Teoria da relatividade. 
+##### 
+ 
+{40} 
+Um determinado objeto de porcelana pode resistir a quedas 
+desde que não ultrapasse a velocidade de impacto de 5 m/s. 
+Assinale a alternativa que apresenta a altura máxima que este 
+objeto pode cair, a partir do repouso, sem quebrar. 
+ 
+(A) 1,05 m. 
+(B) 1,40 m. 
+(C) 2,0 m. 
+(D) 1,25 m. 
+(E) 1,0 m. 
+##### 
+{41} 
+Um automóvel está descendo uma ladeira e enfrentando forte 
+vento contrário, de modo que é preciso acelerar para manter 
+constante a velocidade de descida.  
+Em relação ao caso descrito, assinale a alternativa que 
+apresenta a situação correta. 
+ 
+(A) A energia potencial está aumentando. 
+(B) A energia cinética está aumentando. 
+(C) A energia total (potencial + cinética) está diminuindo. 
+(D) A energia total (potencial + cinética) está aumentando. 
+(E) A energia total (potencial + cinética) está inalterada. 
+##### 
+ 
+{42} 
+Sabe-se que a radiação solar demora 8 minutos para percorrer 
+a distância entre o Sol e a Terra. Considerando que a 
+velocidade desta propagação equivale a 300.000 km/s, qual é 
+a distância percorrida em metros? 
+ 
+(A) 1,44 x 1011 m 
+(B) 1,44 x 1012 m 
+(C) 1,44 x 1013 m 
+(D) 1,44 x 1015 m 
+(E) 1,44 x 1020 m 
+#####
+ 
+{43} 
+Considere um corpo de massa não desprezível e com carga 
+não nula, sujeito à ação da gravidade e do campo elétrico 
+terrestre. Se este corpo efetuar movimento de queda livre com 
+velocidade constante, é correto afirmar: 
+ 
+(A) O campo elétrico é orientado perpendicularmente ao 
+campo gravitacional. 
+(B) A força associada ao campo elétrico possui mesma 
+magnitude que o peso do corpo. 
+(C) A força gravitacional e a força elétrica são paralelas. 
+(D) A intensidade dos campos elétrico e gravitacional  são 
+equivalentes. 
+(E) A força devida ao campo gravitacional é maior que a força 
+devida ao campo elétrico. 
+##### 
+ 
+{44} 
+Um turista, nos Estados Unidos da América, consulta a 
+previsão da temperatura mínima e máxima do dia seguinte a 
+sua chegada no país e obtém os seguintes valores: 59°F e 
+77°F. 
+Os 
+valores 
+em 
+graus 
+Celsius 
+correspondem 
+respectivamente a: 
+ 
+(A) 16 °C e 23 °C 
+(B) 16 °C e 26 °C 
+(C) 15 °C e 20 °C 
+(D) 11 °C e 22 °C 
+(E) 15 °C e 25 °C 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+     Concurso Edital RH nº047/2025 – Técnico de Laboratório (especialidade: Observador Meteorológico) 
+{45} 
+Um carro de corrida parte do repouso e, com aceleração 
+constante, alcança a velocidade de 300 km/h em 7 segundos.  
+Qual é a sua aceleração em cm/s2 ? 
+ 
+(A) 2100 cm/s2 
+(B) 1190 cm/s2 
+(C) 2150 cm/s2 
+(D) 1150 cm/s2 
+(E) 2070 cm/s2 
+##### 
+ 
+{46} 
+Dispõe-se de quatro esféricas metálicas iguais e isoladas 
+umas das outras. Três delas estão neutras (A, B, C) e a quarta 
+está eletrizada com a carga Q. Coloca-se D em contato, 
+sucessivamente, com as esferas A, B e C. Qual a carga final 
+de D? 
+ 
+(A) Q 
+(B) 0 
+(C) Q/8 
+(D) Q/2 
+(E) Q/4 
+##### 
+ 
+{47} 
+Sabendo que a constante eletrostática vale k0 = 9x109 Nm2/C2, 
+a intensidade da força de repulsão entre duas cargas elétricas 
+iguais a 2 C, situadas no vácuo e a 1 metro de distância vale 
+ 
+ 
+(A) 3,6x108 N 
+(B) 3,6x109 N 
+(C) 3,6x1010 N 
+(D) 3,6x1015 N 
+(E) 3,6x1020 N 
+##### 
+ 
+{48} 
+Inicialmente, a força elétrica atuando entre dois corpos A e B, 
+separados pela distância d, é repulsiva e vale F. Se 
+triplicarmos a carga do corpo A, qual deve ser a nova 
+separação entre os corpos para que a força entre eles 
+permaneça igual a F? 
+ 
+(A) d/3 
+(B) d/√3 
+(C) 3d 
+(D) d/6 
+(E) √3d 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{49} 
+Uma forma de contribuir para um mundo mais sustentável é 
+optar por métodos mais eficientes para economizar energia 
+elétrica. Ao substituir uma lâmpada incandescente que 
+apresenta 60 W de potência nominal, por LED, cuja potência 
+nominal é de 8 W, caso a lâmpada fique acesa por 5 horas por 
+dia, após 30 dias, o consumo de energia elétrica foi reduzido 
+em 
+ 
+(A) 1,2 kWh 
+(B) 4,0 kWh 
+(C) 4,8 kWh 
+(D) 6,8 kWh 
+(E) 7,8 kWh 
+##### 
+ 
+{50} 
+Considerando que dois corpos estão em equilíbrio térmico 
+com um terceiro, sendo um deles de ferro, o outro de cobre e 
+o terceiro de alumínio, é correto afirmar: 
+ 
+(A) os três corpos estão em repouso. 
+(B) a temperatura do corpo de alumínio aumenta. 
+(C) os três corpos possuem a mesma quantidade de calor. 
+(D) os corpos de ferro e cobre estão em equilíbrio térmico 
+entre si. 
+(E) a diferença entre as temperaturas dos corpos é diferente 
+de zero. 
+#####
+ 
+{51} 
+ 
+Em uma cidade, onde a pressão atmosférica vale 1 atm, 
+observou-se que a coluna de mercúrio de um termômetro 
+mede 5,0 cm quando em equilíbrio térmico com gelo em fusão, 
+e 15,0 cm quando em equilíbrio térmico com água em 
+ebulição. Quanto mediria a coluna a 25°C? 
+ 
+(A) 3,0 cm 
+(B) 6,0 cm 
+(C) 7,0 cm 
+(D) 7,5 cm 
+(E) 10,0 cm 
+##### 
+ 
+{52} 
+Uma barra de zinco e uma de alumínio têm o mesmo 
+comprimento à temperatura de 0 °C. A 150 °C, seus 
+comprimentos diferem de 0,3 cm. Sabendo-se que o 
+coeficiente de dilatação linear do zinco é igual a 26 x 10-6 °C-1 
+e o do alumínio vale 22 x 10-6 °C-1. O comprimento das barras 
+a 0 °C é igual a 
+ 
+(A) 125 cm 
+(B) 250 cm 
+(C) 300 cm 
+(D) 500 cm 
+(E) 600 cm 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+     Concurso Edital RH nº047/2025 – Técnico de Laboratório (especialidade: Observador Meteorológico) 
+{53} 
+A “matka”, como é chamado o pote de barro na Índia, é 
+utilizada para conservar a água a uma temperatura menor do 
+que a ambiente. A explicação para esse fenômeno é: 
+ 
+(A) O pote de barro é poroso, permitindo que a água o 
+atravesse. Parte dessa água evapora consumindo calor do 
+pote e do restante da água dentro dele. 
+(B) O pote de barro, sendo impermeável, atua como um 
+isolante térmico, impedindo trocas de calor da água no 
+interior com o meio externo. 
+(C) O barro, do qual o pote é feito, tem, em sua composição, 
+elementos químicos que resfriam a água. 
+(D) O pote de barro é opaco, assim, os raios solares não 
+conseguem aquecer o seu interior. 
+(E)  A água se mantém mais fria porque o barro bloqueia a 
+entrada de oxigênio, reduzindo a energia cinética das 
+moléculas de água. 
+##### 
+ 
+{54} 
+Um físico transferiu uma massa de gás perfeito à temperatura 
+de 18,7 °C para outro recipiente com volume 12% maior. Ele 
+teve de aquecer o gás para manter a pressão constante. 
+Considerando o comportamento ideal do gás, o aquecimento 
+necessário foi de aproximadamente 
+ 
+(A) 17 °C 
+(B) 20 °C 
+(C) 30 °C 
+(D) 35 °C 
+(E) 41 °C 
+##### 
+ 
+{55} 
+ 
+A distância da Terra de um astro, em quilômetros, que se 
+encontra a 20 anos-luz é de aproximadamente: 
+ 
+(A) 1,9 x 1012 km 
+(B) 3,8 x 1010 km 
+(C) 9,5 x 1012 km 
+(D) 1,9 x 1014 km 
+(E) 9,5 x 1015 km 
+ 
+ 
+Note e adote: 
+A velocidade da luz no vácuo equivale a 3 x 108 m/s 
+ 
+##### 
+ 
+{56} 
+Considere a sombra de uma garrafa de água de 30 cm de 
+altura medindo 5 mm, enquanto, no mesmo momento, a 
+sombra de uma árvore mede 4 cm. Mais tarde, a sombra da 
+árvore aumentou 2 cm, é correto afirmar que a sombra da 
+garrafa passou a medir 
+ 
+(A) 6,0 mm 
+(B) 7,0 mm 
+(C) 7,3 mm 
+(D) 7,5 mm 
+(E) 8,0 mm 
+##### 
+{57} 
+A imagem de uma árvore cobre exatamente o tamanho de um 
+espelho plano de 10 cm, quando o mantemos vertical a 50 cm 
+dos olhos. A árvore está a 10 m do espelho. Qual é a sua 
+altura? 
+ 
+(A) 1,0 m 
+(B) 2,1 m 
+(C) 2,8 m 
+(D) 3,2 m 
+(E) 4,2 m 
+##### 
+ 
+{58} 
+O índice de refração absoluto de um meio vale 1,5. 
+Considerando que a velocidade da luz ao se propagar no 
+vácuo é igual a 3 x 108 m/s, a velocidade de propagação da 
+luz, no meio descrito, vale 
+ 
+(A) 1,5 x 108 m/s 
+(B) 2 x 108 m/s 
+(C) 2,5 x 108 m/s 
+(D) 4 x 108 m/s 
+(E) 3 x 108 m/s 
+##### 
+ 
+{59} 
+Um objeto é colocado diante de um espelho plano.  É correto 
+afirmar que a imagem formada é  
+ 
+(A) real, direita e maior que o objeto. 
+(B) real, invertida e menor que o objeto. 
+(C) virtual, invertida e maior que o objeto. 
+(D) real, direita e do mesmo tamanho do objeto. 
+(E) virtual, direita e do mesmo tamanho do objeto.  
+##### 
+ 
+{60} 
+Um pêndulo simples, de comprimento L, tem período T em 
+uma certa localidade. Para que o período de oscilação passe 
+a valer 3T, no mesmo local, qual deve ser o novo comprimento 
+do fio? 
+ 
+(A) 3L 
+(B) 9L 
+(C) 6L 
+(D) 1/3L 
+(E) √3L 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 12 ---
+
+     Concurso Edital RH nº047/2025 – Técnico de Laboratório (especialidade: Observador Meteorológico) 
+Questão dissertativa 
+       Durante a previsão do tempo, é comum os meteorologistas utilizarem balões atmosféricos para estudar as condições da 
+atmosfera em diferentes altitudes. Esses balões são preenchidos com gás hélio ou hidrogênio e sobem na atmosfera transportando 
+instrumentos que medem temperatura, pressão, umidade relativa, direção e intensidade do vento.  
+ 
+Considerando a situação apresentada, responda às questões: 
+ 
+a) 
+Explique o que é pressão. 
+b) Por que a pressão atmosférica diminui com a altitude? 
+c) 
+Explique, com base na Lei dos Gases Ideais, por que o balão atmosférico se expande à medida que sobe.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Instruções:  
+• As respostas deverão ser redigidas de acordo com a norma padrão da língua portuguesa.  
+• Escreva com letra legível e não ultrapasse o espaço de linhas disponíveis da folha de respostas.  
+• Receberão nota zero textos que desrespeitarem os direitos humanos e textos que permitirem, por qualquer modo, a identificação do candidato(a). 
+
+
+--- PAGE 13 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RASCUNHO 
+ 
+ 
+NÃO SERÁ 
+CONSIDERADO NA 
+CORREÇÃO 
+
+
+--- PAGE 14 ---
+
+V2
+
+
+--- PAGE 15 ---
+
+ 
+ 
+ 
+Concurso DRH USP Agosto 2025 
+Publicado em 04/08/2025. 
+Universidade de São Paulo
+Técnico de Laboratório (Observador Meteriológico) – Edital RH Nº 047/2025 
+PROVA TOM 
+01 
+E 
+ 
+31 
+B 
+02 
+C 
+ 
+32 
+A 
+03 
+D 
+ 
+33 
+E 
+04 
+C 
+ 
+34 
+D 
+05 
+B 
+ 
+35 
+D 
+06 
+B 
+ 
+36 
+B 
+07 
+A 
+ 
+37 
+A 
+08 
+E 
+ 
+38 
+E 
+09 
+D 
+ 
+39 
+C 
+10 
+A 
+ 
+40 
+D 
+11 
+B 
+ 
+41 
+C 
+12 
+E 
+ 
+42 
+A 
+13 
+D 
+ 
+43 
+B 
+14 
+B 
+ 
+44 
+E 
+15 
+C 
+ 
+45 
+B 
+16 
+E 
+ 
+46 
+C 
+17 
+B 
+ 
+47 
+C 
+18 
+D 
+ 
+48 
+E 
+19 
+E 
+ 
+49 
+E 
+20 
+A 
+ 
+50 
+D 
+21 
+D 
+ 
+51 
+D 
+22 
+E 
+ 
+52 
+D 
+23 
+A 
+ 
+53 
+A 
+24 
+B 
+ 
+54 
+D 
+25 
+C 
+ 
+55 
+D 
+26 
+E 
+ 
+56 
+D 
+27 
+D 
+ 
+57 
+B 
+28 
+A 
+ 
+58 
+B 
+29 
+E 
+ 
+59 
+E 
+30 
+C 
+ 
+60 
+B 
+ 
+ 
+ 
+
+
+--- PAGE 16 ---
+
+ 
+TOM 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 047/2025 -  
+ 
+Técnico de Laboratório (Observador 
+Meteorológico) 
+QUESTÃO DISSERTATIVA 
+ 
+ 
+ 
+RESPOSTA ESPERADA 
+ 
+a) 
+A pressão é uma grandeza física definida como a razão entre a força aplicada a uma superfície perpendicular 
+a ela e a área dessa superfície. 
+b) No caso da pressão atmosférica, a força aplicada é o peso da coluna de ar. Conforme o balão sobe, a 
+densidade do ar acima dele diminui, portanto, o peso diminui e, consequentemente, a pressão. 
+c) 
+De acordo com a Lei dos Gases Ideais, temos que pV = nRT, onde p é a pressão, V é o volume, n é a 
+quantidade do gás, R é a constante dos gases ideais e T é a temperatura. Como n e R são constantes, 
+mesmo que a temperatura caia um pouco, se a pressão diminui, o volume deve aumentar. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 17 ---
+
+ 
+ 
+ 
+CRITÉRIOS DE CORREÇÃO 
+ 
+• Critério 1: Completude e abrangência dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+Os conceitos principais são abordados com profundidade e detalhamento. 
+2 
+A maioria dos conceitos principais é abordada, mas pode faltar algum detalhe ou profundidade. 
+1 
+Alguns conceitos principais são abordados, mas a explicação é superficial ou incompleta. 
+0  
+Pouco ou nenhum conceito relevante é abordado. 
+ 
+• Critério 2: Domínio e aprofundamento dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+A resposta é precisa, com informações corretas e bem explicadas. 
+2 
+A resposta é em sua maioria precisa, mas pode conter alguns pequenos erros ou imprecisões. 
+1 
+A resposta contém várias imprecisões ou erros conceituais, mas a ideia geral é compreensível. 
+0  
+A resposta está incorreta e confusa. 
+ 
+• Critério 3: Completude da resposta (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+Os três itens foram respondidos. 
+2 
+Somente dois itens foram respondidos. 
+1 
+Somente um item foi respondido. 
+0  
+Todos os itens foram deixados em branco. 
+ 
+• Critério 4: Clareza e Coerência (0 a 1 ponto): 
+Faixa de nota 
+Critério 
+1 
+O texto é extremamente claro e coerente, apresentando uma explicação lógica e bem estruturada 
+dos conceitos. 
+0,5 
+O texto é claro e coerente, com algumas pequenas falhas na estrutura ou na explicação. 
+0 
+O texto é compreensível, mas apresenta várias falhas na clareza ou na coerência que dificultam a 
+compreensão total. 
+ 
+ 

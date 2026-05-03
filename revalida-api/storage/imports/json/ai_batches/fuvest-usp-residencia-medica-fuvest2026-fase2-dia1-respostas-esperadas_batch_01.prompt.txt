@@ -1,0 +1,273 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/fuvest2026-fase2-dia1-respostas-esperadas.pdf"
+  }
+]
+
+TEXTO-BASE:
+
+
+--- PAGE 1 ---
+
+
+
+--- PAGE 2 ---
+
+ 
+Língua Portuguesa 
+Questão 01 
+Algumas estrelas podem estar rodeadas de pequenos mundos rochosos e sem vida, de sistemas planetários congelados 
+durante um estágio inicial da sua evolução. Talvez muitas estrelas possuam sistemas planetários semelhantes ao nosso; na 
+periferia, grandes planetas com anéis gasosos e luas geladas, e, mais próximo do centro, pequenos mundos quentes, azuis-
+esbranquiçados e cobertos por nuvens. Em alguns, a vida inteligente pode ter evoluído, refazendo a superfície planetária com 
+algum empreendimento massivo de construção. São nossos irmãos e irmãs no Cosmos. Serão muito diferentes de nós? Como 
+será sua forma, bioquímica, neurobiologia, história, política, ciência, tecnologia, arte, música, religião e filosofia? Talvez algum 
+dia o saibamos. 
+ 
+Carl Sagan. Cosmos. Rio de Janeiro: Francisco Alves, 1982. 
+ 
+No seio majestoso do infinito, 
+- Alvos cisnes do mar da imensidade, - 
+Flutuam tênues sombras fugitivas 
+Que a multidão supõe densas caligens*, 
+E a ciência reduz a grupos validos; 
+Vejo-as surgir à noite, entre os planetas, 
+Como visões gentis a flux dos sonhos; 
+E as esferas que curvam-se trementes, 
+Sobre elas desfolhando flores d’ouro, 
+Roubam-me instantes ao sofrer recôndito! 
+ 
+Narcisa Amália, Nebulosas. São Paulo: Via Leitura, 2024. 
+ 
+*caligens – nevoeiros densos; névoas 
+ 
+a) Indique dois elementos do cosmos mencionados por Carl Sagan que estão presentes nos poemas de Nebulosas como 
+metáforas, explicando sua significação no poema de Narcisa Amália citado acima. 
+b) Aponte uma discussão sobre história, política ou ciência presente na antologia Nebulosas e explique sua relação com um 
+ideal de irmandade (“irmãos e irmãs no Cosmos”) no contexto dos poemas. 
+ 
+ 
+Resolução 
+a) Entre os elementos do cosmos do texto de Carl Sagan que aparecem figuradamente no poema de Narcisa Amália, é possível 
+citar: “pequenos mundos”, “sistemas planetários”, “planetas”, figurados como “planetas” e “esferas”; “anéis gasosos”, “nuvens”, 
+figurados como “caligens” e “alvos cisnes”. Ressalte-se que as “nuvens” estão presentes, metaforicamente, no próprio título da 
+antologia (Nebulosas). Representar nuvens como “alvos cisnes” confere a esse elemento natural um caráter delicado e etéreo. 
+No poema de Narcisa Amália, a observação desses elementos do cosmos representa momentos de fuga do “sofrer recôndito” 
+pela integração com o cosmos. 
+ 
+b) Alguns poemas de Nebulosas aludem a questões políticas e sociais importantes do século XIX brasileiro, como as causas 
+da liberdade e do abolicionismo. Ideais de igualdade e fraternidade aparecem na obra de Amália como a crença numa 
+concepção mais ampla de humanidade que uniria os povos e as raças, abolindo as diferenças e realizando, no âmbito terrestre, 
+a experiência de sermos todos “irmãos e irmãs no Cosmos”. 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 3 ---
+
+ 
+Língua Portuguesa 
+Questão 02 
+Como eu, você e todos nós estamos nos transformando em uma nuvem de dados - e isto não é nada bom 
+ 
+Marcelo Soares 
+ 
+Oito em cada dez usuários de internet no Brasil usam as redes sociais com frequência, de acordo com dados de 2024 
+do Núcleo de Informação e Coordenação do Ponto Br (NIC.Br). Silenciosamente, enquanto você navega, as redes sociais 
+coletam muito mais informação do que aquilo que fornecemos conscientemente. 
+Cookies são pequenos arquivos que os sites despejam no seu navegador quando você visita uma página. A finalidade 
+é identificá-lo na próxima visita, e com isso eles viram uma espécie de diário de bordo de tudo o que você fez no site. 
+Eles podem ser do próprio site acessado: ao retornar a um site de notícias, os links em que você já clicou aparecem 
+roxos em vez de azuis. Mas no lucrativo negócio dos cookies de terceiros, os cookies despejados no seu computador pelo site 
+que você visita podem vir de redes de anúncios presentes também em outros sites. A relação dessas redes não é diretamente 
+com você, mas com os sites que acessa. É por isso que tantos sites usam pop-ups pedindo sua autorização para cookies: se 
+não usam cookies de terceiros, não é preciso pedir licença. 
+Essas empresas coletam dados da sua navegação para refinar um perfil comercializável seu. Num nível mais alto, esses 
+dados são vendidos e cruzados com bases externas, tipo dados vazados do Serasa, histórico comercial e até dados de saúde. É 
+assim que surgem os corretores de dados (data brokers). Eles não têm relação com o seu uso da internet e nem com os sites por 
+onde você passa. São empresas que compilam tudo isso para vender perfis completos, muitas vezes contendo nome, CPF, 
+telefone ou nomes de parentes. Esse mercado alimenta desde a publicidade legítima até golpes e fraudes. Pessoas que aplicam 
+golpes no WhatsApp, por exemplo, muitas vezes compraram o perfil da vítima, com foto e tudo, num site que fornece isso. 
+Quem está nesses bancos de dados nem faz ideia de que está sendo comercializado como produto. Parte das pessoas 
+que faz ideia disso acaba embarcando na ideia falaciosa de que “todos os nossos dados já são públicos”. É uma falácia: 
+nesses casos mais graves, eles foram roubados ou obtidos mediante falsas premissas. 
+Disponível em https://theconversation.com/. Adaptado. 
+ 
+a) O texto do jornalista e professor Marcelo Soares é um artigo de divulgação científica. Textos de divulgação científica 
+recontextualizam e didatizam conceitos, procedimentos e dados técnicos e científicos para leitores que, em geral, não são 
+especialistas em uma dada área do conhecimento. Discuta duas estratégias utilizadas pelo professor para tornar o texto 
+mais acessível, exemplificando cada uma delas com um excerto pertinente. 
+b) De acordo com o artigo, por que é possível afirmar que estamos sendo comercializados como produtos na internet? 
+ 
+ 
+Resolução 
+a) O divulgador utiliza no texto diversos recursos de recontextualização e didatização. Dentre eles, podem ser destacados: 1) a 
+analogia, aproximando a realidade mais concreta dos leitores ao discurso científico, como ocorre em “A finalidade é identificá-
+lo na próxima visita, e com isso eles viram uma espécie de diário de bordo de tudo o que você fez no site”; 2) o diálogo direto 
+com o leitor, em segunda pessoa, simulando uma conversação, diferentemente do tom geralmente impessoal de artigos 
+científicos, como em “Eles podem ser do próprio site acessado: ao retornar a um site de notícias, os links em que você já clicou 
+aparecem roxos em vez de azuis”; 3) uso de um registro de linguagem mais cotidiano, evitando termos muito especializados, 
+como em “Cookies são pequenos arquivos que os sites despejam no seu navegador quando você visita uma página” ou “Parte 
+das pessoas que faz ideia disso acaba embarcando na ideia falaciosa de que ‘todos os nossos dados já são públicos’”; 4) título 
+chamativo para captar a atenção do leitor, por envolvê-lo na questão em discussão – “Como eu, você e todos nós estamos nos 
+transformando em uma nuvem de dados - e isto não é nada bom”; dentre outras possibilidades. 
+ 
+b) Segundo o texto, nós estamos sendo comercializados como produtos na internet, pois, enquanto navegamos, nossos dados 
+estão sendo coletados por cookies¸ especialmente os de terceiros, e, posteriormente, cruzados com outras bases para a 
+construção de perfis de usuários. Tais perfis são, então, vendidos como produtos para publicidade legítima ou para golpistas, 
+que podem obtê-los por falsas premissas. 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+ 
+Língua Portuguesa 
+Questão 03 
+ꟷ Gostaria de entrar para um convento. Acho que seria feliz num convento, ficaria lá quietinha, olhando o mundo lá 
+longe, envelhecendo em paz, sem testemunhas, tenho pavor das testemunhas, descobri que o que mais me apavora, tanto na 
+vida como na morte, são as testemunhas. Sempre estou encontrando alguém que se lembra de mim nesta ou naquela data, as 
+testemunhas são tão atentas, uma memória! Por que as pessoas têm tanta memória? Eu estava num jantar tão alegrinha e veio 
+alguém que me olhou, olhou e começou com aquela conversa que me arrepia inteira, acho que você não está mais se 
+lembrando de mim… Oh Deus, quando ouço esse começo já fico gelada, começa assim, aposto que você não está se 
+lembrando! Faço aquela cara vaga, disfarço mas não adianta, a testemunha é um bico voraz me arrancando os fiapos de carne, 
+tuque-tuque, não vai deixar a presa, uma voracidade, não foi em? ... A data. 
+Lygia Fagundes Telles. As meninas. 
+ 
+Ouvi direito? O que estou relatando é o que ouvi? (…). A fala suspensa foge da escrita. E mais, a grafia não registra a 
+intensidade de um silêncio intervalar, diante de um renovado estado de estupor, vivido na hora das relembranças. Se contar e 
+recontar são atos marcados por sinais de incompletude, pois difícil é traduzir os intensos sentidos da memória, imaginem 
+escrever. Imaginem perseguir uma escrevivência. Agarrar a vida, a existência, e escrevê-la em seu estado de acontecimentos. 
+Mas persisto nessa intenção. (…) Não descanso, não durmo, não fecho os olhos, não me distraio. Vigio tanto que nem sei se 
+oro. Capto como testemunha ocular ou como ouvinte a dinâmica de vidas que se confundem com a minha, por algum motivo. 
+Conceição Evaristo. Canção para ninar menino grande. Introdução. “Das minúcias ao engrandecimento”. 
+ 
+Nos excertos apresentados, observe que a memória é uma estratégia narrativa, interferindo nas ações e emoções das 
+personagens que viveram e testemunharam o passado. Nesse contexto, 
+ 
+a) identifique como os romances recorrerem à memória como recurso narrativo, comparando-os. 
+b) aponte duas diferentes consequências dessa estratégia narrativa em ambos os romances. 
+ 
+ 
+Resolução 
+a) Ambos os romances recorrem à memória por meio do testemunho de suas personagens que vivem seus dramas pessoais. 
+Privilegiando personagens femininas, evidenciam esse ponto de vista para delimitarem formas de lembrar típicas de mulheres, 
+circunstanciadas às peculiaridades (classe social, raça, estado civil, idade, etc.). Os romances se aproximam ao reconhecerem 
+a memória como uma força ativa e inescapável na vida das narradoras. Em ambos os excertos, a memória não é uma simples 
+lembrança, mas um processo que molda a consciência do indivíduo e a sua relação com o mundo e com os outros. Ambos os 
+textos também destacam a figura da "testemunha" como elemento central na dinâmica da memória. 
+ 
+b) Os romances se afastam pela atitude oposta das narradoras em relação à memória. Em "As meninas," a memória é um 
+tormento, e a "testemunha" é uma figura que a narradora teme e da qual deseja se libertar. Em "Canção para ninar menino 
+grande," a memória é uma missão, e a narradora é a "testemunha" ativa que, por dever e vocação, busca captar a história de 
+outras vidas. Em As meninas, a memória está assentada na experiência geracional, durante a Ditadura Militar, de mulheres 
+oriundas de certa burguesia urbana, enquanto Canção… se assenta na experiência individual de mulheres de origens diversas, 
+especialmente das pequenas cidades do interior do Sudeste. A experiência geracional de As meninas, ao convocar a História, 
+define as escolhas individuais das personagens, enquanto Canção… aponta para a constituição, nas palavras da narradora, 
+de uma irmandade, constituída pela experiência comum do amor/desejo pelo mesmo homem. 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+ 
+Língua Portuguesa 
+Questão 04 
+Nenhuma flor lamentava a morte dos escravos que Celestino sufocara em mar alto. Os homens despejaram a cal no 
+porão, saco a saco. Os negros viram que um pó caía sobre eles, mas não entenderam o que se passava. Os sacos de cal 
+foram vazados no porão e a porta fechada por Celestino. Ouviram‑se gemidos, pedidos de socorro e, passado algum tempo, 
+um silêncio que apaziguou os piratas. O rapaz que lhes abrira o porão pela calada manteve‑se a um canto, aturdido. 
+Entreolhando‑se, buscaram na cara uns dos outros um sinal de que podiam voltar a falar. O capitão sorriu, como se estivesse 
+sozinho. Asfixiados, os sessenta e poucos negro

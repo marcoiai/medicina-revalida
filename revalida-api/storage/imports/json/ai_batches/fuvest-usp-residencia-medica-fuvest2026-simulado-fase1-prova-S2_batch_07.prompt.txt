@@ -1,0 +1,473 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/fuvest2026-simulado-fase1-prova-S2.pdf"
+  }
+]
+
+TEXTO-BASE:
+ diretamente¬ da¬
+atmosfera.¬
+(B) A¬transformação¬de¬NO3ꟷ¬em¬N2¬é¬uma¬reação¬de¬oxidação¬
+dependente¬do¬metabolismo¬da¬planta.¬
+(C) A¬transformação¬de¬N2¬em¬NH4+¬depende¬essencialmente¬da¬
+fixação¬por¬bactérias.¬
+(D) Todo¬o¬NH4+¬produzido¬no¬ciclo¬do¬nitrogênio¬tem¬origem¬na¬
+atividade¬de¬organismos¬produtores.¬
+(E) Os¬ compostos¬ orgânicos¬ nitrogenados¬ são¬ produzidos¬
+exclusivamente¬por¬animais.¬
+ 
+59 
+A¬floresta¬nativa¬de¬uma¬região¬foi¬gradualmente¬substituída¬
+por¬cultivo¬de¬soja.¬Decorridos¬40¬anos,¬todas¬as¬áreas¬antes¬
+cobertas¬por¬floresta¬estavam¬ocupadas¬pela¬soja.¬A¬pirâmide¬
+de¬ biomassa¬ a¬ seguir¬ representa¬ como¬ era¬ o¬ estado¬ inicial¬
+desse¬processo¬(floresta¬intacta):¬
+¬
+Qual¬ esquema¬ de¬ pirâmide¬ de¬ biomassa¬ representa¬ a¬
+situação¬ao¬final¬do¬processo¬(substituição¬total¬da¬floresta¬por¬
+soja),¬na¬época¬de¬pré-colheita?¬
+(A)¬
+ 
+(B)¬
+ 
+(C)¬
+ 
+(D)¬
+ 
+(E)¬
+ 
+¬
+60 
+A¬Floresta¬Atlântica¬possui¬uma¬grande¬quantidade¬de¬árvores¬
+frutíferas¬e¬algumas¬são¬importantes¬recursos¬alimentares¬para¬
+diversas¬espécies¬de¬aves.¬A¬teia¬trófica¬a¬seguir¬representa¬
+essa¬relação¬e¬inclui¬alguns¬predadores¬dessas¬aves.¬
+¬
+Duas¬espécies¬de¬aves¬que¬competem¬com¬o¬periquito-de-
+cabeça-preta¬por¬alimento¬são:¬
+¬
+(A) Sabiá¬e¬sanhaço.¬
+(B) Tucano¬e¬coruja.¬
+(C) Araçari¬e¬sanhaço.¬
+(D) Coruja¬e¬sabiá.¬
+(E) Tucano¬e¬araçari.¬
+ 
+
+
+--- PAGE 19 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S2 
+61 
+A¬conquista¬do¬ambiente¬terrestre¬pelos¬vertebrados¬envolveu¬
+várias¬adaptações¬estruturais,¬incluindo¬a¬presença¬do¬âmnio,¬
+que¬ é¬ um¬ anexo¬ embrionário¬ com¬ função¬ de¬ proteção¬ do¬
+embrião.¬ Os¬ vertebrados¬ que¬ apresentam¬ este¬ anexo¬
+embrionário¬são¬chamados¬de¬amniotas.¬
+¬
+¬
+¬
+As¬classes¬representadas¬por¬2,¬3¬e¬4¬podem¬ser¬corretamente¬
+substituídas¬por:¬
+¬
+(A) Anfíbios,¬Répteis¬e¬Aves.¬
+(B) Répteis,¬Aves¬e¬Mamíferos.¬
+(C) Peixes,¬Anfíbios¬e¬Répteis.¬
+(D) Anfíbios,¬Répteis¬e¬Mamíferos.¬
+(E) Peixes,¬Anfíbios¬e¬Mamíferos.¬
+ 
+¬
+62 
+A¬Cúpula¬da¬Amazônia,¬realizada¬em¬2023,¬na¬cidade¬de¬
+Belém,¬foi¬marcada¬não¬apenas¬pelas¬prováveis¬convergências¬
+sobre¬a¬necessidade¬de¬preservação¬da¬Amazônia,¬mas¬por¬
+divergências¬e¬uma¬contradição:¬o¬que¬fazer¬com¬as¬enormes¬
+reservas¬de¬petróleo¬já¬descobertas¬nos¬países¬da¬região?¬
+De¬ um¬ lado,¬ há¬ um¬ grupo¬ formado¬ por¬ países¬ como¬
+Venezuela¬e¬Brasil¬e¬os¬recém-chegados¬Suriname¬e¬Guiana,¬
+que¬ têm¬ significativas¬ reservas¬ de¬ petróleo¬ e¬ que¬ não¬ dão¬
+demonstrações¬ de¬ que¬ pretendem¬ deixar¬ de¬ explorar¬ os¬
+recursos¬no¬curto¬e¬no¬médio¬prazo.¬
+Do¬ outro¬ lado,¬ está¬ a¬ voz¬ dissonante¬ da¬ Colômbia,¬ que¬
+anunciou¬o¬fim¬da¬liberação¬de¬novas¬licenças¬para¬explorar¬
+petróleo¬no¬início¬deste¬ano¬como¬uma¬forma¬de¬mover¬sua¬
+economia¬ na¬ direção¬ da¬ chamada¬ transição¬ energética¬ -¬ a¬
+passagem¬ de¬ uma¬ matriz¬ energética¬ focada¬ na¬ queima¬ de¬
+combustíveis¬fósseis¬para¬uma¬baseada¬em¬fontes¬renováveis.¬
+Leandro¬Prazeres,¬BBC¬News¬Brasil,¬4¬de¬agosto¬de¬2023.¬Adaptado.¬
+¬
+A¬partir¬da¬leitura¬do¬texto¬e¬de¬seus¬conhecimentos,¬é¬correto¬
+afirmar:¬
+¬
+(A) Mesmo¬com¬o¬alto¬grau¬de¬fragilidade¬da¬região¬amazônica¬
+e¬a¬intensificação¬da¬exploração¬de¬petróleo,¬os¬impactos¬
+socioambientais¬na¬floresta¬serão¬reversíveis,¬uma¬vez¬que¬
+os¬ países¬ citados¬ serão¬ recompensados¬ financeiramente¬
+para¬investir¬na¬conservação¬dos¬recursos¬naturais.¬¬
+(B) A¬necessidade¬de¬preservar¬a¬Floresta¬Amazônica¬não¬se¬
+justifica,¬pois¬a¬principal¬fonte¬de¬emissões¬de¬gases¬do¬
+efeito¬ estufa¬ do¬ Brasil,¬ país¬ detentor¬ da¬ maior¬ parte¬ da¬
+floresta,¬vem¬da¬queima¬de¬combustíveis¬fósseis,¬e¬não¬do¬
+desmatamento.¬
+(C) Do¬ponto¬de¬vista¬econômico,¬é¬necessário¬preservar¬as¬
+reservas¬florestais¬da¬Amazônia¬e¬seus¬ecossistemas¬para¬
+que¬ seja¬ viável¬ continuar¬ explorando¬ reservas¬ de¬
+combustíveis¬ fósseis¬ pelo¬ mundo,¬ mas¬ em¬ lugares¬ com¬
+menor¬biodiversidade.¬
+(D) Apesar¬ de¬ Suriname¬ e¬ Guiana¬ estarem¬ entre¬ as¬ novas¬
+fronteiras¬ locais¬ do¬ petróleo,¬ depois¬ de¬ terem¬ descoberto¬
+novas¬reservas¬nas¬águas¬de¬petróleo,¬esses¬países¬não¬têm¬
+interesse¬ em¬ alterar¬ os¬ ecossistemas¬ locais¬ e,¬ por¬ isso,¬
+defendem¬uma¬matriz¬energética¬mais¬sustentável.¬
+(E) Os¬líderes¬dos¬países¬da¬região¬amazônica¬travam¬embates¬
+sobre¬a¬exploração¬do¬petróleo¬na¬região;¬por¬um¬lado,¬há¬
+países¬que¬apoiam¬a¬exploração,¬de¬olho¬nos¬dividendos,¬
+por¬ outro,¬ há¬ países¬ que¬ defendem¬ frear¬ a¬ extração¬ de¬
+combustíveis¬fosseis¬para¬alterar¬a¬matriz¬energética. 
+ 
+¬
+63 
+No¬início¬do¬século¬XX,¬motores¬conhecidos¬como¬“hot-bulb”¬
+tornaram-se¬muito¬populares,¬sendo¬utilizados¬em¬tratores¬e¬
+outros¬maquinários.¬Diferentemente¬dos¬motores¬a¬diesel,¬em¬
+que¬a¬compressão¬do¬combustível¬causa¬sua¬ignição,¬esses¬
+motores¬ funcionam¬ por¬ meio¬ de¬ uma¬ superfície¬ metálica¬
+aquecida¬a¬alta¬temperatura,¬que¬é¬responsável¬por¬vaporizar¬
+e¬permitir¬a¬detonação¬do¬combustível.¬Para¬ligar¬esse¬motor,¬
+portanto,¬ é¬ necessário¬ usar¬ uma¬ chama¬ externa,¬ como¬
+ilustrado¬ na¬ figura,¬ até¬ que¬ tal¬ superfície¬ esteja¬ quente¬ o¬
+suficiente¬para¬que¬o¬motor¬entre¬em¬operação,¬momento¬no¬
+qual¬a¬chama¬externa¬deve¬ser¬apagada.¬
+¬
+¬
+¬
+Nesses¬motores,¬uma¬das¬funções¬da¬chama¬externa¬é¬
+¬
+(A) fornecer¬ a¬ energia¬ de¬ ativação¬ necessária¬ para¬ que¬ a¬
+combustão¬se¬inicie¬e¬o¬motor¬entre¬em¬funcionamento.¬
+(B) atuar¬como¬comburente¬para¬o¬funcionamento¬do¬motor,¬
+permitindo¬que¬a¬combustão¬aconteça.¬
+(C) evitar¬ o¬ vazamento¬ de¬ combustível,¬ fazendo¬ com¬ que¬
+qualquer¬quantidade¬que¬possa¬entre¬em¬combustão.¬
+(D) fornecer¬ calor¬ ao¬ motor¬ para¬ manter¬ a¬ lubrificação¬
+constante¬e¬o¬motor¬em¬funcionamento.¬
+(E) fornecer¬calor¬para¬aquecer¬o¬comburente,¬de¬forma¬que¬
+o¬processo¬de¬combustão¬não¬cesse.¬
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 20 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S2 
+64 
+Um¬caminhão¬de¬2¬toneladas¬carrega¬uma¬caixa¬de¬100¬kg¬e¬
+trafega¬ em¬ linha¬ reta¬ a¬ uma¬ velocidade¬ de¬ 36¬ km/h.¬ O¬
+coeficiente¬de¬atrito¬estático¬entre¬a¬superfície¬da¬caixa¬e¬a¬
+superfície¬da¬carroceria¬é¬de¬0,5¬e¬não¬há¬ganchos¬ou¬amarras¬
+prendendo¬a¬caixa¬ao¬caminhão.¬Sabendo¬disso¬e¬ao¬notar¬um¬
+sinal¬ vermelho¬ à¬ frente,¬ o¬ motorista¬ freia¬ suavemente¬ o¬
+caminhão¬para¬que¬a¬caixa¬não¬deslize.¬
+¬
+¬
+¬
+¬
+Para¬que¬a¬caixa¬permaneça¬sem¬deslizar,¬a¬distância¬mínima¬
+que¬ o¬ caminhão¬ percorre¬ entre¬ o¬ instante¬ de¬ início¬ da¬
+frenagem¬e¬a¬parada¬total¬do¬veículo¬é¬de¬
+¬
+(A) 1¬m.¬
+(B) 5¬m.¬
+(C) 10¬m.¬
+(D) 50¬m.¬
+(E) 100¬m.¬
+¬
+Note¬e¬adote:¬¬
+Considere¬que¬a¬força¬exercida¬pelos¬freios¬do¬caminhão¬seja¬feita¬
+de¬modo¬que¬a¬aceleração¬do¬caminhão¬seja¬constante¬durante¬a¬
+frenagem.¬
+Despreze¬ eventuais¬ inclinações¬ da¬ carroceria¬ do¬ caminhão¬
+durante¬a¬frenagem.¬
+Aceleração¬da¬gravidade:¬g¬=¬10¬m/s2.¬
+ 
+¬
+65 
+Compostos¬sintéticos¬polifluorados¬(PFAs)¬são¬denominados¬
+“produtos¬ químicos¬ persistentes”.¬ Os¬ PFAs¬ são¬ compostos¬
+altamente¬estáveis,¬bioacumulativos¬e,¬uma¬vez¬dispersos¬no¬
+ambiente,¬permanecerão¬inalterados¬por¬séculos.¬Dentre¬os¬
+PFAs,¬ encontram-se¬ os¬ PFAs¬ carboxílicos¬ e¬ os¬ PFAs¬
+sulfônicos.¬
+Visando¬avaliar¬a¬capacidade¬de¬um¬filtro¬de¬carvão¬ativado¬
+na¬ remoção¬ desses¬ compostos¬ da¬ água,¬ foi¬ realizado¬ um¬
+estudo¬cujos¬resultados¬são¬apresentados¬na¬figura.¬
+¬
+¬
+¬
+Com¬base¬nos¬resultados¬desse¬estudo,¬é¬correto¬concluir¬que¬
+¬
+(A) o¬filtro¬de¬carvão¬ativado,¬além¬de¬não¬ter¬sido¬capaz¬de¬
+remover¬ os¬ PFAs,¬ contribuiu¬ para¬ que¬ as¬ suas¬
+concentrações¬na¬água¬aumentassem.¬
+(B) quanto¬maior¬o¬tamanho¬da¬cadeia¬carbônica¬do¬PFA,¬maior¬
+é¬a¬sua¬solubilidade¬em¬água¬em¬razão¬da¬presença¬do¬flúor.¬
+(C) os¬PFAs¬sulfônicos¬são¬mais¬solúveis¬em¬água¬do¬que¬PFAs¬
+carboxílicos¬com¬mesmo¬tamanho¬de¬cadeia¬carbônica¬e,¬
+portanto,¬são¬menos¬retidos¬pelo¬carvão¬ativado.¬
+(D) uma¬vez¬que¬o¬carvão¬ativado¬é¬polar,¬a¬sua¬capacidade¬
+de¬reter¬PFAs¬independe¬do¬tamanho¬da¬cadeia¬carbônica¬
+desses¬compostos.¬
+(E) o¬carvão¬ativado¬retém¬melhor¬os¬PFAs¬menos¬polares¬e,¬
+portanto,¬menos¬solúveis¬em¬água.¬
+ 
+¬
+66 
+¬
+O¬ bioma¬ indicado¬ em¬ cinza¬ no¬ mapa¬ encontra-se¬ sob¬ um¬
+clima¬ tropical¬ estacional,¬ com¬ inverno¬ seco¬ e¬ ausência¬ de¬
+chuva¬ por¬ alguns¬ meses.¬ Suas¬ árvores¬ e¬ arbustos¬ típicos¬
+possuem¬adaptações¬para¬lidar¬com¬esse¬período¬seco,¬como¬
+raízes¬¬¬¬I¬¬¬,¬que¬buscam¬o¬solo¬mais¬úmido.¬Para¬evitar¬perder¬
+água,¬as¬folhas¬geralmente¬são_II¬¬.¬Nas¬horas¬mais¬quentes¬
+do¬dia,¬especialmente¬na¬estação¬seca¬do¬ano,¬essas¬árvores¬
+tendem¬a¬¬¬III¬¬¬¬seus¬estômatos,¬a¬fim¬de¬¬¬IV_¬¬¬a¬transpiração,¬
+a¬qual¬ocorre¬principalmente¬na¬fase¬clara¬da¬fotossíntese.¬
+As¬lacunas¬de¬I¬a¬IV¬são¬corretamente¬preenchidas¬por:¬
+¬
+¬
+I¬
+II¬
+III¬
+IV¬
+(A)¬
+adventícias¬
+pilosas¬e¬sem¬
+cutícula¬
+abrir¬
+cessar¬
+(B)¬
+profundas¬
+pilosas¬ou¬com¬
+cutícula¬espessa¬
+fechar¬
+reduzir¬
+(C)¬ respiratórias¬ sem¬pelos¬e¬com¬
+cutícula¬espessa¬
+perder¬
+aumentar¬
+(D)¬
+retorcidas¬
+sem¬pelos¬ou¬sem¬
+cutícula¬
+abrir¬
+reduzir¬
+(E)¬
+superficiais¬ compostas¬e¬sem¬
+pelos¬
+fechar¬
+aumentar¬
+ 
+¬
+
+
+--- PAGE 21 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S2 
+67 
+É¬possível¬determinar¬a¬concentração¬de¬alguns¬compostos¬
+em¬solução¬pela¬quantidade¬de¬luz¬que¬eles¬absorvem,¬por¬
+meio¬ da¬ propriedade¬ que¬ recebe¬ o¬ nome¬ de¬ absorbância.¬
+Quanto¬ mais¬ concentrada¬ a¬ solução,¬ maior¬ é¬ a¬ sua¬
+absorbância.¬
+Para¬mensurar¬a¬concentração¬de¬um¬determinado¬composto,¬
+são¬preparadas¬soluções¬com¬concentrações¬conhecidas¬da¬
+espécie¬ de¬ interesse¬ e¬ medidas¬ as¬ absorbâncias¬ dessas¬
+soluções,¬ a¬ partir¬ das¬ quais¬ se¬ constrói¬ uma¬ curva¬ de¬
+calibração,¬como¬no¬exemplo¬da¬clorofila,¬mostrada¬no¬gráfico¬
+a¬seguir.¬
+¬
+¬
+Mede-se¬então¬a¬absorbância¬da¬amostra¬cuja¬concentração¬
+se¬ deseja¬ determinar¬ e¬ seu¬ cálculo¬ é¬ feito¬ por¬ meio¬ da¬
+equação¬da¬reta¬de¬regressão¬linear¬dos¬pontos¬da¬curva¬de¬
+calibração.¬
+A¬ análise¬ de¬ uma¬ solução¬ contendo¬ clorofila¬ resultou¬ em¬
+absorbância¬de¬2,23.¬Qual¬a¬concentração¬de¬clorofila¬nessa¬
+solução¬com¬base¬na¬curva¬de¬calibração?¬
+¬
+(A) 1,04¬mg/mL¬
+(B) 2,20¬mg/mL¬
+(C) 4,44¬mg/mL¬
+(D) 8,80¬mg/mL¬
+(E) 9,04¬mg/mL¬
+ 
+¬
+68 
+Se¬ 𝑓: ℝ⟶ℝ¬ for¬ a¬ função¬ dada¬ por¬ 𝑓ሺ𝑥ሻ= 𝑥(𝑥+ |𝑥|),¬ para¬
+todo¬ 𝑥∈ ℝ,¬ então¬ sua¬ representação¬ gráfica¬ no¬ intervalo¬
+[−1,1]¬será:¬
+¬
+(A)¬
+¬
+ 
+(B)¬
+¬
+ 
+(C)¬
+¬
+ 
+(D)¬
+¬
+ 
+(E)¬
+¬
+ 
+ 
+
+
+--- PAGE 22 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S2 
+69 
+Uma¬aluna¬utilizou¬dados¬da¬energia¬cinética¬de¬um¬drone¬em¬
+função¬de¬sua¬velocidade¬para¬produzir¬o¬gráfico¬a¬seguir.¬
+¬
+A¬partir¬dos¬dados¬fornecidos,¬a¬melhor¬estimativa¬da¬massa¬
+do¬drone¬é¬
+¬
+(A) 1¬kg.¬
+(B) 3¬kg.¬
+(C) 9¬kg.¬
+(D) 15¬kg.¬
+(E) 25¬kg.¬
+ 
+¬
+70 
+Em¬pistas¬de¬dança,¬há¬dispositivos¬que¬convertem¬energia¬
+do¬ movimento¬ dos¬ frequentadores¬ em¬ energia¬ elétrica.¬ No¬
+arranjo¬ experimental¬ da¬ figura,¬ um¬ ímã,¬ preso¬ a¬ uma¬ mola¬
+ideal,¬ pode¬ oscilar¬ verticalmente,¬ com¬ resistência¬ do¬ ar¬
+desprezível,¬ao¬longo¬de¬uma¬linha¬imaginária¬que¬passa¬pelo¬
+centro¬de¬uma¬espira¬metálica¬conectada¬a¬uma¬lâmpada¬de¬
+filamento.¬Em¬certo¬instante¬ inicial,¬uma¬estudante¬transfere¬
+energia¬ para¬ o¬ sistema¬ ímã-mola,¬ deformando¬ a¬ mola¬ e¬
+abandonando¬o¬ímã¬a¬partir¬do¬repouso,¬fazendo-o¬oscilar.¬Ela¬
+registra¬ que,¬ após¬ algum¬ tempo,¬ não¬ se¬ observam¬ mais¬
+oscilações¬do¬ímã.¬
+¬
+¬
+A¬respeito¬dessa¬situação,¬considere¬seguintes¬afirmações:¬
+I. A¬corrente¬elétrica¬induzida¬no¬anel¬pelo¬movimento¬do¬ímã¬
+tem¬ intensidade¬ variável¬ e¬ percorre¬ o¬ anel¬ sempre¬ no¬
+mesmo¬sentido.¬
+II. Uma¬vez¬iniciadas¬as¬oscilações,¬a¬intensidade¬com¬que¬a¬
+lâmpada¬brilha¬atinge¬um¬máximo¬e,¬em¬seguida,¬diminui¬
+um¬pouco,¬permanecendo¬constante¬a¬partir¬de¬então.¬¬
+III. Se¬a¬estudante¬reiniciar¬o¬experimento,¬agora¬duplicando¬a¬
+deformação¬inicial¬da¬mola,¬a¬energia¬total¬irradiada¬pela¬
+lâmpada¬quadruplicará.¬
+É¬correto¬apenas¬o¬que¬se¬afirma¬em:¬
+¬
+(A) I.¬
+(B) II.¬
+(C) III.¬
+(D) I¬e¬II.¬
+(E) II¬e¬III.¬
+ 
+71 
+¬
+Henfil.¬O¬Pasquim,¬edição¬716¬(17¬a¬23/03/1983),¬Rio¬de¬Janei

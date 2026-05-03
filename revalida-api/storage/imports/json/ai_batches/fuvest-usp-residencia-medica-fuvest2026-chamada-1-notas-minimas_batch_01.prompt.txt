@@ -1,0 +1,1081 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/fuvest2026-chamada-1-notas-minimas.pdf"
+  }
+]
+
+TEXTO-BASE:
+
+
+--- PAGE 1 ---
+
+FUVEST 2026
+Pontos Finais e Classificações Mínimas na Carreira
+Chamados para Matrícula na 1ª chamada
+1
+Carreira 101 - Biotecnologia
+Curso 1 - Biotecnologia
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+663,61
+26
+EP
+476,20
+101
+PPI
+338,84
+142
+Carreira 102 - Ciências Biológicas
+Curso 2 - Ciências Biológicas
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+654,72
+74
+EP
+561,20
+203
+PPI
+432,13
+396
+Curso 3 - Ciências Biológicas
+Instituto de Biociências - USP
+modalidade
+pontos finais
+classificação
+AC
+714,17
+33
+EP
+571,67
+183
+PPI
+457,69
+359
+Curso 4 - Ciências Biológicas
+Instituto de Biociências - USP
+modalidade
+pontos finais
+classificação
+AC
+650,51
+78
+EP
+547,87
+227
+PPI
+437,50
+387
+Curso 5 - Ciências Biológicas
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+modalidade
+pontos finais
+classificação
+AC
+642,50
+85
+EP
+549,21
+224
+PPI
+419,77
+408
+Carreira 103 - Ciências Biomédicas
+Curso 6 - Ciências Biomédicas
+Faculdade de Medicina de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+714,40
+29
+EP
+546,94
+118
+PPI
+493,61
+139
+Curso 7 - Ciências Biomédicas
+Instituto de Ciências Biomédicas - USP
+modalidade
+pontos finais
+classificação
+AC
+723,98
+25
+EP
+595,32
+97
+PPI
+519,58
+126
+Carreira 104 - Ciências dos Alimentos
+Curso 8 - Ciências dos Alimentos
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+modalidade
+pontos finais
+classificação
+AC
+562,64
+18
+EP
+418,06
+70
+PPI
+287,59
+88
+Carreira 105 - Educação Física
+Curso 9 - Educação Física
+Escola de Educação Física e Esporte de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+520,42
+93
+EP
+456,48
+185
+PPI
+370,97
+346
+Curso 10 - Educação Física
+Escola de Educação Física e Esporte - USP
+modalidade
+pontos finais
+classificação
+AC
+560,00
+54
+EP
+463,06
+176
+PPI
+378,43
+335
+Curso 11 - Educação Física e Saúde
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+510,74
+105
+EP
+439,63
+221
+PPI
+362,78
+359
+Carreira 106 - Enfermagem
+Curso 12 - Enfermagem
+Escola de Enfermagem de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+573,94
+77
+EP
+473,80
+242
+PPI
+398,06
+368
+Curso 13 - Enfermagem
+Escola de Enfermagem de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+558,89
+99
+EP
+468,75
+253
+PPI
+388,70
+385
+Curso 14 - Enfermagem
+Escola de Enfermagem - USP
+modalidade
+pontos finais
+classificação
+AC
+590,56
+56
+EP
+493,10
+206
+PPI
+427,18
+327
+
+
+--- PAGE 2 ---
+
+FUVEST 2026
+Pontos Finais e Classificações Mínimas na Carreira
+Chamados para Matrícula na 1ª chamada
+2
+Carreira 107 - Farmácia
+Curso 15 - Farmácia
+Faculdade de Ciências Farmacêuticas - Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+651,02
+106
+EP
+514,40
+342
+PPI
+403,15
+511
+Curso 16 - Farmácia
+Faculdade de Ciências Farmacêuticas - USP
+modalidade
+pontos finais
+classificação
+AC
+686,11
+60
+EP
+550,19
+275
+PPI
+422,50
+478
+Curso 17 - Farmácia
+Faculdade de Ciências Farmacêuticas - USP
+modalidade
+pontos finais
+classificação
+AC
+660,09
+89
+EP
+532,13
+310
+PPI
+425,88
+474
+Carreira 108 - Fisioterapia
+Curso 18 - Fisioterapia
+Faculdade de Medicina de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+657,96
+29
+EP
+531,67
+112
+PPI
+472,59
+141
+Curso 19 - Fisioterapia
+Faculdade de Medicina - USP
+modalidade
+pontos finais
+classificação
+AC
+671,20
+21
+EP
+520,56
+119
+PPI
+443,19
+156
+Carreira 109 - Fonoaudiologia
+Curso 20 - Fonoaudiologia
+Faculdade de Odontologia de Bauru - USP
+modalidade
+pontos finais
+classificação
+AC
+578,29
+35
+EP
+518,89
+76
+PPI
+455,65
+160
+Curso 21 - Fonoaudiologia
+Faculdade de Medicina de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+561,57
+48
+EP
+493,15
+102
+PPI
+447,64
+173
+Curso 22 - Fonoaudiologia
+Faculdade de Medicina - USP
+modalidade
+pontos finais
+classificação
+AC
+596,11
+27
+EP
+550,46
+52
+PPI
+485,65
+114
+Carreira 110 - Gerontologia
+Curso 23 - Gerontologia
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+266,06
+45
+EP
+268,19
+44
+PPI
+272,08
+43
+Carreira 111 - Medicina
+Curso 24 - Medicina
+Faculdade de Medicina de Bauru - USP
+modalidade
+pontos finais
+classificação
+AC
+838,19
+147
+EP
+783,06
+530
+PPI
+663,98
+904
+Curso 25 - Medicina
+Faculdade de Medicina de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+841,39
+128
+EP
+783,43
+525
+PPI
+670,51
+888
+Curso 26 - Medicina
+Faculdade de Medicina - USP
+modalidade
+pontos finais
+classificação
+AC
+850,65
+97
+EP
+791,67
+472
+PPI
+682,50
+875
+Carreira 112 - Medicina Veterinária
+Curso 27 - Medicina Veterinária
+Faculdade de Zootecnia e Engenharia de Alimentos - Pirassununga - USP
+modalidade
+pontos finais
+classificação
+AC
+647,22
+61
+EP
+516,99
+226
+PPI
+419,49
+336
+Curso 28 - Medicina Veterinária
+Faculdade de Medicina Veterinária e Zootecnia - USP
+modalidade
+pontos finais
+classificação
+AC
+674,12
+44
+EP
+525,69
+216
+PPI
+422,50
+333
+
+
+--- PAGE 3 ---
+
+FUVEST 2026
+Pontos Finais e Classificações Mínimas na Carreira
+Chamados para Matrícula na 1ª chamada
+3
+Carreira 113 - Nutrição
+Curso 29 - Nutrição
+Faculdade de Saúde Pública - USP
+modalidade
+pontos finais
+classificação
+AC
+643,52
+30
+EP
+528,70
+146
+PPI
+499,91
+186
+Curso 30 - Nutrição
+Faculdade de Saúde Pública - USP
+modalidade
+pontos finais
+classificação
+AC
+619,72
+50
+EP
+532,73
+137
+PPI
+469,72
+218
+Curso 31 - Nutrição e Metabolismo
+Faculdade de Medicina de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+635,42
+38
+EP
+531,53
+141
+PPI
+458,89
+229
+Carreira 114 - Obstetrícia
+Curso 32 - Obstetrícia
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+494,26
+26
+EP
+396,53
+64
+PPI
+327,22
+92
+Carreira 115 - Odontologia
+Curso 33 - Odontologia
+Faculdade de Odontologia de Bauru - USP
+modalidade
+pontos finais
+classificação
+AC
+646,94
+99
+EP
+509,07
+365
+PPI
+363,01
+600
+Curso 34 - Odontologia
+Faculdade de Odontologia de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+645,46
+102
+EP
+493,06
+398
+PPI
+344,68
+620
+Curso 35 - Odontologia
+Faculdade de Odontologia - USP
+modalidade
+pontos finais
+classificação
+AC
+671,48
+71
+EP
+516,67
+349
+PPI
+369,86
+584
+Curso 36 - Odontologia
+Faculdade de Odontologia - USP
+modalidade
+pontos finais
+classificação
+AC
+638,06
+115
+EP
+502,92
+374
+PPI
+379,91
+572
+Carreira 116 - Psicologia
+Curso 37 - Psicologia
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+723,10
+18
+EP
+622,69
+71
+PPI
+554,07
+97
+Carreira 117 - Psicologia
+Curso 38 - Psicologia
+Instituto de Psicologia - USP
+modalidade
+pontos finais
+classificação
+AC
+740,14
+31
+EP
+614,31
+135
+PPI
+539,17
+169
+Carreira 118 - Saúde Pública
+Curso 39 - Saúde Pública
+Faculdade de Saúde Pública - USP
+modalidade
+pontos finais
+classificação
+AC
+596,67
+18
+EP
+376,62
+75
+PPI
+268,56
+84
+Carreira 119 - Terapia Ocupacional
+Curso 40 - Terapia Ocupacional
+Faculdade de Medicina de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+599,03
+22
+EP
+554,44
+50
+PPI
+478,15
+98
+Curso 41 - Terapia Ocupacional
+Faculdade de Medicina - USP
+modalidade
+pontos finais
+classificação
+AC
+624,17
+13
+EP
+571,44
+40
+PPI
+495,19
+86
+Carreira 120 - Zootecnia
+Curso 42 - Zootecnia
+Faculdade de Zootecnia e Engenharia de Alimentos - Pirassununga - USP
+modalidade
+pontos finais
+classificação
+AC
+484,86
+17
+EP
+423,47
+41
+PPI
+276,16
+74
+
+
+--- PAGE 4 ---
+
+FUVEST 2026
+Pontos Finais e Classificações Mínimas na Carreira
+Chamados para Matrícula na 1ª chamada
+4
+Carreira 199 - Treinamento Biológicas
+Curso 99 - Ciências Biológicas
+Fundação Universitária Para o Vestibular
+modalidade
+pontos finais
+classificação
+AC
+635,56
+99
+EP
+418,47
+394
+PPI
+220,28
+630
+Carreira 201 - Engenharia Agronômica; Engenharia Bioquímica;  Engenharia Florestal
+Curso 1 - Engenharia Agronômica
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+modalidade
+pontos finais
+classificação
+AC
+596,20
+103
+EP
+446,11
+377
+PPI
+262,22
+643
+Curso 2 - Engenharia Bioquímica
+Escola de Engenharia de Lorena - USP
+modalidade
+pontos finais
+classificação
+AC
+578,61
+128
+EP
+428,70
+408
+PPI
+231,99
+668
+Curso 3 - Engenharia Florestal
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+modalidade
+pontos finais
+classificação
+AC
+576,48
+129
+EP
+428,80
+406
+PPI
+233,06
+665
+Carreira 301 - Ciências da Natureza
+Curso 1 - Ciências da Natureza
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+488,33
+28
+EP
+262,22
+108
+PPI
+308,19
+102
+Carreira 302 - Ciências Exatas
+Curso 2 - Ciências Exatas com Habilitação em Física ou Habilitação em Química ou 
+Habilitação em Matemática
+Instituto de Física de São Carlos - USP
+modalidade
+pontos finais
+classificação
+AC
+460,65
+30
+EP
+242,50
+67
+PPI
+244,58
+66
+Carreira 303 - Computação
+Curso 3 - Ciência da Computação
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+773,75
+90
+EP
+681,85
+344
+PPI
+510,74
+781
+Curso 4 - Ciência da Computação
+Instituto de Matemática e Estatística - USP
+modalidade
+pontos finais
+classificação
+AC
+808,24
+34
+EP
+731,67
+191
+PPI
+628,56
+492
+Curso 5 - Ciência de Dados
+Instituto de Ciências Matemáticas e de Computação - São Carlos - USP
+modalidade
+pontos finais
+classificação
+AC
+770,00
+99
+EP
+664,03
+391
+PPI
+521,81
+756
+Curso 6 - Ciências de Computação
+Instituto de Ciências Matemáticas e de Computação - São Carlos - USP
+modalidade
+pontos finais
+classificação
+AC
+781,34
+74
+EP
+693,89
+310
+PPI
+530,05
+730
+Curso 7 - Sistemas de Informação
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+734,12
+184
+EP
+652,59
+425
+PPI
+525,46
+744
+Curso 8 - Sistemas de Informação
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+693,89
+309
+EP
+613,94
+537
+PPI
+514,63
+773
+Carreira 304 - Engenharia Aeronáutica
+Curso 9 - Engenharia Aeronáutica
+Escola de Engenharia de São Carlos - USP
+modalidade
+pontos finais
+classificação
+AC
+811,02
+18
+EP
+760,00
+52
+PPI
+532,96
+94
+
+
+--- PAGE 5 ---
+
+FUVEST 2026
+Pontos Finais e Classificações Mínimas na Carreira
+Chamados para Matrícula na 1ª chamada
+5
+Carreira 305 - Engenharia Ambiental
+Curso 10 - Engenharia Ambiental
+Escola de Engenharia de Lorena - USP
+modalidade
+pontos finais
+classificação
+AC
+543,89
+67
+EP
+403,43
+171
+PPI
+276,44
+245
+Curso 11 - Engenharia Ambiental
+Escola de Engenharia de São Carlos - USP
+modalidade
+pontos finais
+classificação
+AC
+580,14
+50
+EP
+444,07
+142
+PPI
+296,11
+240
+Curso 12 - Engenharia Ambiental
+Escola Politécnica - USP
+modalidade
+pontos finais
+classificação
+AC
+640,46
+29
+EP
+478,06
+122
+PPI
+330,28
+218
+Carreira 306 - Engenharia Civil
+Curso 13 - Engenharia Civil
+Escola de Engenharia de São Carlos - USP
+modalidade
+pontos finais
+classificação
+AC
+691,76
+26
+EP
+489,17
+106
+PPI
+385,14
+133
+Carreira 307 - Engenharia de Materiais
+Curso 14 - Engenharia Metalúrgica, ou Engenharia de Materiais ou Engenharia Nuclear
+Escola Politécnica - USP
+modalidade
+pontos finais
+classificação
+AC
+708,70
+29
+EP
+427,87
+240
+PPI
+306,67
+281
+Curso 15 - Engenharia de Materiais
+Escola de Engenharia de Lorena - USP
+modalidade
+pontos finais
+classificação
+AC
+635,37
+68
+EP
+343,80
+272
+PPI
+252,96
+290
+Curso 16 - Engenharia de Materiais e Manufatura
+Escola de Engenharia de São Carlos - USP
+modalidade
+pontos finais
+classificação
+AC
+645,60
+56
+EP
+370,23
+267
+PPI
+304,31
+283
+Carreira 308 - Engenharia Elétrica e de Computação
+Curso 17 - Engenharia de Computação
+Escola de Engenharia de São Carlos - USP
+modalidade
+pontos finais
+classificação
+AC
+790,79
+35
+EP
+682,27
+193
+PPI
+558,29
+305
+Curso 18 - Engenharia Elétrica: Ênfase em Eletrônica
+Escola de Engenharia de São Carlos - USP
+modalidade
+pontos finais
+classificação
+AC
+773,33
+56
+EP
+638,06
+232
+PPI
+492,18
+334
+Curso 19 - Engenharia Elétrica: Ênfase em Sistemas de Energia e Automação
+Escola de Engenharia de São Carlos - USP
+modalidade
+pontos finais
+classificação
+AC
+764,58
+71
+EP
+619,21
+251
+PPI
+427,31
+363
+Carreira 309 - Engenharia Física; Engenharia de Produção; Engenharia Química
+Curso 20 - Engenharia de Produção
+Escola de Engenharia de Lorena - USP
+modalidade
+pontos finais
+classificação
+AC
+605,74
+105
+EP
+

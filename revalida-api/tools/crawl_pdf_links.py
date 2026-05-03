@@ -1,5 +1,8 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import argparse
 import json
+import os
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
@@ -8,7 +11,7 @@ from bs4 import BeautifulSoup
 from slugify import slugify
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCES_PATH = ROOT / "tools" / "sources.json"
+DEFAULT_SOURCES_PATH = ROOT / "tools" / "sources.json"
 OUT_PATH = ROOT / "storage" / "imports" / "pdf_links.json"
 
 HEADERS = {
@@ -87,6 +90,34 @@ def make_filename(text: str, href: str) -> str:
     return filename
 
 
+def matches_revalida_phase(source: dict, text: str, href: str, filename: str, phase: str) -> bool:
+    phase = (phase or "first").strip().lower()
+    if phase == "all":
+        return True
+
+    exam = str(source.get("exam", "")).strip().lower()
+    if "revalida" not in exam:
+        return True
+
+    label = f"{text} {href} {filename}".lower()
+    is_first_phase = "objetiva" in label or "discursiva" in label
+    is_second_phase = (
+        "habilidades_clinicas" in label
+        or "habilidades clinicas" in label
+        or "padrao esperado de procedimentos" in label
+        or "padrão esperado de procedimentos" in label
+        or ("pep" in label and "discursiva" not in label)
+    )
+
+    if phase == "first":
+        return is_first_phase
+
+    if phase == "second":
+        return is_second_phase
+
+    return True
+
+
 def append_pdf(found, source, page_url, pdf_url, link_text, filename):
     found.append({
         "source_name": source.get("name"),
@@ -103,10 +134,32 @@ def append_pdf(found, source, page_url, pdf_url, link_text, filename):
 
 def main():
     parser = argparse.ArgumentParser(description="Descobre links de PDFs públicos nas fontes configuradas")
+    parser.add_argument(
+        "--sources",
+        default=os.getenv("QUESTIONS_SOURCES_FILE", str(DEFAULT_SOURCES_PATH)),
+        help="Arquivo JSON com as fontes de crawl. Padrão: tools/sources.json",
+    )
     parser.add_argument("--limit-sources", type=int, default=0, help="Limita a quantidade de fontes processadas")
+    parser.add_argument(
+        "--exam",
+        default="Revalida",
+        help="Filtra as fontes por exame. Use 'all' para não filtrar.",
+    )
+    parser.add_argument(
+        "--phase",
+        default="first",
+        help="Filtra a fase do Revalida: first, second ou all.",
+    )
     args = parser.parse_args()
 
-    sources = json.loads(SOURCES_PATH.read_text(encoding="utf-8"))
+    sources_path = Path(args.sources)
+    sources = json.loads(sources_path.read_text(encoding="utf-8"))
+    exam_filter = (args.exam or "").strip().lower()
+    if exam_filter and exam_filter != "all":
+        sources = [
+            source for source in sources
+            if exam_filter in str(source.get("exam", "")).strip().lower()
+        ]
     if args.limit_sources and args.limit_sources > 0:
         sources = sources[: args.limit_sources]
 
@@ -119,6 +172,9 @@ def main():
 
         if is_pdf_url(url):
             filename = make_filename(source.get("name", "documento"), url)
+            if not matches_revalida_phase(source, source.get("name", ""), url, filename, args.phase):
+                print("  PDF direto ignorado pelo filtro de fase")
+                continue
             append_pdf(found, source, url, url, source.get("name", ""), filename)
             print("  PDF direto registrado")
             continue
@@ -144,6 +200,8 @@ def main():
                 continue
 
             filename = make_filename(text, href)
+            if not matches_revalida_phase(source, text, href, filename, args.phase):
+                continue
             append_pdf(found, source, url, href, text, filename)
 
             page_count += 1

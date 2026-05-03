@@ -1,0 +1,1014 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/fuvest2026-chamada-2-notas-minimas.pdf"
+  }
+]
+
+TEXTO-BASE:
+3
+932
+PPI
+493,70
+1377
+Curso 9 - Ciências Contábeis - Noturno
+Faculdade de Economia, Administração e Contabilidade - USP
+modalidade
+pontos finais
+classificação
+AC
+670,19
+411
+EP
+588,43
+1015
+PPI
+495,28
+1368
+Curso 10 - Ciências Econômicas - Integral
+Faculdade de Economia, Administração e Contabilidade - USP
+modalidade
+pontos finais
+classificação
+AC
+746,48
+66
+EP
+643,47
+630
+PPI
+534,03
+1219
+Curso 11 - Ciências Econômicas - Noturno
+Faculdade de Economia, Administração e Contabilidade - USP
+modalidade
+pontos finais
+classificação
+AC
+727,73
+110
+EP
+642,78
+636
+PPI
+542,69
+1194
+Carreira 503 - Ciências Econômicas e Administração
+Curso 12 - Administração - Integral
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+modalidade
+pontos finais
+classificação
+AC
+620,42
+44
+EP
+514,17
+148
+PPI
+395,09
+193
+Curso 13 - Ciências Econômicas - Integral
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+modalidade
+pontos finais
+classificação
+AC
+642,69
+27
+EP
+524,91
+140
+PPI
+391,39
+198
+Carreira 504 - Arquitetura
+Curso 14 - Arquitetura e Urbanismo - Integral
+Faculdade de Arquitetura e Urbanismo - USP
+modalidade
+pontos finais
+classificação
+AC
+690,09
+66
+EP
+552,82
+256
+PPI
+466,39
+355
+Carreira 505 - Arquitetura
+Curso 15 - Arquitetura e Urbanismo - Integral
+Instituto de Arquitetura e Urbanismo de São Carlos - USP
+modalidade
+pontos finais
+classificação
+AC
+671,53
+20
+EP
+536,20
+84
+PPI
+440,93
+113
+Carreira 506 - Artes Cênicas
+Curso 16 - Artes Cênicas - Integral
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+691,08
+16
+EP
+650,92
+32
+PPI
+559,00
+53
+
+
+--- PAGE 10 ---
+
+FUVEST 2026
+Pontos Finais e Classificações Mínimas na Carreira
+Chamados para Matrícula na 2ª chamada
+10
+Carreira 507 - Artes Visuais
+Curso 17 - Artes Visuais - Integral
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+643,67
+16
+EP
+580,39
+32
+PPI
+431,44
+92
+Carreira 508 - Audiovisual
+Curso 18 - Audiovisual - Integral
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+677,45
+16
+EP
+620,42
+46
+PPI
+545,93
+70
+Carreira 509 - Biblioteconomia e Ciência da Informação
+Curso 19 - Biblioteconomia e Ciência da Informação - Matutino
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+548,06
+21
+EP
+464,26
+57
+PPI
+310,23
+125
+Curso 20 - Biblioteconomia e Ciência da Informação - Noturno
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+520,42
+30
+EP
+468,01
+51
+PPI
+250,14
+134
+Curso 21 - Biblioteconomia e Ciência da Informação - Noturno
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+458,33
+62
+EP
+394,81
+99
+PPI
+345,69
+114
+Carreira 510 - Ciências Sociais
+Curso 22 - Ciências Sociais - Noturno
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+modalidade
+pontos finais
+classificação
+AC
+578,06
+104
+EP
+511,06
+235
+PPI
+408,52
+384
+Curso 23 - Ciências Sociais - Vespertino
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+modalidade
+pontos finais
+classificação
+AC
+578,47
+103
+EP
+499,86
+255
+PPI
+407,18
+388
+Carreira 511 - Design
+Curso 24 - Design - Noturno
+Faculdade de Arquitetura e Urbanismo - USP
+modalidade
+pontos finais
+classificação
+AC
+648,24
+20
+EP
+537,27
+60
+PPI
+510,37
+80
+Carreira 512 - Direito
+Curso 25 - Direito - Matutino
+Faculdade de Direito - USP
+modalidade
+pontos finais
+classificação
+AC
+754,26
+123
+EP
+627,78
+960
+PPI
+539,77
+1296
+Curso 26 - Direito - Noturno
+Faculdade de Direito - USP
+modalidade
+pontos finais
+classificação
+AC
+728,52
+250
+EP
+619,91
+995
+PPI
+544,58
+1285
+Curso 27 - Direito - Integral
+Faculdade de Direito de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+726,53
+259
+EP
+616,39
+1009
+PPI
+529,77
+1327
+Carreira 513 - Editoração
+Curso 28 - Comunicação Social: Habilitação em Editoração - Matutino
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+607,64
+7
+EP
+574,40
+13
+PPI
+476,85
+29
+Carreira 514 - Educomunicação
+Curso 29 - Educomunicação - Noturno
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+530,79
+19
+EP
+419,91
+44
+PPI
+253,19
+61
+
+
+--- PAGE 11 ---
+
+FUVEST 2026
+Pontos Finais e Classificações Mínimas na Carreira
+Chamados para Matrícula na 2ª chamada
+11
+Carreira 515 - Filosofia
+Curso 30 - Filosofia - Noturno
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+modalidade
+pontos finais
+classificação
+AC
+580,42
+66
+EP
+518,66
+133
+PPI
+381,71
+249
+Curso 31 - Filosofia - Vespertino
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+modalidade
+pontos finais
+classificação
+AC
+563,19
+83
+EP
+489,72
+167
+PPI
+331,44
+279
+Carreira 516 - Geografia
+Curso 32 - Geografia - Noturno
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+modalidade
+pontos finais
+classificação
+AC
+552,50
+80
+EP
+463,70
+204
+PPI
+277,78
+308
+Curso 33 - Geografia - Vespertino
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+modalidade
+pontos finais
+classificação
+AC
+549,03
+87
+EP
+461,99
+207
+PPI
+278,61
+307
+Carreira 517 - Gestão Ambiental
+Curso 34 - Gestão Ambiental - Matutino
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+370,93
+127
+EP
+244,21
+183
+PPI
+306,94
+163
+Curso 35 - Gestão Ambiental - Noturno
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+336,76
+153
+EP
+274,68
+177
+PPI
+448,98
+68
+Curso 36 - Gestão Ambiental - Noturno
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+modalidade
+pontos finais
+classificação
+AC
+369,63
+129
+EP
+201,67
+188
+PPI
+256,11
+182
+Carreira 518 - Gestão de Políticas Públicas
+Curso 37 - Gestão de Políticas Públicas - Matutino
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+532,13
+64
+EP
+468,56
+128
+PPI
+357,31
+208
+Curso 38 - Gestão de Políticas Públicas - Noturno
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+526,30
+69
+EP
+440,28
+148
+PPI
+386,57
+191
+Carreira 519 - História
+Curso 39 - História - Noturno
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+modalidade
+pontos finais
+classificação
+AC
+584,31
+123
+EP
+511,94
+307
+PPI
+412,36
+524
+Curso 40 - História - Vespertino
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+modalidade
+pontos finais
+classificação
+AC
+587,69
+115
+EP
+511,25
+309
+PPI
+411,81
+527
+Carreira 520 - Jornalismo
+Curso 41 - Jornalismo - Matutino
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+670,97
+17
+EP
+653,80
+34
+PPI
+527,59
+124
+Curso 42 - Jornalismo - Noturno
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+655,65
+31
+EP
+605,56
+68
+PPI
+539,26
+119
+Carreira 521 - Letras
+Curso 43 - Letras - Matutino
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+modalidade
+pontos finais
+classificação
+AC
+549,91
+348
+EP
+466,62
+833
+PPI
+284,26
+1494
+Curso 44 - Letras - Noturno
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+modalidade
+pontos finais
+classificação
+AC
+535,56
+415
+EP
+461,67
+862
+PPI
+283,43
+1495
+
+
+--- PAGE 12 ---
+
+FUVEST 2026
+Pontos Finais e Classificações Mínimas na Carreira
+Chamados para Matrícula na 2ª chamada
+12
+Carreira 522 - Marketing
+Curso 45 - Marketing - Noturno
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+547,73
+62
+EP
+496,76
+129
+PPI
+390,83
+239
+Curso 46 - Marketing - Matutino
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+585,46
+38
+EP
+498,80
+125
+PPI
+391,16
+237
+Carreira 523 - Música
+Curso 47 - Música - Integral
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+675,44
+17
+EP
+635,61
+30
+PPI
+448,75
+95
+Curso 48 - Música: Habilitação em Canto e Arte Lírica - Integral
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+618,50
+41
+EP
+-
+-
+PPI
+-
+-
+Curso 49 - Música: Habilitação em Composição ou Habilitação em Regência - Integral
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+664,17
+23
+EP
+490,17
+85
+PPI
+-
+-
+Curso 50 - Música: Habilitação em Instrumento de Cordas (viola, violino ou violoncelo) - 
+Integral
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+-
+-
+EP
+537,11
+68
+PPI
+627,00
+34
+Curso 51 - Música: Habilitação em Instrumento de Cordas Dedilhadas (violão ou viola 
+brasileira) - Integral
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+-
+-
+EP
+588,44
+49
+PPI
+623,33
+40
+Curso 52 - Música: Habilitação em Instrumento de Sopro (flauta, oboé, clarinete, clarone, 
+fagote, trompa, trompete, trombone ou tuba) - Integ
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+625,78
+38
+EP
+585,47
+55
+PPI
+588,28
+50
+Curso 53 - Música: Habilitação em Instrumento de Teclado (piano) - Integral
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+768,36
+3
+EP
+625,83
+36
+PPI
+-
+-
+Curso 54 - Música: Habilitação em Instrumento Percussão - Integral
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+-
+-
+EP
+541,11
+67
+PPI
+-
+-
+Carreira 524 - Música
+Curso 55 - Música - Integral
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+446,03
+31
+EP
+361,39
+38
+PPI
+501,28
+26
+Carreira 525 - Pedagogia
+Curso 56 - Pedagogia - Noturno
+Faculdade de Educação - USP
+modalidade
+pontos finais
+classificação
+AC
+519,21
+94
+EP
+465,93
+172
+PPI
+372,22
+320
+Curso 57 - Pedagogia - Vespertino
+Faculdade de Educação - USP
+modalidade
+pontos finais
+classificação
+AC
+558,33
+54
+EP
+465,14
+174
+PPI
+404,63
+276
+Carreira 526 - Pedagogia
+Curso 58 - Pedagogia - Noturno
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP
+modalidade
+pontos finais
+classificação
+AC
+469,07
+28
+EP
+404,03
+51
+PPI
+315,46
+86
+Carreira 527 - Publicidade e Propaganda
+Curso 59 - Comunicação Social: Habilitação em Publicidade e Propaganda - Matutino
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+664,26
+10
+EP
+611,99
+52
+PPI
+549,95
+91
+Curso 60 - Comunicação Social: Habilitação em Publicidade e Propaganda - Noturno
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+642,87
+24
+EP
+583,52
+70
+PPI
+541,16
+99
+
+
+--- PAGE 13 ---
+
+FUVEST 2026
+Pontos Finais e Classificações Mínimas na Carreira
+Chamados para Matrícula na 2ª chamada
+13
+Carreira 528 - Relações Internacionais
+Curso 61 - Relações Internacionais - Noturno
+Instituto de Relações Internacionais - USP
+modalidade
+pontos finais
+classificação
+AC
+699,77
+28
+EP
+620,28
+95
+PPI
+585,74
+118
+Curso 62 - Relações Internacionais - Vespertino
+Instituto de Relações Internacionais - USP
+modalidade
+pontos finais
+classificação
+AC
+712,73
+20
+EP
+624,17
+93
+PPI
+577,73
+124
+Carreira 529 - Relações Públicas
+Curso 63 - Relações Públicas - Matutino
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+638,80
+13
+EP
+581,48
+42
+PPI
+467,18
+113
+Curso 64 - Relações Públicas - Noturno
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+615,88
+22
+EP
+524,91
+71
+PPI
+474,03
+108
+Carreira 530 - Têxtil e Moda
+Curso 65 - Têxtil e Moda - Matutino
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+535,37
+32
+EP
+469,54
+74
+PPI
+433,24
+95
+Carreira 531 - Turismo
+Curso 66 - Lazer e Turismo - Vespertino
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+484,58
+114
+EP
+248,29
+260
+PPI
+257,50
+258
+Curso 67 - Lazer e Turismo - Noturno
+Escola de Artes, Ciências e Humanidades - USP Leste
+modalidade
+pontos finais
+classificação
+AC
+467,87
+132
+EP
+263,84
+256
+PPI
+251,02
+259
+Curso 68 - Turismo - Noturno
+Escola de Comunicações e Artes - USP
+modalidade
+pontos finais
+classificação
+AC
+484,31
+115
+EP
+395,65
+209
+PPI
+358,84
+228
+Carreira 599 - Treinamento Humanas
+Curso 99 - Ciências Humanas
+Fundação Universitária Para o Vestibular
+modalidade
+pontos finais
+classificação
+AC
+631,81
+100
+EP
+474,21
+391
+PPI
+320,37
+546
+

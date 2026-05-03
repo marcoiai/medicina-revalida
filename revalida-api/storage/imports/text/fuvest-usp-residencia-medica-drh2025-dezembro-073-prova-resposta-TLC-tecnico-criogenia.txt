@@ -1,0 +1,1696 @@
+
+
+--- PAGE 1 ---
+
+ 
+TLC 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 073/2025  
+ 
+Técnico de Laboratório (especialidade: 
+criogenia) 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique¬se¬o¬seu¬nome¬está¬correto¬na¬capa¬deste¬caderno¬e¬se¬a¬folha¬de¬respostas¬pertence¬ao¬grupo TLC.¬
+Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+3. Durante¬a¬prova,¬são¬vedadas¬a¬comunicação¬entre¬candidatos¬e¬a¬utilização¬de¬qualquer¬material¬de¬consulta¬e¬
+de¬aparelhos¬de¬telecomunicação.¬
+4. Duração¬da¬prova:¬4 horas.¬Cabe¬ao¬candidato¬controlar¬o¬tempo¬com¬base¬nas¬informações¬fornecidas¬pelo¬
+fiscal.¬O(A)¬candidato(a)¬poderá¬retirar-se¬da¬sala¬definitivamente¬apenas¬a¬partir¬das¬15¬h.¬Não¬haverá¬tempo¬
+adicional¬para¬preenchimento¬da¬folha¬de¬respostas.¬¬
+5. O(A)¬ candidato(a)¬ deverá¬ seguir¬ as¬ orientações¬ estabelecidas¬ pela¬ FUVEST¬ a¬ respeito¬ dos¬ procedimentos¬
+adotados¬para¬a¬aplicação¬deste¬concurso.¬
+6. Lembre-se¬de¬que¬a¬FUVEST¬se¬reserva¬ao¬direito¬de¬efetuar¬procedimentos¬adicionais¬de¬identificação¬e¬controle¬
+do¬ processo,¬ visando¬ a¬ garantir¬ a¬ plena¬ integridade¬ do¬ exame.¬ Assim,¬ durante¬ a¬ realização¬ da¬ prova,¬ será¬
+coletada¬por¬um¬fiscal¬uma¬foto¬do(a)¬candidato(a)¬para¬fins¬de¬reconhecimento¬facial,¬para¬uso¬exclusivo¬da¬USP¬
+e¬da¬FUVEST.¬A¬imagem¬não¬será¬divulgada¬nem¬utilizada¬para¬quaisquer¬outras¬finalidades,¬nos¬termos¬da¬lei.¬
+7. Após¬a¬autorização¬do¬fiscal¬da¬sala,¬verifique¬se¬o¬caderno¬está¬completo.¬Ele¬deve¬conter¬60 questões objetivas,¬
+com¬5¬alternativas¬cada,¬e¬1 questão dissertativa.¬Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+8. Preencha¬as¬folhas¬de¬respostas¬com¬cuidado,¬utilizando¬caneta¬esferográfica¬de¬tinta azul ou preta.¬Essas¬folhas¬
+não serão substituídas¬em¬caso¬de¬rasura.¬
+9. Ao¬final¬da¬prova,¬é¬obrigatória¬a¬devolução¬das¬folhas¬de¬respostas¬acompanhadas¬deste¬caderno¬de¬questões.¬
+Declaração 
+Declaro¬que¬li¬e¬estou¬ciente¬das¬informações¬que¬constam¬na¬capa¬desta¬prova,¬na¬folha¬de¬respostas,¬bem¬
+como¬dos¬avisos¬que¬foram¬transmitidos¬pelo¬fiscal¬de¬sala.¬
+¬
+___________________________________________________¬
+ASSINATURA¬
+O(a)¬candidato(a)¬que¬não¬assinar¬a¬capa¬da¬prova¬será¬considerado(a)¬ausente¬da¬prova.¬
+ 
+ 
+
+
+--- PAGE 2 ---
+
+Concurso Edital RH nº 073/2025 – Técnico de Laboratório (especialidade: criogenia) 
+Texto para as questões de 01 a 05 
+"Jasmim¬teve¬muita¬sorte¬com¬as¬mulheres¬que¬cruzaram¬os¬
+caminhos¬ dele.¬ Elas¬ lhe¬ ofereceram¬ amor¬ ou¬ um¬ inofensivo¬
+esquecimento.[...].¬Parece¬que¬essas¬relações¬ficaram¬como¬
+se¬nunca¬tivessem¬existido¬para¬ele.¬Mas,¬quem¬sabe,¬talvez,¬
+algumas¬ dessas¬ lembranças¬ desses¬ encontros¬ estivessem¬
+conservadas¬em¬algum¬vão¬de¬sua¬memória.¬Entretanto,¬como¬
+partículas¬tão¬pequenas,¬como¬imagens¬tão¬diluídas,¬que¬ele¬
+poderia¬afirmar¬a¬inexistência¬delas.¬¬
+¬Mas,¬para¬as¬mulheres,¬o¬contrário¬se¬dava.¬Nós,¬às¬vezes,¬
+nos¬embrenhamos¬de¬tal¬forma¬nas¬recordações¬do¬passado,¬
+que¬ o¬ já¬ acontecido¬ se¬ levanta¬ das¬ vias¬ da¬ memória¬ e¬ se¬
+corporifica¬no¬presente.¬Foi¬o¬que¬se¬deu¬com¬Neide¬Paranhos¬
+da¬Silva.¬Ela¬fez¬da¬breve¬presença¬de¬Fio¬Jasmim¬em¬sua¬vida¬
+uma¬sólida¬e¬palpável¬lembrança."¬¬
+¬
+Conceição¬Evaristo.¬Canção¬para¬ninar¬menino¬grande.¬Rio¬de¬Janeiro:¬
+Pallas,¬2022.Adaptado.¬
+{01} 
+Em¬relação¬ao¬texto,¬assinale¬a¬alternativa¬que¬apresenta¬a¬
+principal¬ diferença¬ entre¬ a¬ forma¬ como¬ Fio¬ Jasmim¬ e¬ as¬
+mulheres¬lidam¬com¬as¬relações¬amorosas.¬
+¬
+(A)¬Fio¬Jasmim¬sempre¬esquece,¬enquanto¬as¬mulheres¬nunca¬
+sentem¬nada.¬
+(B)¬As¬mulheres¬esquecem¬rapidamente,¬e¬Jasmim¬é¬quem¬
+lembra¬de¬tudo.¬
+(C)¬ Fio¬ Jasmim¬ guarda¬ lembranças¬ profundas,¬ mas¬ não¬ as¬
+compartilha.¬
+(D)¬As¬ mulheres¬ vivenciam¬ intensamente¬ e¬ guardam¬ as¬
+lembranças;¬Jasmim¬tende¬a¬esquecer.¬
+(E)¬ Fio¬ Jasmim¬ e¬ as¬ mulheres¬ vivem¬ as¬ histórias¬ de¬ forma¬
+intensa¬e¬igual.¬
+##### 
+¬
+{02} 
+Qual¬alternativa¬apresenta¬uma¬metáfora¬usada¬no¬texto?¬
+¬
+(A)¬“se¬levanta¬das¬vias¬da¬memória”¬
+(B)¬“teve¬muita¬sorte”¬
+(C)¬“poderia¬afirmar¬a¬inexistência¬delas”¬
+(D)¬“elas¬lhe¬ofereceram¬amor”¬
+(E)¬“Foi¬o¬que¬se¬deu¬com¬Neide¬Paranhos¬da¬Silva.”¬
+##### 
+¬
+{03} 
+No¬trecho¬“Nós,¬às¬vezes,¬nos¬embrenhamos¬de¬tal¬forma¬nas¬
+recordações¬do¬passado,¬que¬o¬já¬acontecido¬se¬levanta¬das¬
+vias¬da¬memória¬e¬se¬corporifica¬no¬presente.”,¬o¬emprego¬do¬
+pronome¬“nós”¬indica¬
+¬
+(A)¬a¬presença¬de¬uma¬voz¬distante:¬um¬narrador¬externo.¬
+(B)¬o¬uso¬da¬primeira¬pessoa¬do¬singular:¬uma¬mulher¬narra¬
+sobre¬sua¬história.¬
+(C)¬uma¬ voz¬ indiferente:¬relata¬ os¬ fatos¬ sem¬ envolvimento¬
+emocional.¬
+(D)¬um¬ narrador¬ externo:¬ conhece¬ os¬ sentimentos¬ dos¬
+personagens.¬
+(E)¬o¬narrador¬coletivo:¬representa¬a¬memória¬e¬os¬sentimentos¬
+de¬várias¬mulheres.¬
+##### 
+¬
+¬
+¬
+¬
+{04} 
+No¬texto,¬o¬uso¬da¬expressão¬“Foi¬o¬que¬se¬deu¬com¬Neide¬
+Paranhos¬da¬Silva”¬tem¬a¬função¬de:¬
+¬
+(A)¬Introduzir¬um¬novo¬tema¬sem¬relação¬com¬o¬anterior.¬
+(B)¬Confirmar¬e¬exemplificar¬o¬que¬foi¬dito¬antes.¬
+(C)¬Contradizer¬a¬ideia¬abordada¬anteriormente.¬
+(D)¬Indicar¬uma¬crítica¬à¬personagem.¬
+(E)¬Finalizar¬o¬texto¬com¬a¬conclusão¬geral.¬
+##### 
+¬
+{05} 
+No¬ trecho¬ “Elas¬ lhe¬ ofereceram¬ amor¬ ou¬ um¬ inofensivo¬
+esquecimento.”,¬a¬palavra¬“elas”¬tem¬a¬função¬de: 
+(A)¬Conectar¬duas¬ideias¬do¬texto.¬¬
+(B)¬Indicar¬a¬¬causa¬do¬esquecimento.¬
+(C)¬Substituir¬um¬nome¬citado¬no¬texto.¬
+(D)¬Iniciar¬uma¬nova¬ideia¬citada¬no¬texto.¬
+(E)¬Reforçar¬um¬nome¬citado¬no¬texto.¬
+##### 
+¬
+ 
+Tirinha para as questões 06 e 07 
+ 
+¬
+¬
+Folha¬de¬São¬Paulo,¬04.09.2025.¬
+¬
+{06} 
+A¬ tirinha¬ apresenta¬ uma¬ crítica¬ social¬ por¬ meio¬ do¬ uso¬ do¬
+humor¬ e¬ da¬ ironia.¬ Considerando¬ o¬ contexto¬ e¬ os¬ recursos¬
+utilizados,¬a¬principal¬crítica¬é¬feita¬à¬
+¬
+(A)¬despersonalização¬do¬indivíduo¬na¬sociedade¬atual.¬
+(B)¬promoção¬da¬paz¬como¬valor¬ultrapassado¬ou¬inútil.¬
+(C)¬expansão¬ excessiva¬ da¬ publicidade¬ nos¬ meios¬ de¬
+comunicação.¬
+(D)¬utilização¬de¬palavras¬ambíguas¬para¬manipular¬a¬opinião¬
+pública.¬
+(E)¬valorização¬da¬violência¬transformada¬em¬entretenimento.¬
+##### 
+¬
+{07} 
+Na¬ tirinha,¬ a¬ expressão¬ “O¬ mercado¬ cresce¬ a¬ olhos¬ vistos”¬
+pode¬ser¬substituída,¬sem¬alterar¬o¬sentido¬da¬frase,¬por¬“O¬
+mercado¬¬
+¬
+(A)¬cresce¬de¬maneira¬perceptível.”¬
+(B)¬aumenta¬de¬forma¬invisível.”¬
+(C)¬diminui¬lentamente.”¬
+(D)¬estagna¬sem¬mudanças.”¬
+(E)¬desaparece¬rapidamente.”¬
+##### 
+¬
+¬
+
+
+--- PAGE 3 ---
+
+Concurso Edital RH nº 073/2025 – Técnico de Laboratório (especialidade: criogenia) 
+Texto para as questões 08 e 09 
+Banco¬vermelho¬é¬instalado¬no¬Senado¬pelo¬combate¬à¬
+violência¬contra¬a¬mulher¬
+Desde¬o¬ano¬passado,¬as¬cidades¬brasileiras¬precisam¬instalar¬
+bancos¬vermelhos¬em¬espaços¬públicos¬para¬representar¬o¬
+combate¬à¬violência¬contra¬a¬mulher.¬A¬Lei¬14.942/2024¬faz¬
+parte¬de¬uma¬campanha¬de¬conscientização¬sobre¬a¬violência¬
+e¬o¬feminicídio¬durante¬o¬Agosto¬Lilás.¬No¬Senado,¬uma¬das¬
+diversas¬iniciativas¬previstas¬para¬o¬mês¬é¬a¬instalação¬de¬um¬
+grande¬banco¬vermelho¬com¬frases¬de¬resistência¬e¬canais¬de¬
+denúncia¬ na¬ Praça¬ das¬ Abelhas,¬ espaço¬ de¬ grande¬
+circulação.¬
+¬
+Disponível¬em:¬https://www12.senado.leg.br.¬Adaptado.¬
+¬
+¬
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬Foto:¬Jefferson¬Rudy/Agência¬Senado¬
+¬
+¬
+ 
+ 
+{08} 
+O¬cartaz¬da¬campanha¬“Feminicídio¬Zero”¬apresenta¬recursos¬
+linguísticos¬ e¬ visuais¬ com¬ o¬ objetivo¬ de¬ conscientizar¬ a¬
+sociedade¬sobre¬a¬violência¬contra¬a¬mulher.¬A¬frase¬“Sentar¬e¬
+refletir.¬Levantar¬e¬agir.”,¬presente¬no¬centro¬do¬cartaz,¬tem¬
+como¬principal¬função:¬
+¬
+(A)¬Utilizar¬linguagem¬técnica¬e¬objetiva¬para¬informar¬sobre¬
+os¬tipos¬de¬feminicídio.¬
+(B)¬Estimular¬ uma¬ resposta¬ emocional¬ direta¬ por¬ meio¬ da¬
+repetição¬de¬termos¬jurídicos.¬
+(C)¬Criar¬ um¬ apelo¬ reflexivo¬ e¬ mobilizador¬ por¬ meio¬ de¬
+paralelismo¬e¬sentido¬figurado.¬
+(D)¬Informar¬sobre¬os¬dados¬estatísticos¬da¬violência¬contra¬a¬
+mulher¬no¬Brasil.¬
+(E)¬Representar¬literalmente¬a¬posição¬das¬vítimas¬ao¬sofrerem¬
+agressões¬físicas.¬
+##### 
+¬
+{09} 
+A¬ escolha¬ por¬ instalar¬ um¬ banco¬ vermelho¬ com¬ frases¬ de¬
+resistência¬ e¬ canais¬ de¬ denúncia¬ em¬ um¬ local¬ de¬ grande¬
+circulação¬no¬Senado,¬como¬parte¬do¬Agosto¬Lilás,¬indica¬que¬
+¬
+(A)¬o¬Senado¬tem¬interesse¬em¬promover¬o¬turismo¬por¬meio¬
+de¬instalações¬artísticas¬em¬seus¬espaços.¬
+(B)¬a¬presença¬do¬banco¬em¬um¬ambiente¬institucional¬reforça¬
+a¬ideia¬de¬que¬a¬violência¬contra¬a¬mulher¬é¬um¬problema¬
+do¬espaço¬público.¬
+(C)¬a¬ação¬busca¬visibilidade¬midiática¬para¬atrair¬atenção¬à¬
+arquitetura¬do¬Congresso¬Nacional.¬
+(D)¬o¬uso¬de¬um¬objeto¬simbólico¬em¬espaço¬de¬poder¬destaca¬
+a¬urgência¬de¬ações¬concretas¬contra¬o¬feminicídio.¬
+(E)¬a¬ escolha¬ da¬ cor¬ vermelha¬ representa¬ neutralidade¬
+institucional¬ e¬ foi¬ motivada¬ por¬ razões¬ estéticas¬ e¬
+explícitas.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 4 ---
+
+Concurso Edital RH nº 073/2025 – Técnico de Laboratório (especialidade: criogenia) 
+Texto para as questões de 10 a 13 
+ 
+About¬the¬International¬Baccalaureate¬(IB)¬
+¬
+The¬ aim¬ of¬ all¬ IB¬ programmes¬ is¬ to¬ develop¬ internationally¬
+minded¬people¬who,¬recognizing¬their¬common¬humanity¬and¬
+shared¬guardianship¬of¬the¬planet,¬help¬to¬create¬a¬better¬and¬
+more¬peaceful¬world.¬¬
+¬
+As¬IB¬learners¬we¬strive¬to¬be:¬¬
+¬
+Inquirers:¬We¬nurture¬our¬curiosity,¬developing¬skills¬for¬inquiry¬
+and¬research.¬We¬know¬how¬to¬learn¬independently¬and¬with¬
+others.¬ We¬ learn¬ with¬ enthusiasm¬ and¬ sustain¬ our¬ love¬ of¬
+learning¬throughout¬life.¬¬¬
+¬
+Knowledgeable:¬
+We¬
+develop¬
+and¬
+use¬
+conceptual¬
+understanding,¬ exploring¬ knowledge¬ across¬ a¬ range¬ of¬
+disciplines.¬We¬engage¬with¬issues¬and¬ideas¬that¬have¬local¬
+and¬global¬significance.¬¬¬
+¬
+Thinkers:¬We¬use¬critical¬and¬creative¬thinking¬skills¬to¬analyse¬
+and¬ take¬ responsible¬ action¬ on¬ complex¬ problems.¬ We¬
+exercise¬initiative¬in¬making¬reasoned,¬ethical¬decisions.¬¬¬
+ 
+Communicators:¬ We¬ express¬ ourselves¬ confidently¬ and¬
+creatively¬in¬more¬than¬one¬language¬and¬in¬many¬ways.¬We¬
+collaborate¬effectively,¬listening¬carefully¬to¬the¬perspectives¬of¬
+other¬individuals¬and¬groups.¬¬¬
+¬
+Principled:¬ We¬ act¬ with¬ integrity¬ and¬ honesty,¬ with¬ a¬ strong¬
+sense¬of¬fairness¬and¬justice,¬and¬with¬respect¬for¬the¬dignity¬
+and¬rights¬of¬people¬everywhere.¬We¬take¬responsibility¬for¬our¬
+actions¬and¬their¬consequences.¬¬
+¬
+Open-minded: We¬critically¬appreciate¬our¬own¬cultures¬and¬
+personal¬ histories,¬ as¬ well¬ as¬ the¬ values¬ and¬ traditions¬ of¬
+others.¬We¬seek¬and¬evaluate¬a¬range¬of¬points¬of¬view,¬and¬
+we¬are¬willing¬to¬grow¬from¬the¬experience.¬¬
+¬
+Caring:¬We¬show¬empathy,¬compassion¬and¬respect.¬We¬have¬
+a¬ commitment¬ to¬ service,¬ and¬ we¬ act¬ to¬ make¬ a¬ positive¬
+difference¬in¬the¬lives¬of¬others¬and¬in¬the¬world¬around¬us.¬¬
+ 
+Risk-takers:¬ We¬ approach¬ uncertainty¬ with¬ forethought¬ and¬
+determination;¬ we¬ work¬ independently¬ and¬ cooperatively¬ to¬
+explore¬ new¬ ideas¬ and¬ innovative¬ strategies.¬ We¬ are¬
+resourceful¬and¬resilient¬in¬the¬face¬of¬challenges¬and¬change.¬¬
+ 
+Balanced: We¬ understand¬ the¬ importance¬ of¬ balancing¬
+different¬ aspects¬ of¬ our¬ lives—intellectual,¬ physical,¬ and¬
+emotional—to¬achieve¬well-being¬for¬ourselves¬and¬others.¬We¬
+recognize¬our¬interdependence¬with¬other¬people¬and¬with¬the¬
+world¬in¬which¬we¬live.¬¬
+¬
+Reflective:¬ We¬ thoughtfully¬ consider¬ the¬ world¬ and¬ our¬ own¬
+ideas¬and¬experience.¬We¬work¬to¬understand¬our¬strengths¬
+and¬weaknesses¬in¬order¬to¬support¬our¬learning¬and¬personal¬
+development.¬¬
+¬
+Disponível¬em:¬Ibo.org.¬September¬28,¬2025.¬¬
+ 
+ 
+ 
+ 
+ 
+{10} 
+Em¬relação¬ao¬texto¬apresentado,¬qual¬é¬o¬principal¬objetivo¬
+de¬todos¬os¬programas¬do¬International¬Baccalaureate¬(IB)?¬¬
+(A)¬Preparar¬ estudantes¬ para¬ superar¬ outros¬ em¬ testes¬
+padronizados¬em¬escala¬global.¬
+(B)¬Criar¬uma¬mentalidade¬competitiva¬que¬prioriza¬o¬sucesso¬
+pessoal¬sobre¬o¬bem-estar¬da¬comunidade.¬
+(C)¬Direcionar¬ os¬ aprendizes¬ em¬ uma¬ única¬ disciplina¬ para¬
+que¬se¬tornem¬os¬melhores¬especialistas.¬
+(D)¬Desenvolver¬pessoas¬com¬mentalidade¬internacional¬que¬
+ajudem¬a¬construir¬um¬mundo¬melhor¬e¬mais¬pacífico.¬
+(E)¬ Promover¬ o¬ uso¬ exclusivo¬ do¬ inglês¬ como¬ língua¬ de¬
+comunicação¬internacional.¬¬
+#####
+ 
+{11} 
+Na¬descrição¬de¬Risk-takers,¬apresentada¬no¬texto,¬¬a¬palavra¬
+“forethought”¬expressa¬
+¬
+(A)¬improvisação¬diante¬de¬decisões¬de¬última¬hora.¬
+(B)¬planejamento¬ prévio¬ e¬ consideração¬ antecipada¬ das¬
+consequências.¬
+(C)¬coragem¬ para¬ ignorar¬ riscos¬ em¬ busca¬ de¬ resultados¬
+rápidos.¬
+(D)¬conhecimento¬técnico¬aprofundado¬em¬uma¬única¬área.¬
+(E)¬distanciamento¬emocional¬para¬tomar¬decisões¬“a¬sangue-
+frio”.¬
+##### 
+¬
+{12} 
+Na¬descrição¬de¬Open-minded,¬a¬expressão¬“grow¬from¬the¬
+experience”¬refere-se¬ao¬processo¬de¬crescimento¬que¬parte¬
+da¬ação¬de¬
+¬
+(A)¬vencer¬debates¬persuadindo¬outros¬de¬seu¬ponto¬de¬vista.¬
+(B)¬memorizar¬fatos¬sobre¬tradições¬de¬países.¬
+(C)¬buscar¬e¬avaliar¬uma¬gama¬de¬pontos¬de¬vista.¬
+(D)¬praticar¬uma¬língua¬estrangeira¬em¬atividades¬on-line¬com¬
+colegas.¬
+(E)¬participar¬ de¬ intercâmbios¬ culturais¬ e¬ viagens¬ que¬
+exponham¬o¬estudante¬a¬visões¬de¬mundo¬distintas.¬¬
+##### 
+¬
+{13} 
+Assinale¬ a¬ alternativa¬ que¬ melhor¬ reescreve¬ a¬ oração¬
+“recognizing¬their¬common¬humanity¬and¬shared¬guardianship¬
+of¬ the¬ planet”,¬ preservando¬ o¬ sentido¬ original¬ e¬ o¬ tom¬
+empregado.¬
+¬
+(A)¬ Admitting¬ people¬ are¬ basically¬ the¬ same¬ and¬ that¬ Earth¬
+belongs¬to¬everyone¬equally.¬
+(B)¬Acknowledging¬what¬humans¬have¬in¬common¬and¬their¬
+joint¬responsibility¬for¬caring¬for¬the¬Earth.¬
+(C)¬ Accepting¬ that¬ culture¬ makes¬ us¬ identical¬ and¬ that¬ all¬
+nations¬control¬the¬planet¬together.¬
+(D)¬ Assuming¬ humanity¬ has¬ no¬ differences¬ and¬ that¬ nature¬
+needs¬no¬protection¬from¬us.¬
+(E)¬ Agreeing¬ that¬ global¬ problems¬ are¬ solved¬ only¬ by¬
+governments,¬not¬by¬individuals.¬
+##### 
+¬
+¬
+¬
+¬
+
+
+--- PAGE 5 ---
+
+Concurso Edital RH nº 073/2025 – Técnico de Laboratório (especialidade: criogenia) 
+Texto para as questões 14 e 15 
+Russia’s¬ban¬on¬International¬Baccalaureate¬(IB)¬schools¬
+deepens¬its¬rupture¬with¬the¬west¬
+¬
+The¬ Kremlin¬ has¬ infused¬ education¬ with¬ nationalism¬ and¬
+militarism.¬Outlawing¬the¬IB¬underlines¬that¬effort.¬¬
+Since¬ Russia¬invaded¬ Ukraine¬in¬ February¬ 2022,¬ the¬
+Kremlin¬has¬been¬severing¬ties¬with¬the¬West¬that¬were¬built¬up¬
+over¬decades.¬It¬has¬left¬European¬treaties¬on¬human¬rights¬
+and¬ the¬ prevention¬ of¬ torture,¬ entered¬ into¬ others¬ aimed¬ at¬
+countering¬what¬it¬calls¬Western¬hegemony,¬and¬suspended¬its¬
+participation¬in¬nuclear¬arms¬treaties.¬¬
+Education¬ has¬ also¬ been¬ the¬ target¬ of¬ an¬ accelerating¬
+crackdown.¬ Late¬ last¬ month,¬ Russia’s¬ prosecutor¬ general¬
+declared¬the¬IB,¬a¬Geneva-based¬nonprofit¬whose¬educational¬
+framework¬ is¬ offered¬ at¬ more¬ than¬ 6,000¬ schools¬ in¬ 160¬
+countries,¬a¬criminal¬organization.¬¬
+A¬week¬before¬the¬first¬day¬of¬classes,¬on¬September¬1,¬the¬
+more¬than¬two¬dozen¬Russian¬schools¬using¬the¬I.B.¬curriculum¬
+had¬to¬suddenly¬abandon¬it.¬The¬organization’s¬activities¬were¬
+prohibited,¬ leaving¬ anyone¬ in¬ Russia¬ who¬ cooperates¬ with¬ it¬
+vulnerable¬to¬asset¬seizures¬or¬jail¬time.¬¬
+The¬Russian¬Office¬of¬the¬Prosecutor¬General¬defended¬the¬
+ban¬by¬saying¬that¬the¬IB’s¬goal¬was¬“to¬format¬Russian¬youth¬
+according¬to¬Western¬templates,”¬accusing¬the¬organization¬of¬
+“stoking¬ anti-Russian¬ propaganda¬ and¬ hatred¬ between¬
+nations.”¬¬
+In¬a¬ statement,¬ the¬ IB¬ said¬ it¬ regretted¬ that¬ Russia’s¬
+decision¬could¬interrupt¬students’¬education.¬The¬organization¬
+noted¬that¬it¬had¬successfully¬worked¬in¬places¬with¬shifting¬
+political¬and¬educational¬landscapes.¬Its¬program¬began¬as¬a¬
+way¬for¬international¬schools¬to¬provide¬a¬globally¬recognized¬
+credential,¬and¬it¬has¬long¬emphasized¬engagement¬with¬world¬
+cultures.¬¬
+Russia’s¬efforts¬to¬reshape¬education,¬infusing¬schools¬with¬
+nationalism,¬militarism¬and¬what¬it¬calls¬traditional¬values,¬go¬
+well¬beyond¬the¬crackdown¬on¬the¬IB.¬¬
+In¬2024,¬high¬school¬students¬started¬taking¬a¬class¬called¬
+“The¬Basics¬of¬Defense¬and¬Defense¬of¬the¬Homeland,”¬which¬
+includes¬ some¬ simple¬ military¬ training.¬ Next¬ year,¬ a¬ new¬
+subject,¬ “Spiritual¬ and¬ Moral¬ Culture¬ of¬ Russia,”¬ will¬ be¬
+compulsory¬for¬students¬in¬grades¬five¬to¬seven.¬The¬textbooks¬
+are¬being¬developed¬with¬the¬Russian¬Orthodox¬Church.¬¬
+¬
+Disponível¬em:¬nytimes.com.¬September¬28,¬2025.¬Adaptado.¬¬
+{14} 
+O¬
+IB¬
+(International¬
+Baccalaureate)¬
+é¬
+um¬
+programa¬
+internacional¬de¬ensino¬e¬avaliação¬que¬integra¬competências¬
+e¬ conteúdos¬ com¬ objetivos¬ claros¬ para¬ o¬ desenvolvimento¬
+acadêmico¬e¬socioemocional,¬por¬meio¬de¬uma¬aprendizagem¬
+investigativa¬ e¬interdisciplinar.¬Com¬base¬no¬texto,¬qual¬é¬a¬
+inferência¬mais¬razoável¬sobre¬o¬efeito¬imediato¬do¬banimento¬
+do¬exame¬IB¬nas¬escolas¬russas?¬
+¬
+(A)¬As¬ escolas¬ tiveram¬ de¬ trocar¬ abruptamente¬ de¬ currículo¬
+pouco¬antes¬do¬início¬das¬aulas,¬afetando¬planejamento¬e¬
+avaliação.¬
+(B)¬Os¬estudantes¬poderão¬continuar¬normalmente¬as¬provas¬
+do¬IB,¬pois¬haverá¬credenciamento¬local¬temporário.¬
+(C)¬O¬banimento¬aplica-se¬apenas¬a¬professores¬estrangeiros,¬
+não¬às¬instituições.¬
+(D)¬ O¬ Kremlin¬ pretende,¬ em¬ breve,¬ retomar¬ os¬ tratados¬
+ocidentais¬que¬suspendeu.¬
+(E)¬O¬IB¬deixará¬de¬funcionar¬nos¬mais¬de¬6.000¬colégios¬em¬
+160¬países.¬¬#####¬
+{15} 
+Assinale¬ a¬ alternativa¬ que¬ apresenta¬ a¬ reescrita¬ mais¬
+adequada¬para¬a¬oração¬“Next¬year,¬a¬new¬subject,¬‘Spiritual¬
+and¬Moral¬Culture¬of¬Russia,’¬will¬be¬compulsory¬for¬students¬
+in¬grades¬five¬to¬seven”,¬¬mantendo¬o¬mesmo¬sentido¬com¬foco¬
+nos¬estudantes.¬
+¬
+(A)¬Next¬year,¬students¬may¬take¬“Spiritual¬and¬Moral¬Culture¬
+of¬Russia.”¬
+(B)¬ Next¬ year,¬ students¬ take¬ “Spiritual¬ and¬ Moral¬ Culture¬ of¬
+Russia”¬by¬choice.¬
+(C)¬Next¬year,¬students¬could¬take¬“Spiritual¬and¬Moral¬Culture¬
+of¬Russia.”¬
+(D)¬Next¬year,¬students¬might¬take¬“Spiritual¬and¬Moral¬Culture¬
+of¬Russia.”¬
+(E)¬Next¬year,¬students¬will¬have¬to¬take¬“Spiritual¬and¬Moral¬
+Culture¬of¬Russia.”¬
+##### 
+¬
+{16} 
+O¬uso¬da¬internet¬está¬presente¬na¬vida¬de¬uma¬parcela¬de¬
+crianças¬e¬adolescentes¬brasileiras.¬O¬estudo¬a¬seguir¬mostra¬
+o¬percentual¬de¬usuários,¬entre¬9¬e¬17¬anos¬de¬idade,¬de¬2015¬
+a¬2024,¬que¬utilizaram¬a¬rede¬a¬partir¬de¬4¬diferentes¬tipos¬de¬
+dispositivos.¬¬
+¬
+¬
+Com¬base¬no¬gráfico,¬é¬correto¬afirmar¬que¬o¬uso¬
+¬
+(A)¬do¬telefone¬celular¬aumentou¬13%¬entre¬2015¬e¬2024.¬
+(B)¬do¬computador¬caiu¬de¬53%¬para¬38%,¬entre¬2017¬e¬2019,¬
+o¬que¬representa¬uma¬redução¬de,¬aproximadamente,¬28%¬
+em¬termos¬relativos.¬
+(C)¬do¬videogame¬manteve-se¬estável¬entre¬2015¬e¬2024.¬
+(D)¬da¬televisão¬cresceu¬entre¬2015¬e¬2024.¬¬
+(E)¬dos¬quatro¬dispositivos¬cresceu¬entre¬2019¬e¬2021.¬
+#####
+ 
+{17} 
+Um¬
+auxiliar¬
+administrativo¬
+de¬
+uma¬
+universidade¬
+foi¬
+encarregado¬de¬planejar¬e¬executar¬uma¬compra¬futura.¬Para¬
+isso,¬ a¬ instituição¬ investiu¬ R$¬ 5.000,00¬ em¬ uma¬ aplicação¬
+financeira¬ que¬ rende¬ 10%¬ ao¬ ano,¬ em¬ regime¬ de¬ juros¬
+compostos.¬ Após¬ 2¬ anos,¬ qual¬ será,¬ em¬ reais,¬ o¬ montante¬
+acumulado¬disponível¬para¬a¬compra?¬
+¬
+(A)¬R$¬6.050,00¬
+(B)¬R$¬6.100,00¬
+(C)¬R$¬6.150,00¬
+(D)¬R$¬6.200,00¬
+(E)¬R$¬6.500,00¬
+##### 
+
+
+--- PAGE 6 ---
+
+Concurso Edital RH nº 073/2025 – Técnico de Laboratório (especialidade: criogenia) 
+{18} 
+Durante¬a¬titulação¬de¬uma¬solução¬em¬laboratório,¬a¬variação¬
+do¬ pH¬ em¬ função¬ do¬ volume¬ V¬ (em¬ mL)¬ de¬ uma¬ base¬
+adicionada¬é¬dada¬pela¬equação:¬
+¬
+¬
+¬
+¬
+Assinale¬a¬alternativa¬que¬apresenta¬os¬valores¬de¬V¬(em¬mL)¬
+para¬os¬quais¬o¬pH¬é¬igual¬a¬0.¬
+(A)¬2¬ou¬12¬
+(B)¬3¬ou¬8¬¬
+(C)¬4¬ou¬6¬
+(D)¬5¬ou¬10¬
+(E)¬6¬ou¬12¬
+#####
+ 
+{19} 
+Um¬tanque¬d’água¬de¬2¬metros¬de¬raio¬tem¬o¬formato¬de¬um¬
+cilindro¬de¬4¬metros¬de¬altura¬com¬um¬cone¬invertido¬na¬base,¬
+de¬2¬metros¬de¬altura.¬
+¬
+¬
+¬
+Assinale¬ a¬ alternativa¬ que¬ indica,¬ em¬ m3,¬ o¬ volume¬ total¬ do¬
+tanque.¬¬
+(A)¬57,72¬¬
+(B)¬58,61¬¬
+(C)¬59,10¬¬
+(D)¬60,00¬¬
+(E)¬62,80¬
+ #####¬
+ 
+Note e adote: 
+ 
+Use¬π=3,14¬
+¬
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{20} 
+O¬Edifício¬Copan,¬localizado¬ no¬centro¬de¬ São¬Paulo,¬é¬ um¬
+ícone¬arquitetônico¬da¬cidade.¬A¬edificação¬possui¬32¬andares¬
+e¬ sua¬ fachada¬ norte¬ é¬ curva.¬ Para¬ arrecadar¬ dinheiro¬ para¬
+custear¬ a¬ reforma¬ dessa¬ fachada,¬ será¬ instalado¬ um¬ painel¬
+publicitário¬ cujas¬ dimensões¬ são¬ de¬ 71¬ metros¬ de¬
+comprimento¬por¬28¬metros¬de¬altura,¬conforme¬pode¬ser¬visto¬
+na¬figura¬a¬seguir:¬
+¬
+¬
+Qual¬a¬área¬do¬painel¬publicitário,¬em¬metros¬quadrados,¬que¬
+será¬instalado¬na¬fachada¬norte¬do¬Edifício¬Copan?¬
+¬
+(A)¬62¬¬
+(B)¬99¬¬
+(C)¬198¬¬
+(D)¬1.988¬
+(E)¬2.186¬¬
+##### 
+ 
+{21} 
+Em¬um¬laboratório¬de¬patologia,¬uma¬cultura¬de¬bactérias¬foi¬
+colocada¬ em¬ meio¬ adequado¬ de¬ crescimento.¬ Observou-se¬
+que,¬ em¬ condições¬ ideais,¬ o¬ número¬ de¬ bactérias¬ dobra¬ a¬
+cada¬ 30¬ minutos.¬ No¬ início¬ do¬ experimento¬ havia¬ 500¬
+bactérias.¬ Considerando¬ que¬ esse¬ crescimento¬ segue¬ uma¬
+progressão¬ geométrica,¬ determine¬ o¬ número¬ de¬ bactérias¬
+após¬5¬horas¬de¬cultivo.¬
+¬
+(A)¬32.000¬
+(B)¬64.000¬
+(C)¬128.000¬
+(D)¬256.000¬
+(E)¬512.000¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Concurso Edital RH nº 073/2025 – Técnico de Laboratório (especialidade: criogenia) 
+{22} 
+¬
+¬
+Folha¬de¬São¬Paulo,¬05.10.2025.¬
+¬
+¬
+A¬partir¬do¬início¬de¬outubro¬de¬2025,¬foi¬bastante¬comum¬que¬
+frequentadores¬
+de¬
+restaurantes,¬
+bares¬
+e¬
+outros¬
+estabelecimentos¬ congêneres¬ se¬ deparassem¬ com¬ a¬
+informação¬de¬que¬tais¬estabelecimentos¬estavam¬vendendo¬
+apenas¬ vinho¬ e¬ cerveja,¬ mas¬ não¬ bebidas¬ destiladas.¬ Na¬
+charge,¬ o¬ garçom¬ parece¬ estar¬ oferecendo,¬ de¬ modo¬
+“sorrateiro”,¬bebidas¬destiladas.¬¬
+¬
+Assinale¬a¬alternativa¬que¬explica¬adequadamente¬a¬situação¬
+descrita¬na¬charge¬e¬que¬inspirou¬a¬crítica¬do¬autor.¬
+¬
+(A)¬ A¬ guerra¬ comercial¬ iniciada¬ pelo¬ Presidente¬ Trump,¬ por¬
+meio¬ do¬ tarifaço,¬ tornou¬ economicamente¬ inviável¬ o¬
+consumo¬
+de¬
+bebidas¬
+destiladas,¬
+que¬
+são¬
+todas¬
+importadas,¬favorecendo¬o¬mercado¬informal¬representado¬
+pela¬ camuflagem¬ das¬ garrafas¬ no¬ interior¬ do¬ casaco¬ do¬
+garçom.¬
+(B)¬A¬ adulteração¬ de¬ bebidas¬ destiladas¬ em¬ fábricas¬
+clandestinas,¬ com¬o¬uso¬indevido¬de¬metanol,¬causou¬a¬
+morte¬de¬diversos¬consumidores,¬além¬de¬lesões¬graves¬
+decorrentes¬do¬efeito¬que¬esta¬substância¬química¬pode¬
+ter¬nos¬órgãos¬e¬tecidos¬humanos.¬
+(C)¬ A¬ divulgação¬ de¬ uma¬ pesquisa¬ científica¬ conclusiva¬
+vinculando¬o¬câncer¬ao¬consumo¬de¬bebidas¬destiladas¬
+levou¬ à¬ proibição¬ de¬ sua¬ oferta¬ em¬ estabelecimentos¬
+comerciais,¬favorecendo¬o¬mercado¬paralelo¬e¬ilegal¬desse¬
+tipo¬de¬bebida.¬
+(D)¬O¬boicote¬organizado¬pelos¬consumidores¬brasileiros¬ao¬
+consumo¬de¬bebidas¬destiladas,¬motivado¬pelos¬métodos¬
+insalubres¬ de¬ fabrico,¬ fez¬ cair¬ exponencialmente¬ a¬
+demanda,¬elevando¬os¬custos¬de¬oferta,¬desestimulando¬
+os¬ estabelecimentos¬ a¬ comprar¬ tais¬ produtos,¬ o¬ que¬
+favoreceu¬o¬mercado¬paralelo.¬
+(E)¬A¬interação¬de¬certos¬componentes¬usados¬no¬fabrico¬de¬
+bebidas¬destiladas¬com¬certas¬especiarias,¬que¬passaram¬
+a¬ ser¬ utilizadas¬ na¬ culinária¬ brasileira,¬ produz¬ reações¬
+químicas¬ em¬ cadeia¬ durante¬ o¬ processo¬ digestório,¬
+causando¬a¬formação¬de¬metanol,¬altamente¬tóxico¬para¬o¬
+corpo¬humano.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+{23} 
+¬
+Folha¬de¬São¬Paulo,¬27.09.2025.¬
+¬
+¬
+A¬charge¬apresentada¬procura¬demonstrar¬o¬poder¬do¬Povo¬
+contra¬ certas¬ atitudes¬ dos¬ governantes,¬ manifestada¬ por¬
+passeatas¬e¬aglomerações¬com¬fins¬pacíficos¬e¬que¬se¬opõem¬
+a¬uma¬medida¬ou¬proposta.¬A¬palavra¬“blindagem”¬inserida¬na¬
+charge¬faz¬referência,¬especificamente,¬a¬
+¬
+(A)¬um¬projeto¬de¬lei¬que¬pretendia¬anistiar¬os¬envolvidos¬em¬
+casos¬ pretéritos¬ de¬ corrupção,¬ como¬ o¬ mensalão¬ e¬ o¬
+petróleo.¬
+(B)¬uma¬ proposta¬ de¬ Emenda¬ Constitucional¬ que¬ pretendia¬
+estabelecer¬mandatos¬de¬9¬(nove)¬anos¬para¬o¬Ministro¬do¬
+Supremo¬Tribunal¬Federal¬como¬reação¬ao¬julgamento¬do¬
+ex-Presidente¬Bolsonaro.¬
+(C)¬um¬projeto¬de¬lei¬que¬pretendia¬anistiar¬os¬participantes¬e¬
+envolvidos¬ com¬ o¬ planejamento¬ de¬ um¬ golpe¬ que¬
+pretendeu¬abolir¬o¬Estado¬Democrático¬de¬Direito¬e¬que¬
+levou¬à¬condenação¬de¬pessoas¬comuns¬do¬povo,¬políticos¬
+e¬militares.¬
+(D)¬um¬projeto¬de¬lei¬que¬pretendia¬endurecer¬as¬penas¬dos¬
+participantes¬ e¬ envolvidos¬ com¬ o¬ planejamento¬ de¬ um¬
+golpe¬ visando¬ abolir¬ o¬ Estado¬ Democrático¬ de¬ Direito¬ e¬
+que¬levou¬à¬condenação¬apenas¬de¬pessoas¬comuns¬do¬
+povo,¬absolvendo¬políticos¬e¬militares.¬
+(E)¬uma¬ proposta¬ de¬ Emenda¬ Constitucional¬ que¬ pretendia¬
+atribuir¬imunidade¬ampla¬a¬parlamentares,¬apontada¬como¬
+arriscada¬ por¬ especialistas,¬ pois¬ abriria¬ o¬ legislativo¬ ao¬
+crime¬organizado,¬entre¬outras¬consequências.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+Concurso Edital RH nº 073/2025 – Técnico de Laboratório (especialidade: criogenia) 
+{24} 
+Imagem 1 
+¬
+¬
+¬
+¬
+Imagem 2 
+ 
+¬
+Folha¬de¬São¬Paulo,¬12.08.2025.¬
+¬
+¬
+Durante¬a¬ditadura¬militar,¬mas¬sobretudo¬no¬governo¬Médici,¬
+era¬comum¬a¬referência¬ao¬Brasil¬como¬um¬país¬que¬deveria¬
+ser¬amado¬ou¬deixado.¬A¬recente¬charge¬publicada¬pela¬Folha¬
+de¬São¬Paulo¬retoma¬a¬expressão¬e¬a¬adapta¬para¬criticar¬o¬
+Deputado¬Federal¬Eduardo¬Bolsonaro,¬ao¬lhe¬atribuir¬vínculos¬
+com¬ a¬ frase.¬ Os¬ verbos¬ deixar¬ e¬ sabotar¬ referem-se,¬
+respectivamente,¬ao¬fato¬de¬o¬Deputado¬
+¬
+(A)¬estar¬ nos¬ EUA¬ e¬ influenciar¬ o¬ governo¬ estadunidense¬
+contra¬autoridades¬brasileiras,¬causando¬prejuízos¬para¬a¬
+economia¬do¬Brasil.¬
+(B)¬estar¬ nos¬ EUA¬ e¬ influenciar¬ o¬ governo¬ estadunidense¬
+contra¬
+autoridades¬
+brasileiras,¬
+causando¬
+prejuízos¬
+exclusivos¬a¬elas.¬
+(C)¬ ter¬ deixado¬ o¬ Brasil¬ com¬ destino¬ incerto¬ e¬ influenciar¬ o¬
+governo¬ estadunidense¬ contra¬ autoridades¬ brasileiras,¬
+causando¬prejuízos¬para¬o¬país¬como¬um¬todo.¬
+(D)¬ter¬deixado¬o¬Brasil¬com¬destino¬incerto¬e¬influenciar¬os¬
+governos¬ estrangeiros¬ contra¬ autoridades¬ brasileiras,¬
+causando¬prejuízos¬para¬a¬economia¬do¬Brasil.¬
+(E)¬ter¬deixado¬o¬Brasil¬com¬destino¬incerto¬e¬influenciar¬os¬
+governos¬ estrangeiros¬ contra¬ autoridades¬ brasileiras,¬
+causando¬prejuízos¬exclusivos¬a¬elas¬e¬aos¬¬seus¬familiares¬
+próximos.¬
+##### 
+¬
+¬
+¬
+ 
+ 
+{25} 
+Uma¬ determinada¬ Unidade¬ da¬ USP¬ que¬ exerce¬ formação¬
+profissional¬ em¬ área¬ específica¬ demonstra¬ o¬ interesse¬ de¬
+contratar¬
+um¬
+docente¬
+com¬
+experiência¬
+profissional¬
+comprovada¬e¬que¬atue¬em¬alguma¬profissão¬correlata,¬por¬
+entender¬que¬tal¬situação¬pode¬contribuir¬para¬a¬formação¬de¬
+seus¬ alunos.¬ Com¬ base¬ no¬ Estatuto¬ da¬ USP,¬ tal¬ intenção¬
+poderá¬ser¬garantida,¬desde¬que¬a¬Unidade¬
+¬
+(A)¬requeira,¬ sem¬ necessidade¬ de¬ apresentar¬ justificativa,¬ a¬
+alteração¬do¬regime¬da¬vaga¬aos¬órgãos¬competentes¬da¬
+reitoria.¬
+(B)¬disponibilize¬a¬vaga¬em¬regime¬de¬dedicação¬exclusiva¬e¬
+nenhum¬candidato¬se¬inscreva.¬
+(C)¬disponibilize¬a¬vaga¬em¬regime¬de¬dedicação¬exclusiva¬e¬
+nenhum¬candidato¬seja¬habilitado¬ao¬final¬do¬certame.¬
+(D)¬disponibilize¬a¬vaga¬em¬regime¬de¬dedicação¬exclusiva¬e¬
+nenhum¬ candidato¬ se¬ inscreva¬ ou,¬ caso¬ haja¬ inscritos,¬
+nenhum¬seja¬habilitado¬ao¬final¬do¬certame.¬
+(E)¬comprove¬que¬a¬contratação¬nos¬moldes¬descritos¬atende¬
+aos¬interesses¬da¬USP.¬
+##### 
+¬
+{26} 
+A¬autonomia¬universitária¬não¬é¬uma¬forma¬de¬isolamento¬entre¬
+a¬Universidade¬e¬a¬sociedade.¬Nos¬termos¬do¬Estatuto¬e¬do¬
+Regimento¬ Geral¬ da¬ USP,¬ isso¬ é¬ percebido,¬ EXCETO,¬ pela¬
+participação¬de¬representantes¬indicados¬
+¬
+(A)¬pelas¬ Secretarias¬ de¬ Economia¬ e¬ Planejamento¬ e¬ da¬
+Fazenda¬ para¬ comporem¬ o¬ Grupo¬ de¬ Planejamento¬
+Setorial.¬
+(B)¬pela¬ Assembleia¬ Legislativa¬ e¬ pela¬ Presidência¬ da¬
+Fundação¬ de¬ Amparo¬ à¬ Pesquisa¬ do¬ Estado¬ para¬
+comporem¬o¬Conselho¬Consultivo.¬
+(C)¬pelo¬
+corpo¬
+discente¬
+para¬
+compor¬
+o¬
+Grupo¬
+de¬
+Planejamento¬Setorial.¬
+(D)¬pelas¬ Classes¬ Trabalhadoras¬ do¬ Estado¬ para¬ compor¬ o¬
+Conselho¬Universitário.¬
+(E)¬pela¬Federação¬da¬Agricultura¬do¬Estado¬para¬compor¬o¬
+Conselho¬Universitário.¬
+##### 
+¬
+{27} 
+Com¬base¬no¬Regimento¬Geral¬da¬USP,¬é¬correto¬afirmar¬que¬
+as¬ bancas¬ examinadoras¬ dos¬ concursos¬ para¬ a¬ carreira¬
+docente¬são¬
+¬
+(A)¬compostas¬por¬4¬membros,¬sendo¬certo¬que¬o¬Presidente¬
+não¬possui¬direito¬de¬voto.¬
+(B)¬indicadas¬ sempre¬ pelas¬ Congregações¬ das¬ Unidades,¬
+diretamente.¬
+(C)¬formadas,¬ sempre,¬ por¬ Professores¬ Titulares,¬ sendo¬ a¬
+maioria¬deles¬da¬própria¬USP.¬
+(D)¬formadas,¬sempre,¬por¬examinadores¬de¬mesma¬ou¬inferior¬
+titulação¬que¬a¬dos¬candidatos¬inscritos.¬
+(E)¬indicadas¬após¬o¬término¬do¬período¬de¬inscrições¬para¬
+evitar¬conflito¬de¬interesses.¬
+##### 
+¬
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Concurso Edital RH nº 073/2025 – Técnico de Laboratório (especialidade: criogenia) 
+{28} 
+Considere¬o¬Microsoft¬Excel¬do¬Microsoft¬365¬(Office¬365¬PT-
+BR)¬e¬funções¬em¬português¬(separador¬de¬argumentos¬“;”).¬
+Em¬ uma¬ coluna¬ de¬ notas¬ (B2:B101),¬ é¬ necessário¬ contar¬
+quantas¬são¬maiores¬ou¬iguais¬a¬7.¬Assinale¬a¬alternativa¬que¬
+apresenta¬a¬função¬que¬resolve¬essa¬necessidade.¬
+¬
+(A) =CONT.VALORES(B2:B101) 
+(B) =CONT.SE(B2:B101; ">=7") 
+(C) =SOMASE(B2:B101; ">=7") 
+(D)¬=PROCV(7; B2:B101; 1; VERDADEIRO) 
+(E)¬=TEXTO(B2:B101; "0") 
+##### 
+¬
+{29} 
+No¬Microsoft¬PowerPoint¬do¬Microsoft¬365¬(Office¬365¬PT-BR),¬
+é¬necessário¬que¬a¬apresentação¬exiba¬o¬mesmo¬logotipo¬em¬
+todos¬os¬slides.¬Assinale¬a¬alternativa¬que¬apresenta¬a¬forma¬
+mais¬ eficiente¬ de¬ aplicar¬ e¬ manter¬ esse¬ elemento¬ de¬ forma¬
+integral.¬
+¬
+(A)¬Copiar¬e¬colar¬o¬logotipo¬manualmente¬em¬cada¬slide¬da¬
+apresentação.¬
+(B)¬Duplicar¬ o¬ primeiro¬ slide¬ com¬ logotipo¬ e¬ usar¬ as¬ cópias¬
+como¬modelo.¬
+(C)¬Aplicar¬ uma¬ Transição¬ e¬ marcar¬ “Aplicar¬ a¬ todos”¬ para¬
+replicar¬o¬logotipo¬nos¬slides.¬
+(D)¬Alterar¬o¬Tema¬e¬usar¬uma¬opção¬“Incluir¬logotipo”.¬
+(E)¬Abrir¬ Exibir¬ >¬ Slide¬ Mestre;¬ inserir¬ o¬ logotipo¬ no¬
+mestre/layout¬e¬fechar¬o¬modo¬Mestre.¬
+##### 
+¬
+{30} 
+No¬Microsoft¬Word¬do¬Microsoft¬365¬(PT-BR),¬é¬necessário¬que¬
+o¬ documento¬ tenha¬ um¬ sumário¬ automático¬ que¬ se¬ atualize¬
+sempre¬que¬os¬títulos¬forem¬alterados¬(inseridos,¬renomeados¬
+ou¬ reordenados).¬ Assinale¬ a¬ alternativa¬ que¬ apresenta¬ o¬
+procedimento¬correto¬para¬esta¬necessidade.¬
+¬
+(A)¬Inserir¬quebras¬de¬página¬antes¬de¬cada¬título,¬aumentar¬o¬
+tamanho¬ da¬ fonte¬ e¬ usar¬ tabuladores¬ para¬ desenhar¬ as¬
+linhas¬do¬sumário.¬
+(B)¬Aumentar¬manualmente¬o¬tamanho¬da¬fonte¬dos¬títulos¬e¬
+desenhar¬linhas¬com¬o¬tabulador.¬
+(C)¬Aplicar¬ estilos¬ “Título¬ 1,¬ Título¬ 2,¬ …”¬ aos¬ cabeçalhos¬ e¬
+inserir¬o¬Sumário¬em¬Referências¬->¬Sumário¬(atualizando¬
+com¬F9¬quando¬necessário).¬
+(D)¬Aplicar¬ um¬ Tema¬ ao¬ documento¬ e¬ selecionar¬ “Gerar¬
+sumário¬ pelos¬ tamanhos¬ de¬ fonte”¬ (atualizando¬ com¬ F9¬
+quando¬necessário).¬
+(E)¬Transformar¬ as¬ páginas¬ em¬ imagens¬ e¬ inserir¬ uma¬ lista¬
+numerada¬no¬início.¬
+##### 
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+{31} 
+Em¬ um¬ desenho¬ técnico¬ utilizando¬ o¬ sistema¬ do¬ Terceiro¬
+Diedro,¬qual¬é¬a¬posição¬correta¬da¬vista¬lateral¬esquerda?¬
+¬
+(A) À¬esquerda¬da¬vista¬frontal.¬
+(B) À¬direita¬da¬vista¬frontal.¬
+(C) Abaixo¬da¬vista¬superior.¬
+(D) Acima¬da¬vista¬frontal.¬
+(E) Ao¬lado¬da¬vista¬superior.¬
+##### 
+¬
+{32} 
+Em¬ relação¬ à¬ representação¬ de¬ rolamentos¬ em¬ desenhos¬
+técnicos,¬é¬correto¬afirmar:¬
+¬
+(A) Devem¬ ser¬ desenhados¬ em¬ escala¬ real¬ com¬ todos¬ os¬
+detalhes¬internos.¬
+(B) São¬ representados¬ por¬ desenhos¬ artísticos¬ que¬ ilustram¬
+seu¬funcionamento¬interno.¬
+(C) Utilizam¬ símbolos¬ padronizados¬ que¬ indicam¬ o¬ tipo¬ e¬ a¬
+dimensão¬do¬rolamento.¬
+(D) São¬omitidos¬dos¬desenhos¬por¬serem¬peças¬compradas¬
+prontas.¬
+(E) Devem¬
+ser¬
+representados¬
+com¬
+vista¬
+explodida¬
+obrigatoriamente.¬
+##### 
+¬
+{33} 
+Qual¬ é¬ a¬ principal¬ finalidade¬ da¬ indicação¬ de¬ estado¬ de¬
+superfície¬em¬um¬desenho¬técnico?¬
+¬
+(A) Informar¬o¬tipo¬de¬revestimento¬protetor¬aplicado¬à¬peça.¬
+(B) Indicar¬ características¬ estéticas¬ desejadas¬ para¬ a¬
+superfície.¬
+(C) Especificar¬o¬acabamento¬necessário¬para¬a¬superfície.¬
+(D) Determinar¬ o¬ peso¬ aproximado¬ da¬ peça¬ com¬ base¬ no¬
+material.¬
+(E) Estimar¬o¬custo¬de¬usinagem¬da¬superfície¬representada.¬
+##### 
+¬
+{34} 
+Dentre¬as¬tolerâncias¬definidas¬em¬Desenho¬Técnico,¬qual¬é¬
+utilizada¬ para¬ garantir¬ que¬ uma¬ superfície¬ faça¬ um¬ ângulo¬
+específico¬em¬relação¬a¬um¬plano¬de¬referência?¬
+¬
+(A) Concentricidade.¬
+(B) Paralelismo.¬
+(C) Perpendicularidade.¬
+(D) Inclinação.¬
+(E) Simetria.¬
+##### 
+¬
+{35} 
+Qual¬ é¬ a¬ unidade¬ de¬ pressão¬ no¬ Sistema¬ Internacional¬ de¬
+Unidades¬(SI)?¬
+¬
+(A) Pascal¬(Pa).¬
+(B) Bar¬(bar).¬
+(C) Atmosfera¬(atm).¬
+(D) Milímetro¬de¬mercúrio¬(mmHg).¬
+(E) Newton¬por¬centímetro¬quadrado¬(N/cm2)¬
+##### 
+
+
+--- PAGE 10 ---
+
+Concurso Edital RH nº 073/2025 – Técnico de Laboratório (especialidade: criogenia) 
+{36} 
+Em¬sistemas¬de¬ajuste,¬qual¬combinação¬representa¬um¬ajuste¬
+com¬folga?¬
+¬
+(A) Eixo¬H7¬e¬furo¬h6.¬
+(B) Eixo¬h6¬e¬furo¬H7.¬
+(C) Eixo¬H7¬e¬furo¬H7.¬
+(D) Eixo¬k6¬e¬furo¬H7.¬
+(E) Eixo¬m6¬e¬furo¬H7.¬
+##### 
+¬
+{37} 
+Qual¬é¬a¬resolução¬típica¬de¬um¬micrômetro¬em¬milímetros?¬
+¬
+(A) 1¬mm¬
+(B) 0,1¬mm¬
+(C) 0,001¬mm¬
+(D) 0,5¬mm¬
+(E) 0,01¬mm¬
+##### 
+¬
+{38} 
+Qual¬alternativa¬apresenta¬uma¬vantagem¬ da¬brasagem¬em¬
+relação¬à¬soldagem¬tradicional¬na¬união¬de¬tubulações?¬
+¬
+(A) Maior¬fusão¬dos¬metais¬base.¬
+(B) Necessidade¬de¬temperaturas¬mais¬elevadas.¬
+(C) Menor¬resistência¬mecânica¬da¬união.¬
+(D) Preservação¬das¬propriedades¬dos¬metais¬base.¬
+(E) Exclusividade¬para¬tubos¬de¬PVC.¬
+##### 
+¬
+{39} 
+Qual¬é¬o¬procedimento¬correto¬após¬atingir¬o¬vácuo¬desejado¬
+em¬um¬sistema¬de¬refrigeração?¬
+¬
+(A) Injetar¬óleo¬lubrificante¬no¬sistema.¬
+(B) Desligar¬a¬bomba¬de¬vácuo¬e¬liberar¬o¬ar¬ambiente.¬
+(C) Realizar¬teste¬de¬estanqueidade¬com¬nitrogênio¬seco.¬
+(D) Adicionar¬água¬para¬verificar¬a¬vedação.¬
+(E) Ligar¬o¬compressor¬imediatamente.¬
+##### 
+¬
+{40} 
+Qual¬alternativa¬apresenta¬uma¬condição¬ideal¬para¬medição¬
+de¬temperatura¬em¬um¬sistema¬de¬climatização?¬
+¬
+(A) Sensor¬posicionado¬próximo¬ao¬compressor.¬
+(B) Medição¬feita¬com¬o¬sistema¬desligado.¬
+(C) Sensor¬em¬contato¬direto¬com¬o¬fluido¬refrigerante.¬
+(D) Sensor¬posicionado¬na¬saída¬do¬evaporador.¬
+(E) Medição¬feita¬em¬ambiente¬externo.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+{41} 
+Qual¬alternativa¬caracteriza¬a¬manutenção¬preditiva?¬
+¬
+(A) Realizada¬após¬a¬falha¬do¬equipamento.¬
+(B) Baseada¬em¬tempo¬e¬ciclos¬de¬operação.¬
+(C) Utiliza¬sensores¬e¬análises¬para¬prever¬falhas.¬
+(D) É¬feita¬apenas¬em¬equipamentos¬novos.¬
+(E) Não¬requer¬conhecimento¬técnico¬especializado.¬
+##### 
+¬
+{42} 
+Na¬soldagem¬ a¬gás,¬qual¬gás¬é¬comumente¬utilizado¬como¬
+combustível?¬
+¬
+(A) Nitrogênio.¬
+(B) Oxigênio.¬
+(C) Dióxido¬de¬carbono.¬
+(D) Hélio.¬
+(E) Acetileno.¬
+##### 
+¬
+{43} 
+Qual¬ equipamento¬ é¬ comumente¬ utilizado¬ na¬ soldagem¬ por¬
+arco¬elétrico?¬
+¬
+(A) Fonte¬de¬soldagem¬com¬eletrodo¬revestido.¬
+(B) Máquina¬de¬corte¬a¬plasma.¬
+(C) Gerador¬de¬indução.¬
+(D) Maçarico¬de¬soldagem¬oxiacetilênica.¬
+(E) Tocha¬de¬brasagem.¬
+##### 
+¬
+{44} 
+Na¬fresagem,¬qual(is)¬movimento(s)¬é(são)¬realizado(s)¬pela¬
+ferramenta?¬
+¬
+(A) Rotação¬e¬avanço.¬
+(B) Somente¬avanço.¬
+(C) Somente¬rotação.¬
+(D) Movimento¬alternado.¬
+(E) Vibração¬controlada.¬
+##### 
+¬
+{45} 
+Quais¬fatores¬influenciam¬diretamente¬na¬usinabilidade¬de¬um¬
+material?¬
+¬
+(A) Densidade¬da¬peça¬e¬forma¬geométrica¬da¬ferramenta.¬
+(B) Tipo¬de¬lubrificante¬usado¬e¬tipo¬de¬fixação¬da¬peça.¬
+(C) Dureza,¬condutividade¬térmica¬e¬composição¬química.¬
+(D) Forma¬geométrica¬da¬ferramenta,¬tipo¬de¬fixação¬da¬peça¬
+e¬dureza.¬
+(E) Tipo¬ de¬ fixação¬ da¬ peça,¬ condutividade¬ térmica¬ e¬
+composição¬química.¬
+##### 
+¬
+
+
+--- PAGE 11 ---
+
+Concurso Edital RH nº 073/2025 – Técnico de Laboratório (especialidade: criogenia) 
+{46} 
+Qual¬ alternativa¬ apresenta¬ duas¬ vantagens¬ das¬ uniões¬
+soldadas¬em¬relação¬às¬uniões¬parafusadas¬em¬uma¬estrutura¬
+permanente?¬
+¬
+(A) Facilidade¬
+de¬
+desmontagem¬
+e¬
+maior¬
+flexibilidade¬
+dimensional.¬
+(B) Maior¬flexibilidade¬dimensional¬e¬redução¬de¬peso.¬¬
+(C) Redução¬de¬peso¬e¬aumento¬da¬rigidez¬estrutural.¬¬
+(D) Menor¬ custo¬ de¬ manutenção¬ e¬ aumento¬ da¬ rigidez¬
+estrutural.¬
+(E) Possibilidade¬de¬reaproveitamento¬das¬peças¬e¬facilidade¬
+de¬desmontagem.¬
+##### 
+¬
+{47} 
+Quais¬ são¬ as¬ principais¬ vantagens¬ do¬ uso¬ de¬ polias¬ em¬
+sistemas¬de¬transmissão¬por¬correia?¬
+¬
+(A) Redução¬ da¬ velocidade¬ de¬ rotação¬ e¬ aumento¬ da¬
+temperatura¬de¬operação.¬
+(B) Aumento¬ da¬ temperatura¬ de¬ operação¬ e¬ facilidade¬ de¬
+substituição.¬¬
+(C) Facilidade¬de¬substituição¬e¬absorção¬de¬choques.¬
+(D) Transmissão¬de¬movimento¬com¬flexibilidade¬e¬absorção¬
+de¬choques.¬
+(E) Eliminação¬da¬necessidade¬de¬manutenção¬e¬facilidade¬de¬
+substituição.¬
+##### 
+¬
+{48} 
+Qual¬tipo¬de¬freio¬é¬mais¬utilizado¬em¬aplicações¬que¬exigem¬
+frenagem¬rápida¬e¬precisa?¬
+¬
+(A) Freio¬centrífugo.¬
+(B) Freio¬de¬tambor.¬
+(C) Freio¬de¬fricção.¬
+(D) Freio¬hidráulico.¬
+(E) Freio¬eletromagnético.¬
+##### 
+¬
+{49} 
+Qual¬é¬o¬componente¬responsável¬por¬remover¬impurezas¬e¬
+umidade¬do¬ar¬comprimido¬antes¬de¬seu¬uso?¬¬
+¬
+(A) Filtro-regulador-lubrificador¬(FRL).¬
+(B) Válvula¬de¬retenção.¬
+(C) Atuador¬pneumático.¬
+(D) Reservatório¬de¬ar.¬
+(E) Manômetro.¬
+##### 
+¬
+{50} 
+Qual¬alternativa¬apresenta¬uma¬vantagem¬dos¬compressores¬
+centrífugos¬em¬aplicações¬industriais?¬¬
+¬
+(A) Baixo¬custo¬de¬manutenção¬em¬sistemas¬pequenos.¬
+(B) Alta¬eficiência¬em¬baixas¬pressões.¬
+(C) Capacidade¬de¬fornecer¬grandes¬volumes¬de¬ar¬com¬fluxo¬
+contínuo.¬
+(D) Facilidade¬de¬transporte¬e¬instalação.¬¬
+(E) Operação¬silenciosa¬em¬ambientes¬domésticos.¬
+##### 
+{51} 
+Qual¬ componente¬ é¬ utilizado¬ para¬ converter¬ energia¬
+pneumática¬em¬movimento¬linear?¬¬
+¬
+(A) Sensor¬de¬pressão.¬
+(B) Atuador¬pneumático.¬¬
+(C) Silenciador¬pneumático.¬
+(D) Conector¬rápido.¬
+(E) Válvula¬solenoide.¬
+##### 
+¬
+{52} 
+Qual¬é¬o¬ciclo¬térmico¬mais¬comum¬em¬motores¬de¬combustão¬
+interna?¬¬
+¬
+(A) Ciclo¬de¬Otto.¬
+(B) Ciclo¬de¬Rankine.¬
+(C) Ciclo¬de¬Carnot.¬
+(D) Ciclo¬de¬Brayton.¬
+(E) Ciclo¬de¬Stirling.¬
+##### 
+¬
+{53} 
+Qual¬é¬a¬principal¬função¬de¬um¬compressor¬em¬um¬sistema¬
+de¬refrigeração?¬
+¬
+(A) Resfriar¬o¬ar¬diretamente.¬
+(B) Aumentar¬a¬pressão¬do¬fluido¬refrigerante.¬
+(C) Reduzir¬a¬temperatura¬do¬condensador.¬
+(D) Controlar¬o¬fluxo¬de¬ar.¬
+(E) Medir¬a¬temperatura¬ambiente.¬
+##### 
+¬
+{54} 
+Qual¬é¬a¬função¬da¬válvula¬de¬expansão¬em¬um¬circuito¬de¬
+refrigeração?¬¬
+¬
+(A) Aumentar¬a¬pressão¬do¬fluido.¬
+(B) Controlar¬a¬temperatura¬do¬evaporador.¬
+(C) Aumentar¬a¬temperatura¬do¬fluido.¬
+(D) Reduzir¬a¬pressão¬do¬fluido¬antes¬do¬evaporador.¬
+(E) Controlar¬o¬fluxo¬de¬ar.¬
+##### 
+¬
+{55} 
+Qual¬a¬função¬de¬um¬trocador¬de¬calor¬regenerativo?¬¬
+¬
+(A) Transferir¬calor¬entre¬dois¬fluidos¬sem¬contato¬direto.¬
+(B) Controlar¬o¬fluxo¬de¬calor¬por¬meio¬de¬válvulas.¬
+(C) Reduzir¬a¬temperatura¬do¬fluido¬de¬entrada.¬
+(D) Aumentar¬a¬pressão¬do¬fluido¬de¬saída.¬
+(E) Armazenar¬calor¬para¬reutilização¬no¬próprio¬sistema.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 12 ---
+
+Concurso Edital RH nº 073/2025 – Técnico de Laboratório (especialidade: criogenia) 
+{56} 
+Qual¬ componente¬ é¬ usado¬ para¬ impedir¬ ou¬ permitir¬ a¬
+passagem¬de¬corrente¬alternada¬em¬um¬circuito?¬¬
+¬
+(A) Interruptor.¬
+(B) Indutor.¬
+(C) Resistor.¬
+(D) Transformador.¬
+(E) Capacitor.¬
+##### 
+¬
+{57} 
+Um¬resistor¬de¬10¬Ω¬é¬submetido¬a¬uma¬corrente¬de¬2¬A.¬Qual¬
+a¬potência¬dissipada?¬
+¬
+(A)¬20¬W¬
+(B)¬40¬W¬
+(C)¬10¬W¬
+(D)¬5¬W¬
+(E)¬15¬W¬
+##### 
+¬
+{58} 
+Em¬um¬circuito¬em¬série,¬é¬correto¬afirmar¬que¬a¬corrente:¬
+¬
+(A) Divide-se¬igualmente¬entre¬os¬componentes.¬
+(B) É¬a¬mesma¬em¬todos¬os¬componentes.¬
+(C) Vai¬diminuindo¬do¬primeiro¬para¬o¬último¬componente.¬
+(D) Vai¬aumentando¬do¬primeiro¬para¬o¬último¬componente.¬
+(E) É¬nula¬no¬último¬componente.¬
+##### 
+¬
+{59} 
+Qual¬instrumento¬é¬mais¬adequado¬para¬visualizar¬formas¬de¬
+onda¬em¬circuitos¬elétricos?¬¬
+¬
+(A) Multímetro.¬
+(B) Voltímetro.¬
+(C) Amperímetro.¬
+(D) Osciloscópio.¬
+(E) Ohmímetro.¬
+##### 
+¬
+{60} 
+Qual¬ componente¬ é¬ responsável¬ por¬ armazenar¬ o¬ ar¬
+comprimido¬e¬ajudar¬na¬estabilização¬da¬pressão¬do¬sistema?¬
+¬
+(A) Sensor¬de¬temperatura.¬
+(B) Tubo¬de¬escape.¬
+(C) Controlador¬lógico¬programável¬(CLP).¬
+(D) Válvula¬de¬alívio.¬¬
+(E) Reservatório¬de¬ar.¬¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 13 ---
+
+Concurso Edital RH nº 073/2025 – Técnico de Laboratório (especialidade: criogenia) 
+Questão dissertativa 
+Redija¬um¬texto¬sobre¬o¬tema¬"Aplicações¬da¬Criogenia",¬dando¬sua¬visão¬a¬respeito¬do¬que¬é¬atuar¬como¬técnico¬em¬Criogenia,¬
+abordando,¬no¬mínimo,¬os¬seguintes¬aspectos:¬
+-¬Definição;¬
+-¬Aplicações¬típicas;¬
+-¬Cuidados¬práticos¬e¬responsabilidades¬do¬técnico¬em¬Criogenia¬no¬ambiente¬de¬laboratório;¬
+-¬Exigência¬de¬precisão¬nas¬operações;¬
+-¬Campo¬em¬permanente¬desenvolvimento;¬
+-¬Atualização¬continuada¬do¬profissional.¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Instruções:  
+• As¬respostas¬deverão¬ser¬redigidas¬de¬acordo¬com¬a¬norma¬padrão¬da¬língua¬portuguesa.¬¬
+• Escreva¬com¬letra¬legível¬e¬não¬ultrapasse¬o¬espaço¬de¬linhas¬disponíveis¬da¬folha¬de¬respostas.¬¬
+• Receberão¬nota¬zero¬textos¬que¬desrespeitarem¬os¬direitos¬humanos¬e¬textos¬que¬permitirem,¬por¬qualquer¬modo,¬a¬identificação¬do(a)¬candidato(a).¬
+¬
+
+
+--- PAGE 14 ---
+
+ 
+
+
+--- PAGE 15 ---
+
+ 
+
+
+--- PAGE 16 ---
+
+ 
+ 
+ 
+Concurso DRH USP Dezembro 2025 
+Publicado em 08/12/2025. 
+Universidade de São Paulo
+Técnico de Laboratório (especialidade: criogenia) 
+Edital RH Nº 073/2025  
+PROVA TLC 
+01 
+D 
+ 
+31 
+B 
+02 
+A 
+ 
+32 
+C 
+03 
+E 
+ 
+33 
+C 
+04 
+B 
+ 
+34 
+D 
+05 
+C 
+ 
+35 
+A 
+06 
+E 
+ 
+36 
+B 
+07 
+A 
+ 
+37 
+E 
+08 
+C 
+ 
+38 
+D 
+09 
+D 
+ 
+39 
+C 
+10 
+D 
+ 
+40 
+D 
+11 
+B 
+ 
+41 
+C 
+12 
+C 
+ 
+42 
+E 
+13 
+B 
+ 
+43 
+A 
+14 
+A 
+ 
+44 
+A 
+15 
+E 
+ 
+45 
+C 
+16 
+B 
+ 
+46 
+C 
+17 
+A 
+ 
+47 
+D 
+18 
+C 
+ 
+48 
+E 
+19 
+B 
+ 
+49 
+A 
+20 
+D 
+ 
+50 
+C 
+21 
+E 
+ 
+51 
+B 
+22 
+B 
+ 
+52 
+A 
+23 
+E 
+ 
+53 
+B 
+24 
+A 
+ 
+54 
+D 
+25 
+E 
+ 
+55 
+E 
+26 
+C 
+ 
+56 
+A 
+27 
+E 
+ 
+57 
+B 
+28 
+B 
+ 
+58 
+B 
+29 
+E 
+ 
+59 
+D 
+30 
+C 
+ 
+60 
+E 
+ 
+ 
+ 
+
+
+--- PAGE 17 ---
+
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 073/2025   
+ 
+Técnico de Laboratório (especialidade: 
+criogenia) 
+QUESTÃO DISSERTATIVA 
+RESPOSTA ESPERADA 
+ 
+A criogenia, ramo da física que estuda os efeitos de temperaturas extremamente baixas, tem se consolidado como uma 
+ferramenta essencial, tanto na indústria quanto na ciência. Suas aplicações vão desde o resfriamento de equipamentos 
+eletrônicos de alta precisão até a conservação de amostras biológicas em laboratórios de pesquisa e saúde. Alguns 
+exemplos de situações em que a criogenia é empregada são: processos de separação de gases, tratamento térmico 
+de metais, operação de equipamentos que empregam dispositivos supercondutores, tais como as bobinas de altos 
+campos magnéticos que operam em laboratórios de pesquisa, e os tomógrafos das centrais de diagnóstico. 
+No campo científico, destaca-se a importância da criogenia na preservação de tecidos, células-tronco, embriões e 
+amostras genéticas. A capacidade de manter essas estruturas em estado viável por longos períodos é fundamental para 
+pesquisas biomédicas, reprodução assistida e bancos de material biológico. A conservação em temperaturas 
+criogênicas, geralmente abaixo de -150 °C, impede reações químicas indesejadas e a degradação celular, garantindo 
+a integridade das amostras. 
+Nesse contexto, o técnico em criogenia desempenha um papel crucial. Sua atuação exige domínio de protocolos 
+rigorosos de segurança, conhecimento sobre os gases utilizados (como nitrogênio e hélio líquidos), e habilidade para 
+operar sistemas de resfriamento e armazenamento. Além disso, o técnico deve estar atento à manutenção dos 
+equipamentos, ao controle de temperatura e à manipulação cuidadosa das amostras, evitando contaminações ou perdas 
+irreversíveis. 
+Os desafios enfrentados incluem o risco de queimaduras por frio extremo, a necessidade de ambientes controlados e o 
+cumprimento de normas técnicas específicas. A responsabilidade do técnico vai além da operação: ele é guardião da 
+qualidade e da confiabilidade dos materiais conservados, sendo peça-chave na cadeia de pesquisa e inovação. Assim, 
+a criogenia é, a um só tempo, uma ferramenta essencial para a operação de tecnologias de ponta, como também um 
+campo que exige precisão, responsabilidade e constante atualização profissional. 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 18 ---
+
+ 
+CRITÉRIOS DE CORREÇÃO 
+ 
+• Critério 1: Completude e abrangência dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+Todos os conceitos principais são abordados com profundidade e detalhamento. 
+2 
+A maioria dos conceitos principais é abordada, mas pode faltar algum detalhe ou profundidade. 
+1 
+Alguns conceitos principais são abordados, mas a explicação é superficial ou incompleta. 
+0  
+Pouco ou nenhum conceito relevante é abordado. 
+ 
+• Critério 2: Domínio e aprofundamento dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+A resposta é precisa, com informações corretas e bem explicadas. 
+2 
+A resposta é em sua maioria precisa, mas pode conter alguns pequenos erros ou imprecisões. 
+1 
+A resposta contém várias imprecisões ou erros conceituais, mas a ideia geral é compreensível. 
+0  
+A resposta está incorreta e confusa. 
+ 
+• Critério 3: Aplicação prática / exemplificação dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+A resposta faz uma excelente conexão entre os conceitos teóricos e suas aplicações práticas. 
+2 
+A resposta faz boas conexões entre teoria e prática, mas pode ser aprimorada com mais exemplos 
+ou detalhes. 
+1 
+A conexão entre teoria e prática é mencionada, mas é superficial ou pouco clara. 
+0  
+A resposta não aborda a aplicação prática e não apresenta exemplos dos conceitos. 
+ 
+• Critério 4: Clareza e Coerência (0 a 1 ponto): 
+Faixa de nota 
+Critério 
+1 
+O texto é extremamente claro e coerente, apresentando uma explicação lógica e bem estruturada 
+dos conceitos. 
+0,5 
+O texto é claro e coerente, com algumas pequenas falhas na estrutura ou na explicação. 
+0 
+O texto é compreensível, mas apresenta várias falhas na clareza ou na coerência que dificultam a 
+compreensão total. 
+ 

@@ -1,0 +1,1819 @@
+
+
+--- PAGE 1 ---
+
+ 
+ 
+MIP 
+ 
+ 
+ANOS ADICIONAIS 
+Medicina Intensiva Pediátrica 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   PROCESSO SELETIVO AOS PROGRAMAS DE RESIDÊNCIA MÉDICA 2026   
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo MIP. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 4 horas. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo 
+fiscal. O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14h30. Não haverá tempo 
+adicional para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 50 questões objetivas, 
+com 5 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Ano Adicional – Medicina Intensiva Pediátrica – Edital COREME/FMBRU/RM Nº 02/2025 – PROVA MIP 
+{01} 
+Paciente de 13 anos de idade, sexo masculino, diagnosticado 
+com osteossarcoma não metastático no fêmur direito. Vem 
+sendo submetido a tratamento quimioterápico com pouca 
+resposta e muitos efeitos adversos que estão comprometendo 
+a qualidade de vida do adolescente. A equipe de oncologia 
+pediátrica chama a família e o paciente para comunicar que a 
+melhor opção terapêutica, neste caso, seria a amputação do 
+membro. O adolescente fica muito revoltado com esta notícia 
+e diz que prefere morrer a ter sua perna amputada. Os pais 
+estão confusos, brigando muito, mas querem que ele seja 
+submetido ao tratamento que aumente suas chances de 
+sobrevida. Assinale a alternativa que apresenta a melhor 
+estratégia para lidar com o caso. 
+ 
+(A) Acionar a equipe multiprofissional, controlar os sintomas 
+físicos e emocionais adequadamente, fazer escuta 
+empática do paciente e da família buscando aproximação 
+para mediar a negociação do tratamento cirúrgico 
+(amputação). 
+(B) Permitir que a criança de 13 anos exerça sua autonomia e 
+não a submeter a uma amputação sem seu consentimento 
+mesmo que isso diminua suas chances de sobrevida. 
+(C) Acatar a decisão dos responsáveis legais e programar 
+imediatamente a cirurgia de amputação. 
+(D) Judicializar o caso. 
+(E) Sair do caso e orientar a família a procurar outro serviço de 
+saúde. 
+##### 
+ 
+{02} 
+Paciente de 16 anos de idade, sexo masculino, com 
+adrenoleucodistrofia em fase avançada, já usa gastrostomia e 
+traqueostomia. É cuidado pelos pais, que vêm notando piora 
+progressiva de seu quadro clínico e sua interação com o meio, 
+principalmente no último ano. Desde que notaram a piora, 
+estão fazendo acompanhamento com a equipe de cuidados 
+paliativos pediátricos, que elaborou um planejamento 
+antecipado 
+de 
+cuidados 
+em 
+modelo 
+de 
+decisão 
+compartilhada com a família. Esse planejamento propõe o 
+“trial” em caso de infecções graves, ou seja, tratamento com 
+antibioticoterapia e ventilação mecânica convencional na UTI 
+e observação da resposta clínica. Atualmente, o paciente está 
+internado na UTI em tratamento de pneumonia, com 
+parâmetros ventilatórios altos, sedação contínua endovenosa, 
+porém evoluindo com refratariedade ao tratamento e piora 
+clínica progressiva. Os pais dizem à equipe da UTI que seu 
+filho está em sofrimento intenso e que não gostariam de 
+prolongá-lo. Assinale a alternativa que apresenta a melhor 
+maneira de lidar com o caso. 
+ 
+(A) O pedido dos pais equivale a eutanásia, portanto, deve-se 
+solicitar autorização judicial para tal. 
+(B) Manter todo o suporte avançado de vida protocolarmente, 
+inclusive com reanimação cardiopulmonar em caso de 
+parada cardíaca. 
+(C) Acionar o Ministério Público, considerando que os pais 
+estão tendo uma atitude inadequada para a fase final de 
+vida. 
+(D) Como o paciente tem uma enfermidade incurável, 
+progressiva, avançada, irreversível e encontra-se em 
+refratariedade terapêutica, alinhar e planejar, de maneira 
+interprofissional, com os cuidados paliativos pediátricos, 
+cuidados de fim de vida com foco no conforto e na 
+dignidade do paciente e da família. 
+(E) Retirar a sedação e analgesia, a ventilação, a terapia 
+nutricional e dar alta da UTI. ##### 
+{03} 
+Paciente de 10 anos de idade, vítima de atropelamento por 
+automóvel em alta velocidade, dá entrada no PS com colar 
+cervical, em prancha rígida, com escala de coma de  
+Glasgow 5, anisocoria, bradicardia, taquipneia e com 
+hipertensão arterial sistêmica. Foi intubado após sequência 
+rápida de intubação e submetido a pantomografia que 
+evidenciou hematoma intracraniano extradural com desvio de 
+linha média. A conduta indicada para este paciente é: 
+ 
+(A) Tratamento conservador e observação na UTI pediátrica. 
+(B) Drenagem cirúrgica do hematoma. 
+(C) Tomografia controle de 12 em 12 horas. 
+(D) Monitorização não invasiva da pressão intracraniana. 
+(E) Protocolo de transfusão maciça. 
+##### 
+ 
+{04} 
+Paciente de 1 ano e 3 meses de idade, peso de 10 kg, sofreu 
+queimadura tipo escaldadura há 30 minutos. A área de 
+superfície corporal queimada é de 25%, com queimaduras de 
+segundo grau profundas e superficiais. Assinale a alternativa 
+que apresenta o esquema de hidratação adequado para este 
+paciente. 
+ 
+(A) Ringer Lactato – preparação a 10% (1 L) em 6 horas. 
+(B) Albumina a 5% – 750 mL em 16 horas + soro de 
+manutenção com glicose. 
+(C) Ringer Lactato – 750 mL em 16 horas + soro de 
+manutenção com glicose. 
+(D) Ringer Lactato – 750 mL, sendo 2/3 do volume (500 mL) 
+nas primeiras 8 horas e 1/3 (250 mL) nas 16 horas restantes 
++ soro de manutenção com glicose. 
+(E) Ringer Lactato – 1000 mL, sendo 2/3 do volume (670 mL) 
+nas primeiras 8 horas e 1/3 (330 mL) nas 16 horas 
+restantes. 
+##### 
+ 
+{05} 
+Paciente de 9 anos de idade, previamente hígido, internado 
+para tratamento de pneumonia bacteriana na enfermaria com 
+ceftriaxona há 5 dias. Houve melhora da febre, dos sintomas 
+respiratórios e dos marcadores laboratoriais de infecção como 
+hemograma completo e proteína C reativa. No quinto dia de 
+internação, evoluiu com oligoanúria, dor abdominal em cólica 
+e aumento em duas vezes da creatinina sérica. Eletrólitos 
+estão normais. O ultrassom abdominal evidenciou dilatação 
+pielocalicial bilateral. Com base no caso descrito, assinale a 
+alternativa correta. 
+ 
+(A) Está indicada terapia contínua de substituição renal. 
+(B) Está indicada diálise peritoneal. 
+(C) É necessário solicitar avaliação da equipe da urologia para 
+desobstrução ureteral devido a lesão renal aguda 
+obstrutiva pós renal. 
+(D) O aumento da creatinina sérica em duas vezes não 
+configura lesão renal aguda. 
+(E) Está indicada hemodiálise convencional intermitente. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Ano Adicional – Medicina Intensiva Pediátrica – Edital COREME/FMBRU/RM Nº 02/2025 – PROVA MIP 
+{06} 
+Menina, 9 anos de idade, peso de 40 kg, previamente hígida, 
+sofreu um trauma durante um passeio de bicicleta. Foi 
+encontrada em Glasgow 15. Ao exame físico, apresentava 
+taquicardia, extremidades frias, hematoma de parede na 
+região do hipocôndrio direito, distensão e dor à palpação 
+abdominal. O FAST mostrou líquido livre em cavidade 
+abdominal. Indicada tomografia de abdome com contraste 
+que evidenciou trauma hepático grau 3. A paciente recebeu 
+400 mL de Ringer Lactato, analgesia com dipirona e 
+apresentou mehora da taquicardia. A medida da hemoglobina 
+na admissão foi de 9 g/dL. A equipe da cirurgia orientou jejum, 
+manejo não operatório e internação na UTI pediátrica para 
+monitorização com controle seriado de hemoglobina e 
+hematócrito. Com base no caso descrito, assinale a alternativa 
+correta. 
+ 
+(A) A conduta descrita no caso apresentado está correta. 
+(B) Como o paciente apresenta líquido livre na cavidade e 
+anemia, está indicada transfusão de concentrado de 
+hemácias. 
+(C) Por tratar-se de trauma hepático de grau 3, está indicada 
+laparotomia exploradora. 
+(D) Como houve melhora da taquicardia e a paciente ficou 
+estável após expansão com Ringer Lactato, não é 
+necessário jejum. 
+(E) Devido à presença de líquido livre na cavidade e lesão 
+hepática, está indicada embolização arterial por radiologia 
+intervencionista. 
+##### 
+ 
+{07} 
+Em 2025, as recomendações de suporte avançado de vida em 
+pediatria da American Heart Association foram atualizadas. 
+Segundo, as atualizações mais recentes, é correto afirmar: 
+ 
+(A) O valor do CO2 exalado guia a interrupção da reanimação 
+cardiopulmonar. 
+(B) A técnica de compressões torácicas com 2 dedos foi 
+retirada. 
+(C) A técnica de compressões torácicas com 2 polegares e 
+mãos circundando o tórax foi retirada. 
+(D) Os golpes nas costas para desobstrução de vias aéreas 
+em crianças não são recomendados. 
+(E) Após a reanimação cardiopulmonar, no pós parada, os 
+alvos de pressão arterial sistólica, diastólica e média são 
+manter pelo menos no percentil 5 para a idade. 
+##### 
+ 
+{08} 
+Em relação à insuficiência hepática aguda na criança, é 
+correto afirmar: 
+ 
+(A) Para ser classificada como aguda, tem que ter início em, 
+no máximo, 4 semanas da doença desencadeante em 
+pacientes sem comprometimento hepático prévio. 
+(B) Independente da faixa etária, as infecções virais são a 
+principal etiologia. 
+(C) Independente da faixa etária, as doenças metabólicas são 
+a principal etiologia. 
+(D) O tratamento deve ser realizado preferencialmente em 
+centros especializados em transplante hepático. 
+(E) Encefalopatia hepática está presente em menos de 10% 
+dos casos. 
+##### 
+ 
+{09} 
+Paciente de 1 ano e 6 meses de idade, previamente hígida, 
+com história de cansaço para respirar progressivo há 2 dias, 
+de início súbito enquanto comia amendoim. A mãe nega febre, 
+coriza, secreção nasal ou queda do estado geral. Nunca foi 
+internada, nega episódios anteriores de sibilância, alergias, 
+cirurgias anteriores ou quaisquer antecedentes dignos de 
+nota. 
+Ao 
+exame 
+físico, 
+nota-se 
+esforço 
+moderado, 
+necessidade de oxigênio em cateter de 02 nasal, diminuição 
+de murmúrio vesicular em todo o hemitórax esquerdo, com 
+alguns sibilos expiratórios mais audíveis à esquerda. O 
+hemograma completo é normal. A imagem de raio-X do tórax 
+em AP pode ser observada a seguir: 
+ 
+ 
+ 
+Com base no caso descrito, assinale a alternativa que 
+apresenta a principal hipótese diagnóstica. 
+ 
+(A) Atelectasia do pulmão esquerdo por aspiração de corpo 
+estranho. 
+(B) Pneumonia à esquerda com derrame pleural. 
+(C) Bronquiolite viral aguda. 
+(D) Malformação congênita de pulmão. 
+(E) Massa neoplásica em hemitórax esquerdo. 
+##### 
+ 
+{10} 
+Em 2024, foi publicado o escore de Phoenix para definição de 
+sepse e choque séptico em pediatria. Com base nesse 
+escore, assinale a alternativa correta. 
+ 
+(A) Pacientes com lactato sérico de 2,5 mmol/L pontuam para 
+o critério cardiovascular. 
+(B) Pacientes com PaO2/FiO2 de 350 não pontuam para o 
+critério respiratório. 
+(C) Pacientes com INR = 1,3 pontuam para o critério de 
+coagulação. 
+(D) Pacientes com escala de coma de Glasgow 13 pontuam 
+para o critério neurológico. 
+(E) A definição de choque séptico envolve, obrigatoriamente, 
+pontuar no critério cardiovascular. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Ano Adicional – Medicina Intensiva Pediátrica – Edital COREME/FMBRU/RM Nº 02/2025 – PROVA MIP 
+{11} 
+Paciente de 5 anos de idade, previamente hígido, evoluiu com 
+rebaixamento súbito do nível de consciência e é trazido ao 
+pronto atendimento em Gasgow 7, hemodinamicamente 
+estável. A família nega febre, vômitos, alteração de 
+comportamento, queixa de cefaleia, história de trauma, perda 
+de peso ou quaisquer outros sintomas nos últimos dias ou 
+horas. Negam presença de medicamentos em casa, mas 
+disseram que a criança costuma brincar na garagem onde o 
+pai guarda óleo de motor de carro e líquido de radiador. A 
+tomografia de crânio foi normal. Os exames laboratoriais 
+iniciais mostraram hipocalcemia (Ca iônico de 0,95 mmol/L), 
+lactato elevado (3,2 mmol/L), acidose metabólica e alcalose 
+respiratória, ânion GAP e GAP osmolar elevados. A creatinina 
+e ureia séricas aumentaram em 2,5x após algumas horas de 
+internação. Com base no caso descrito, pode-se afirmar: 
+ 
+(A) Há forte suspeita de intoxicação exógena por etilenoglicol, 
+sendo 
+indicada 
+terapia 
+dialítica 
+com 
+hemodiálise 
+intermitente. 
+(B) Há forte suspeita de intoxicação exógena por etilenoglicol, 
+sendo indicado tratamento conservador, pois etilenoglicol 
+não é dialisável. 
+(C) As alterações laboratoriais não são características de 
+intoxicação exógena, sendo necessário buscar outros 
+diagnósticos. 
+(D) Há forte suspeita de intoxicação exógena por etilenoglicol, 
+sendo indicada terapia dialítica com diálise peritoneal. 
+(E) As alterações laboratoriais e o quadro clínico são típicos 
+de distúrbios do ciclo da ureia, sendo indicada dosagem 
+de amônia e terapia dialítica. 
+##### 
+ 
+{12} 
+Paciente de 1 mês e 10 dias de vida, com história de que, aos 
+15 dias de vida, iniciou episódios de vômitos leitosos pós-
+mamadas, após aproximadamente 5 minutos do fim das 
+mamadas. Com duas semanas e meia de vida, iniciou uso de 
+aptamil anti-refluxo em complementação às mamadas por 
+cinco dias, conforme orientação do pediatra, sem melhora dos 
+quadros de vômitos. Após esse período, iniciou fórmula 
+parcialmente hidrolisada em associação ao aleitamento 
+materno: 60 mL em diluição 1:30 conforme nova orientação do 
+pediatra, porém mantendo vômitos 3 a 5 minutos após o fim 
+das mamadas. No período, perdeu peso (peso de nascimento 
+de 3.330 g e peso atual de 2.610 g). A mãe relata ainda que o 
+paciente apresenta movimentos e ruídos abdominais pré-
+vômitos. 
+Nega 
+febre, 
+sintomas 
+respiratórios, 
+diarreia, 
+hematêmese, melena ou enterorragia. Ao exame físico, 
+encontra-se emagrecido e desidratado, o abdome é 
+escavado, com palpação de oliva em região epigástrica, 
+apresentando algumas pausas respiratórias. A principal 
+hipótese diagnóstica para este paciente e o exame mais 
+adequado para confirmação são, respectivamente: 
+ 
+(A) Estenose 
+hipertrófica 
+de 
+piloro 
+e 
+tomografia 
+computadorizada de abdome. 
+(B) Estenose hipertrófica de piloro e ultrassom abdominal. 
+(C) Erro inato do metabolismo e painel metabólico com 
+aminoacidograma. 
+(D) Fibrose cística e dosagem de cloro no suor. 
+(E) Má rotação intestinal e raio-X de abdome. 
+##### 
+ 
+ 
+ 
+ 
+ 
+{13} 
+Paciente de 12 anos de iade, sexo masculino, residente em zona 
+urbana, sofreu trauma fechado durante jogo de futebol em joelho 
+esquerdo há 11 dias, tendo evoluído com dor local intensa em 
+região de joelho e quadril esquerdo, com febre de até 39 °C, 
+iniciada há 10 dias, com 2 picos diários inicialmente. Buscou 
+pronto 
+atendimento 
+diversas 
+vezes, 
+recebendo 
+apenas 
+orientações de observação do quadro e uso de anti-inflamatório 
+não esteroidal (ibuprofeno). Em relação ao joelho, foi notado 
+edema, além da dor, mas a família nega calor e hiperemia. Há  
+6 dias, evoluiu com icterícia, buscando novamente pronto 
+atendimento, sendo liberado para casa para avaliação 
+ambulatorial. Há 2 dias, retornou ao pronto atendimento com 
+piora da icterícia, associada a dispneia, queda do estado geral, 
+dor abdominal em hipocôndrio direito e dor em membro inferior 
+esquerdo intensa, com restrição de mobilidade. Além disso, o 
+padrasto refere que o paciente passou a apresentar picos febris 
+cada vez mais próximos. Há 1 dia, a família notou piora da 
+icterícia, oligúria, desconforto respiratório e piora da dor na perna 
+esquerda. Além disso, referem vômitos e sonolência, também há 
+1 dia. Ao exame físico, o paciente apresenta mau estado geral, 
+icterícia, taquicardia, hipotensão arterial, rash eritematoso difuso 
+na pele, edema, calor e dor localizados no joelho esquerdo. 
+Assinale a alternativa que apresenta a principal hipótese 
+diagnóstica para o caso descrito. 
+ 
+(A) Síndrome do choque tóxico estafilocócico ou estreptocócico. 
+(B) Leptospirose. 
+(C) Dengue. 
+(D) Artrite reumatoide juvenil. 
+(E) Febre amarela. 
+##### 
+ 
+{14} 
+A sedoanalgesia é um dos pilares da terapia intensiva, 
+desempenhando um papel crucial no alívio da dor, controle da 
+agitação e otimização da ventilação mecânica. Além disso, 
+contribui para a estabilidade hemodinâmica, reduzindo o 
+consumo 
+de 
+oxigênio 
+e 
+minimizando 
+impactos 
+neurocognitivos ao modular a resposta ao estresse. Com 
+relação aos sedativos e analgésicos mais utilizados em 
+pediatria, pode-se afirmar: 
+ 
+(A) O 
+midazolam 
+é 
+uma 
+droga 
+da 
+classe 
+dos 
+benzodiazepínicos que promove sedação, redução da 
+ansiedade ou amnésia e efeito analgésico. 
+(B) A ketamina promove sedação, analgesia e amnésia. É uma 
+boa opção em pacientes asmáticos. 
+(C) A 
+dexmedetomidina 
+promove 
+efeitos 
+sedativos 
+e 
+analgésicos. Tem 8 vezes mais afinidade com os 
+receptores α2-adrenérgicos do que a clonidina. Sua 
+vantagem é não causar abstinência na retirada. 
+(D) A morfina é agonista de receptor opioide e não pode ser 
+usada com segurança em pediatria. 
+(E) A metadona é agonista de receptor opioide e não pode ser 
+usada com segurança em pediatria. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Ano Adicional – Medicina Intensiva Pediátrica – Edital COREME/FMBRU/RM Nº 02/2025 – PROVA MIP 
+{15} 
+Paciente de 3 meses de vida, com peso de 5 kg, a mãe relata 
+que, há 2 dias da admissão, o paciente iniciou com tosse 
+seca, coriza e obstrução nasal, tendo procurado um médico 
+pediatra, que orientou lavagem nasal. Paciente manteve o 
+quadro, tendo a mãe referido que, na madrugada da 
+admissão, percebeu importante queda do estado geral, além 
+de redução das mamadas e desconforto respiratório. 
+Procurou novamente por atendimento médico, tendo sido 
+verificada a necessidade de cateter nasal de oxigênio, tentado 
+resgate com salbutamol sem melhora significativa e solicitada 
+vaga em serviço de referência. Nega febre desde o início do 
+quadro. Nega contato com pessoas doentes. Sem outras 
+queixas. Passado mórbido sem alterações, mamava bem em 
+seio materno exclusivo, com bom ganho ponderal. Ao exame 
+físico, apresenta regular estado geral, taquidispneico, 
+taquicárdico, alerta, ativo, irritado e choroso, consolável no 
+colo da mãe. Ausculta pulmonar com murmúrio vesicular 
+globalmente presente com estertores grossos predominando 
+em bases e terços médios e roncos de transmissão difusos. 
+Presença de retração sub/intercostal e de fúrcula moderadas. 
+Está saturando 97% em cateter de O2 nasal a 2 L/min. Na 
+evolução, após cerca de 1 hora da admissão, o paciente 
+apresenta dessaturação com cateter de O2 nasal (85-86%), 
+tendo sido colocado em máscara de O2 não-reinalante a  
+12 L/min, nota-se presença de cianose de extremidades, 
+rendilhamento de pele, hipoativo e hiporreativo, com 
+gemência e piora do desconforto respiratório. Extremidades 
+frias e pálidas, tempo de enchimento capilar de 4 segundos, 
+pulsos radiais e braquiais finos. PA inaferível.  
+ 
+• Exames laboratoriais:  
+Hb: 9,8 g/dL 
+Ht: 31 % 
+Plaquetas: 336.000/mm3 
+Glóbulos brancos: 11.100/mm3 com 34% segumentados; 
+56,9% linfócitos; 0,5% eosinófilos; 1,9% basófilos e 6,5% 
+monócitos. 
+Proteína C Reativa: 0,19 mg/dL 
+ 
+A radiografia de tórax do paciente é apresentada na imagem 
+a seguir: 
+ 
+ 
+ 
+Com base no caso descrito, assinale a hipótese diagnóstica 
+mais provável. 
+ 
+(A) Choque séptico por pneumonia bacteriana. 
+(B) Miocardite viral aguda. 
+(C) Cardiopatia congênita. 
+(D) Acidente escorpiônico. 
+(E) Bronquiolite viral aguda. ##### 
+{16} 
+Paciente de 1 ano de idade dá entrada no pronto-socorro com 
+história de um grito, seguido por choro súbito há cerca de  
+1 hora e aparecimento de sudorese, vômitos, palidez e 
+alternância de agitação e sonolência. Foi realizada uma 
+glicemia capilar à beira leito com o resultado de 350 mg/dL. A 
+família nega quaisquer queixas anteriores ao episódio de hoje. 
+A principal hipótese diagnóstica para este caso é: 
+ 
+(A) Sepse. 
+(B) Intoxicação exógena. 
+(C) Cetoacidose diabética. 
+(D) Erro inato do metabolismo. 
+(E) Acidente escorpiônico. 
+##### 
+ 
+{17} 
+Paciente do sexo masculino, 10 meses de vida, peso de 8 kg, 
+altura de 72 cm, com história de diarreia com sangue e febre 
+há 1 semana e piora clínica há 2 dias, devido a aparecimento 
+de edema, palidez e diminuição da diurese. Ao exame físico, 
+apresenta-se edemaciado 3+/4+, pálido, com hipertensão 
+arterial (PA de 127×77 mmHg). O percentil 95 para a idade é 
+pressão arterial sistólica de 96 mmHg.  
+ 
+• Gasometria:  
+pH: 7,39 
+pO2: 111 mmHg 
+pCO2: 21 mmHg 
+HCO3–:12 mEq/L 
+BE: -11 
+SpO2: 99% 
+ 
+• Exames laboratoriais: 
+Cr: 2,7 mg/dL 
+Clearance de creatinina estimado: 12 mL/min/1,73 m2 
+Hb: 7,8 g/dL 
+Ht: 23 % 
+Plaquetas: 30.000/mm3 
+Leucócitos: 8.000/mm3 
+Neutrófilos: 60%  
+Linfócitos: 40% (com presença de esquizócitos) 
+ 
+Com base no caso descrito, a hipóteses diagnóstica mais 
+provável é de  
+ 
+(A) síndrome hemolítico-urêmica. 
+(B) choque séptico. 
+(C) lesão renal aguda por desidratação. 
+(D) síndrome nefrótica. 
+(E) alergia à proteína do leite de vaca. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Ano Adicional – Medicina Intensiva Pediátrica – Edital COREME/FMBRU/RM Nº 02/2025 – PROVA MIP 
+{18} 
+Paciente de 10 anos de idade, vítima de atropelamento na 
+rodovia por um automóvel em alta velocidade, foi encontrado 
+com escala de coma de Glasgow 3, pupilas midriáticas e 
+arreativas à luz. Foi intubado na cena após sequência rápida 
+de intubação (com midazolam, fentanil e rocurônio) e 
+encaminhado a um centro de referência para trauma. Estava 
+hemodinamicamente estável, foi submetido a pan-tomografia 
+computadorizada que mostrou edema cerebral difuso e 
+herniação de tonsilas. Ao exame, encontrava-se em coma 
+arreativo, sem reflexos de tronco. Foi encaminhado ao CTI 
+pediátrico. Para a realização das provas de morte cerebral 
+nesse paciente, será necessário: 
+ 
+(A) Um período de observação de 2 horas. 
+(B) Pressão arterial sistólica de, no mínimo, 80 mmHg. 
+(C) Temperatura corporal > 34 °C. 
+(D) Saturação arterial > 90%. 
+(E) Aguardar um intervalo mínimo de 4 a 5 meias-vidas após a 
+suspensão das drogas usadas para sedação. 
+##### 
+ 
+{19} 
+Paciente de 12 anos de idade, internado no CTI pediátrico 
+devido a pós-operatório de laparotomia exploradora para 
+apendicectomia e sepse de foco abdominal há 3 dias. Evoluiu 
+com dispneia súbita e queda de saturação. O médico 
+residente levanta a hipótese de os sintomas terem sido 
+causados por tromboembolismo pulmonar. Sobre essa 
+patologia, é correto afirmar: 
+ 
+(A) Cirurgia recente, infecção, uso de cateteres venosos 
+centrais e imobilização são fatores de risco. 
+(B) Não acomete crianças e adolescentes, exceto aqueles 
+com trombofilia congênita. 
+(C) A dosagem de dímeros-D apresenta baixa sensibilidade e 
+alta especificidade para o diagnóstico. 
+(D) O exame padrão ouro para o diagnóstico é o 
+ecocardiograma. 
+(E) Está indicado o uso de estreptoquinase para trombólise 
+nesse paciente. 
+##### 
+ 
+{20} 
+Paciente de 40 dias de vida, com história de coriza hialina e 
+tosse seca há 1 semana, sem febre, porém, piora da tosse há 
+dois dias, associada a guinchos e cianose. O bebê nasceu de 
+parto normal, a termo, com Apgar 9 e 10, recebeu alta com  
+1 dia de vida em aleitamento materno exclusivo com bom 
+ganho ponderal. O raio-X de tórax mostrou infiltrado intersticial 
+difuso e borramento peri-hilar bilateral. Hemograma completo 
+mostrou leucocitose com 40.000 glóbulos brancos, com 
+predomínio de linfócitos (72%). A hipótese diagnóstica mais 
+provável é: 
+ 
+(A) Pneumonia por Streptococcus pneumoniae. 
+(B) Pneumonia por Staphylococcus aureus. 
+(C) Coqueluche. 
+(D) Cardiopatia congênita. 
+(E) Bronquiolite viral aguda. 
+##### 
+ 
+ 
+ 
+ 
+ 
+{21} 
+Paciente de 3 meses de vida, com história de cansaço às 
+mamadas desde o nascimento, sudorese, baixo ganho 
+ponderal 
+(10 g/dia), 
+sem 
+antecedentes 
+perinatais 
+de 
+relevância. Na história familiar, a mãe já teve dois filhos que 
+morreram com 2 meses e com 5 meses, sem diagnóstico e 
+com quadro clínico semelhante. Não há grau de parentesco 
+entre pai e mãe. O teste do pezinho é normal. Ao exame físico, 
+nota-se taquicardia, taquipneia, estertores finos em bases, 
+palidez, tempo de enchimento capilar de 3 segundos e fígado 
+palpável a 5 cm do rebordo costal direito. Diante dessas 
+informações, assinale a alternativa que apresenta a hipótese 
+diagnóstica mais provável. 
+ 
+(A) Infecção congênita. 
+(B) Cardiomiopatia genética. 
+(C) Tetralogia de Fallot. 
+(D) Hipoplasia do coração esquerdo. 
+(E) Miocardite viral aguda. 
+##### 
+ 
+{22} 
+Paciente de 11 anos de idade, com diagnóstico de 
+glicogenose tipo 1A. É admitido no pronto-socorro com 
+história de dor abdominal e vômitos há 1 dia. Ao exame físico, 
+encontra-se em regular estado geral, desidratado de primeiro 
+grau, FC de 140 bpm, PA de 125×55 mmHg e FR de 28 irpm. 
+Evoluiu com febre, sinais de choque, hipotensão arterial, 
+anasarca e anúria.  
+ 
+• Gasometria:  
+pH: 7,08 
+pO2: 126 mmHg 
+pCO2: 8 mmHg 
+HCO3–: 2 mEq/L 
+BE: -25 
+SpO2: 96% 
+Lactato: > 20 mmol/L 
+Cr: 3,0 mg/dL 
+ 
+Com base no caso descrito, assinale a alternativa correta. 
+ 
+(A) O paciente não tem indicação de terapia de substituição 
+renal. 
+(B) Hemodiafiltração veno-venosa contínua seria a terapia de 
+substituição renal de escolha para este paciente. 
+(C) O paciente não tem condições clínicas de ser submetido 
+a terapia de substituição renal. 
+(D) Diálise peritoneal seria a terapia de substituição renal mais 
+indicada nesse caso. 
+(E) Reparação de bicarbonato seria a terapia mais indicada 
+nesse caso. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica – Ano Adicional – Medicina Intensiva Pediátrica – Edital COREME/FMBRU/RM Nº 02/2025 – PROVA MIP 
+{23} 
+Paciente do sexo masculino, 55 dias de vida, nascido de parto 
+normal 
+a 
+termo, 
+peso 
+de 
+2.510 g, 
+pré-natal 
+sem 
+intercorrências, com história de cianose às mamadas e sopro 
+ao exame físico. O ecocardiograma diagnosticou tetralogia de 
+Fallot. Ele foi submetido à cirurgia de correção total há 1 dia, 
+com tempo de circulação extracorpórea de 190 minutos. No 
+primeiro dia de pós-operatório, apresentou choque e diurese 
+de 0,3 mL/kg/h, sem resposta ao uso de furosemida. Está em 
+uso de dobutamina e adrenalina, precisou de 3 expansões 
+com albumina e reparação de bicarbonato. O balanço hídrico 
+acumulado é de 35 mL/kg, está em anasarca. A pressão intra-
+abdominal é de 12 mmHg. A creatinina no pré-operatório era 
+de 0,3 mg/dL e hoje é de 0,8 mg/dL. A radiografia de tórax é 
+apresentada a seguir: 
+ 
+ 
+ 
+Com base no caso descrito, assinale a alternativa correta. 
+ 
+(A) O paciente não tem indicação de terapia de substituição 
+renal. 
+(B) A pressão intra-abdominal está normal. 
+(C) O paciente não tem condições clínicas de ser submetido 
+a terapia de substituição renal. 
+(D) Diálise peritoneal seria a terapia de substituição renal mais 
+indicada nesse caso. 
+(E) Reparação de bicarbonato seria a terapia mais indicada 
+nesse caso. 
+##### 
+ 
+{24} 
+Em relação ao diagnóstico de encefalite viral, é correto 
+afirmar: 
+ 
+(A) Convulsões generalizadas ou parciais não totalmente 
+atribuíveis a um distúrbio convulsivo preexistente são um 
+critério obrigatório. 
+(B) Contagem de leucócitos no líquor ≥ 5/mm3 é um critério 
+obrigatório. 
+(C) Anormalidade na eletroencefalografia compatível com 
+encefalite e não atribuível a outra causa é um critério 
+obrigatório. 
+(D) Estado 
+mental 
+alterado 
+(definido 
+como 
+nível 
+de 
+consciência diminuído ou alterado, letargia ou alteração de 
+personalidade) com duração ≥ 24 horas sem causa 
+alternativa identificada é um critério obrigatório. 
+(E) Novo início de achados neurológicos focais é um critério 
+obrigatório. 
+##### 
+ 
+ 
+{25} 
+As definições mais recentes de Síndrome do Desconforto 
+Respiratório Agudo Pediátrico (SDRAp) segundo o PALICC-2 
+(2023) enfatizam critérios clínicos e fisiológicos específicos 
+para crianças. Com base nessas informações, assinale a 
+alternativa correta. 
+ 
+(A) O tempo de início do quadro após um insulto tem que ser 
+dentro de 10 dias. 
+(B) Apenas pacientes em ventilação mecânica invasiva 
+entram nos critérios. 
+(C) Para diagnóstico e classificação da gravidade, é possível 
+usar tanto a relação entre saturação de O2 e fração 
+inspiratória de O2 quanto o índice de oxigenação. 
+(D) Para diagnóstico e classificação da gravidade, é 
+obrigatório calcular o índice de oxigenação. 
+(E) É obrigatória a presença de opacidades nos quatro 
+quadrantes do pulmão na radiografia de tórax. 
+##### 
+ 
+{26} 
+Menina, 6 anos de idade, é internada em UTI pediátrica por 
+quadro de abdome agudo perfurativo, sendo submetida a 
+laparotomia. 
+No 
+pós-operatório 
+imediato, 
+evolui 
+com 
+insuficiência 
+respiratória 
+progressiva, 
+necessitando 
+de 
+intubação orotraqueal e ventilação mecânica invasiva. Após 
+12 horas de ventilação mecânica, apresenta os seguintes 
+dados: FiO2 de 0,6, PEEP de 6 cmH2O, oximetria de pulso com 
+SpO2 de 92%. 
+ 
+• Gasometria arterial: 
+pH: 7,33 
+pCO2: 48 mmHg 
+pO2: 72 mmHg 
+HCO3–: 24 mEq/L 
+Lactato: 1,8 mmol/L 
+ 
+Radiografia de tórax com infiltrados pulmonares bilaterais 
+difusos e ecocardiograma sem evidências de disfunção 
+ventricular esquerda. Considerando os critérios de Berlim, 
+qual é a classificação correta do quadro respiratório dessa 
+criança? 
+ 
+(A) Sem critérios de SDRA. 
+(B) SDRA leve. 
+(C) SDRA moderado. 
+(D) SDRA grave. 
+(E) Edema pulmonar cardiogênico. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Processo Seletivo aos Programas de Residência Médica – Ano Adicional – Medicina Intensiva Pediátrica – Edital COREME/FMBRU/RM Nº 02/2025 – PROVA MIP 
+{27} 
+Recém-nascido de 8 dias de vida é levado ao pronto-socorro 
+por recusa alimentar, letargia e episódios de palidez cutânea 
+nas últimas 12 horas. A mãe refere que o bebê estava bem até 
+o quinto dia de vida, quando passou a apresentar dificuldade 
+para mamar e sudorese durante as mamadas. Ao exame 
+físico, observa-se FC de 168 bpm, FR de 58 irpm, PA de  
+78×46 mmHg em membro superior direito e 54×32 mmHg em 
+membro inferior. Tempo de enchimento capilar de 5 segundos 
+em membros inferiores. Pulsos femorais finos e de difícil 
+palpação, SpO2 de 95% em membro superior e 89% em 
+membro inferior. Assinale a alternativa que apresenta a 
+conduta imediata mais apropriada. 
+ 
+(A) Iniciar expansão volêmica com soro fisiológico 20 mL/kg. 
+(B) Administrar diurético de alça para tratamento de 
+insuficiência cardíaca. 
+(C) Iniciar infusão contínua de prostaglandina E1. 
+(D) Administrar betabloqueador intravenoso para controle da 
+frequência cardíaca. 
+(E) Aguardar o ecocardiograma antes de instituir qualquer 
+tratamento. 
+##### 
+ 
+ 
+Texto para as questões de 28 a 30 
+ 
+Menino, 3 anos de idade, com diagnóstico prévio de epilepsia, 
+apresenta crise convulsiva tônico-clônica generalizada em 
+domicílio. Após o término da crise, evolui rapidamente com 
+perda da consciência. À chegada ao pronto-socorro, 
+encontra-se inconsciente, em apneia e sem pulso central 
+palpável. A monitorização cardíaca mostra o seguinte traçado: 
+ 
+ 
+ 
+Foram iniciadas manobras de ressuscitação com massagem 
+cardíaca e ventilação com bolsa valva e máscara. 
+ 
+{28} 
+Com base no caso descrito, assinale a alternativa que 
+apresenta a conduta instituída na sequência. 
+ 
+(A) Realizar a desfibrilação com carga inicial de 2 J/kg e 
+retornar a massagem cardíaca. 
+(B) Administrar epinefrina 0,01 mg/kg por via endovenosa ou 
+intraóssea. 
+(C) Administrar amiodarona 5 mg/kg por via endovenosa ou 
+intraóssea. 
+(D) Realizar cardioversão sincronizada com carga inicial  
+de 1 J/kg. 
+(E) Administrar bicarbonato de sódio 1 mEq/kg em bólus por 
+via endovenosa ou intraóssea. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{29} 
+O paciente foi intubado com tubo traqueal nº 4.5 com cuff. 
+Qual deve ser a relação ventilação:massagem cardíaca que 
+deve ser realizada? 
+ 
+(A) Realizar compressões de 80 a 100 bpm com sincronia de 
+15:2 ventilações. 
+(B) Realizar compressões de 100 a 120 bpm com sincronia de 
+15:2 ventilações. 
+(C) Realizar compressões 100 a 120 bpm contínuas e 20-30 
+ventilações. 
+(D) Realizar compressões de 100 a 120 bpm contínuas e 8-10 
+ventilações. 
+(E) Realizar compressões de 80 a 100 bpm contínuas e 10 
+ventilações. 
+##### 
+ 
+{30} 
+Após 20 minutos, o paciente apresenta retorno da circulação 
+espontânea após ressuscitação cardiopulmonar de alta 
+qualidade. Na admissão à UTI pediátrica, encontra-se 
+intubado, 
+sedado, 
+em 
+ventilação 
+mecânica 
+invasiva. 
+Apresenta FC de 110 bpm, PA de 92×55 mmHg (PAM  
+≈ 67 mmHg), tempo de enchimento capilar de 2 segundos, 
+diurese preservada, temperatura 36 °C e dextro de 80 mg/dL. 
+A monitorização respiratória apresentou SpO2 de 100%, FiO2 
+de 1,0, PEEP de 5 cmH2O, FR de 25 irpm e volume corrente 
+adequado ao peso. Considerando os cuidados pós-parada 
+cardíaca, assinale a alternativa que apresenta a conduta mais 
+apropriada. 
+ 
+(A) Manter FiO2 em 100% nas primeiras 24 horas. 
+(B) Aumentar o PEEP para otimizar a oxigenação. 
+(C) Aumentar a FR para prevenir acidose respiratória. 
+(D) Suspender a sedação para avaliação neurológica. 
+(E) Diminuir a FiO2 visando saturação de 94-99%. 
+##### 
+ 
+{31} 
+Criança de 6 anos de idade, foi retirada de uma piscina após 
+período indeterminado submersa. À chegada da equipe de 
+emergência, encontra-se inconsciente, em apneia, com pele 
+fria e cianótica. À avaliação inicial, apresenta frequência 
+cardíaca de 50 bpm, pulsos centrais palpáveis e ausência de 
+movimentos respiratórios espontâneos. Considerando o 
+quadro clínico e as prioridades do atendimento pediátrico, 
+assinale a alternativa que apresenta a conduta inicial mais 
+apropriada. 
+ 
+(A) Iniciar checagem de pulso central e manter apenas 
+ventilação com bolsa-válvula-máscara. 
+(B) Abrir vias aéreas, iniciar ventilação com pressão positiva 
+e, em seguida, iniciar compressões torácicas. 
+(C) Iniciar ventilação com pressão positiva e administrar 
+epinefrina intravenosa, sem iniciar compressões torácicas. 
+(D) Iniciar atropina intravenosa para correção da bradicardia. 
+(E) Iniciar imediatamente compressões torácicas, antes de 
+qualquer intervenção ventilatória. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Processo Seletivo aos Programas de Residência Médica – Ano Adicional – Medicina Intensiva Pediátrica – Edital COREME/FMBRU/RM Nº 02/2025 – PROVA MIP 
+{32} 
+Menino, 8 anos de idade, com diagnóstico prévio de asma, é 
+admitido na UTI pediátrica após crise asmática grave 
+refratária ao tratamento clínico. Evoluiu com fadiga muscular, 
+rebaixamento do nível de consciência e hipercapnia 
+progressiva, 
+sendo 
+indicada 
+intubação 
+orotraqueal 
+e 
+ventilação mecânica invasiva. Após a intubação, apresenta 
+estabilidade hemodinâmica, sem sinais de choque. Assinale a 
+alternativa que indica os parâmetros iniciais mais apropriados 
+para ventilar este paciente. 
+ 
+(A) Volume corrente de 6 mL/kg, PEEP de 8 cmH2O, FR de  
+25 irpm, relação I:E 1:2. 
+(B) Volume corrente de 8–10 mL/kg, PEEP de 4–5 cmH2O, FR 
+de 15 irpm, relação I:E 1:4. 
+(C) Volume corrente de 10–12 mL/kg, PEEP de 10 cmH2O, FR 
+de 20 irpm, relação I:E 1:1. 
+(D) Volume corrente de 6–8 mL/kg, PEEP de 6–8 cmH2O, FR 
+de 30 irpm, relação I:E 1:2. 
+(E) Volume corrente de 4–6 mL/kg, PEEP de 10 cmH2O, FR de 
+12 irpm, relação I:E 1:1. 
+##### 
+ 
+{33} 
+Criança, 6 anos de idade, vítima de atropelamento, recebe 
+atendimento pré-hospitalar, sendo intubada ainda na cena do 
+trauma por rebaixamento do nível de consciência. À chegada 
+ao pronto-socorro, encontra-se em ventilação mecânica 
+invasiva, com os seguintes dados clínicos: FC de 158 bpm, PA 
+de 68×38 mmHg (PAM ≈ 48 mmHg), tempo de enchimento 
+capilar de 5 segundos, pulsos periféricos finos e de difícil 
+palpação, SpO2 de 90% com FiO2 1,0. Ao exame físico do 
+tórax, observa-se ausculta respiratória francamente diminuída 
+à direita, percussão com hipertimpanismo à direita. Assinale a 
+alternativa que apresenta a conduta imediata mais apropriada. 
+ 
+(A) Realizar punção torácica diagnóstica e de alívio no  
+2º espaço intercostal direito, linha hemiclavicular. 
+(B) Realizar punção torácica de prova no 4º e 5º espaço 
+intercostal direito, linha axilar média. 
+(C) Realizar expansão volêmica imediata com soro fisiológico 
+20 mL/kg. 
+(D) Iniciar transfusão de concentrado de hemácias em 
+protocolo de transfusão maciça. 
+(E) Iniciar infusão de drogas de epinefrina contínua por acesso 
+periférico. 
+##### 
+ 
+{34} 
+Criança, 3 anos de idade, admitida ao pronto-socorro após ser 
+encontrada sonolenta no quarto, ao lado de um frasco de 
+medicação para dor de uso adulto que a avó utilizava. À 
+chegada, encontra-se hiporresponsiva, com respiração lenta 
+e superficial. Ao exame físico, observa-se FR de 8 irpm, FC de 
+92 bpm, PA de 96×60 mmHg, SpO2 de 88% em ar ambiente, 
+pupilas puntiformes e pouco reativas, escala de coma de 
+Glasgow: 9. Assinale a alternativa que apresenta a conduta 
+específica para intoxicação mais apropriada para o caso 
+descrito. 
+ 
+(A) Flumazenil. 
+(B) Carvão ativado. 
+(C) N-acetilcisteína. 
+(D) Atropina. 
+(E) Naloxona. ##### 
+{35} 
+Menina, 5 anos de idade, admitida no pronto-socorro com 
+história de diarreia e vômitos há 3 dias, associados a redução 
+importante da ingestão hídrica. Nas últimas 24 horas, a família 
+percebeu diminuição do volume urinário. Ao exame físico, 
+encontra-se 
+prostrada, 
+com 
+mucosas 
+secas, 
+olhos 
+encovados, FC de 138 bpm, PA de 80×50 mmHg, tempo de 
+enchimento capilar de 4 segundos, peso atual de 18 kg (peso 
+habitual: 19,5 kg). Diurese nas últimas 8 horas de 0,3 mL/kg/h.  
+ 
+• Exames laboratoriais: 
+Ur: 142 mg/dL 
+Cr: 2,6 mg/dL 
+Na+: 148 mEq/L 
+K+: 4,6 mEq/L 
+ 
+• Gasometria venosa: 
+pH: 7,32 
+HCO3–: 18 mEq/L 
+ 
+Considerando o quadro clínico e laboratorial, assinale a 
+alternativa que apresenta a conduta mais adequada. 
+ 
+(A) Iniciar restrição hídrica e monitorar função renal. 
+(B) Iniciar hidratação venosa com solução isotônica. 
+(C) Administrar diurético de alça para estimular diurese. 
+(D) Iniciar terapia dialítica de urgência. 
+(E) Iniciar infusão de drogas vasoativas. 
+##### 
+ 
+{36} 
+Menina, 2 anos de idade, admitida na sala de emergência com 
+história de febre há 3 dias, redução da ingesta alimentar e 
+piora progressiva do estado geral nas últimas 12 horas. À 
+admissão, apresentava taquicardia e sinais de hipoperfusão 
+periférica, sendo realizada abertura de vias aéreas, colocada 
+em máscara de oxigênio e realizada a expansão volêmica 
+inicial com soro fisiológico 20 mL/kg, com discreta melhora 
+transitória. Após a expansão, a reavaliação clínica mostra FC 
+de 172 bpm, PA de 76×40 mmHg (PAM ≈ 52 mmHg), tempo 
+de enchimento capilar de 4 segundos, pulsos periféricos finos 
+e filiformes, FR de 44 irpm e SpO2 de 95% em ar ambiente. 
+Ausculta pulmonar com estertores crepitantes bilaterais em 
+bases. Palpação abdominal com fígado palpável a 4 cm do 
+rebordo costal direito. Diurese nas últimas 2 horas  
+de 0,4 mL/kg/h. Com base no caso descrito, assinale a 
+alternativa que apresenta a conduta mais apropriada. 
+ 
+(A) Repetir a expansão com 10 mL/kg. 
+(B) Iniciar epinefrina de infusão contínua. 
+(C) Administrar diurético de alça. 
+(D) Fazer a intubação orotraqueal. 
+(E) Administrar corticoide. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+Processo Seletivo aos Programas de Residência Médica – Ano Adicional – Medicina Intensiva Pediátrica – Edital COREME/FMBRU/RM Nº 02/2025 – PROVA MIP 
+{37} 
+Adolescente do sexo feminino, 12 anos de idade, é levada ao 
+pronto-socorro com história de dor abdominal difusa, apatia e 
+aumento progressivo da frequência urinária nas últimas 
+semanas, com piora nas últimas 24 horas. A família refere 
+perda ponderal recente e ingestão hídrica aumentada. Ao 
+exame físico, encontra-se sonolenta, com mucosas secas e 
+respiração profunda e regular. Sinais vitais com FC de  
+132 bpm, PA de 96×58 mmHg, tempo de enchimento capilar 
+de 3 segundos, FR de 32 irpm. Exames laboratoriais indicam 
+glicemia capilar de 520 mg/dL. 
+ 
+• Gasometria arterial: 
+pH: 7,05 
+pCO2: 22 mmHg 
+HCO3–: 6 mEq/L 
+Cetonemia: positiva 
+Sódio sérico: 130 mEq/L 
+Potássio sérico: 4,8 mEq/L 
+ 
+Com base no quadro clínico e laboratorial, assinale a 
+alternativa que apresenta a conduta inicial mais apropriada. 
+ 
+(A) Iniciar infusão contínua de insulina regular. 
+(B) Administrar insulina regular em bólus intravenoso. 
+(C) Iniciar hidratação venosa com solução isotônica. 
+(D) Iniciar drogas vasoativas para correção da acidose. 
+(E) Administrar bicarbonato de sódio imediatamente. 
+##### 
+ 
+{38} 
+Adolescente do sexo masculino, 13 anos de idade, busca 
+atendimento por dor escrotal intensa de início súbito, há cerca 
+de 3 horas, associada a náuseas e vômitos. Refere ausência 
+de trauma local. Ao exame físico, apresenta-se inquieto, com 
+dor importante à palpação do escroto. Observa-se testículo 
+direito elevado, em posição horizontalizada, endurecido e 
+bastante doloroso, com ausência do reflexo cremastérico 
+ipsilateral. A pele escrotal encontra-se discretamente 
+edemaciada, sem sinais flogísticos importantes. Foi realizada 
+ultrassonografia escrotal com Doppler, que evidencia redução 
+do fluxo sanguíneo no testículo direito, quando comparado ao 
+lado contralateral. Assinale a alternativa que apresenta a 
+conduta mais apropriada neste momento. 
+ 
+(A) Iniciar antibioticoterapia empírica e analgesia. 
+(B) Administrar anti-inflamatório não-esteroidal e manter 
+repouso. 
+(C) Manter observação clínica com reavaliação seriada. 
+(D) Encaminhar imediatamente ao centro cirúrgico para 
+exploração escrotal. 
+(E) Solicitar novo exame de imagem para confirmação 
+diagnóstica. 
+##### 
+ 
+{39} 
+Criança, 9 anos de idade, é atendida no pronto-socorro com 
+história de febre alta há 4 dias, associada a cefaleia, dor retro-
+orbitária e mialgia intensa. Nas últimas 24 horas, evoluiu com 
+dor abdominal contínua, episódios de vômitos persistentes e 
+importante prostração. A família refere que a febre cedeu 
+parcialmente no dia da admissão. Ao exame físico, observa-
+se FC de 118 bpm, PA de 96×62 mmHg, tempo de enchimento 
+capilar de 3 segundos. Extremidades frias. Dor à palpação 
+abdominal, sem sinais de peritonite. Sem sangramentos 
+aparentes 
+Exames 
+laboratoriais 
+iniciais 
+demonstram 
+hematócrito com aumento de 18% em relação ao valor basal, 
+plaquetas com 85.000/mm³ e leucócitos com 3.200/mm³. 
+Como este caso deve ser classificado e qual é a conduta mais 
+apropriada? 
+ 
+(A) Dengue com sinais de alerta (Grupo C) – hidratação 
+venosa criteriosa. 
+(B) Dengue sem sinais de alerta (Grupo A) – alta hospitalar 
+com hidratação oral. 
+(C) Dengue grave (Grupo D) – expansão volêmica agressiva e 
+UTI imediata. 
+(D) Dengue sem sinais de alerta (Grupo B) – observação 
+ambulatorial. 
+(E) Dengue grave (Grupo D) – transfusão profilática de 
+plaquetas. 
+##### 
+ 
+{40} 
+Menino,1 ano de idade, previamente hígido, é trazido ao 
+pronto-socorro 
+com 
+crise 
+convulsiva 
+tônico-clônica 
+generalizada iniciada há aproximadamente 12 minutos, sem 
+recuperação do nível de consciência entre os episódios. Não 
+há história de febre, trauma ou uso de medicações. No 
+momento da admissão no pronto-socorro mantém crise 
+convulsiva. Ao exame físico, apresenta FC de 142 bpm, PA de 
+96×58 mmHg, FR irregular, SpO2 de 90% em ar ambiente e 
+glicemia capilar de 98 mg/dL. O acesso venoso periférico está 
+disponível. Considerando o quadro clínico apresentado, 
+assinale a alternativa que apresenta a conduta inicial mais 
+apropriada. 
+ 
+(A) Administrar fenitoína intravenosa como primeira medida. 
+(B) Administrar benzodiazepínico intravenoso imediatamente. 
+(C) Solicitar tomografia computadorizada de crânio antes do 
+tratamento. 
+(D) Iniciar infusão contínua de midazolam apenas após  
+30 minutos. 
+(E) Administrar 
+fenobarbital 
+antes 
+de 
+qualquer 
+outra 
+medicação. 
+##### 
+ 
+{41} 
+Criança, 7 anos de idade, é admitida no pronto-socorro com 
+história de febre alta de início súbito, prostração e surgimento 
+rápido de lesões cutâneas purpúricas, algumas com aspecto 
+petequial 
+e 
+outras 
+extensas, 
+não 
+desaparecendo 
+à 
+digitopressão. Evoluiu, nas primeiras horas de internação, 
+com deterioração clínica progressiva. Após abordagem inicial, 
+foram instituídas as seguintes medidas: Antibioticoterapia 
+intravenosa de amplo espectro, expansão volêmica com 
+40 mL/kg de solução isotônica e início de noradrenalina em 
+dose crescente. Apesar das medidas, a criança mantém 
+sinais de choque com FC de 156 bpm, PA de 68×38 mmHg, 
+tempo de enchimento capilar de 5 segundos, diurese  
+de < 0,5 mL/kg/h e lactato de 6,2 mmol/L. Considerando a 
+evolução clínica apresentada, qual é a conduta adicional mais 
+apropriada neste momento? 
+ 
+(A) Realizar nova expansão volêmica com solução isotônica. 
+(B) Associar segunda droga vasoativa em dose máxima 
+(C) Iniciar corticoterapia sistêmica. 
+(D) Aguardar resposta tardia às medidas já instituídas. 
+(E) Suspender vasopressor e otimizar apenas antibiótico. 
+##### 
+ 
+ 
+
+
+--- PAGE 12 ---
+
+Processo Seletivo aos Programas de Residência Médica – Ano Adicional – Medicina Intensiva Pediátrica – Edital COREME/FMBRU/RM Nº 02/2025 – PROVA MIP 
+{42} 
+Criança, 4 anos de idade, é levada ao pronto-socorro por sua 
+responsável legal com história de queda da própria altura. Ao 
+exame físico, observam-se hematomas em diferentes estágios de 
+coloração, localizados em dorso e face posterior das coxas, além 
+de escoriações antigas. A criança apresenta comportamento 
+retraído, evita contato visual e chora intensamente durante o 
+exame. A história fornecida é vaga e incompatível com os 
+achados clínicos. Após estabilização clínica e registro detalhado 
+dos achados no prontuário, qual é a conduta burocrática e legal 
+mais apropriada a ser adotada pelo médico assistente? 
+ 
+(A) Comunicar o caso exclusivamente à direção do hospital. 
+(B) Solicitar avaliação psicológica e aguardar confirmação antes 
+de qualquer notificação. 
+(C) Notificar o caso aos órgãos competentes, independente-
+mente de confirmação diagnóstica. 
+(D) Registrar os achados no prontuário e liberar a criança aos 
+cuidados do responsável. 
+(E) Aguardar confirmação pericial. 
+##### 
+ 
+{43} 
+Criança, 5 anos de idade, admitida no pronto-socorro após 
+ingestão de alimento em festa infantil. Minutos após a refeição, 
+iniciou prurido generalizado, surgimento de placas eritemato-
+urticariformes, edema de lábios e dificuldade respiratória 
+progressiva. Ao exame físico, observa-se FC de 148 bpm, PA 
+de 78×44 mmHg, FR de 36 irpm, SpO2 de 89% em ar 
+ambiente, ausculta pulmonar com sibilos difusos bilaterais, 
+tempo de enchimento capilar de 4 segundos. Diante do 
+quadro clínico apresentado, assinale a alternativa que 
+apresenta a conduta inicial mais apropriada. 
+ 
+(A) Administrar anti-histamínico intravenoso. 
+(B) Administrar corticosteroide intravenoso. 
+(C) Iniciar nebulização com broncodilatador. 
+(D) Administrar adrenalina intramuscular imediatamente. 
+(E) Administrar volume intravenoso e observar resposta. 
+##### 
+ 
+{44} 
+Lactente, 4 meses vida, é admitido no pronto-socorro com 
+história de coriza e tosse há 3 dias, evoluindo nas últimas 
+horas com dificuldade respiratória progressiva e redução da 
+aceitação alimentar. Não há antecedentes patológicos 
+relevantes. Ao exame físico, observa-se FR de 68 irpm, FC de 
+162 bpm, SpO2 de 88% em ar ambiente. Batimento de asas 
+nasais e tiragens subcostais intensas. Ausculta pulmonar com 
+sibilos difusos e estertores finos. Apneias breves relatadas 
+pela mãe. Após início de oxigenoterapia por cateter nasal de 
+alto fluxo, o lactente mantém esforço respiratório importante e 
+dessaturações recorrentes. Considerando a evolução clínica, 
+assinale a alternativa que apresenta a conduta mais 
+apropriada. 
+ 
+(A) Manter apenas oxigênio e observar evolução. 
+(B) Iniciar broncodilatador inalatório em esquema contínuo. 
+(C) Iniciar corticosteroide sistêmico. 
+(D) Iniciar antibiótico intravenoso. 
+(E) Indicar ventilação mecânica invasiva. ##### 
+ 
+ 
+ 
+ 
+ 
+{45} 
+Criança, 6 anos de idade, é admitida no pronto-socorro após 
+picada por escorpião em membro inferior há cerca de 2 horas. 
+Desde o acidente, evoluiu com vômitos repetidos, dor 
+abdominal intensa e agitação. À chegada, encontra-se 
+sudorética, prostrada e com sinais de desidratação limítrofe 
+em decorrência dos episódios eméticos. Ao exame físico e 
+monitorização, observa-se FC de 156 bpm, com extrassístoles 
+ventriculares frequentes ao monitor, PA de 100×62 mmHg, FR 
+de 34 irpm, SpO2 de 95% em ar ambiente, tempo de 
+enchimento capilar de 3 segundos. Ausculta pulmonar sem 
+estertores no momento. Sudorese intensa e sialorreia. 
+Considerando o manejo adequado desse paciente, assinale a 
+alternativa que apresenta a conduta mais apropriada. 
+ 
+(A) Iniciar hidratação venosa à 5% e, após estabilização, 
+administrar soro antiescorpiônico. 
+(B) Administrar 
+imediatamente 
+6 
+ampolas 
+de 
+soro 
+antiescorpiônico, antes da reposição volêmica. 
+(C) Administrar 3 ampolas de soro antiescorpiônico e iniciar 
+hidratação venosa simultânea. 
+(D) Realizar expansão volêmica com soro fisiológico 20 mL/kg 
+antes do soro antiescorpiônico. 
+(E) Iniciar apenas antiemético, analgesia e observação clínica 
+rigorosa. 
+##### 
+ 
+{46} 
+Menino, 9 anos de idade, admitido no pronto-socorro com 
+história de dor abdominal iniciada em região periumbilical, 
+com migração para fossa ilíaca direita há cerca de 24 horas. 
+Evoluiu com anorexia, náuseas, febre e piora progressiva da 
+dor. Ao exame físico, encontra-se prostrado, com dor intensa 
+à palpação profunda em fossa ilíaca direita, defesa muscular, 
+dor à descompressão brusca e sinal do psoas positivo. Sinais 
+vitais com FC de 118 bpm e temperatura de 38,6 °C. Exames 
+laboratoriais apresentam leucócitos 17.800/mm³, com desvio 
+à esquerda e Proteína C reativa de 9,2 mg/dL. Com base no 
+caso descrito, assinale a alternativa que apresenta a conduta 
+mais apropriada. 
+ 
+(A) Solicitar ultrassonografia abdominal para confirmação 
+diagnóstica. 
+(B) Solicitar tomografia computadorizada de abdome antes de 
+definir conduta. 
+(C) Iniciar antibioticoterapia intravenosa e observar resposta 
+clínica. 
+(D) Manter analgesia e reavaliar o quadro clínico nas próximas 
+horas. 
+(E) Encaminhar imediatamente ao centro cirúrgico para 
+apendicectomia. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 13 ---
+
+Processo Seletivo aos Programas de Residência Médica – Ano Adicional – Medicina Intensiva Pediátrica – Edital COREME/FMBRU/RM Nº 02/2025 – PROVA MIP 
+{47} 
+Criança do sexo masculino, 8 anos de idade, é levado ao 
+pronto-socorro após picada de serpente ocorrida em região 
+rural, há cerca de 3 horas. Desde o acidente, a criança evoluiu 
+com dor local discreta, sonolência progressiva e dificuldade 
+para manter os olhos abertos. Ao exame físico, observa-se FC 
+de 112 bpm, PA de 104×66 mmHg, FR de 22 irpm, SpO2 de 
+96% em ar ambiente, ptose palpebral bilateral, oftalmoplegia 
+parcial, força muscular diminuída difusamente, edema local 
+mínimo no local da picada. 
+ 
+• Exames laboratoriais: 
+CK: 6.800 U/L 
+Urina: coloração escura, sem hematúria 
+Tempo de coagulação: discretamente prolongado 
+ 
+Considerando o quadro clínico apresentado, assinale a 
+alternativa que apresenta a conduta mais apropriada. 
+ 
+(A) Iniciar hidratação venosa vigorosa e observar evolução 
+neurológica. 
+(B) Administrar soro antibotrópico em dose plena. 
+(C) Administrar soro anticrotálico imediatamente. 
+(D) Iniciar antibioticoterapia profilática e analgesia. 
+(E) Administrar plasma fresco congelado para correção da 
+coagulopatia. 
+##### 
+ 
+{48} 
+Paciente do sexo masculino, 7 anos de idade, previamente 
+hígido, apresenta febre há 2 dias, com piora do estado geral 
+nas últimas 24 horas. Evoluiu com prostração, palidez cutânea 
+e apatia. Durante avaliação em unidade de emergência, passa 
+a apresentar taquicardia de início súbito. Ao exame, observa-
+se frequência cardíaca de 220 bpm, pressão arterial  
+de 68×40 mmHg (PAM ≈ 49 mmHg), tempo de enchimento 
+capilar de 4 segundos, extremidades frias e rebaixamento do 
+nível de consciência. A monitorização cardíaca é apresentada 
+no traçado a seguir: 
+ 
+ 
+ 
+Após abrir as vias áreas, é indicado 
+ 
+(A) administrar adenosina intravenosa em bólus. 
+(B) realizar expansão volêmica com soro fisiológico 5 mL/kg. 
+(C) administrar amiodarona intravenosa em infusão rápida. 
+(D) realizar cardioversão elétrica sincronizada. 
+(E) realizar manobras vagais com gelo em face. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{49} 
+Criança de 10 anos de idade, vítima de queda de bicicleta 
+com impacto abdominal contra o guidão. Dá entrada no 
+pronto-socorro consciente, referindo dor abdominal difusa. À 
+admissão, apresenta palidez cutânea, sudorese fria e sinais 
+de má perfusão tecidual. São iniciadas medidas de 
+atendimento com abertura de vias aéreas com imobilização da 
+coluna, oxigênio e realizada expansão volêmica com soro 
+fisiológico 20 mL/kg. Após a infusão do cristaloide, a 
+reavaliação clínica mostra: FC de 148 bpm, PA de  
+82×46 mmHg (PAM ≈ 58 mmHg), tempo de enchimento 
+capilar de 4 segundos, pulsos periféricos finos, FR de 36 irpm, 
+SpO2 de 96% em ar ambiente. Abdome distendido, doloroso 
+à palpação profunda, sem sinais de peritonite. Assinale a 
+alternativa que apresenta a conduta mais adequada neste 
+momento. 
+ 
+(A) Repetir expansão volêmica com soro fisiológico 20 mL/kg. 
+(B) Iniciar transfusão de concentrado de hemácias 10 mL/kg. 
+(C) Iniciar infusão de drogas vasoativas por acesso venoso 
+central. 
+(D) Administrar plasma fresco congelada como primeira 
+medida. 
+(E) Associar plasma fresco congelado e iniciar drogas 
+vasoativas. 
+##### 
+ 
+{50} 
+Adolescente do sexo feminino, 14 anos de idade, é admitida 
+no pronto-socorro pela mãe após episódio de ingestão 
+medicamentosa ocorrido há aproximadamente 6 horas. A 
+paciente refere náuseas e dor abdominal leve, sem vômitos 
+persistentes. Nega outras queixas. Não há relato de uso 
+crônico de medicações. Ao exame físico, encontra-se 
+consciente, orientada, com sinais vitais estáveis. Exames 
+iniciais mostram FC de 88 bpm, PA de 110×70 mmHg, FR de 
+16 irpm, TGO/AST de 52 U/L e TGP/ALT de 48 U/L. A dosagem 
+sérica de paracetamol, coletada no momento da avaliação, 
+encontra-se acima da linha de tratamento no nomograma de 
+Rumack–Matthew. 
+Considerando 
+o 
+quadro 
+clínico 
+apresentado, assinale a alternativa que apresenta a conduta 
+mais apropriada. 
+ 
+(A) Observar clinicamente e repetir enzimas hepáticas em 24 
+horas. 
+(B) Administrar carvão ativado isoladamente. 
+(C) Iniciar N-acetilcisteína imediatamente. 
+(D) Administrar 
+bicarbonato 
+de 
+sódio 
+para 
+correção 
+metabólica. 
+(E) Aguardar 
+surgimento 
+de 
+elevação 
+importante 
+de 
+transaminases. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 14 ---
+

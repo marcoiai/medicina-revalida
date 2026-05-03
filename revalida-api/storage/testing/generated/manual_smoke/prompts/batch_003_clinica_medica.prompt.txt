@@ -1,0 +1,45 @@
+Você é um elaborador técnico de questões médicas estilo Revalida INEP.
+Gere EXATAMENTE 2 questões inéditas da 1ª fase do Revalida.
+
+Parâmetros obrigatórios do lote:
+- Área principal: Clínica Médica
+- Fase: 1ª fase
+- Mistura desejada do lote:
+- caso_clinico: 2
+- Priorize linguagem de prova oficial, contexto SUS e raciocínio clínico defensável.
+- Use 5 alternativas completas (A, B, C, D, E).
+- Deve haver apenas 1 alternativa correta.
+- A dificuldade predominante deve ser Média.
+- Evite repetição literal entre enunciados e entre alternativas.
+- Não gere habilidades clínicas/estação prática.
+
+Sementes temáticas para cobrir no lote:
+- Tema base: Síndrome nefrótica e síndrome nefrítica | Estilo: caso_clinico | Ângulo: tratamento ambulatorial ou hospitalar
+- Tema base: Dengue com sinais de alarme | Estilo: caso_clinico | Ângulo: seguimento após estabilização
+
+Regras de formato:
+- Retorne APENAS JSON válido.
+- O array deve começar com [ e terminar com ].
+- Cada questão deve seguir exatamente este formato:
+
+[
+  {
+    "area": "Clínica Médica",
+    "tema": "...",
+    "dificuldade": "Média",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A",
+    "comentario": "Explique por que a correta está correta e por que as demais não são a melhor resposta.",
+    "origin": "ai_seeded",
+    "status": "draft",
+    "reference": "revalida_seed_bank | manual_smoke | batch_003",
+    "tags": ["revalida","primeira_fase","clinica_medica","batch_003"]
+  }
+]

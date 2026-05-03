@@ -1,0 +1,2187 @@
+
+
+--- PAGE 1 ---
+
+ 
+TLE 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 030/2025   
+ 
+Técnico de Laboratório  (Estruturas) 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique¬se¬o¬seu¬nome¬está¬correto¬na¬capa¬deste¬caderno¬e¬se¬a¬folha¬de¬respostas¬pertence¬ao¬grupo TLE.¬
+Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+3. Durante¬a¬prova,¬são¬vedadas¬a¬comunicação¬entre¬candidatos¬e¬a¬utilização¬de¬qualquer¬material¬de¬consulta¬e¬
+de¬aparelhos¬de¬telecomunicação.¬
+4. Duração¬da¬prova:¬4¬horas.¬Cabe¬ao¬candidato¬controlar¬o¬tempo¬com¬base¬nas¬informações¬fornecidas¬pelo¬
+fiscal.¬O(A)¬candidato(a)¬poderá¬retirar-se¬da¬sala¬definitivamente¬apenas¬a¬partir¬das¬15¬h.¬Não¬haverá¬tempo¬
+adicional¬para¬preenchimento¬da¬folha¬de¬respostas.¬¬
+5. O(A)¬ candidato(a)¬ deverá¬ seguir¬ as¬ orientações¬ estabelecidas¬ pela¬ FUVEST¬ a¬ respeito¬ dos¬ procedimentos¬
+adotados¬para¬a¬aplicação¬deste¬concurso.¬
+6. Lembre-se¬de¬que¬a¬FUVEST¬se¬reserva¬ao¬direito¬de¬efetuar¬procedimentos¬adicionais¬de¬identificação¬e¬controle¬
+do¬ processo,¬ visando¬ a¬ garantir¬ a¬ plena¬ integridade¬ do¬ exame.¬ Assim,¬ durante¬ a¬ realização¬ da¬ prova,¬ será¬
+coletada¬por¬um¬fiscal¬uma¬foto¬do(a)¬candidato(a)¬para¬fins¬de¬reconhecimento¬facial,¬para¬uso¬exclusivo¬da¬USP¬
+e¬da¬FUVEST.¬A¬imagem¬não¬será¬divulgada¬nem¬utilizada¬para¬quaisquer¬outras¬finalidades,¬nos¬termos¬da¬lei.¬
+7. Após¬a¬autorização¬do¬fiscal¬da¬sala,¬verifique¬se¬o¬caderno¬está¬completo.¬Ele¬deve¬conter¬60¬questões¬objetivas,¬
+com¬5¬alternativas¬cada,¬e¬1¬questão¬dissertativa.¬Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+8. Preencha¬a¬folha¬de¬respostas¬com¬cuidado,¬utilizando¬caneta¬esferográfica¬de¬tinta azul ou preta.¬Essa¬folha¬
+não será substituída¬em¬caso¬de¬rasura.¬
+9. Ao¬final¬da¬prova,¬é¬obrigatória¬a¬devolução¬da¬folha¬de¬respostas¬acompanhada¬deste¬caderno¬de¬questões.¬
+Declaração 
+Declaro¬que¬li¬e¬estou¬ciente¬das¬informações¬que¬constam¬na¬capa¬desta¬prova,¬na¬folha¬de¬respostas,¬bem¬
+como¬dos¬avisos¬que¬foram¬transmitidos¬pelo¬fiscal¬de¬sala.¬
+¬
+___________________________________________________¬
+ASSINATURA¬
+O(a)¬candidato(a)¬que¬não¬assinar¬a¬capa¬da¬prova¬será¬considerado(a)¬ausente¬da¬prova.¬
+ 
+ 
+
+
+--- PAGE 2 ---
+
+Concurso Edital RH nº 030/2025 – Técnico de Laboratório (especialidade: Estruturas) 
+Texto para as questões 01 e 02 
+¬
+Em¬silêncio¬¬
+¬
+¬
+Precisava¬de¬silêncio¬para¬pensar,¬ordenar¬sua¬vida¬
+e¬rumos.¬Juntou¬poucas¬coisas,¬navegou¬até¬uma¬ilha¬deserta.¬
+Mas¬a¬gritaria¬das¬aves¬marinhas¬fundia-se¬com¬o¬farfalhar¬do¬
+vento¬ nas¬ palmeiras,¬ e¬ quando¬ ambos¬ se¬ calavam,¬ batiam¬
+inevitáveis¬ as¬ ondas¬ contra¬ as¬ pedras.¬ Silêncio¬ não¬ havia.¬
+Tomou¬suas¬coisas,¬voltou¬ao¬continente,¬recolheu-se¬numa¬
+gruta¬ em¬ montanha¬ distante.¬ Embora¬ isolado,¬ logo¬ se¬ viu¬
+rodeado¬de¬ruídos,¬pequenos¬alguns,¬minúsculos¬outros,¬que¬
+o¬aparente¬silêncio¬circundante¬agigantava.¬Era¬o¬gotejar¬do¬
+excesso¬de¬umidade,¬o¬esvoejar¬dos¬morcegos¬ao¬anoitecer,¬
+o¬zumbir¬de¬um¬ou¬outro¬inseto,¬um¬gorjear¬lá¬fora,¬um¬escavar¬
+cá¬ dentro,¬ um¬ rastejar,¬ e¬ o¬ ronco¬ majestoso¬ dos¬ trovões,¬ o¬
+estalar¬dos¬relâmpagos.¬Novamente¬arrebanhou¬seus¬poucos¬
+pertences.¬ E¬ desceu¬ a¬ montanha,¬ regressou¬ à¬ cidade.¬ As¬
+chaves¬da¬sua¬casa¬tilintavam¬no¬bolso,¬não¬atendeu¬ao¬apelo.¬
+Tomou¬ônibus¬e¬metrô,¬caminhou¬até¬a¬praça¬mais¬central.¬Ali,¬
+onde¬tantos¬passavam¬e¬as¬buzinas¬dos¬carros¬e¬os¬apitos¬dos¬
+guardas¬e¬o¬gritar¬dos¬ambulantes¬e¬o¬chamado¬das¬sirenes¬
+se¬entrecruzavam,¬sentou-se.¬Assim¬como¬havia¬ignorado¬as¬
+chaves,¬ ignorou¬ os¬ sons¬ todos¬ que¬ lhe¬ atingiam¬ a¬ cabeça,¬
+esqueceu¬os¬ouvidos.¬E,¬vagarosamente,¬começou¬a¬descida¬
+em¬seu¬silêncio¬interior.¬
+¬
+Marina¬Colasanti.¬Hora¬de¬alimentar¬serpentes.¬Global,¬2013¬
+¬
+{01} 
+No¬conto,¬a¬busca¬do¬protagonista¬está¬relacionada¬à¬tentativa¬
+de¬
+¬
+(A)¬demonstrar¬ que¬ o¬ silêncio¬ perfeito¬ é¬ uma¬ construção¬
+imaginária¬e¬artificial.¬
+(B)¬isolar-se¬ do¬ mundo¬ externo¬ para¬ criar¬ uma¬ realidade¬
+paralela¬e¬inexorável.¬
+(C)¬comprovar¬ que¬ a¬ natureza¬ é¬ menos¬ ruidosa¬ do¬ que¬ o¬
+ambiente¬urbano.¬
+(D)¬encontrar¬ uma¬ quietude¬ absoluta¬ que,¬ paradoxalmente,¬
+revela-se¬inalcançável.¬
+(E)¬estabelecer¬um¬contraponto¬entre¬a¬vida¬solitária¬e¬a¬vida¬
+social¬da¬cidade.¬
+##### 
+¬
+{02} 
+O¬sufixo¬“-ejar”,¬presente¬em¬“esvoejar”,¬desempenha¬papel¬
+semântico¬específico¬na¬construção¬do¬verbo,¬conferindo-lhe¬
+a¬ideia¬de:¬
+¬
+(A)¬Estado¬contínuo¬e¬permanente.¬
+(B)¬Movimento¬leve¬e¬intermitente.¬
+(C)¬Intensificação¬de¬uma¬ação.¬
+(D)¬Formação¬de¬substantivos¬abstratos.¬
+(E)¬Relação¬de¬causa¬e¬consequência.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+ 
+Texto para as questões de 03 a 05 
+¬
+¬
+Cuidar¬ da¬ nossa¬ saúde¬ às¬ vezes¬ lembra¬ aquela¬
+olhadela¬que¬damos¬na¬cabine¬do¬avião¬a¬caminho¬de¬nosso¬
+assento.¬Por¬todo¬lado¬só¬vemos¬coisas¬complicadas:¬telas,¬
+indicadores,¬
+alavancas,¬
+luzes¬
+piscantes,¬
+manivelas,¬
+interruptores,¬ mais¬ alavancas...¬ botões¬ do¬ lado¬ esquerdo,¬
+botões¬do¬lado¬direito,¬botões¬no¬teto¬(não,¬fala¬sério,¬Por¬que¬
+eles¬põem¬botões¬no¬teto?).¬Desviamos¬o¬olhar,¬agradecidos¬
+pelo¬fato¬de¬os¬pilotos¬saberem¬o¬que¬estão¬fazendo.¬Como¬
+passageiros¬tudo¬que¬nos¬importa¬é¬se¬o¬avião¬vai¬ficar¬no¬céu.¬
+Quando¬a¬questão¬é¬nosso¬corpo,¬somos¬nós¬os¬passageiros¬
+ignorantes.¬Porém¬-¬reviravolta¬na¬história¬-,¬os¬pilotos¬também¬
+somos¬ nós.¬ E¬ quando¬ não¬ sabemos¬ como¬ nosso¬ corpo¬
+funciona,¬é¬como¬se¬estivéssemos¬em¬voo¬cego.¬Nós¬sabemos¬
+como¬ queremos¬ nos¬ sentir.¬ Queremos¬ acordar¬ com¬ um¬
+sorriso,¬animados¬e¬empolgados¬para¬o¬novo¬dia.¬Queremos¬
+ter¬uma¬alegria¬no¬andar,¬livres¬de¬qualquer¬dor.¬Queremos¬
+passar¬ momentos¬ agradáveis¬ com¬ nossa¬ família,¬ com¬ uma¬
+sensação¬de¬gratidão¬positividade.¬Mas¬pode¬ser¬complicado¬
+descobrir¬ como¬ chegar¬ lá.¬ São¬ tantos¬ botões¬ que¬ nos¬
+sentimos¬esmagados.¬O¬que¬fazer?¬Por¬onde¬começar?¬Temos¬
+que¬começar¬pela¬glicose.¬Por¬quê?¬Porque¬ela¬é¬a¬alavanca¬
+da¬ cabine¬ com¬ o¬ maior¬ custo-benefício.¬ É¬ a¬ mais¬ fácil¬ de¬
+compreender¬ (graças¬ aos¬ monitores¬ contínuos¬ de¬ glicose),¬
+afeta¬instantaneamente¬nossas¬sensações¬(porque¬influencia¬
+nossa¬fome¬e¬nosso¬humor),¬e¬muita¬coisa¬passa¬a¬se¬encaixar¬
+a¬partir¬do¬momento¬em¬que¬conseguimos¬controlá-la.¬
+¬
+Adaptado¬de¬Inchauspé,¬Jessie.¬A¬revolução¬da¬glicose:¬equilibre¬os¬
+níveis¬de¬açúcar¬no¬sangue¬e¬mude¬sua¬saúde¬e¬sua¬vida.¬Trad.¬André¬
+Fontenelle.¬Objetiva,¬2022.¬
+¬
+{03} 
+No¬texto,¬a¬relação¬entre¬a¬complexidade¬da¬cabine¬de¬um¬
+avião¬e¬a¬administração¬da¬saúde¬humana¬evidencia¬
+¬
+(A)¬a¬ inutilidade¬ de¬ tentar¬ entender¬ processos¬ fisiológicos,¬
+excessivamente¬complicados.¬
+(B)¬a¬ dificuldade¬ de¬ compreender¬ o¬ próprio¬ corpo¬ e¬ o¬
+conhecimento¬para¬controlá-lo.¬
+(C)¬o¬fato¬de¬que¬apenas¬profissionais¬especializados¬podem¬
+lidar¬com¬questões¬de¬saúde.¬
+(D)¬a¬impossibilidade¬de¬pessoas¬comuns¬poderem¬interferir¬
+no¬próprio¬bem-estar.¬
+(E)¬a¬necessidade¬de¬confiar¬em¬terceiros¬para¬a¬regulação¬da¬
+saúde,¬física¬e¬emocional.¬
+##### 
+¬
+{04} 
+No¬trecho¬“Como¬passageiros¬tudo¬que¬nos¬importa¬é¬se¬o¬
+avião¬vai¬ficar¬no¬céu”,¬a¬inclusão¬do¬termo¬“o”¬antes¬de¬“que”¬
+tem¬como¬efeito:¬
+¬
+(A)¬Tornar¬ “o¬ que”¬ equivalente¬ a¬ “aquilo¬ que”,¬ funcionando¬
+como¬pronome¬demonstrativo.¬
+(B)¬Alterar¬ a¬ função¬ sintática¬ de¬ “que”,¬ transformando-o¬ em¬
+conjunção¬integrante.¬
+(C)¬Modificar¬o¬sentido¬original¬da¬frase,¬tornando-a¬ambígua.¬
+(D)¬Indicar¬uma¬relação¬de¬posse,¬característica¬de¬pronomes¬
+relativos.¬
+(E)¬Introduzir¬ideia¬de¬consequência,¬assumindo¬o¬sentido¬de¬
+vulnerabilidade.¬
+##### 
+¬
+ 
+
+
+--- PAGE 3 ---
+
+Concurso Edital RH nº 030/2025 – Técnico de Laboratório (especialidade: Estruturas) 
+{05} 
+O¬texto¬se¬organiza¬essencialmente¬por¬meio¬de:¬
+¬
+(A)¬Descrições¬ objetivas¬ e¬ técnicas,¬ abrangendo¬ fisiologia¬
+humana.¬
+(B)¬Argumentação¬exclusivamente¬baseada¬em¬dados¬
+estatísticos.¬
+(C)¬Estruturas¬
+formais,¬
+utilizadas¬
+em¬
+textos¬
+científicos¬
+acadêmicos.¬
+(D)¬Afirmações¬e¬questionamentos¬sem¬embasamento¬lógico¬ou¬
+científico.¬
+(E)¬Comparações¬
+e¬
+metáforas,¬
+simplificando¬
+conceitos¬
+complexos.¬
+##### 
+¬
+ 
+Texto para as questões de 06 a 08 
+¬
+Mal¬o¬CEO¬da¬Meta,¬Mark¬Zuckerberg,¬anunciou¬as¬mudanças¬
+nas¬ políticas¬ de¬ moderação¬ de¬ suas¬ plataformas,¬ muitos¬
+educadores,¬ comunicadores¬ e¬ jornalistas¬ presentes¬ nos¬
+diferentes¬ grupos¬ dos¬ quais¬ faço¬ parte¬ começaram¬ a¬
+questionar¬a¬eficácia¬da¬Educação¬Midiática.¬O¬que¬podemos¬
+diante¬de¬um¬Musk¬e¬um¬Zuckerberg?¬De¬que¬adianta¬educar¬
+para¬ a¬ checagem¬ de¬ notícias¬ se¬ agora¬ “abriram-se¬ as¬
+porteiras”¬e¬nenhum¬de¬nós¬vai¬dar¬conta¬de¬distinguir¬o¬que¬é¬
+verdadeiro¬ ou¬ falso,¬ de¬ remover¬ conteúdos¬ agressivos,¬
+preconceituosos,¬ de¬ construir¬ referenciais¬ seguros¬ para¬
+obtermos¬informações¬íntegras¬e¬confiáveis?¬É¬enxugar¬gelo,¬
+nadar¬contra¬a¬corrente,¬melhor¬a¬gente¬se¬preparar¬para¬viver¬
+no¬caos,¬diziam¬alguns,¬já¬ameaçando¬sair¬de¬vez¬das¬redes,¬
+boicotar¬ a¬ Meta,¬ banir¬ o¬ digital¬ de¬ vez¬ do¬ seu¬ cotidiano.¬
+Entendo¬a¬Educação¬Midiática¬como¬um¬importante¬e¬potente¬
+elemento¬ para¬ que¬ possamos¬ lidar¬ com¬ todos¬ os¬ desafios¬
+presentes¬no¬mundo¬digital¬–¬e¬de¬resto,¬no¬mundo¬real,¬que¬o¬
+reflete.¬Ela¬é¬uma¬alternativa¬viável¬e¬segura¬que¬todos¬nós,¬
+que¬ desejamos¬ continuar¬ a¬ viver¬ civilizadamente¬ em¬
+sociedade,¬podemos¬tomar¬em¬nossas¬mãos.¬Se¬as¬chamadas¬
+big¬techs¬nos¬abandonam¬à¬própria¬sorte,¬cabe¬a¬cada¬um¬de¬
+nós¬entender¬qual¬é¬o¬nosso¬papel¬nesse¬ecossistema.¬¬
+¬
+Adaptado¬de:¬Januária¬Cristina¬Alves.¬“Novas¬diretrizes¬da¬Meta:¬será¬o¬
+fim¬da¬Educação¬Midiática?”¬Nexo¬Jornal.¬16¬de¬janeiro¬de¬2025.¬
+ 
+{06} 
+No¬trecho¬“Mal¬o¬CEO¬da¬Meta,¬Mark¬Zuckerberg,¬anunciou¬as¬
+mudanças¬nas¬políticas¬de¬moderação¬de¬suas¬plataformas”,¬
+o¬termo¬“Mal”¬estabelece¬uma¬relação¬de¬
+¬
+(A)¬comparação,¬equiparando¬dois¬acontecimentos¬simultâneos.¬¬
+(B)¬condição,¬introduzindo¬uma¬possibilidade¬de¬mudança.¬
+(C)¬consequência,¬ indicando¬ um¬ efeito¬ direto¬ da¬ ação¬
+posterior.¬
+(D)¬oposição,¬contrastando¬ideias¬consideradas¬divergentes.¬
+(E)¬tempo,¬indicando¬uma¬ação¬ocorrida¬imediatamente¬após¬
+outra.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+{07} 
+No¬ trecho,¬ e¬ em¬ relação¬ ao¬ contexto¬ em¬ que¬ se¬ insere,¬ “o¬
+mundo¬ real,¬ que¬ o¬ reflete”,¬ a¬ oração¬ após¬ a¬ vírgula¬ tem¬ a¬
+função¬de¬
+¬
+(A)¬servir¬como¬uma¬explicação¬para¬ser¬utilizada¬pelas¬big¬
+techs.¬
+(B)¬apresentar¬um¬aposto¬que¬exemplifica¬o¬conceito¬anterior.¬
+(C)¬introduzir¬uma¬nova¬informação¬independente¬da¬anterior.¬
+(D)¬retomar¬“o¬mundo¬digital”,¬explicando¬sua¬relação¬com¬o¬
+mundo¬real.¬
+(E)¬estabelecer¬um¬juízo¬de¬valor¬sobre¬o¬funcionamento¬das¬
+redes¬sociais.¬
+##### 
+¬
+{08} 
+No¬período¬em¬que¬se¬encontra,¬a¬sequência¬textual¬“melhor¬
+a¬gente¬se¬preparar”¬apresenta-se¬gramaticalmente¬como¬
+¬
+(A)¬uma¬inversão¬sintática,¬típica¬da¬linguagem¬formal.¬
+(B)¬um¬ erro¬ gramatical,¬ com¬ a¬ falta¬ do¬ verbo¬ principal¬ na¬
+oração.¬
+(C)¬uma¬ construção¬ elíptica,¬ simplificando¬ o¬ segmento¬
+sintático.¬
+(D)¬um¬ exemplo¬ de¬ hipérbole,¬ intensificando¬ a¬ situação¬
+descrita.¬
+(E)¬uma¬ construção¬ arcaica,¬ comum¬ em¬ textos¬ literários¬
+antigos.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+ 
+
+
+--- PAGE 4 ---
+
+Concurso Edital RH nº 030/2025 – Técnico de Laboratório (especialidade: Estruturas) 
+Texto para as questões de 09 a 11 
+¬
+The¬ idea¬ of¬ time¬ blindness,¬ or¬ difficulty¬ perceiving¬ and¬
+managing¬time,¬has¬spread¬across¬social¬media.¬While¬there¬is¬
+no¬diagnosis¬for¬it,¬some¬people¬explain¬that,¬despite¬their¬best¬
+efforts,¬ they¬ frequently¬ lose¬ track¬ of¬ time,¬underestimate¬ or¬
+overestimate¬how¬long¬tasks¬will¬take,¬show¬up¬late,¬and¬miss¬
+deadlines.¬
+Time¬blindness¬is¬a¬psychological¬phenomenon¬that¬nearly¬
+everyone¬experiences¬from¬time¬to¬time,¬said¬Michael¬Manos,¬
+at¬the¬Cleveland¬Clinic.¬
+“Who¬doesn’t¬get¬completely¬occupied¬with¬a¬hobby¬or¬a¬
+conversation¬they’re¬having¬with¬somebody,¬or¬some¬kind¬of¬
+activity¬that¬is¬so¬interesting¬that¬it¬occupies¬attention,¬and¬it¬
+takes¬attention¬away¬from¬other¬things¬that¬might¬be¬pressing?”¬
+he¬said.¬
+Not¬all¬experts¬agree,¬but¬some¬suggest¬that¬it¬could¬be¬a¬
+limitation¬for¬some¬people.¬
+Renae¬Beaumont,¬an¬associate¬professor¬of¬psychology¬in¬
+clinical¬ psychiatry,¬ said¬ time¬ blindness¬ and¬ flow,¬ a¬ state¬ of¬
+intense¬ focus¬ in¬ an¬ activity¬ that¬ is¬ engaging,¬ enjoyable¬ and¬
+temporarily¬ distracts¬ from¬ the¬ passage¬ of¬ time,¬ are¬ different¬
+phenomena.¬
+“Flow¬is¬typically¬associated¬with¬positive¬emotions¬when¬
+you’re¬doing¬something¬you¬enjoy,¬and¬you¬are¬able¬to¬shift¬to¬
+a¬ different¬ task¬ when¬ you¬ need¬ to.¬ Time¬ blindness¬ involves¬
+getting¬stuck,¬losing¬track¬of¬time¬and¬typically¬having¬trouble¬
+transitioning¬to¬a¬different¬task,”¬she¬said.¬
+There¬ is¬ no¬ clear¬ consensus,¬ but¬ some¬ researchers¬
+consider¬ time¬ blindness¬ to¬ be¬ an¬ impairment¬ in¬ temporal¬
+perception,¬or¬the¬way¬the¬brain¬experiences¬time.¬
+Certain¬strategies¬may¬help¬people¬who¬struggle¬with¬time¬
+perception¬and¬management,¬experts¬said.¬
+Use¬ digital¬ reminders¬ including¬ alarms,¬ timers¬ and¬
+calendars¬to¬keep¬track¬of¬appointments,¬dates¬and¬deadlines.¬¬
+¬
+Washington¬Post.¬February¬5,¬2025.¬Adaptado.¬
+{09} 
+Conforme¬ o¬ texto,¬ uma¬ característica¬ do¬ conceito¬ de¬ “flow”¬
+envolve¬
+¬
+(A)¬concentração¬exclusiva¬em¬um¬objetivo,¬sem¬adaptação¬a¬
+mudanças.¬¬
+(B)¬imersão¬em¬uma¬ocupação¬prazerosa¬com¬controle¬sobre¬
+sua¬execução.¬¬
+(C)¬perda¬ da¬ percepção¬ do¬ tempo¬ acompanhada¬ de¬
+ansiedade.¬¬
+(D)¬dificuldade¬em¬interromper¬um¬processo¬por¬excesso¬de¬
+envolvimento.¬¬
+(E)¬tendência¬ a¬ evitar¬ experiências¬ que¬ exijam¬ atenção¬
+ininterrupta.¬
+##### 
+¬
+{10} 
+No¬ trecho¬ "While¬ there¬ is¬ no¬ diagnosis¬ for¬ it,¬ some¬ people¬
+explain¬ that..."¬ (1º¬ parágrafo),¬ o¬ termo¬ "While"¬ pode¬ ser¬
+substituído,¬sem¬prejuízo¬de¬sentido,¬por¬
+(A)¬Even¬though.¬
+(B)¬Moreover.¬
+(C)¬Therefore.¬
+(D)¬So¬that.¬
+(E)¬As¬well¬that.¬
+##### 
+¬
+{11} 
+No¬trecho¬"Who¬doesn’t¬get¬completely¬occupied¬with¬a¬hobby¬
+or¬a¬conversation¬they’re¬having¬with¬somebody,¬or¬some¬kind¬
+of¬activity¬that¬is¬so¬interesting¬that¬it¬occupies¬attention"¬(3º¬
+parágrafo),¬o¬pronome¬"they"¬refere-se¬¬
+(A)¬aos¬especialistas¬citados¬no¬estudo.¬
+(B)¬às¬pessoas¬em¬geral.¬¬
+(C)¬aos¬indivíduos¬em¬idade¬avançada.¬¬
+(D)¬ao¬autor¬do¬texto.¬
+(E)¬a¬uma¬autoridade¬médica.¬
+##### 
+¬
+ 
+Texto para as questões 12 e 13 
+Scientists¬ have¬ found¬ that¬ generally¬ the¬ world¬ feels¬
+brighter¬when¬you¬wake¬up.¬
+People¬ start¬ the¬ day¬ in¬ the¬ best¬ frame¬ of¬ mind¬ in¬ the¬
+morning,¬but¬end¬in¬the¬worst,¬at¬about¬midnight,¬the¬findings¬
+suggest,¬with¬the¬day¬of¬the¬week¬and¬the¬season¬also¬playing¬
+a¬part.¬
+Mental¬health¬also¬tends¬to¬be¬more¬varied¬at¬weekends¬
+but¬steadier¬during¬the¬week,¬according¬to¬the¬study¬led¬by¬
+University¬College¬London.¬
+“Generally,¬ things¬ do¬ seem¬ better¬ in¬ the¬ morning,”¬ the¬
+researchers¬concluded.¬¬
+Mental¬health¬and¬wellbeing¬are¬dynamic¬in¬nature,¬and¬
+subject¬to¬change¬over¬short¬and¬long¬periods.¬However,¬few¬
+studies¬have¬looked¬at¬how¬they¬might¬change¬over¬the¬course¬
+of¬the¬day.¬
+Scientists¬ wanted¬ to¬ explore¬ whether¬ time¬ of¬ day¬ was¬
+associated¬ with¬ variations¬ in¬ mental¬ health,¬ happiness,¬ life¬
+satisfaction,¬sense¬of¬life¬being¬worthwhile¬and¬loneliness.¬¬
+People¬ in¬ the¬ study¬ answered¬ questionnaires,¬ with¬
+questions¬ such¬ as:¬ “In¬ the¬ past¬ week,¬ how¬ happy¬ did¬ you¬
+feel?”,¬“How¬satisfied¬have¬you¬been¬with¬your¬life?”,¬and¬“To¬
+what¬extent¬have¬you¬felt¬the¬things¬you¬are¬doing¬in¬your¬life¬
+are¬worthwhile?”¬
+Factors¬ such¬ as¬ age,¬ health¬ conditions¬ and¬ whether¬
+people¬worked¬were¬taken¬into¬account.¬
+The¬results¬showed¬that¬happiness,¬life¬satisfaction,¬and¬
+worthwhile¬ ratings¬ were¬ all¬ higher¬ on¬ Mondays¬ and¬ Fridays¬
+than¬ on¬ Sundays,¬ while¬ happiness¬ was¬ also¬ higher¬ on¬
+Tuesdays.¬ There¬ was¬ no¬ evidence¬ that¬ loneliness¬ differed¬
+across¬days¬of¬the¬week.¬
+There¬ was¬ clear¬ evidence¬ of¬ a¬ seasonal¬ influence¬ on¬
+mood.¬ Compared¬ with¬ winter,¬ people¬ tended¬ to¬ have¬ lower¬
+levels¬of¬depressive¬and¬anxiety¬symptoms¬and¬loneliness,¬and¬
+higher¬levels¬of¬happiness,¬and¬feeling¬that¬life¬was¬worthwhile¬
+in¬the¬three¬other¬seasons.¬
+Mental¬health¬was¬best¬in¬the¬summer¬across¬all¬outcomes.¬
+But¬the¬season¬didn’t¬affect¬the¬associations¬observed¬across¬
+the¬day,¬however.¬
+This¬ was¬ an¬ observational¬ study,¬ so¬ it¬ cannot¬ establish¬
+cause.¬¬
+¬
+The¬Guardian.com.¬February¬5,¬2025.¬Adaptado.¬
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Concurso Edital RH nº 030/2025 – Técnico de Laboratório (especialidade: Estruturas) 
+{12} 
+De¬acordo¬ com¬o¬texto,¬a¬relação¬ entre¬ estações¬do¬ano¬e¬
+variação¬emocional¬torna¬mais¬plausível¬a¬inferência¬de¬que¬
+¬
+(A)¬a¬ estabilidade¬ dos¬ padrões¬ diários¬ indica¬ que¬ os¬ ritmos¬
+circadianos¬independem¬das¬mudanças¬periódicas.¬
+(B)¬a¬ redução¬ dos¬ sintomas¬ fora¬ da¬ primavera¬ prova¬ que¬ o¬
+clima¬é¬o¬fator¬predominante¬e¬determinante¬das¬emoções.¬
+(C)¬a¬ melhora¬ no¬ verão¬ evidencia¬ que¬ aspectos¬ ambientais¬
+influenciam¬o¬humor,¬sem¬explicar¬as¬flutuações¬ao¬longo¬
+do¬dia.¬
+(D)¬a¬ vantagem¬ do¬ verão¬ mostra¬ que¬ mudanças¬ sazonais¬
+afetam¬todas¬as¬pessoas¬igualmente.¬
+(E)¬os¬ melhores¬ resultados¬ nesse¬ período¬ sugerem¬ que¬
+intervenções¬devem¬ser¬intensificadas¬no¬inverno.¬####¬
+¬
+{13} 
+No¬trecho¬“Factors¬such¬as¬age,¬health¬conditions¬and¬whether¬
+people¬ worked¬ were¬ taken¬ into¬ account”¬ (8º¬ parágrafo),¬ o¬
+termo¬"whether"¬indica¬
+¬
+(A)¬relevância¬reduzida¬do¬histórico¬de¬queixas¬associadas¬à¬
+idade.¬
+(B)¬justificativa¬para¬a¬escolha¬dos¬elementos¬avaliados.¬
+(C)¬alternância¬de¬períodos¬relativos¬à¬coleta¬das¬respostas.¬
+(D)¬possibilidade¬ envolvendo¬ a¬ situação¬ profissional¬ dos¬
+indivíduos.¬¬
+(E)¬referência¬indireta¬aos¬participantes¬voluntários¬do¬estudo.¬
+##### 
+¬
+{14} 
+Synesthesia¬is¬when¬you¬hear¬music,¬but¬you¬see¬shapes.¬Or¬
+you¬hear¬a¬word¬or¬a¬name¬and¬instantly¬see¬a¬color.¬Synesthesia¬
+is¬a¬name¬for¬when¬you¬experience¬one¬of¬your¬senses¬through¬
+another.¬For¬example,¬you¬might¬hear¬the¬name¬"Alex"¬and¬see¬
+green.¬Or¬you¬might¬read¬the¬word¬"street"¬and¬taste¬citrus¬fruit.¬
+The¬ word¬ "synesthesia"¬ has¬ Greek¬ roots.¬ It¬ translates¬ to¬
+“perceive¬ together.”¬ Synesthesia¬ isn’t¬ a¬ disease¬ or¬ disorder.¬ It¬
+won’t¬harm¬your¬health,¬and¬it¬doesn’t¬mean¬you’re¬mentally¬ill.¬
+Some¬ studies¬ suggest¬ people¬ who¬ have¬ it¬ may¬ do¬ better¬ on¬
+memory¬and¬intelligence¬tests¬than¬those¬who¬don’t.¬¬
+One¬ of¬ the¬ most¬ common¬ responses¬ is¬ to¬ see¬ letters,¬
+numbers,¬or¬sounds¬as¬colors.¬You¬might¬also¬see¬or¬hear¬a¬word¬
+and¬taste¬food;¬hear¬sounds¬and¬see¬shapes¬or¬patterns;¬feel¬a¬
+touch¬when¬seeing¬someone¬else¬being¬touched.¬(This¬is¬called¬
+mirror¬touch.)¬
+It¬ can¬ be¬ an¬ annoyance.¬ But¬ most¬ synesthetes¬ see¬ their¬
+condition¬as¬a¬sixth¬sense,¬not¬a¬drawback.¬
+You¬can’t¬control¬it.¬The¬response¬happens¬right¬away.¬For¬
+example,¬if¬you¬hear¬a¬new¬piece¬of¬music,¬you¬may¬see¬a¬color¬
+or¬taste¬a¬flavor¬without¬any¬effort.¬It¬just¬happens.¬
+It’s¬internal,¬mostly.¬The¬colors¬are¬just¬in¬your¬mind.¬¬
+It¬stays¬the¬same¬over¬time.¬If¬you¬see¬the¬letter¬"A"¬in¬green¬
+today,¬you’ll¬see¬it¬in¬green¬10¬years¬from¬now.¬¬
+It¬often¬starts¬in¬childhood.¬Studies¬of¬kids¬with¬synesthesia¬
+found¬that¬it¬develops¬over¬time.¬¬
+¬
+webmd.com.¬December¬17,¬2024.¬Adaptado.¬
+De¬ acordo¬ com¬ o¬ texto¬ apresentado,¬ a¬ sinestesia¬ pode¬ ser¬
+descrita¬como¬
+¬
+(A)¬condição¬patológica¬que¬afeta¬a¬percepção¬sensorial.¬
+(B)¬incapacidade¬ de¬ interpretar¬ estímulos¬ orais¬ de¬ maneira¬
+incomum.¬
+(C)¬experiência¬cruzada¬entre¬os¬sentidos¬ que¬acontece¬ de¬
+forma¬involuntária.¬¬
+(D)¬fenômeno¬restrito¬às¬associações¬visuais¬e¬auditivas.¬
+(E)¬característica¬que¬se¬desenvolve¬ao¬longo¬da¬vida¬por¬meio¬
+de¬treinamento.¬
+##### 
+¬
+{15} 
+O¬ termo¬ “pace”¬ é¬ utilizado¬ entre¬ corredores¬ amadores¬ e¬
+profissionais.¬É¬uma¬palavra¬de¬língua¬inglesa¬que¬significa¬
+“ritmo”.¬O¬pace¬é¬definido¬como¬sendo¬o¬tempo¬(em¬minutos)¬
+que¬o(a)¬atleta¬leva¬para¬percorrer¬1¬quilômetro,¬em¬média.¬Por¬
+exemplo,¬ um(a)¬ corredor(a)¬ com¬ pace¬ 6¬ min/km¬ leva,¬ em¬
+média,¬ 6¬ minutos¬ para¬ percorrer¬ 1¬ quilômetro.¬ Em¬ 31¬ de¬
+dezembro¬ de¬ 2024,¬ a¬ brasileira¬ Núbia¬ de¬ Oliveira¬ ficou¬ em¬
+terceiro¬ lugar¬ na¬ categoria¬ feminina¬ da¬ Corrida¬ de¬ São¬
+Silvestre,¬realizada¬em¬São¬Paulo,¬em¬que¬completou¬o¬trecho¬
+de¬15¬quilômetros¬em¬53¬minutos¬e¬24¬segundos.¬Conclui-se¬
+que¬o¬pace¬de¬Núbia,¬nessa¬prova,¬ficou¬mais¬próximo¬de:¬
+¬
+(A)¬2¬minutos¬e¬48¬segundos¬por¬quilômetro.¬
+(B)¬3¬minutos¬e¬34¬segundos¬por¬quilômetro.¬
+(C)¬5¬minutos¬e¬6¬segundos¬por¬quilômetro.¬
+(D)¬6¬minutos¬e¬48¬segundos¬por¬quilômetro.¬
+(E)¬8¬minutos¬por¬quilômetro.¬
+##### 
+¬
+{16} 
+Se¬ três¬ pessoas¬ levam¬ juntas¬ 15¬ horas¬ para¬ realizar¬ uma¬
+determinada¬ tarefa,¬ quanto¬ tempo¬ 10¬ pessoas¬ igualmente¬
+capazes¬levarão¬para¬realizar¬a¬mesma¬tarefa,¬trabalhando¬no¬
+mesmo¬ritmo¬e¬sob¬as¬mesmas¬condições?¬
+¬
+(A) 4¬horas.¬
+(B) 4¬horas¬e¬15¬minutos.¬
+(C) 4¬horas¬e¬30¬minutos.¬
+(D) 4¬horas¬e¬50¬minutos.¬
+(E) 5¬horas.¬
+##### 
+¬
+{17} 
+Dizemos¬que¬dois¬números¬primos¬são¬gêmeos¬se¬a¬diferença¬
+entre¬ eles¬ é¬ dois.¬ Por¬ exemplo,¬ 5¬ e¬ 7¬ são¬ números¬ primos¬
+gêmeos.¬Assinale¬a¬alternativa¬que¬apresenta¬dois¬números¬
+primos¬gêmeos.¬
+¬
+(A) 31¬e¬33.¬
+(B) 47¬e¬49.¬
+(C) 57¬e¬59.¬
+(D) 71¬e¬73.¬
+(E) 75¬e¬79.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 6 ---
+
+Concurso Edital RH nº 030/2025 – Técnico de Laboratório (especialidade: Estruturas) 
+{18} 
+¬
+Na¬ figura,¬ ABCD¬ é¬ um¬ retângulo,¬ e¬ E¬ e¬ F¬ são¬ pontos¬ no¬
+segmento¬BC.¬Se¬indicarmos¬por¬A1¬a¬área¬do¬triângulo¬ABD,¬
+por¬A2¬a¬área¬do¬triângulo¬AED¬e¬por¬A3¬a¬área¬do¬triângulo¬
+AFD,¬é¬correto¬afirmar:¬
+¬
+(A) ¬A1¬=¬A2¬=¬A3¬
+(B) ¬A1¬<¬A2¬<¬A3¬
+(C) ¬A1¬=¬½¬A3¬
+(D) ¬A1¬<¬A2¬=¬A3¬
+(E) ¬A1¬+¬A2¬=¬A3¬
+##### 
+¬
+{19} 
+Ao¬analisar¬a¬Nota¬Fiscal¬de¬uma¬compra¬realizada¬em¬um¬
+supermercado,¬um¬consumidor¬notou¬a¬seguinte¬informação:¬
+Valor¬Aproximado¬de¬Tributos¬Federais:¬R$¬24,00¬
+Valor¬Aproximado¬de¬Tributos¬Estaduais:¬R$¬30,00¬
+Se¬o¬valor¬total¬pago¬pela¬compra¬foi¬de¬R$¬180,00,¬é¬correto¬
+afirmar¬que¬as¬respectivas¬taxas¬de¬Tributos¬Federais¬e¬de¬
+Tributos¬ Estaduais¬ aplicadas¬ na¬ compra¬ do¬ consumidor¬
+foram,¬aproximadamente,¬de¬
+¬
+(A) 4,3%¬e¬5,4%.¬
+(B) 7,5%¬e¬3%.¬
+(C) 13%¬e¬17%.¬
+(D) 24%¬e¬30%.¬
+(E) 43%¬e¬54%.¬
+##### 
+¬
+{20} 
+A¬soma¬de¬todas¬as¬soluções¬reais¬da¬equação¬
+¬
+1 + 1
+𝑥= 𝑥¬
+¬
+é¬igual¬a:¬
+¬
+(A) −1¬
+(B) ¬¬0¬
+(C) ¬¬1¬
+(D) ¬¬2¬
+(E) ¬√5¬
+¬
+Note¬e¬adote:¬
+Considere¬𝑥≠0.¬
+¬
+##### 
+¬
+{21} 
+A¬Fundação¬Seade¬(Sistema¬Estadual¬de¬Análise¬de¬Dados)¬
+realizou¬um¬estudo¬sobre¬a¬evolução¬da¬população¬paulistana,¬
+entre¬os¬anos¬1920¬e¬2022,¬cujos¬resultados¬estão¬dispostos¬
+no¬gráfico¬a¬seguir.¬No¬gráfico,¬as¬barras¬indicam¬a¬população¬
+no¬ano¬indicado,¬e¬a¬linha¬indica¬a¬taxa¬média¬de¬crescimento¬
+anual¬na¬década¬correspondente.¬
+¬
+¬
+¬
+Os¬dados¬exibidos¬no¬gráfico¬permitem¬concluir¬que¬
+¬
+(A) a¬população¬do¬município¬de¬São¬Paulo¬em¬1940¬era¬de¬
+133¬mil¬habitantes.¬
+(B) a¬maior¬aceleração¬no¬crescimento¬da¬população,¬de¬uma¬
+década¬para¬outra¬subsequente,¬foi¬entre¬as¬décadas¬de¬
+1930¬e¬1940.¬
+(C) a¬ população¬ do¬ município¬ de¬ São¬ Paulo¬ atingiu¬ o¬ seu¬
+máximo¬na¬década¬de¬1950.¬
+(D) o¬ período¬ em¬ que¬ houve¬ menor¬ desaceleração¬ no¬
+crescimento¬da¬população¬foi¬entre¬os¬anos¬1970¬e¬1980.¬
+(E) a¬população¬diminuiu¬em¬1%¬entre¬os¬anos¬1980¬e¬2022.¬
+##### 
+¬
+{22} 
+¬
+¬
+A¬curva¬apresentada¬no¬plano¬cartesiano¬0𝑥𝑦¬corresponde¬ao¬
+gráfico¬da¬função:¬
+¬
+(A) ¬𝑓ሺ𝑥ሻ= 𝑥ଶ−𝑥+ 2¬
+(B) ¬𝑓ሺ𝑥ሻ= 𝑥ଶ+ 3𝑥+ 2¬
+(C) ¬𝑓ሺ𝑥ሻ= − 𝑥ଶ+ 2¬
+(D) ¬𝑓ሺ𝑥ሻ= − 𝑥ଶ+ 𝑥−2¬
+(E) ¬𝑓ሺ𝑥ሻ= − 𝑥ଶ+ 𝑥+ 2¬
+##### 
+¬
+¬
+
+
+--- PAGE 7 ---
+
+Concurso Edital RH nº 030/2025 – Técnico de Laboratório (especialidade: Estruturas) 
+{23} 
+“ChatGPT,¬ DeepSeek¬ e¬ similares¬ pertencem¬ à¬ classe¬ de¬
+LLMs,¬avançados¬modelos¬de¬linguagem¬treinados¬a¬partir¬de¬
+grandes¬bancos¬de¬dados¬–¬majoritariamente¬em¬inglês.¬Os¬
+mais¬populares¬pertencem¬a¬empresas¬norte-americanas.¬E¬
+assim¬como¬os¬algoritmos¬de¬pesquisa¬e¬redes¬sociais,¬não¬
+são¬neutros.¬Ou¬seja,¬podem¬reproduzir¬vieses,¬preconceitos¬
+e¬ estereótipos¬ de¬ seus¬ programadores,¬ que¬ por¬ sua¬ vez¬
+podem¬receber¬ordens¬dos¬donos¬das¬empresas¬e¬de¬outros¬
+atores¬–¬na¬China,¬por¬exemplo,¬empresas¬devem¬passar¬por¬
+análise¬de¬segurança¬e¬obter¬aprovações¬do¬governo¬antes¬de¬
+lançar¬produtos¬(...).¬
+Nesse¬cenário,¬como¬ficam¬os¬países¬que¬não¬têm¬plataformas¬
+nacionais¬de¬alcance¬global,¬como¬é¬o¬caso¬do¬Brasil?¬E¬mais:¬
+o¬que¬acontecerá¬com¬a¬História¬e¬a¬memória¬desses¬países¬
+diante¬de¬uma¬população¬cada¬vez¬mais¬conectada¬a¬LLMs¬
+estrangeiras¬globais¬que¬acredita¬mais¬no¬que¬encontra¬nos¬
+apps¬e¬sites¬de¬busca¬do¬que¬nos¬livros¬de¬História?¬”¬
+¬
+Luciana¬Garbin,¬IAs¬estão¬apagando¬e¬reescrevendo¬pedaços¬da¬
+História.¬E¬o¬Brasil¬com¬isso?,¬O¬Estado¬de¬S.¬Paulo¬(on-line),¬29/01/2025¬
+(Adaptado)¬
+¬
+¬
+O¬texto¬apresentado¬traz¬uma¬crítica¬
+¬
+(A)¬ao¬ trabalho¬ dos¬ programadores,¬ que¬ estabelecem¬
+mecanismos¬frágeis¬de¬intelecção¬das¬máquinas¬dotadas¬
+de¬inteligência.¬
+(B)¬às¬chamadas¬big¬techs¬que¬visam¬apenas¬o¬lucro¬a¬partir¬
+dos¬ serviços¬ que¬ disponibilizam,¬ gerando¬ dificuldades¬
+para¬o¬usuário.¬
+(C)¬às¬ empresas¬ de¬ tecnologia¬ brasileiras,¬ que¬ não¬
+desenvolveram¬ LLMs¬ de¬ alcance¬ global,¬ o¬ que¬ seria¬
+possível¬a¬despeito¬do¬alcance¬da¬língua¬portuguesa¬no¬
+mundo.¬
+(D)¬aos¬
+governos¬
+das¬
+nações¬
+desenvolvidas,¬
+por¬
+estabelecerem¬
+padrões¬
+desiguais¬
+de¬
+controle¬
+de¬
+segurança¬ para¬ os¬ produtos¬ como¬ o¬ ChatGPT¬ e¬ o¬
+DeepSeek.¬
+(E)¬às¬pessoas¬que,¬em¬grande¬parte,¬passaram¬a¬confiar¬em¬
+fontes¬e¬a¬acreditar¬em¬informações¬não¬contextualizadas¬
+historicamente.¬
+##### 
+¬
+{24} 
+Em¬Ideias¬para¬adiar¬o¬fim¬do¬Mundo,¬Ailton¬Krenak¬coloca¬
+ênfase¬no¬papel¬que¬o¬rio¬Watu¬desempenha¬para¬a¬unidade¬
+do¬povo¬krenak,¬o¬povo¬“cabeça¬da¬terra”.¬O¬rio¬foi¬palco¬de¬
+um¬ evento¬ que¬ marcou¬ nosso¬ país.¬ De¬ posse¬ dessas¬
+informações¬ e¬ com¬ base¬ na¬ leitura¬ do¬ livro,¬ assinale¬ a¬
+alternativa¬que¬indica¬o¬nome¬do¬rio,¬em¬português,¬e¬o¬evento¬
+mencionado.¬
+¬
+(A)¬Solimões¬–¬seca¬de¬2023.¬
+(B)¬Doce¬–¬rompimento¬da¬barragem¬do¬Fundão.¬
+(C)¬Tietê¬–¬enchente¬de¬São¬Paulo¬em¬1929.¬
+(D)¬São¬Francisco¬–¬transposição¬de¬suas¬águas.¬
+(E)¬Paraopeba¬¬–¬¬rompimento¬da¬¬barragem¬¬de¬¬¬¬Brumadinho.¬
+ 
+##### 
+¬
+ 
+ 
+ 
+ 
+{25} 
+Observe¬a¬charge¬a¬seguir:¬
+¬
+ 
+¬
+Folha¬de¬São¬Paulo,¬26.01.2025¬
+Assinale¬ a¬ alternativa¬ que¬ melhor¬ descreve¬ as¬ situações¬ às¬
+quais¬a¬charge¬se¬refere.¬
+¬
+(A)¬Denuncismo,¬ confusão¬ relativa¬ às¬ categorias¬ sociais¬ e¬
+mudanças¬climáticas.¬
+(B)¬Estigmas¬sociais,¬alarmismo¬social¬e¬mobilidade¬social.¬
+(C)¬Alarmismo¬ social,¬ identificação¬ dos¬ imigrantes¬ como¬
+animais¬e¬mudanças¬climáticas.¬
+(D)¬Racismo,¬degelo¬da¬Antártida¬e¬luta¬de¬classes.¬
+(E)¬Denuncismo,¬extinção¬de¬espécimes¬da¬fauna¬e¬mudanças¬
+sociais.¬
+##### 
+¬
+{26} 
+Em¬ O¬ Perigo¬ de¬ uma¬ História¬ Única,¬ Chimamanda¬ Ngozi¬
+Adichie¬afirma¬que¬“Há¬pouco¬tempo¬dei¬uma¬palestra¬numa¬
+universidade¬e¬um¬aluno¬me¬disse¬que¬era¬uma¬grande¬pena¬
+que¬ os¬ homens¬ nigerianos¬ fossem¬ agressivos¬ como¬ o¬
+personagem¬do¬pai¬no¬meu¬romance.¬Eu¬disse¬a¬ele¬que¬tinha¬
+acabado¬de¬ler¬um¬livro¬chamado¬O¬psicopata¬americano¬e¬
+que¬ achava¬ uma¬ grande¬ pena¬ que¬ os¬ jovens¬ americanos¬
+fossem¬assassinos¬em¬série.¬Bem,¬obviamente¬eu¬disse¬isso¬
+num¬ leve¬ ataque¬ de¬ irritação.¬ Mas¬ jamais¬ teria¬ me¬ ocorrido¬
+pensar¬que,¬só¬porque¬li¬um¬romance¬no¬qual¬o¬personagem¬
+era¬ um¬ assassino¬ em¬ série,¬ ele¬ de¬ alguma¬ maneira¬
+representava¬todos¬os¬americanos.¬Não¬digo¬isso¬porque¬me¬
+considero¬uma¬pessoa¬melhor¬do¬que¬esse¬aluno¬(...).¬Já¬tinha¬
+lido¬Tyler,¬Updike,¬Steinbeck¬e¬Gaitskill.¬Não¬tinha¬uma¬história¬
+única¬dos¬Estados¬Unidos”.¬¬
+Nesse¬livro,¬como¬no¬trecho¬de¬O¬Estado¬de¬S.¬Paulo¬citado¬
+na¬questão¬23,¬pode-se¬afirmar¬que¬a¬versão¬de¬um¬fato¬será¬
+tanto¬mais¬disseminada¬quanto¬
+¬
+(A)¬maior¬ for¬ o¬ poder¬ econômico¬ e¬ cultural¬ de¬ quem¬ a¬
+comunica.¬
+(B)¬mais¬críveis¬forem¬os¬seus¬contornos¬narrativos.¬
+(C)¬menos¬verossímeis¬forem¬os¬valores¬ínsitos¬à¬mensagem.¬
+(D)¬maior¬for¬o¬poder¬militar¬e¬científico¬de¬quem¬a¬comunica.¬
+(E)¬menores¬forem¬os¬riscos¬de¬conter¬inverdades.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 8 ---
+
+Concurso Edital RH nº 030/2025 – Técnico de Laboratório (especialidade: Estruturas) 
+{27} 
+Considere¬o¬art.¬2º¬do¬Estatuto¬da¬USP:¬
+¬
+Artigo 2º –¬São¬fins¬da¬USP:¬
+¬
+I¬ –¬promover¬ e¬ desenvolver¬ todas¬ as¬ formas¬ de¬
+conhecimento,¬por¬meio¬do¬ensino¬e¬da¬pesquisa;¬
+II¬ –¬ ministrar¬ o¬ ensino¬ superior¬ visando¬ à¬ formação¬ de¬
+pessoas¬ capacitadas¬ ao¬ exercício¬ da¬ investigação¬ e¬ do¬
+magistério¬em¬todas¬as¬áreas¬do¬conhecimento,¬bem¬como¬
+à¬qualificação¬para¬as¬atividades¬profissionais;¬
+III¬ –¬ estender¬ à¬ sociedade¬ serviços¬ indissociáveis¬ das¬
+atividades¬de¬ensino¬e¬de¬pesquisa.¬
+¬
+As¬ alternativas¬ a¬ seguir¬ indicam¬ as¬ cinco¬ Pró-Reitorias¬
+existentes¬na¬USP.¬Assinale¬aquela¬cujas¬atividades¬NÃO¬se¬
+relacionam¬diretamente¬com¬os¬fins¬da¬Universidade.¬
+¬
+(A)¬Pró-Reitoria¬de¬Cultura¬e¬Extensão¬Universitária.¬
+(B)¬Pró-Reitoria¬de¬Graduação.¬
+(C)¬Pró-Reitoria¬de¬Inclusão¬e¬Pertencimento.¬
+(D)¬Pró-Reitoria¬de¬Pesquisa¬e¬Inovação.¬
+(E)¬Pró-Reitoria¬de¬Pós-Graduação.¬
+##### 
+¬
+{28} 
+Considere¬a¬seguinte¬situação:¬Ênio¬Oliveira,¬Vice-Reitor¬da¬
+USP,¬ falece¬ em¬ um¬ acidente.¬ Nesse¬ caso,¬ Edna¬ Cruz,¬ a¬
+Reitora,¬deverá¬
+¬
+(A)¬indicar¬um¬novo¬Vice-Reitor,¬que¬será¬homologado¬pelo¬
+Conselho¬Universitário¬em¬até¬15¬dias.¬
+(B)¬dar¬início¬ao¬processo¬eleitoral,¬para¬a¬escolha¬de¬um¬novo¬
+Vice-Reitor,¬que¬cumprirá¬um¬mandato¬novo,¬de¬4¬anos.¬
+(C)¬ser¬substituída,¬em¬suas¬ausências¬ou¬impedimentos,¬pelo¬
+decano¬do¬Conselho¬Universitário.¬
+(D)¬dar¬início¬ao¬processo¬eleitoral,¬para¬a¬escolha¬de¬um¬novo¬
+Vice-Reitor,¬ que¬ exercerá¬ tal¬ função¬ pelo¬ tempo¬ que¬
+restava¬de¬mandato¬para¬Ênio.¬
+(E)¬indicar¬um¬novo¬Vice-Reitor,¬que¬deverá¬ser¬nomeado¬pelo¬
+Governador¬de¬SP¬em¬até¬15¬dias.¬
+##### 
+¬
+{29} 
+Aproximando-se¬as¬inscrições¬para¬Diretor¬de¬um¬Instituto,¬a¬
+comunidade¬local¬sabe¬que¬Lucas,¬Ana¬e¬Maria¬pretendem¬ser¬
+candidatos,¬
+tendo¬
+como¬
+candidatos¬
+a¬
+Vice-Diretor,¬
+respectivamente,¬Sara,¬Lia¬e¬Marcos.¬Sabendo¬que¬Marcos¬é¬
+Professor¬ Associado¬ 2¬ e¬ todos¬ os¬ demais¬ são¬ Professores¬
+Titulares,¬é¬possível¬afirmar¬que¬a¬Chapa¬Maria¬e¬Marcos¬
+¬
+(A)¬não¬pode¬se¬candidatar,¬em¬nenhuma¬hipótese.¬
+(B)¬pode¬se¬candidatar,¬sem¬qualquer¬restrição.¬
+(C)¬pode¬ se¬ candidatar¬ numa¬ eventual¬ segunda¬ fase¬ de¬
+inscrições,¬ mas¬ apenas¬ se¬ Lucas¬ e¬ Sara¬ ou¬ Ana¬ e¬ Lia¬
+deixarem¬de¬se¬inscrever.¬
+(D)¬pode¬ se¬ candidatar¬ numa¬ eventual¬ segunda¬ fase¬ de¬
+inscrições,¬mesmo¬que¬as¬chapas¬Lucas¬e¬Sara¬e¬Ana¬e¬
+Lia¬se¬inscrevam.¬
+(E)¬pode¬se¬candidatar¬desde¬logo,¬mas¬só¬concorrerão¬se¬
+Lucas¬e¬Sara¬ou¬Ana¬e¬Lia¬deixarem¬de¬se¬inscrever.¬
+##### 
+ 
+ 
+ 
+{30} 
+Uma¬ Unidade¬ tem¬ 8¬ Professores¬ Titulares,¬ todos¬ membros¬
+natos¬ da¬ Congregação.¬ O¬ número¬ de¬ representantes¬ dos¬
+Professores¬ Associados¬ e¬ dos¬ Professores¬ Doutores¬ é,¬
+respectivamente,¬
+¬
+(A)¬2¬e¬1.¬
+(B)¬4¬e¬3.¬
+(C)¬5¬e¬3.¬
+(D)¬4¬e¬2.¬
+(E)¬6¬e¬3.¬
+##### 
+¬
+{31} 
+A¬integridade¬acadêmica¬exige¬que¬a¬autoria¬de¬um¬trabalho¬
+científico¬ seja¬ atribuída¬ de¬ maneira¬ justa¬ e¬ transparente.¬
+Assinale¬a¬alternativa¬que¬descreve¬corretamente¬um¬tipo¬de¬
+fraude¬na¬autoria.¬
+¬
+(A)¬Autoria¬ fantasma,¬ que¬ ocorre¬ quando¬ um¬ pesquisador¬
+renomado¬é¬incluído¬como¬autor¬sem¬ter¬contribuído¬para¬
+a¬pesquisa,¬com¬o¬objetivo¬de¬aumentar¬a¬credibilidade¬do¬
+estudo.¬
+(B)¬Autoria¬ honorífica,¬ que¬ se¬ caracteriza¬ pela¬ omissão¬
+intencional¬ de¬ um¬ autor¬ relevante,¬ ocultando¬ sua¬
+participação¬para¬evitar¬conflitos¬de¬interesse.¬
+(C)¬Autoria¬ órfã,¬ que¬ corresponde¬ à¬ exclusão¬ injusta¬ de¬ um¬
+pesquisador¬ que¬ contribuiu¬ significativamente¬ para¬ o¬
+trabalho,¬negando-lhe¬o¬devido¬reconhecimento.¬
+(D)¬Autoria¬ forjada,¬ que¬ se¬ refere¬ à¬ atribuição¬ indevida¬ de¬
+autoria¬ a¬ um¬ indivíduo¬ que¬ teve¬ participação¬ ativa¬ na¬
+pesquisa,¬ mas¬ cuja¬ inclusão¬ poderia¬ prejudicar¬ a¬
+credibilidade¬do¬estudo.¬
+(E)¬Omissão¬de¬autoria,¬que¬corresponde¬à¬exclusão¬de¬um¬
+autor¬como¬forma¬de¬evitar¬eventuais¬conflitos¬de¬interesse.¬¬
+##### 
+¬
+{32} 
+Para¬ a¬ publicação¬ de¬ um¬ artigo¬ científico,¬ algumas¬
+informações¬são¬obrigatórias¬para¬garantir¬a¬transparência¬e¬a¬
+credibilidade¬da¬pesquisa,¬enquanto¬outras¬não¬precisam¬ser¬
+apresentadas.¬ Assinale¬ a¬ alternativa¬ que¬ apresenta¬ uma¬
+informação¬que¬não¬tem¬obrigatoriedade¬ser¬divulgada¬em¬um¬
+artigo¬científico:¬
+¬
+(A)¬A¬agência¬financiadora¬da¬pesquisa.¬
+(B)¬O¬nome¬de¬todos¬os¬prestadores¬de¬serviços¬envolvidos¬
+no¬trabalho.¬
+(C)¬O¬ nome¬ da¬ instituição¬ ou¬ das¬ instituições¬ vinculadas¬ à¬
+pesquisa.¬
+(D)¬O¬nome¬de¬todos¬os¬envolvidos¬no¬trabalho¬científico.¬
+(E)¬O¬ autor¬ para¬ correspondência,¬ que¬ responderá¬ aos¬
+questionamentos¬quanto¬a¬pesquisa.¬¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Concurso Edital RH nº 030/2025 – Técnico de Laboratório (especialidade: Estruturas) 
+{33} 
+A¬ pesquisa¬ científica¬ deve¬ seguir¬ princípios¬ éticos¬ e¬ legais¬
+para¬ garantir¬ a¬ integridade¬ dos¬ estudos¬ e¬ a¬ proteção¬ dos¬
+envolvidos.¬Em¬relação¬a¬essa¬temática,¬assinale¬a¬alternativa¬
+correta.¬
+¬
+(A)¬A¬ aprovação¬ do¬ Comitê¬ de¬ Ética¬ é¬ obrigatória¬ somente¬
+para¬pesquisas¬que¬envolvem¬procedimentos¬invasivos¬ou¬
+riscos¬físicos¬para¬seres¬humanos.¬¬
+(B)¬Os¬ pareceres¬ das¬ Comissões¬ de¬ Ética¬ pertinentes¬ ao¬
+escopo¬ do¬ projeto¬ podem¬ ser¬ obtidos¬ em¬ qualquer¬
+momento¬durante¬o¬desenvolvimento¬do¬projeto.¬
+(C)¬Pesquisas¬
+envolvendo¬
+invertebrados¬
+devem¬
+obrigatoriamente¬
+ser¬
+submetidas¬
+a¬
+aprovação¬
+da¬
+Comissão¬de¬Ética¬para¬o¬Uso¬de¬Animais.¬
+(D)¬É¬ obrigatório¬ que¬ toda¬ instituição¬ de¬ ensino¬ e¬ pesquisa¬
+tenha¬suas¬comissões¬de¬ética,¬estabelecidas¬nos¬moldes¬
+da¬lei,¬para¬análise¬e¬aprovação¬e¬acompanhamento¬dos¬
+projetos¬de¬pesquisa.¬¬
+(E)¬Licenças¬e¬autorizações¬ambientais¬são¬exigidas¬apenas¬
+para¬ pesquisas¬ que¬ envolvem¬ espécies¬ ameaçadas¬ de¬
+extinção.¬
+##### 
+¬
+{34} 
+Observe¬a¬imagem¬a¬seguir:¬
+¬
+¬
+¬
+Em¬ relação¬ à¬ imagem¬ apresentada,¬ assinale¬ a¬ alternativa¬
+correta.¬
+¬
+(A)¬Representa¬a¬falsificação¬de¬dados¬para¬publicação.¬
+(B)¬Indica¬o¬plágio¬como¬forma¬de¬incrementar¬o¬impacto¬das¬
+publicações.¬
+(C)¬Estimula¬a¬publicação¬seletiva¬de¬resultados¬positivos.¬
+(D)¬Representa¬a¬publicação¬fracionada¬de¬dados¬com¬forma¬
+de¬aumentar¬o¬número¬de¬publicações.¬
+(E)¬Indica¬o¬impacto¬da¬não¬publicação¬de¬dados.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{35} 
+No¬contexto¬da¬execução¬de¬um¬projeto¬de¬pesquisa¬ou¬da¬
+publicação¬ de¬ um¬ artigo¬ científico,¬ diversos¬ procedimentos¬
+são¬ recomendados¬ para¬ garantir¬ a¬ qualidade¬ e¬ a¬ ética¬ do¬
+trabalho.¬
+Assinale¬
+a¬
+alternativa¬
+que¬
+apresenta¬
+um¬
+procedimento¬ético¬e¬recomendado.¬
+¬
+(A)¬Submeter¬ o¬ mesmo¬ trabalho¬ simultaneamente¬ a¬ dois¬
+periódicos¬ distintos¬ para¬ acelerar¬ o¬ processo¬ de¬
+publicação.¬
+(B)¬Emitir¬parecer¬sobre¬um¬trabalho¬mesmo¬havendo¬conflito¬
+de¬interesse¬com¬o(s)¬autor(es),¬desde¬que¬haja¬anuência¬
+dos¬autores.¬
+(C)¬Avaliar¬um¬trabalho¬sobre¬um¬tema¬fora¬de¬sua¬área¬de¬
+especialização,¬
+desde¬
+que¬
+o¬
+parecer¬
+seja¬
+bem¬
+fundamentado.¬
+(D)¬Disponibilizar¬ os¬ dados¬ da¬ pesquisa¬ para¬ outros¬
+pesquisadores,¬garantindo¬a¬verificabilidade,¬conforme¬a¬
+política¬da¬editora¬ou¬assim¬que¬o¬artigo¬for¬publicado¬em¬
+acesso¬aberto.¬
+(E)¬Manter¬ sigilo¬ sobre¬ erros¬ detectados,¬ para¬ proteger¬ a¬
+reputação¬do¬pesquisador¬e¬da¬instituição.¬
+##### 
+¬
+{36} 
+Uma¬empresa¬precisa¬elaborar¬um¬relatório¬corporativo¬anual,¬
+para¬ apresentação¬ em¬ uma¬ reunião¬ estratégica,¬ que¬ será¬
+distribuído¬aos¬funcionários¬no¬formato¬digital.¬O¬relatório¬deve¬
+conter¬ os¬ seguintes¬ itens:¬ textos¬ explicativos,¬ tabelas¬ com¬
+cálculos¬ financeiros¬ e¬ gráficos¬ interativos¬ para¬ ilustrar¬ os¬
+dados.¬ Para¬ garantir¬ eficiência,¬ precisão¬ e¬ organização¬ no¬
+desenvolvimento¬ do¬ material¬ e,¬ lembrando¬ que¬ o¬ Microsoft¬
+Word,¬ Excel¬ e¬ PowerPoint,¬ presentes¬ no¬ Office¬ 365,¬ foram¬
+desenvolvidos¬ para¬ atender¬ a¬ necessidades¬ específicas,¬
+assinale¬a¬alternativa¬que¬representa¬o¬melhor¬uso¬combinado¬
+das¬ferramentas¬Word,¬Excel¬e¬PowerPoint¬no¬Office¬365.¬
+¬
+(A)¬Criar¬todo¬o¬relatório¬no¬PowerPoint,¬pois¬ele¬permite¬inserir¬
+textos,¬tabelas¬e¬gráficos,¬substituindo¬a¬necessidade¬do¬
+Word¬e¬Excel.¬
+(B)¬Criar¬o¬relatório¬principal¬no¬Excel¬para¬detalhamento¬do¬
+conteúdo,¬ utilizar¬ o¬ Power¬ Point¬ para¬ gerar¬ tabelas¬
+dinâmicas¬e¬gráficos¬vinculados¬e,¬por¬fim,¬importar¬esses¬
+elementos¬para¬o¬Word¬para¬apresentação¬visual.¬
+(C)¬Criar¬o¬relatório¬no¬Word¬e¬capturar¬imagens¬dos¬gráficos¬
+e¬tabelas¬do¬Excel,¬colando-as¬no¬PowerPoint¬sem¬vínculo¬
+dinâmico.¬
+(D)¬Utilizar¬o¬Excel¬para¬gerar¬gráficos¬e¬exportar¬a¬planilha¬
+inteira¬para¬Word¬e¬PowerPoint¬sem¬edição¬posterior.¬
+(E)¬Criar¬o¬relatório¬principal¬no¬Word¬para¬detalhamento¬do¬
+conteúdo,¬utilizar¬o¬Excel¬para¬gerar¬tabelas¬dinâmicas¬e¬
+gráficos¬vinculados¬e,¬por¬fim,¬importar¬esses¬elementos¬
+para¬o¬PowerPoint¬para¬apresentação¬visual.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Concurso Edital RH nº 030/2025 – Técnico de Laboratório (especialidade: Estruturas) 
+{37} 
+A¬ferramenta¬destacada,¬em¬vermelho,¬na¬imagem¬a¬seguir,¬
+pertence¬à¬guia¬'Página¬Inicial'¬do¬Microsoft¬Word¬365:¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Essa¬ferramenta¬é¬utilizada¬para¬facilitar¬a¬edição¬de¬textos.¬
+Com¬base¬em¬suas¬funcionalidades,¬assinale¬a¬alternativa¬que¬
+descreve¬a¬função¬dessa¬ferramenta.¬
+¬
+(A)¬Corrigir¬automaticamente¬erros¬ortográficos¬e¬gramaticais.¬
+(B)¬Traduzir¬o¬texto¬selecionado¬para¬outro¬idioma.¬¬
+(C)¬Converter¬ um¬ texto¬ em¬ título,¬ subtítulo¬ ou¬ citação¬
+automaticamente.¬¬
+(D)¬Copiar¬a¬formatação¬de¬um¬trecho¬de¬texto¬e¬aplicá-la¬a¬
+outro.¬
+(E)¬Remover¬ a¬ formatação¬ do¬ texto,¬ deixando-o¬ em¬ estilo¬
+padrão.¬
+##### 
+¬
+{38} 
+Um¬usuário¬do¬Microsoft¬Excel¬365¬está¬criando¬uma¬planilha¬
+com¬o¬nome¬de¬1.000¬(mil)¬alunos¬de¬um¬colégio,¬e¬deseja¬
+gerar¬um¬número¬de¬identificação¬sequencial¬para¬cada¬aluno,¬
+iniciando¬no¬número¬1(um),¬conforme¬exemplifica¬a¬imagem¬a¬
+seguir:¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Ao¬ invés¬ de¬ digitar¬ manualmente¬ cada¬ número¬ de¬
+identificação¬ (1,2,3,4¬ .......1.000),¬ o¬ usuário¬ pode¬ utilizar¬ um¬
+recurso¬ do¬ Excel¬ que¬ permite¬ preencher¬ automaticamente¬
+essa¬sequência¬de¬forma¬rápida¬e¬eficiente.¬¬
+¬
+Considerando¬que¬o¬Excel¬365¬reconhece,¬automaticamente,¬
+algumas¬ sequências¬ comuns,¬ assinale¬ a¬ alternativa¬ que¬
+apresenta¬ a¬ melhor¬ forma¬ de¬ preencher¬ a¬ lista¬ de¬ meses¬
+automaticamente.¬
+¬
+¬
+(A)¬Digitar¬"1"¬na¬célula¬A2¬→¬Pressionar¬"Ctrl¬+¬Enter"¬para¬
+preencher¬automaticamente¬até¬a¬linha¬1.001.¬
+(B)¬Digitar¬ "1"¬ na¬ célula¬ A2¬ →¬ Acessar¬ a¬ guia¬ "Inserir"¬ →¬
+Escolher¬"Preenchimento¬Automático¬de¬Sequência".¬
+(C)¬Digitar¬"1"¬na¬célula¬A2¬e¬"2"¬na¬célula¬A3¬→¬Selecionar¬
+ambas¬ →¬ Arrastar¬ a¬ alça¬ de¬ preenchimento¬ até¬ a¬ linha¬
+1.001.¬
+(D)¬Digitar¬ "1"¬ na¬ célula¬ A2¬ →¬ Acessar¬ a¬ guia¬ "Exibição"¬ →¬
+Ativar¬"Sequência¬Numérica¬Automática".¬
+(E)¬Digitar¬"1"¬na¬célula¬A2¬→¬Pressionar¬"Ctrl¬+¬Shift¬+¬Seta¬
+para¬ baixo"¬ para¬ preencher¬ a¬ sequência¬ até¬ 1.001¬
+automaticamente.¬####¬
+{39} 
+No¬Microsoft¬Excel¬365,¬versão¬em¬português,¬a¬função¬SE¬é¬
+utilizada¬ para¬ criar¬ condições¬ lógicas¬ e¬ retornar¬ diferentes¬
+valores¬com¬base¬em¬um¬critério.¬Considerando¬este¬contexto,¬
+analise¬a¬seguinte¬situação:¬Nas¬eleições¬do¬Brasil,¬o¬voto¬é¬
+obrigatório¬para¬as¬pessoas¬entre¬18¬e¬70¬anos.¬Porém,¬para¬
+jovens¬com¬16¬e¬17¬anos¬e¬pessoas¬com¬71¬anos¬ou¬mais,¬o¬
+voto¬é¬opcional¬e¬menores¬de¬16¬não¬podem¬votar.¬
+¬
+Uma¬planilha¬contém¬2¬colunas:¬uma¬com¬a¬idade¬da¬pessoa¬
+e¬ a¬ outra,¬ o¬ tipo¬ de¬ voto,¬ que¬ deverá¬ conter¬ uma¬ dessas¬
+opções:¬“VOTO¬OBRIGATÓRIO”,¬“VOTO¬OPCIONAL”,¬“NÃO¬
+PODE¬VOTAR”,¬conforme¬imagem¬a¬seguir:¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Em¬relação¬à¬situação¬apresentada,¬assinale¬a¬alternativa¬que¬
+representa¬a¬fórmula¬correta¬para¬testar¬a¬idade¬da¬pessoa¬e¬
+preencher¬ a¬ coluna¬ “tipo¬ de¬ voto”,¬ automaticamente,¬ de¬
+acordo¬com¬a¬idade¬do¬leitor.¬
+¬
+¬
+(A) =SE(A2<16;"NÃO PODE 
+VOTAR";SE(OU(A2=16;A2=17;A2>=71);"VOTO 
+OPCIONAL";"VOTO OBRIGATÓRIO")) 
+¬
+(B) =SE(A2<=16;"VOTO 
+OBRIGATÓRIO";SE(A2>=18;"VOTO 
+OPCIONAL";"NÃO PODE VOTAR")) 
+ 
+(C) =SE(A2>70;"VOTO 
+OBRIGATÓRIO";SE(A2>=18;"VOTO 
+OPCIONAL";"NÃO PODE VOTAR")) 
+ 
+(D) =SE(E(A2>=18;A2<=70);"VOTO 
+OBRIGATÓRIO";SE(A2>70;"NÃO PODE 
+VOTAR";"VOTO OPCIONAL")) 
+ 
+(E) =SE(A2<18;"NÃO PODE 
+VOTAR";SE(A2<=70;"VOTO OBRIGATÓRIO";"VOTO 
+OPCIONAL")) 
+##### 
+¬
+ 
+ 
+
+
+--- PAGE 11 ---
+
+Concurso Edital RH nº 030/2025 – Técnico de Laboratório (especialidade: Estruturas) 
+{40} 
+Um¬ usuário¬ preparou¬ uma¬ apresentação¬ no¬ Microsoft¬
+PowerPoint¬365¬e¬deseja¬configurá-la¬para¬que¬cada¬slide¬seja¬
+exibido,¬automaticamente,¬por¬50¬segundos¬antes¬de¬avançar¬
+para¬o¬próximo,¬sem¬a¬necessidade¬de¬cliques¬manuais.¬
+¬
+Qual¬ dos¬ menus¬ do¬ PowerPoint¬ 365¬ disponibiliza¬ o¬ recurso¬
+para¬a¬configuração¬descrita?¬
+¬
+(A)¬Transições.¬
+(B)¬Apresentação¬de¬slides.¬
+(C)¬Exibição.¬¬
+(D)¬Animações.¬
+(E)¬Design.¬
+##### 
+¬
+{41} 
+Uma¬ das¬ vantagens¬ no¬ uso¬ de¬ extensômetros¬ que¬ usam¬ a¬
+variação¬da¬resistência¬elétrica¬para¬medir¬a¬deformação¬de¬
+um¬ objeto¬ é¬ a¬ possibilidade¬ de¬ se¬ monitorar¬ variações¬
+remotamente,¬além¬da¬possibilidade¬de¬ser¬instalado¬no¬local¬
+sem¬ comprometer¬ a¬ integridade¬ da¬ estrutura¬ analisada.¬ Tal¬
+característica¬deve-se¬ao¬fato¬de:¬
+¬
+(A)¬A¬medição¬realizada¬pode¬ser¬aferida¬com¬o¬auxílio¬de¬um¬
+medidor¬analógico¬de¬tensão¬elétrica.¬
+(B)¬É¬ possível¬ coletar¬ os¬ dados¬ da¬ medição¬ devido¬ às¬
+variações¬ de¬ corrente¬ elétrica¬ apresentada¬ no¬ objeto¬
+analisado.¬
+(C)¬Consegue-se¬ realizar¬ uma¬ medição¬ acoplando-se¬ um¬
+relógio¬comparador¬nos¬terminais¬do¬extensômetro.¬
+(D)¬É¬ possível¬ estimar¬ a¬ variação¬ das¬ dimensões¬ do¬ objeto¬
+analisando¬ as¬ variações¬ da¬ resistividade¬ do¬ material¬
+analisado.¬
+(E)¬A¬ medição¬ é¬ realizada¬ mediante¬ a¬ análise¬ das¬
+deformações¬ apresentadas,¬ resultando¬ na¬ variação¬ da¬
+resistência¬
+elétrica¬
+do¬
+extensômetro,¬
+que¬
+será¬
+transformada¬em¬voltagem¬(milivolts¬por¬volt).¬
+##### 
+¬
+{42} 
+Um¬extensômetro¬elétrico¬é¬aplicado¬a¬um¬material¬submetido¬
+a¬ uma¬ carga¬ de¬ tração.¬ O¬ extensômetro¬ tem¬ um¬ fator¬ de¬
+calibre¬ (GF)¬ de¬ 2¬ e¬ uma¬ resistência¬ inicial¬ (R0)¬ de¬ 120¬ Ω.¬
+Durante¬ o¬ experimento,¬ a¬ resistência¬ do¬ extensômetro¬
+aumentou¬para¬120,24¬Ω.¬Sabendo¬que:¬¬
+¬
+ε = 
+∆R
+R଴. GF
+¬
+¬
+Calcule¬a¬deformação¬(ε)¬do¬material¬e¬assinale¬a¬alternativa¬
+correta.¬
+¬
+(A)¬ε¬=¬0,0001¬
+(B)¬ε¬=¬0,0005¬
+(C)¬ε¬=¬0,001¬
+(D)¬ε¬=¬0,002¬
+(E)¬ε¬=¬0,005¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{43} 
+Um¬corpo¬de¬aço¬de¬massa¬“m”¬é¬suspenso¬por¬duas¬vigas,¬
+conforme¬apresentado¬na¬figura¬a¬seguir:¬
+¬
+¬
+¬
+Com¬relação¬aos¬esforços¬de¬tração¬sofridos¬pelas¬barras¬1¬e¬
+2,¬pode-se¬afirmar:¬
+¬
+(A)¬A¬tração¬sofrida¬pela¬barra¬2¬é¬maior¬que¬a¬sofrida¬pela¬
+barra¬1.¬
+(B)¬A¬tração¬sofrida¬pela¬barra¬1¬é¬maior¬que¬a¬sofrida¬pela¬
+barra¬2.¬
+(C)¬As¬trações¬tem¬a¬mesma¬intensidade,¬uma¬vez¬que¬o¬peso¬
+é¬dividido¬por¬elas.¬
+(D)¬Somente¬a¬barra¬1¬sofre¬esforço¬de¬tração.¬
+(E)¬Somente¬a¬barra¬2¬sofre¬esforço¬de¬tração.¬
+##### 
+¬
+{44} 
+Durante¬a¬inspeção¬em¬um¬circuito¬eletrônico,¬foi¬necessário¬
+substituir¬dois¬ resistores¬que¬estão¬conectados¬em¬paralelo¬
+(valores¬de¬6¬Ω¬e¬12¬Ω,¬respectivamente)¬e¬associado¬em¬série¬
+com¬outro¬de¬30¬Ω).¬Qual¬deve¬ser¬o¬valor¬de¬um¬único¬resistor¬
+substituto,¬ em¬ ohms,¬ se¬ desejarmos¬ manter¬ a¬ mesma¬
+resistência¬ equivalente?¬ Qual¬ a¬ potência¬ dissipada¬ se¬ uma¬
+corrente¬de¬2¬A¬fluir¬através¬neste¬novo¬resistor?¬
+¬
+(A)¬30¬Ω¬e¬60¬W.¬
+(B)¬30¬Ω¬e¬120¬W.¬
+(C)¬34¬Ω¬e¬68¬W.¬
+(D)¬34¬Ω¬e¬136¬W.¬
+(E)¬48¬Ω¬e¬196¬W.¬
+##### 
+¬
+{45} 
+Um¬ sistema¬ hidráulico¬ industrial¬ utiliza¬ um¬ filtro¬ de¬ alta¬
+eficiência¬para¬remover¬partículas¬contaminantes¬do¬fluido¬de¬
+trabalho.¬ O¬ filtro¬ possui¬ uma¬ razão¬ beta¬ (β)¬ de¬ 100¬ para¬
+partículas¬de¬5¬μm¬e¬uma¬razão¬beta¬de¬200¬para¬partículas¬
+de¬10¬μm.¬O¬fluido¬de¬entrada¬contém¬80.000¬partículas/mL¬de¬
+5¬ μm¬ e¬ 60.000¬ partículas/mL¬ de¬ 10¬ μm.¬ Determine¬ a¬
+concentração¬total¬de¬partículas¬(de¬5¬μm¬e¬10¬μm)¬por¬mililitro¬
+no¬fluido¬após¬a¬filtragem.¬
+¬
+(A)¬100¬partículas/mL.¬
+(B)¬200¬partículas/mL.¬
+(C)¬300¬partículas/mL.¬
+(D)¬800¬partículas/mL.¬
+(E)¬1.100¬partículas/mL.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 12 ---
+
+Concurso Edital RH nº 030/2025 – Técnico de Laboratório (especialidade: Estruturas) 
+{46} 
+Um¬transdutor¬de¬pressão¬possui¬uma¬faixa¬de¬medição¬de¬0¬
+a¬ 20¬ bar¬ e¬ gera¬ uma¬ saída¬ de¬ 4¬ a¬ 20¬ mA.¬ Sabendo¬ que¬ a¬
+pressão¬ medida¬ é¬ de¬ 15¬ bar,¬ e¬ que¬ o¬ transdutor¬ está¬
+conectado¬a¬um¬conversor¬de¬corrente¬para¬tensão¬com¬uma¬
+resistência¬de¬250¬Ω,¬qual¬é¬a¬tensão¬de¬saída¬do¬conversor,¬
+em¬volts¬(V)?¬
+¬
+(A)¬1¬V¬
+(B)¬4¬V¬
+(C)¬5¬V¬
+(D)¬8.75¬V¬
+(E)¬9¬V¬
+##### 
+¬
+{47} 
+Um¬manômetro¬usado¬em¬um¬circuito¬pneumático¬para¬aferir¬
+a¬pressão¬de¬um¬fluido¬de¬trabalho¬exibe¬a¬seguinte¬leitura,¬
+expressa¬no¬visor¬do¬instrumento:¬
+¬
+¬
+¬
+Com¬ relação¬ à¬ medição¬ apresentada,¬ qual¬ é¬ a¬ correta¬
+representação¬da¬medição¬em¬unidades¬de¬“bar”,¬informando¬
+a¬respectiva¬incerteza¬instrumental?¬
+¬
+(A)¬P¬=¬(¬1,755¬±¬0,05¬)¬bar.¬
+(B)¬P¬=¬(¬1,755¬±¬0,025¬)¬bar.¬
+(C)¬P¬=¬(¬1,75¬±¬0,1¬)¬bar.¬
+(D)¬P¬=¬(¬25,5¬±¬0,5¬)¬bar.¬
+(E)¬P¬=¬(¬25,5¬±¬1,0¬)¬bar.¬
+##### 
+¬
+{48} 
+Um¬reservatório¬é¬utilizado¬para¬armazenar¬um¬óleo,¬cuja¬peso¬
+específico¬é¬de¬é¬de¬9.000¬N/m3.¬Se¬este¬reservatório¬tem¬um¬
+diâmetro¬de¬1,5¬metro¬e¬altura¬de¬8¬metros¬e¬aberto¬em¬cima,¬
+qual¬é¬a¬pressão¬absoluta¬medida¬na¬base¬do¬cilindro?¬¬
+¬
+(A)¬Pabs¬=¬29,3¬[kPa].¬
+(B)¬Pabs¬=¬72,3¬[kPa].¬
+(C)¬Pabs¬=¬108¬[kPa].¬
+(D)¬Pabs¬=¬173,3¬[kPa].¬
+(E)¬Pabs¬=¬209,3¬[kPa].¬
+¬
+Note¬e¬adote:¬
+Considere¬a¬pressão¬atmosférica¬igual¬a¬101,3¬kPa.¬
+##### 
+ 
+ 
+ 
+{49} 
+Deseja-se¬saber¬a¬espessura¬de¬uma¬tubulação¬para¬fins¬de¬
+controle¬de¬processo.¬Para¬isto¬foi¬coletado¬uma¬amostra¬da¬
+linha¬ de¬ produção¬ e¬ realizada¬ as¬ seguintes¬ medidas¬ do¬
+diâmetro¬externo¬e¬interno,¬respectivamente:¬
+¬
+¬
+¬
+¬
+¬
+¬
+Qual¬é¬a¬espessura¬do¬tubo¬analisado?¬
+¬
+(A)¬e = 
+ଷ
+ଵ଺"¬
+(B)¬e =  1
+ଵଽ
+ଵଶ଼"¬
+(C)¬e = 
+ସଷ
+ଶହ଺"¬
+(D)¬e = 
+ସଷ
+128 "¬
+(E)¬e = 
+ଵହଵ
+ଵଶ଼"¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 13 ---
+
+Concurso Edital RH nº 030/2025 – Técnico de Laboratório (especialidade: Estruturas) 
+{50} 
+Durante¬ a¬ manutenção¬ preventiva¬ de¬ um¬ mancal,¬ foi¬
+observado¬ que¬ um¬ dos¬ rolamentos¬ está¬ apresentando¬
+desgaste¬ excessivo¬ e¬ superaquecimento.¬ Considerando¬ as¬
+melhores¬práticas¬de¬manutenção¬e¬as¬possíveis¬causas,¬qual¬
+das¬ seguintes¬ ações¬ deve¬ ser¬ tomada¬ para¬ diagnosticar¬ e¬
+resolver¬o¬problema?¬
+¬
+(A)¬Verificar¬a¬quantidade¬e¬a¬qualidade¬do¬lubrificante,¬bem¬
+como¬a¬aplicação¬correta,¬pois¬a¬falta¬ou¬o¬uso¬inadequado¬
+do¬
+lubrificante¬
+pode¬
+causar¬
+desgaste¬
+e¬
+superaquecimento.¬
+(B)¬Substituir¬ imediatamente¬ o¬ rolamento¬ por¬ um¬ modelo¬
+diferente,¬sem¬realizar¬uma¬análise¬detalhada¬das¬causas¬
+do¬problema.¬
+(C)¬Aumentar¬a¬carga¬aplicada¬ao¬rolamento¬para¬avaliar¬sua¬
+resistência¬e¬durabilidade.¬
+(D)¬Utilizar¬um¬lubrificante¬de¬menor¬viscosidade¬para¬reduzir¬
+o¬atrito¬entre¬as¬peças¬móveis.¬
+(E)¬Ignorar¬ a¬ temperatura¬ elevada¬ e¬ continuar¬ operando¬ o¬
+equipamento¬até¬o¬rolamento¬falhar¬completamente.¬
+##### 
+¬
+{51} 
+Uma¬barra¬de¬ferro¬com¬seção¬transversal¬de¬área¬4¬mm2¬deve¬
+ser¬usada¬para¬suportar¬verticalmente¬uma¬massa.¬A¬figura¬
+apresentada¬ a¬ seguir¬ refere-se¬ à¬ curva¬ de¬ tensão¬ e¬
+deformação¬do¬material¬escolhido:¬
+¬
+¬
+¬
+Considerando¬que¬um¬coeficiente¬de¬segurança¬estabelecido¬
+de¬valor¬igual¬a¬2¬em¬relação¬ao¬limite¬do¬escoamento¬elástico,¬
+qual¬deve¬ser¬a¬carga¬máxima¬recomendada¬a¬ser¬erguida?¬
+¬
+(A)¬𝐹 ௠௔௫ =  830 𝑁¬
+(B)¬𝐹 ௠௔௫ =  860 𝑁¬
+(C)¬𝐹 ௠௔௫ =  880 𝑁¬
+(D)¬𝐹 ௠௔௫ =  900 𝑁¬
+(E)¬𝐹 ௠௔௫ =  1760 𝑁¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{52} 
+Durante¬a¬montagem¬de¬uma¬estrutura,¬uma¬viga¬horizontal¬de¬
+8¬ metros¬ de¬ comprimento¬ precisa¬ suportar¬ três¬ cargas¬
+pontuais,¬sendo¬ela¬engastada¬somente¬por¬um¬dos¬lados.¬A¬
+primeira¬carga¬de¬400¬N¬é¬aplicada¬verticalmente¬para¬baixo¬
+a¬1¬metro¬da¬extremidade¬livre:¬a¬segunda¬carga¬de¬600¬N¬é¬
+aplicada¬ verticalmente¬ para¬ baixo¬ a¬ 4¬ metros¬ da¬ mesma¬
+extremidade,¬e¬a¬terceira¬carga¬de¬300¬N¬é¬aplicada¬a¬6¬metros¬
+da¬mesma¬extremidade,¬porém¬aplicada¬para¬cima.¬Qual¬é¬o¬
+momento¬de¬força¬(torque)¬total¬gerado¬pelas¬três¬cargas¬em¬
+relação¬à¬haste¬engastada?¬
+¬
+¬
+¬
+(A)¬700¬Nm.¬
+(B)¬1000¬Nm.¬
+(C)¬1300¬Nm.¬
+(D)¬4500¬Nm.¬
+(E)¬4600¬Nm.¬
+¬
+##### 
+¬
+{53} 
+Um¬ circuito¬ eletrônico¬ é¬ composto¬ por¬ 4¬ resistores,¬ cujos¬
+valores¬são:¬R1=¬2¬Ω,¬R2¬=¬3¬Ω,¬R3¬=¬R4¬=¬6¬Ω,¬conforme¬
+imagem¬a¬seguir:¬
+¬
+¬
+¬
+Se¬uma¬bateria¬de¬5¬volts¬alimenta¬este¬circuito,¬qual¬é¬o¬valor¬
+da¬corrente¬que¬passa¬pelo¬resistor¬R3?¬
+¬
+(A)¬I¬=¬0,167¬A¬
+(B)¬I¬=¬0,333¬A¬
+(C)¬I¬=¬0,5¬A¬
+(D)¬I¬=¬0,833¬A¬
+(E)¬I¬=¬1,2¬A¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 14 ---
+
+Concurso Edital RH nº 030/2025 – Técnico de Laboratório (especialidade: Estruturas) 
+{54} 
+Um¬componente¬eletrônico¬com¬resistência¬elétrica¬de¬5¬kΩ¬é¬
+submetido¬ à¬ uma¬ corrente¬ elétrica¬ de¬ 100¬ miliamperes¬ por¬¬
+10¬horas¬consecutivas¬ao¬longo¬de¬30¬dias¬por¬mês.¬Se¬o¬custo¬
+da¬energia¬elétrica¬é¬de¬aproximadamente¬R$¬0,90¬por¬kWh/h,¬
+qual¬ é¬ o¬ gasto¬ de¬ energia¬ elétrica¬ estimado¬ com¬ este¬
+componente¬no¬período¬de¬um¬mês?¬
+¬
+(A)¬R$¬0,45¬por¬mês.¬
+(B)¬R$¬4,50¬por¬mês.¬
+(C)¬R$¬13,50¬por¬mês.¬
+(D)¬R$¬27,00¬por¬mês.¬
+(E)¬R$¬135,00¬por¬mês.¬
+##### 
+¬
+{55} 
+Um¬sensor¬LVDT¬(Linear¬Variable¬Differential¬Transformer)¬é¬
+calibrado¬para¬operar¬na¬faixa¬de¬deslocamento¬de¬-20¬mm¬a¬
++20¬ mm,¬ com¬ uma¬ saída¬ de¬ -10V¬ a¬ +10V.¬ A¬ relação¬ entre¬
+deslocamento¬“d”¬e¬tensão¬de¬saída¬“V”¬é¬linear¬e¬pode¬ser¬
+expressa¬como:¬
+¬
+V =  m . d¬
+¬
+Onde¬“m”¬é¬o¬coeficiente¬de¬sensibilidade¬do¬sensor,¬definido¬
+como:¬
+¬
+m = V୫ୟ୶ − V୫୧୬
+d୫ୟ୶ − d୫୧୬
+¬
+¬
+Durante¬ uma¬ medição,¬ o¬ sensor¬ registrou¬ uma¬ tensão¬ de¬
+3,75V,¬ mas¬ após¬ uma¬ verificação¬ com¬ um¬ instrumento¬ de¬
+referência,¬descobriu-se¬que¬o¬deslocamento¬real¬era¬6¬mm.¬
+Qual¬é¬o¬erro¬percentual¬dessa¬medição?¬
+¬
+(A)¬12,5¬%¬
+(B)¬15¬%¬
+(C)¬18,5¬%¬
+(D)¬20¬%¬
+(E)¬25¬%¬
+##### 
+¬
+{56} 
+Um¬ metrologista,¬ ao¬ usar¬ uma¬ máquina¬ de¬ medição¬ por¬
+coordenadas¬ para¬ aferir¬ uma¬ distância¬ em¬ uma¬ peça,¬
+registrou¬as¬seguintes¬coordenadas¬do¬ponto¬A¬(5,000;¬4,000;¬¬
+3,000)¬mm.¬Uma¬segunda¬leitura,¬registrou¬as¬coordenadas¬
+(2,000;¬-2,000;¬1,000)¬mm¬para¬o¬ponto¬B,¬que¬indica¬a¬outra¬
+extremidade¬da¬face¬analisada.¬Qual¬é¬a¬distância¬linear¬de¬A¬
+até¬B?¬
+¬
+(A)¬d¬=¬-11,000¬mm¬
+(B)¬d¬=¬5,000¬mm¬
+(C)¬d¬=¬7,000¬mm¬
+(D)¬d¬=¬11,000¬mm¬
+(E)¬d¬=¬13.000¬mm¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{57} 
+Um¬ corpo¬ de¬ prova,¬ ao¬ ser¬ submetido¬ a¬ uma¬ tensão¬ de¬¬
+800¬kgf/mm2,¬ apresenta¬ uma¬ deformação¬ específica¬ de¬¬
+5¬[admensional].¬Ao¬se¬repetir¬a¬medição,¬porém¬aumentando¬
+a¬ tensão¬ aplicada¬ para¬ 1200¬kgf/mm2,¬ registrou-se¬ uma¬
+deformação¬de¬8¬[admensional].¬Para¬estas¬condições,¬pode-
+se¬afirmar:¬
+¬
+(A)¬com¬ os¬ resultados¬ das¬ medições¬ foram¬ divergentes,¬
+podemos¬ concluir¬ que¬ o¬ material¬ não¬ está¬ na¬ região¬
+elástica.¬¬
+(B)¬O¬material¬apresenta¬uma¬deformação¬elástica,¬sendo¬que¬
+o¬módulo¬de¬elasticidade¬encontrado¬é¬de¬150¬kgf/mm2.¬
+(C)¬O¬material¬apresenta¬uma¬deformação¬elástica,¬sendo¬que¬
+o¬módulo¬de¬elasticidade¬encontrado¬é¬de¬160¬kgf/mm2.¬
+(D)¬O¬material¬apresenta¬uma¬deformação¬plástica,¬sendo¬que¬
+o¬módulo¬de¬elasticidade¬encontrado¬é¬de¬150¬kgf/mm2.¬
+(E)¬O¬material¬apresenta¬uma¬deformação¬plástica,¬sendo¬que¬
+o¬módulo¬de¬elasticidade¬encontrado¬é¬de¬160¬kgf/mm2.¬
+##### 
+¬
+{58} 
+O¬reservatório¬A¬possui¬uma¬pressão¬interna¬de¬200¬kPA¬e¬
+encontra-se¬ elevado¬ a¬ uma¬ altura¬ de¬ 5¬ metros.¬ Este¬
+reservatório¬está¬conectado¬via¬tubulação¬ao¬reservatório¬B,¬
+1,5¬metros¬abaixo¬de¬A,¬conforme¬a¬representação¬na¬figura¬a¬
+seguir:¬¬
+¬
+¬
+¬
+A¬parte¬central¬da¬tubulação¬é¬preenchida¬com¬um¬líquido¬“L”,¬
+e¬o¬restante¬é¬água.¬Qual¬é¬a¬pressão¬registrada¬no¬manômetro¬
+acoplado¬ao¬reservatório¬B?¬¬
+¬
+(A)¬PB¬=¬118,5¬kPa¬
+(B)¬PB¬=¬185¬kPa¬
+(C)¬PB¬=¬200¬kPa¬
+(D)¬PB¬=¬214,5¬kPa¬
+(E)¬PB¬=¬281,5¬kPa¬
+¬
+Note¬e¬adote:¬¬
+¬
+ 𝛾ுమೀ =  10.000 𝑁/𝑚𝑚ଷ ¬
+  𝛾௅=  9.000 𝑁/𝑚𝑚ଷ¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 15 ---
+
+Concurso Edital RH nº 030/2025 – Técnico de Laboratório (especialidade: Estruturas) 
+{59} 
+Um¬ evento¬ aleatório¬ foi¬ analisado¬ e¬ realizado¬ uma¬ série¬ de¬
+medições.¬ Sabendo¬ que¬ a¬ distribuição¬ dos¬ resultados¬ se¬
+apresenta¬ na¬ forma¬ de¬ uma¬ gaussiana,¬ com¬ uma¬ boa¬
+repetibilidade¬nos¬dados.¬Assinale¬a¬alternativa¬que¬apresenta¬
+o¬melhor¬gráfico¬para¬a¬representações¬destas¬medições.¬
+¬
+(A)¬
+¬
+(B)¬
+¬
+(C)¬
+¬
+(D)¬
+¬
+(E)¬
+¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{60} 
+Um¬sistema¬hidráulico,¬cujo¬volume¬de¬controle¬está¬limitado¬
+na¬imagem¬a¬seguir,¬possui¬a¬vazão¬mássica¬conhecida¬de¬¬
+mA¬=¬5¬kg/s:¬
+¬
+¬
+¬
+Medições¬indicam¬que¬são¬retirados¬5,4¬m3/h¬pelo¬tudo¬B¬e¬
+mais¬ 7,2¬ m3/h¬ pelo¬ tubo¬ C.¬ Para¬ que¬ o¬ sistema¬ esteja¬
+trabalhando¬ no¬ estado¬ estacionado,¬ qual¬ deve¬ ser¬ a¬ vazão¬
+mássica¬ estimada¬ para¬ mD,¬ considerando¬ que¬ o¬ fluido¬ de¬
+trabalho¬é¬a¬água,¬cuja¬densidade¬pode¬ser¬aproximada¬para¬
+d¬=¬1?¬
+¬
+(A)¬𝑚ௗሶ =  7,6 𝑘𝑔/𝑠  𝑒𝑛𝑡𝑟𝑎𝑛𝑑𝑜 𝑛𝑜 𝑉. 𝐶.¬
+(B)¬𝑚ௗሶ =  1,5 𝑘𝑔/𝑠  𝑒𝑛𝑡𝑟𝑎𝑛𝑑𝑜 𝑛𝑜 𝑉. 𝐶.¬
+(C)¬𝑚ௗሶ =  1,5 𝑘𝑔/𝑠  𝑠𝑎𝑖𝑛𝑑𝑜 𝑑𝑜 𝑉. 𝐶.¬
+(D)¬𝑚ௗሶ =  17,6 𝑘𝑔/𝑠 𝑒𝑛𝑡𝑟𝑎𝑛𝑑𝑜 𝑛𝑜 𝑉. 𝐶.¬ ¬
+(E)¬𝑚ௗሶ =  17,6 𝑘𝑔/𝑠 𝑠𝑎í𝑛𝑑𝑜 𝑑𝑜 𝑉. 𝐶.¬ ¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 16 ---
+
+Concurso Edital RH nº 030/2025 – Técnico de Laboratório (especialidade: Estruturas) 
+Questão dissertativa 
+O¬controle¬de¬qualidade¬de¬qualquer¬produto¬confeccionado¬em¬série¬exige¬um¬acompanhamento¬constante¬do¬processo¬de¬
+produção.¬Com¬uma¬frequência¬determinada¬pelo¬controle¬de¬qualidade¬da¬empresa,¬constantemente,¬é¬necessário¬fazer¬a¬aferição¬
+dimensional¬do¬produto¬para¬atestar¬a¬conformidade¬do¬processo.¬Neste¬sentido,¬você¬foi¬incumbido(a)¬de¬realizar¬uma¬inspeção¬
+de¬controle¬sobre¬a¬massa¬de¬um¬lote¬de¬pacote¬de¬macarrão,¬que¬segundo¬a¬embalagem,¬deve¬conter¬800¬gramas¬do¬produto.¬A¬
+tabela¬a¬seguir¬apresenta¬um¬resumo¬de¬cinco¬amostras¬coletadas¬para¬a¬análise:¬¬
+¬
+Amostra 
+Massa aferida 
+(gramas) 
+Incerteza 
+Instrumental 
+(gramas) 
+1¬
+825¬
+5¬
+2¬
+790¬
+3¬
+820¬
+4¬
+810¬
+5¬
+780¬
+¬
+Com¬ base¬ nas¬ medidas¬ coletadas,¬ expresse¬ o¬ resultado¬ da¬ medida,¬ acompanhada¬ da¬ sua¬ respectiva¬ incerteza¬ (levando¬ em¬
+consideração¬o¬erro¬estatístico¬e¬o¬erro¬instrumental).¬Analisando¬os¬intervalos¬de¬confiança¬a¬partir¬do¬desvio¬padrão¬(𝜎௡ିଵ),¬qual¬
+é¬a¬probabilidade¬de¬um¬pacote¬de¬macarrão,¬com¬massa¬de¬830¬gramas,¬ser¬encontrado¬dentre¬o¬lote¬produzido?¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Instruções:  
+• As¬respostas¬deverão¬ser¬redigidas¬de¬acordo¬com¬a¬norma¬padrão¬da¬língua¬portuguesa.¬¬
+• Escreva¬com¬letra¬legível¬e¬não¬ultrapasse¬o¬espaço¬de¬linhas¬disponíveis¬da¬folha¬de¬respostas.¬¬
+• Receberão¬nota¬zero¬textos¬que¬desrespeitarem¬os¬direitos¬humanos¬e¬textos¬que¬permitirem,¬por¬qualquer¬modo,¬a¬identificação¬do¬candidato(a).¬
+
+
+--- PAGE 17 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RASCUNHO 
+ 
+ 
+NÃO SERÁ 
+CONSIDERADO NA 
+CORREÇÃO 
+
+
+--- PAGE 18 ---
+
+V2 
+
+
+--- PAGE 19 ---
+
+ 
+ 
+                 
+ 
+ 
+Universidade de São Paulo 
+GABARITO – CONCURSOS DRH USP – ABRIL/2025 
+ 
+ 
+ 
+ 
+Técnico de Laboratório (especialidade: Estruturas) – Edital RH Nº 030/2025 
+PROVA TLE 
+1 
+D 
+31 
+C 
+2 
+B 
+32 
+B 
+3 
+B 
+33 
+D 
+4 
+A 
+34 
+D 
+5 
+E 
+35 
+D 
+6 
+E 
+36 
+E 
+7 
+D 
+37 
+D 
+8 
+C 
+38 
+C 
+9 
+B 
+39 
+A 
+10 
+A 
+40 
+A 
+11 
+B 
+41 
+E 
+12 
+E 
+42 
+C 
+13 
+D 
+43 
+A 
+14 
+C 
+44 
+D 
+15 
+B 
+45 
+E 
+16 
+C 
+46 
+B 
+17 
+D 
+47 
+B 
+18 
+A 
+48 
+D 
+19 
+C 
+49 
+C 
+20 
+C 
+50 
+A 
+21 
+B 
+51 
+B 
+22 
+E 
+52 
+E 
+23 
+E 
+53 
+A 
+24 
+B 
+54 
+C 
+25 
+C 
+55 
+E 
+26 
+A 
+56 
+C 
+27 
+C 
+57 
+A 
+28 
+D 
+58 
+D 
+29 
+C 
+59 
+D 
+30 
+B 
+60 
+C 
+ 
+
+
+--- PAGE 20 ---
+
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 030/2025   
+ 
+Técnico de Laboratório  (Estruturas) 
+ 
+QUESTÃO DISSERTATIVA 
+ 
+ 
+ 
+RESPOSTA ESPERADA 
+ 
+Para auxiliar nos cálculos, convém montar uma tabela com algumas informações parciais: 
+ 
+Amostra 
+Medição 
+(gramas) 
+Desvio 
+absoluto 
+ (𝑚𝑖 − 𝑚̅) 
+Quadrado do 
+Desvio 
+1 
+825,00 
+20,00 
+400,00 
+2 
+790,00 
+-15,00 
+225,00 
+3 
+820,00 
+15,00 
+225,00 
+4 
+810,00 
+5,00 
+25,00 
+5 
+780,00 
+-25,00 
+625,00 
+𝑚̅ 
+805,00 
+∑(𝑚𝑖 − 𝑚̅)2
+𝑛
+𝑖=1
+ 
+1500,00 
+ 
+A média é obtida com: 
+ 
+𝑚̅  = 
+∑
+𝑚𝑖
+𝑛=5
+𝑖=1
+𝑛
+→ 𝑚̅  = 𝑚1  + 𝑚2 + 𝑚3 + 𝑚4 + 𝑚5
+5
+→ 𝑚̅  = 825 + 790 + 820 + 810 + 780
+5
+ → 𝑚̅  = 805   
+ 
+ 
+Desvio padrão 𝜎𝑛−1 :  
+𝜎𝑛−1  = √∑
+(𝑚𝑖 − 𝑚̅)2
+𝑛
+𝑖=1
+𝑛−1
+  = √1500
+5 −1  = √375 ~ 19,36  
+ 
+ 
+Desvio padrão da média ( 𝜎𝑚 ): 
+ 𝝈𝒎 = 𝝈𝒏−𝟏 
+√𝒏 = 19,4
+2,24 =  𝟖, 𝟔𝟒                 
+ 
+ 
+Incerteza padrão final ( 𝜎𝑝 ): 
+𝜎𝑝 = √(𝜎𝑚)2 + (𝜎𝑆)2  = √(8,64)2 + (5)2   = √74,65 + 25  =  √99,65 =  9,98 ~10 
+ 
+ 
+Sendo a medida final expressa da seguinte forma:  
+ 
+𝑚 = ( 𝑚̅ ±  𝜎𝑝) [unidade] → 
+ 𝑚 = ( 805 ± 10 ) [gramas] 
+ 
+ 
+
+
+--- PAGE 21 ---
+
+ 
+Já com relação à probabilidade de se escolher aleatoriamente um pacote da linha de produção e ele estar dentro do 
+intervalo correspondente ao desvio padrão da média, temos: 
+ 
+68 % de probabilidade de estar no intervalo de 
+𝑚̅  −𝜎𝑛−1  ≤  𝑚̅   ≤  𝑚̅  + 𝜎𝑛−1 
+ 
+ e 
+95 % de probabilidade de estar no intervalo de 
+𝑚̅  −2. (𝜎𝑛−1) ≤  𝑚̅   ≤  𝑚̅  + 2. (𝜎𝑛−1)     ou ainda 
+99,7 % de probabilidade de estar no intervalo de  𝑚
+̅̅̅ −3. (𝜎𝑛−1) ≤  𝑚̅   ≤  𝑚̅  + 3. (𝜎𝑛−1)   logo: 
+ 
+ 
+𝑚̅  −𝜎𝑛−1 = 805 - 19,36 = 785,64 
+ 
+e 
+𝑚̅  + 𝜎𝑛−1 = 805 + 19,36 = 824,36 
+𝑚̅  −2. (𝜎𝑛−1) = 805 - 2.(19,36) = 766,28 
+e 
+𝑚̅  + 2. (𝜎𝑛−1) = 805 + 2.(19,36) = 843,72 
+𝑚̅  −3. (𝜎𝑛−1) = 805 - 3.(19,36) = 746,92 
+e 
+𝑚̅  + 3. (𝜎𝑛−1) = 805 + 3.(19,36) = 863,08 
+ 
+ 
+Como a amostra com massa de 830 gramas está no intervalo de ± 2. (𝜎𝑛−1) então a probabilidade de se encontrar um 
+pacote com tal massa é de 95%.  
+ 
+Faixa de nota 
+Critério 
+3 
+Todos os conceitos principais são abordados com profundidade e detalhamento. 
+“Acertou o cálculo da média, desvio padrão e apresentou uma estimativa da probabilidade” 
+2 
+A maioria dos conceitos principais é abordada, mas pode faltar algum detalhe ou profundidade. 
+“Determinou a média e o desvio padrão final corretamente, mas não expressou a probabilidade 
+solicitada” 
+1 
+Alguns conceitos principais são abordados, mas a explicação é superficial ou incompleta. 
+“Determinou a média corretamente e demais itens errados” 
+0  
+Pouco ou nenhum conceito relevante é abordado. 
+ 

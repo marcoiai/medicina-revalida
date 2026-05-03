@@ -1,0 +1,2426 @@
+
+
+--- PAGE 1 ---
+
+ 
+TLQ 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 060/2025  
+ 
+Técnico de Laboratório  (Química) 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique¬se¬o¬seu¬nome¬está¬correto¬na¬capa¬deste¬caderno¬e¬se¬a¬folha¬de¬respostas¬pertence¬ao¬grupo TLQ.¬
+Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+3. Durante¬a¬prova,¬são¬vedadas¬a¬comunicação¬entre¬candidatos¬e¬a¬utilização¬de¬qualquer¬material¬de¬consulta¬e¬
+de¬aparelhos¬de¬telecomunicação.¬
+4. Duração¬da¬prova:¬4 horas.¬Cabe¬ao¬candidato¬controlar¬o¬tempo¬com¬base¬nas¬informações¬fornecidas¬pelo¬
+fiscal.¬O(A)¬candidato(a)¬poderá¬retirar-se¬da¬sala¬definitivamente¬apenas¬a¬partir¬das¬15¬h.¬Não¬haverá¬tempo¬
+adicional¬para¬preenchimento¬da¬folha¬de¬respostas.¬¬
+5. O(A)¬ candidato(a)¬ deverá¬ seguir¬ as¬ orientações¬ estabelecidas¬ pela¬ FUVEST¬ a¬ respeito¬ dos¬ procedimentos¬
+adotados¬para¬a¬aplicação¬deste¬concurso.¬
+6. Lembre-se¬de¬que¬a¬FUVEST¬se¬reserva¬ao¬direito¬de¬efetuar¬procedimentos¬adicionais¬de¬identificação¬e¬controle¬
+do¬ processo,¬ visando¬ a¬ garantir¬ a¬ plena¬ integridade¬ do¬ exame.¬ Assim,¬ durante¬ a¬ realização¬ da¬ prova,¬ será¬
+coletada¬por¬um¬fiscal¬uma¬foto¬do(a)¬candidato(a)¬para¬fins¬de¬reconhecimento¬facial,¬para¬uso¬exclusivo¬da¬USP¬
+e¬da¬FUVEST.¬A¬imagem¬não¬será¬divulgada¬nem¬utilizada¬para¬quaisquer¬outras¬finalidades,¬nos¬termos¬da¬lei.¬
+7. Após¬a¬autorização¬do¬fiscal¬da¬sala,¬verifique¬se¬o¬caderno¬está¬completo.¬Ele¬deve¬conter¬60 questões objetivas,¬
+com¬5¬alternativas¬cada,¬e¬1 questão dissertativa.¬Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+8. Preencha¬as¬folhas¬de¬respostas¬com¬cuidado,¬utilizando¬caneta¬esferográfica¬de¬tinta azul ou preta.¬Essas¬folhas¬
+não serão substituídas¬em¬caso¬de¬rasura.¬
+9. Ao¬final¬da¬prova,¬é¬obrigatória¬a¬devolução¬das¬folhas¬de¬respostas¬acompanhadas¬deste¬caderno¬de¬questões.¬
+Declaração 
+Declaro¬que¬li¬e¬estou¬ciente¬das¬informações¬que¬constam¬na¬capa¬desta¬prova,¬na¬folha¬de¬respostas,¬bem¬
+como¬dos¬avisos¬que¬foram¬transmitidos¬pelo¬fiscal¬de¬sala.¬
+¬
+___________________________________________________¬
+ASSINATURA¬
+O(a)¬candidato(a)¬que¬não¬assinar¬a¬capa¬da¬prova¬será¬considerado(a)¬ausente¬da¬prova.¬
+ 
+ 
+
+
+--- PAGE 2 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+Texto para as questões 01 e 02 
+¬
+¬“The¬Handmaid’s¬Tale”¬reveals¬the¬limits¬of¬dystopian¬
+television¬
+¬
+¬
+In¬the¬Spring¬of¬2017¬a¬
+troubling¬ vision¬ of¬ America¬
+arrived¬ on¬ television¬ screens.¬
+Based¬ on¬ Margaret¬ Atwood’s¬
+novel¬
+of¬
+1985,¬
+“The¬
+Handmaid’s¬ Tale”¬ depicted¬ a¬
+country¬
+that¬
+had¬
+been¬
+transformed¬ into¬ Gilead,¬ a¬ theocratic¬ dictatorship.¬ Women¬
+were¬stripped¬of¬their¬civil¬rights.¬Those¬who¬were¬fertile¬were¬
+enslaved¬as¬“handmaids”:¬childbearing¬vessels¬for¬the¬ruling¬
+class.¬
+The¬show¬had¬its¬premiere¬on¬Hulu,¬a¬streaming¬service,¬
+not¬ long¬ after¬ Donald¬ Trump’s¬ inauguration,¬ when¬ people¬
+feared¬ democratic¬ backsliding¬ and¬ the¬ creep¬ of¬ religious¬
+fundamentalism¬ into¬ politics.¬ As¬ the¬ president¬ stacked¬ the¬
+courts¬with¬anti-abortion¬judges¬and¬called¬for¬the¬defunding¬
+of¬ Planned¬ Parenthood,¬ a¬ reproductive-health¬ organisation,¬
+some¬exclaimed¬that¬Ms¬Atwood¬had¬produced¬not¬a¬work¬of¬
+fiction,¬but¬a¬prophecy.¬
+The¬handmaids’¬costume¬became¬a¬visual¬metaphor¬of¬
+resistance:¬ protesters¬ dressed¬ in¬ red¬ robes¬ and¬ white¬ caps¬
+stood¬outside¬statehouses¬across¬America.¬Critics¬breathlessly¬
+described¬the¬adaptation¬as¬the¬defining¬artwork¬of¬the¬Trump¬
+era.¬“The¬Handmaid’s¬Tale”¬went¬on¬to¬win¬eight¬Emmy¬awards¬
+for¬its¬first¬season¬and¬became¬the¬first¬streaming¬show¬to¬win¬
+Outstanding¬Drama¬Series.¬
+Six¬seasons¬later,¬it¬will¬come¬to¬an¬end¬on¬May¬27th.¬
+The¬final¬season¬began¬not¬long¬after¬Mr¬Trump¬re-entered¬the¬
+White¬House.¬Yet¬the¬fervour¬around¬the¬show¬has¬dissipated;¬
+after¬ a¬ peak¬ in¬ 2021,¬ viewership¬ has¬ declined.¬ It¬ no¬ longer¬
+dominates¬the¬public¬discussion.¬Why?¬
+One¬reason¬is¬that¬“The¬Handmaid’s¬Tale”¬is¬not,¬in¬fact,¬
+a¬mirror¬of¬the¬Trump¬era.¬Though¬there¬are¬parallels—an¬early¬
+episode¬showed¬an¬attack¬on¬the¬Capitol,¬three¬years¬before¬
+the¬real¬one—Mr¬Trump¬has¬not¬instituted¬compulsory¬rape¬or¬
+the¬death¬penalty¬for¬dissenters.¬
+Another¬is¬that¬the¬show¬has¬suffered¬by¬extending¬the¬
+story¬beyond¬its¬source¬material.¬After¬using¬up¬the¬plot¬of¬Ms¬
+Atwood’s¬slim¬novel¬in¬the¬first¬season,¬the¬show’s¬writers¬faced¬
+the¬tricky¬task¬of¬keeping¬the¬story¬compelling¬and¬the¬stakes¬
+high.¬ June¬ (Elisabeth¬ Moss,¬ pictured),¬ the¬ protagonist,¬ has¬
+been¬trapped¬in¬a¬cycle¬of¬capture,¬escape¬and¬recapture¬that¬
+has¬ strained¬ the¬ story’s¬ credibility¬ and¬ tested¬ viewers’¬
+patience.¬
+Resistance¬fatigue¬has¬also¬played¬a¬role.¬“The¬draw¬of¬
+the¬initial¬season¬was¬that¬it¬was¬so¬apocalyptic,”¬says¬Karen¬
+Ritzenhoff,¬an¬academic.¬Yet¬outrage¬is¬difficult¬to¬sustain,¬on¬
+screen¬and¬off¬it.¬Mr¬Trump¬remains¬unpopular,¬but¬his¬second¬
+term¬has¬not¬seen¬protests¬on¬the¬same¬scale¬as¬in¬2017,¬when¬
+some¬4m¬Americans¬took¬part¬in¬the¬Women’s¬March.¬
+The¬ show’s¬ main¬ problem,¬ however,¬ is¬ that¬ it¬ is¬
+unrelentingly¬bleak.¬One¬critic¬has¬called¬it¬a¬“hellhole”¬of¬“utter¬
+despair¬and¬soul-destroying¬misery”.¬Another¬said¬she¬had¬an¬
+anxiety¬attack¬after¬watching.¬For¬those¬concerned¬about¬the¬
+future¬of¬American¬democracy,¬“The¬Handmaid’s¬Tale”¬offers¬
+no¬respite.¬
+Viewers¬may¬prefer¬the¬forthcoming¬adaptation¬of¬“The¬
+Testaments”,¬ its¬ sequel,¬ instead.¬ Watching¬ people¬ struggle¬
+under¬ a¬ totalitarian¬ regime¬ does¬ not¬ make¬ for¬ an¬ enjoyable¬
+evening.¬Watching¬that¬regime¬collapse¬may¬be¬rather¬more¬
+thrilling.¬
+¬
+The¬Economist,¬May¬2025.¬
+{01} 
+Qual¬ das¬ alternativas¬ a¬ seguir¬ apresenta¬ a¬ principal¬ razão¬
+apontada¬pelo¬texto¬para¬a¬perda¬de¬relevância¬da¬série¬The¬
+Handmaid’s¬Tale¬ao¬longo¬do¬tempo?¬
+(A)¬O¬aumento¬da¬popularidade¬de¬outras¬séries¬distópicas,¬
+que¬abordam¬temas¬semelhantes¬com¬mais¬leveza.¬
+(B)¬A¬ mudança¬ de¬ plataforma¬ de¬ exibição,¬ que¬ reduziu¬ o¬
+alcance¬da¬série¬para¬o¬público¬americano.¬
+(C)¬A¬repetição¬de¬enredos¬e¬a¬falta¬de¬verossimilhança¬nas¬
+temporadas¬posteriores¬ao¬material¬original.¬
+(D)¬A¬crescente¬popularidade¬de¬Donald¬Trump,¬que¬minou¬o¬
+impacto¬crítico¬da¬série.¬
+(E)¬A¬transformação¬do¬gênero¬distópico¬em¬um¬espaço¬de¬
+entretenimento¬ leve,¬ sem¬ espaço¬ para¬ críticas¬ sociais¬
+profundas.¬
+##### 
+¬
+{02} 
+A¬expressão¬“The¬Handmaid’s¬Tale”¬tornou-se¬um¬“hellhole”¬de¬
+“utter¬
+despair¬
+and¬
+soul-destroying¬
+misery”,¬sendo¬
+predominantemente¬um¬exemplo¬de¬qual¬figura¬de¬linguagem?¬
+(A)¬Metonímia¬–¬por¬representar¬o¬sofrimento¬das¬mulheres¬por¬
+meio¬do¬nome¬da¬obra.¬¬
+(B)¬Hipérbole¬ –¬ por¬ exagerar¬ intencionalmente¬ o¬ sofrimento¬
+causado¬pela¬série.¬
+(C)¬Eufemismo¬ –¬ por¬ suavizar¬ a¬ experiência¬ negativa¬ da¬
+audiência.¬
+(D)¬Antítese¬ –¬ por¬ contrastar¬ esperança¬ e¬ desespero¬ nas¬
+experiências¬dos¬personagens.¬
+(E)¬Ironia¬–¬por¬utilizar¬elogios¬de¬forma¬a¬expressar¬críticas¬à¬
+produção.¬¬
+#####¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 3 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+Texto para as questões de 03 a 06 
+¬
+In¬Germany,¬the¬Nazis¬invaded¬people’s¬dreams¬
+¬
+¬
+In¬ 1933,¬ after¬
+Adolf¬Hitler¬had¬taken¬
+power,¬
+a¬
+German¬
+housewife¬ dreamed¬
+that¬ her¬ stove¬ was¬
+snooping¬ on¬ her.¬ “It¬
+said¬ everything¬ we’d¬
+said¬
+against¬
+the¬
+regime,¬ every¬ joke¬ we’d¬ told”¬ to¬ an¬ eavesdropping¬
+stormtrooper.¬“God,¬I¬thought,¬what¬is¬it¬going¬to¬say¬next?¬All¬
+my¬little¬comments¬about¬Goebbels?”¬The¬woman’s¬fears¬about¬
+privacy¬ and¬ Hitler’s¬ chief¬ propagandist¬ were¬ recorded¬ by¬
+Charlotte¬Beradt,¬a¬Jewish¬journalist¬who¬collected¬the¬dreams¬
+of¬Germans¬under¬fascism.¬
+Three¬decades¬earlier¬Sigmund¬Freud¬had¬posited¬that¬
+dreams¬ reveal¬ unconscious¬ thoughts.¬ To¬ Beradt,¬ they¬
+disclosed¬truths¬about¬authoritarianism¬that¬no¬one¬would¬dare¬
+say¬aloud.¬Some¬of¬her¬subjects¬were¬nervous¬to¬share¬their¬
+stories.¬Half¬a¬dozen¬dreamed¬that¬it¬was¬forbidden¬to¬dream.¬
+A¬businessman¬imagined¬that¬Goebbels¬visited¬his¬factory.¬“It¬
+took¬ me¬ half¬ an¬ hour¬ to¬ get¬ my¬ arm¬ raised,¬ millimetre¬ by¬
+millimetre,”¬he¬recounted.¬As¬he¬struggled¬to¬salute,¬his¬spine¬
+snapped.¬
+Beradt¬ collected¬ dreams¬ from¬ more¬ than¬ 300¬ people¬
+over¬several¬years,¬transcribing¬them¬in¬code.¬“Party”¬became¬
+“family”;¬ Hitler¬ became¬ “Uncle¬ Hans”.¬ She¬ concealed¬ the¬
+records¬ in¬ bookbindings¬ and¬ smuggled¬ them¬ abroad.¬ They¬
+were¬ published¬ in¬ Germany¬ in¬ 1966;¬ an¬ early¬ English¬
+translation¬went¬out¬of¬print.¬Newly¬translated,¬the¬remarkable¬
+collection—which¬is¬unique¬in¬the¬canon¬of¬Holocaust¬literature¬
+—may¬now¬find¬more¬readers.¬It¬arrives¬at¬a¬time¬when¬people¬
+are¬more¬interested¬in¬the¬connection¬between¬sleep¬and¬well-
+being¬than¬ever¬before.¬
+Beradt¬ organises¬ the¬ material¬ into¬ types¬ of¬ dreams,¬
+interweaving¬the¬accounts¬with¬her¬own¬trenchant¬analysis.¬A¬
+man¬imagines¬sitting¬down¬to¬write¬a¬formal¬complaint¬against¬
+the¬ regime,¬ but¬ the¬ page¬ he¬ sends¬ in¬ is¬ blank—a¬ dream¬
+reflecting¬ his¬ inaction.¬ An¬ eye¬ doctor¬ pictures¬ that¬ he¬ is¬
+summoned¬to¬treat¬Hitler¬because¬“I¬was¬the¬only¬one¬in¬the¬
+world¬who¬could;¬I¬was¬proud¬of¬myself¬for¬that,¬and¬felt¬so¬
+ashamed¬of¬my¬pride¬that¬I¬started¬crying”—a¬dream¬suffused¬
+with¬guilt.¬A¬young¬woman¬envisions¬having¬to¬produce¬identity¬
+papers¬and¬she¬is¬desperate¬to¬prove¬that¬she¬is¬not¬Jewish—
+a¬dream¬of¬racial¬paranoia.¬
+Many¬ of¬ the¬ dreams¬ are¬ eerily¬ prophetic.¬ The¬ doctor¬
+dreams¬about¬Nazi¬militiamen¬knocking¬out¬hospital¬windows¬
+four¬ years¬ before¬ Kristallnacht,¬ the¬ “night¬ of¬ broken¬ glass”¬
+(pictured¬ on¬ previous¬ page),¬ when¬ stormtroopers¬ destroyed¬
+buildings¬
+including¬
+synagogues¬
+and¬
+Jewish-owned¬
+businesses.¬The¬woman¬dreams¬of¬hiding¬under¬“a¬big¬pile¬of¬
+dead¬bodies”.¬It¬was¬the¬early¬1930s,¬years¬before¬the¬world¬
+wouldlearn¬ of¬ the¬ mass¬ murder¬ committed¬ in¬ concentration¬
+camps.¬
+The¬dreams¬of¬Germans¬in¬the¬resistance¬are¬different.¬
+The¬night¬before¬her¬execution,¬Sophie¬Scholl,¬a¬21-year-old¬
+activist,¬dreamed¬that¬she¬was¬carrying¬a¬baby¬up¬a¬mountain¬
+to¬be¬baptised.¬Before¬she¬could¬get¬to¬the¬church,¬a¬crevasse¬
+cracked¬open¬on¬her¬path;¬she¬was¬able¬to¬set¬the¬baby¬down¬
+before¬she¬disappeared¬into¬the¬chasm.¬Scholl¬saw¬this¬as¬a¬
+metaphor¬for¬the¬fight¬against¬fascism.¬“The¬child¬is¬our¬idea,¬
+and¬it¬will¬prevail¬despite¬all¬obstacles,”¬she¬explained.¬“We¬
+can¬prepare¬the¬way¬for¬it,¬even¬though¬we¬will¬have¬to¬die¬for¬
+it¬before¬its¬victory.”¬
+Beradt¬ puts¬ Jewish¬ dreamers¬ in¬ their¬ own¬ section¬ as¬
+their¬ dreams,¬ “sharpened¬ by¬ the¬ acute¬ threat¬ they¬ were¬
+under...seem¬ downright¬ clairvoyant”.¬ In¬ 1935,¬ a¬ housewife¬
+dreamed¬that¬“We¬shouldn’t¬go¬back¬to¬our¬homes,¬something¬
+was¬going¬to¬happen.”¬She¬wanders¬from¬building¬to¬building,¬
+seeking¬refuge¬and¬finding¬none.¬As¬Beradt¬notes,¬the¬dream¬
+anticipated¬ events¬ to¬ come—the¬ displacement¬ of¬ Jews¬ in¬
+hiding¬during¬the¬“final¬solution”.¬
+Robert¬Ley,¬a¬high-ranking¬Nazi,¬suggested¬in¬1938¬that¬
+the¬only¬Germans¬with¬any¬privacy¬were¬those¬sleeping.¬He¬
+under-rated¬the¬regime’s¬power.¬Dreams¬reflect¬and¬refract¬an¬
+individual’s¬experience,¬shaped¬as¬it¬is¬by¬policy¬and¬the¬public¬
+mood.¬ Even¬ in¬ sleep,¬ the¬ Reich¬ occupied¬ the¬ minds¬ of¬ its¬
+subjects.¬
+The¬Economist,¬May¬2025.¬
+¬
+{03} 
+No¬trecho¬“They¬disclosed¬truths¬about¬authoritarianism¬that¬no¬
+one¬would¬dare¬say¬aloud”¬(2º¬parágrafo),¬o¬pronome¬“they”¬
+refere-se¬à¬qual¬termo¬do¬parágrafo¬anterior?¬
+¬
+(A)¬Os¬relatos¬codificados¬por¬Beradt.¬
+(B)¬Os¬temores¬expressos¬pelas¬vítimas¬do¬regime.¬¬
+(C)¬As¬ ideias¬ propostas¬ por¬ Freud¬ sobre¬ os¬ sonhos.¬
+(D)¬As¬histórias¬secretamente¬compartilhadas¬com¬a¬autora.¬
+(E)¬Os¬sonhos¬coletados¬por¬Charlotte¬Beradt.¬
+#####
+ 
+{04} 
+No¬ trecho¬ “She¬ was¬ proud¬ of¬ herself¬ for¬ that,¬ and¬ felt¬ so¬
+ashamed¬of¬her¬pride¬that¬she¬started¬crying”,¬a¬combinação¬
+entre¬orações¬expressa¬uma¬relação¬de:¬
+¬
+(A)¬Duas¬coordenadas¬seguidas¬de¬uma¬subordinada¬causal.¬
+(B)¬Uma¬coordenação¬aditiva¬seguida¬de¬uma¬subordinação¬
+consecutiva.¬
+(C)¬Uma¬ adversativa¬ oculta¬ seguida¬ de¬ uma¬ coordenada¬
+explicativa.¬
+(D)¬Duas¬orações¬subordinadas¬temporais¬
+(E)¬Uma¬coordenada¬alternativa¬seguida¬de¬uma¬subordinada¬
+condicional.¬
+#####
+ 
+{05} 
+Qual¬das¬alternativas¬a¬seguir¬apresenta¬a¬reformulação¬que¬
+expressa,¬ com¬ mais¬ precisão,¬ o¬ conteúdo¬ da¬ frase:¬ “Newly¬
+translated,¬the¬remarkable¬collection—which¬is¬unique¬in¬the¬
+canon¬of¬Holocaust¬literature—may¬now¬find¬more¬readers”?¬
+¬
+(A)¬A¬recent¬translation¬of¬the¬work,¬notable¬within¬Holocaust¬
+studies,¬ is¬ expected¬ to¬ generate¬ broader¬ academic¬
+interest.¬
+(B)¬With¬ a¬ new¬ translation,¬ this¬ contribution¬ to¬ Holocaust¬
+literature¬could¬reach¬a¬wider¬audience.¬
+(C)¬The¬text,¬now¬rewritten,¬might¬stand¬out¬as¬one¬of¬the¬most¬
+influential¬works¬about¬the¬Holocaust.¬
+(D)¬A¬fresh¬version¬of¬the¬collection,¬considered¬a¬rare¬piece¬
+within¬Holocaust¬literature,¬has¬the¬potential¬to¬attract¬more¬
+readers.¬
+(E)¬Following¬its¬new¬English¬edition,¬the¬historical¬volume¬aims¬
+to¬gain¬visibility¬in¬literary¬and¬historical¬circles.¬#####¬
+
+
+--- PAGE 4 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+{06} 
+Com¬base¬no¬trecho¬“Dreams¬reflect¬and¬refract¬an¬individual’s¬
+experience,¬shaped¬as¬it¬is¬by¬policy¬and¬the¬public¬mood”¬(8º¬
+parágrafo)¬e¬no¬contexto¬em¬que¬ele¬aparece,¬é¬possível¬inferir¬
+que:¬
+¬
+(A)¬O¬espaço¬onírico¬é¬uma¬forma¬de¬resistência¬ativa,¬onde¬o¬
+sujeito¬ pode¬ escapar¬ temporariamente¬ da¬ opressão¬ do¬
+regime.¬
+(B)¬A¬ experiência¬ subjetiva¬ expressa¬
+nos¬ sonhos¬ é,¬
+inevitavelmente,¬ influenciada¬ pelo¬ ambiente¬ político¬ e¬
+cultural¬em¬que¬o¬indivíduo¬vive.¬
+(C)¬Sonhar¬permite¬que¬os¬indivíduos¬se¬mantenham¬imunes¬
+às¬pressões¬sociais¬e¬conservem¬intacta¬sua¬identidade¬
+pessoal.¬
+(D)¬Os¬ sonhos¬ funcionam¬ como¬ evidência¬ de¬ que¬ os¬
+indivíduos¬
+internalizam,¬
+passivamente,¬
+a¬
+ideologia¬
+dominante¬sem¬qualquer¬consciência.¬
+(E)¬O¬regime¬totalitário¬falha¬em¬alcançar¬o¬inconsciente¬dos¬
+cidadãos,¬permitindo¬que¬os¬sonhos¬permaneçam¬livres¬de¬
+censura. #####¬
+¬
+ 
+Texto para as questões de 07 a 10¬
+ 
+Trem¬de¬ferro¬
+¬
+A¬ infância¬ era¬ ferroviária.¬ Meninos¬ de¬ meu¬ tempo¬ iam¬ ser¬
+maquinistas.¬ Pé¬ descalço¬ no¬ calor¬ do¬ trilho.¬ Cabeleira¬ de¬
+capim¬esvoaçando.¬Pontilhões¬me¬enternecendo.¬Os¬êmbolos¬
+poéticos¬do¬espaço¬ferroviário.¬Minha¬fantasia¬não¬era¬morada¬
+de¬entes¬sobrenaturais.¬Máquinas¬eram¬sobrenaturais.¬Sonhos¬
+engrenados¬pelo¬homem¬cabiam¬em¬nossa¬medida.¬Entro¬no¬
+túnel¬ com¬ o¬ sobressalto¬ musical¬ de¬ quem¬ começa¬ um¬
+improviso.¬A¬penumbra,¬menos¬inteligível,¬mais¬alusiva¬que¬a¬
+luz.¬ Divaga¬ nessas¬ entranhas¬ um¬ divertimento¬ perverso¬ de¬
+túmulo.¬Mas¬a¬boca¬de¬saída¬berra¬pelo¬sol.¬
+A¬ferrovia¬tornava¬possível¬o¬possível.¬Materializava¬o¬menino.¬
+Os¬ trilhos¬ faziam¬ um¬ caminho¬ à¬ perplexidade.¬ Prometiam¬
+convivência,¬exaltação,¬aromas,¬cidades,¬canções¬e¬alguma¬
+solidão¬admirável.¬¬
+Existi¬por¬antecipação.¬Olhava¬carregador,¬operário,¬menino¬
+do¬pastel.¬Pasmado,¬erguia¬a¬cara¬para¬o¬chefe¬do¬trem.¬O¬
+sino¬ repicava¬ à¬ entrada¬ do¬ monstro.¬ Passava¬ um¬ tempão¬
+espiando¬o¬desvio¬automático.¬Me¬falava¬de¬outro¬mundo¬o¬
+pica-pau¬do¬telégrafo.¬Trocaria¬minhas¬moedas¬pela¬lanterna¬
+que¬o¬gigante¬de¬impermeável¬esburacado¬carregava¬na¬tarde¬
+de¬aguaceiro.¬Meus¬dedos¬roçavam¬as¬garres¬do¬limpa-trilhos.¬
+Não¬é¬só¬ver¬pra¬viver.¬Sentir¬na¬pele¬a¬locomotiva.¬Sujar-me¬
+de¬graxa¬e¬carvão.¬Fui¬foguista.¬Guarita.¬Engate.¬Luz¬na¬curva.¬
+Sem¬saber¬até¬hoje¬decompor¬sortilégio.¬Quase¬consumido,¬
+subo¬os¬vagões¬sem¬dizer¬nada,¬encantado¬ainda.¬¬
+¬
+Jornal¬do¬Brasil,¬11/07/1990.¬
+ 
+CAMPOS,¬Paulo¬Mendes.¬Minhas¬janelas.¬Companhia¬das¬Letras.¬2025.¬
+¬
+{07} 
+Com¬ base¬ em¬ suas¬ características,¬ o¬ texto¬ pode¬ ser¬
+classificado¬como:¬
+¬
+(A)¬Relato¬ técnico,¬ por¬ meio¬ de¬ descrição¬ de¬ função¬ das¬
+ferrovias.¬
+(B)¬Artigo¬ de¬ opinião,¬ com¬ posicionamento¬ crítico¬ e¬
+argumentos¬racionais.¬
+(C)¬Resenha,¬com¬predominância¬de¬informações¬factuais.¬
+(D)¬Crônica,¬marcada¬por¬lirismo¬e¬evocação¬da¬infância.¬
+(E)¬Editorial,¬ destinado¬ a¬ persuadir¬ o¬ leitor¬ sobre¬ políticas¬
+públicas.¬#####¬
+{08} 
+O¬texto¬apresenta-se¬como¬um¬exercício¬de¬memória¬afetiva,¬
+por¬meio¬do¬qual¬a¬narrativa¬
+¬
+(A)¬tem¬como¬finalidade¬orientar¬sobre¬o¬funcionamento¬dos¬
+trens¬e¬seus¬mecanismos.¬
+(B)¬sugere,¬ de¬ forma¬ indireta,¬ uma¬ crítica¬ às¬ condições¬ de¬
+trabalho¬nas¬ferrovias¬brasileiras.¬
+(C)¬revela¬distanciamento¬emocional¬diante¬da¬modernidade¬
+representada¬pelas¬máquinas.¬
+(D)¬destaca¬com¬objetividade¬elementos¬passionais¬sobre¬o¬
+sistema¬ferroviário¬nacional.¬
+(E)¬recria¬ poeticamente¬ a¬ infância¬ com¬ imagens¬ sensoriais¬
+ligadas¬ao¬universo¬dos¬trens.¬
+##### 
+¬
+{09} 
+A¬expressão¬“máquinas¬eram¬sobrenaturais”¬revela¬o¬emprego¬
+de¬
+¬
+(A)¬metáfora,¬ao¬atribuir¬caráter¬mágico¬às¬máquinas.¬
+(B)¬metonímia,¬ao¬usar¬“máquinas”¬para¬designar¬o¬progresso.¬
+(C)¬eufemismo,¬para¬suavizar¬o¬medo¬da¬tecnologia.¬
+(D)¬antítese,¬por¬contrapor¬máquinas¬e¬sobrenatural.¬
+(E)¬ironia,¬ao¬criticar¬implicitamente¬a¬ingenuidade¬infantil.¬
+##### 
+¬
+{10} 
+O¬ trecho¬ “Fui¬ foguista.¬ Guarita.¬ Engate.¬ Luz¬ na¬ curva”¬ (3o¬
+parágrafo)¬expressa¬um¬movimento¬de¬
+¬
+(A)¬desconexão¬ entre¬ sujeito¬ e¬ ambiente,¬ revelando¬ tédio¬
+diante¬da¬monotonia¬ferroviária.¬
+(B)¬fusão¬ entre¬ sujeito¬ e¬ paisagem¬ ferroviária,¬ compondo¬
+simbiose¬com¬a¬máquina.¬
+(C)¬enumeração¬ cronológica¬ de¬ cargos¬ administrativos¬
+ferroviários,¬com¬foco¬na¬estrutura¬gerencial.¬
+(D)¬alternância¬entre¬primeira¬e¬terceira¬pessoa,¬que¬rompe¬a¬
+unidade¬enunciativa.¬
+(E)¬intertextualidade¬
+entre¬
+textos¬
+técnicos¬
+sobre¬
+o¬
+funcionamento¬dos¬trens.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+Tirinha para as questões 11 e 12 
+ 
+ 
+Laerte.¬Folha¬de¬São¬Paulo.¬
+{11} 
+O¬trecho¬“Não¬curto¬coisas¬que¬funcionam¬sem¬falhas”¬apresenta,¬predominantemente:¬
+¬
+(A)¬Emprego¬de¬registro¬técnico¬e¬apresentação¬de¬conceito¬operacional.¬
+(B)¬Uso¬de¬linguagem¬coloquial¬e¬expressão¬de¬opinião¬da¬personagem.¬
+(C)¬Recurso¬metalinguístico¬e¬descrição¬do¬funcionamento¬da¬linguagem.¬
+(D)¬Formulação¬lógica¬de¬uma¬hipótese¬e¬divulgação¬de¬dados¬empíricos.¬
+(E)¬Estrutura¬impessoal¬e¬manifestação¬de¬neutralidade¬informativa.¬¬
+#####
+¬
+{12} 
+Na¬tirinha,¬constrói-se¬uma¬sequência¬discursiva¬que¬
+¬
+(A)¬expressa,¬com¬ironia,¬a¬dificuldade¬da¬personagem¬em¬lidar¬com¬tecnologias.¬
+(B)¬relata¬a¬insatisfação¬com¬a¬falta¬de¬peças¬tecnológicas¬acessíveis.¬
+(C)¬desenvolve¬uma¬crítica¬direta¬à¬ausência¬de¬escolas¬técnicas¬no¬país.¬
+(D)¬mostra¬a¬valorização¬das¬máquinas¬modernas¬por¬seu¬silêncio¬operacional.¬
+(E)¬revela¬o¬funcionamento¬técnico¬de¬dispositivos¬ilustrativamente.¬
+##### 
+Texto para as questões de 13 a 15 
+¬
+Amor¬Fati:¬o¬conceito¬de¬Nietzsche¬que¬virou¬febre¬nas¬redes¬
+¬
+Explicar¬resumidamente¬qualquer¬conceito¬filosófico¬já¬
+parece,¬ por¬ si¬ só,¬ uma¬ tarefa¬ imprudente.¬ Isso¬ se¬ acentua¬
+quando¬o¬autor¬da¬ideia¬é¬ninguém¬menos¬que¬o¬filósofo¬alemão¬
+Nietzsche.¬Isso¬se¬deve,¬sobretudo,¬ao¬fato¬de¬que¬não¬escreve¬
+como¬um¬filósofo¬sistemático.¬Ele¬rejeita¬os¬tratados¬acadêmicos¬
+e¬adota¬um¬estilo¬aforístico,¬poético¬e¬provocador.¬Seus¬textos¬
+mesclam¬filosofia,¬poesia,¬crítica¬cultural,¬psicologia¬e¬até¬ironia.¬
+Essa¬multiplicidade¬de¬abordagens¬torna¬suas¬ideias¬ambíguas¬
+e¬abertas¬a¬múltiplas¬interpretações.¬É¬possível¬debater¬durante¬
+horas¬apenas¬um¬de¬seus¬conceitos.¬Não¬à¬toa,¬suas¬ideias,¬
+muitas¬vezes¬fragmentadas,¬continuam¬sendo¬tema¬de¬teses¬e¬
+dissertações¬mais¬de¬um¬século¬após¬sua¬morte.¬Uma¬de¬suas¬
+concepções¬ voltou¬ a¬ cativar¬ a¬ audiência¬ nas¬ redes¬ sociais¬
+recentemente.¬ Desta¬ vez,¬ trata-se¬ do¬ conceito¬ “Amor¬ fati”,¬
+traduzido¬como¬“amor¬ao¬destino”.¬¬A¬ideia¬aparece¬no¬livro¬A¬
+Gaia¬Ciência:¬¬“Quero¬cada¬vez¬mais¬aprender¬a¬ver¬como¬belo¬
+aquilo¬que¬é¬necessário¬nas¬coisas.¬Amor-fati¬[amor¬ao¬destino]:¬
+seja¬este,¬doravante,¬o¬meu¬amor!”¬¬
+Uma¬primeira¬interpretação¬diz¬respeito¬à¬aceitação¬da¬
+imanência,¬algo¬que¬tem¬em¬si¬próprio¬o¬seu¬princípio¬e¬o¬seu¬
+fim.¬ De¬ forma¬ mais¬ vulgar,¬ uma¬ das¬ perguntas¬ que¬ se¬ pode¬
+fazer¬antes¬de¬entrar¬no¬sentido¬do¬conceito¬é:¬como¬é¬possível¬
+aceitar¬a¬vida,¬dar¬sentido¬a¬ela,¬sabendo¬de¬seu¬fim,¬diante¬do¬
+vazio?¬¬A¬ideia,¬portanto,¬mergulha¬na¬aceitação¬radical¬da¬vida¬
+tal¬ como¬ ela¬ é,¬ com¬ suas¬ dores,¬ perdas,¬ alegrias¬ e¬
+imperfeições,¬sem¬ressentimento,¬negação¬ou¬arrependimento.¬
+¬
+Redação¬Bravo!¬Revista¬Bravo.¬Junho¬de¬2025.¬Adaptado.¬
+¬
+{13} 
+Com¬base¬no¬texto,¬o¬conceito¬de¬Amor¬fati¬está¬relacionado¬a:¬
+¬
+(A)¬Um¬ideal¬cristão¬de¬resignação¬e¬esperança¬em¬um¬futuro¬
+melhor.¬
+(B)¬Uma¬tentativa¬de¬negar¬o¬sofrimento¬da¬existência¬por¬meio¬
+do¬otimismo¬ingênuo.¬
+(C)¬Uma¬aceitação¬profunda¬da¬vida¬em¬sua¬totalidade,¬sem¬
+arrependimento¬ou¬negação.¬
+(D)¬Uma¬filosofia¬de¬negação¬do¬corpo¬e¬de¬valorização¬da¬
+metafísica.¬
+(E)¬Um¬modelo¬científico¬de¬superação¬das¬falhas¬humanas¬
+pela¬razão¬lógica.¬
+#####
+ 
+{14} 
+A¬expressão¬“não¬à¬toa”,¬no¬trecho¬“Não¬à¬toa,¬suas¬ideias¬[…]¬
+continuam¬sendo¬tema¬de¬teses”,¬introduz¬
+¬
+(A)¬um¬ contra-argumento¬ que¬ contesta¬ o¬ uso¬ das¬ redes¬
+sociais¬como¬fonte¬filosófica.¬
+(B)¬um¬juízo¬de¬valor¬negativo¬sobre¬os¬textos¬fragmentados¬
+do¬filósofo.¬
+(C)¬uma¬justificativa¬para¬a¬ permanência¬ do¬interesse¬pelas¬
+ideias¬de¬Nietzsche.¬
+(D)¬uma¬ explicação¬ sobre¬ o¬ conceito¬ de¬ imanência¬ como¬
+chave¬de¬leitura.¬
+(E)¬um¬recurso¬de¬ironia¬que¬anula¬o¬valor¬das¬interpretações¬
+correntes.#####¬
+
+
+--- PAGE 6 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+{15} 
+No¬ trecho¬ “Uma¬ primeira¬ interpretação¬ diz¬ respeito¬ à¬
+aceitação¬da¬imanência”,¬o¬termo¬“imanência”¬é¬empregado¬
+com¬o¬sentido¬de:¬
+¬
+(A)¬Realidade¬que¬se¬basta¬em¬si¬mesma,¬sem¬depender¬de¬
+algo¬fora¬dela.¬
+(B)¬Fé¬em¬uma¬ordem¬superior¬que¬rege¬os¬acontecimentos¬da¬
+vida.¬
+(C)¬Tendência¬a¬idealizar¬a¬vida¬como¬projeção¬de¬um¬além-
+mundo.¬
+(D)¬Busca¬ por¬ causas¬ divinas¬ como¬ explicação¬ para¬ a¬
+existência.¬
+(E)¬Noção¬ de¬ que¬ a¬ verdade¬ está¬ além¬ do¬ que¬ se¬ pode¬
+compreender.¬¬##### 
+¬
+¬
+{16} 
+Durante¬ seu¬ mandato,¬ José¬ Mujica¬ não¬ se¬ mudou¬ para¬ a¬
+residência¬presidencial,¬como¬costumam¬fazer¬os¬chefes¬de¬
+Estado¬ ao¬ redor¬ do¬ mundo.¬ Preferiu¬ continuar,¬ junto¬ com¬ a¬
+esposa,¬ vivendo¬ em¬ sua¬ modesta¬ casa¬ em¬ um¬ sítio¬ nos¬
+arredores¬ de¬ Montevidéu,¬ sem¬ empregados¬ domésticos,¬ e¬
+com¬ pouca¬ segurança.¬ O¬ casal¬ nunca¬ teve¬ filhos.¬ A¬ isso,¬
+soma-se¬seu¬estilo¬informal¬de¬se¬vestir,¬o¬hábito¬de¬dirigir¬um¬
+velho¬Fusca¬azul-celeste¬de¬1987,¬e¬a¬decisão¬de¬doar¬grande¬
+parte¬do¬seu¬salário,¬o¬que¬lhe¬rendeu¬o¬título¬na¬imprensa¬de¬
+"o¬presidente¬mais¬pobre¬do¬mundo".¬Mas¬Mujica,¬conhecido¬
+em¬ seu¬ país¬ pelo¬ apelido¬ de¬ "Pepe",¬ sempre¬ rejeitou¬ esse¬
+rótulo.¬"Dizem¬que¬sou¬um¬presidente¬pobre.¬Não,¬eu¬não¬sou¬
+um¬ presidente¬ pobre",¬ disse¬ em¬ entrevista¬ à¬ BBC¬ News¬
+Mundo,¬ serviço¬ em¬ espanhol¬ da¬ BBC.¬ "Pobres¬ são¬ os¬ que¬
+querem¬ sempre¬ mais,¬ que¬ não¬ se¬ satisfazem¬ com¬ nada",¬
+afirmou.¬"Esses¬são¬pobres,¬porque¬entram¬em¬uma¬corrida¬
+infinita.¬E¬não¬terão¬tempo¬suficiente¬na¬vida."¬
+BBC¬News¬Brasil¬
+¬
+Em¬relação¬ao¬texto¬apresentado,¬é¬correto¬afirmar¬que,¬para¬
+Pepe¬Mujica,¬a¬pobreza¬estaria¬relacionada¬à¬
+¬
+(A)¬ incapacidade¬ de¬ aproveitar¬ bem¬ o¬ tempo¬ e¬ à¬ ganância¬
+material.¬
+(B)¬ausência¬de¬saúde¬física,¬mental¬e¬espiritual.¬
+(C)¬ingratidão¬relativa¬aos¬ganhos¬e¬à¬ausência¬de¬ganância¬
+material.¬
+(D)¬tendência¬de¬acumulação¬de¬bens¬e¬valores¬e¬à¬doença.¬
+(E)¬ausência¬de¬filhos¬e¬à¬ganância¬material.¬#####¬
+ 
+{17} 
+ 
+Folha¬de¬São¬Paulo¬
+ 
+Considerando¬ a¬ charge¬ e¬ seus¬ conhecimentos,¬ é¬ correto¬
+afirmar¬ que¬ o¬ uso¬ de¬ celulares¬ na¬ educação¬ básica¬ foi¬
+considerado¬prejudicial¬para¬
+¬
+(A)¬o¬ meio¬ ambiente,¬ contribuindo¬ para¬ o¬ aumento¬ do¬
+consumo¬de¬energia.¬
+(B)¬a¬ saúde¬ física¬ das¬ crianças,¬ causando¬ incremento¬ no¬
+número¬de¬casos¬de¬tendinite.¬
+(C)¬a¬saúde¬mental¬dos¬adolescentes,¬causando¬aumento¬no¬
+número¬de¬casos¬de¬depressão.¬
+(D)¬o¬processo¬pedagógico,¬gerando¬dificuldades¬cognitivas¬
+percebidas¬a¬médio¬prazo.¬
+(E)¬o¬ processo¬ cognitivo,¬ impedindo¬ a¬ alfabetização¬ de¬
+crianças.¬
+#### 
+¬
+{18} 
+A¬escritora¬Ana¬Maria¬Gonçalves¬foi¬a¬primeira¬mulher¬negra¬a¬
+ser¬eleita¬para¬a¬Academia¬Brasileira¬de¬Letras¬no¬início¬de¬
+julho¬de¬2025.¬
+¬
+¬
+¬
+Assinale¬ a¬ alternativa¬ que¬ apresenta¬ a¬ sua¬ obra¬ mais¬
+conhecida¬ e¬ que¬ inspirou¬ o¬ enredo¬ da¬ Escola¬ de¬ Samba¬
+Portela¬no¬Carnaval¬2024.¬¬
+¬
+(A)¬Nebulosas.¬
+(B)¬Um¬Defeito¬de¬Cor.¬
+(C)¬Canção¬para¬Ninar¬Menino¬Grande.¬
+(D)¬O¬Alegre¬Canto¬da¬Perdiz.¬
+(E)¬Luanda,¬Lisboa,¬Paraíso.¬
+##### 
+ 
+{19} 
+ 
+A¬respeito¬do¬Controlador¬Geral¬da¬USP,¬é¬correto¬afirmar¬que¬
+ele¬é¬
+¬
+(A)¬membro¬
+do¬
+Conselho¬
+Universitário,¬
+podendo¬
+ser¬
+plenamente¬substituído,¬em¬suas¬faltas¬ou¬ausências,¬pelo¬
+Controlador-Geral¬Adjunto.¬
+(B)¬eleito¬pelos¬membros¬do¬Conselho¬Universitário,¬dentre¬os¬
+candidatos¬inscritos¬em¬chapas.¬
+(C)¬escolhido¬ pelo¬ Reitor,¬ mas¬ deve¬ ser¬ aprovado¬ pelo¬
+Conselho¬Universitário.¬
+(D)¬um¬professor¬Titular¬da¬USP,¬sendo¬essa¬a¬única¬exigência¬
+para¬sua¬escolha.¬
+(E)¬uma¬pessoa¬da¬comunidade,¬externa¬à¬USP,¬exercendo¬o¬
+chamado¬controle¬externo.¬
+##### 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+{20} 
+Paulo¬teve¬sua¬inscrição¬em¬concurso¬para¬a¬carreira¬docente¬
+da¬USP¬indeferida¬pela¬Congregação¬de¬uma¬das¬Unidades.¬
+Contra¬essa¬decisão,¬interpôs¬recurso,¬que¬foi¬levado¬ao¬órgão¬
+recorrido¬ para¬ exercício¬ eventual¬ de¬ juízo¬ de¬ retratação.¬
+Mantida¬ a¬ decisão¬ da¬ Congregação,¬ em¬ nova¬ votação,¬ o¬
+processo¬ foi¬ encaminhado¬ à¬ Secretaria¬ Geral¬ da¬ USP¬ e¬
+incluído¬ na¬ pauta¬ da¬ Comissão¬ de¬ Legislação¬ e¬ Recursos¬
+(CLR),¬
+depois¬
+de¬
+ouvida¬
+a¬
+Procuradoria¬
+Geral¬
+da¬
+Universidade.¬
+Nos¬termos¬do¬Regimento¬Geral¬da¬USP,¬a¬decisão¬da¬CLR¬
+tem¬caráter¬
+¬
+(A)¬definitivo,¬ não¬ cabendo¬ qualquer¬ recurso¬ contra¬ seu¬
+conteúdo.¬
+(B)¬opinativo,¬ cabendo¬ a¬ deliberação¬ à¬ Comissão¬ de¬
+Atividades¬Acadêmicas.¬
+(C)¬opinativo,¬
+cabendo¬
+a¬
+deliberação¬
+ao¬
+Conselho¬
+Universitário.¬
+(D)¬deliberativo,¬cabendo¬recurso¬ao¬Conselho¬Universitário.¬
+(E)¬deliberativo,¬cabendo¬recurso¬ao¬Conselho¬Universitário,¬
+com¬juízo¬de¬retratação¬eventual¬pela¬própria¬CLR.¬
+##### 
+ 
+{21} 
+Na¬USP,¬as¬Unidades¬Universitárias¬podem¬ser¬designadas¬
+como¬Escolas,¬Faculdades¬ou¬Institutos.¬Assinale¬a¬alternativa¬
+que¬explica,¬nos¬termos¬do¬Regimento¬Geral¬da¬Universidade,¬
+a¬distinção¬entre¬os¬três¬vocábulos.¬
+¬
+(A)¬A¬utilização¬depende¬da¬tradição¬universitária¬europeia¬e¬da¬
+tradução¬dos¬vocábulos¬para¬o¬português.¬
+(B)¬Escolas¬ é¬ o¬ vocábulo¬ usado¬ nas¬ áreas¬ biológicas,¬
+Faculdades,¬nas¬humanidades¬e¬Institutos,¬nas¬exatas.¬
+(C)¬A¬utilização¬depende¬da¬tradição¬universitária¬estadunidense¬
+e¬da¬tradução¬dos¬vocábulos¬para¬o¬português.¬
+(D)¬Os¬ vocábulos¬ são¬ usados¬ com¬ funções¬ similares¬ e¬ não¬
+estabelecem¬hierarquia¬entre¬as¬Unidades¬Universitárias.¬
+(E)¬Os¬ vocábulos¬ designam¬ hierarquia¬ entre¬ as¬ Unidades¬
+Universitárias,¬em¬razão¬do¬nível¬de¬pesquisa¬que¬realizam,¬
+sendo¬os¬Institutos¬as¬Unidades¬mais¬importantes.¬
+#####
+ 
+{22} 
+Durante¬a¬criação¬de¬uma¬apresentação¬no¬PowerPoint¬365,¬
+um¬ usuário¬ adiciona¬ múltiplas¬ animações¬ em¬ diferentes¬
+objetos¬de¬um¬mesmo¬slide¬(como¬títulos,¬imagens¬e¬caixas¬de¬
+texto).¬Após¬aplicar¬os¬efeitos,¬deseja-se¬alterar¬a¬ordem¬em¬
+que¬esses¬elementos¬são¬animados,¬sem¬removê-los.¬
+Assinale¬ a¬ alternativa¬ que¬ apresenta¬ o¬ procedimento¬ mais¬
+adequado¬para¬reordenar¬as¬animações¬já¬aplicadas¬a¬objetos¬
+em¬um¬slide.¬
+¬
+(A)¬Acessar¬a¬guia¬“Design”,¬selecionar¬os¬objetos¬e¬aplicar¬
+novamente¬os¬efeitos¬na¬ordem¬desejada.¬
+(B)¬Acessar¬ a¬ guia¬ “Animações”,¬ clicar¬ em¬ “Painel¬ de¬
+Animação”¬ e¬ arrastar¬ os¬ efeitos¬ para¬ a¬ nova¬ ordem¬
+desejada.¬
+(C)¬Selecionar¬o¬slide¬no¬modo¬“Classificação¬de¬Slides”¬e¬usar¬
+a¬opção¬“Reordenar¬Transições”¬no¬menu¬de¬contexto.¬
+(D)¬Clicar¬ com¬ o¬ botão¬ direito¬ sobre¬ o¬ slide¬ e¬ escolher¬
+“Configurações¬de¬Slide”,¬onde¬é¬possível¬editar¬a¬ordem¬
+das¬animações.¬
+(E)¬Utilizar¬a¬função¬“Converter¬em¬Objeto¬Inteligente”¬e¬ativar¬
+a¬reorganização¬automática¬na¬aba¬“Modo¬de¬Leitura”.¬
+##### 
+{23} 
+No¬ pacote¬ Office¬ 365,¬ algumas¬ ferramentas¬ são¬ voltadas,¬
+especialmente,¬
+para¬
+o¬
+trabalho¬
+colaborativo,¬
+o¬
+armazenamento¬em¬nuvem¬e¬a¬edição¬simultânea¬de¬arquivos¬
+entre¬usuários¬conectados¬à¬internet.¬
+Assinale¬ a¬ alternativa¬ que¬ apresenta¬ duas¬ ferramentas¬ do¬
+Pacote¬Office¬365¬que¬oferecem¬as¬funcionalidades¬descritas.¬
+¬
+(A)¬OneDrive¬e¬Microsoft¬Teams.¬
+(B)¬WordPad¬e¬Excel.¬
+(C)¬Paint¬e¬Bloco¬de¬Notas.¬
+(D)¬PowerPoint¬Offline¬e¬Calculadora.¬
+(E)¬Windows¬Media¬Player¬e¬Outlook¬Express.¬
+#####
+ 
+{24} 
+Um¬ usuário¬ trabalha¬ em¬ uma¬ planilha¬ no¬ Excel¬ 365¬ em¬
+português¬e¬deseja¬calcular,¬automaticamente,¬a¬quantidade¬
+de¬dias¬entre¬duas¬datas¬inseridas¬em¬células¬diferentes.¬Por¬
+exemplo,¬a¬data¬de¬início¬está¬na¬célula¬A2¬e¬a¬data¬de¬término¬
+está¬na¬célula¬B2,¬conforme¬imagem¬a¬seguir:¬
+¬
+¬
+¬
+¬
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+A¬fórmula¬que¬retorna,¬corretamente,¬o¬número¬de¬dias¬entre¬
+essas¬duas¬datas¬é:¬
+¬
+(A)¬=SOMA(A2;B2) 
+¬
+(B)¬=DIFDATAS(A2;B2) 
+¬
+(C)¬=CONT.SE(A2:B2;"DIA") 
+¬
+(D)¬=SE(B2>A2;A2-B2;0) 
+ 
+(E)¬=B2-A2 
+##### 
+¬
+{25} 
+Um¬ agrônomo¬ deseja¬ plantar¬ mudas¬ de¬ árvores¬ para¬
+contornar¬ um¬ terreno¬ retangular¬ plano¬ descampado,¬ de¬
+dimensões¬192¬m¬por¬372¬m,¬em¬um¬parque¬público.¬Para¬isso,¬
+deverá¬ colocar¬ uma¬ muda¬ de¬ árvore¬ em¬ cada¬ vértice¬ do¬
+terreno¬e¬utilizar¬sempre¬a¬mesma¬distância¬entre¬as¬mudas¬
+consecutivas.¬ A¬ quantidade¬ mínima¬ de¬ árvores¬ a¬ serem¬
+plantadas¬é¬igual¬a¬
+¬
+(A) 82.¬
+(B) 86.¬
+(C) 90.¬
+(D) 94.¬
+(E) 99.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 8 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+{26} 
+Considere¬os¬números¬de¬5¬algarismos¬diferentes¬que¬podem¬
+ser¬formados¬com¬os¬algarismos¬1,¬2,¬3,¬4,¬5,¬6¬e¬7.¬A¬quantidade¬
+de¬números¬que¬possuem¬o¬algarismo¬7¬é¬igual¬a¬
+¬
+(A) 1280.¬
+(B) 1420.¬
+(C) 1800.¬
+(D) 1940.¬
+(E) 2230.¬
+##### 
+¬
+{27} 
+Em¬um¬projeto¬interdisciplinar¬de¬uma¬escola,¬foi¬solicitado¬aos¬
+alunos¬ que¬ construíssem¬ um¬ painel¬ com¬ 2304¬ pastilhas¬ no¬
+formato¬ de¬ triângulo¬ de¬ modo¬ que¬ a¬ primeira¬ linha¬ tivesse¬
+1¬pastilha,¬a¬segunda¬linha¬tivesse¬3¬pastilhas,¬a¬terceira¬linha¬
+tivesse¬ 5¬ pastilhas¬ e¬ assim¬ sucessivamente.¬ O¬ número¬ de¬
+linhas¬no¬referido¬painel¬é¬igual¬a¬
+¬
+(A) 28.¬
+(B) 32.¬
+(C) 38.¬
+(D) 42.¬
+(E) 48.¬
+##### 
+¬
+{28} 
+A¬função¬quadrática¬𝑓: ℝ→ℝ¬é¬dada¬por¬𝑓ሺ𝑥ሻ= 𝑎𝑥ଶ−3𝑥+ 𝑐¬¬
+com¬𝑎, 𝑐¬números¬reais.¬
+Assumindo¬que¬𝑓ሺ1ሻ= −5¬¬e¬¬2𝑓ሺ3ሻ−𝑓ሺ2ሻ= 12,¬¬o¬valor¬de¬
+𝑎+ 3𝑐¬¬será¬igual¬a¬
+¬
+(A) −12.¬
+(B) −10.¬
+(C) −4.¬
+(D) 6.¬
+(E) 4.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+{29} 
+A¬conta¬de¬água¬de¬um¬condomínio¬deve¬ser¬paga¬até¬o¬quinto¬
+dia¬útil¬de¬cada¬mês.¬Para¬pagamentos¬após¬o¬vencimento,¬é¬
+cobrado¬juro¬de¬0,4%¬por¬dia¬de¬atraso.¬Se¬a¬conta¬de¬um¬
+morador¬for¬de¬R$¬610,00¬e¬ele¬pagar¬essa¬conta¬com¬20¬dias¬
+de¬atraso,¬o¬valor¬a¬ser¬pago¬é¬
+¬
+(A) 658,80.¬
+(B) 666,80.¬
+(C) 679,80.¬
+(D) 681,68.¬
+(E) 692,80.¬
+##### 
+¬
+{30} 
+Em¬um¬grupo¬de¬5¬pessoas,¬a¬probabilidade¬de¬haver¬alguma¬
+coincidência¬de¬pessoas¬nascidas¬no¬mesmo¬mês¬do¬ano¬é:¬
+¬
+(A)¬¬
+ହଵ
+ଽ଺¬
+(B)¬¬
+଼ଽ
+ଵସସ¬
+(C)¬¬
+ଽଵ
+ଵ଺଼¬
+(D)¬¬
+ଵ଴ଷ
+ଵ଼ଷ¬
+(E)¬¬
+ଵ଴଻
+ଵଽହ¬
+Note¬e¬adote:¬
+Considere¬que¬existe¬um¬equilíbrio¬nos¬nascimentos¬em¬todos¬os¬
+meses¬do¬ano.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 9 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+Texto para as questões 31 e 32 
+¬
+O¬ GHS¬ (Globally¬ Harmonized¬ System¬ of¬ Classification¬ and¬
+Labelling¬ of¬ Chemicals)¬ é¬ um¬ sistema¬ internacional¬ de¬
+classificação¬e¬rotulagem¬de¬produtos¬químicos.¬Por¬meio¬dele,¬
+é¬possível¬saber¬quais¬são¬os¬riscos¬físicos,¬à¬saúde¬e¬ao¬meio¬
+ambiente¬que¬estão¬associados¬ao¬armazenamento,¬manuseio¬
+e¬utilização¬desses¬produtos.¬A¬seguir,¬estão¬apresentados¬os¬
+nove¬pictogramas¬que¬compõem¬o¬GHS,¬numerados¬de¬1¬a¬9.¬
+¬
+¬
+¬
+¬
+1¬
+2¬
+3¬
+¬
+¬
+¬
+4¬
+5¬
+6¬
+¬
+¬
+¬
+7¬
+8¬
+9¬
+{31} 
+Os¬pictogramas¬1,¬3,¬5¬e¬8,¬respectivamente,¬sinalizam¬que¬o¬
+produto¬é¬ou¬representa:¬
+¬
+(A)¬Explosivo;¬Oxidante;¬Gás¬sob¬pressão;¬Tóxico.¬
+(B)¬Explosivo;¬Oxidante;¬Corrosivo;¬Perigoso¬à¬saúde.¬
+(C)¬Inflamável;¬Explosivo;¬Risco¬à¬vida¬aquática;¬Tóxico.¬
+(D)¬Oxidante;¬Inflamável;¬Corrosivo;¬Perigoso¬à¬saúde.¬
+(E)¬Explosivo;¬Inflamável;¬Tóxico;¬Corrosivo.¬
+##### 
+¬
+{32} 
+Os¬pictogramas¬2,¬6¬e¬9,¬respectivamente,¬são¬compatíveis¬
+com¬os¬rótulos¬dos¬seguintes¬produtos¬químicos:¬
+¬
+(A)¬Iodeto¬de¬potássio;¬acetato¬de¬sódio;¬ácido¬clorídrico.¬
+(B)¬Etanol;¬ácido¬acético;¬nitrato¬de¬sódio.¬
+(C)¬Cloreto¬ de¬ prata;¬ acetato¬ de¬ chumbo;¬ permanganato¬ de¬
+potássio.¬
+(D)¬Metanol;¬clorofórmio;¬hidróxido¬de¬amônio.¬
+(E)¬Tolueno;¬cloreto¬de¬sódio;¬cromato¬de¬potássio.¬
+##### 
+¬
+{33} 
+A¬ segurança¬ no¬ ambiente¬ laboratorial¬ depende¬ do¬ uso¬
+adequado¬de¬equipamentos¬de¬proteção.¬Esses¬equipamentos¬
+podem¬ ser¬ classificados¬ como¬ de¬ uso¬ individual¬ (EPI)¬ ou¬
+coletivo¬(EPC),¬conforme¬sua¬finalidade.¬Assinale¬a¬alternativa¬
+que¬apresenta,¬respectivamente,¬um¬EPI¬e¬um¬EPC.¬
+¬
+(A)¬Coifa;¬lava-olhos¬de¬emergência.¬
+(B)¬Luva;¬protetor¬facial.¬
+(C)¬Avental;¬chuveiro¬de¬emergência.¬
+(D)¬Capela¬de¬segurança¬química;¬manta¬corta-fogo.¬
+(E)¬Extintor¬de¬incêndio;¬óculos¬de¬proteção.¬
+##### 
+{34} 
+As¬ regras¬ de¬ segurança¬ e¬ as¬ boas¬ práticas¬ são¬ essenciais¬
+para¬prevenir¬acidentes¬e¬garantir¬a¬integridade¬de¬todos¬que¬
+atuam¬ em¬ laboratórios¬ químicos.¬ Seu¬ cumprimento¬ é¬ parte¬
+fundamental¬ da¬ atuação¬ profissional¬ em¬ ambientes¬ que¬
+envolvem¬substâncias¬perigosas¬e¬procedimentos¬de¬risco.¬
+Em¬relação¬a¬tais¬práticas,¬é¬correto¬afirmar:¬
+¬
+(A)¬É¬ apropriado¬ tentar¬ identificar¬ um¬ produto¬ químico¬ pelo¬
+olfato¬ou¬paladar¬caso¬se¬tenha¬certeza¬de¬que¬ele¬não¬é¬
+tóxico.¬
+(B)¬É¬ dispensável¬ usar¬ equipamentos¬ de¬ proteção¬ coletiva¬
+quando¬se¬está¬trabalhando¬sozinho¬no¬laboratório.¬
+(C)¬É¬seguro¬manter¬solventes¬inflamáveis¬próximos¬a¬uma¬
+fonte¬de¬calor¬desde¬que¬ela¬não¬emita¬chama.¬
+(D)¬É¬
+prudente¬
+armazenar¬
+substâncias¬
+quimicamente¬
+incompatíveis¬ no¬ mesmo¬ local¬ se¬ este¬ for¬ isolado¬ e¬ de¬
+acesso¬restrito.¬
+(E)¬É¬necessário¬utilizar¬a¬capela¬de¬segurança¬química¬para¬
+manusear¬ reagentes¬ ou¬ realizar¬ reações¬ que¬ liberem¬
+vapores.¬
+##### 
+¬
+¬
+Texto para as questões 35 e 36 
+¬
+Dentre¬ diferentes¬ materiais¬ e¬ substâncias¬ manuseados¬ em¬
+aulas¬de¬Química,¬encontram-se¬aqueles¬classificados¬como¬
+perigosos¬por¬apresentar¬características¬de¬inflamabilidade,¬
+corrosividade,¬ reatividade¬ ou¬ toxicidade.¬ Quando¬ são¬
+utilizados¬em¬aulas¬experimentais,¬estes¬podem¬transformar-
+se¬em¬materiais¬que,¬em¬função¬de¬seu¬caráter¬tóxico¬e¬de¬
+potenciais¬ danos¬ ao¬ ambiente,¬ não¬ devem¬ ser¬ descartados¬
+em¬lixo¬comum¬ou¬em¬redes¬de¬esgoto.¬
+MACHADO,¬P.F.L.;¬MÓL,¬G.¬S.¬Resíduos¬e¬rejeitos¬de¬aulas¬
+experimentais:¬o¬que¬fazer?.¬Química¬Nova¬na¬Escola,¬n.¬29,¬agosto/2008.¬
+¬
+{35} 
+Dada¬ a¬ importância¬ do¬ manejo¬ adequado¬ de¬ resíduos¬
+químicos¬ em¬ aulas¬ experimentais,¬ é¬ uma¬ prática¬ adequada¬
+para¬minimizar¬a¬geração¬desses¬resíduos¬
+¬
+(A)¬controlar¬ o¬ estoque¬ de¬ produtos¬ químicos¬ por¬ meio¬ de¬
+inventário,¬bem¬como¬suas¬condições¬de¬armazenagem¬e¬a¬
+integridade¬de¬seus¬rótulos.¬
+(B)¬monitorar¬a¬data¬de¬validade¬dos¬reagentes,¬descartando¬
+aqueles¬que¬estiverem¬a¬seis¬meses¬do¬vencimento.¬
+(C)¬realizar¬ experimentos¬ em¬ grande¬ escala¬ para¬ obter¬ o¬
+resultado¬desejado¬já¬no¬primeiro¬teste.¬
+(D)¬propor¬ práticas¬ experimentais¬ que¬ reutilizem¬ resíduos,¬
+desde¬ que¬ elas¬ gerem¬ resíduos¬ químicos¬ de¬ outra¬
+natureza.¬
+(E)¬adquirir¬produtos¬químicos¬em¬quantidades¬elevadas¬para¬
+evitar¬o¬desabastecimento¬do¬estoque.¬
+##### 
+¬
+
+
+--- PAGE 10 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+{36} 
+Considerando¬ o¬ caráter¬ perigoso¬ dos¬ resíduos¬ químicos¬
+gerados¬em¬aulas¬experimentais,¬é¬uma¬prática¬recomendada¬
+para¬o¬armazenamento¬e¬acondicionamento¬desses¬resíduos¬
+¬
+(A) preencher¬ os¬ recipientes¬ com¬ os¬ resíduos¬ até¬ o¬ limite¬
+máximo¬de¬sua¬capacidade,¬a¬fim¬de¬aproveitar¬melhor¬o¬
+espaço.¬
+(B) armazenar¬ os¬ resíduos¬ organizando-os¬ por¬ ordem¬
+alfabética¬ de¬ seus¬ nomes¬ técnicos,¬ com¬ o¬ objetivo¬ de¬
+tornar¬mais¬rápida¬a¬sua¬localização.¬
+(C) reaproveitar¬ embalagens¬ de¬ bebida¬ para¬ coletar¬ e¬
+acondicionar¬ os¬resíduos,¬com¬a¬finalidade¬de¬dar¬novo¬
+uso¬a¬essas¬embalagens.¬
+(D) rotular¬os¬frascos¬contendo¬os¬resíduos¬com¬o¬nome¬usual¬
+do¬produto,¬em¬vez¬do¬nome¬técnico,¬de¬modo¬a¬facilitar¬
+sua¬identificação¬por¬pessoas¬leigas.¬
+(E) respeitar¬ critérios¬ de¬ compatibilidade¬ química¬ dos¬
+produtos¬ em¬ sua¬ organização,¬ para¬ permitir¬ a¬ sua¬
+segregação¬adequada¬e¬evitar¬acidentes.¬
+##### 
+¬
+{37} 
+Um¬técnico¬de¬laboratório¬precisa¬preparar¬500¬mL¬de¬uma¬
+solução¬ aquosa¬ contendo¬ íons¬ Cu2+¬ com¬ concentração¬
+0,2¬mol/L,¬a¬partir¬de¬sulfato¬de¬cobre¬(II)¬pentahidratado.¬A¬
+massa¬de¬soluto,¬em¬gramas,¬necessária¬para¬preparar¬essa¬
+solução¬é¬mais¬próxima¬de¬
+¬
+(A)¬16.¬
+(B)¬25.¬
+(C)¬32.¬
+(D)¬45.¬
+(E)¬50.¬
+¬
+Note¬e¬adote:¬
+Massas¬molares¬(g/mol):¬¬H¬=¬1;¬O¬=¬16;¬S¬=¬32;¬Cu¬=¬63,5.¬
+##### 
+¬
+{38} 
+Na¬preparação¬de¬soluções¬aquosas¬por¬dissolução,¬diversos¬
+cuidados¬ são¬ necessários¬ para¬ garantir¬ a¬ exatidão¬ da¬
+concentração¬e¬a¬segurança¬do¬procedimento.¬Considerando¬
+as¬boas¬práticas¬laboratoriais,¬um¬cuidado¬correto¬a¬se¬adotar¬
+é¬
+¬
+(A)¬dissolver¬ completamente¬ o¬ sólido¬ antes¬ de¬ adicionar¬ o¬
+solvente¬até¬a¬marcação¬de¬volume¬do¬balão¬volumétrico.¬
+(B)¬retirar,¬com¬uma¬pipeta,¬o¬volume¬excedente¬da¬solução,¬
+caso¬ se¬ ultrapasse¬ a¬ marcação¬ de¬ volume¬ do¬ balão¬
+volumétrico.¬
+(C)¬manter¬o¬balão¬volumétrico¬aberto¬enquanto¬o¬agita¬com¬o¬
+solvente¬para¬dissolver¬o¬sólido¬e¬homogeneizar¬a¬solução.¬
+(D)¬usar¬ água¬ gelada¬ como¬ solvente¬ se¬ o¬ processo¬ de¬
+dissolução¬do¬soluto¬for¬exotérmico¬e¬provocar¬aumento¬de¬
+temperatura.¬
+(E)¬adicionar¬ água¬ até¬ a¬ marcação¬ de¬ volume¬ do¬ balão¬
+volumétrico¬ e,¬ na¬ sequência,¬ acrescentar¬ o¬ sólido¬ a¬ ser¬
+dissolvido.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+{39} 
+O¬preparo¬de¬soluções¬aquosas¬por¬diluição¬requer¬atenção¬a¬
+algumas¬etapas¬específicas¬para¬garantir¬a¬exatidão¬e¬evitar¬
+riscos¬ no¬ manuseio¬ de¬ reagentes.¬ Considerando¬ as¬ boas¬
+práticas¬laboratoriais,¬um¬procedimento¬correto¬é¬
+¬
+(A)¬manter¬ a¬ tampa¬ do¬ frasco¬ contendo¬ a¬ solução¬ mais¬
+concentrada¬em¬contato¬direto¬com¬a¬bancada.¬
+(B)¬retornar¬a¬solução¬mais¬concentrada¬ao¬seu¬frasco¬original¬
+caso¬não¬seja¬preciso¬utilizar¬todo¬o¬volume¬retirado.¬
+(C)¬utilizar¬uma¬pipeta,¬volumétrica¬ou¬graduada,¬para¬aferir¬o¬
+volume¬da¬solução¬concentrada¬a¬ser¬transferido¬para¬o¬
+balão¬volumétrico.¬
+(D)¬adicionar¬ a¬ água¬ diretamente¬ sobre¬ o¬ ácido¬ mais¬
+concentrado¬ caso¬ se¬ deseje¬ obter¬ um¬ ácido¬ menos¬
+concentrado.¬
+(E)¬medir¬com¬uma¬proveta¬ou¬um¬erlenmeyer¬a¬quantidade¬
+de¬solução¬mais¬concentrada¬necessária¬para¬preparar¬a¬
+solução¬mais¬diluída.¬
+##### 
+¬
+{40} 
+As¬ vidrarias¬ de¬ laboratório¬ são¬ ferramentas¬ de¬ trabalho¬
+fundamentais¬em¬um¬laboratório¬de¬química.¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Erlenmeyer¬
+Béquer¬
+Kitassato¬
+¬
+¬
+Vidro¬de¬relógio¬
+Balão¬de¬fundo¬redondo¬
+¬
+A¬partir¬das¬imagens¬apresentadas,¬assinale¬a¬alternativa¬que¬
+indica¬corretamente¬uma¬aplicação¬adequada¬para¬a¬vidraria¬
+nomeada.¬
+¬
+(A)¬Erlenmeyer¬ -¬ Efetuar¬ separações¬ de¬ misturas¬ líquidas¬
+heterogêneas¬com¬base¬na¬diferença¬de¬densidade.¬
+(B)¬Béquer¬-¬Aferir¬volumes¬de¬líquido¬com¬alta¬precisão¬para¬
+posterior¬transferência¬em¬pequenas¬alíquotas.¬
+(C)¬Kitassato¬ -¬ Realizar¬ filtração¬ sob¬ pressão¬ reduzida,¬ com¬
+funil¬de¬Büchner¬e¬bomba¬de¬vácuo¬acoplada.¬
+(D)¬Vidro¬de¬relógio¬-¬Acondicionar¬reagente¬sólidos¬a¬serem¬
+protegidos¬da¬umidade¬do¬ar.¬
+(E)¬Balão¬de¬fundo¬redondo¬-¬Realizar¬titulações,¬comportando¬
+o¬líquido¬titulante.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 11 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+{41} 
+Na¬análise¬química¬quantitativa,¬o¬processo¬de¬amostragem¬é¬
+essencial¬ para¬ garantir¬ que¬ os¬ resultados¬ obtidos¬ sejam¬
+representativos¬ do¬ sistema¬ original.¬ Nesse¬ contexto,¬ é¬
+importante¬que¬a¬amostra¬seja¬
+¬
+(A)¬coletada¬de¬forma¬aleatória,¬a¬fim¬de¬evitar¬uma¬seleção¬
+enviesada¬da¬amostra,¬o¬que¬poderia¬distorcer¬o¬resultado¬
+da¬análise.¬
+(B)¬representativa¬do¬meio¬de¬onde¬foi¬coletada,¬considerando¬
+que¬o¬analito¬pode¬estar¬distribuído¬de¬forma¬heterogênea¬
+nesse¬meio.¬
+(C)¬coletada¬ da¬ superfície¬ do¬ meio¬ onde¬ se¬ encontra,¬ mais¬
+próxima¬à¬interface¬com¬o¬meio¬externo,¬onde¬há¬menor¬
+interferência¬de¬impurezas.¬
+(D)¬do¬menor¬tamanho¬possível,¬para¬facilitar¬o¬manuseio,¬bem¬
+como¬reduzir¬o¬tempo¬de¬análise¬e¬a¬geração¬de¬resíduos.¬
+(E)¬do¬maior¬tamanho¬possível,¬para¬que¬a¬análise¬seja¬mais¬
+confiável,¬eliminando¬a¬necessidade¬de¬replicações.¬
+##### 
+¬
+{42} 
+A¬ balança¬ analítica¬ eletrônica¬ emprega¬ uma¬ força¬ de¬
+compensação¬ eletromagnética¬ para¬ contrabalançar¬ uma¬
+carga¬ presente¬ no¬ prato¬ da¬ balança.¬ Ela¬ é¬ utilizada¬ para¬
+determinação¬ de¬ massas¬ entre¬ 0,01¬ e¬ 0,1¬mg.¬ Sobre¬ o¬ uso¬
+desse¬equipamento,¬é¬correto¬afirmar:¬
+¬
+(A) Deve-se¬ considerar¬ o¬ primeiro¬ valor¬ exibido¬ no¬ visor¬ a¬
+partir¬do¬momento¬em¬que¬a¬amostra¬é¬colocada¬sobre¬o¬
+prato¬como¬a¬medida¬mais¬exata.¬
+(B) Deve-se¬pesar¬amostras¬cuja¬massa¬esteja¬entre¬0,1¬mg¬e¬
+100¬g,¬respeitando¬os¬limites¬do¬equipamento.¬
+(C) Deve-se¬ manter¬ as¬ portas¬ laterais¬ abertas¬ durante¬ a¬
+pesagem,¬até¬que¬o¬valor¬mostrado¬no¬visor¬se¬estabilize.¬
+(D) Deve-se¬ posicionar¬ o¬ sólido¬ diretamente¬ sobre¬ o¬ prato¬
+desde¬que¬tenha¬alto¬grau¬de¬pureza.¬
+(E) Deve-se¬verificar¬e,¬se¬necessário,¬ajustar¬o¬nivelamento¬
+da¬balança¬antes¬de¬iniciar¬qualquer¬pesagem.¬
+##### 
+¬
+{43} 
+O¬flúor,¬na¬forma¬de¬íon¬fluoreto,¬é¬uma¬espécie¬importante¬
+para¬prevenção¬de¬cáries.¬No¬creme¬dental¬A,¬comercializado¬
+em¬embalagem¬de¬90¬g,¬há¬99¬mg¬de¬fluoreto¬proveniente¬de¬
+SnF2¬ e¬ 31,5¬ mg¬ fluoreto¬ proveniente¬ de¬ NaF.¬ Já¬ o¬ creme¬
+dental¬B,¬comercializado¬em¬embalagem¬de¬70¬g,¬contém¬84¬
+mg¬de¬fluoreto¬proveniente¬de¬NaF.¬Sabe-se¬que¬o¬teor¬mínimo¬
+recomendado¬ de¬ fluoreto¬ em¬ cremes¬ dentais¬ deve¬ ser¬ de¬
+1000¬ppm.¬ Com¬ base¬ nesses¬ dados,¬ a¬ concentração¬ de¬
+fluoreto¬nos¬cremes¬dentais¬A¬e¬B¬é,¬respectivamente,¬
+¬
+(A)¬1450¬ppm¬e¬830¬ppm,¬e¬somente¬A¬atende¬ao¬teor¬mínimo¬
+estabelecido.¬
+(B)¬350¬ppm¬e¬1200¬ppm,¬e¬somente¬B¬atende¬ao¬teor¬mínimo¬
+estabelecido.¬
+(C)¬1100¬ppm¬e¬1190¬ppm,¬e¬ambos¬atendem¬ao¬teor¬mínimo¬
+estabelecido.¬
+(D)¬1450¬ppm¬e¬1200¬ppm,¬e¬ambos¬atendem¬ao¬teor¬mínimo¬
+estabelecido.¬
+(E)¬690¬ppm¬e¬830¬ppm,¬e¬ambos¬estão¬abaixo¬do¬teor¬mínimo¬
+estabelecido.¬
+¬
+Note¬e¬adote:¬
+Desconsidere¬ outras¬ possíveis¬ fontes¬ de¬ íon¬ fluoreto¬ nos¬
+cremes¬dentais.¬
+##### 
+{44} 
+O¬ gás¬ hidrogênio¬ pode¬ ser¬ obtido¬ a¬ partir¬ da¬ reação¬ entre¬
+ácido¬ clorídrico¬ e¬ um¬ metal,¬ como¬ magnésio¬ ou¬ zinco,¬
+segundo¬a¬equação¬química:¬
+¬
+M(s)¬+¬2H+(aq)¬→¬M2+(aq)¬+¬H2(g)¬
+¬
+em¬que¬M¬representa¬o¬metal¬magnésio¬ou¬zinco.¬
+¬
+Em¬ uma¬ aula¬ prática¬ de¬ laboratório,¬ foram¬ realizados¬ dois¬
+experimentos¬para¬obtenção¬de¬gás¬hidrogênio.¬Em¬um¬deles,¬
+foram¬utilizados¬180¬mg¬de¬magnésio;¬no¬outro,¬180¬mg¬de¬
+zinco.¬
+A¬ razão¬ entre¬ o¬ volume¬ de¬ gás¬ hidrogênio¬ coletado¬ no¬
+experimento¬ com¬ magnésio¬ e¬ o¬ volume¬ de¬ gás¬ hidrogênio¬
+coletado¬no¬experimento¬com¬zinco¬é,¬aproximadamente,¬
+¬
+(A)¬0,3.¬
+(B)¬0,4.¬
+(C)¬2,7.¬
+(D)¬5,4.¬
+(E)¬6,5.¬
+¬
+Note¬e¬adote:¬
+Massas¬molares¬(g/mol):¬Mg¬=¬24;¬Zn¬=¬65.¬
+Considere¬que,¬em¬ambos¬os¬experimentos,¬as¬condições¬
+de¬pressão¬e¬temperatura¬foram¬as¬mesmas¬e¬as¬reações¬
+ocorreram¬em¬excesso¬de¬ácido,¬com¬100%¬de¬rendimento.¬
+##### 
+¬
+{45} 
+A¬
+concentração¬
+da¬
+água¬
+oxigenada¬
+comercial¬
+é¬
+frequentemente¬expressa¬em¬“volumes”,¬indicando¬o¬volume¬
+de¬ gás¬ oxigênio¬ liberado¬ pela¬ decomposição¬ completa¬ de¬
+1,0¬mL¬da¬solução,¬nas¬condições¬normais¬de¬temperatura¬e¬
+pressão.¬ Por¬ exemplo,¬ uma¬ solução¬ de¬ 10¬ volumes¬ libera¬
+10,0¬mL¬ de¬ O₂¬ para¬ cada¬ 1,0¬ mL¬ de¬ água¬ oxigenada¬
+decomposta.¬
+Em¬uma¬aula¬prática,¬para¬estudar¬a¬decomposição¬do¬H2O2,¬
+foi¬ utilizada¬ uma¬ amostra¬ de¬ 10¬ mL¬ de¬ água¬ oxigenada¬
+rotulada¬como¬“20¬volumes”,¬com¬adição¬de¬catalisador.¬Ao¬
+final¬da¬reação,¬foram¬consumidos¬12,5¬mmol¬de¬H2O2.¬
+Considerando¬os¬dados¬fornecidos,¬é¬correto¬afirmar:¬
+¬
+(A)¬O¬rótulo¬está¬incorreto,¬pois¬a¬concentração¬da¬solução¬é¬
+de¬aproximadamente¬10¬volumes.¬
+(B)¬O¬rótulo¬está¬incorreto,¬pois¬a¬concentração¬da¬solução¬é¬
+de¬aproximadamente¬15¬volumes.¬
+(C)¬O¬rótulo¬está¬correto,¬pois¬a¬concentração¬da¬solução¬é¬de¬
+aproximadamente¬20¬volumes.¬¬
+(D)¬O¬rótulo¬está¬incorreto,¬pois¬a¬concentração¬da¬solução¬é¬
+de¬aproximadamente¬30¬volumes.¬
+(E)¬O¬rótulo¬está¬incorreto,¬pois¬a¬concentração¬da¬solução¬é¬
+de¬aproximadamente¬40¬volumes.¬
+¬
+Note¬e¬adote:¬
+Considere¬100%¬de¬rendimento¬para¬a¬reação.¬
+Volume¬molar¬O2¬nas¬condições¬do¬experimento=¬24¬L.¬
+##### 
+¬
+
+
+--- PAGE 12 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+{46} 
+A¬espectrofotometria¬é¬um¬método¬bastante¬conhecido¬para¬
+determinação¬ de¬ concentração¬ de¬ espécies¬ químicas¬
+presentes¬
+em¬
+uma¬
+solução.¬
+Para¬
+executar¬
+essas¬
+determinações,¬podemos¬usar¬dispositivos¬conhecidos¬como¬
+fotômetros,¬que¬são¬constituídos¬basicamente¬dos¬seguintes¬
+componentes:¬uma¬fonte¬de¬energia¬radiante;¬um¬seletor¬de¬
+comprimento¬ de¬ onda¬ que¬ incide¬ sobre¬ a¬ amostra;¬ um¬
+compartimento¬onde¬é¬colocada¬a¬amostra;¬e¬um¬dispositivo¬
+para¬medir¬a¬atenuação¬da¬radiação¬incidente.¬
+OLIVEIRA,¬P.¬C.¬C.;¬LEITE,¬M.¬A.¬P.¬Espectrofotometria¬no¬Ensino¬Médio:¬
+Construção¬de¬um¬fotômetro¬de¬baixo¬custo¬e¬fácil¬aquisição.¬Química¬
+Nova¬na¬Escola,¬v.¬38,¬n.¬2,¬maio/2016.¬Adaptado.¬
+¬
+Considerando¬
+as¬
+informações¬
+apresentadas¬
+e¬
+o¬
+funcionamento¬de¬um¬espectrofotômetro,¬é¬correto¬afirmar:¬
+¬
+(A)¬A¬ cubeta,¬ com¬ paredes¬ transparentes,¬ acondiciona¬ a¬
+amostra¬e¬permite¬a¬passagem¬da¬radiação¬que¬interage¬
+com¬a¬solução¬analisada.¬
+(B)¬O¬ detector¬ tem¬ como¬ principal¬ função¬ selecionar¬ o¬
+comprimento¬de¬onda¬por¬meio¬da¬rede¬de¬difração.¬
+(C)¬A¬ fonte¬ de¬ luz¬ é¬ responsável¬ por¬ absorver¬ radiação¬ em¬
+diferentes¬regiões¬do¬espectro¬eletromagnético.¬
+(D)¬O¬ monocromador¬ amplifica¬ o¬ sinal¬ do¬ comprimento¬ de¬
+onda¬mais¬absorvido¬pelo¬analito.¬
+(E)¬A¬ fotomultiplicadora¬ é¬ utilizada¬ para¬ emitir¬ fótons¬ quando¬
+conectado¬a¬uma¬lâmpada¬de¬deutério¬ou¬tungstênio.¬
+##### 
+¬
+{47} 
+Análise¬volumétrica,¬ou¬volumetria,¬é¬um¬conjunto¬de¬técnicas¬
+analíticas¬que¬se¬baseiam¬na¬medição¬precisa¬do¬volume¬de¬
+uma¬ solução¬ de¬ concentração¬ conhecida¬ necessário¬ para¬
+reagir¬completamente¬com¬a¬substância¬a¬ser¬analisada.¬Entre¬
+as¬volumetrias¬mais¬comuns,¬destacam-se¬as¬titulações¬ácido-
+base,¬
+por¬
+precipitação,¬
+por¬
+complexação¬
+e¬
+por¬
+oxidorredução.¬
+Com¬ base¬ nessa¬ classificação,¬ assinale¬ a¬ alternativa¬ que¬
+relaciona¬corretamente¬o¬tipo¬de¬titulação¬com¬o¬respectivo¬
+processo¬analítico.¬
+¬
+(A)¬Titulação¬por¬precipitação¬-¬Determinar¬a¬concentração¬de¬
+Ca2+(aq)¬utilizando¬EDTA(aq)¬como¬titulante.¬
+(B)¬Titulação¬por¬oxidorredução¬-¬Determinar¬a¬concentração¬
+de¬Cl¬–¬(aq)¬utilizando¬Ag+(aq)¬como¬titulante.¬
+(C)¬Titulação¬por¬complexação¬-¬Determinar¬a¬concentração¬
+de¬I2(aq)¬utilizando¬S2O32–(aq)¬como¬titulante.¬
+(D)¬Titulação¬por¬precipitação¬-¬Determinar¬a¬concentração¬de¬
+Fe2+(aq)¬utilizando¬Ce4+(aq)¬como¬titulante.¬
+(E)¬Titulação¬por¬oxidorredução¬-¬Determinar¬a¬concentração¬
+de¬H2O2(aq)¬utilizando¬MnO4–¬(aq)¬como¬titulante.¬
+¬
+Note¬e¬adote:¬
+Desconsidere¬
+a¬
+presença¬
+de¬
+possíveis¬
+espécies¬
+interferentes¬no¬meio¬reacional.¬
+##### 
+¬
+¬
+¬
+¬
+{48} 
+Para¬que¬uma¬reação¬química¬possa¬ser¬empregada¬em¬uma¬
+titulação¬volumétrica,¬ela¬precisa¬atender¬a¬certos¬critérios,¬de¬
+modo¬ a¬ garantir¬ que¬ o¬ processo¬ seja¬ confiável,¬ preciso¬ e¬
+reprodutível,¬dentre¬eles¬ser¬uma¬reação¬
+¬
+(A)¬expressa¬ por¬ uma¬ equação¬ química¬ de¬ estequiometria¬
+conhecida,¬pela¬qual¬a¬proporção¬entre¬reagente¬e¬produto¬
+seja¬igual¬a¬1.¬
+(B)¬irreversível,¬ para¬ evitar¬ que¬ a¬ reversibilidade¬ da¬ reação¬
+reduza¬a¬precisão¬da¬análise¬e¬comprometa¬o¬resultado.¬
+(C)¬rápida¬o¬suficiente¬para¬se¬poder¬determinar¬o¬ponto¬final¬
+da¬ titulação¬ sem¬ o¬ uso¬ de¬ catalisador,¬ prevenindo¬ a¬
+formação¬de¬produtos¬secundários.¬¬
+(D)¬cujo¬ponto¬final,¬na¬titulação,¬possa¬ser¬identificado¬com¬
+indicadores¬
+visuais¬
+ou¬
+outros¬
+métodos¬
+analíticos¬
+complementares.¬
+(E)¬capaz¬de¬provocar,¬na¬solução¬titulada,¬a¬alteração¬de¬seu¬
+pH¬quando¬o¬ponto¬final¬da¬titulação¬é¬atingido.¬
+##### 
+¬
+{49} 
+Durante¬ uma¬ titulação,¬ é¬ essencial¬ que¬ a¬ concentração¬ da¬
+solução¬ titulante¬ seja¬ conhecida¬ com¬ exatidão.¬ Para¬ tanto,¬
+pode¬ ser¬ necessário¬ padronizá-la¬ utilizando-se¬ um¬ padrão¬
+primário,¬uma¬substância¬que¬deve¬
+¬
+(A)¬ter¬grau¬de¬pureza¬superior¬a¬70%,¬no¬caso¬de¬compostos¬
+orgânicos,¬e¬superior¬a¬90%,¬para¬inorgânicos.¬
+(B)¬ser¬higroscópica,¬o¬que¬favorece¬sua¬dissolução¬em¬água¬
+mesmo¬em¬baixas¬temperaturas.¬
+(C)¬ser¬mantida¬ao¬abrigo¬do¬ar¬para¬evitar¬sua¬decomposição,¬
+dada¬sua¬baixa¬estabilidade¬química.¬
+(D)¬manter-se¬ estável¬ quando¬ submetido¬ a¬ processos¬ para¬
+remoção¬de¬traços¬de¬água¬adsorvidos¬do¬ar.¬
+(E)¬apresentar¬baixa¬massa¬molar¬para¬que¬possa¬ser¬pesada¬
+em¬balanças¬analíticas¬de¬maior¬sensibilidade.¬
+##### 
+¬
+{50} 
+A¬polaridade¬e¬a¬geometria¬espacial¬de¬uma¬molécula¬estão¬
+relacionadas¬ ao¬ conjunto¬ de¬ átomos¬ que¬ a¬ compõem¬ e¬ à¬
+distribuição¬de¬elétrons¬na¬espécie.¬Observe¬a¬estrutura¬de¬
+Lewis¬de¬quatro¬moléculas:¬
+¬
+¬
+¬
+¬
+¬
+(I)¬
+(II)¬
+(III)¬¬
+(IV)¬
+¬
+A¬ alternativa¬ que¬ apresenta¬ corretamente¬ a¬ relação¬ entre¬
+molécula,¬polaridade¬e¬geometria¬molecular¬é:¬
+¬
+(A)¬I-Apolar,¬linear;¬II-Polar,¬piramidal;¬III-Polar,¬piramidal;¬IV-
+Apolar,¬tetraédrica.¬
+(B)¬I-Apolar,¬ trigonal¬ plana;¬ II-Apolar,¬ tetraédrica;¬ III-Polar,¬
+tetraédrica;¬IV-Polar,¬angular.¬
+(C)¬I-Polar,¬angular;¬II-Apolar,¬trigonal¬plana;¬III-Polar,¬trigonal¬
+plana;¬IV-Apolar,¬piramidal.¬
+(D)¬I-Apolar,¬
+linear;¬
+II-Apolar,¬
+trigonal¬
+plana;¬
+III-Polar,¬
+piramidal;¬IV-Polar,¬tetraédrica.¬
+(E)¬I-Polar,¬ angular;¬ II-Apolar,¬ trigonal¬ plana;¬ III-Polar,¬
+piramidal;¬IV-Polar,¬tetraédrica.¬
+##### 
+
+
+--- PAGE 13 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+{51} 
+A¬formação¬da¬ligação¬química¬resulta¬em¬uma¬molécula¬mais¬
+estável¬do¬que¬os¬átomos¬isolados.¬Essa¬estabilização¬pode¬
+ser¬observada¬em¬um¬gráfico¬de¬energia¬potencial¬em¬função¬
+da¬ distância¬ de¬ separação¬ internuclear,¬ como¬ mostrado¬ a¬
+seguir¬para¬a¬molécula¬de¬hidrogênio¬(H2):¬
+¬
+ATKINS,¬P.;¬JONES,¬L.¬Princípios¬de¬química:¬questionando¬a¬vida¬
+moderna¬e¬o¬meio¬ambiente.¬3.¬ed.¬Porto¬Alegre:¬Bookman,¬2006.¬
+¬
+Com¬base¬no¬gráfico¬e¬nos¬conceitos¬relacionados¬à¬formação¬
+de¬ligações¬químicas,¬é¬correto¬afirmar:¬
+¬
+(A)¬Quando¬a¬distância¬entre¬os¬dois¬núcleos¬de¬hidrogênio¬
+torna-se¬ menor¬ que¬ 74¬ pm,¬ a¬ energia¬ potencial¬ diminui¬
+rapidamente¬devido¬à¬atração¬entre¬os¬dois¬núcleos,¬que¬
+tendem¬a¬se¬aproximar¬cada¬vez¬mais¬um¬do¬outro.¬
+(B)¬O¬ comprimento¬ de¬ ligação¬ corresponde¬ a¬ uma¬ situação¬
+em¬que¬a¬atração¬próton¬–¬elétron¬e¬a¬repulsão¬próton¬–¬
+próton¬são¬as¬ideais¬para¬resultar¬em¬uma¬estabilização¬
+máxima¬da¬molécula.¬
+(C)¬A¬ energia¬ de¬ ligação¬ é¬ diretamente¬ proporcional¬ ao¬
+comprimento¬ da¬ ligação,¬ de¬ modo¬ que¬ ligações¬ mais¬
+curtas¬requerem¬menos¬energia¬para¬serem¬rompidas.¬
+(D)¬A¬repulsão¬máxima¬entre¬os¬átomos¬de¬hidrogênio¬ocorre¬
+quando¬os¬núcleos¬de¬H¬se¬encontram¬separados¬a¬uma¬
+distância¬de¬74¬pm,¬a¬qual¬corresponde¬ao¬comprimento¬
+de¬ligação¬observado¬experimentalmente.¬¬
+(E)¬Quando¬ se¬ estabelece¬ a¬ ligação¬ química,¬ o¬ máximo¬ na¬
+curva¬de¬potencial¬é¬observado,¬que,¬no¬caso¬da¬formação¬
+da¬ molécula¬ de¬ H2,¬ corresponde¬ a¬ 435¬kJ/mol,¬ que¬ é¬ a¬
+energia¬liberada¬na¬quebra¬dessa¬ligação.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+{52} 
+Em¬
+uma¬
+aula¬
+sobre¬
+leis¬
+ponderais,¬
+foi¬
+realizado¬
+um¬
+experimento¬ em¬ três¬ etapas.¬
+Todas¬ se¬ iniciaram¬ da¬ mesma¬
+forma:¬ Em¬ um¬ erlenmeyer,¬ o¬
+professor¬adicionou¬a¬amostra¬de¬
+KHCO3¬e¬um¬tubo¬contendo¬HCl,¬
+como¬mostrado¬na¬figura¬ao¬lado.¬
+Depois¬
+desse¬
+procedimento¬
+inicial,¬ ele¬ prosseguiu¬ com¬ o¬
+experimento¬conforme¬descrito:¬
+¬
+Etapa¬I.¬Fechou¬o¬erlenmeyer¬com¬a¬rolha¬e¬aferiu¬a¬massa¬do¬
+conjunto,¬obtendo¬a¬massa¬I.¬
+Etapa¬II.¬Fechou¬o¬erlenmeyer¬com¬ a¬rolha¬e¬ o¬inclinou¬até¬
+verter¬ todo¬ o¬ volume¬ de¬ HCl¬ sobre¬ o¬ KHCO3.¬ Aguardou¬ 5¬
+minutos¬e¬aferiu¬a¬massa¬do¬conjunto,¬obtendo¬a¬massa¬II.¬
+Etapa¬III.¬Inclinou¬o¬erlenmeyer¬até¬verter¬todo¬o¬volume¬de¬HCl¬
+sobre¬o¬KHCO3,¬sem¬deixar¬cair¬ácido¬para¬fora¬do¬frasco.¬
+Aguardou¬5¬minutos,¬fechou¬o¬erlenmeyer¬com¬a¬rolha¬e¬aferiu¬
+a¬massa¬do¬conjunto,¬obtendo¬a¬massa¬III.¬
+Com¬base¬nas¬massas¬medidas¬após¬cada¬etapa,¬é¬correto¬
+afirmar:¬
+¬
+(A)¬Massa¬I¬=¬Massa¬II¬>¬Massa¬III.¬Ocorreu¬reação¬somente¬
+nas¬etapas¬II¬e¬III,¬com¬liberação¬do¬mesmo¬gás¬em¬ambas.¬
+Porém,¬na¬etapa¬III,¬o¬gás¬foi¬liberado¬para¬o¬meio¬antes¬da¬
+pesagem,¬ razão¬ pela¬ qual¬ a¬ massa¬ III¬ foi¬ menor¬ que¬ a¬
+massa¬II.¬
+(B)¬Massa¬I¬<¬Massa¬II¬=¬Massa¬III.¬Ocorreu¬reação¬somente¬
+nas¬etapas¬II¬e¬III,¬com¬geração¬de¬um¬sólido¬de¬massa¬
+maior¬ que¬ a¬ dos¬ reagentes.¬ Como¬ não¬ há¬ gás¬ entre¬ os¬
+reagentes¬ nem¬ entre¬ os¬ produtos,¬ manter¬ o¬ erlenmeyer¬
+aberto¬na¬etapa¬III¬não¬influenciou¬o¬resultado¬obtido.¬
+(C)¬Massa¬I¬=¬Massa¬II¬>¬Massa¬III.¬Ocorreu¬reação¬apenas¬na¬
+etapa¬ III,¬ em¬ que¬ o¬ erlenmeyer¬ aberto¬ possibilitou¬ a¬
+entrada¬ de¬ O2¬ do¬ ar,¬ um¬ dos¬ reagentes.¬ Na¬ reação,¬ a¬
+amostra¬ sofreu¬ corrosão,¬ e¬ o¬ gás¬ produzido¬ foi¬ liberado¬
+para¬o¬meio,¬razão¬pela¬qual¬a¬massa¬III¬foi¬menor¬que¬a¬II.¬
+(D)¬Massa¬I¬>¬Massa¬II¬=¬Massa¬III.¬A¬reação¬ocorreu¬somente¬
+na¬ etapa¬ I,¬ sendo¬ os¬ reagentes¬ o¬ KHCO3¬ e¬ o¬ O2¬ do¬ ar¬
+presente¬no¬interior¬do¬erlenmeyer,¬com¬a¬geração¬de¬um¬
+sólido¬de¬maior¬massa¬que¬os¬reagentes.¬Nas¬etapas¬II¬e¬
+III,¬o¬HCl¬vertido¬inibiu¬a¬reação.¬
+(E)¬Massa¬I¬=¬Massa¬II¬=¬Massa¬III.¬Não¬ocorreu¬reação¬em¬
+nenhuma¬das¬etapas,¬pois¬o¬sistema¬não¬foi¬aquecido¬nem¬
+foi¬adicionado¬um¬catalisador¬ao¬meio.¬Se¬essas¬condições¬
+tivessem¬ sido¬ atendidas,¬ ocorreria¬ reação¬ em¬ II¬ e¬ III,¬
+resultando¬em¬massa¬II¬=¬massa¬III¬>¬massa¬I.¬
+¬
+Note¬e¬adote:¬
+Considere¬ que,¬ nas¬ três¬ etapas,¬ o¬ professor¬ utilizou¬ a¬
+mesma¬balança,¬massas¬iguais¬de¬KHCO3(s)¬e¬volumes¬
+iguais¬de¬HCl¬(aq),¬de¬mesma¬concentração.¬As¬vidrarias¬
+utilizadas¬ (tubo¬ de¬ ensaio¬ e¬ erlenmeyer¬ com¬ rolha)¬
+também¬eram¬iguais.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 14 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+{53} 
+A¬ galvanoplastia¬ é¬ uma¬ técnica¬ de¬ deposição¬ de¬ um¬ metal¬
+sobre¬ a¬ superfície¬ de¬ um¬ material¬ metálico,¬ que¬ ocorre¬ por¬
+meio¬do¬processo¬de¬eletrólise.¬Entre¬suas¬aplicações¬mais¬
+comuns¬estão¬a¬proteção¬contra¬a¬corrosão¬e¬a¬melhoria¬do¬
+aspecto¬ estético¬ de¬ objetos¬ metálicos,¬ como¬ ocorre¬ com¬
+bijuterias,¬que¬muitas¬vezes¬são¬revestidas¬com¬metais¬nobres¬
+para¬aumentar¬seu¬valor¬e¬durabilidade.¬¬
+A¬ seguir,¬ está¬ representado¬ um¬ esquema¬ simplificado¬ do¬
+processo¬ de¬ galvanoplastia¬ aplicado¬ ao¬ banho¬ de¬ ouro¬ em¬
+uma¬ bijuteria¬ feita¬ de¬ níquel,¬ ilustrando¬ os¬ principais¬
+componentes¬do¬sistema¬eletrolítico.¬
+¬
+¬
+¬
+Disponível¬em¬http://www.petquimica.ufc.br/.¬Adaptado.¬
+¬
+Considerando¬
+as¬
+informações¬
+fornecidas¬
+e¬
+seus¬
+conhecimentos¬de¬eletroquímica,¬é¬correto¬afirmar:¬
+¬
+(A)¬A¬ peça¬ de¬ ouro¬ e¬ a¬ bijuteria¬ de¬ níquel¬ correspondem,¬
+respectivamente,¬ ao¬ cátodo¬ e¬ ao¬ ânodo¬ da¬ célula¬
+eletrolítica.¬
+(B)¬Para¬aplicar¬um¬banho¬de¬prata,¬em¬vez¬de¬ouro,¬a¬bijuteria¬
+de¬níquel¬deve¬ficar¬no¬polo¬positivo,¬e¬a¬placa¬de¬prata,¬
+no¬negativo.¬
+(C)¬No¬ banho¬ de¬ ouro,¬ é¬ utilizada¬ energia¬ elétrica¬ para¬
+viabilizar¬a¬ocorrência¬de¬uma¬reação¬de¬oxidorredução¬
+não¬espontânea.¬
+(D)¬Se¬ a¬ bijuteria¬ fosse¬ de¬ alumínio,¬ a¬ placa¬ de¬ ouro¬ ficaria¬
+revestida¬de¬alumínio¬em¬decorrência¬do¬alto¬potencial¬de¬
+oxidação¬do¬alumínio.¬
+(E)¬A¬diferença¬de¬potencial¬gerada¬pela¬reação¬que¬ocorre¬
+na¬eletrodeposição¬de¬ouro¬sobre¬a¬bijuteria¬de¬níquel¬é¬
+1,65V.¬
+¬
+Note¬e¬adote:¬
+Al¬3+¬+¬3e–¬→¬Al 0¬
+Ni2+¬+¬2e–¬→ Ni0¬
+Ag+¬+¬1e–¬→¬Ag0¬
+Au3+¬+¬3e–¬→¬Au0¬
+¬
+¬
+Eº¬=¬-1,71V¬
+Eº¬=¬-0,23V¬
+Eº¬=¬0,80V¬
+Eº¬=¬1,42V¬
+##### 
+¬
+{54} 
+Na¬dissolução¬de¬um¬sal¬em¬água,¬os¬íons¬que¬o¬constituem¬
+se¬dissociam¬e¬são¬solvatados¬pelo¬solvente,¬em¬um¬processo¬
+de¬ hidratação.¬ Cada¬ uma¬ dessas¬ etapas¬ envolve¬ trocas¬ de¬
+energia.¬ De¬ modo¬ geral,¬ a¬ dissociação¬ absorve¬ energia,¬
+enquanto¬a¬hidratação¬libera¬energia.¬A¬diferença¬entre¬essas¬
+quantidades¬de¬energia¬determina¬se¬o¬processo¬global¬de¬
+dissolução¬é¬endotérmico¬ou¬exotérmico.¬
+Os¬gráficos¬a¬seguir¬mostram¬a¬curva¬de¬solubilidade¬de¬dois¬
+sais¬em¬função¬da¬temperatura:¬
+¬
+¬
+I¬
+II¬
+¬
+Com¬base¬nas¬informações¬apresentadas,¬é¬correto¬afirmar:¬
+¬
+(A)¬A¬ curva¬ I¬ representa¬ um¬ processo¬ de¬ dissolução¬
+endotérmico,¬em¬que¬a¬energia¬liberada¬na¬hidratação¬dos¬
+íons¬é¬menor¬do¬que¬a¬energia¬absorvida¬na¬dissociação¬
+deles.¬
+(B)¬A¬ curva¬ I¬ representa¬ um¬ processo¬ de¬ dissolução¬
+endotérmico,¬em¬que¬a¬energia¬liberada¬na¬hidratação¬dos¬
+íons¬ é¬ maior¬ do¬ que¬ a¬ energia¬ liberada¬ na¬ dissociação¬
+deles.¬
+(C)¬A¬ curva¬ I¬ representa¬ um¬ processo¬ de¬ dissolução¬
+exotérmico,¬em¬que¬a¬energia¬liberada¬na¬hidratação¬dos¬
+íons¬é¬menor¬do¬que¬a¬energia¬absorvida¬na¬dissociação¬
+deles.¬
+(D)¬A¬ curva¬ II¬ representa¬ um¬ processo¬ de¬ dissolução¬
+exotérmico,¬em¬que¬a¬energia¬liberada¬na¬hidratação¬dos¬
+íons¬ é¬ menor¬ do¬ que¬ a¬ energia¬ liberada¬ na¬ dissociação¬
+deles.¬
+(E)¬A¬ curva¬ II¬ representa¬ um¬ processo¬ de¬ dissolução¬
+endotérmico,¬em¬que¬a¬energia¬liberada¬na¬hidratação¬dos¬
+íons¬é¬maior¬do¬que¬a¬energia¬absorvida¬na¬dissociação¬
+deles.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 15 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+{55} 
+Diversos¬ fatores¬ influenciam¬ a¬ escolha¬ de¬ um¬ combustível,¬
+como¬ o¬ rendimento¬ energético,¬ os¬ custos¬ operacionais,¬ a¬
+disponibilidade¬ e¬ os¬ impactos¬ ambientais.¬ Em¬ veículos¬ e¬
+processos¬ industriais,¬ é¬ relevante¬ considerar¬ não¬ apenas¬ a¬
+energia¬total¬liberada¬na¬combustão,¬mas¬também¬a¬eficiência¬
+relativa¬ ao¬ consumo¬ de¬ oxigênio,¬ ou¬ seja,¬ a¬ quantidade¬ de¬
+energia¬liberada¬por¬grama¬de¬O₂¬consumido.¬
+Considere¬as¬equações¬químicas¬não¬balanceadas¬a¬seguir,¬
+referentes¬ às¬ reações¬ de¬ combustão¬ do¬ metano,¬ etanol¬ e¬
+octano,¬ acompanhadas¬ dos¬ respectivos¬ valores¬ de¬ entalpia¬
+de¬combustão.¬
+¬
+Metano¬
+CH4(l)¬+¬O2(g)¬→¬CO2(g)¬+¬H2O(l)¬¬
+∆H¬=¬−¬891¬kJ/mol¬
+¬
+Etanol¬
+C2H5OH(l)¬+¬O2(g)¬→¬CO2(g)¬+¬H2O(l)¬¬
+∆H¬=¬−¬1367¬kJ/mol¬
+¬
+Octano¬
+C8H18(l)¬+¬O2(g)¬→¬CO2(g)¬+¬H2O(l)¬¬
+∆H¬=¬−¬5470¬kJ/mol¬
+¬
+De¬acordo¬com¬os¬dados¬fornecidos,¬a¬ordem¬de¬eficiência¬
+relativa¬ao¬consumo¬de¬oxigênio,¬é:¬
+¬
+(A)¬Metano¬<¬Etanol¬<¬Octano.¬
+(B)¬Etanol¬<¬Metano¬<¬Octano.¬
+(C)¬Octano¬<¬Metano¬=¬Etanol.¬
+(D)¬Metano¬=¬Etanol¬<¬Octano.¬
+(E)¬Octano¬<¬Metano¬<¬Etanol.¬
+##### 
+¬
+{56} 
+Para¬testar¬a¬condutividade¬elétrica¬de¬três¬ácidos¬em¬solução¬
+aquosa,¬realizou-se¬o¬seguinte¬experimento:¬
+Foram¬ preparadas¬ três¬ soluções,¬ cada¬ uma¬ contendo¬ a¬
+mesma¬quantidade¬de¬água¬e¬o¬mesmo¬número¬de¬moléculas¬
+de¬ ácido¬ diferente.¬ Os¬ terminais¬ dos¬ filamentos¬ de¬ uma¬
+lâmpada,¬ ligada¬ a¬ uma¬ fonte¬ de¬ energia¬ elétrica,¬ foram¬
+imersos,¬separadamente,¬em¬cada¬solução.¬
+A¬figura¬a¬seguir¬representa¬o¬aparato¬experimental¬utilizado¬e¬
+o¬resultado¬obtido¬em¬cada¬teste.¬
+¬
+I¬
+II¬
+III¬
+¬
+¬
+¬
+¬
+Intensidade¬do¬brilho¬da¬lâmpada¬obtido:¬I¬>¬II¬>¬III.¬
+¬
+Os¬ resultados¬ obtidos¬ em¬ I,¬ II¬ e¬ III,¬ respectivamente,¬ são¬
+compatíveis¬com¬os¬ácidos¬
+¬
+(A)¬CH3COOH,¬HCl¬e¬HI.¬
+(B)¬HF,¬H3PO4¬e¬HBr.¬
+(C)¬HCN,¬HCl¬e¬CH3COOH.¬
+(D)¬HI,¬HNO2¬e¬HCN.¬
+(E)¬H2CO3,¬HF¬e¬H2SO4.¬
+##### 
+¬
+{57} 
+Uma¬reação¬química¬genérica¬é¬representada¬pela¬seguinte¬
+equação:¬
+¬
+A(g)¬+¬energia¬⇌¬2B(g)¬
+¬
+A¬partir¬dessa¬reação,¬dois¬gráficos¬foram¬construídos:¬
+-¬ Gráfico¬ 1:¬ apresenta¬ a¬ variação¬ das¬ concentrações¬ das¬
+espécies¬ao¬longo¬do¬tempo,¬mostrando¬o¬tempo¬em¬que¬o¬
+equilíbrio¬químico¬(t¬e¬)¬é¬atingido.¬¬
+-¬Gráfico¬2:¬corresponde¬ao¬diagrama¬de¬energia¬da¬reação,¬
+indicando¬a¬sua¬energia¬de¬ativação¬(E𝑎).¬
+Com¬ base¬ na¬ equação¬ química¬ apresentada¬ e¬ na¬
+interpretação¬correta¬dos¬dois¬gráficos,¬assinale¬a¬alternativa¬
+que¬os¬representa¬adequadamente.¬
+¬
+¬
+Gráfico¬1¬
+Gráfico¬2¬
+(A)¬
+¬
+¬
+¬
+(B)¬
+¬
+¬
+(C)¬
+¬
+¬
+¬
+(D)¬
+¬
+¬
+¬
+¬
+(E)¬
+¬
+¬
+¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 16 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+{58} 
+Em¬água,¬a¬ionização¬de¬um¬ácido¬(HA)¬libera¬para¬o¬meio¬sua¬
+base¬conjugada¬(A–),¬estabelecendo-se¬o¬seguinte¬equilíbrio:¬
+¬
+HA(aq)¬+¬H2O(l)¬⇌¬A–(aq)¬+¬H3O+(aq)¬
+¬
+A¬depender¬da¬natureza¬e¬das¬concentrações¬do¬ácido¬e¬da¬
+base¬presentes¬no¬meio,¬a¬solução¬formada¬é¬chamada¬de¬
+tampão,¬e¬sua¬capacidade¬tamponante¬é¬
+¬
+(A)¬afetada¬pelo¬pH¬do¬tampão,¬de¬modo¬que¬a¬faixa¬de¬ação¬
+ideal¬do¬tampão¬é¬quando¬pH¬>¬pKa¬±10.¬
+(B)¬influenciada¬pela¬concentração¬de¬HA¬e¬A–,¬sendo¬maior¬
+quando¬a¬concentração¬dessas¬espécies¬é¬mais¬alta.¬
+(C)¬maior¬frente¬à¬adição¬de¬ácidos¬do¬que¬de¬bases¬quando¬
+a¬concentração¬de¬HA¬é¬maior¬que¬de¬A–.¬
+(D)¬tanto¬ maior¬ quanto¬ mais¬ ácido¬ tiver¬ que¬ ser¬ adicionado¬
+para¬aumentar¬o¬pH¬do¬tampão¬em¬1¬unidade.¬
+(E)¬uma¬medida¬de¬quanto¬o¬tampão¬resiste¬a¬mudanças¬de¬
+pH¬quando¬ele¬sofre¬uma¬diluição¬1:100.¬
+##### 
+¬
+{59} 
+A¬insulina¬é¬um¬dos¬hormônios¬responsáveis¬pelo¬controle¬da¬
+glicemia¬no¬organismo.¬É¬uma¬biomolécula¬formada¬por¬duas¬
+cadeias¬ polipeptídicas¬ (A¬ e¬ B),¬ conforme¬ mostrado¬ na¬
+imagem:¬
+¬
+¬
+Também¬são¬apresentadas,¬a¬seguir,¬as¬fórmulas¬estruturais¬
+de¬quatro¬dos¬aminoácidos¬constituintes¬da¬insulina:¬
+¬
+¬
+¬
+¬
+Cisteína¬(Cys)¬
+Tirosina¬(Tyr)¬
+¬
+¬
+¬
+¬
+¬
+Alanina¬(Ala)¬
+Leucina¬(Leu)¬
+¬
+Com¬relação¬à¬estrutura¬e¬constituição¬da¬insulina,¬é¬correto¬
+afirmar:¬
+¬
+(A)¬A¬ insulina¬ é¬ um¬ polímero¬ natural,¬ cujos¬ monômeros¬
+constituintes¬ são¬ aminoácidos,¬ ligados¬ entre¬ si¬ por¬
+ligações¬éster.¬
+(B)¬As¬ ligações¬ dissulfeto,¬ representadas¬ por¬ S-S,¬ unem¬ os¬
+aminoácidos¬cisteína¬entre¬as¬duas¬cadeias¬e¬dentro¬de¬
+uma¬mesma¬cadeia.¬
+(C)¬Os¬grupos¬COOH¬e¬NH2,¬ao¬fim¬das¬cadeias,¬indicam¬que¬
+os¬ aminoácidos¬ estão¬ unidos¬ entre¬ si¬ por¬ ligações¬ de¬
+hidrogênio.¬
+(D)¬Cisteína,¬alanina¬e¬leucina¬são¬aminoácidos¬com¬cadeias¬
+laterais¬ polares¬ e¬ alifáticas,¬ enquanto¬ a¬ tirosina¬ possui¬
+cadeia¬lateral¬apolar¬e¬aromática.¬
+(E)¬Os¬ aminoácidos¬ têm¬ em¬ comum¬ as¬ funções¬ cetona¬ e¬
+amida,¬diferenciando-se¬entre¬si¬pela¬cadeia¬lateral,¬que¬
+pode¬ser¬polar¬ou¬apolar.¬
+##### 
+¬
+{60} 
+Os¬principais¬tipos¬de¬lipídeos¬são¬os¬óleos¬e¬as¬gorduras,¬
+sendo¬ que¬ sua¬ diferença¬ está¬ no¬ estado¬ físico¬ sob¬
+temperatura¬ambiente,¬pois¬óleos¬são¬líquidos¬e¬as¬gorduras¬
+são¬ sólidas.¬ Essa¬ diferença¬ está¬ relacionada¬ à¬ composição¬
+dos¬ácidos¬graxos¬presentes,¬que¬variam¬quanto¬ao¬número¬
+de¬carbonos¬e¬à¬presença¬ou¬não¬de¬insaturações¬em¬suas¬
+cadeias.¬
+As¬ fórmulas¬ estruturais¬ de¬ quatro¬ ácidos¬ graxos¬ são¬
+apresentadas¬ a¬ seguir,¬ acompanhadas¬ dos¬ respectivos¬
+pontos¬de¬fusão¬(PF).¬
+¬
+Ácido¬caproico¬-¬PF:¬−¬3ºC¬
+¬
+¬
+Ácido¬oleico¬-¬PF:¬13ºC¬
+¬
+¬
+Ácido¬láurico¬-¬PF:¬44ºC¬
+¬
+¬
+Ácido¬esteárico¬-¬PF:¬70ºC¬
+¬
+¬
+Considerando¬os¬dados¬apresentados,¬assinale¬a¬alternativa¬
+correta.¬
+¬
+(A)¬À¬medida¬que¬aumenta¬o¬número¬de¬átomos¬de¬carbono¬
+da¬cadeia¬carbônica¬dos¬ácidos¬graxos,¬aumenta¬também¬
+o¬ponto¬de¬fusão.¬
+(B)¬Ligações¬de¬hidrogênio¬são¬as¬principais¬forças¬de¬atração¬
+entre¬ essas¬ moléculas¬ e¬ aumentam¬ de¬ intensidade¬
+conforme¬aumenta¬a¬cadeia¬carbônica.¬
+(C)¬Para¬um¬mesmo¬tamanho¬de¬cadeia¬carbônica,¬a¬presença¬
+de¬ insaturação¬ reduz¬ o¬ ponto¬ de¬ fusão¬ por¬ limitar¬ a¬
+interação¬entre¬as¬moléculas.¬
+(D)¬Três¬ dos¬ ácidos¬ graxos¬ apresentados¬ têm¬ cadeias¬
+orgânicas¬saturadas¬e¬são¬líquidos¬à¬temperatura¬de¬25¬°C,¬
+sendo¬considerados¬óleos.¬
+(E)¬A¬interação¬entre¬as¬moléculas¬de¬ácidos¬graxos¬ocorre¬
+por¬ interações¬ dipolo¬ instantâneo-dipolo¬ induzido,¬ que¬
+atuam¬entre¬os¬grupos¬carboxilas.¬
+##### 
+¬
+
+
+--- PAGE 17 ---
+
+Concurso Edital RH nº 060/2025 – Técnico de Laboratório (especialidade: Química) 
+ 
+Questão dissertativa 
+Dentre¬as¬várias¬substâncias¬que¬podem¬estar¬presentes¬na¬composição¬de¬tinturas¬de¬cabelo,¬uma¬delas¬é¬o¬hidróxido¬de¬amônio,¬
+uma¬fonte¬de¬amônia¬para¬o¬produto.¬Devido¬aos¬riscos¬à¬saúde¬associados¬à¬exposição¬a¬esse¬composto,¬a¬Anvisa¬determina¬um¬
+teor¬máximo¬de¬amônia¬de¬6%¬(em¬massa)¬para¬esses¬cosméticos.¬
+Como¬técnico¬de¬laboratório,¬você¬recebeu¬uma¬amostra¬de¬tintura¬de¬cabelo¬para¬análise¬da¬concentração¬de¬amônia¬utilizando¬
+a¬técnica¬de¬volumetria.¬A¬amostra¬se¬caracteriza¬como¬um¬sólido¬amorfo¬solúvel¬em¬água.¬
+No¬ laboratório,¬ estão¬ disponíveis¬ todos¬ os¬ equipamentos¬ necessários¬ para¬ a¬ aplicação¬ dessa¬ técnica.¬ Os¬ produtos¬ químicos¬
+disponíveis¬para¬uso¬são:¬
+• 
+Água¬destilada;¬
+• 
+HCl¬concentrado¬(especificações:¬37%¬(em¬massa)¬e¬densidade¬=¬1,18¬g/mL);¬
+• 
+Carbonato¬de¬sódio¬(Na2CO3)¬P.A.;¬
+• 
+Indicadores¬ácido-base:¬violeta¬de¬metila,¬alaranjado¬de¬metila,¬púrpura¬de¬bromocresol,¬fenolftaleína,¬amarelo¬de¬alizarina.¬
+Nesse¬contexto,¬escreva¬o¬método¬de¬determinação¬do¬teor¬de¬amônia¬na¬tintura¬de¬cabelo.¬
+Em¬seu¬texto,¬você¬deve¬contemplar:¬
+• 
+Os¬procedimentos¬para¬preparação¬e¬padronização¬do¬HCl,¬visando¬à¬obtenção¬de¬500¬mL¬do¬ácido¬a¬uma¬concentração¬
+de¬0,1¬mol/L;¬
+• 
+A¬ seleção¬ do(s)¬ indicador(es)¬ utilizado(s),¬ dentre¬ os¬ disponíveis,¬ justificando¬ a(s)¬ escolha(s),¬ sem¬ a¬ necessidade¬ de¬
+apresentação¬de¬cálculos;¬
+• 
+As¬principais¬equações¬químicas¬envolvidas¬no¬processo¬de¬padronização¬e¬na¬titulação¬da¬amônia;¬
+• 
+Pelo¬menos¬seis¬cuidados¬importantes¬para¬garantir¬a¬confiabilidade¬do¬resultado;¬
+• 
+Uma¬estimativa¬da¬massa¬da¬amostra¬a¬ser¬utilizada¬na¬análise.¬
+Considere¬que¬a¬amônia¬indicada¬nas¬especificações¬da¬Anvisa¬é¬proveniente¬totalmente¬do¬hidróxido¬de¬amônio¬presente¬na¬
+composição¬do¬produto.¬
+¬
+Dados:¬
+Massas¬molares¬(g/mol):¬H¬=¬1;¬C¬=¬12;¬N¬=¬14;¬O¬=¬16;¬Na¬=¬23;¬Cl:¬35,5.¬
+Indicador¬
+Faixa¬de¬viragem¬
+Cor¬em¬meio¬ácido¬
+Cor¬em¬meio¬básico¬
+Violeta¬de¬metila¬
+0,0¬–¬1,6¬
+Amarelo¬
+Violeta¬
+Alaranjado¬de¬metila¬
+3,1¬–¬4,4¬
+Vermelho¬
+Amarelo¬
+Púrpura¬de¬bromocresol¬
+5,2¬–¬6,8¬
+Amarelo¬
+Púrpura¬
+Fenolftaleína¬
+8,0¬–¬9,6¬
+Incolor¬
+Rosa¬
+Amarelo¬de¬alizarina¬
+10,1¬–¬12,0¬
+Amarelo¬
+Vermelho¬
+CO32-¬:¬pKb1¬=¬3,67;¬pKb2¬=¬7,65¬
+NH3:¬pKb¬=¬4,75¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Instruções: 
+• As¬respostas¬deverão¬ser¬redigidas¬de¬acordo¬com¬a¬norma¬padrão¬da¬língua¬portuguesa.¬¬
+• Escreva¬com¬letra¬legível¬e¬não¬ultrapasse¬o¬espaço¬de¬linhas¬disponíveis¬da¬folha¬de¬respostas.¬¬
+• Receberão¬nota¬zero¬textos¬que¬desrespeitarem¬os¬direitos¬humanos¬e¬textos¬que¬permitirem,¬por¬qualquer¬modo,¬a¬identificação¬do(a)¬candidato(a).¬
+
+
+--- PAGE 18 ---
+
+ 
+
+
+--- PAGE 19 ---
+
+ 
+
+
+--- PAGE 20 ---
+
+v2
+
+
+--- PAGE 21 ---
+
+ 
+ 
+ 
+Concurso DRH USP Outubro 2025 
+Publicado em 13/10/2025. 
+Universidade de São Paulo
+Técnico de Laboratório (especialidade: Química) – Edital RH Nº 060/2025 
+PROVA TLQ  
+01 
+C 
+ 
+31 
+B 
+02 
+B 
+ 
+32 
+D 
+03 
+E 
+ 
+33 
+C 
+04 
+B 
+ 
+34 
+E 
+05 
+D 
+ 
+35 
+A 
+06 
+B 
+ 
+36 
+E 
+07 
+D 
+ 
+37 
+B 
+08 
+E 
+ 
+38 
+A 
+09 
+A 
+ 
+39 
+C 
+10 
+B 
+ 
+40 
+C 
+11 
+B 
+ 
+41 
+B 
+12 
+A 
+ 
+42 
+E 
+13 
+C 
+ 
+43 
+D 
+14 
+C 
+ 
+44 
+C 
+15 
+A 
+ 
+45 
+B 
+16 
+A 
+ 
+46 
+A 
+17 
+D 
+ 
+47 
+E 
+18 
+B 
+ 
+48 
+D 
+19 
+C 
+ 
+49 
+D 
+20 
+A 
+ 
+50 
+E 
+21 
+D 
+ 
+51 
+B 
+22 
+B 
+ 
+52 
+A 
+23 
+A 
+ 
+53 
+C 
+24 
+E 
+ 
+54 
+A 
+25 
+D 
+ 
+55 
+E 
+26 
+C 
+ 
+56 
+D 
+27 
+E 
+ 
+57 
+B 
+28 
+B 
+ 
+58 
+B 
+29 
+A 
+ 
+59 
+B 
+30 
+B 
+ 
+60 
+C 
+ 
+ 
+ 
+
+
+--- PAGE 22 ---
+
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 060/2025   
+ 
+Técnico de Laboratório (especialidade: 
+Química) 
+ 
+ 
+ 
+ 
+QUESTÃO DISSERTATIVA 
+ 
+RESPOSTA ESPERADA 
+ 
+Para a preparação da solução de HCl 0,1 mol/L, é preciso considerar a massa molar do HCl, a pureza e a densidade 
+do ácido concentrado. Em 500 mL da solução desejada, deve haver 0,05 mol de HCl, o que corresponde a 1,825 g de 
+HCl puro (36,5 g x 0,05 mol / 1 mol). Essa massa corresponde a 4,93 g de solução concentrada (1,825 g x 100% / 37%) 
+ou 4,18 mL, em volume (1 mL x 4,93 g / 1,18 g). No preparo, adiciona-se cerca de 400 mL de água destilada em um 
+balão volumétrico de 500mL e, na sequência, acrescenta-se o volume de 4,2 mL de ácido concentrado previamente 
+aferido com uma pipeta graduada. A solução deve ser homogeneizada, completando-se o balão com água até o 
+menisco, com cuidado para fazer a leitura correta da medida. 
+Para padronizar a solução obtida, utiliza-se Na2CO3 como padrão primário. Para tanto, em uma balança analítica, pesa-
+se cerca de 0,2 g de Na2CO3 (previamente seco em estufa e esfriado em dessecador) diretamente em um erlenmeyer, 
+anotando-se a massa exata aferida. Dissolve essa massa de carbonato de sódio em água destilada para titulação com 
+HCl. A reação que ocorre na titulação é expressa pela equação: 
+2H+(aq) + CO32–(aq) ⇌ H2CO3(aq) 
+A proporção estequiométrica é de 2 mols de H+ para 1 mol de CO32-. São dois pontos de equivalência, sendo o primeiro 
+deles em torno de 8, e o segundo em torno de 4, dados os valores de pKb do carbonato. O ponto final da titulação 
+ocorre em pH próximo de 4, razão pela qual se escolhe o alaranjado de metila como indicador, pois a sua faixa de 
+viragem cobre o pH 4. Este deve ser adicionado em pequena quantidade, 2 ou 3 gotas, à solução de Na2CO3, antes de 
+iniciar a titulação, para servir de indicador do ponto final, mas sem comprometer a análise. A fenolftaleína pode ser 
+utilizada para a observação do primeiro ponto, mas é preciso adicionar o alaranjado de metila depois para observação 
+do segundo ponto. 
+Antes de iniciar a titulação, lava-se a bureta, previamente calibrada, com um pequeno volume do ácido. Deve-se 
+proceder a titulação com a adição do HCl e concomitante agitação da solução de Na2CO3. Quando o indicador mudar 
+de cor, de amarelo para vermelho, deve-se marcar o volume de HCl gasto na titulação, com atenção ao menisco. A 
+massa de 0,2 g de Na2CO3 corresponderá a 0,0019 mol de Na2CO3 (a quantidade exata dependerá da massa exata 
+aferida), consumindo 0,0038 mol de HCl (ou 38 mL, em volume). A titulação deve ser feita em triplicata, para mais 
+precisão da análise, obtendo-se o valor médio de HCl gasto. Com esse valor, pode-se determinar a concentração do 
+HCl. Para aumentar a confiabilidade da análise, também se pode titular uma amostra de água destilada, como branco 
+da análise. 
+Padronizada a solução de HCl, segue-se com a determinação de NH3 da amostra por meio da titulação desta com HCl. 
+A reação que ocorre é expressa pela equação: 
+NH3(aq) + H+(aq) ⇌ NH4+(aq) 
+O ponto de equivalência dessa titulação fica em torno de 4, dado o valor de pKb do NH3, o que justifica o uso do 
+alaranjado de metila como indicador também nessa reação. Cuidados como lavagem da bureta com HCl, quantidade 
+de indicador utilizado, titulação em triplicata, titulação do branco, atenção ao menisco e ao ponto de viragem devem ser 
+repetidos. 
+A amostra, que deve ser dissolvida em água destilada para análise, deve ser pesada em balança analítica para posterior 
+preparação da solução a ser titulada. Com base no teor máximo de NH3 permitido pela Anvisa, é plausível admitir que 
+a amostra tenha até 6% de NH3 em massa. Assim, para 1 g de amostra, haveria 0,06 g de NH3 ou 0,0035 mol de NH3 
+(0,06 g x 1 mol / 17 g) para reagir em uma titulação. Essa quantidade reagiria com 0,0035 mol de HCl, já que a proporção 
+estequiométrica é de 1 mol de H+ para 1 mol de NH3. Essa quantidade de HCl corresponde, para a concentração de 
+0,1 mol/L, a um volume de 35 mL, que está dentro da capacidade de uma bureta de 50 mL. 
+ 
+ 
+ 
+
+
+--- PAGE 23 ---
+
+ 
+ 
+CRITÉRIOS DE CORREÇÃO 
+ 
+Critério 1 - Procedimentos para preparação e padronização do HCl (até 3,0 pontos). 
+3,0 pontos 
+Descrição correta, ou com erros mínimos, dos procedimentos para preparação e padronização do HCl, 
+incluindo cálculos. 
+2,0 pontos 
+Descrição com muitos erros dos procedimentos para preparação ou para padronização do HCl, 
+incluindo cálculos. 
+1,0 ponto 
+Descrição com muitos erros dos procedimentos para preparação e para padronização do HCl, 
+incluindo cálculos. 
+0,0 ponto 
+Não atendimento à solicitação. 
+ 
+Critério 2 – Equações das reações principais que ocorrem ao longo da análise (até 1,0 ponto). 
+1,0 ponto 
+Apresentação correta, ou com erros mínimos, das equações das duas reações principais. 
+0,5 ponto 
+Apresentação das equações com muitos erros e/ou apresentação de apenas uma delas. 
+0,0 ponto 
+Não atendimento à solicitação. 
+ 
+Critério 3 - Seleção do(s) indicador(es) utilizado(s), justificando a(s) escolha(s) (até 1,0 ponto). 
+1,0 ponto 
+Seleção adequada do indicador e justificativa coerente. 
+0,5 ponto 
+Erros na seleção do indicador e/ou na justificativa. 
+0,0 ponto 
+Não atendimento à solicitação. 
+ 
+Critério 4 - Estimativa da quantidade de amostra a ser utilizada (até 2,0 pontos). 
+2,0 pontos 
+Estimativa baseada em cálculos e informações fornecidas, sem erros ou com erros mínimos. 
+1,0 ponto 
+Estimativa baseada em cálculos e informações fornecidas, contendo vários erros. 
+0,5 ponto 
+Estimativa não baseada em cálculos e informações fornecidas, mas com alguma justificativa plausível. 
+0,0 ponto 
+Não atendimento à solicitação. 
+ 
+Critério 5 - Cuidados que devem ser tomados para aumentar a confiabilidade da análise (até 1,0 ponto).  
+1,0 ponto 
+Menção a 4, 5 ou 6 cuidados. 
+0,5 ponto 
+Menção a 1, 2 ou 3 cuidados. 
+0,0 ponto 
+Não atendimento à solicitação. 
+ 
+Critério 6 - Redação do texto, com atenção à adequação da língua e da comunicação científica (até 2,0 pontos). 
+2,0 pontos 
+Domínio adequado da língua portuguesa e da comunicação científica. 
+1,0 ponto 
+Domínio razoável da língua portuguesa e/ou da comunicação científica. 
+0,5 ponto 
+Conhecimento precário da língua portuguesa e/ou da comunicação científica. 
+ 
+ 

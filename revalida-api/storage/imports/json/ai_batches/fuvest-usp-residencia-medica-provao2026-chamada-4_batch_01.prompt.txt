@@ -1,0 +1,533 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/provao2026-chamada-4.pdf"
+  }
+]
+
+TEXTO-BASE:
+
+
+--- PAGE 1 ---
+
+Provão Paulista Seriado 2025/2026
+Lista de Espera: Chamados para a primeira matrícula
+1
+479.315
+1/288
+Abner Daniel dos Santos Figueiredo
+39041/100 Educação Física (Bacharelado/Licenciatura) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+501.689
+2/288
+Adriele Lins de Araujo
+8051/104 Letras (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+433.152
+3/288
+Agata Isabely Souza Ferreira
+86350/104 Gestão de Políticas Públicas (Bacharelado) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+549.121
+4/288
+Agatha Honorio Vitor
+88152/0 Engenharia Bioquímica (Bacharelado) - Integral
+Escola de Engenharia de Lorena
+426.779
+5/288
+Alex Jun Teruya
+3073/3000 Engenharia Naval e Oceânica (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+113.889
+6/288
+Alice Beatriz Cabral Mendes
+11080/4 Gestão Ambiental (Bacharelado) - Noturno
+Escola Superior de Agricultura ""Luiz de Queiroz""
+595.170
+7/288
+Alice Silva Okoshi
+5065/0 Fonoaudiologia (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+546.769
+8/288
+Alicia Magalhaes Leandro
+3152/3000 Engenharia Ambiental (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+547.424
+9/288
+Alvaro Ramos Martinez
+55090/0 Ciência de Dados (Bacharelado) - Integral
+Instituto de Ciências Matemáticas e de Computação
+478.781
+10/288
+Amanda Lalier da Silva
+8031/103 História (Bacharelado/Licenciatura) - Vespertino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+402.642
+11/288
+Amanda Rodrigues Mistrelli
+12052/0 Ciências Econômicas (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+515.593
+12/288
+Amanda Vitoria Lima Salerno Ramos
+6012/2 Nutrição (Bacharelado) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+481.476
+13/288
+Ana Beatriz Basso de Souza
+3251/0 Engenharia - Ciclo Básico de Minas/Petróleo (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+551.539
+14/288
+Ana Beatriz Pereira Cavalcante
+8051/102 Letras (Bacharelado/Licenciatura) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+549.700
+15/288
+Ana Carolina Caldas de Almeida
+88052/0 Engenharia Química (Bacharelado) - Integral
+Escola de Engenharia de Lorena
+492.532
+16/288
+Ana Carolina de Amorim Passos
+8051/102 Letras (Bacharelado/Licenciatura) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+541.868
+17/288
+Ana Carolina Goncalves da Cruz
+8021/104 Geografia (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+547.959
+18/288
+Ana Carolina Lira de Pontes
+3152/3000 Engenharia Ambiental (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+
+
+--- PAGE 2 ---
+
+Provão Paulista Seriado 2025/2026
+Lista de Espera: Chamados para a primeira matrícula
+2
+454.981
+19/288
+Ana Caroline Pires Turini
+75014/100 Química (Bacharelado) - Integral
+Instituto de Física de São Carlos
+486.875
+20/288
+Ana Clara Alves da Silva
+8010/104 Filosofia (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+554.476
+21/288
+Ana Clara de Melo Silva
+39041/100 Educação Física (Bacharelado/Licenciatura) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+548.930
+22/288
+Ana Clara Oliveira
+8051/104 Letras (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+572.396
+23/288
+Ana Clara Pereira Miranda Henriques
+8010/104 Filosofia (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+540.299
+24/288
+Ana Clara Silva da Mota
+8051/102 Letras (Bacharelado/Licenciatura) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+409.424
+25/288
+Ana Clara Soares Abrantes
+7012/0 Enfermagem (Bacharelado/Licenciatura) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+570.313
+26/288
+Ana Julia de Oliveira Abreu
+86450/102 Marketing (Bacharelado) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+545.570
+27/288
+Ana Julia Oliveira Garcia Meireles
+86100/104 Gestão Ambiental (Bacharelado) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+544.771
+28/288
+Ana Julia Ribeiro Machado
+75014/100 Química (Bacharelado) - Integral
+Instituto de Física de São Carlos
+458.108
+29/288
+Ana Julia Simoes Brisola
+88352/4 Engenharia de Produção (Bacharelado) - Noturno
+Escola de Engenharia de Lorena
+499.259
+30/288
+Ana Julia Vieira
+74100/4 Engenharia de Alimentos (Bacharelado) - Noturno
+Faculdade de Zootecnia e Engenharia de Alimentos
+574.730
+31/288
+Ana Lee Climaco de Freitas
+18030/0 Engenharia Ambiental (Bacharelado) - Integral
+Escola de Engenharia de São Carlos
+565.606
+32/288
+Ana Luiza Barbosa da Silva
+59061/4 Biblioteconomia e Ciência da Informação (Bacharelado) - Noturno
+Ribeirão Preto
+451.446
+33/288
+Ana Luiza Loureiro Julio
+8051/102 Letras (Bacharelado/Licenciatura) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+500.987
+34/288
+Andre Radomile Luporini
+18063/0 Engenharia Mecânica (Bacharelado) - Integral
+Escola de Engenharia de São Carlos
+510.312
+35/288
+Angelo Bronze Aguiar
+43031/0 Física (Licenciatura) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+547.867
+36/288
+Angelo Heitor Basso
+11010/0 Engenharia Agronômica (Bacharelado) - Integral
+Escola Superior de Agricultura ""Luiz de Queiroz""
+
+
+--- PAGE 3 ---
+
+Provão Paulista Seriado 2025/2026
+Lista de Espera: Chamados para a primeira matrícula
+3
+499.633
+37/288
+Aquiles Speciale Matos Carvalho Soares
+12052/0 Ciências Econômicas (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+488.609
+38/288
+Arthur de Godoy Arruda
+46300/104 Química (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+499.281
+39/288
+Beatriz Azevedo dos Santos
+99002/0 Arquitetura e Urbanismo (Bacharelado) - Integral
+Instituto de Arquitetura e Urbanismo de São Carlos
+448.137
+40/288
+Beatriz Gomes Bonini
+18050/0 Engenharia Elétrica - Ênfase em Sistemas de Energia e Automação (Bacharelado) - Integral
+Escola de Engenharia de São Carlos
+548.028
+41/288
+Beatriz Gomes Marques
+12012/0 Administração (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+506.341
+42/288
+Bianca Neves Galdino
+8040/103 Ciências Sociais (Bacharelado/Licenciatura) - Vespertino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+493.723
+43/288
+Bianka Maria Ribao Rodrigues
+59061/4 Biblioteconomia e Ciência da Informação (Bacharelado) - Noturno
+Ribeirão Preto
+450.926
+44/288
+Brenda Vitoria Soares Moreira
+14022/0 Geofísica (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+436.278
+45/288
+Bruna Machado Cordoba
+59052/4 Pedagogia (Licenciatura) - Noturno
+Ribeirão Preto
+542.747
+46/288
+Bruna Oliveira dos Santos Gomes da Silva
+2014/102 Direito (Bacharelado) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+562.861
+47/288
+Caico Rodrigues Correa
+17061/0 Informática Biomédica (Bacharelado) - Integral
+Ribeirão Preto
+510.358
+48/288
+Camille Vitoria Silva Costa
+48015/104 Pedagogia (Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+163.771
+49/288
+Carolayne dos Santos Nunes
+22100/4 Enfermagem (Bacharelado e Licenciatura) - Noturno
+Escola de Enfermagem de Ribeirão Preto
+481.054
+50/288
+Caroline Ferreira da Silva
+3251/0 Engenharia - Ciclo Básico de Minas/Petróleo (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+077.389
+51/288
+Caroline Santos Moraes
+8040/104 Ciências Sociais (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+468.993
+52/288
+Cayo Aparecido Porpino Donato
+86150/103 Lazer e Turismo (Bacharelado) - Vespertino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+434.347
+53/288
+Clara Dolhnikoff
+8021/103 Geografia (Bacharelado/Licenciatura) - Vespertino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+582.072
+54/288
+Clara Evelyn Silva Gaudiozo
+18030/0 Engenharia Ambiental (Bacharelado) - Integral
+Escola de Engenharia de São Carlos
+
+
+--- PAGE 4 ---
+
+Provão Paulista Seriado 2025/2026
+Lista de Espera: Chamados para a primeira matrícula
+4
+567.857
+55/288
+Clarice Beatriz Oliveira da Silva
+48015/104 Pedagogia (Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+492.845
+56/288
+Claudia Ferreira Sena
+14031/0 Astronomia (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+486.624
+57/288
+Daniel Batista Marques
+8010/104 Filosofia (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+586.777
+58/288
+Daniel Porto da Silva
+14031/0 Astronomia (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+492.317
+59/288
+Davi Bertolini Vitorino Lopes
+81302/4 Finanças e Negócios (Bacharelado) - Noturno
+Ribeirão Preto
+549.162
+60/288
+Davi dos Santos Ramos
+86150/104 Lazer e Turismo (Bacharelado) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+070.998
+61/288
+Diego Farias Fernandes
+88052/4 Engenharia Química (Bacharelado) - Noturno
+Escola de Engenharia de Lorena
+546.512
+62/288
+Edson da Silva Fernandes
+8051/104 Letras (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+457.317
+63/288
+Eduarda dos Santos Ferreira Valetim
+8040/104 Ciências Sociais (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+490.748
+64/288
+Eduardo Rizzo Costa
+98002/0 Educação Física (Bacharelado) - Integral
+Escola de Educação Física e Esporte de Ribeirão Preto
+556.733
+65/288
+Emily Roberto de Oliveira
+45024/2 Matemática (Licenciatura) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+414.409
+66/288
+Emmanuel Marques de Paula
+81102/2 Ciências Econômicas (Bacharelado) - Matutino
+Ribeirão Preto
+490.542
+67/288
+Enzo Zanon
+3033/0 Engenharia Elétrica (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+607.081
+68/288
+Evellyn Rafaelly Goncalves de Moraes Oliveira da Silva
+22100/4 Enfermagem (Bacharelado e Licenciatura) - Noturno
+Escola de Enfermagem de Ribeirão Preto
+543.112
+69/288
+Evelyn Cristina Gomes de Oliveira
+9013/104 Farmácia (Bacharelado) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+069.046
+70/288
+Felipe Cavalcante do Rego
+43031/4 Física (Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+480.655
+71/288
+Felipe Pereira Felix
+86350/104 Gestão de Políticas Públicas (Bacharelado) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+
+
+--- PAGE 5 ---
+
+Provão Paulista Seriado 2025/2026
+Lista de Espera: Chamados para a primeira matrícula
+5
+564.193
+72/288
+Fernanda Resende
+59052/4 Pedagogia (Licenciatura) - Noturno
+Ribeirão Preto
+535.058
+73/288
+Filipe Vilela Soares Penna
+11010/0 Engenharia Agronômica (Bacharelado) - Integral
+Escola Superior de Agricultura ""Luiz de Queiroz""
+576.289
+74/288
+Francisco de Souza Holdschip
+3084/3000 Engenharia de Produção (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+549.738
+75/288
+Francisco Jose Tomaz Lourenco
+89003/0 Direito (Bacharelado) - Integral
+Faculdade de Direito de Ribeirão Preto
+546.841
+76/288
+Gabriel Alves Faria
+86450/104 Marketing (Bacharelado) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+500.713
+77/288
+Gabriel Andrade Lima
+55090/0 Ciência de Dados (Bacharelado) - Integral
+Instituto de Ciências Matemáticas e de Computação
+550.981
+78/288
+Gabriel Assis de Lima
+86200/102 Sistemas de Informação (Bacharelado) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+532.488
+79/288
+Gabriel Augusto Pereira Maia
+55041/0 Ciências de Computação (Bacharelado) - Integral
+Instituto de Ciências Matemáticas e de Computação
+477.534
+80/288
+Gabriel Henrique Heleno
+25013/0 Odontologia (Bacharelado) - Integral
+Faculdade de Odontologia de Bauru
+557.684
+81/288
+Gabriel Nascimento Costa
+8051/104 Letras (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+555.922
+82/288
+Gabriela Andrade Trape
+271

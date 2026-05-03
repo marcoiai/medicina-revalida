@@ -1,0 +1,2086 @@
+
+
+--- PAGE 1 ---
+
+ 
+EGE 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 008/2025   
+ 
+Engenheiro (Eletricista: Sistemas 
+Elétricos) 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique¬se¬o¬seu¬nome¬está¬correto¬na¬capa¬deste¬caderno¬e¬se¬a¬folha¬de¬respostas¬pertence¬ao¬grupo EGE.¬
+Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+3. Durante¬a¬prova,¬são¬vedadas¬a¬comunicação¬entre¬candidatos¬e¬a¬utilização¬de¬qualquer¬material¬de¬consulta¬e¬
+de¬aparelhos¬de¬telecomunicação.¬
+4. Duração¬da¬prova:¬4¬horas.¬Cabe¬ao¬candidato¬controlar¬o¬tempo¬com¬base¬nas¬informações¬fornecidas¬pelo¬
+fiscal.¬O(A)¬candidato(a)¬poderá¬retirar-se¬da¬sala¬definitivamente¬apenas¬a¬partir¬das¬15¬h.¬Não¬haverá¬tempo¬
+adicional¬para¬preenchimento¬da¬folha¬de¬respostas.¬¬
+5. O(A)¬ candidato(a)¬ deverá¬ seguir¬ as¬ orientações¬ estabelecidas¬ pela¬ FUVEST¬ a¬ respeito¬ dos¬ procedimentos¬
+adotados¬para¬a¬aplicação¬deste¬concurso.¬
+6. Lembre-se¬de¬que¬a¬FUVEST¬se¬reserva¬ao¬direito¬de¬efetuar¬procedimentos¬adicionais¬de¬identificação¬e¬controle¬
+do¬ processo,¬ visando¬ a¬ garantir¬ a¬ plena¬ integridade¬ do¬ exame.¬ Assim,¬ durante¬ a¬ realização¬ da¬ prova,¬ será¬
+coletada¬por¬um¬fiscal¬uma¬foto¬do(a)¬candidato(a)¬para¬fins¬de¬reconhecimento¬facial,¬para¬uso¬exclusivo¬da¬USP¬
+e¬da¬FUVEST.¬A¬imagem¬não¬será¬divulgada¬nem¬utilizada¬para¬quaisquer¬outras¬finalidades,¬nos¬termos¬da¬lei.¬
+7. Após¬a¬autorização¬do¬fiscal¬da¬sala,¬verifique¬se¬o¬caderno¬está¬completo.¬Ele¬deve¬conter¬60¬questões¬objetivas,¬
+com¬5¬alternativas¬cada,¬e¬1¬questão¬dissertativa.¬Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+8. Preencha¬a¬folha¬de¬respostas¬com¬cuidado,¬utilizando¬caneta¬esferográfica¬de¬tinta azul ou preta.¬Essa¬folha¬
+não será substituída¬em¬caso¬de¬rasura.¬
+9. Ao¬final¬da¬prova,¬é¬obrigatória¬a¬devolução¬da¬folha¬de¬respostas¬acompanhada¬deste¬caderno¬de¬questões.¬
+Declaração 
+Declaro¬que¬li¬e¬estou¬ciente¬das¬informações¬que¬constam¬na¬capa¬desta¬prova,¬na¬folha¬de¬respostas,¬bem¬
+como¬dos¬avisos¬que¬foram¬transmitidos¬pelo¬fiscal¬de¬sala.¬
+¬
+___________________________________________________¬
+ASSINATURA¬
+O(a)¬candidato(a)¬que¬não¬assinar¬a¬capa¬da¬prova¬será¬considerado(a)¬ausente¬da¬prova.¬
+ 
+ 
+
+
+--- PAGE 2 ---
+
+  Concurso Edital RH nº 008/2025 – Engenheiro (Área Eletricista; especialidade: Sistemas Elétricos) 
+Texto para as questões 01 e 02 
+¬
+Em¬silêncio¬¬
+¬
+¬
+Precisava¬de¬silêncio¬para¬pensar,¬ordenar¬sua¬vida¬
+e¬rumos.¬Juntou¬poucas¬coisas,¬navegou¬até¬uma¬ilha¬deserta.¬
+Mas¬a¬gritaria¬das¬aves¬marinhas¬fundia-se¬com¬o¬farfalhar¬do¬
+vento¬ nas¬ palmeiras,¬ e¬ quando¬ ambos¬ se¬ calavam,¬ batiam¬
+inevitáveis¬ as¬ ondas¬ contra¬ as¬ pedras.¬ Silêncio¬ não¬ havia.¬
+Tomou¬suas¬coisas,¬voltou¬ao¬continente,¬recolheu-se¬numa¬
+gruta¬ em¬ montanha¬ distante.¬ Embora¬ isolado,¬ logo¬ se¬ viu¬
+rodeado¬de¬ruídos,¬pequenos¬alguns,¬minúsculos¬outros,¬que¬
+o¬aparente¬silêncio¬circundante¬agigantava.¬Era¬o¬gotejar¬do¬
+excesso¬de¬umidade,¬o¬esvoejar¬dos¬morcegos¬ao¬anoitecer,¬
+o¬zumbir¬de¬um¬ou¬outro¬inseto,¬um¬gorjear¬lá¬fora,¬um¬escavar¬
+cá¬ dentro,¬ um¬ rastejar,¬ e¬ o¬ ronco¬ majestoso¬ dos¬ trovões,¬ o¬
+estalar¬dos¬relâmpagos.¬Novamente¬arrebanhou¬seus¬poucos¬
+pertences.¬ E¬ desceu¬ a¬ montanha,¬ regressou¬ à¬ cidade.¬ As¬
+chaves¬da¬sua¬casa¬tilintavam¬no¬bolso,¬não¬atendeu¬ao¬apelo.¬
+Tomou¬ônibus¬e¬metrô,¬caminhou¬até¬a¬praça¬mais¬central.¬Ali,¬
+onde¬tantos¬passavam¬e¬as¬buzinas¬dos¬carros¬e¬os¬apitos¬dos¬
+guardas¬e¬o¬gritar¬dos¬ambulantes¬e¬o¬chamado¬das¬sirenes¬
+se¬entrecruzavam,¬sentou-se.¬Assim¬como¬havia¬ignorado¬as¬
+chaves,¬ ignorou¬ os¬ sons¬ todos¬ que¬ lhe¬ atingiam¬ a¬ cabeça,¬
+esqueceu¬os¬ouvidos.¬E,¬vagarosamente,¬começou¬a¬descida¬
+em¬seu¬silêncio¬interior.¬
+¬
+Marina¬Colasanti.¬Hora¬de¬alimentar¬serpentes.¬Global,¬2013¬
+¬
+{01} 
+No¬conto,¬a¬busca¬do¬protagonista¬está¬relacionada¬à¬tentativa¬
+de¬
+¬
+(A)¬demonstrar¬ que¬ o¬ silêncio¬ perfeito¬ é¬ uma¬ construção¬
+imaginária¬e¬artificial.¬
+(B)¬isolar-se¬ do¬ mundo¬ externo¬ para¬ criar¬ uma¬ realidade¬
+paralela¬e¬inexorável.¬
+(C)¬ comprovar¬ que¬ a¬ natureza¬ é¬ menos¬ ruidosa¬ do¬ que¬ o¬
+ambiente¬urbano.¬
+(D)¬encontrar¬ uma¬ quietude¬ absoluta¬ que,¬ paradoxalmente,¬
+revela-se¬inalcançável.¬
+(E)¬estabelecer¬um¬contraponto¬entre¬a¬vida¬solitária¬e¬a¬vida¬
+social¬da¬cidade.¬
+##### 
+¬
+{02} 
+O¬sufixo¬“-ejar”,¬presente¬em¬“esvoejar”,¬desempenha¬papel¬
+semântico¬específico¬na¬construção¬do¬verbo,¬conferindo-lhe¬
+a¬ideia¬de:¬
+¬
+(A)¬Estado¬contínuo¬e¬permanente.¬
+(B)¬Movimento¬leve¬e¬intermitente.¬
+(C)¬Intensificação¬de¬uma¬ação.¬
+(D)¬Formação¬de¬substantivos¬abstratos.¬
+(E)¬Relação¬de¬causa¬e¬consequência.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+ 
+Texto para as questões 03 e 04 
+¬
+Mal¬o¬CEO¬da¬Meta,¬Mark¬Zuckerberg,¬anunciou¬as¬mudanças¬
+nas¬ políticas¬ de¬ moderação¬ de¬ suas¬ plataformas,¬ muitos¬
+educadores,¬ comunicadores¬ e¬ jornalistas¬ presentes¬ nos¬
+diferentes¬ grupos¬ dos¬ quais¬ faço¬ parte¬ começaram¬ a¬
+questionar¬a¬eficácia¬da¬Educação¬Midiática.¬O¬que¬podemos¬
+diante¬de¬um¬Musk¬e¬um¬Zuckerberg?¬De¬que¬adianta¬educar¬
+para¬ a¬ checagem¬ de¬ notícias¬ se¬ agora¬ “abriram-se¬ as¬
+porteiras”¬e¬nenhum¬de¬nós¬vai¬dar¬conta¬de¬distinguir¬o¬que¬é¬
+verdadeiro¬ ou¬ falso,¬ de¬ remover¬ conteúdos¬ agressivos,¬
+preconceituosos,¬ de¬ construir¬ referenciais¬ seguros¬ para¬
+obtermos¬informações¬íntegras¬e¬confiáveis?¬É¬enxugar¬gelo,¬
+nadar¬contra¬a¬corrente,¬melhor¬a¬gente¬se¬preparar¬para¬viver¬
+no¬caos,¬diziam¬alguns,¬já¬ameaçando¬sair¬de¬vez¬das¬redes,¬
+boicotar¬ a¬ Meta,¬ banir¬ o¬ digital¬ de¬ vez¬ do¬ seu¬ cotidiano.¬
+Entendo¬a¬Educação¬Midiática¬como¬um¬importante¬e¬potente¬
+elemento¬ para¬ que¬ possamos¬ lidar¬ com¬ todos¬ os¬ desafios¬
+presentes¬no¬mundo¬digital¬–¬e¬de¬resto,¬no¬mundo¬real,¬que¬o¬
+reflete.¬Ela¬é¬uma¬alternativa¬viável¬e¬segura¬que¬todos¬nós,¬
+que¬ desejamos¬ continuar¬ a¬ viver¬ civilizadamente¬ em¬
+sociedade,¬podemos¬tomar¬em¬nossas¬mãos.¬Se¬as¬chamadas¬
+big¬techs¬nos¬abandonam¬à¬própria¬sorte,¬cabe¬a¬cada¬um¬de¬
+nós¬entender¬qual¬é¬o¬nosso¬papel¬nesse¬ecossistema.¬¬
+¬
+Adaptado¬de:¬Januária¬Cristina¬Alves.¬“Novas¬diretrizes¬da¬Meta:¬será¬o¬
+fim¬da¬Educação¬Midiática?¬”¬Nexo¬Jornal.¬16¬de¬janeiro¬de¬2025.¬
+¬
+{03} 
+No¬trecho¬“Mal¬o¬CEO¬da¬Meta,¬Mark¬Zuckerberg,¬anunciou¬as¬
+mudanças¬nas¬políticas¬de¬moderação¬de¬suas¬plataformas”,¬
+o¬termo¬“Mal”¬estabelece¬uma¬relação¬de¬
+¬
+(A)¬comparação,¬
+equiparando¬
+dois¬
+acontecimentos¬
+simultâneos.¬¬
+(B)¬condição,¬introduzindo¬uma¬possibilidade¬de¬mudança.¬
+(C)¬consequência,¬ indicando¬ um¬ efeito¬ direto¬ da¬ ação¬
+posterior.¬
+(D)¬oposição,¬contrastando¬ideias¬consideradas¬divergentes.¬
+(E)¬tempo,¬indicando¬uma¬ação¬ocorrida¬imediatamente¬após¬
+outra.¬
+##### 
+¬
+{04} 
+No¬período¬em¬que¬se¬encontra,¬a¬sequência¬textual¬“melhor¬
+a¬gente¬se¬preparar”¬apresenta-se¬gramaticalmente¬como¬
+¬
+(A)¬uma¬inversão¬sintática,¬típica¬da¬linguagem¬formal.¬
+(B)¬ um¬ erro¬ gramatical,¬ com¬ a¬ falta¬ do¬ verbo¬ principal¬ na¬
+oração.¬
+(C)¬uma¬ construção¬ elíptica,¬ simplificando¬ o¬ segmento¬
+sintático.¬
+(D)¬um¬ exemplo¬ de¬ hipérbole,¬ intensificando¬ a¬ situação¬
+descrita.¬
+(E)¬uma¬ construção¬ arcaica,¬ comum¬ em¬ textos¬ literários¬
+antigos.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 3 ---
+
+  Concurso Edital RH nº 008/2025 – Engenheiro (Área Eletricista; especialidade: Sistemas Elétricos) 
+Texto para as questões de 05 a 08 
+Rain¬Is¬Coming¬to¬Burning¬Los¬Angeles¬and¬Will¬Bring¬Its¬Own¬Risks¬
+Rain¬ is¬ forecast¬ to¬ begin¬ as¬ soon¬ as¬ Saturday¬
+afternoon¬ and¬ to¬ continue¬ as¬ late¬ as¬ Monday¬ evening,¬ says¬
+meteorologist¬Kristan¬Lund¬of¬the¬National¬Weather¬Service’s¬
+Los¬ Angeles¬ office.¬ The¬ area¬ desperately¬ needs¬ the¬
+precipitation,¬ but¬ experts¬ are¬ warily¬ monitoring¬ the¬ situation¬
+because¬rain¬poses¬its¬own¬risks¬in¬recently¬burned¬areas—
+most¬notably¬the¬potential¬occurrence¬of¬mudslides¬and¬similar¬
+hazards.¬ “Rain¬ is¬ good¬ because¬ we’ve¬ been¬ so¬ dry,”¬ Lund¬
+says.¬ “However,¬ if¬ we¬ get¬ heavier¬ rain¬ rates¬ or¬ we¬ get¬ the¬
+thunderstorms,¬it’s¬actually¬a¬lot¬more¬dangerous¬because¬you¬
+can¬get¬debris¬flows.”¬
+Fires¬do¬a¬couple¬of¬different¬things¬to¬the¬landscape¬
+that¬can¬increase¬the¬risk¬of¬burned¬material,¬soil¬and¬detritus¬
+hurtling¬out¬of¬control.¬When¬fires¬burn¬hot¬or¬long¬enough,¬they¬
+leave¬an¬invisible¬layer¬of¬waxy¬material¬just¬under¬the¬surface¬
+of¬the¬ground.¬This¬develops¬from¬decomposing¬leaves¬and¬
+other¬organic¬material,¬which¬contain¬naturally¬hydrophobic¬or¬
+water-repellent¬compounds.¬Fire¬can¬vaporize¬this¬litter,¬and¬
+the¬resulting¬gas¬seeps¬into¬the¬upper¬soil—where¬it¬quickly¬
+cools¬and¬condenses,¬forming¬the¬slippery¬layer.¬
+When¬rain¬falls¬on¬ground¬that¬has¬been¬affected¬by¬
+this¬phenomenon,¬it¬can’t¬sink¬beyond¬the¬hydrophobic¬layer—
+so¬the¬water¬flows¬away,¬often¬hauling¬debris¬with¬it.¬“All¬of¬the¬
+trees,¬branches,¬everything¬that’s¬been¬burned—unfortunately,¬
+if¬ it¬ rains,¬ that¬ stuff¬ just¬ floats,”¬ Lund¬ says.¬ “It’s¬ really¬
+concerning.”¬Even¬a¬fire¬that¬isn’t¬severe¬enough¬to¬create¬a¬
+hydrophobic¬layer¬can¬still¬cause¬debris¬flows,¬says¬Danielle¬
+Touma,¬a¬climate¬scientist¬at¬the¬University¬of¬Texas¬at¬Austin.¬
+Under¬normal¬conditions,¬trees¬and¬other¬plants¬usually¬trap¬
+some¬rain¬above¬the¬surface,¬slowing¬the¬water’s¬downward¬
+journey.¬But¬on¬freshly¬burned¬land¬there’s¬much¬less¬greenery¬
+to¬interfere;¬all¬the¬rain¬immediately¬hits¬the¬ground.¬[...]¬
+Fortunately,¬the¬rain¬should¬also¬help¬firefighters¬tame¬
+the¬blazes¬that¬remain¬active.¬The¬largest,¬the¬Palisades¬Fire,¬
+is¬ currently¬ 77¬ percent¬ contained.¬ The¬ second¬ largest,¬ the¬
+Eaton¬Fire,¬is¬95¬percent¬contained.¬The¬Hughes¬Fire¬is¬third¬
+largest¬ and¬ only¬ 56¬ percent¬ contained.¬ A¬ fire¬ can¬ be¬ fully¬
+contained¬but¬still¬burning.¬The¬containment¬percentage¬refers¬
+to¬the¬amount¬of¬the¬perimeter¬that¬has¬barriers¬that¬firefighters¬
+expect¬will¬prevent¬further¬spread.¬
+¬
+Scientific¬American.¬January¬27th,¬2025.¬Adaptado.¬
+{05} 
+Com¬ base¬ no¬ primeiro¬ parágrafo¬ e¬ na¬ opinião¬ dos¬
+especialistas,¬qual¬das¬seguintes¬inferências¬pode¬ser¬feita?¬
+¬
+(A)¬A¬ área¬ queimada¬ apresenta¬ sérios¬ danos,¬ e¬ as¬ chuvas¬
+fortes¬podem¬auxiliar¬na¬recuperação¬do¬meio¬ambiente.¬
+(B)¬O¬meteorologista¬Kristan¬Lund¬acredita¬que¬a¬chuva¬será¬
+um¬problema,¬independentemente¬de¬sua¬intensidade.¬
+(C)¬Embora¬a¬chuva¬prevista¬para¬o¬fim¬de¬semana¬seja¬bem-
+vinda,¬ há¬ também¬ preocupações¬ devido¬ aos¬ riscos¬ de¬
+deslizamentos¬de¬terra.¬
+(D)¬Como¬ a¬ possibilidade¬ de¬ deslizamentos¬ de¬ terra¬ ocorre¬
+apenas¬ nos¬ locais¬ não¬ afetados¬ por¬ incêndios,¬ os¬
+malefícios¬são¬imperceptíveis.¬
+(E)¬Uma¬vez¬que¬a¬região¬está¬bem-preparada¬para¬lidar¬com¬
+a¬ ocorrência¬ de¬ chuvas,¬ a¬ área¬ não¬ está¬ suscetível¬ a¬
+riscos.¬¬
+##### 
+ 
+ 
+ 
+ 
+{06} 
+O¬termo¬"litter”,¬no¬parágrafo¬2,¬refere-se¬¬¬
+¬
+(A)¬ao¬ gás¬ que¬ é¬ liberado¬ pela¬ decomposição¬ das¬ folhas¬
+durante¬as¬queimadas.¬
+(B)¬à¬substância¬que¬resulta¬na¬maior¬fertilidade¬do¬solo¬após¬
+o¬incêndio.¬
+(C)¬ao¬ material¬ utilizado¬ pelos¬ bombeiros¬ para¬ controlar¬
+incêndios¬florestais.¬
+(D)¬ao¬acumulado¬de¬cinzas¬que¬se¬forma¬após¬a¬queima¬do¬
+material¬decomposto.¬
+(E)¬à¬camada¬de¬material¬orgânico¬que¬cobre¬a¬superfície¬do¬
+solo.¬
+##### 
+¬
+{07} 
+Considerando¬ a¬ oração¬ "[...]¬ it¬ can’t¬ sink¬ beyond¬ the¬
+hydrophobic¬ layer—so¬ the¬ water¬ flows¬ away¬ [...]”¬ (3º¬
+parágrafo),¬o¬termo¬“so”¬pode¬ser¬substituído,¬sem¬prejuízo¬de¬
+sentido,¬por¬
+¬
+(A)¬moreover.¬
+(B)¬therefore.¬
+(C)¬nevertheless.¬
+(D)¬conversely.¬
+(E)¬furthermore.¬
+##### 
+¬
+{08} 
+Segundo¬ Danielle¬ Touma,¬ uma¬ especialista¬ em¬ ciências¬
+climáticas¬da¬Universidade¬do¬Texas¬em¬Austin,¬¬
+¬
+(A)¬mesmo¬ em¬ terrenos¬ queimados,¬ a¬ chuva¬ não¬ consegue¬
+causar¬deslizamentos¬de¬detritos.¬
+(B)¬qualquer¬queimada¬pode¬criar¬uma¬camada¬que¬repele¬a¬
+água,¬dificultando¬sua¬absorção.¬
+(C)¬até¬ incêndios¬ menos¬ graves¬ podem¬ resultar¬ em¬
+deslizamentos¬de¬detritos¬em¬períodos¬de¬chuva¬devido¬à¬
+falta¬de¬vegetação.¬
+(D)¬a¬ chuva¬ é¬ mais¬ eficaz¬ em¬ terrenos¬ queimados,¬ pois¬ a¬
+camada¬hidrofóbica¬impede¬a¬perda¬de¬água.¬
+(E)¬sob¬condições¬normais,¬a¬mata¬impede¬as¬águas¬pluviais¬
+de¬penetrar¬no¬solo¬de¬maneira¬eficiente.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+  Concurso Edital RH nº 008/2025 – Engenheiro (Área Eletricista; especialidade: Sistemas Elétricos) 
+{09} 
+“ChatGPT,¬ DeepSeek¬ e¬ similares¬ pertencem¬ à¬ classe¬ de¬
+LLMs,¬avançados¬modelos¬de¬linguagem¬treinados¬a¬partir¬de¬
+grandes¬bancos¬de¬dados¬–¬majoritariamente¬em¬inglês.¬Os¬
+mais¬populares¬pertencem¬a¬empresas¬norte-americanas.¬E¬
+assim¬como¬os¬algoritmos¬de¬pesquisa¬e¬redes¬sociais,¬não¬
+são¬neutros.¬Ou¬seja,¬podem¬reproduzir¬vieses,¬preconceitos¬
+e¬ estereótipos¬ de¬ seus¬ programadores,¬ que¬ por¬ sua¬ vez¬
+podem¬receber¬ordens¬dos¬donos¬das¬empresas¬e¬de¬outros¬
+atores¬–¬na¬China,¬por¬exemplo,¬empresas¬devem¬passar¬por¬
+análise¬de¬segurança¬e¬obter¬aprovações¬do¬governo¬antes¬de¬
+lançar¬produtos¬(...).¬
+Nesse¬cenário,¬como¬ficam¬os¬países¬que¬não¬têm¬plataformas¬
+nacionais¬de¬alcance¬global,¬como¬é¬o¬caso¬do¬Brasil?¬E¬mais:¬
+o¬que¬acontecerá¬com¬a¬História¬e¬a¬memória¬desses¬países¬
+diante¬de¬uma¬população¬cada¬vez¬mais¬conectada¬a¬LLMs¬
+estrangeiras¬globais¬que¬acredita¬mais¬no¬que¬encontra¬nos¬
+apps¬e¬sites¬de¬busca¬do¬que¬nos¬livros¬de¬História?”¬
+¬
+Luciana¬Garbin,¬IAs¬estão¬apagando¬e¬reescrevendo¬pedaços¬da¬
+História.¬E¬o¬Brasil¬com¬isso?,¬O¬Estado¬de¬S.¬Paulo¬(on-line),¬29/01/2025¬
+(Adaptado)¬
+¬
+O¬texto¬apresentado¬traz¬uma¬crítica¬
+¬
+(A)¬ao¬ trabalho¬ dos¬ programadores,¬ que¬ estabelecem¬
+mecanismos¬frágeis¬de¬intelecção¬das¬máquinas¬dotadas¬
+de¬inteligência.¬
+(B)¬às¬chamadas¬big¬techs¬que¬visam¬apenas¬o¬lucro¬a¬partir¬
+dos¬ serviços¬ que¬ disponibilizam,¬ gerando¬ dificuldades¬
+para¬o¬usuário.¬
+(C)¬às¬ empresas¬ de¬ tecnologia¬ brasileiras,¬ que¬ não¬
+desenvolveram¬ LLMs¬ de¬ alcance¬ global,¬ o¬ que¬ seria¬
+possível¬a¬despeito¬do¬alcance¬da¬língua¬portuguesa¬no¬
+mundo.¬
+(D)¬aos¬
+governos¬
+das¬
+nações¬
+desenvolvidas,¬
+por¬
+estabelecerem¬
+padrões¬
+desiguais¬
+de¬
+controle¬
+de¬
+segurança¬ para¬ os¬ produtos¬ como¬ o¬ ChatGPT¬ e¬ o¬
+DeepSeek.¬
+(E)¬às¬pessoas¬que,¬em¬grande¬parte,¬passaram¬a¬confiar¬em¬
+fontes¬e¬a¬acreditar¬em¬informações¬não¬contextualizadas¬
+historicamente.¬
+##### 
+¬
+{10} 
+Em¬Ideias¬para¬adiar¬o¬fim¬do¬Mundo,¬Ailton¬Krenak¬coloca¬
+ênfase¬no¬papel¬que¬o¬rio¬Watu¬desempenha¬para¬a¬unidade¬
+do¬povo¬krenak,¬o¬povo¬“cabeça¬da¬terra”.¬O¬rio¬foi¬palco¬de¬
+um¬ evento¬ que¬ marcou¬ nosso¬ país.¬ De¬ posse¬ dessas¬
+informações¬ e¬ com¬ base¬ na¬ leitura¬ do¬ livro,¬ assinale¬ a¬
+alternativa¬que¬indica¬o¬nome¬do¬rio,¬em¬português,¬e¬o¬evento¬
+mencionado.¬
+¬
+(A)¬Solimões¬–¬seca¬de¬2023.¬
+(B)¬Doce¬–¬rompimento¬da¬barragem¬do¬Fundão.¬
+(C)¬Tietê¬–¬enchente¬de¬São¬Paulo¬em¬1929.¬
+(D)¬São¬Francisco¬–¬transposição¬de¬suas¬águas.¬
+(E)¬Paraopeba¬¬–¬¬rompimento¬¬da¬¬barragem¬¬de¬¬Brumadinho.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+{11} 
+Em¬ O¬ Perigo¬ de¬ uma¬ História¬ Única,¬ Chimamanda¬ Ngozi¬
+Adichie¬afirma¬que¬“Há¬pouco¬tempo¬dei¬uma¬palestra¬numa¬
+universidade¬e¬um¬aluno¬me¬disse¬que¬era¬uma¬grande¬pena¬
+que¬ os¬ homens¬ nigerianos¬ fossem¬ agressivos¬ como¬ o¬
+personagem¬do¬pai¬no¬meu¬romance.¬Eu¬disse¬a¬ele¬que¬tinha¬
+acabado¬de¬ler¬um¬livro¬chamado¬O¬psicopata¬americano¬e¬
+que¬ achava¬ uma¬ grande¬ pena¬ que¬ os¬ jovens¬ americanos¬
+fossem¬assassinos¬em¬série.¬Bem,¬obviamente¬eu¬disse¬isso¬
+num¬ leve¬ ataque¬ de¬ irritação.¬ Mas¬ jamais¬ teria¬ me¬ ocorrido¬
+pensar¬que,¬só¬porque¬li¬um¬romance¬no¬qual¬o¬personagem¬
+era¬ um¬ assassino¬ em¬ série,¬ ele¬ de¬ alguma¬ maneira¬
+representava¬todos¬os¬americanos.¬Não¬digo¬isso¬porque¬me¬
+considero¬uma¬pessoa¬melhor¬do¬que¬esse¬aluno¬(...).¬Já¬tinha¬
+lido¬Tyler,¬Updike,¬Steinbeck¬e¬Gaitskill.¬Não¬tinha¬uma¬história¬
+única¬dos¬Estados¬Unidos”.¬¬
+Nesse¬livro,¬como¬no¬trecho¬de¬O¬Estado¬de¬S.¬Paulo¬citado¬
+na¬questão¬9,¬pode-se¬afirmar¬que¬a¬versão¬de¬um¬fato¬será¬
+tanto¬mais¬disseminada¬quanto¬
+¬
+(A)¬maior¬ for¬ o¬ poder¬ econômico¬ e¬ cultural¬ de¬ quem¬ a¬
+comunica.¬
+(B)¬mais¬críveis¬forem¬os¬seus¬contornos¬narrativos.¬
+(C)¬menos¬verossímeis¬forem¬os¬valores¬ínsitos¬à¬mensagem.¬
+(D)¬maior¬for¬o¬poder¬militar¬e¬científico¬de¬quem¬a¬comunica.¬
+(E)¬menores¬forem¬os¬riscos¬de¬conter¬inverdades.¬
+##### 
+¬
+{12} 
+Observe¬a¬charge¬a¬seguir:¬
+¬
+ 
+¬
+Folha¬de¬São¬Paulo,¬26.01.2025¬
+Assinale¬ a¬ alternativa¬ que¬ melhor¬ descreve¬ as¬ situações¬ às¬
+quais¬a¬charge¬se¬refere.¬
+¬
+(A)¬Denuncismo,¬ confusão¬ relativa¬ às¬ categorias¬ sociais¬ e¬
+mudanças¬climáticas.¬
+(B)¬Estigmas¬sociais,¬alarmismo¬social¬e¬mobilidade¬social.¬
+(C)¬Alarmismo¬ social,¬ identificação¬ dos¬ imigrantes¬ como¬
+animais¬e¬mudanças¬climáticas.¬
+(D)¬Racismo,¬degelo¬da¬Antártida¬e¬luta¬de¬classes.¬
+(E)¬Denuncismo,¬extinção¬de¬espécimes¬da¬fauna¬e¬mudanças¬
+sociais.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+  Concurso Edital RH nº 008/2025 – Engenheiro (Área Eletricista; especialidade: Sistemas Elétricos) 
+{13} 
+Considere¬o¬art.¬2º¬do¬Estatuto¬da¬USP:¬
+¬
+Artigo 2º –¬São¬fins¬da¬USP:¬
+¬
+I¬ –¬promover¬ e¬ desenvolver¬ todas¬ as¬ formas¬ de¬
+conhecimento,¬por¬meio¬do¬ensino¬e¬da¬pesquisa;¬
+II¬ –¬ ministrar¬ o¬ ensino¬ superior¬ visando¬ à¬ formação¬ de¬
+pessoas¬ capacitadas¬ ao¬ exercício¬ da¬ investigação¬ e¬ do¬
+magistério¬em¬todas¬as¬áreas¬do¬conhecimento,¬bem¬como¬
+à¬qualificação¬para¬as¬atividades¬profissionais;¬
+III¬ –¬ estender¬ à¬ sociedade¬ serviços¬ indissociáveis¬ das¬
+atividades¬de¬ensino¬e¬de¬pesquisa.¬
+¬
+As¬ alternativas¬ a¬ seguir¬ indicam¬ as¬ cinco¬ Pró-Reitorias¬
+existentes¬na¬USP.¬Assinale¬aquela¬cujas¬atividades¬NÃO¬se¬
+relacionam¬diretamente¬com¬os¬fins¬da¬Universidade.¬
+¬
+(A)¬Pró-Reitoria¬de¬Cultura¬e¬Extensão¬Universitária.¬
+(B)¬Pró-Reitoria¬de¬Graduação.¬
+(C)¬Pró-Reitoria¬de¬Inclusão¬e¬Pertencimento.¬
+(D)¬Pró-Reitoria¬de¬Pesquisa¬e¬Inovação.¬
+(E)¬Pró-Reitoria¬de¬Pós-Graduação.¬
+##### 
+¬
+{14} 
+Considere¬a¬seguinte¬situação:¬Ênio¬Oliveira,¬Vice-Reitor¬da¬
+USP,¬ falece¬ em¬ um¬ acidente.¬ Nesse¬ caso,¬ Edna¬ Cruz,¬ a¬
+Reitora,¬deverá¬
+¬
+(A)¬indicar¬um¬novo¬Vice-Reitor,¬que¬será¬homologado¬pelo¬
+Conselho¬Universitário¬em¬até¬15¬dias.¬
+(B)¬dar¬início¬ao¬processo¬eleitoral,¬para¬a¬escolha¬de¬um¬novo¬
+Vice-Reitor,¬que¬cumprirá¬um¬mandato¬novo,¬de¬4¬anos.¬
+(C)¬ser¬substituída,¬em¬suas¬ausências¬ou¬impedimentos,¬pelo¬
+decano¬do¬Conselho¬Universitário.¬
+(D)¬dar¬início¬ao¬processo¬eleitoral,¬para¬a¬escolha¬de¬um¬novo¬
+Vice-Reitor,¬ que¬ exercerá¬ tal¬ função¬ pelo¬ tempo¬ que¬
+restava¬de¬mandato¬para¬Ênio.¬
+(E)¬indicar¬um¬novo¬Vice-Reitor,¬que¬deverá¬ser¬nomeado¬pelo¬
+Governador¬de¬SP¬em¬até¬15¬dias.¬
+##### 
+¬
+{15} 
+Aproximando-se¬as¬inscrições¬para¬Diretor¬de¬um¬Instituto,¬a¬
+comunidade¬local¬sabe¬que¬Lucas,¬Ana¬e¬Maria¬pretendem¬ser¬
+candidatos,¬
+tendo¬
+como¬
+candidatos¬
+a¬
+Vice-Diretor,¬
+respectivamente,¬Sara,¬Lia¬e¬Marcos.¬Sabendo¬que¬Marcos¬é¬
+Professor¬ Associado¬ 2¬ e¬ todos¬ os¬ demais¬ são¬ Professores¬
+Titulares,¬é¬possível¬afirmar¬que¬a¬Chapa¬Maria¬e¬Marcos¬
+¬
+(A)¬não¬pode¬se¬candidatar,¬em¬nenhuma¬hipótese.¬
+(B)¬pode¬se¬candidatar,¬sem¬qualquer¬restrição.¬
+(C)¬pode¬ se¬ candidatar¬ numa¬ eventual¬ segunda¬ fase¬ de¬
+inscrições,¬ mas¬ apenas¬ se¬ Lucas¬ e¬ Sara¬ ou¬ Ana¬ e¬ Lia¬
+deixarem¬de¬se¬inscrever.¬
+(D)¬pode¬ se¬ candidatar¬ numa¬ eventual¬ segunda¬ fase¬ de¬
+inscrições,¬mesmo¬que¬as¬chapas¬Lucas¬e¬Sara¬e¬Ana¬e¬
+Lia¬se¬inscrevam.¬
+(E)¬pode¬se¬candidatar¬desde¬logo,¬mas¬só¬concorrerão¬se¬
+Lucas¬e¬Sara¬ou¬Ana¬e¬Lia¬deixarem¬de¬se¬inscrever.¬
+##### 
+ 
+ 
+ 
+ 
+{16} 
+Uma¬ Unidade¬ tem¬ 8¬ Professores¬ Titulares,¬ todos¬ membros¬
+natos¬ da¬ Congregação.¬ O¬ número¬ de¬ representantes¬ dos¬
+Professores¬ Associados¬ e¬ dos¬ Professores¬ Doutores¬ é,¬
+respectivamente,¬
+¬
+(A)¬2¬e¬1.¬
+(B)¬4¬e¬3.¬
+(C)¬5¬e¬3.¬
+(D)¬4¬e¬2.¬
+(E)¬6¬e¬3.¬
+##### 
+¬
+{17} 
+A¬Norma¬Regulamentadora¬NR-10¬do¬Ministério¬do¬Trabalho¬e¬
+Emprego¬estabelece,¬em¬seu¬artigo¬primeiro,¬os¬requisitos¬e¬
+condições¬mínimas¬objetivando¬a¬implementação¬de¬medidas¬
+de¬ controle¬ e¬ sistemas¬ preventivos,¬ de¬ forma¬ a¬ garantir¬ a¬
+segurança¬ e¬ a¬ saúde¬ dos¬ trabalhadores¬ que,¬ direta¬ ou¬
+indiretamente,¬ interajam¬ em¬ instalações¬ elétricas¬ e¬ serviços¬
+com¬eletricidade.¬De¬acordo¬com¬esta¬norma,¬a¬medida¬de¬
+proteção¬ coletiva¬ prioritária¬ a¬ ser¬ adotada¬ na¬ execução¬ de¬
+serviços¬em¬instalações¬elétricas¬é:¬
+¬
+(A)¬Desenergização¬elétrica.¬
+(B)¬Isolação¬das¬partes¬vivas.¬
+(C)¬Bloqueio¬do¬religamento¬automático.¬
+(D)¬Aterramento¬temporário¬das¬instalações¬elétricas.¬
+(E)¬Emprego¬de¬Equipamentos¬de¬Proteção¬Indivdual¬(EPI).¬
+##### 
+¬
+{18} 
+Transformadores¬ apresentam¬ perdas¬ de¬ energia¬ no¬ ferro,¬
+devido¬aos¬fenômenos¬de¬histerese¬e¬correntes¬parasitas,¬e¬
+perdas¬no¬cobre,¬devido¬ao¬efeito¬Joule¬nos¬condutores.¬As¬
+perdas¬ no¬ ferro¬ são¬ constantes¬ e¬ independentes¬ da¬ carga¬
+demandada,¬ ao¬ passo¬ que¬ as¬ perdas¬ no¬ cobre¬ são¬
+proporcionais¬ao¬quadrado¬da¬corrente¬elétrica¬demandada¬
+pela¬carga¬conectada¬ao¬transformador.¬Em¬uma¬instalação¬
+elétrica,¬uma¬carga¬total¬de¬275¬KVA¬é¬alimentada¬em¬220V¬
+por¬2¬transformadores¬trifásicos¬de¬220¬KVA,¬13,8KV/220¬V.¬
+Em¬condições¬nominais¬de¬operação,¬as¬perdas¬no¬ferro¬do¬
+transformador¬são¬de¬1KW¬e¬as¬perdas¬no¬cobre¬são¬de¬3KW.¬
+O¬transformador¬1¬atende¬80%¬da¬potência¬total¬da¬carga¬e¬o¬
+transformador¬ 2¬ atende¬ os¬ 20%¬ restantes.¬ Uma¬ alternativa¬
+para¬ reduzir¬ as¬ perdas¬ no¬ cobre¬ e¬ reduzir¬ o¬ consumo¬ de¬
+energia¬da¬instalação¬é¬balancear¬as¬cargas¬para¬que¬cada¬
+transformador¬atenda¬50%¬das¬cargas.¬Calcule¬qual¬seria¬a¬
+redução¬de¬consumo¬mensal¬em¬KWh¬devido¬à¬redução¬das¬
+perdas¬ no¬ cobre¬ do¬ transformador¬ e¬ assinale¬ a¬ alternativa¬
+correta.¬¬
+¬
+(A)¬0¬KWh/mês.¬
+(B)¬204¬KWh/mês.¬
+(C)¬306¬KWh/mês.¬
+(D)¬318¬KWh/mês.¬
+(E)¬612¬KWh/mês.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+  Concurso Edital RH nº 008/2025 – Engenheiro (Área Eletricista; especialidade: Sistemas Elétricos) 
+{19} 
+Considere¬ a¬ instalação¬ elétrica¬ industrial¬ trifásica¬ em¬ 380¬ V¬
+(tensão¬de¬linha),¬visualizada¬na¬figura¬a¬seguir,¬que¬alimenta¬
+uma¬carga¬trifásica¬e¬uma¬carga¬monofásica.¬
+¬
+¬
+¬
+Capacidade¬de¬condução¬de¬corrente¬em¬Amperes¬
+¬
+Seção nominal 
+[mm2] 
+Capacidade de 
+condução [A] 
+16¬
+56¬
+25¬
+73¬
+35¬
+89¬
+50¬
+108¬
+70¬
+136¬
+¬
+Qual¬ seria¬ o¬ condutor¬ com¬ menor¬ seção¬ que¬ poderia¬ ser¬
+utilizado¬que¬respeita¬o¬critério¬de¬capacidade¬de¬condução¬
+de¬corrente?¬
+¬
+(A)¬16¬mm2¬
+(B)¬25¬mm2¬
+(C)¬35¬mm2¬
+(D)¬50¬mm2¬
+(E)¬70¬mm2¬
+##### 
+¬
+{20} 
+De¬acordo¬com¬a¬norma¬ABNT¬NBR¬5364,¬transformadores¬de¬
+corrente¬para¬serviços¬de¬proteção¬devem¬manter¬sua¬classe¬
+de¬exatidão¬para¬correntes¬de¬até¬20¬vezes¬a¬corrente¬nominal¬
+(fator¬
+de¬
+sobrecorrente=20).¬
+Deseja-se¬
+instalar¬
+um¬
+transformador¬de¬corrente¬para¬alimentar¬o¬sistema¬de¬relé¬de¬
+proteção¬
+contra¬
+sobrecorrente¬
+do¬
+primário¬
+de¬
+um¬
+transformador¬ trifásico¬ de¬ 1500¬ KVA¬ 13,8KV/220V.¬ Das¬
+análises¬de¬curto-circuito,¬sabe-se¬que¬a¬corrente¬de¬curto-
+circuito¬no¬primário¬é¬de¬3000¬A.¬Qual¬seria,¬dentre¬as¬opções¬
+abaixo,¬ o¬ transformador¬ de¬ corrente¬ com¬ a¬ menor¬ corrente¬
+nominal¬primária¬(IN)¬e¬a¬relação¬de¬transformação¬de¬corrente¬
+(RTC)¬para¬uma¬corrente¬nominal¬de¬secundário¬do¬TC¬de¬5¬A¬
+que¬poderia¬ser¬instalado¬para¬o¬serviço¬de¬proteção?¬
+¬
+(A)¬IN¬=¬¬75¬A;¬RTC¬=¬15:1¬
+(B)¬IN¬=¬100¬A;¬RTC¬=¬20:1¬
+(C)¬IN¬=¬125¬A;¬RTC¬=¬25:1¬
+(D)¬IN¬=¬150¬A;¬RTC¬=¬30:1¬
+(E)¬IN¬=¬200¬A;¬RTC¬=¬40:1¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{21} 
+Na¬ conta¬ de¬ fornecimento¬ de¬ energia¬ elétrica¬ de¬ uma¬
+instalação¬em¬220V,¬o¬consumidor¬está¬sendo¬onerado¬pela¬
+demanda¬ de¬ potência¬ de¬ 100KW¬ e¬ consumo¬ de¬ reativos¬
+excedentes.¬O¬valor¬do¬fator¬de¬potência¬na¬conta¬de¬energia¬
+elétrica¬é¬0,86¬≈¬√ଷ
+ଶ.¬Determine¬a¬potência¬do¬capacitor¬a¬ser¬
+instalado¬ que¬ mais¬ se¬ aproxima¬ do¬ valor¬ necessário¬ para¬
+corrigir¬o¬fator¬de¬potência¬para¬1,0.¬
+¬
+(A)¬16¬KVAr.¬
+(B)¬50¬KVAr.¬
+(C)¬57¬KVAr.¬
+(D)¬86¬KVAr.¬
+(E)¬100¬KVAr.¬
+##### 
+¬
+{22} 
+Em¬transformadores¬trifásicos,¬a¬relação¬de¬transformação¬é¬
+definida¬pela¬relação¬entre¬a¬tensão¬de¬linha¬do¬primário¬e¬a¬
+tensão¬de¬linha¬do¬secundário.¬Um¬transformador¬trifásico¬foi¬
+construído¬ a¬ partir¬ de¬ 3¬ transformadores¬ monofásicos,¬
+conforme¬ilustra¬a¬figura¬a¬seguir:¬¬
+¬
+¬
+¬
+No¬primário¬temos¬tensões¬trifásicas¬e¬equilibradas¬Vab,¬Vbc,¬
+Vca¬e¬no¬secundário¬as¬tensões¬Vrs,¬Vst,¬Vtr.¬Se¬a¬relação¬de¬
+transformação¬ de¬ cada¬ transformador¬ monofásico¬ é¬ 1:1,¬ ou¬
+seja,¬ possuem¬ o¬ mesmo¬ número¬ de¬ espiras¬ no¬ primário¬ e¬
+secundário,¬ então¬ a¬ relação¬ de¬ transformação¬ do¬ banco¬
+trifásico¬é¬igual¬a¬
+¬
+(A)¬1:1¬
+(B)¬√3: 1¬
+(C)¬√2: 1¬
+(D)¬1: √3¬
+(E)¬1: √2¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+  Concurso Edital RH nº 008/2025 – Engenheiro (Área Eletricista; especialidade: Sistemas Elétricos) 
+{23} 
+A¬maioria¬das¬concessionárias¬de¬energia¬elétrica¬não¬permite¬
+partida¬direta¬de¬motores¬de¬indução¬com¬o¬objetivo¬de¬limitar¬
+a¬corrente¬de¬partida¬e¬quedas¬elevadas¬de¬tensão¬durante¬o¬
+processo¬de¬partida.¬Um¬dos¬métodos¬para¬reduzir¬a¬corrente¬
+de¬partida¬de¬motores¬de¬indução¬é¬a¬chave¬estrela-triângulo.¬
+Com¬este¬método,¬a¬corrente¬de¬partida¬é¬reduzida¬à¬
+¬
+(A)¬1/3¬da¬corrente¬nominal.¬
+(B)¬½¬da¬corrente¬nominal.¬
+(C)¬1/√3¬da¬corrente¬nominal.¬
+(D)¬1/√2¬da¬corrente¬nominal.¬
+(E)¬1/6¬da¬corrente¬nominal.¬
+##### 
+¬
+{24} 
+Um¬ sistema¬ fotovoltaico¬ é¬ constituído¬ por¬ 10¬ módulos¬
+fotovoltaicos¬ conectados¬ em¬ série.¬ Cada¬ módulo¬ possui¬ as¬
+seguintes¬especificações:¬
+¬
+-¬Potência¬400¬W¬
+-¬Tensão¬de¬máxima¬potência¬40¬V¬
+-¬Corrente¬de¬máxima¬potência¬10¬A¬
+-¬Tensão¬de¬circuito¬aberto¬50¬V¬
+-¬Corrente¬de¬curto-circuito¬11¬A¬
+-¬Eficiência¬20%¬
+¬
+O¬inversor¬mais¬adequado¬para¬este¬arranjo¬tem¬as¬seguintes¬
+especificações:¬
+¬
+(A)¬Potência¬ nominal¬ 4000¬ W,¬ Corrente¬ máxima¬ de¬ entrada¬¬
+12¬A,¬Faixa¬de¬tensão¬de¬MPP¬entre¬300¬e¬500¬V.¬
+(B)¬Potência¬nominal¬de¬400¬W,¬Corrente¬máxima¬de¬entrada¬
+12¬A,¬Faixa¬de¬tensão¬de¬MPP¬entre¬300¬e¬500¬V.¬
+(C)¬Potência¬ nominal¬ 4000¬ W,¬ Corrente¬ máxima¬ de¬ entrada¬¬
+12¬A,¬Faixa¬de¬tensão¬de¬MPP¬entre¬30¬e¬50¬V.¬
+(D)¬Potência¬ nominal¬ 400¬ W,¬ Corrente¬ máxima¬ de¬ entrada¬¬
+120¬A,¬Faixa¬de¬tensão¬de¬MPP¬entre¬30¬e¬50¬V.¬
+(E)¬Potência¬ nominal¬ 400¬ W,¬ Corrente¬ máxima¬ de¬ entrada¬¬
+12¬A,¬Faixa¬de¬tensão¬de¬MPP¬entre¬300¬e¬500¬V.¬
+##### 
+¬
+{25} 
+Existem¬ diversos¬ esquemas¬ de¬ aterramento¬ previstos¬ na¬
+norma¬ABNT¬NBR¬5410.¬Estes¬esquemas¬de¬aterramento¬são¬
+identificados¬por¬um¬código¬de¬3¬letras.¬A¬primeira¬letra¬é¬T¬se¬
+o¬sistema¬de¬alimentação¬está¬diretamente¬aterrado¬ou¬I¬se¬o¬
+sistema¬é¬isolado¬ou¬aterrado¬por¬impedância.¬A¬segunda¬letra¬
+é¬T¬se¬as¬massas¬estão¬diretamente¬aterradas¬e¬N¬se¬estão¬
+ligadas¬ao¬ponto¬de¬alimentação¬onde¬é¬feito¬o¬aterramento.¬A¬
+terceira¬letra¬é¬S¬se¬os¬condutores¬neutro¬e¬de¬proteção¬são¬
+separados¬e¬C¬se¬os¬condutores¬de¬neutro¬e¬de¬proteção¬são¬
+combinados¬ em¬ um¬ único¬ condutor.¬ Assinale¬ a¬ alternativa¬
+correta:¬
+¬
+(A)¬A¬ proteção¬ por¬ dispositivos¬ diferencial¬ residual¬ DR¬ nos¬
+sistemas¬TT¬não¬é¬obrigatória.¬
+(B)¬O¬ esquema¬ TN-C¬ não¬ é¬ compatível¬ com¬ disjuntores¬
+diferenciais-residuais¬DR.¬
+(C)¬No¬sistema¬de¬aterramento¬IT,¬o¬condutor¬neutro¬deve¬ser¬
+distribuído¬por¬toda¬a¬instalação¬
+(D)¬O¬ esquema¬ de¬ aterramento¬ TT¬ exige¬ a¬ distribuição¬ do¬
+condutor¬de¬proteção.¬
+(E)¬No¬esquema¬de¬aterramento¬TT,¬não¬é¬necessário¬aterrar¬
+as¬massas.¬#####¬
+{26} 
+De¬acordo¬com¬a¬norma¬ABNT¬NBR¬5419,¬um¬dos¬modelos¬
+admitidos¬ para¬ o¬ projeto¬ de¬ sistemas¬ de¬ proteção¬ contra¬
+descargas¬atmosféricas¬é¬o¬método¬do¬ângulo¬de¬proteção,¬
+também¬ conhecido¬ por¬ método¬ de¬ Franklin.¬ Neste¬ modelo,¬
+determina-se¬um¬volume¬de¬proteção¬promovido¬pelo¬mastro¬
+do¬para-raios¬na¬forma¬de¬
+¬
+(A)¬uma¬esfera.¬
+(B)¬um¬cone¬de¬base¬circular.¬
+(C)¬um¬cone¬de¬base¬triangular.¬
+(D)¬uma¬elipse.¬
+(E)¬um¬paralelepípedo.¬
+##### 
+¬
+{27} 
+Os¬sistemas¬de¬proteção¬contra¬sobre¬corrente¬em¬sistemas¬
+elétricos¬de¬distribuição¬são¬projetados¬para¬proteger¬
+¬
+(A)¬as¬cargas¬conectadas¬ao¬sistema¬elétrico¬contra¬correntes¬
+de¬sobrecarga.¬
+(B)¬as¬cargas¬conectadas¬ao¬sistema¬elétrico¬contra¬correntes¬
+de¬curto-circuito.¬
+(C)¬os¬condutores¬do¬circuito¬de¬distribuição¬contra¬correntes¬
+de¬sobrecarga.¬
+(D)¬os¬condutores¬do¬circuito¬de¬distribuição¬contra¬correntes¬
+de¬curto-circuito.¬
+(E)¬os¬condutores¬do¬circuito¬de¬distribuição¬contra¬correntes¬
+de¬sobrecarga¬e¬correntes¬de¬curto-circuito.¬
+##### 
+¬
+{28} 
+Em¬transformadores¬de¬grande¬porte,¬é¬comum¬o¬emprego¬de¬
+relês¬ diferenciais¬ para¬ a¬ proteção¬ contra¬ falhas¬ internas.¬ O¬
+esquema¬ da¬ figura¬ a¬ seguir¬ mostra¬ um¬ transformador¬
+monofásico¬com¬relação¬de¬espiras¬Np:Ns,¬equipado¬com¬2¬
+transformadores¬de¬corrente¬(TC)¬que¬alimentam¬as¬bobinas¬
+de¬um¬relê¬diferencial.¬¬
+¬
+¬
+¬
+O¬ TC¬ do¬ primário¬ possui¬ relação¬ de¬ espiras¬ 1:n1¬ e¬ o¬ do¬
+secundário¬1:n2.¬Quais¬devem¬ser¬os¬valores¬de¬n1¬e¬n2¬para¬
+que,¬em¬condições¬normais¬de¬operação,¬ou¬seja,¬sem¬falhas¬
+internas¬ao¬transformador,¬a¬corrente¬diferencial¬Id¬seja¬nula?¬¬
+¬
+(A)¬n1=n2¬
+(B)¬n1=Np;¬n2=Ns¬
+(C)¬n1=Ns;¬n2=Np¬
+(D)¬n1n2=NpNs¬
+(E)¬n1Ns=n2Np¬¬
+#####
+
+
+--- PAGE 8 ---
+
+  Concurso Edital RH nº 008/2025 – Engenheiro (Área Eletricista; especialidade: Sistemas Elétricos) 
+{29} 
+A¬figura¬a¬seguir¬apresenta¬o¬diagrama¬unifilar¬de¬uma¬instalação¬elétrica¬industrial:¬
+¬
+¬
+¬
+Cada¬elemento¬neste¬diagrama¬está¬identificado¬com¬um¬número.¬Considere¬a¬lista¬de¬equipamentos:¬
+¬
+I.¬transformador¬de¬potência;¬
+II.¬transformador¬de¬potencial;¬
+III.¬cabo¬de¬energia¬isolado¬classe¬15¬kV;¬
+IV.¬disjuntor¬de¬baixa¬tensão.¬
+¬
+Estes¬equipamentos¬estão¬identificados¬na¬figura,¬respectivamente,¬pelos¬números:¬
+¬
+(A)¬6,12,13,14.¬
+(B)¬11,¬6,¬4,14.¬
+(C)¬12,¬5,¬4,14.¬
+(D)¬12,¬6,¬4,¬14.¬
+(E)¬12,¬9,13,17.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+  Concurso Edital RH nº 008/2025 – Engenheiro (Área Eletricista; especialidade: Sistemas Elétricos) 
+{30} 
+Em¬acordo¬com¬o¬que¬está¬definido¬na¬Lei¬de¬Licitações¬e¬
+Contratos¬ Administrativos,¬ Lei¬ no¬ 14.133¬ de¬ 1º¬ de¬ abril¬ de¬
+2021,¬o¬projeto¬executivo¬é¬
+¬
+(A)¬o¬ conjunto¬ de¬ elementos¬ necessários¬ e¬ suficientes¬ à¬
+execução¬ completa¬ da¬ obra,¬ com¬ o¬ detalhamento¬ das¬
+soluções¬ previstas¬ no¬ projeto¬ básico,¬ a¬ identificação¬ de¬
+serviços,¬ de¬ materiais¬ e¬ de¬ equipamentos¬ a¬ serem¬
+incorporados¬ à¬ obra,¬ bem¬ como¬ suas¬ especificações¬
+técnicas,¬de¬acordo¬com¬as¬normas¬técnicas¬pertinentes.¬
+(B)¬o¬conjunto¬de¬elementos¬necessários¬e¬suficientes,¬com¬
+nível¬de¬precisão¬adequado¬para¬definir¬e¬dimensionar¬a¬
+obra¬ou¬o¬serviço,¬ou¬o¬complexo¬de¬obras¬ou¬de¬serviços¬
+objeto¬da¬licitação,¬elaborado¬com¬base¬nas¬indicações¬
+dos¬ estudos¬ técnicos¬ preliminares,¬ que¬ assegure¬ a¬
+viabilidade¬técnica¬e¬o¬adequado¬tratamento¬do¬impacto¬
+ambiental¬ do¬ empreendimento¬ e¬ que¬ possibilite¬ a¬
+avaliação¬do¬custo¬da¬obra¬e¬a¬definição¬dos¬métodos¬e¬
+do¬prazo¬de¬execução.¬
+(C)¬a¬ peça¬ técnica¬ com¬ todos¬ os¬ subsídios¬ necessários¬ à¬
+elaboração¬do¬projeto¬básico.¬
+(D)¬o¬ documento¬ necessário¬ para¬ a¬ contratação¬ de¬ bens¬ e¬
+serviços.¬
+(E)¬as¬informações¬que¬possibilitem¬o¬estudo¬e¬a¬definição¬de¬
+métodos¬ construtivos,¬ de¬ instalações¬ provisórias¬ e¬ de¬
+condições¬ organizacionais¬ para¬ a¬ obra,¬ sem¬ frustrar¬ o¬
+caráter¬competitivo¬para¬a¬sua¬execução.¬
+##### 
+¬
+{31} 
+Observe¬a¬imagem¬a¬seguir:¬
+¬
+¬
+¬
+O¬dispositivo¬mostrado¬na¬imagem¬é¬
+¬
+(A)¬um¬para-raios¬a¬resistor¬não¬linear.¬
+(B)¬um¬fusível¬limitador¬de¬corrente.¬
+(C)¬uma¬mufla¬terminal¬primária.¬
+(D)¬uma¬chave¬seccionadora¬primária.¬
+(E)¬uma¬chave¬fusível¬indicadora¬unipolar.¬
+##### 
+¬
+{32} 
+Disjuntores¬somente¬magnéticos¬são¬utilizados¬para¬proteção¬
+contra¬
+¬
+(A)¬correntes¬de¬sobrecarga.¬
+(B)¬correntes¬de¬curto-circuito.¬
+(C)¬correntes¬de¬sobrecarga¬e¬curto-circuito.¬
+(D)¬sobre¬tensão.¬
+(E)¬descargas¬atmosféricas.¬
+##### 
+{33} 
+O¬circuito¬equivalente¬de¬um¬gerador¬síncrono¬aterrado¬por¬
+meio¬de¬um¬reator¬é¬apresentado¬na¬figura¬a¬seguir:¬
+¬
+¬
+¬
+Em¬uma¬situação¬de¬carga¬desequilibrada,¬por¬exemplo¬em¬
+uma¬ condição¬ de¬ falta,¬ as¬ correntes¬ fasoriais¬ do¬ estator¬ do¬
+gerador¬ Ia,¬ Ib¬ e¬ Ic¬ podem¬ ser¬ decompostas¬ em¬ suas¬
+componentes¬simétricas,¬ou¬seja,¬nas¬correntes¬fasoriais¬de¬
+sequência¬ positiva,¬ Ia1,¬ Ib1¬ e¬ Ic1,¬ nas¬ correntes¬ fasoriais¬ de¬
+sequência¬negativa¬Ia2,¬Ib2¬e¬Ic2¬e¬nas¬correntes¬de¬sequência¬
+zero¬Ia0,¬Ib0¬e¬Ic0.¬É¬correto¬afirmar¬que¬a¬corrente¬que¬circula¬
+na¬impedância¬Zn¬de¬aterramento¬é¬igual¬a:¬
+¬
+(A)¬Ia1+Ib1+Ic1¬
+(B)¬Ia2+Ib2+Ic2¬
+(C)¬3¬x¬Ia1¬
+(D)¬3¬x¬Ia0¬
+(E)¬Ia0¬
+##### 
+¬
+{34} 
+Para¬ fins¬ tarifários¬ de¬ energia¬ elétrica¬ em¬ ambiente¬ de¬
+contratação¬ regulada,¬ os¬ consumidores¬ são¬ divididos¬ em¬ 2¬
+grupos:¬ o¬ grupo¬ de¬ baixa¬ tensão¬ (BT),¬ para¬ consumidores¬
+conectados¬à¬ rede¬em¬tensões¬menores¬do¬que¬2,3kV,¬e¬ o¬
+grupo¬de¬alta¬tensão¬(AT),¬para¬consumidores¬conectados¬à¬
+rede¬em¬tensões¬superiores¬à¬2,3kV.¬A¬tarifa¬do¬grupo¬de¬BT¬
+varia¬com¬
+¬
+(A)¬o¬consumo¬nos¬horários¬de¬ponta¬ou¬fora¬de¬ponta.¬
+(B)¬a¬demanda¬contratada¬e¬o¬consumo.¬
+(C)¬a¬demanda¬contratada¬e¬com¬o¬consumo¬nos¬horários¬de¬
+ponta¬ou¬fora¬de¬ponta.¬
+(D)¬a¬hora¬do¬dia¬e¬época¬do¬ano.¬
+(E)¬o¬tipo¬de¬conexão¬(monofásica,¬bifásica¬ou¬trifásica).¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+  Concurso Edital RH nº 008/2025 – Engenheiro (Área Eletricista; especialidade: Sistemas Elétricos) 
+{35} 
+Observe¬a¬figura¬a¬seguir:¬
+¬
+¬
+¬
+Assinale¬o¬esquema¬da¬planta¬baixa¬que¬corresponde¬ao¬circuito¬da¬figura¬apresentada.¬
+¬
+(A)¬
+¬
+(B)¬
+¬
+(C)¬
+¬
+(D)¬
+¬
+(E)¬
+¬
+##### 
+
+
+--- PAGE 11 ---
+
+  Concurso Edital RH nº 008/2025 – Engenheiro (Área Eletricista; especialidade: Sistemas Elétricos) 
+{36} 
+O¬circuito¬lógico¬combinatorial¬apresentado¬na¬figura¬a¬seguir¬
+foi¬construído¬a¬partir¬de¬4¬portas¬lógicas¬NÃO-E¬(NAND):¬
+¬
+¬
+¬
+Com¬base¬nesse¬circuito,¬assinale¬a¬alternativa¬correta.¬
+¬
+(A)¬Y=A.B¬
+(B)¬Y=A+B¬
+(C)¬Y=𝐴. 𝐵
+തതതതത¬
+(D)¬Y=A⊕𝐵¬
+(E)¬Y=𝐴൅𝐵
+തതതതതതതത¬¬
+¬
+##### 
+¬
+{37} 
+A¬corrente¬de¬carga¬do¬sistema¬de¬distribuição¬em¬127V¬da¬
+figura¬apresentada¬a¬seguir¬é¬20¬A,¬o¬fator¬de¬correção¬ de¬
+temperatura¬é¬0,8¬e¬o¬fator¬de¬correção¬de¬agrupamento¬é¬1,0.¬¬
+¬
+¬
+¬
+A¬ tabela¬ a¬ seguir¬ especifica,¬ para¬ o¬ método¬ de¬ instalação¬
+escolhido,¬ as¬ capacidades¬ de¬ condução¬ de¬ corrente¬ de¬
+diferentes¬condutores.¬
+¬
+Seção em [mm2] 
+Capacidade de corrente [A] 
+1,5¬
+17,5¬
+2,5¬
+24¬
+4¬
+32¬
+6¬
+41¬
+10¬
+57¬
+¬
+Qual¬é¬o¬dimensionamento¬mais¬econômico¬e¬que¬atende¬as¬
+normas¬de¬projeto¬de¬sistemas¬de¬distribuição¬da¬seção¬dos¬
+condutores,¬ pelo¬ critério¬ da¬ capacidade¬ de¬ corrente,¬ e¬ do¬
+disjuntor¬de¬proteção¬contra¬sobrecarga?¬
+¬
+(A)¬2,5¬mm2;¬20¬A¬
+(B)¬2,5¬mm2;¬25¬A¬
+(C)¬4¬mm2;¬25¬A¬
+(D)¬4¬mm2;¬32¬A¬
+(E)¬6¬mm2;¬32A¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{38} 
+Para¬ desenvolver¬ um¬ projeto¬ de¬ iluminação¬ de¬ um¬
+determinado¬ambiente,¬o¬projetista¬deve¬conhecer¬o¬nível¬de¬
+iluminância¬adequado¬para¬a¬tarefa¬a¬ser¬executada¬naquele¬
+ambiente.¬A¬iluminância¬é¬
+¬
+(A)¬a¬razão¬entre¬o¬fluxo¬luminoso,¬medido¬em¬lumens,¬que¬
+incide¬ perpendicularmente¬ sobre¬ uma¬ superfície¬ plana,¬
+pela¬área¬da¬superfície.¬
+(B)¬a¬razão¬entre¬o¬fluxo¬luminoso¬emitido¬pela¬fonte¬luminosa,¬
+medido¬em¬lumens,¬pela¬potência¬consumida,¬medida¬em¬
+Watts.¬
+(C)¬a¬razão¬entre¬o¬fluxo¬luminoso¬pelo¬fluxo¬radiante.¬
+(D)¬é¬a¬potência¬recebida¬em¬forma¬de¬radiação.¬
+(E)¬é¬a¬intensidade¬luminosa,¬medida¬em¬candelas.¬¬
+##### 
+¬
+{39} 
+De¬ acordo¬ com¬ a¬ Lei¬ nº¬ 14.133/2021,¬ quais¬ são¬ as¬
+modalidades¬de¬licitação¬previstas?¬
+¬
+(A)¬Concorrência,¬ Tomada¬ de¬ Preços,¬ Convite,¬ Leilão¬ e¬
+Pregão.¬
+(B)¬Concorrência,¬ Pregão,¬ Leilão,¬ Diálogo¬ Competitivo¬ e¬
+Dispensa¬de¬Licitação.¬
+(C)¬Concorrência,¬ Pregão,¬ Leilão,¬ Concurso¬ e¬ Diálogo¬
+Competitivo.¬
+(D)¬Concorrência,¬ Tomada¬ de¬ Preços,¬ Pregão,¬ Leilão¬ e¬
+Consulta¬Pública.¬
+(E)¬Concorrência,¬ Pregão,¬ Concurso,¬ Leilão¬ e¬ Dispensa¬ de¬
+Licitação.¬
+##### 
+¬
+{40} 
+Qual¬das¬seguintes¬afirmações¬sobre¬o¬prazo¬de¬duração¬dos¬
+contratos¬ administrativos¬ está¬ correta¬ segundo¬ a¬ Lei¬¬
+nº¬14.133/2021?¬
+¬
+(A)¬O¬ prazo¬ máximo¬ para¬ contratos¬ contínuos¬ é¬ de¬ 5¬ anos,¬
+podendo¬ser¬prorrogado¬por¬igual¬período.¬
+(B)¬Contratos¬de¬serviços¬contínuos¬podem¬ter¬duração¬de¬até¬
+10¬anos,¬veda¬qualquer¬forma¬de¬prorrogação.¬
+(C)¬O¬prazo¬máximo¬para¬contratos¬contínuos¬é¬de¬10¬anos,¬
+sem¬possibilidade¬de¬prorrogação.¬
+(D)¬Serviços¬contínuos¬podem¬ser¬contratados¬por¬até¬5¬anos,¬
+prorrogáveis¬por¬mais¬5¬anos,¬desde¬que¬haja¬justificativa¬
+econômica.¬
+(E)¬A¬nova¬lei¬proíbe¬a¬prorrogação¬dos¬contratos¬de¬serviços¬
+contínuos.¬
+##### 
+¬
+{41} 
+O¬critério¬de¬julgamento¬"maior¬desconto"¬pode¬ser¬utilizado¬
+em¬quais¬tipos¬de¬licitação¬segundo¬a¬Lei¬nº¬14.133/2021?¬
+¬
+(A)¬Apenas¬para¬aquisição¬de¬bens¬e¬serviços¬comuns.¬
+(B)¬Apenas¬para¬obras¬e¬serviços¬de¬engenharia.¬
+(C)¬Para¬qualquer¬tipo¬de¬licitação,¬desde¬que¬haja¬previsão¬
+no¬edital.¬
+(D)¬Para¬ aquisição¬ de¬ bens¬ e¬ serviços¬ comuns,¬ bem¬ como¬
+para¬obras¬e¬serviços¬de¬engenharia.¬
+(E)¬Apenas¬para¬concessões¬públicas.¬
+##### 
+ 
+
+
+--- PAGE 12 ---
+
+  Concurso Edital RH nº 008/2025 – Engenheiro (Área Eletricista; especialidade: Sistemas Elétricos) 
+{42} 
+Em¬ quais¬ situações¬ a¬ Administração¬ Pública¬ pode¬ utilizar¬ a¬
+contratação¬direta¬por¬inexigibilidade¬de¬licitação,¬nos¬termos¬
+da¬Lei¬nº¬14.133/2021?¬
+¬
+(A)¬Quando¬ houver¬ inviabilidade¬ de¬ competição,¬ como¬ na¬
+contratação¬ de¬ serviços¬ técnicos¬ especializados¬ de¬
+natureza¬singular.¬
+(B)¬Quando¬ o¬ objeto¬ da¬ contratação¬ for¬ de¬ pequeno¬ valor,¬
+respeitados¬os¬limites¬estabelecidos¬na¬lei.¬
+(C)¬Quando¬o¬preço¬do¬objeto¬da¬contratação¬for¬inferior¬ao¬da¬
+tabela¬de¬referência¬do¬governo.¬
+(D)¬Quando¬ houver¬ interesse¬ público¬ evidente,¬ a¬ critério¬ da¬
+Administração,¬independentemente¬de¬justificativa.¬
+(E)¬Quando¬ a¬ licitação¬ for¬ considerada¬ demorada¬ e¬ causar¬
+prejuízo¬à¬Administração.¬
+##### 
+¬
+{43} 
+Sobre¬ o¬ sistema¬ de¬ governança¬ das¬ contratações¬ públicas¬
+previsto¬na¬Lei¬nº¬14.133/2021,¬é¬correto¬afirmar:¬
+¬
+(A)¬A¬lei¬estabelece¬a¬obrigatoriedade¬de¬um¬Plano¬Anual¬de¬
+Contratações¬ (PAC)¬ para¬ todos¬ os¬ órgãos¬ e¬ entidades¬
+públicas.¬
+(B)¬Não¬há¬exigência¬legal¬para¬a¬Administração¬elaborar¬um¬
+plano¬de¬contratações.¬
+(C)¬Apenas¬ os¬ órgãos¬ federais¬ são¬ obrigados¬ a¬ adotar¬ um¬
+planejamento¬anual¬de¬contratações.¬
+(D)¬O¬ planejamento¬ de¬ contratações¬ pode¬ ser¬ feito¬ apenas¬
+quando¬a¬Administração¬julgar¬necessário.¬
+(E)¬O¬ Plano¬ de¬ Contratações¬ Anual¬ deve¬ prever¬ todas¬ as¬
+contratações¬da¬Administração,¬sem¬exceção.¬
+##### 
+¬
+{44} 
+No¬âmbito¬da¬Lei¬nº¬8.666/1993,¬em¬quais¬hipóteses¬a¬licitação¬
+pode¬ser¬dispensável?¬
+¬
+(A)¬Quando¬há¬inviabilidade¬de¬competição.¬
+(B)¬Quando¬ ocorre¬ emergência¬ ou¬ calamidade¬ pública,¬
+comprometendo¬a¬segurança¬de¬pessoas¬ou¬bens.¬
+(C)¬Quando¬ o¬ objeto¬ licitado¬ é¬ de¬ baixo¬ valor¬ e¬ não¬
+compromete¬o¬orçamento¬público.¬
+(D)¬Quando¬ houver¬ necessidade¬ de¬ adquirir¬ bens¬ de¬ um¬
+fornecedor¬específico,¬independentemente¬de¬justificativa.¬
+(E)¬Quando¬ a¬ Administração¬ desejar¬ contratar¬ diretamente¬
+empresas¬de¬sua¬preferência.¬
+##### 
+¬
+{45} 
+De¬ acordo¬ com¬ a¬ Lei¬ nº¬ 8.666/1993,¬ o¬ que¬ caracteriza¬ a¬
+inexigibilidade¬de¬licitação?¬
+¬
+(A)¬A¬impossibilidade¬de¬concorrência¬por¬haver¬apenas¬um¬
+fornecedor¬para¬determinado¬bem¬ou¬serviço.¬
+(B)¬A¬ decisão¬ do¬ gestor¬ público¬ em¬ contratar¬ diretamente¬
+qualquer¬empresa¬sem¬justificativa.¬
+(C)¬A¬ realização¬ de¬ uma¬ licitação¬ deserta,¬ ou¬ seja,¬ sem¬
+interessados.¬
+(D)¬A¬compra¬de¬produtos¬que¬possuem¬desconto¬significativo¬
+em¬promoções.¬
+(E)¬A¬ situação¬ de¬ emergência,¬ quando¬ não¬ há¬ tempo¬ hábil¬
+para¬realizar¬o¬processo¬licitatório.¬#####¬
+{46} 
+A¬ ABNT¬ NBR¬ 15575-1¬ estabelece¬ os¬ requisitos¬ gerais¬ de¬
+desempenho¬ para¬ edificações¬ habitacionais.¬ Em¬ relação¬ à¬
+Vida¬Útil¬de¬Projeto¬(VUP),¬assinale¬a¬alternativa¬correta.¬
+¬
+(A)¬A¬VUP¬refere-se¬ao¬período¬durante¬o¬qual¬a¬edificação¬
+deve¬ ser¬ utilizada¬ sem¬ qualquer¬ necessidade¬ de¬
+manutenção.¬
+(B)¬A¬VUP¬é¬um¬parâmetro¬que¬considera¬condições¬normais¬
+de¬ uso¬ e¬ manutenção,¬ sendo¬ estabelecida¬ para¬ os¬
+principais¬sistemas¬da¬edificação.¬
+(C)¬A¬norma¬não¬estabelece¬critérios¬para¬a¬VUP,¬pois¬essa¬é¬
+uma¬responsabilidade¬exclusiva¬do¬projetista.¬
+(D)¬A¬VUP¬deve¬ser¬garantida¬pelo¬fabricante¬dos¬materiais¬
+utilizados¬na¬construção.¬
+(E)¬A¬ VUP¬ deve¬ ser¬ a¬ mesma¬ para¬ todos¬ os¬ elementos¬ da¬
+edificação,¬sem¬diferenciação¬entre¬sistemas¬estruturais,¬
+vedações¬e¬instalações.¬
+##### 
+¬
+{47} 
+Sobre¬os¬requisitos¬gerais¬de¬desempenho¬estabelecidos¬na¬
+ABNT¬NBR¬15575-1,¬assinale¬a¬alternativa¬correta.¬
+¬
+(A)¬O¬
+desempenho¬
+de¬
+uma¬
+edificação¬
+é¬
+avaliado¬
+exclusivamente¬com¬base¬em¬ensaios¬laboratoriais.¬
+(B)¬A¬avaliação¬do¬desempenho¬deve¬considerar¬fatores¬como¬
+segurança,¬habitabilidade¬e¬sustentabilidade.¬
+(C)¬A¬ norma¬ exige¬ que¬ os¬ ensaios¬ de¬ desempenho¬ sejam¬
+realizados¬apenas¬na¬fase¬de¬projeto.¬
+(D)¬A¬NBR¬15575-1¬estabelece¬apenas¬diretrizes¬para¬conforto¬
+térmico,¬ sem¬ abordar¬ outros¬ aspectos¬ como¬ acústica¬ e¬
+lumínico.¬
+(E)¬O¬ desempenho¬ de¬ uma¬ edificação¬ não¬ depende¬ do¬
+comportamento¬ em¬ uso,¬ mas¬ apenas¬ da¬ qualidade¬ dos¬
+materiais¬utilizados.¬
+##### 
+¬
+{48} 
+A¬ABNT¬NBR¬15575-1¬define¬critérios¬de¬desempenho¬para¬
+edificações¬habitacionais.¬Sobre¬o¬critério¬de¬estanqueidade,¬
+assinale¬a¬alternativa¬correta.¬
+¬
+(A)¬A¬edificação¬deve¬ser¬projetada¬para¬suportar¬infiltrações¬
+ocasionais,¬pois¬isso¬não¬compromete¬a¬habitabilidade.¬
+(B)¬A¬estanqueidade¬é¬um¬critério¬apenas¬para¬edificações¬de¬
+alto¬padrão,¬sem¬exigências¬para¬habitações¬populares.¬
+(C)¬O¬sistema¬de¬vedação¬vertical¬deve¬impedir¬a¬penetração¬
+indesejada¬ de¬ água,¬ conforme¬ a¬ classe¬ de¬ exposição¬
+definida¬no¬projeto.¬
+(D)¬O¬ desempenho¬ de¬ estanqueidade¬ não¬ depende¬ da¬
+manutenção¬da¬edificação.¬
+(E)¬A¬ norma¬ não¬ estabelece¬ critérios¬ para¬ a¬ avaliação¬ da¬
+estanqueidade.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 13 ---
+
+  Concurso Edital RH nº 008/2025 – Engenheiro (Área Eletricista; especialidade: Sistemas Elétricos) 
+{49} 
+O¬comando¬ATTREDEF¬serve¬para¬atualizar¬os¬atributos¬de¬
+uma¬inserção¬de¬bloco¬existente.¬Assinale¬a¬alternativa¬que¬
+apresenta¬ os¬ prompts¬ exibidos¬ no¬ processo,¬ na¬ sequência¬
+apresentada¬pelo¬AutoCAD.¬
+¬
+(A)¬Nome¬ do¬ bloco¬ já¬ definido;¬ Objetos¬ do¬ bloco¬ atual;¬
+Selecione¬os¬objetos.¬Ponto¬base¬de¬inserção¬para¬o¬novo¬
+bloco.¬
+(B)¬Nome¬do¬bloco¬já¬definido;¬Objetos¬do¬bloco¬para¬o¬novo¬
+bloco;¬Selecione¬os¬objetos.¬Ponto¬base¬de¬inserção¬para¬
+o¬novo¬bloco.¬
+(C)¬Nome¬do¬bloco¬que¬você¬deseja¬definir;¬Objetos¬para¬o¬
+novo¬bloco;¬Selecione¬os¬objetos.¬Ponto¬base¬de¬inserção¬
+para¬o¬novo¬bloco.¬
+(D)¬Selecione¬os¬objetos;¬Nome¬do¬bloco¬já¬definido;¬Objetos¬
+para¬o¬novo¬bloco;¬Ponto¬médio¬de¬inserção¬para¬o¬novo¬
+bloco.¬
+(E)¬Nome¬do¬bloco¬que¬você¬deseja¬definir;¬Objetos¬do¬bloco¬
+atual;¬Ponto¬de¬inserção¬para¬o¬bloco¬original;¬Selecione¬
+os¬objetos.¬
+##### 
+¬
+{50} 
+Quando¬ uma¬ vista¬ em¬ corte¬ é¬ criada,¬ o¬ Revit¬ define¬ uma¬
+profundidade¬ e¬ largura-padrão¬ da¬ vista.¬ Como¬ é¬ possível¬
+controlar¬com¬mais¬precisão¬o¬que¬será¬exibido¬na¬vista¬de¬
+corte?¬
+¬
+(A)¬Selecionando¬uma¬linha¬de¬controle¬na¬vista¬em¬corte¬e¬
+alterando¬ o¬ tamanho¬ de¬ região¬ de¬ recorte¬ (retângulo¬
+tracejado).¬
+(B)¬Selecionando¬ uma¬ linha¬ de¬ corte¬ na¬ vista¬ em¬ planta¬ e¬
+alterando¬ o¬ tamanho¬ de¬ região¬ de¬ recorte¬ (retângulo¬
+tracejado).¬
+(C)¬Adicionando¬ uma¬ visualização¬ em¬ corte¬ na¬ vista¬ de¬
+elevação¬ e¬ controlando¬ os¬ parâmetros¬ através¬ do¬ menu¬
+Vista.¬
+(D)¬Adicionando¬ uma¬ vista¬ de¬ corte¬ na¬ vista¬ de¬ folha¬ e¬
+controlando¬
+os¬
+parâmetros¬
+através¬
+dos¬
+mesmos¬
+parâmetros¬da¬folha.¬
+(E)¬Aplicando¬ cotas¬ na¬ profundidade¬ e¬ na¬ largura¬ de¬ um¬
+retângulo¬ genérico¬ feito¬ em¬ planta¬ e¬ vinculando¬ estes¬
+dados¬à¬família¬de¬vista¬em¬corte.¬
+##### 
+¬
+{51} 
+No¬Revit,¬os¬Perfis¬de¬forma¬definem¬e¬editam¬o¬formato¬básico¬
+de¬uma¬forma¬em¬um¬projeto¬conceitual.¬Um¬perfil¬é¬uma¬linha¬
+única,¬cadeia¬de¬linhas¬conectadas,¬ou¬ciclos¬fechados¬que¬
+podem¬ ser¬ utilizados¬ para¬ gerar¬ uma¬ forma.¬ Os¬ perfis¬ são¬
+manipulados¬ para¬ alterar¬ a¬ geometria¬ de¬ uma¬ forma.¬ É¬
+possível¬adicionar¬perfis¬para¬os¬seguintes¬tipos¬de¬forma:¬
+¬
+(A)¬Extrusões;¬elevações;¬extrusões¬por¬percurso.¬
+(B)¬Varredura¬
+helicoidal;¬
+horizontalização;¬
+chanfros¬
+paramétricos.¬
+(C)¬Extrusões¬circulares;¬elevações;¬percursos¬translacionais¬
+isométricos.¬
+(D)¬Elevações¬ oblíquas;¬ perspectiva¬ axionométrica;¬ faces¬
+polinomiais.¬
+(E)¬Superfícies¬em¬malha¬triangular;¬paraboloides;¬hipérboles.¬
+##### 
+ 
+ 
+ 
+{52} 
+No¬Revit¬cria-se¬uma¬vista¬de¬folha¬para¬cada¬folha,¬em¬um¬
+conjunto¬ de¬ documentos¬ de¬ construção.¬ A¬ partir¬ daí,¬ é¬
+possível¬colocar¬múltiplos¬desenhos¬ou¬tabelas¬em¬cada¬vista¬
+de¬folha.¬Como¬são¬colocados¬os¬desenhos¬na¬vista¬da¬folha?¬
+¬
+(A)¬Somente¬ é¬ possível¬ adicionar¬ uma¬ vista¬ de¬ uma¬
+construção,¬podendo¬ser¬vista¬de¬piso,¬planta¬de¬terreno,¬
+planta¬ de¬ forro,¬ vista¬ em¬ elevação¬ e¬ em¬ 3D,¬ vista¬ de¬
+detalhe,¬ vista¬ de¬ desenho¬ ou¬ vista¬ renderizada.¬ A¬ vista¬
+pode¬ ser¬ colocada¬ em¬ apenas¬ uma¬ folha.¬ Para¬ isso¬ é¬
+preciso¬ primeiro¬ criar¬ e¬ configurar¬ convenientemente¬ a¬
+vista¬e,¬depois,¬o¬processo¬é¬simplesmente¬arrastá-la¬para¬
+dentro¬da¬folha,¬lembrando¬sempre¬que¬houver¬qualquer¬
+alteração¬ neste¬ elemento,¬ estas¬ modificações¬ serão¬
+refletidas¬nas¬folhas.¬
+(B)¬Somente¬ é¬ possível¬ adicionar¬ uma¬ vista¬ de¬ uma¬
+construção,¬podendo¬ser¬vista¬de¬piso,¬planta¬de¬terreno,¬
+planta¬ de¬ forro,¬ vista¬ em¬ elevação¬ e¬ em¬ 3D,¬ vista¬ de¬
+detalhe,¬ vista¬ de¬ desenho¬ ou¬ vista¬ renderizada.¬ A¬ vista¬
+pode¬ ser¬ colocada¬ em¬ apenas¬ uma¬ folha.¬ Para¬ isso¬ é¬
+preciso¬ primeiro¬ criar¬ e¬ configurar¬ convenientemente¬ a¬
+vista¬e,¬depois,¬o¬processo¬é¬simplesmente¬arrastá-la¬para¬
+dentro¬da¬folha,¬lembrando¬sempre¬que¬houver¬qualquer¬
+alteração¬ neste¬ elemento,¬ estas¬ modificações¬ somente¬
+serão¬ refletidas¬ nas¬ folhas¬ quando¬ uma¬ restrição¬ de¬
+coordenação¬for¬adicionada¬e¬desligada.¬
+(C)¬É¬ possível¬ adicionar¬ uma¬ ou¬ mais¬ vistas¬ de¬ uma¬
+construção,¬ incluindo¬ vistas¬ de¬ piso,¬ plantas¬ de¬ terreno,¬
+plantas¬de¬forro,¬vistas¬em¬elevação¬e¬em¬3D,¬vistas¬de¬
+detalhe,¬ vistas¬ de¬ desenho¬ e¬ vistas¬ renderizadas.¬ Cada¬
+vista¬pode¬ser¬colocada¬em¬apenas¬uma¬folha.¬Para¬isso¬é¬
+preciso¬ primeiro¬ criar¬ e¬ configurar¬ convenientemente¬ as¬
+folhas¬e,¬depois,¬fazer¬com¬que¬as¬vistas¬sejam¬separadas¬
+em¬arquivos¬distintos¬e¬referenciadas¬externamente¬à¬folha¬
+criada,¬lembrando¬sempre¬que¬houver¬qualquer¬alteração¬
+nesses¬elementos,¬estas¬modificações¬serão¬refletidas¬nas¬
+folhas.¬
+(D)¬É¬ possível¬ adicionar¬ uma¬ ou¬ mais¬ vistas¬ de¬ uma¬
+construção,¬ incluindo¬ vistas¬ de¬ piso,¬ plantas¬ de¬ terreno,¬
+plantas¬de¬forro,¬vistas¬em¬elevação¬e¬em¬3D,¬vistas¬de¬
+detalhe,¬ vistas¬ de¬ desenho¬ e¬ vistas¬ renderizadas.¬ Cada¬
+vista¬pode¬ser¬colocada¬em¬apenas¬uma¬folha.¬Para¬isso¬é¬
+preciso¬ primeiro¬ criar¬ e¬ configurar¬ convenientemente¬ as¬
+vistas,¬ legendas¬ e¬ tabelas¬ e,¬ depois,¬ o¬ processo¬ é¬
+simplesmente¬ arrastar¬ estes¬ elementos¬ para¬ dentro¬ da¬
+folha,¬lembrando¬sempre¬que¬houver¬qualquer¬alteração¬
+nesses¬elementos,¬estas¬modificações¬serão¬refletidas¬nas¬
+folhas.¬
+(E)¬É¬ possível¬ adicionar¬ uma¬ ou¬ mais¬ vistas¬ de¬ uma¬
+construção,¬ incluindo¬ vistas¬ de¬ piso,¬ plantas¬ de¬ terreno,¬
+plantas¬de¬forro,¬vistas¬em¬elevação¬e¬em¬3D,¬vistas¬de¬
+detalhe,¬ vistas¬ de¬ desenho¬ e¬ vistas¬ renderizadas.¬ Cada¬
+vista¬pode¬ser¬colocada¬em¬apenas¬uma¬folha.¬Para¬isso¬é¬
+preciso¬ primeiro¬ criar¬ e¬ configurar¬ convenientemente¬ as¬
+vistas,¬ legendas¬ e¬ tabelas¬ e,¬ depois,¬ o¬ processo¬ é¬
+simplesmente¬ arrastar¬ estes¬ elementos¬ para¬ dentro¬ da¬
+folha,¬lembrando¬sempre¬que¬houver¬qualquer¬alteração¬
+nesses¬elementos,¬estas¬modificações¬não¬serão¬refletidas¬
+nas¬folhas¬posteriormente.¬O¬processo¬tem¬que¬ser¬refeito¬
+a¬cada¬alteração.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 14 ---
+
+  Concurso Edital RH nº 008/2025 – Engenheiro (Área Eletricista; especialidade: Sistemas Elétricos) 
+{53} 
+DEFATRIB¬é¬um¬comando¬do¬AutoCAD¬que¬cria¬uma¬definição¬
+de¬ atributo¬ para¬ armazenar¬ dados¬ em¬ um¬ bloco.¬ O¬ Valor¬
+Padrão¬ do¬ atributo¬ é¬ um¬ dos¬ elementos¬ a¬ ser¬ inserido¬ na¬
+definição.¬Com¬relação¬ao¬Valor¬Padrão¬do¬atributo,¬assinale¬a¬
+alternativa¬correta¬
+¬
+(A)¬O¬Valor¬Padrão¬do¬atributo¬só¬aparece¬quando¬o¬bloco¬é¬
+selecionado¬no¬espaço¬de¬papel¬(Paper¬Space).¬Um¬Valor¬
+Padrão¬não¬é¬exigido.¬
+(B)¬Somente¬ quando¬ o¬ objeto¬ é¬ inserido¬ em¬ uma¬ escala¬
+padronizada¬ (ex.:¬ 1:100),¬ o¬ Valor¬ Padrão¬ do¬ atributo¬ é¬
+solicitado¬também¬e¬é¬necessário¬defini-lo.¬
+(C)¬O¬ valor¬ do¬ padrão¬ do¬ atributo¬ não¬ aparece¬ quando¬ um¬
+bloco¬ é¬ inserido¬ no¬ desenho.¬ Não¬ é¬ exigido¬ um¬ Valor¬
+Padrão,¬ a¬ não¬ ser¬ que¬ se¬ indique¬ anteriormente¬ esta¬
+necessidade.¬
+(D)¬O¬Valor¬Padrão¬do¬atributo¬aparece¬quando¬um¬bloco¬é¬
+inserido¬no¬desenho.¬Não¬é¬exigido¬um¬Valor¬Padrão.¬
+(E)¬O¬espaço¬do¬papel¬(Paper¬Space)¬utiliza¬folhas¬e¬escalas¬
+padronizadas,¬de¬modo¬que¬o¬Valor¬Padrão¬do¬atributo¬do¬
+bloco¬é¬definido¬a¬partir¬destes¬padrões.¬
+##### 
+¬
+{54} 
+No¬AutoCAD,¬uma¬vista¬nomeada¬é¬criada¬com¬o¬comando¬
+VISTA¬ou¬NOVAVISTA,¬e¬consiste¬em¬definições¬de¬uma¬taxa¬
+de¬ ampliação¬ (zoom),¬ uma¬ posição¬ e¬ uma¬ orientação¬
+específicas.¬ Quando¬ se¬ nomeia¬ uma¬ vista,¬ determinadas¬
+configurações¬ são¬ salvas.¬ Assinale¬ a¬ alternativa¬ que¬
+apresenta¬um¬conjunto¬correto¬destas¬configurações.¬
+¬
+(A)¬Os¬pontos¬inicial¬e¬final¬da¬seleção;¬o¬nome¬alternativo;¬a¬
+taxa¬de¬ampliação¬(zoom),¬ponto¬central¬e¬a¬direção¬da¬
+vista;¬ O¬ sistema¬ de¬ coordenadas¬ universal¬ (WCS);¬ As¬
+configurações¬de¬visibilidade¬no¬desenho¬no¬momento¬que¬
+a¬ vista¬ for¬ salva¬ (opcional);¬ Uma¬ categoria¬ da¬ vista¬
+(opcional);¬Perspectiva¬3D;¬Corte¬automático;¬Estilo¬visual;¬
+Plano¬de¬fundo.¬
+(B)¬A¬localização¬da¬vista;¬a¬taxa¬de¬ampliação¬(zoom),¬o¬ponto¬
+central¬ e¬ a¬ direção¬ da¬ vista;¬ O¬ sistema¬ atual¬ de¬
+coordenadas¬ do¬ usuário¬ (UCS);¬ As¬ configurações¬ de¬
+visibilidade¬no¬desenho¬no¬momento¬que¬a¬vista¬for¬salva¬
+(opcional);¬Uma¬categoria¬da¬vista¬(opcional);¬Perspectiva¬
+3D;¬Corte¬automático;¬Estilo¬visual;¬Plano¬de¬fundo.¬
+(C)¬A¬ posição¬ normal¬ e¬ invertida¬ da¬ câmera¬ que¬ gerou¬ a¬
+Perspectiva¬ 3D;¬ O¬ sistema¬ de¬ coordenadas¬ ortogonal¬ e¬
+oblíquo;¬Camadas,¬cores¬de¬linha¬e¬outras¬propriedades¬
+de¬vista¬(opcional);¬Corte¬automático;¬Plano¬de¬fundo.¬
+(D)¬A¬localização¬da¬vista;¬a¬taxa¬de¬ampliação¬(zoom),¬ponto¬
+inferior¬ esquerdo¬ e¬ direção¬ da¬ vista;¬ O¬ sistema¬ de¬
+coordenadas¬
+do¬
+aplicativo¬
+utilitário¬
+(UCAS);¬
+As¬
+configurações¬de¬visibilidade¬no¬desenho¬no¬momento¬que¬
+a¬ vista¬ for¬ salva¬ (opcional);¬ Uma¬ categoria¬ da¬ vista¬
+(opcional);¬ Perspectiva¬ 3D;¬ Corte¬ principal;¬ Estilo¬ visual;¬
+Plano¬de¬fundo.¬
+(E)¬A¬ localização¬ da¬ vista;¬ a¬ escala,¬ o¬ ponto¬ superior¬ e¬ a¬
+direção¬da¬vista;¬O¬sistema¬de¬coordenadas¬do¬aplicativo¬
+utilitário¬ (UCAS);¬ As¬ configurações¬ de¬ visibilidade¬ no¬
+desenho¬no¬momento¬que¬a¬vista¬for¬salva¬(opcional);¬Uma¬
+categoria¬da¬vista¬(opcional);¬Perspectiva¬isométrica;¬Corte¬
+principal;¬Estilo¬visual;¬Plano¬de¬fundo.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+{55} 
+No¬Revit,¬cada¬vista¬em¬planta¬possui¬uma¬propriedade¬“faixa¬
+da¬vista”,¬também¬conhecida¬como¬“faixa¬visível”.¬Os¬planos¬
+horizontais¬que¬definem¬a¬faixa¬da¬vista¬são:¬
+¬
+(A)¬Cabeçalho,¬ Plano¬ setorial¬ e¬ Rodapé.¬ O¬ Cabeçalho¬ e¬ o¬
+Rodapé¬representam¬a¬parte¬mais¬acima¬e¬mais¬abaixo¬da¬
+faixa¬da¬vista.¬O¬plano¬de¬corte¬é¬um¬plano¬que¬determina¬
+em¬que¬altura¬os¬elementos¬na¬vista¬exibida¬são¬cortados.¬
+Esses¬ três¬ planos¬ definem¬ a¬ faixa¬ principal¬ da¬ faixa¬ de¬
+vista.¬ A¬ Profundidade¬ da¬ vista¬ é¬ o¬ plano¬ fora¬ da¬ faixa¬
+principal.¬ Alterar¬ a¬ profundidade¬ da¬ vista¬ serve¬ para¬
+mostrar¬elementos¬abaixo¬do¬plano¬inferior.¬
+(B)¬Superior,¬Plano¬de¬Corte¬e¬Inferior.¬Os¬planos¬Superior¬e¬
+Inferior¬representam¬a¬parte¬mais¬central¬da¬faixa¬da¬vista.¬
+O¬plano¬de¬corte¬é¬um¬plano¬que¬determina¬em¬que¬altura¬
+os¬ elementos¬ na¬ vista¬ exibida¬ são¬ destacados¬ em¬
+vermelho.¬Esses¬três¬planos¬definem¬a¬faixa¬principal¬da¬
+faixa¬de¬vista.¬A¬Profundidade¬da¬vista¬é¬o¬plano¬fora¬da¬
+faixa¬principal.¬Alterar¬a¬profundidade¬da¬vista¬serve¬para¬
+mostrar¬elementos¬em¬volta¬do¬plano¬inferior.¬
+(C)¬Superior,¬Plano¬de¬Corte¬e¬Inferior.¬Os¬planos¬Superior¬e¬
+Inferior¬representam¬a¬parte¬mais¬acima¬e¬mais¬abaixo¬da¬
+faixa¬da¬vista.¬O¬plano¬de¬corte¬é¬um¬plano¬que¬determina¬
+em¬que¬altura¬os¬elementos¬na¬vista¬exibida¬são¬cortados.¬
+Esses¬ três¬ planos¬ definem¬ a¬ faixa¬ principal¬ da¬ faixa¬ de¬
+vista.¬ A¬ Profundidade¬ da¬ vista¬ é¬ o¬ plano¬ fora¬ da¬ faixa¬
+principal.¬ Alterar¬ a¬ profundidade¬ da¬ vista¬ serve¬ para¬
+mostrar¬elementos¬abaixo¬do¬plano¬inferior.¬
+(D)¬Superior,¬Plano¬de¬Corte¬e¬Inferior.¬Os¬planos¬Superior¬e¬
+Inferior¬representam¬a¬parte¬mais¬acima¬e¬mais¬abaixo¬da¬
+faixa¬da¬vista.¬O¬plano¬de¬corte¬é¬um¬plano¬que¬determina¬
+em¬que¬altura¬os¬elementos¬na¬vista¬exibida¬são¬mostrados¬
+ou¬não.¬Esses¬três¬planos¬definem¬a¬faixa¬principal¬da¬faixa¬
+de¬vista.¬A¬Profundidade¬da¬vista¬é¬um¬plano¬integrado¬à¬
+faixa¬ principal¬ que¬ fica¬ invisível.¬ É¬ possível¬ alterar¬ um¬
+parâmetro¬de¬visibilidade¬para¬mostrar¬elementos¬abaixo¬
+do¬plano¬inferior.¬
+(E)¬Cabeçalho,¬ Plano¬ setorial¬ e¬ Rodapé.¬ O¬ Cabeçalho¬ e¬ o¬
+Rodapé¬representam¬a¬parte¬mais¬acima¬e¬mais¬abaixo¬da¬
+faixa¬da¬vista.¬O¬plano¬de¬corte¬é¬um¬plano¬que¬determina¬
+em¬ que¬ altura¬ os¬ elementos¬ na¬ vista¬ exibida¬ ficam¬ em¬
+vermelho.¬ Esses¬ três¬ planos¬ definem¬ a¬ faixa¬ central¬ da¬
+faixa¬de¬vista.¬A¬Profundidade¬da¬vista¬é¬o¬plano¬fora¬da¬
+faixa¬principal.¬Alterar¬a¬profundidade¬da¬vista¬serve¬para¬
+mostrar¬elementos¬abaixo¬do¬plano¬inferior.¬
+##### 
+¬
+{56} 
+Quando¬ se¬ trabalha¬ em¬ um¬ layout¬ no¬ AutoCAD,¬ o¬ fator¬ de¬
+escala¬representa:¬
+¬
+(A)¬Uma¬relação¬entre¬o¬tamanho¬real¬do¬modelo¬exibido¬na¬
+viewport¬e¬o¬tamanho¬do¬layout.¬
+(B)¬Uma¬relação¬entre¬o¬objeto¬e¬a¬largura¬da¬folha¬utilizada.¬
+(C)¬Um¬cálculo¬em¬que¬se¬leva¬em¬conta¬o¬modo¬de¬fabricação¬
+e¬os¬parâmetros¬de¬definição¬das¬camadas.¬
+(D)¬Uma¬atribuição¬de¬parametrização¬relacionada¬ao¬volume¬
+interno¬e¬ao¬conteúdo¬do¬ambiente¬no¬espaço¬do¬modelo.¬
+(E)¬Uma¬relação¬entre¬o¬tamanho¬da¬representação¬do¬modelo¬
+que¬se¬encaixa¬totalmente¬na¬viewport¬e¬o¬valor¬calculado¬
+da¬área¬do¬layout.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 15 ---
+
+  Concurso Edital RH nº 008/2025 – Engenheiro (Área Eletricista; especialidade: Sistemas Elétricos) 
+{57} 
+Os¬tipos¬de¬cota¬básicos¬no¬AutoCAD¬são¬lineares,¬radiais,¬
+angulares,¬de¬ordenada¬e¬comprimento¬de¬arco.¬Seguindo¬as¬
+definições¬ utilizadas¬ pela¬ AUTODESK,¬ as¬ cotas¬ lineares¬
+podem¬ser:¬
+¬
+(A)¬Horizontais,¬inclinadas¬ou¬circulares.¬
+(B)¬Horizontais,¬verticais¬ou¬alinhadas.¬
+(C)¬Automática,¬semiautomática¬ou¬matricial.¬
+(D)¬Verticais,¬invertidas¬ou¬espelhadas.¬
+(E)¬Alinhadas,¬não¬alinhadas¬ou¬pré-definidas.¬
+##### 
+¬
+{58} 
+As¬ camadas¬ são¬ o¬ método¬ principal¬ do¬ AutoCAD¬ para¬
+organizar¬os¬objetos¬em¬um¬desenho¬por¬função¬ou¬finalidade.¬
+O¬gerenciador¬de¬camadas¬permite:¬criar,¬renomear¬e¬excluir¬
+camadas;¬definir¬a¬camada¬atual¬na¬qual¬os¬novos¬objetos¬são¬
+criados¬automaticamente;¬especificar¬as¬propriedades¬padrão¬
+dos¬objetos¬na¬camada;¬definir¬se¬os¬objetos¬em¬uma¬camada¬
+são¬ exibidos¬ ou¬ desativados;¬ controlar¬ as¬ propriedades¬ de¬
+exibição¬de¬camadas¬em¬viewports¬de¬layout;¬classificar,¬filtrar¬
+e¬ agrupar¬ nomes¬ de¬ camada.¬ Além¬ disso,¬ o¬ que¬ mais¬ é¬
+possível¬manipular¬através¬do¬gerenciador¬de¬camadas?¬
+¬
+(A)¬Controlar¬quais¬objetos¬serão¬salvos¬durante¬o¬salvamento¬
+automático¬e¬qual¬será¬o¬prompt¬de¬comando¬na¬terceira¬
+opção¬deste¬salvamento.¬
+(B)¬Abrir¬ou¬fechar¬o¬vínculo¬de¬referência¬externa¬para¬o¬caso¬
+de¬objetos¬que¬não¬possuem¬um¬ponto¬de¬inserção¬pré-
+definido¬e¬ativar¬a¬sinalização¬de¬compatibilidade.¬
+(C)¬Associar¬escalas¬e¬cores¬às¬cotagens¬lineares¬que¬estão¬
+em¬modo¬automático¬e¬permitir¬que¬as¬atualizações¬das¬
+versões¬acompanhem¬a¬inserção¬do¬usuário.¬
+(D)¬Controlar¬se¬os¬objetos¬em¬uma¬camada¬são¬salvos¬em¬
+.dxf¬e¬definir¬se¬uma¬camada¬é¬bloqueada¬no¬momento¬da¬
+exportação¬para¬o¬formato¬.shx.¬
+(E)¬Controlar¬se¬os¬objetos¬em¬uma¬camada¬são¬plotados¬e¬
+definir¬se¬uma¬camada¬é¬bloqueada¬contra¬edição.¬
+##### 
+¬
+{59} 
+No¬ AutoCAD¬ podem-se¬ ajustar¬ automaticamente¬ as¬ cotas¬
+lineares¬ e¬ angulares¬ paralelas¬ existentes¬ em¬ um¬ desenho,¬
+para¬que¬estejam¬igualmente¬espaçadas¬ou¬alinhadas¬na¬linha¬
+de¬cota,¬uma¬com¬a¬outra.¬O¬comando¬COTALINBASE¬usa¬a¬
+variável¬ de¬ sistema¬ DIMDLI¬ para¬ criar¬ cotas¬ igualmente¬
+espaçadas.¬Sobre¬isso,¬assinale¬a¬alternativa¬correta.¬
+¬
+(A)¬Ao¬alterar¬o¬tamanho¬do¬texto¬ou¬ajusta¬a¬escala¬para¬as¬
+cotas,¬ elas¬ acompanham¬ a¬ nova¬ posição¬ sem¬ causar¬
+problemas¬com¬linhas¬de¬texto¬de¬cotas¬(sobreposição).¬
+(B)¬A¬variável¬passa¬a¬controlar¬automaticamente¬aquela¬cota,¬
+ficando¬vinculada¬a¬ela.¬
+(C)¬O¬valor¬da¬cota¬passa¬a¬ser¬controlado¬pela¬variável,¬que¬
+se¬ sobrepõe¬ ao¬ texto¬ sempre¬ que¬ houver¬ um¬ ajuste¬ de¬
+tamanho¬ou¬estilo¬de¬cotagem.¬
+(D)¬Uma¬vez¬que¬as¬cotas¬sejam¬colocadas,¬a¬alteração¬do¬
+valor¬ da¬ variável¬ de¬ sistema¬ não¬ tem¬ efeito¬ no¬
+espaçamento¬das¬cotas.¬
+(E)¬O¬alinhamento¬das¬cotas,¬assim¬como¬o¬seu¬espaçamento¬
+são¬recalculados¬a¬cada¬vez¬que¬o¬usuário¬define¬o¬ponto¬
+final¬de¬uma¬sequência¬de¬cotagem.¬
+##### 
+ 
+ 
+{60} 
+No¬ Revit,¬ as¬ propriedades¬ de¬ instância¬ de¬ uma¬ rampa¬
+permitem¬alterar¬os¬níveis,¬o¬deslocamento,¬os¬gráficos,¬e¬etc.¬
+Assinale¬ a¬ alternativa¬ que¬ apresenta¬ propriedades¬ de¬
+instância¬de¬uma¬rampa¬no¬Revit¬(Tipo¬de¬propriedade;¬Nome;¬
+Descrição).¬
+¬
+(A)¬Restrições;¬ Nível¬ base;¬ Define¬ a¬ base¬ da¬ rampa;¬
+Restrições;¬ Nível¬ superior;¬ Define¬ o¬ final¬ do¬ patamar¬ da¬
+rampa;¬ Gráficos;¬ Exibir¬ a¬ seta¬ Acima¬ nas¬ vistas¬ laterais;¬
+Indica¬se¬a¬seta¬Acima¬aparece¬nas¬vistas¬laterais;¬Cotas;¬
+Largura;¬ Largura¬ da¬ rampa¬ descontando¬ a¬ largura¬ do¬
+corrimão;¬
+Dados¬
+de¬
+identificação;¬
+Comentários;¬
+Identificação¬ única¬ da¬ rampa;¬ Dados¬ de¬ identificação;¬
+Marcação;¬ Observações¬ variadas;¬ Fase;¬ Demolido¬ por¬
+fase;¬A¬fase¬em¬que¬a¬rampa¬foi¬demolida.¬
+(B)¬Restrições;¬ Nível¬ base;¬ Define¬ a¬ base¬ da¬ rampa;¬
+Restrições;¬ Nível¬ superior;¬ Define¬ o¬ topo¬ da¬ rampa;¬
+Gráficos;¬Exibir¬a¬seta¬Acima¬em¬todas¬as¬vistas;¬Indica¬se¬
+a¬seta¬Acima¬aparece¬em¬todas¬as¬vistas;¬Cotas;¬Largura;¬
+Largura¬da¬rampa;¬Dados¬de¬identificação;¬Comentários;¬
+Comentários¬ específicos¬ sobre¬ a¬ rampa;¬ Dados¬ de¬
+identificação;¬ Marcação;¬ Um¬ identificador¬ único¬ para¬
+rampa;¬Fase;¬Demolido¬por¬fase;¬A¬fase¬em¬que¬a¬rampa¬
+foi¬demolida.¬
+(C)¬Restrições;¬ Nível¬ térreo;¬ Define¬ o¬ nível¬ onde¬ começa¬ o¬
+edifício¬que¬terá¬a¬rampa;¬Restrições;¬Nível¬superior;¬Define¬
+o¬topo¬da¬rampa;¬Gráficos;¬Exibir¬a¬seta¬Acima¬em¬todas¬
+as¬vistas¬pares;¬Indica¬se¬a¬seta¬Acima¬aparece¬em¬todas¬
+as¬ vistas¬ pares;¬ Cotas;¬ Largura;¬ Largura¬ da¬ rampa¬
+descontando¬
+a¬
+largura¬
+do¬
+corrimão;¬
+Dados¬
+de¬
+identificação;¬Comentários;¬Identificação¬da¬rampa¬a¬partir¬
+do¬pavimento¬de¬início;¬Dados¬de¬identificação;¬Marcação;¬
+Observações¬sobre¬materiais;¬Fase;¬Demolido¬por¬fase;¬A¬
+fase¬em¬que¬a¬rampa¬será¬demolida.¬
+(D)¬Restrições;¬ Nível¬ base;¬ Define¬ a¬ rampa¬ anterior;¬
+Restrições;¬ Nível¬ superior;¬ Define¬ a¬ rampa¬ posterior;¬
+Gráficos;¬Exibir¬a¬seta¬Acima¬em¬todas¬as¬vistas;¬Indica¬se¬
+a¬seta¬Acima¬aparece¬em¬todas¬as¬vistas;¬Cotas;¬Largura;¬
+Largura¬da¬rampa;¬Dados¬de¬identificação;¬Comentários;¬
+Comentários¬ genéricos¬ sobre¬ rampas¬ em¬ diversas¬
+edificações;¬ Dados¬ de¬ identificação;¬ Marcação;¬ Um¬
+identificador¬ rampa¬ que¬ contém¬ material¬ e¬ resistência;¬
+Fase;¬ Demolido¬ por¬ fase;¬ A¬ fase¬ em¬ que¬ a¬ rampa¬ foi¬
+demolida.¬
+(E)¬Restrições;¬ Nível¬ base;¬ Define¬ a¬ base¬ da¬ rampa;¬
+Restrições;¬ Nível¬ superior;¬ Define¬ o¬ topo¬ da¬ rampa;¬
+Gráficos;¬Exibir¬a¬seta¬Abaixo¬em¬todas¬as¬vistas;¬Indica¬se¬
+a¬seta¬Abaixo¬aparece¬em¬todas¬as¬vistas;¬Cotas;¬Largura;¬
+Largura¬da¬rampa;¬Dados¬de¬identificação;¬Comentários;¬
+Comentários¬ específicos¬ sobre¬ a¬ rampa;¬ Dados¬ de¬
+identificação;¬ Marcação;¬ Um¬ identificador¬ único¬ para¬
+rampa;¬Fase;¬Demolido¬por¬fase;¬A¬fase¬em¬que¬a¬rampa¬
+será¬demolida.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+¬
+
+
+--- PAGE 16 ---
+
+  Concurso Edital RH nº 008/2025 – Engenheiro (Área Eletricista; especialidade: Sistemas Elétricos) 
+Questão dissertativa 
+No¬Revit,¬uma¬família¬corresponde¬a¬um¬grupo¬de¬elementos¬com¬um¬conjunto¬comum¬de¬propriedades¬chamado¬de¬parâmetros,¬
+e¬uma¬representação¬gráfica¬associada.¬Todos¬os¬elementos¬que¬são¬adicionados¬aos¬projetos¬do¬Revit¬são¬criados¬com¬famílias,¬
+por¬ exemplo:¬ elementos¬ estruturais,¬ paredes,¬ telhados,¬ janelas,¬ portas¬ etc.¬ É¬ possível¬ criar¬ novos¬ parâmetros¬ de¬ instância¬ ou¬
+parâmetros¬de¬tipo¬para¬qualquer¬tipo¬de¬família.¬Com¬base¬nessas¬informações,¬explique¬a¬distinção¬entre¬parâmetros¬de¬tipo¬e¬
+parâmetros¬de¬instância.¬Apresente¬também¬exemplos¬significativos¬desta¬distinção.¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Instruções:  
+• As¬respostas¬deverão¬ser¬redigidas¬de¬acordo¬com¬a¬norma¬padrão¬da¬língua¬portuguesa.¬¬
+• Escreva¬com¬letra¬legível¬e¬não¬ultrapasse¬o¬espaço¬de¬linhas¬disponíveis¬da¬folha¬de¬respostas.¬¬
+• Receberão¬nota¬zero¬textos¬que¬desrespeitarem¬os¬direitos¬humanos¬e¬textos¬que¬permitirem,¬por¬qualquer¬modo,¬a¬identificação¬do¬candidato(a).¬
+
+
+--- PAGE 17 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RASCUNHO 
+ 
+ 
+NÃO SERÁ 
+CONSIDERADO NA 
+CORREÇÃO 
+
+
+--- PAGE 18 ---
+
+V2 
+
+
+--- PAGE 19 ---
+
+ 
+ 
+                 
+ 
+ 
+Universidade de São Paulo 
+GABARITO – CONCURSOS DRH USP – ABRIL/2025 
+ 
+ 
+ 
+ 
+Engenheiro (Área: Eletricista; especialidade: Sistemas Elétricos) – Edital RH Nº 008/2025 
+PROVA EGE 
+1 
+D 
+31 
+E 
+2 
+B 
+32 
+B 
+3 
+E 
+33 
+D 
+4 
+C 
+34 
+E 
+5 
+C 
+35 
+B 
+6 
+E 
+36 
+D 
+7 
+B 
+37 
+C 
+8 
+C 
+38 
+A 
+9 
+E 
+39 
+C 
+10 
+B 
+40 
+D 
+11 
+A 
+41 
+D 
+12 
+C 
+42 
+A 
+13 
+C 
+43 
+A 
+14 
+D 
+44 
+B 
+15 
+C 
+45 
+A 
+16 
+B 
+46 
+B 
+17 
+A 
+47 
+B 
+18 
+E 
+48 
+C 
+19 
+C 
+49 
+C 
+20 
+D 
+50 
+B 
+21 
+C 
+51 
+A 
+22 
+D 
+52 
+D 
+23 
+A 
+53 
+D 
+24 
+A 
+54 
+B 
+25 
+B 
+55 
+C 
+26 
+B 
+56 
+A 
+27 
+E 
+57 
+B 
+28 
+C 
+58 
+E 
+29 
+D 
+59 
+D 
+30 
+A 
+60 
+B 
+ 
+
+
+--- PAGE 20 ---
+
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 008/2025   
+ 
+Engenheiro (Eletricista: Sistemas 
+Elétricos) 
+ 
+QUESTÃO DISSERTATIVA 
+ 
+ 
+ 
+RESPOSTA ESPERADA 
+ 
+Os parâmetros de tipo são comuns a qualquer inserção do objeto da família (instância do objeto) e os parâmetros de 
+instância só se aplicam ao objeto inserido individualmente. 
+Sendo assim, quando se altera um parâmetro de tipo, todas as instâncias daquele elemento da família serão alteradas, 
+e quando se altera um parâmetro da instância, somente aquele elemento editado/alterado será afetado. 
+Em uma porta, por exemplo, a largura pode ser determinada como parâmetro de tipo. Desta forma, para inserir portas 
+de 80, 70 ou 60cm precisarão existir três elementos distintos na mesma família de portas, cada um com uma largura 
+pré-definida. 
+Se a opção do modelador foi definir este parâmetro como de instância, pode haver somente um elemento na família e a 
+largura é definida a cada inserção do elemento, conforme a necessidade. 
+Outros exemplos podem ser dados para melhor compreensão dos conceitos, deixando a resposta mais completa e 
+ilustrada. 
+Espera-se então que o(a) candidato(a): 
+ explique corretamente parâmetro de tipo 
+ explique corretamente parâmetro de instância 
+ exemplifique corretamente parâmetro de tipo 
+ exemplifique corretamente parâmetro de instância 
+ demonstre claramente a distinção entre os parâmetros de tipo e de instância 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 21 ---
+
+ 
+CRITÉRIOS DE CORREÇÃO 
+ 
+• Critério 1: Completude e abrangência dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+Os conceitos principais são abordados com profundidade e detalhamento. 
+2 
+A maioria dos conceitos principais é abordada, mas pode faltar algum detalhe ou profundidade. 
+1 
+Alguns conceitos principais são abordados, mas a explicação é superficial ou incompleta. 
+0  
+Pouco ou nenhum conceito relevante é abordado. 
+ 
+• Critério 2: Domínio e aprofundamento dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+A resposta é precisa, com informações corretas e bem explicadas. 
+2 
+A resposta é em sua maioria precisa, mas pode conter alguns pequenos erros ou imprecisões. 
+1 
+A resposta contém várias imprecisões ou erros conceituais, mas a ideia geral é compreensível. 
+0  
+A resposta está incorreta e confusa. 
+ 
+• Critério 3: Aplicação prática / exemplificação dos conceitos (0 a 3 pontos): 
+Faixa de nota 
+Critério 
+3 
+A resposta faz uma excelente conexão entre os conceitos teóricos e suas aplicações práticas. 
+2 
+A resposta faz boas conexões entre teoria e prática, mas pode ser aprimorada com mais exemplos 
+ou detalhes. 
+1 
+A conexão entre teoria e prática é mencionada, mas é superficial ou pouco clara. 
+0  
+A resposta não aborda a aplicação prática e não apresenta exemplos dos conceitos. 
+ 
+• Critério 4: Clareza e Coerência (0 a 1 ponto): 
+Faixa de nota 
+Critério 
+1 
+O texto é extremamente claro e coerente, apresentando uma explicação lógica e bem estruturada 
+dos conceitos. 
+0,5 
+O texto é claro e coerente, com algumas pequenas falhas na estrutura ou na explicação. 
+0 
+O texto é compreensível, mas apresenta várias falhas na clareza ou na coerência que dificultam a 
+compreensão total. 
+ 
+ 

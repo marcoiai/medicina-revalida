@@ -1,0 +1,505 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/provao2024_chamada_4_2024-03-04.pdf"
+  }
+]
+
+TEXTO-BASE:
+
+
+--- PAGE 1 ---
+
+1 / 12
+04/03/2024
+CONVOCADOS PARA A 4ª MATRÍCULA
+CURSOS USP − LISTA NOMINAL EM ORDEM ALFABÉTICA
+273 CANDIDATOS NESTA LISTA
+***.764.968−** Agatha Camilly Melo Goncalves de Oliveira
+Administração (Bacharelado) − São Paulo − Integral
+C
+PPI
+***.964.368−** Agnes Izabeli dos Santos
+Engenharia Agronômica (Bacharelado) − Piracicaba − Integral
+A
+***.009.738−** Alannys Veloso Lima
+Engenharia Civil (Bacharelado) − São Paulo − Integral
+B
+***.457.248−** Alice Vitoria de Souza Barros
+Ciências Biológicas (Bacharelado/Licenciatura) − São Paulo − Integral
+A
+PPI
+***.833.238−** Alicia Goncalves Carneiro
+Filosofia (Bacharelado/Licenciatura) − São Paulo − Vespertino
+A
+***.222.098−** Alisson Santos Paiva
+Medicina (Bacharelado) − São Paulo − Integral
+A
+PPI
+***.059.828−** Amanda Constancio
+Direito (Bacharelado) − São Paulo − Noturno
+A
+PPI
+***.384.868−** Ana Clara Bonfim
+Letras (Bacharelado/Licenciatura) − São Paulo − Matutino
+A
+PPI
+***.337.718−** Ana Clara Mathias
+Obstetrícia (Bacharelado) − São Paulo − Integral
+C
+***.143.608−** Ana Clara Natel Rodrigues
+Pedagogia (Licenciatura) − São Paulo − Vespertino
+C
+***.025.528−** Ana Clara Stolses
+Sistemas de Informação (Bacharelado) − São Carlos − Noturno
+A
+PPI
+***.902.438−** Ana Clara Vasconcelos Gomes
+Geografia (Bacharelado/Licenciatura) − São Paulo − Noturno
+C
+***.591.738−** Ana Elisa Bernado Xavier
+Administração (Bacharelado) − Ribeirão Preto − Matutino
+A
+***.041.408−** Ana Julia da Luz Souza
+Gestão Ambiental (Bacharelado) − Piracicaba − Noturno
+A
+***.867.878−** Ana Lucia Scaramuza Foresto
+Administração (Bacharelado) − Ribeirão Preto − Noturno
+A
+***.466.098−** Andre Chaves de Godoi
+Educação Física (Bacharelado) − Ribeirão Preto − Integral
+A
+***.637.688−** Andressa Karen de Jesus Silva
+Marketing (Bacharelado) − São Paulo − Noturno
+A
+PPI
+***.455.738−** Andressa Santana Santos
+Fisioterapia (Bacharelado) − São Paulo − Integral
+C
+***.590.588−** Anna Luiza dos Anjos Oliveira
+Farmácia (Bacharelado) − São Paulo − Integral
+A
+PPI
+***.638.948−** Anna Paula Bernardes Alves
+Turismo (Bacharelado) − São Paulo − Noturno
+A
+***.159.718−** Anny Gabrielly de Lima Dorneles
+Administração (Bacharelado) − São Paulo − Integral
+A
+PPI
+***.676.218−** Antonio Carlos Canuto Silva
+Engenharia Agronômica (Bacharelado) − Piracicaba − Integral
+A
+PPI
+***.984.328−** Arthur Dutra Gadelha Costa
+Educação Física e Saúde (Bacharelado) − São Paulo − Integral
+B
+***.605.828−** Arthur Fernandes da Costa
+Química (Bacharelado/Licenciatura) − São Paulo − Integral
+C
+
+
+--- PAGE 2 ---
+
+2 / 12
+04/03/2024
+CONVOCADOS PARA A 4ª MATRÍCULA
+CURSOS USP − LISTA NOMINAL EM ORDEM ALFABÉTICA
+273 CANDIDATOS NESTA LISTA
+***.208.998−** Arthur Luiz Silva Correia
+Ciência da Computação (Bacharelado) − São Paulo − Integral
+A
+PPI
+***.405.868−** Arthur Newell Hiroki
+Engenharia Elétrica (Bacharelado) − São Paulo − Integral
+C
+***.713.818−** Beatriz Izabela Assis Sousa
+Ciências Econômicas (Bacharelado) − São Paulo − Noturno
+A
+PPI
+***.606.258−** Beatriz Lima de Oliveira
+Gestão de Políticas Públicas (Bacharelado) − São Paulo − Matutino
+C
+***.555.038−** Beatriz Porto dos Santos
+Medicina Veterinária (Bacharelado) − São Paulo − Integral
+A
+PPI
+***.509.678−** Beatriz Ribeiro da Silva
+Enfermagem (Bacharelado e Licenciatura) − Ribeirão Preto − Noturno
+A
+***.168.418−** Beatriz Saragosa Morais
+Ciências Biológicas (Bacharelado/Licenciatura) − São Paulo − Noturno
+A
+***.173.428−** Bianca Gomes Santos
+Administração (Bacharelado) − São Paulo − Integral
+A
+PPI
+***.387.398−** Bianca Stefany Ornelas Ferreira
+Engenharia Química (Bacharelado) − Lorena − Noturno
+A
+***.278.608−** Bianca Tutihashi
+Engenharia Mecatrônica (Bacharelado) − São Carlos − Integral
+C
+***.733.428−** Bruno Alves Lima
+Ciências Exatas (Licenciatura) − São Carlos − Noturno
+C
+***.239.598−** Bruno Fernandes Nunes
+Gestão de Políticas Públicas (Bacharelado) − São Paulo − Noturno
+A
+***.193.858−** Bruno Silva Cantil
+História (Bacharelado/Licenciatura) − São Paulo − Noturno
+A
+***.531.408−** Caio Jose Matos Mazzinghy
+Engenharia Química (Bacharelado) − Lorena − Noturno
+A
+***.113.738−** Camila Cristina Bernardo Azevedo
+Farmácia (Bacharelado) − Ribeirão Preto − Integral
+A
+***.759.718−** Camille Quirino Santana
+Engenharia Bioquímica (Bacharelado) − Lorena − Integral
+C
+***.226.948−** Camille Victoria da Silva Souza
+Odontologia (Bacharelado) − São Paulo − Integral
+A
+PPI
+***.890.488−** Camilli Alves Vilela
+Letras (Bacharelado/Licenciatura) − São Paulo − Matutino
+A
+***.441.088−** Carlos Henrique Suterio Lopes
+Física (Licenciatura) − São Paulo − Noturno
+A
+PPI
+***.373.788−** Catarina Neves do Rego Barros
+Audiovisual (Bacharelado) − São Paulo − Integral
+C
+***.161.868−** Cauane Vitoria Bonfim Correia
+Pedagogia (Licenciatura) − São Paulo − Noturno
+A
+***.345.739−** Cristino Junior Figueiredo de Barros
+Engenharia Agronômica (Bacharelado) − Piracicaba − Integral
+A
+***.400.698−** Daniel Alexandre dos Santos
+Engenharia de Produção (Bacharelado) − São Paulo − Integral
+A
+***.656.108−** Daniel de Souza Oliveira Batista
+Engenharia Ambiental (Bacharelado) − Lorena − Integral
+A
+
+
+--- PAGE 3 ---
+
+3 / 12
+04/03/2024
+CONVOCADOS PARA A 4ª MATRÍCULA
+CURSOS USP − LISTA NOMINAL EM ORDEM ALFABÉTICA
+273 CANDIDATOS NESTA LISTA
+***.774.988−** Danilo Dias Bezerra
+Biotecnologia (Bacharelado) − São Paulo − Integral
+A
+***.939.238−** Diego Henrique Silva de Almeida
+Educação Física (Bacharelado/Licenciatura) − São Paulo − Integral
+A
+PPI
+***.622.778−** Eduardo Andreolli de Almeida
+Estatística (Bacharelado) − São Paulo − Integral
+C
+***.033.908−** Eduardo Fernandes Aliaga
+Administração (Bacharelado) − São Paulo − Integral
+A
+***.607.238−** Eduardo Ferreira Dutra
+Fisioterapia (Bacharelado) − Ribeirão Preto − Integral
+A
+***.721.196−** Eduardo Henrique Silveira de Oliveira
+Ciências Econômicas (Bacharelado) − Ribeirão Preto − Matutino
+C
+***.719.258−** Eloisa Barbosa dos Santos
+Biotecnologia (Bacharelado) − São Paulo − Integral
+C
+PPI
+***.453.888−** Emanoela Graziela Alves Santos
+História (Bacharelado/Licenciatura) − São Paulo − Noturno
+A
+***.397.198−** Emilly Vitoria Ataides de Oliveira
+Educação Física (Bacharelado) − Ribeirão Preto − Integral
+A
+***.858.408−** Enzo de Moraes Ferreira
+Matemática Aplicada (Bacharelado) − São Paulo − Integral
+C
+***.302.448−** Enzo Morais Silva
+Lazer e Turismo (Bacharelado) − São Paulo − Noturno
+C
+***.899.668−** Enzo Santini Carrubba Alves
+Geografia (Bacharelado/Licenciatura) − São Paulo − Vespertino
+A
+PPI
+***.903.158−** Enzo Vinicius Silva dos Santos
+Sistemas de Informação (Bacharelado) − São Paulo − Noturno
+A
+PPI
+***.658.668−** Erica Bertolucci
+Física Médica (Bacharelado) − Ribeirão Preto − Integral
+A
+***.916.728−** Erick Henrique Silva Barros
+Letras (Bacharelado/Licenciatura) − São Paulo − Matutino
+A
+***.547.828−** Ester Barbosa Rafael
+Psicologia (Bacharelado/Psicólogo) − Ribeirão Preto − Integral
+C
+PPI
+***.135.798−** Evellyn Eduarda Rodrigues da Silva
+Química (Bacharelado/Licenciatura) − São Paulo − Integral
+A
+PPI
+***.337.738−** Evenyn Beatriz Santana de Freitas
+Pedagogia (Licenciatura) − São Paulo − Noturno
+A
+***.255.038−** Ezequiel Ygor Caldeira Querino dos Santos
+Ciências Econômicas (Bacharelado) − São Paulo − Integral
+A
+***.581.848−** Fabio Lucas Pinheiro de Moraes
+Engenharia Agronômica (Bacharelado) − Piracicaba − Integral
+A
+PPI
+***.826.028−** Fabio Mateus de Lima Oliveira
+Ciências Contábeis (Bacharelado) − São Paulo − Noturno
+A
+***.990.368−** Felipe Alves de Lima
+Letras (Bacharelado/Licenciatura) − São Paulo − Matutino
+A
+***.688.508−** Felipe Garbelotti Machuca
+Engenharia Mecânica (Bacharelado) − São Carlos − Integral
+C
+***.326.128−** Felipe Nogueira Oliva
+Administração (Bacharelado) − Piracicaba − Integral
+A
+
+
+--- PAGE 4 ---
+
+4 / 12
+04/03/2024
+CONVOCADOS PARA A 4ª MATRÍCULA
+CURSOS USP − LISTA NOMINAL EM ORDEM ALFABÉTICA
+273 CANDIDATOS NESTA LISTA
+***.589.928−** Franciely Carvalho da Silva
+Enfermagem (Bacharelado/Licenciatura) − São Paulo − Integral
+A
+PPI
+***.723.598−** Gabriel Rocha
+História (Bacharelado/Licenciatura) − São Paulo − Noturno
+A
+***.901.058−** Gabriel Siqueira Fernandes
+Ciências Contábeis (Bacharelado) − São Paulo − Noturno
+A
+***.556.648−** Gabriele Helena Pupo da Silva
+Letras (Bacharelado/Licenciatura) − São Paulo − Noturno
+A
+***.694.498−** Gabrielle Detoni
+Ciências Biológicas (Bacharelado/Licenciatura) − Piracicaba − Noturno
+A
+***.794.648−** Gabrielly Silva de Jesus
+Medicina (Bacharelado) − Bauru − Integral
+A
+PPI
+***.185.718−** Geovana Barbosa Santos
+Fonoaudiologia (Bacharelado) − São Paulo − Integral
+A
+PPI
+***.366.038−** Geovana Brunetto de Cerqueira
+Odontologia (Bacharelado) − São Paulo − Integral
+A
+PPI
+***.052.478−** Giovana Rodrigues dos Santos
+Psicologia (Bacharelado/Licenciatura/Psicólogo) − São Paulo − Integral
+A
+***.255.671−** Giovanna Miranda Romero
+Odontologia (Bacharelado) − Bauru − Integral
+A
+***.841.498−** Giovanna Moreira da Costa
+Engenharia Química (Bacharelado) − Lorena − Integral
+C
+***.457.378−** Giovanna Rodrigues de Lima
+Engenharia Civil (Bacharelado) − São Carlos − Integral
+A
+***.651.448−** Giovanna Santos Januario
+Arquitetura e Urbanismo (Bacharelado) − São Paulo − Integral
+A
+PPI
+***.918.568−** Giovanna Taila Risoli
+Engenharia de Produção (Bacharelado) − São Carlos − Integral
+A
+***.152.948−** Gislaine Camile de Freitas Santos
+Engenharia de Produção (Bacharelado) − Lorena − Noturno
+C
+***.421.138−** Giulia Silva Ferreira
+Ciências Econômicas (Bacharelado) − São Paulo − Integral
+C
+PPI
+***.196.418−** Giuliana Freire da Silva
+Administração (Bacharelado) − São Paulo − Noturno
+C
+PPI
+***.033.948−** Glenda Fernandes Machado
+Farmácia (Bacharelado) − Ribeirão Preto − Integral
+A
+***.442.248−** Grazielly Nathalia Pereira Martins
+Direito (Bacharelado) − Ribeirão Preto − Integral
+A
+PPI
+***.395.178−** Guilherme Mancinho Andrade
+Geografia (Bacharelado/Licenciatura) − São Paulo − Vespertino
+C
+***.928.648−** Gustavo Albuquerque Souza
+Química (Bacharelado/Licenciatura) − São Paulo − Noturno
+A
+***.184.708−** Gustavo Barros Basso
+Engenharia Elétrica − Ênfase em Eletrônica (Bacharelado) − São Carlos − Integral
+C
+***.071.208−** Gustavo Canicoba de Andrade
+Física (Bacharelado) − São Paulo − Noturno
+C
+***.465.118−** Gustavo Nunes de Oliveira
+Relações Internacionais (Bacharelado) − São Paulo − Vespertino
+A
+PPI
+
+
+--- PAGE 5 ---
+
+5 / 12
+04/03/2024
+CONVOCADOS PARA A 4ª MATRÍCULA
+CURSOS USP − LISTA NOMINAL EM ORDEM ALFABÉTICA
+273 CANDIDATOS NESTA LISTA
+***.142.408−** Gustavo Padueli
+Estatística e Ciência de Dados (Bacharelado) − São Carlos − Noturno
+A
+***.920.038−** Heitor Henrique Pinto
+Engenharia Ambiental (Bacharelado) − São Carlos − Integral
+A
+***.851.818−** Hellena de Fatima Marcelino
+Nutrição e Metabolismo (Bacharelado) − Ribeirão Preto − Integral
+C
+***.847.188−** Heloisa Santana Rodrigues
+Farmácia (Bacharelado) − São Paulo − Noturno
+A
+***.464.828−** Henrique Sportellini Ramos
+Engenharia Ambiental (Bacharelado) − São Paulo − Integral
+A
+***.710.068−** Isabela Barbosa Lopes
+Letras (Bacharelado/Licenciatura) − São Paulo − Matutino
+C
+PPI
+***.488.878−** Isabella Aparecida Alves Bandeira dos Santos
+Ciências Econômicas (Bacharelado) − São Paulo − Noturno
+B
+***.074.338−** Isabella Leite dos Santos Silva
+Letras (Bacharelado/Licenciatura) − São Paulo − Matutino
+A
+***.275.185−** Isabelle Vitoria do Nascimento Pessoa
+Direito (Bacharelado) − São Paulo − Matutino
+A
+***.175.828−** Isadora Kayal Gabriel Vizcarra Avila Costa
+Direito (Bacharelado) − São Paulo − Noturno
+A
+PPI
+***.614.398−** Isadora Moscardo Pedro
+Ciências Biológicas (Bacharelado/Licenciatura) − Ribeirão Preto − Integral
+C
+***.467.598−** Isis Ferreira de Aquino
+Psicologia (Bacharelado/Psicólogo) − Ribeirão Preto − Integral
+A
+PPI
+***.431.258−** Ivo Henrique Poeta Queiroz Borges Siqueira
+Física (Bacharelado) − São Carlos − Integral
+A
+***.701.718−** Janet Estefani Baez Velasquez
+Arquitetura e Urbanismo (Bacharelado) − São Paulo − Integral
+A
+PPI
+***.025.838−** Jefferson Germano de Almeida
+Ciências Sociais (Bacharelado/Licenciatura) − São Paulo − Vespertino
+A
+***.270.858−** Joao Eduardo Alves Dutra
+Física (Bacharelado) − São

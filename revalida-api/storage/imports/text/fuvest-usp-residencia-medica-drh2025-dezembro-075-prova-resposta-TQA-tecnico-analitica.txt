@@ -1,0 +1,2009 @@
+
+
+--- PAGE 1 ---
+
+ 
+TQA 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 075/2025  
+ 
+Técnico de Laboratório (especialidade: 
+Química analítica) 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique¬se¬o¬seu¬nome¬está¬correto¬na¬capa¬deste¬caderno¬e¬se¬a¬folha¬de¬respostas¬pertence¬ao¬grupo TQA.¬
+Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+3. Durante¬a¬prova,¬são¬vedadas¬a¬comunicação¬entre¬candidatos¬e¬a¬utilização¬de¬qualquer¬material¬de¬consulta¬e¬
+de¬aparelhos¬de¬telecomunicação.¬
+4. Duração¬da¬prova:¬3 horas.¬Cabe¬ao¬candidato¬controlar¬o¬tempo¬com¬base¬nas¬informações¬fornecidas¬pelo¬
+fiscal.¬O(A)¬candidato(a)¬poderá¬retirar-se¬da¬sala¬definitivamente¬apenas¬a¬partir¬das¬15¬h.¬Não¬haverá¬tempo¬
+adicional¬para¬preenchimento¬da¬folha¬de¬respostas.¬¬
+5. O(A)¬ candidato(a)¬ deverá¬ seguir¬ as¬ orientações¬ estabelecidas¬ pela¬ FUVEST¬ a¬ respeito¬ dos¬ procedimentos¬
+adotados¬para¬a¬aplicação¬deste¬concurso.¬
+6. Lembre-se¬de¬que¬a¬FUVEST¬se¬reserva¬ao¬direito¬de¬efetuar¬procedimentos¬adicionais¬de¬identificação¬e¬controle¬
+do¬ processo,¬ visando¬ a¬ garantir¬ a¬ plena¬ integridade¬ do¬ exame.¬ Assim,¬ durante¬ a¬ realização¬ da¬ prova,¬ será¬
+coletada¬por¬um¬fiscal¬uma¬foto¬do(a)¬candidato(a)¬para¬fins¬de¬reconhecimento¬facial,¬para¬uso¬exclusivo¬da¬USP¬
+e¬da¬FUVEST.¬A¬imagem¬não¬será¬divulgada¬nem¬utilizada¬para¬quaisquer¬outras¬finalidades,¬nos¬termos¬da¬lei.¬
+7. Após¬a¬autorização¬do¬fiscal¬da¬sala,¬verifique¬se¬o¬caderno¬está¬completo.¬Ele¬deve¬conter¬60 questões objetivas,¬
+com¬5¬alternativas¬cada.¬Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+8. Preencha¬a¬folha¬de¬respostas¬com¬cuidado,¬utilizando¬caneta¬esferográfica¬de¬tinta azul ou preta.¬Essa¬folha¬
+não será substituída¬em¬caso¬de¬rasura.¬
+9. Ao¬final¬da¬prova,¬é¬obrigatória¬a¬devolução¬da¬folha¬de¬respostas¬acompanhada¬deste¬caderno¬de¬questões.¬
+Declaração 
+Declaro¬que¬li¬e¬estou¬ciente¬das¬informações¬que¬constam¬na¬capa¬desta¬prova,¬na¬folha¬de¬respostas,¬bem¬
+como¬dos¬avisos¬que¬foram¬transmitidos¬pelo¬fiscal¬de¬sala.¬
+¬
+___________________________________________________¬
+ASSINATURA¬
+O(a)¬candidato(a)¬que¬não¬assinar¬a¬capa¬da¬prova¬será¬considerado(a)¬ausente¬da¬prova.¬
+ 
+ 
+
+
+--- PAGE 2 ---
+
+Concurso Edital RH nº 075/2025 – Técnico de Laboratório (especialidade: Química analítica)¬
+Texto para as questões de 01 a 05 
+"Jasmim¬teve¬muita¬sorte¬com¬as¬mulheres¬que¬cruzaram¬os¬
+caminhos¬ dele.¬ Elas¬ lhe¬ ofereceram¬ amor¬ ou¬ um¬ inofensivo¬
+esquecimento.[...].¬Parece¬que¬essas¬relações¬ficaram¬como¬
+se¬nunca¬tivessem¬existido¬para¬ele.¬Mas,¬quem¬sabe,¬talvez,¬
+algumas¬ dessas¬ lembranças¬ desses¬ encontros¬ estivessem¬
+conservadas¬em¬algum¬vão¬de¬sua¬memória.¬Entretanto,¬como¬
+partículas¬tão¬pequenas,¬como¬imagens¬tão¬diluídas,¬que¬ele¬
+poderia¬afirmar¬a¬inexistência¬delas.¬¬
+¬Mas,¬para¬as¬mulheres,¬o¬contrário¬se¬dava.¬Nós,¬às¬vezes,¬
+nos¬embrenhamos¬de¬tal¬forma¬nas¬recordações¬do¬passado,¬
+que¬ o¬ já¬ acontecido¬ se¬ levanta¬ das¬ vias¬ da¬ memória¬ e¬ se¬
+corporifica¬no¬presente.¬Foi¬o¬que¬se¬deu¬com¬Neide¬Paranhos¬
+da¬Silva.¬Ela¬fez¬da¬breve¬presença¬de¬Fio¬Jasmim¬em¬sua¬vida¬
+uma¬sólida¬e¬palpável¬lembrança."¬¬
+¬
+Conceição¬Evaristo.¬Canção¬para¬ninar¬menino¬grande.¬Rio¬de¬Janeiro:¬
+Pallas,¬2022.Adaptado.¬
+{01} 
+Em¬relação¬ao¬texto,¬assinale¬a¬alternativa¬que¬apresenta¬a¬
+principal¬ diferença¬ entre¬ a¬ forma¬ como¬ Fio¬ Jasmim¬ e¬ as¬
+mulheres¬lidam¬com¬as¬relações¬amorosas.¬
+¬
+(A)¬Fio¬Jasmim¬sempre¬esquece,¬enquanto¬as¬mulheres¬nunca¬
+sentem¬nada.¬
+(B)¬As¬mulheres¬esquecem¬rapidamente,¬e¬Jasmim¬é¬quem¬
+lembra¬de¬tudo.¬
+(C)¬ Fio¬ Jasmim¬ guarda¬ lembranças¬ profundas,¬ mas¬ não¬ as¬
+compartilha.¬
+(D)¬As¬ mulheres¬ vivenciam¬ intensamente¬ e¬ guardam¬ as¬
+lembranças;¬Jasmim¬tende¬a¬esquecer.¬
+(E)¬ Fio¬ Jasmim¬ e¬ as¬ mulheres¬ vivem¬ as¬ histórias¬ de¬ forma¬
+intensa¬e¬igual.¬
+##### 
+¬
+{02} 
+Qual¬alternativa¬apresenta¬uma¬metáfora¬usada¬no¬texto?¬
+¬
+(A)¬“se¬levanta¬das¬vias¬da¬memória”¬
+(B)¬“teve¬muita¬sorte”¬
+(C)¬“poderia¬afirmar¬a¬inexistência¬delas”¬
+(D)¬“elas¬lhe¬ofereceram¬amor”¬
+(E)¬“Foi¬o¬que¬se¬deu¬com¬Neide¬Paranhos¬da¬Silva.”¬
+##### 
+¬
+{03} 
+No¬trecho¬“Nós,¬às¬vezes,¬nos¬embrenhamos¬de¬tal¬forma¬nas¬
+recordações¬do¬passado,¬que¬o¬já¬acontecido¬se¬levanta¬das¬
+vias¬da¬memória¬e¬se¬corporifica¬no¬presente.”,¬o¬emprego¬do¬
+pronome¬“nós”¬indica¬
+¬
+(A)¬a¬presença¬de¬uma¬voz¬distante:¬um¬narrador¬externo.¬
+(B)¬o¬uso¬da¬primeira¬pessoa¬do¬singular:¬uma¬mulher¬narra¬
+sobre¬sua¬história.¬
+(C)¬uma¬ voz¬ indiferente:¬relata¬ os¬ fatos¬ sem¬ envolvimento¬
+emocional.¬
+(D)¬um¬ narrador¬ externo:¬ conhece¬ os¬ sentimentos¬ dos¬
+personagens.¬
+(E)¬o¬narrador¬coletivo:¬representa¬a¬memória¬e¬os¬sentimentos¬
+de¬várias¬mulheres.¬
+##### 
+¬
+¬
+¬
+¬
+{04} 
+No¬texto,¬o¬uso¬da¬expressão¬“Foi¬o¬que¬se¬deu¬com¬Neide¬
+Paranhos¬da¬Silva”¬tem¬a¬função¬de:¬
+¬
+(A)¬Introduzir¬um¬novo¬tema¬sem¬relação¬com¬o¬anterior.¬
+(B)¬Confirmar¬e¬exemplificar¬o¬que¬foi¬dito¬antes.¬
+(C)¬Contradizer¬a¬ideia¬abordada¬anteriormente.¬
+(D)¬Indicar¬uma¬crítica¬à¬personagem.¬
+(E)¬Finalizar¬o¬texto¬com¬a¬conclusão¬geral.¬
+##### 
+¬
+{05} 
+No¬ trecho¬ “Elas¬ lhe¬ ofereceram¬ amor¬ ou¬ um¬ inofensivo¬
+esquecimento.”,¬a¬palavra¬“elas”¬tem¬a¬função¬de: 
+(A)¬Conectar¬duas¬ideias¬do¬texto.¬¬
+(B)¬Indicar¬a¬¬causa¬do¬esquecimento.¬
+(C)¬Substituir¬um¬nome¬citado¬no¬texto.¬
+(D)¬Iniciar¬uma¬nova¬ideia¬citada¬no¬texto.¬
+(E)¬Reforçar¬um¬nome¬citado¬no¬texto.¬
+##### 
+¬
+ 
+Tirinha para as questões 06 e 07 
+ 
+¬
+¬
+Folha¬de¬São¬Paulo,¬04.09.2025.¬
+¬
+{06} 
+A¬ tirinha¬ apresenta¬ uma¬ crítica¬ social¬ por¬ meio¬ do¬ uso¬ do¬
+humor¬ e¬ da¬ ironia.¬ Considerando¬ o¬ contexto¬ e¬ os¬ recursos¬
+utilizados,¬a¬principal¬crítica¬é¬feita¬à¬
+¬
+(A)¬despersonalização¬do¬indivíduo¬na¬sociedade¬atual.¬
+(B)¬promoção¬da¬paz¬como¬valor¬ultrapassado¬ou¬inútil.¬
+(C)¬expansão¬ excessiva¬ da¬ publicidade¬ nos¬ meios¬ de¬
+comunicação.¬
+(D)¬utilização¬de¬palavras¬ambíguas¬para¬manipular¬a¬opinião¬
+pública.¬
+(E)¬valorização¬da¬violência¬transformada¬em¬entretenimento.¬
+##### 
+¬
+{07} 
+Na¬ tirinha,¬ a¬ expressão¬ “O¬ mercado¬ cresce¬ a¬ olhos¬ vistos”¬
+pode¬ser¬substituída,¬sem¬alterar¬o¬sentido¬da¬frase,¬por¬“O¬
+mercado¬¬
+¬
+(A)¬cresce¬de¬maneira¬perceptível.”¬
+(B)¬aumenta¬de¬forma¬invisível.”¬
+(C)¬diminui¬lentamente.”¬
+(D)¬estagna¬sem¬mudanças.”¬
+(E)¬desaparece¬rapidamente.”¬
+##### 
+¬
+¬
+¬
+
+
+--- PAGE 3 ---
+
+Concurso Edital RH nº 075/2025 – Técnico de Laboratório (especialidade: Química analítica)¬
+Texto para as questões 08 e 09 
+Banco¬vermelho¬é¬instalado¬no¬Senado¬pelo¬combate¬à¬
+violência¬contra¬a¬mulher¬
+Desde¬o¬ano¬passado,¬as¬cidades¬brasileiras¬precisam¬instalar¬
+bancos¬vermelhos¬em¬espaços¬públicos¬para¬representar¬o¬
+combate¬à¬violência¬contra¬a¬mulher.¬A¬Lei¬14.942/2024¬faz¬
+parte¬de¬uma¬campanha¬de¬conscientização¬sobre¬a¬violência¬
+e¬o¬feminicídio¬durante¬o¬Agosto¬Lilás.¬No¬Senado,¬uma¬das¬
+diversas¬iniciativas¬previstas¬para¬o¬mês¬é¬a¬instalação¬de¬um¬
+grande¬banco¬vermelho¬com¬frases¬de¬resistência¬e¬canais¬de¬
+denúncia¬ na¬ Praça¬ das¬ Abelhas,¬ espaço¬ de¬ grande¬
+circulação.¬
+¬
+Disponível¬em:¬https://www12.senado.leg.br.¬Adaptado.¬
+¬
+¬
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬Foto:¬Jefferson¬Rudy/Agência¬Senado¬
+¬
+¬
+ 
+ 
+{08} 
+O¬cartaz¬da¬campanha¬“Feminicídio¬Zero”¬apresenta¬recursos¬
+linguísticos¬ e¬ visuais¬ com¬ o¬ objetivo¬ de¬ conscientizar¬ a¬
+sociedade¬sobre¬a¬violência¬contra¬a¬mulher.¬A¬frase¬“Sentar¬e¬
+refletir.¬Levantar¬e¬agir.”,¬presente¬no¬centro¬do¬cartaz,¬tem¬
+como¬principal¬função:¬
+¬
+(A)¬Utilizar¬linguagem¬técnica¬e¬objetiva¬para¬informar¬sobre¬
+os¬tipos¬de¬feminicídio.¬
+(B)¬Estimular¬ uma¬ resposta¬ emocional¬ direta¬ por¬ meio¬ da¬
+repetição¬de¬termos¬jurídicos.¬
+(C)¬Criar¬ um¬ apelo¬ reflexivo¬ e¬ mobilizador¬ por¬ meio¬ de¬
+paralelismo¬e¬sentido¬figurado.¬
+(D)¬Informar¬sobre¬os¬dados¬estatísticos¬da¬violência¬contra¬a¬
+mulher¬no¬Brasil.¬
+(E)¬Representar¬literalmente¬a¬posição¬das¬vítimas¬ao¬sofrerem¬
+agressões¬físicas.¬
+##### 
+¬
+{09} 
+A¬ escolha¬ por¬ instalar¬ um¬ banco¬ vermelho¬ com¬ frases¬ de¬
+resistência¬ e¬ canais¬ de¬ denúncia¬ em¬ um¬ local¬ de¬ grande¬
+circulação¬no¬Senado,¬como¬parte¬do¬Agosto¬Lilás,¬indica¬que¬
+¬
+(A)¬o¬Senado¬tem¬interesse¬em¬promover¬o¬turismo¬por¬meio¬
+de¬instalações¬artísticas¬em¬seus¬espaços.¬
+(B)¬a¬presença¬do¬banco¬em¬um¬ambiente¬institucional¬reforça¬
+a¬ideia¬de¬que¬a¬violência¬contra¬a¬mulher¬é¬um¬problema¬
+do¬espaço¬público.¬
+(C)¬a¬ação¬busca¬visibilidade¬midiática¬para¬atrair¬atenção¬à¬
+arquitetura¬do¬Congresso¬Nacional.¬
+(D)¬o¬uso¬de¬um¬objeto¬simbólico¬em¬espaço¬de¬poder¬destaca¬
+a¬urgência¬de¬ações¬concretas¬contra¬o¬feminicídio.¬
+(E)¬a¬ escolha¬ da¬ cor¬ vermelha¬ representa¬ neutralidade¬
+institucional¬ e¬ foi¬ motivada¬ por¬ razões¬ estéticas¬ e¬
+explícitas.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 4 ---
+
+Concurso Edital RH nº 075/2025 – Técnico de Laboratório (especialidade: Química analítica)¬
+Texto para as questões de 10 a 13 
+ 
+About¬the¬International¬Baccalaureate¬(IB)¬
+¬
+The¬ aim¬ of¬ all¬ IB¬ programmes¬ is¬ to¬ develop¬ internationally¬
+minded¬people¬who,¬recognizing¬their¬common¬humanity¬and¬
+shared¬guardianship¬of¬the¬planet,¬help¬to¬create¬a¬better¬and¬
+more¬peaceful¬world.¬¬
+¬
+As¬IB¬learners¬we¬strive¬to¬be:¬¬
+¬
+Inquirers:¬We¬nurture¬our¬curiosity,¬developing¬skills¬for¬inquiry¬
+and¬research.¬We¬know¬how¬to¬learn¬independently¬and¬with¬
+others.¬ We¬ learn¬ with¬ enthusiasm¬ and¬ sustain¬ our¬ love¬ of¬
+learning¬throughout¬life.¬¬¬
+¬
+Knowledgeable:¬
+We¬
+develop¬
+and¬
+use¬
+conceptual¬
+understanding,¬ exploring¬ knowledge¬ across¬ a¬ range¬ of¬
+disciplines.¬We¬engage¬with¬issues¬and¬ideas¬that¬have¬local¬
+and¬global¬significance.¬¬¬
+¬
+Thinkers:¬We¬use¬critical¬and¬creative¬thinking¬skills¬to¬analyse¬
+and¬ take¬ responsible¬ action¬ on¬ complex¬ problems.¬ We¬
+exercise¬initiative¬in¬making¬reasoned,¬ethical¬decisions.¬¬¬
+ 
+Communicators:¬ We¬ express¬ ourselves¬ confidently¬ and¬
+creatively¬in¬more¬than¬one¬language¬and¬in¬many¬ways.¬We¬
+collaborate¬effectively,¬listening¬carefully¬to¬the¬perspectives¬of¬
+other¬individuals¬and¬groups.¬¬¬
+¬
+Principled:¬ We¬ act¬ with¬ integrity¬ and¬ honesty,¬ with¬ a¬ strong¬
+sense¬of¬fairness¬and¬justice,¬and¬with¬respect¬for¬the¬dignity¬
+and¬rights¬of¬people¬everywhere.¬We¬take¬responsibility¬for¬our¬
+actions¬and¬their¬consequences.¬¬
+¬
+Open-minded: We¬critically¬appreciate¬our¬own¬cultures¬and¬
+personal¬ histories,¬ as¬ well¬ as¬ the¬ values¬ and¬ traditions¬ of¬
+others.¬We¬seek¬and¬evaluate¬a¬range¬of¬points¬of¬view,¬and¬
+we¬are¬willing¬to¬grow¬from¬the¬experience.¬¬
+¬
+Caring:¬We¬show¬empathy,¬compassion¬and¬respect.¬We¬have¬
+a¬ commitment¬ to¬ service,¬ and¬ we¬ act¬ to¬ make¬ a¬ positive¬
+difference¬in¬the¬lives¬of¬others¬and¬in¬the¬world¬around¬us.¬¬
+ 
+Risk-takers:¬ We¬ approach¬ uncertainty¬ with¬ forethought¬ and¬
+determination;¬ we¬ work¬ independently¬ and¬ cooperatively¬ to¬
+explore¬ new¬ ideas¬ and¬ innovative¬ strategies.¬ We¬ are¬
+resourceful¬and¬resilient¬in¬the¬face¬of¬challenges¬and¬change.¬¬
+ 
+Balanced: We¬ understand¬ the¬ importance¬ of¬ balancing¬
+different¬ aspects¬ of¬ our¬ lives—intellectual,¬ physical,¬ and¬
+emotional—to¬achieve¬well-being¬for¬ourselves¬and¬others.¬We¬
+recognize¬our¬interdependence¬with¬other¬people¬and¬with¬the¬
+world¬in¬which¬we¬live.¬¬
+¬
+Reflective:¬ We¬ thoughtfully¬ consider¬ the¬ world¬ and¬ our¬ own¬
+ideas¬and¬experience.¬We¬work¬to¬understand¬our¬strengths¬
+and¬weaknesses¬in¬order¬to¬support¬our¬learning¬and¬personal¬
+development.¬¬
+¬
+Disponível¬em:¬Ibo.org.¬September¬28,¬2025.¬¬
+ 
+ 
+ 
+ 
+ 
+{10} 
+Em¬relação¬ao¬texto¬apresentado,¬qual¬é¬o¬principal¬objetivo¬
+de¬todos¬os¬programas¬do¬International¬Baccalaureate¬(IB)?¬¬
+(A)¬Preparar¬ estudantes¬ para¬ superar¬ outros¬ em¬ testes¬
+padronizados¬em¬escala¬global.¬
+(B)¬Criar¬uma¬mentalidade¬competitiva¬que¬prioriza¬o¬sucesso¬
+pessoal¬sobre¬o¬bem-estar¬da¬comunidade.¬
+(C)¬Direcionar¬ os¬ aprendizes¬ em¬ uma¬ única¬ disciplina¬ para¬
+que¬se¬tornem¬os¬melhores¬especialistas.¬
+(D)¬Desenvolver¬pessoas¬com¬mentalidade¬internacional¬que¬
+ajudem¬a¬construir¬um¬mundo¬melhor¬e¬mais¬pacífico.¬
+(E)¬ Promover¬ o¬ uso¬ exclusivo¬ do¬ inglês¬ como¬ língua¬ de¬
+comunicação¬internacional.¬¬
+#####
+ 
+{11} 
+Na¬descrição¬de¬Risk-takers,¬apresentada¬no¬texto,¬¬a¬palavra¬
+“forethought”¬expressa¬
+¬
+(A)¬improvisação¬diante¬de¬decisões¬de¬última¬hora.¬
+(B)¬planejamento¬ prévio¬ e¬ consideração¬ antecipada¬ das¬
+consequências.¬
+(C)¬coragem¬ para¬ ignorar¬ riscos¬ em¬ busca¬ de¬ resultados¬
+rápidos.¬
+(D)¬conhecimento¬técnico¬aprofundado¬em¬uma¬única¬área.¬
+(E)¬distanciamento¬emocional¬para¬tomar¬decisões¬“a¬sangue-
+frio”.¬
+##### 
+¬
+{12} 
+Na¬descrição¬de¬Open-minded,¬a¬expressão¬“grow¬from¬the¬
+experience”¬refere-se¬ao¬processo¬de¬crescimento¬que¬parte¬
+da¬ação¬de¬
+¬
+(A)¬vencer¬debates¬persuadindo¬outros¬de¬seu¬ponto¬de¬vista.¬
+(B)¬memorizar¬fatos¬sobre¬tradições¬de¬países.¬
+(C)¬buscar¬e¬avaliar¬uma¬gama¬de¬pontos¬de¬vista.¬
+(D)¬praticar¬uma¬língua¬estrangeira¬em¬atividades¬on-line¬com¬
+colegas.¬
+(E)¬participar¬ de¬ intercâmbios¬ culturais¬ e¬ viagens¬ que¬
+exponham¬o¬estudante¬a¬visões¬de¬mundo¬distintas.¬¬
+##### 
+¬
+{13} 
+Assinale¬ a¬ alternativa¬ que¬ melhor¬ reescreve¬ a¬ oração¬
+“recognizing¬their¬common¬humanity¬and¬shared¬guardianship¬
+of¬ the¬ planet”,¬ preservando¬ o¬ sentido¬ original¬ e¬ o¬ tom¬
+empregado.¬
+¬
+(A)¬ Admitting¬ people¬ are¬ basically¬ the¬ same¬ and¬ that¬ Earth¬
+belongs¬to¬everyone¬equally.¬
+(B)¬Acknowledging¬what¬humans¬have¬in¬common¬and¬their¬
+joint¬responsibility¬for¬caring¬for¬the¬Earth.¬
+(C)¬ Accepting¬ that¬ culture¬ makes¬ us¬ identical¬ and¬ that¬ all¬
+nations¬control¬the¬planet¬together.¬
+(D)¬ Assuming¬ humanity¬ has¬ no¬ differences¬ and¬ that¬ nature¬
+needs¬no¬protection¬from¬us.¬
+(E)¬ Agreeing¬ that¬ global¬ problems¬ are¬ solved¬ only¬ by¬
+governments,¬not¬by¬individuals.¬
+##### 
+¬
+¬
+¬
+
+
+--- PAGE 5 ---
+
+Concurso Edital RH nº 075/2025 – Técnico de Laboratório (especialidade: Química analítica)¬
+Texto para as questões 14 e 15 
+Russia’s¬ban¬on¬International¬Baccalaureate¬(IB)¬schools¬
+deepens¬its¬rupture¬with¬the¬west¬
+¬
+The¬ Kremlin¬ has¬ infused¬ education¬ with¬ nationalism¬ and¬
+militarism.¬Outlawing¬the¬IB¬underlines¬that¬effort.¬¬
+Since¬ Russia¬invaded¬ Ukraine¬in¬ February¬ 2022,¬ the¬
+Kremlin¬has¬been¬severing¬ties¬with¬the¬West¬that¬were¬built¬up¬
+over¬decades.¬It¬has¬left¬European¬treaties¬on¬human¬rights¬
+and¬ the¬ prevention¬ of¬ torture,¬ entered¬ into¬ others¬ aimed¬ at¬
+countering¬what¬it¬calls¬Western¬hegemony,¬and¬suspended¬its¬
+participation¬in¬nuclear¬arms¬treaties.¬¬
+Education¬ has¬ also¬ been¬ the¬ target¬ of¬ an¬ accelerating¬
+crackdown.¬ Late¬ last¬ month,¬ Russia’s¬ prosecutor¬ general¬
+declared¬the¬IB,¬a¬Geneva-based¬nonprofit¬whose¬educational¬
+framework¬ is¬ offered¬ at¬ more¬ than¬ 6,000¬ schools¬ in¬ 160¬
+countries,¬a¬criminal¬organization.¬¬
+A¬week¬before¬the¬first¬day¬of¬classes,¬on¬September¬1,¬the¬
+more¬than¬two¬dozen¬Russian¬schools¬using¬the¬I.B.¬curriculum¬
+had¬to¬suddenly¬abandon¬it.¬The¬organization’s¬activities¬were¬
+prohibited,¬ leaving¬ anyone¬ in¬ Russia¬ who¬ cooperates¬ with¬ it¬
+vulnerable¬to¬asset¬seizures¬or¬jail¬time.¬¬
+The¬Russian¬Office¬of¬the¬Prosecutor¬General¬defended¬the¬
+ban¬by¬saying¬that¬the¬IB’s¬goal¬was¬“to¬format¬Russian¬youth¬
+according¬to¬Western¬templates,”¬accusing¬the¬organization¬of¬
+“stoking¬ anti-Russian¬ propaganda¬ and¬ hatred¬ between¬
+nations.”¬¬
+In¬a¬ statement,¬ the¬ IB¬ said¬ it¬ regretted¬ that¬ Russia’s¬
+decision¬could¬interrupt¬students’¬education.¬The¬organization¬
+noted¬that¬it¬had¬successfully¬worked¬in¬places¬with¬shifting¬
+political¬and¬educational¬landscapes.¬Its¬program¬began¬as¬a¬
+way¬for¬international¬schools¬to¬provide¬a¬globally¬recognized¬
+credential,¬and¬it¬has¬long¬emphasized¬engagement¬with¬world¬
+cultures.¬¬
+Russia’s¬efforts¬to¬reshape¬education,¬infusing¬schools¬with¬
+nationalism,¬militarism¬and¬what¬it¬calls¬traditional¬values,¬go¬
+well¬beyond¬the¬crackdown¬on¬the¬IB.¬¬
+In¬2024,¬high¬school¬students¬started¬taking¬a¬class¬called¬
+“The¬Basics¬of¬Defense¬and¬Defense¬of¬the¬Homeland,”¬which¬
+includes¬ some¬ simple¬ military¬ training.¬ Next¬ year,¬ a¬ new¬
+subject,¬ “Spiritual¬ and¬ Moral¬ Culture¬ of¬ Russia,”¬ will¬ be¬
+compulsory¬for¬students¬in¬grades¬five¬to¬seven.¬The¬textbooks¬
+are¬being¬developed¬with¬the¬Russian¬Orthodox¬Church.¬¬
+¬
+Disponível¬em:¬nytimes.com.¬September¬28,¬2025.¬Adaptado.¬¬
+¬
+¬
+¬
+¬
+¬
+{14} 
+O¬
+IB¬
+(International¬
+Baccalaureate)¬
+é¬
+um¬
+programa¬
+internacional¬de¬ensino¬e¬avaliação¬que¬integra¬competências¬
+e¬ conteúdos¬ com¬ objetivos¬ claros¬ para¬ o¬ desenvolvimento¬
+acadêmico¬e¬socioemocional,¬por¬meio¬de¬uma¬aprendizagem¬
+investigativa¬ e¬interdisciplinar.¬Com¬base¬no¬texto,¬qual¬é¬a¬
+inferência¬mais¬razoável¬sobre¬o¬efeito¬imediato¬do¬banimento¬
+do¬exame¬IB¬nas¬escolas¬russas?¬
+¬
+(A)¬As¬ escolas¬ tiveram¬ de¬ trocar¬ abruptamente¬ de¬ currículo¬
+pouco¬antes¬do¬início¬das¬aulas,¬afetando¬planejamento¬e¬
+avaliação.¬
+(B)¬Os¬estudantes¬poderão¬continuar¬normalmente¬as¬provas¬
+do¬IB,¬pois¬haverá¬credenciamento¬local¬temporário.¬
+(C)¬O¬banimento¬aplica-se¬apenas¬a¬professores¬estrangeiros,¬
+não¬às¬instituições.¬
+(D)¬ O¬ Kremlin¬ pretende,¬ em¬ breve,¬ retomar¬ os¬ tratados¬
+ocidentais¬que¬suspendeu.¬
+(E)¬O¬IB¬deixará¬de¬funcionar¬nos¬mais¬de¬6.000¬colégios¬em¬
+160¬países.¬
+##### 
+¬
+{15} 
+Assinale¬ a¬ alternativa¬ que¬ apresenta¬ a¬ reescrita¬ mais¬
+adequada¬para¬a¬oração¬“Next¬year,¬a¬new¬subject,¬‘Spiritual¬
+and¬Moral¬Culture¬of¬Russia,’¬will¬be¬compulsory¬for¬students¬
+in¬grades¬five¬to¬seven”,¬¬mantendo¬o¬mesmo¬sentido¬com¬foco¬
+nos¬estudantes.¬
+¬
+(A)¬Next¬year,¬students¬may¬take¬“Spiritual¬and¬Moral¬Culture¬
+of¬Russia.”¬
+(B)¬ Next¬ year,¬ students¬ take¬ “Spiritual¬ and¬ Moral¬ Culture¬ of¬
+Russia”¬by¬choice.¬
+(C)¬Next¬year,¬students¬could¬take¬“Spiritual¬and¬Moral¬Culture¬
+of¬Russia.”¬
+(D)¬Next¬year,¬students¬might¬take¬“Spiritual¬and¬Moral¬Culture¬
+of¬Russia.”¬
+(E)¬Next¬year,¬students¬will¬have¬to¬take¬“Spiritual¬and¬Moral¬
+Culture¬of¬Russia.”¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 6 ---
+
+Concurso Edital RH nº 075/2025 – Técnico de Laboratório (especialidade: Química analítica)¬
+{16} 
+O¬uso¬da¬internet¬está¬presente¬na¬vida¬de¬uma¬parcela¬de¬
+crianças¬e¬adolescentes¬brasileiras.¬O¬estudo¬a¬seguir¬mostra¬
+o¬percentual¬de¬usuários,¬entre¬9¬e¬17¬anos¬de¬idade,¬de¬2015¬
+a¬2024,¬que¬utilizaram¬a¬rede¬a¬partir¬de¬4¬diferentes¬tipos¬de¬
+dispositivos.¬¬
+¬
+¬
+Com¬base¬no¬gráfico,¬é¬correto¬afirmar¬que¬o¬uso¬
+¬
+(A)¬do¬telefone¬celular¬aumentou¬13%¬entre¬2015¬e¬2024.¬
+(B)¬do¬computador¬caiu¬de¬53%¬para¬38%,¬entre¬2017¬e¬2019,¬
+o¬que¬representa¬uma¬redução¬de,¬aproximadamente,¬28%¬
+em¬termos¬relativos.¬
+(C)¬do¬videogame¬manteve-se¬estável¬entre¬2015¬e¬2024.¬
+(D)¬da¬televisão¬cresceu¬entre¬2015¬e¬2024.¬¬
+(E)¬dos¬quatro¬dispositivos¬cresceu¬entre¬2019¬e¬2021.¬
+ 
+#####
+ 
+{17} 
+Um¬
+auxiliar¬
+administrativo¬
+de¬
+uma¬
+universidade¬
+foi¬
+encarregado¬de¬planejar¬e¬executar¬uma¬compra¬futura.¬Para¬
+isso,¬ a¬ instituição¬ investiu¬ R$¬ 5.000,00¬ em¬ uma¬ aplicação¬
+financeira¬ que¬ rende¬ 10%¬ ao¬ ano,¬ em¬ regime¬ de¬ juros¬
+compostos.¬ Após¬ 2¬ anos,¬ qual¬ será,¬ em¬ reais,¬ o¬ montante¬
+acumulado¬disponível¬para¬a¬compra?¬
+¬
+(A)¬R$¬6.050,00¬
+(B)¬R$¬6.100,00¬
+(C)¬R$¬6.150,00¬
+(D)¬R$¬6.200,00¬
+(E)¬R$¬6.500,00¬
+##### 
+ 
+{18} 
+Durante¬a¬titulação¬de¬uma¬solução¬em¬laboratório,¬a¬variação¬
+do¬ pH¬ em¬ função¬ do¬ volume¬ V¬ (em¬ mL)¬ de¬ uma¬ base¬
+adicionada¬é¬dada¬pela¬equação:¬
+¬
+¬
+¬
+¬
+Assinale¬a¬alternativa¬que¬apresenta¬os¬valores¬de¬V¬(em¬mL)¬
+para¬os¬quais¬o¬pH¬é¬igual¬a¬0.¬
+(A)¬2¬ou¬12¬
+(B)¬3¬ou¬8¬¬
+(C)¬4¬ou¬6¬
+(D)¬5¬ou¬10¬
+(E)¬6¬ou¬12¬
+#####
+ 
+{19} 
+Um¬tanque¬d’água¬de¬2¬metros¬de¬raio¬tem¬o¬formato¬de¬um¬
+cilindro¬de¬4¬metros¬de¬altura¬com¬um¬cone¬invertido¬na¬base,¬
+de¬2¬metros¬de¬altura.¬
+¬
+¬
+¬
+Assinale¬ a¬ alternativa¬ que¬ indica,¬ em¬ m3,¬ o¬ volume¬ total¬ do¬
+tanque.¬¬
+(A)¬57,72¬¬
+(B)¬58,61¬¬
+(C)¬59,10¬¬
+(D)¬60,00¬¬
+(E)¬62,80¬
+ #####¬
+ 
+Note e adote: 
+ 
+Use¬π=3,14¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 7 ---
+
+Concurso Edital RH nº 075/2025 – Técnico de Laboratório (especialidade: Química analítica)¬
+{20} 
+O¬Edifício¬Copan,¬localizado¬ no¬centro¬de¬ São¬Paulo,¬é¬ um¬
+ícone¬arquitetônico¬da¬cidade.¬A¬edificação¬possui¬32¬andares¬
+e¬ sua¬ fachada¬ norte¬ é¬ curva.¬ Para¬ arrecadar¬ dinheiro¬ para¬
+custear¬ a¬ reforma¬ dessa¬ fachada,¬ será¬ instalado¬ um¬ painel¬
+publicitário¬ cujas¬ dimensões¬ são¬ de¬ 71¬ metros¬ de¬
+comprimento¬por¬28¬metros¬de¬altura,¬conforme¬pode¬ser¬visto¬
+na¬figura¬a¬seguir:¬
+¬
+¬
+Qual¬a¬área¬do¬painel¬publicitário,¬em¬metros¬quadrados,¬que¬
+será¬instalado¬na¬fachada¬norte¬do¬Edifício¬Copan?¬
+¬
+(A)¬62¬¬
+(B)¬99¬¬
+(C)¬198¬¬
+(D)¬1.988¬
+(E)¬2.186¬¬
+##### 
+ 
+{21} 
+Em¬um¬laboratório¬de¬patologia,¬uma¬cultura¬de¬bactérias¬foi¬
+colocada¬ em¬ meio¬ adequado¬ de¬ crescimento.¬ Observou-se¬
+que,¬ em¬ condições¬ ideais,¬ o¬ número¬ de¬ bactérias¬ dobra¬ a¬
+cada¬ 30¬ minutos.¬ No¬ início¬ do¬ experimento¬ havia¬ 500¬
+bactérias.¬ Considerando¬ que¬ esse¬ crescimento¬ segue¬ uma¬
+progressão¬ geométrica,¬ determine¬ o¬ número¬ de¬ bactérias¬
+após¬5¬horas¬de¬cultivo.¬
+¬
+(A)¬32.000¬
+(B)¬64.000¬
+(C)¬128.000¬
+(D)¬256.000¬
+(E)¬512.000¬
+##### 
+ 
+{22} 
+¬
+¬
+Folha¬de¬São¬Paulo,¬05.10.2025.¬
+¬
+¬
+A¬partir¬do¬início¬de¬outubro¬de¬2025,¬foi¬bastante¬comum¬que¬
+frequentadores¬
+de¬
+restaurantes,¬
+bares¬
+e¬
+outros¬
+estabelecimentos¬ congêneres¬ se¬ deparassem¬ com¬ a¬
+informação¬de¬que¬tais¬estabelecimentos¬estavam¬vendendo¬
+apenas¬ vinho¬ e¬ cerveja,¬ mas¬ não¬ bebidas¬ destiladas.¬ Na¬
+charge,¬ o¬ garçom¬ parece¬ estar¬ oferecendo,¬ de¬ modo¬
+“sorrateiro”,¬bebidas¬destiladas.¬¬
+¬
+Assinale¬a¬alternativa¬que¬explica¬adequadamente¬a¬situação¬
+descrita¬na¬charge¬e¬que¬inspirou¬a¬crítica¬do¬autor.¬
+¬
+(A)¬ A¬ guerra¬ comercial¬ iniciada¬ pelo¬ Presidente¬ Trump,¬ por¬
+meio¬ do¬ tarifaço,¬ tornou¬ economicamente¬ inviável¬ o¬
+consumo¬
+de¬
+bebidas¬
+destiladas,¬
+que¬
+são¬
+todas¬
+importadas,¬favorecendo¬o¬mercado¬informal¬representado¬
+pela¬ camuflagem¬ das¬ garrafas¬ no¬ interior¬ do¬ casaco¬ do¬
+garçom.¬
+(B)¬A¬ adulteração¬ de¬ bebidas¬ destiladas¬ em¬ fábricas¬
+clandestinas,¬ com¬o¬uso¬indevido¬de¬metanol,¬causou¬a¬
+morte¬de¬diversos¬consumidores,¬além¬de¬lesões¬graves¬
+decorrentes¬do¬efeito¬que¬esta¬substância¬química¬pode¬
+ter¬nos¬órgãos¬e¬tecidos¬humanos.¬
+(C)¬ A¬ divulgação¬ de¬ uma¬ pesquisa¬ científica¬ conclusiva¬
+vinculando¬o¬câncer¬ao¬consumo¬de¬bebidas¬destiladas¬
+levou¬ à¬ proibição¬ de¬ sua¬ oferta¬ em¬ estabelecimentos¬
+comerciais,¬favorecendo¬o¬mercado¬paralelo¬e¬ilegal¬desse¬
+tipo¬de¬bebida.¬
+(D)¬O¬boicote¬organizado¬pelos¬consumidores¬brasileiros¬ao¬
+consumo¬de¬bebidas¬destiladas,¬motivado¬pelos¬métodos¬
+insalubres¬ de¬ fabrico,¬ fez¬ cair¬ exponencialmente¬ a¬
+demanda,¬elevando¬os¬custos¬de¬oferta,¬desestimulando¬
+os¬ estabelecimentos¬ a¬ comprar¬ tais¬ produtos,¬ o¬ que¬
+favoreceu¬o¬mercado¬paralelo.¬
+(E)¬A¬interação¬de¬certos¬componentes¬usados¬no¬fabrico¬de¬
+bebidas¬destiladas¬com¬certas¬especiarias,¬que¬passaram¬
+a¬ ser¬ utilizadas¬ na¬ culinária¬ brasileira,¬ produz¬ reações¬
+químicas¬ em¬ cadeia¬ durante¬ o¬ processo¬ digestório,¬
+causando¬a¬formação¬de¬metanol,¬altamente¬tóxico¬para¬o¬
+corpo¬humano.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 8 ---
+
+Concurso Edital RH nº 075/2025 – Técnico de Laboratório (especialidade: Química analítica)¬
+{23} 
+¬
+Folha¬de¬São¬Paulo,¬27.09.2025.¬
+¬
+¬
+A¬charge¬apresentada¬procura¬demonstrar¬o¬poder¬do¬Povo¬
+contra¬ certas¬ atitudes¬ dos¬ governantes,¬ manifestada¬ por¬
+passeatas¬e¬aglomerações¬com¬fins¬pacíficos¬e¬que¬se¬opõem¬
+a¬uma¬medida¬ou¬proposta.¬A¬palavra¬“blindagem”¬inserida¬na¬
+charge¬faz¬referência,¬especificamente,¬a¬
+¬
+(A)¬um¬projeto¬de¬lei¬que¬pretendia¬anistiar¬os¬envolvidos¬em¬
+casos¬ pretéritos¬ de¬ corrupção,¬ como¬ o¬ mensalão¬ e¬ o¬
+petróleo.¬
+(B)¬uma¬ proposta¬ de¬ Emenda¬ Constitucional¬ que¬ pretendia¬
+estabelecer¬mandatos¬de¬9¬(nove)¬anos¬para¬o¬Ministro¬do¬
+Supremo¬Tribunal¬Federal¬como¬reação¬ao¬julgamento¬do¬
+ex-Presidente¬Bolsonaro.¬
+(C)¬um¬projeto¬de¬lei¬que¬pretendia¬anistiar¬os¬participantes¬e¬
+envolvidos¬ com¬ o¬ planejamento¬ de¬ um¬ golpe¬ que¬
+pretendeu¬abolir¬o¬Estado¬Democrático¬de¬Direito¬e¬que¬
+levou¬à¬condenação¬de¬pessoas¬comuns¬do¬povo,¬políticos¬
+e¬militares.¬
+(D)¬um¬projeto¬de¬lei¬que¬pretendia¬endurecer¬as¬penas¬dos¬
+participantes¬ e¬ envolvidos¬ com¬ o¬ planejamento¬ de¬ um¬
+golpe¬ visando¬ abolir¬ o¬ Estado¬ Democrático¬ de¬ Direito¬ e¬
+que¬levou¬à¬condenação¬apenas¬de¬pessoas¬comuns¬do¬
+povo,¬absolvendo¬políticos¬e¬militares.¬
+(E)¬uma¬ proposta¬ de¬ Emenda¬ Constitucional¬ que¬ pretendia¬
+atribuir¬imunidade¬ampla¬a¬parlamentares,¬apontada¬como¬
+arriscada¬ por¬ especialistas,¬ pois¬ abriria¬ o¬ legislativo¬ ao¬
+crime¬organizado,¬entre¬outras¬consequências.¬
+¬
+##### 
+¬
+{24} 
+Imagem 1 
+¬
+¬
+¬
+¬
+Imagem 2 
+ 
+¬
+Folha¬de¬São¬Paulo,¬12.08.2025.¬
+¬
+¬
+Durante¬a¬ditadura¬militar,¬mas¬sobretudo¬no¬governo¬Médici,¬
+era¬comum¬a¬referência¬ao¬Brasil¬como¬um¬país¬que¬deveria¬
+ser¬amado¬ou¬deixado.¬A¬recente¬charge¬publicada¬pela¬Folha¬
+de¬São¬Paulo¬retoma¬a¬expressão¬e¬a¬adapta¬para¬criticar¬o¬
+Deputado¬Federal¬Eduardo¬Bolsonaro,¬ao¬lhe¬atribuir¬vínculos¬
+com¬ a¬ frase.¬ Os¬ verbos¬ deixar¬ e¬ sabotar¬ referem-se,¬
+respectivamente,¬ao¬fato¬de¬o¬Deputado¬
+¬
+(A)¬estar¬ nos¬ EUA¬ e¬ influenciar¬ o¬ governo¬ estadunidense¬
+contra¬autoridades¬brasileiras,¬causando¬prejuízos¬para¬a¬
+economia¬do¬Brasil.¬
+(B)¬estar¬ nos¬ EUA¬ e¬ influenciar¬ o¬ governo¬ estadunidense¬
+contra¬
+autoridades¬
+brasileiras,¬
+causando¬
+prejuízos¬
+exclusivos¬a¬elas.¬
+(C)¬ ter¬ deixado¬ o¬ Brasil¬ com¬ destino¬ incerto¬ e¬ influenciar¬ o¬
+governo¬ estadunidense¬ contra¬ autoridades¬ brasileiras,¬
+causando¬prejuízos¬para¬o¬país¬como¬um¬todo.¬
+(D)¬ter¬deixado¬o¬Brasil¬com¬destino¬incerto¬e¬influenciar¬os¬
+governos¬ estrangeiros¬ contra¬ autoridades¬ brasileiras,¬
+causando¬prejuízos¬para¬a¬economia¬do¬Brasil.¬
+(E)¬ter¬deixado¬o¬Brasil¬com¬destino¬incerto¬e¬influenciar¬os¬
+governos¬ estrangeiros¬ contra¬ autoridades¬ brasileiras,¬
+causando¬prejuízos¬exclusivos¬a¬elas¬e¬aos¬¬seus¬familiares¬
+próximos.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 9 ---
+
+Concurso Edital RH nº 075/2025 – Técnico de Laboratório (especialidade: Química analítica)¬
+{25} 
+Uma¬ determinada¬ Unidade¬ da¬ USP¬ que¬ exerce¬ formação¬
+profissional¬ em¬ área¬ específica¬ demonstra¬ o¬ interesse¬ de¬
+contratar¬
+um¬
+docente¬
+com¬
+experiência¬
+profissional¬
+comprovada¬e¬que¬atue¬em¬alguma¬profissão¬correlata,¬por¬
+entender¬que¬tal¬situação¬pode¬contribuir¬para¬a¬formação¬de¬
+seus¬ alunos.¬ Com¬ base¬ no¬ Estatuto¬ da¬ USP,¬ tal¬ intenção¬
+poderá¬ser¬garantida,¬desde¬que¬a¬Unidade¬
+¬
+(A)¬requeira,¬ sem¬ necessidade¬ de¬ apresentar¬ justificativa,¬ a¬
+alteração¬do¬regime¬da¬vaga¬aos¬órgãos¬competentes¬da¬
+reitoria.¬
+(B)¬disponibilize¬a¬vaga¬em¬regime¬de¬dedicação¬exclusiva¬e¬
+nenhum¬candidato¬se¬inscreva.¬
+(C)¬disponibilize¬a¬vaga¬em¬regime¬de¬dedicação¬exclusiva¬e¬
+nenhum¬candidato¬seja¬habilitado¬ao¬final¬do¬certame.¬
+(D)¬disponibilize¬a¬vaga¬em¬regime¬de¬dedicação¬exclusiva¬e¬
+nenhum¬ candidato¬ se¬ inscreva¬ ou,¬ caso¬ haja¬ inscritos,¬
+nenhum¬seja¬habilitado¬ao¬final¬do¬certame.¬
+(E)¬comprove¬que¬a¬contratação¬nos¬moldes¬descritos¬atende¬
+aos¬interesses¬da¬USP.¬
+##### 
+¬
+{26} 
+A¬autonomia¬universitária¬não¬é¬uma¬forma¬de¬isolamento¬entre¬
+a¬Universidade¬e¬a¬sociedade.¬Nos¬termos¬do¬Estatuto¬e¬do¬
+Regimento¬ Geral¬ da¬ USP,¬ isso¬ é¬ percebido,¬ EXCETO,¬ pela¬
+participação¬de¬representantes¬indicados¬
+¬
+(A)¬pelas¬ Secretarias¬ de¬ Economia¬ e¬ Planejamento¬ e¬ da¬
+Fazenda¬ para¬ comporem¬ o¬ Grupo¬ de¬ Planejamento¬
+Setorial.¬
+(B)¬pela¬ Assembleia¬ Legislativa¬ e¬ pela¬ Presidência¬ da¬
+Fundação¬ de¬ Amparo¬ à¬ Pesquisa¬ do¬ Estado¬ para¬
+comporem¬o¬Conselho¬Consultivo.¬
+(C)¬pelo¬
+corpo¬
+discente¬
+para¬
+compor¬
+o¬
+Grupo¬
+de¬
+Planejamento¬Setorial.¬
+(D)¬pelas¬ Classes¬ Trabalhadoras¬ do¬ Estado¬ para¬ compor¬ o¬
+Conselho¬Universitário.¬
+(E)¬pela¬Federação¬da¬Agricultura¬do¬Estado¬para¬compor¬o¬
+Conselho¬Universitário.¬
+##### 
+¬
+{27} 
+Com¬base¬no¬Regimento¬Geral¬da¬USP,¬é¬correto¬afirmar¬que¬
+as¬ bancas¬ examinadoras¬ dos¬ concursos¬ para¬ a¬ carreira¬
+docente¬são¬
+¬
+(A)¬compostas¬por¬4¬membros,¬sendo¬certo¬que¬o¬Presidente¬
+não¬possui¬direito¬de¬voto.¬
+(B)¬indicadas¬ sempre¬ pelas¬ Congregações¬ das¬ Unidades,¬
+diretamente.¬
+(C)¬formadas,¬ sempre,¬ por¬ Professores¬ Titulares,¬ sendo¬ a¬
+maioria¬deles¬da¬própria¬USP.¬
+(D)¬formadas,¬sempre,¬por¬examinadores¬de¬mesma¬ou¬inferior¬
+titulação¬que¬a¬dos¬candidatos¬inscritos.¬
+(E)¬indicadas¬após¬o¬término¬do¬período¬de¬inscrições¬para¬
+evitar¬conflito¬de¬interesses.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+{28} 
+Considere¬o¬Microsoft¬Excel¬do¬Microsoft¬365¬(Office¬365¬PT-
+BR)¬e¬funções¬em¬português¬(separador¬de¬argumentos¬“;”).¬
+Em¬ uma¬ coluna¬ de¬ notas¬ (B2:B101),¬ é¬ necessário¬ contar¬
+quantas¬são¬maiores¬ou¬iguais¬a¬7.¬Assinale¬a¬alternativa¬que¬
+apresenta¬a¬função¬que¬resolve¬essa¬necessidade.¬
+¬
+(A) =CONT.VALORES(B2:B101) 
+(B) =CONT.SE(B2:B101; ">=7") 
+(C) =SOMASE(B2:B101; ">=7") 
+(D)¬=PROCV(7; B2:B101; 1; VERDADEIRO) 
+(E)¬=TEXTO(B2:B101; "0") 
+##### 
+¬
+{29} 
+No¬Microsoft¬PowerPoint¬do¬Microsoft¬365¬(Office¬365¬PT-BR),¬
+é¬necessário¬que¬a¬apresentação¬exiba¬o¬mesmo¬logotipo¬em¬
+todos¬os¬slides.¬Assinale¬a¬alternativa¬que¬apresenta¬a¬forma¬
+mais¬ eficiente¬ de¬ aplicar¬ e¬ manter¬ esse¬ elemento¬ de¬ forma¬
+integral.¬
+¬
+(A)¬Copiar¬e¬colar¬o¬logotipo¬manualmente¬em¬cada¬slide¬da¬
+apresentação.¬
+(B)¬Duplicar¬ o¬ primeiro¬ slide¬ com¬ logotipo¬ e¬ usar¬ as¬ cópias¬
+como¬modelo.¬
+(C)¬Aplicar¬ uma¬ Transição¬ e¬ marcar¬ “Aplicar¬ a¬ todos”¬ para¬
+replicar¬o¬logotipo¬nos¬slides.¬
+(D)¬Alterar¬o¬Tema¬e¬usar¬uma¬opção¬“Incluir¬logotipo”.¬
+(E)¬Abrir¬ Exibir¬ >¬ Slide¬ Mestre;¬ inserir¬ o¬ logotipo¬ no¬
+mestre/layout¬e¬fechar¬o¬modo¬Mestre.¬
+##### 
+¬
+{30} 
+No¬Microsoft¬Word¬do¬Microsoft¬365¬(PT-BR),¬é¬necessário¬que¬
+o¬ documento¬ tenha¬ um¬ sumário¬ automático¬ que¬ se¬ atualize¬
+sempre¬que¬os¬títulos¬forem¬alterados¬(inseridos,¬renomeados¬
+ou¬ reordenados).¬ Assinale¬ a¬ alternativa¬ que¬ apresenta¬ o¬
+procedimento¬correto¬para¬esta¬necessidade.¬
+¬
+(A)¬Inserir¬quebras¬de¬página¬antes¬de¬cada¬título,¬aumentar¬o¬
+tamanho¬ da¬ fonte¬ e¬ usar¬ tabuladores¬ para¬ desenhar¬ as¬
+linhas¬do¬sumário.¬
+(B)¬Aumentar¬manualmente¬o¬tamanho¬da¬fonte¬dos¬títulos¬e¬
+desenhar¬linhas¬com¬o¬tabulador.¬
+(C)¬Aplicar¬ estilos¬ “Título¬ 1,¬ Título¬ 2,¬ …”¬ aos¬ cabeçalhos¬ e¬
+inserir¬o¬Sumário¬em¬Referências¬->¬Sumário¬(atualizando¬
+com¬F9¬quando¬necessário).¬
+(D)¬Aplicar¬ um¬ Tema¬ ao¬ documento¬ e¬ selecionar¬ “Gerar¬
+sumário¬ pelos¬ tamanhos¬ de¬ fonte”¬ (atualizando¬ com¬ F9¬
+quando¬necessário).¬
+(E)¬Transformar¬ as¬ páginas¬ em¬ imagens¬ e¬ inserir¬ uma¬ lista¬
+numerada¬no¬início.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 10 ---
+
+Concurso Edital RH nº 075/2025 – Técnico de Laboratório (especialidade: Química analítica)¬
+{31} 
+Diagramas¬de¬blocos¬são¬costumeiramente¬utilizados¬em¬livros¬
+textos¬ para¬ representar¬ a¬ disposição¬ dos¬ componentes¬ que¬
+fazem¬ parte¬ de¬ equipamentos¬ de¬ análise.¬ Nesse¬ contexto,¬
+assinale¬ a¬ alternativa¬ que¬ melhor¬ representa¬ uma¬ das¬
+configurações¬utilizadas¬em¬equipamentos¬de¬Espectrometria¬
+de¬Absorção¬Atômica.¬
+¬
+(A)¬
+¬
+(B)¬
+¬
+(C)¬
+¬
+(D)¬
+¬
+(E)¬
+¬
+##### 
+¬
+{32} 
+Alíquotas¬ de¬ uma¬ mesma¬ amostra¬ com¬ concentrações¬
+significativas¬de¬açúcar¬e¬fosfato¬foram¬encaminhadas¬a¬dois¬
+laboratórios¬ distintos¬ para¬ determinação¬ de¬ magnésio¬ por¬
+Espectroscopia¬de¬Absorção¬Atômica¬com¬chama.¬
+O¬procedimento¬utilizado¬pelo¬laboratório¬1¬consistiu¬em¬uma¬
+determinação¬pelo¬uso¬de¬curva¬de¬calibração¬com¬padrões¬
+externos,¬e¬o¬laudo¬apresentou¬resultado¬de¬2,00×10−3¬mol/L¬
+de¬ magnésio¬ (MM¬ =¬ 24,3¬ g/mol).¬ O¬ procedimento¬ utilizado¬
+pelo¬laboratório¬2¬consistiu¬em¬uma¬determinação¬pelo¬uso¬de¬
+adição¬ de¬ padrão,¬ e¬ o¬ laudo¬ apresentou¬ concentração¬ de¬
+magnésio¬de¬70¬mg/L.¬
+Sobre¬as¬determinações¬realizadas,¬é¬correto¬afirmar¬que¬o¬
+laboratório¬
+¬
+(A) 1¬ cometeu¬ um¬ erro¬ de¬ procedimento.¬ O¬ fosfato¬ pode¬
+resultar¬ na¬ formação¬ de¬ compostos¬ refratários¬ devido¬ a¬
+uma¬interferência¬espectral.¬
+(B) 2¬cometeu¬um¬erro¬de¬procedimento.¬A¬adição¬de¬padrão¬
+não¬possibilita¬corrigir¬interferências¬químicas.¬
+(C) 1¬cometeu¬um¬erro¬de¬procedimento.¬O¬resultado¬abaixo¬
+de¬70¬mg/L,¬obtido¬pelo¬laboratório¬2,¬é¬um¬indício¬desse¬
+erro.¬
+(D) 2¬ utilizou¬ o¬ procedimento¬ correto.¬ O¬ procedimento¬ de¬
+adição¬ de¬ padrão¬ elimina¬ a¬ formação¬ de¬ compostos¬
+refratários.¬
+(E) 2¬cometeu¬um¬erro¬de¬procedimento.¬O¬procedimento¬de¬
+padrão¬interno¬deveria¬ter¬sido¬utilizado¬para¬essa¬amostra.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+{33} 
+Na¬ determinação¬ em¬ que¬ se¬ utiliza¬ a¬ Espectroscopia¬ de¬
+Absorção¬Atômica¬com¬chama,¬estão¬presentes¬etapas¬como¬
+a¬ introdução¬ de¬ amostra¬ por¬ aspiração,¬ nebulização¬ da¬
+amostra,¬ atomização,¬ excitação,¬ relaxação¬ e¬ ionização¬ dos¬
+elementos.¬ Considerando-se¬ os¬ pontos¬ citados,¬ para¬ que¬ a¬
+determinação¬por¬essa¬técnica¬ocorra,¬é¬preciso¬que¬
+¬
+(A) átomos¬no¬estado¬fundamental¬sejam¬formados¬e¬estejam¬
+presentes¬na¬chama.¬
+(B) moléculas¬ simples¬ no¬ estado¬ gasoso¬ sejam¬ formadas¬ e¬
+estejam¬presentes¬na¬chama.¬
+(C) átomos¬no¬estado¬fundamental¬sejam¬formados¬e¬estejam¬
+presentes¬no¬nebulizador.¬
+(D) íons¬livres¬no¬estado¬excitado¬sejam¬formados¬e¬estejam¬
+presentes¬no¬nebulizador.¬
+(E) íons¬ e¬ átomos¬ excitados¬ sejam¬ formados¬ e¬ estejam¬
+presentes¬no¬nebulizador.¬
+##### 
+¬
+{34} 
+Alguns¬ modelos¬ de¬ equipamentos¬ para¬ Espectroscopia¬ de¬
+Absorção¬Atômica¬(AAS)¬com¬chama¬de¬ar/acetileno¬permitem¬
+também¬determinações¬em¬um¬modo¬similar¬ao¬utilizado¬por¬
+Fotômetros¬ de¬ Chama¬ (Espectroscopia¬ de¬ Emissão¬ com¬
+Chama¬de¬ar/gás¬natural).¬¬
+Sabendo¬ dessa¬ informação,¬ assinale¬ a¬ alternativa¬ que¬
+descreve¬corretamente¬as¬características¬a¬serem¬observadas¬
+e/ou¬adotadas¬quando¬o¬equipamento¬destinado¬à¬AAS¬com¬
+chama¬ de¬ acetileno¬ é¬ utilizado¬ como¬ uma¬ espécie¬ de¬
+Fotômetro¬de¬Chama.¬
+¬
+(A) Para¬esse¬uso¬alternativo¬do¬instrumento,¬há¬necessidade¬
+de¬ uma¬ fonte¬ de¬ radiação¬ estável¬ (fontes¬ de¬ linhas¬ ou¬
+contínua,¬ a¬ depender¬ do¬ modelo¬ do¬ equipamento).¬ No¬
+entanto,¬há¬de¬se¬considerar¬que¬a¬taxa¬de¬ionização¬dos¬
+elementos¬pode¬ser¬aumentada¬ao¬usar¬acetileno.¬
+(B) Para¬ esse¬ uso¬ alternativo¬ do¬ equipamento,¬ não¬ há¬
+necessidade¬ do¬ emprego¬ de¬ lâmpadas¬ como¬ fonte¬ de¬
+radiação¬para¬as¬medidas.¬No¬entanto,¬há¬de¬se¬considerar¬
+que¬a¬taxa¬de¬ionização¬dos¬elementos¬pode¬ser¬reduzida¬
+ao¬usar¬acetileno.¬
+(C) Para¬ esse¬ uso¬ alternativo¬ do¬ equipamento,¬ não¬ há¬
+necessidade¬ do¬ emprego¬ de¬ lâmpadas¬ como¬ fonte¬ de¬
+radiação¬para¬as¬medidas.¬No¬entanto,¬há¬de¬se¬considerar¬
+que¬ a¬ taxa¬ de¬ ionização¬ dos¬ elementos¬ pode¬ ser¬
+aumentada¬ao¬usar¬acetileno.¬
+(D) Para¬esse¬uso¬alternativo¬do¬instrumento,¬há¬necessidade¬
+de¬ uma¬ fonte¬ de¬ radiação¬ estável¬ (fontes¬ de¬ linhas¬ ou¬
+contínua,¬ a¬ depender¬ do¬ modelo¬ do¬ equipamento).¬ No¬
+entanto,¬há¬de¬se¬considerar¬que¬a¬taxa¬de¬ionização¬dos¬
+elementos¬pode¬ser¬reduzida¬ao¬usar¬acetileno.¬
+(E) Para¬esse¬uso¬alternativo¬do¬instrumento,¬há¬necessidade¬
+de¬uma¬fonte¬de¬radiação¬estável¬(normalmente¬lâmpadas¬
+de¬catodo¬oco).¬No¬entanto,¬há¬de¬se¬considerar¬que¬a¬taxa¬
+de¬ ionização¬ dos¬ elementos¬ pode¬ ser¬ reduzida¬ ao¬ usar¬
+acetileno.¬
+##### 
+¬
+
+
+--- PAGE 11 ---
+
+Concurso Edital RH nº 075/2025 – Técnico de Laboratório (especialidade: Química analítica)¬
+{35} 
+Comercialmente,¬os¬equipamentos¬mais¬comuns¬de¬emissão¬
+atômica¬ por¬ chama¬ com¬ gás¬ natural¬ e¬ por¬ plasma¬ com¬
+acoplamento¬ indutivo¬ apresentam¬ algumas¬ similaridades¬ e¬
+especificidades.¬
+Nesse¬ contexto,¬ assinale¬ a¬ alternativa¬ que¬ apresenta¬
+corretamente¬algumas¬características¬do¬sistema¬por¬plasma¬
+com¬acoplamento¬indutivo¬comparado¬ao¬sistema¬por¬chama¬
+com¬gás¬natural.¬
+¬
+(A) No¬plasma,¬a¬temperatura¬é¬superior¬à¬chama.¬Em¬geral,¬é¬
+usado¬gás¬argônio¬no¬lugar¬de¬um¬gás¬combustível¬para¬
+formar¬o¬plasma.¬
+(B) No¬plasma,¬é¬possível¬a¬determinação¬de¬um¬número¬maior¬
+de¬elementos.¬Um¬gás¬combustível¬é¬usado¬para¬formar¬o¬
+plasma.¬
+(C) No¬plasma,¬a¬emissão¬de¬íons¬excitados¬não¬é¬detectada.¬
+O¬gás¬combustível¬argônio¬é¬usado¬no¬lugar¬do¬acetileno¬
+para¬formar¬o¬plasma.¬
+(D) No¬ plasma,¬ mais¬ de¬ 200¬ elementos¬ da¬ tabela¬ periódica¬
+podem¬ser¬identificados¬separadamente¬e¬determinados.¬
+Para¬chama,¬esse¬número¬não¬é¬maior¬que¬3.¬
+(E) No¬plasma,¬a¬emissão¬de¬íons¬excitados¬é¬detectada.¬Na¬
+chama,¬o¬processo¬de¬ionização¬não¬ocorre.¬
+##### 
+¬
+{36} 
+Sobre¬as¬técnicas¬de¬Espectroscopia¬de¬Emissão¬Óptica¬com¬
+Plasma¬Indutivamente¬Acoplado,¬Espectroscopia¬de¬Emissão¬
+com¬ Chama¬ e¬ Espectroscopia¬ de¬ Absorção¬ Atômica¬ com¬
+Forno¬de¬Grafite,¬é¬correto¬afirmar:¬
+¬
+(A) Duas¬destas¬não¬necessitam¬de¬lâmpada¬para¬a¬medida¬
+do¬ sinal¬ analítico.¬ Em¬ todas,¬ há¬ absorção¬ de¬ energia¬ e¬
+excitação¬de¬elétrons¬mais¬externos.¬Apenas¬uma¬destas¬
+apresenta¬atomizador¬eletrotérmico.¬
+(B) Apenas¬ uma¬ destas¬ não¬ necessita¬ de¬ lâmpada¬ para¬ a¬
+medida¬ do¬ sinal¬ analítico.¬ Em¬ todas,¬ há¬ absorção¬ de¬
+energia¬ e¬ excitação¬ de¬ elétrons¬ mais¬ internos.¬ Apenas¬
+duas¬destas¬apresenta¬atomizador¬eletrotérmico.¬
+(C) Apenas¬ uma¬ destas¬ não¬ necessita¬ de¬ lâmpada¬ para¬ a¬
+medida¬ do¬ sinal¬ analítico.¬ Em¬ todas,¬ há¬ absorção¬ de¬
+energia¬ e¬ excitação¬ de¬ elétrons¬ mais¬ externos.¬ Apenas¬
+uma¬destas¬apresenta¬atomizador¬eletrotérmico.¬
+(D) Duas¬destas¬não¬necessitam¬de¬lâmpada¬para¬a¬medida¬
+do¬ sinal¬ analítico.¬ Em¬ todas,¬ há¬ absorção¬ de¬ energia¬ e¬
+excitação¬ de¬ elétrons¬ mais¬ internos.¬ Todas¬ apresentam¬
+atomizador¬eletrotérmico.¬
+(E) Duas¬destas¬não¬necessitam¬de¬lâmpada¬para¬a¬medida¬
+do¬ sinal¬ analítico.¬ Em¬ todas,¬ há¬ absorção¬ de¬ energia¬ e¬
+excitação¬de¬elétrons¬mais¬internos.¬Apenas¬duas¬destas¬
+apresentam¬atomizador¬eletrotérmico.¬
+##### 
+¬
+{37} 
+Modelos¬ distintos¬ de¬ equipamentos¬ de¬ emissão¬ óptica¬ com¬
+fonte¬de¬plasma¬são¬descritos¬na¬literatura¬e¬estão¬disponíveis¬
+no¬mercado.¬Sobre¬a¬forma¬de¬trabalho¬destes,¬pode-se¬citar¬o¬
+modelo¬que¬atua¬de¬forma¬sequencial¬e¬o¬simultâneo¬multicanal.¬
+Sobre¬essas¬formas¬de¬trabalho¬dos¬equipamentos,¬é¬correto¬
+afirmar¬que¬estão¬relacionadas¬com¬o¬
+¬
+(A) conjunto¬óptico¬disponível¬no¬equipamento.¬Equipamentos¬
+sequenciais¬ costumam¬ levar¬ mais¬ tempo¬ para¬ medida,¬
+pois¬ há¬ necessidade¬ de¬ ajuste¬ do¬ monocromador¬ ou¬
+detector¬para¬cada¬elemento.¬
+(B) atomizador¬
+disponível¬
+no¬
+equipamento.¬
+Modelos¬
+sequenciais¬ costumam¬ levar¬ mais¬ tempo¬ para¬ medida,¬
+pois¬há¬necessidade¬de¬ajustes¬da¬temperatura¬da¬tocha¬
+para¬cada¬elemento.¬
+(C) injetor¬
+de¬
+amostras¬
+disponível¬
+no¬
+equipamento.¬
+Equipamentos¬
+sequenciais¬
+não¬
+possuem¬
+injetor¬
+automático¬ e¬ costumam¬ levar¬ mais¬ tempo¬ para¬ medida,¬
+pois¬há¬necessidade¬de¬ajustes¬rotineiramente.¬
+(D) ajuste¬da¬radiação¬e¬forma¬com¬que¬o¬equipamento¬realiza¬
+a¬troca¬desta.¬Modelos¬sequenciais¬costumam¬levar¬mais¬
+tempo¬para¬medida¬pois¬trabalham¬com¬linhas.¬Já¬modelos¬
+simultâneos¬trabalham¬com¬radiação¬contínua.¬
+(E) ângulo¬ de¬ medida¬ da¬ radiação¬ frente¬ ao¬ plasma.¬
+Equipamentos¬ sequenciais¬ realizam¬ a¬ medida¬ em¬ uma¬
+posição¬ fixa.¬ Já¬ equipamentos¬ simultâneos¬ permitem¬ a¬
+troca¬do¬ângulo¬de¬medida¬segundo¬necessidade.¬
+##### 
+¬
+{38} 
+A¬ determinação¬ elementar¬ de¬ fósforo,¬ enxofre¬ e¬ carbono¬ é¬
+possível¬por¬meio¬da¬Espectroscopia¬de¬Emissão¬Atômica.¬No¬
+entanto,¬ para¬ que¬ isso¬ ocorra,¬ são¬ necessários¬ alguns¬
+cuidados¬ experimentais.¬ Sobre¬ esse¬ tópico,¬ assinale¬ a¬
+alternativa¬que¬apresenta¬uma¬das¬dificuldades¬encontradas¬
+na¬ determinação¬ desses¬ elementos¬ e¬ a¬ forma¬ comumente¬
+utilizada¬para¬viabilizar¬suas¬determinações.¬
+¬
+(A) São¬ elementos¬ com¬ altos¬ índices¬ de¬ ionização.¬ Há¬
+necessidade¬ do¬ uso¬ de¬ supressores¬ de¬ ionização¬ ou¬
+agentes¬de¬proteção¬para¬que¬possam¬ser¬determinados.¬
+(B) São¬ elementos¬ refratários¬ de¬ alta¬ ionização,¬ são¬
+comumente¬
+determinados¬
+com¬
+atomizadores¬
+eletrotérmicos¬ou¬de¬temperatura¬mais¬elevada.¬
+(C) São¬
+elementos¬
+cujas¬
+linhas¬
+de¬
+emissão¬
+são¬
+excessivamente¬ próximas.¬ Há¬ necessidade¬ do¬ aumento¬
+da¬ fenda¬ do¬ monocromador¬ para¬ que¬ possam¬ ser¬
+determinados.¬
+(D) São¬ elementos¬ cujas¬ linhas¬ de¬ emissão¬ estão¬ em¬
+comprimentos¬de¬onda¬na¬região¬de¬micro-ondas.¬Deve-
+se¬ optar¬ por¬ equipamentos¬ que¬ possibilitem¬ medidas¬
+nessa¬região.¬
+(E) São¬ elementos¬ cujas¬ linhas¬ de¬ emissão¬ estão¬ em¬
+comprimentos¬ de¬ onda¬ de¬ alta¬ energia.¬ Para¬ essa¬
+determinação,¬ costuma-se¬ remover¬ o¬ ar¬ da¬ região¬ do¬
+conjunto¬óptico.¬
+##### 
+¬
+{39} 
+Considere¬ uma¬ substância¬ orgânica¬ cujo¬ log¬ Poct¬ =¬ 1.¬ Ao¬
+realizar¬a¬extração¬desta¬de¬um¬meio¬aquoso¬fazendo¬uso¬de¬
+n-octanol¬ (razão¬ volumétrica¬ de¬ octanol:água¬ de¬ 1:1),¬ é¬
+esperada¬a¬extração¬de¬qual¬proporção,¬em¬%?¬
+¬
+(A) 0,500¬
+(B) 9,01¬
+(C) 50,0¬
+(D) 90,9¬
+(E) 99,0¬
+##### 
+¬
+
+
+--- PAGE 12 ---
+
+Concurso Edital RH nº 075/2025 – Técnico de Laboratório (especialidade: Química analítica)¬
+{40} 
+O¬pH¬de¬algumas¬alíquotas¬de¬uma¬amostra¬aquosa¬contendo¬
+um¬analito¬orgânico¬foi¬ajustado¬para¬diferentes¬valores,¬sendo¬
+uma¬extração¬líquido-líquido¬com¬uma¬fase¬imiscível¬realizada¬
+para¬ cada¬ uma¬ destas¬ condições.¬ Os¬ dados¬ referentes¬ a¬
+esses¬experimentos¬são¬apresentados¬no¬gráfico¬a¬seguir.¬
+¬
+¬
+Sobre¬o¬analito¬extraído,¬é¬correto¬afirmar¬que¬
+¬
+(A) se¬trata¬de¬um¬ácido¬neutro¬em¬pH¬igual¬a¬1.¬
+(B) se¬trata¬de¬um¬composto¬neutro¬não¬ionizável.¬
+(C) se¬trata¬de¬uma¬base¬neutra¬em¬pH¬igual¬a¬9.¬
+(D) possui¬o¬valor¬de¬pKa¬acima¬de¬6.¬
+(E) possui¬o¬valor¬de¬pKb¬abaixo¬de¬3.¬
+##### 
+¬
+{41} 
+Considere¬as¬determinações¬cromatográficas¬a¬seguir.¬
+¬
+I¬ –¬ Contaminantes¬ orgânicos¬ não¬ voláteis¬ em¬ nível¬ traço¬
+(abaixo¬do¬limite¬de¬detecção¬da¬técnica)¬em¬água¬potável;¬
+II¬–¬Etanol¬em¬amostra¬de¬sangue;¬
+III¬–¬Resíduos¬de¬agrotóxicos¬em¬frutas.¬
+¬
+Para¬que¬essas¬análises¬sejam¬conduzidas¬de¬forma¬assertiva,¬
+quais¬os¬procedimentos¬(ou¬métodos)¬de¬preparo¬de¬amostras¬
+mais¬adequados¬e¬mais¬utilizados¬atualmente?¬
+¬
+(A) I¬–¬Extração¬em¬fase¬sólida;¬II¬–¬Extração¬por¬headspace;¬
+III¬–¬Eletroforese¬em¬fluxo.¬
+(B) I¬–¬QuEChERS;¬¬II¬–¬Extração¬líquido-líquido;¬III¬–¬Eletroforese¬
+em¬Fluxo.¬
+(C) I¬–¬Diálise;¬II¬-¬Extração¬líquido-líquido;¬III¬–¬Extração¬em¬
+fase¬sólida.¬
+(D) I¬–¬Extração¬em¬fase¬sólida;¬II¬–¬Extração¬por¬headspace;¬
+III¬–¬QuEChERS.¬
+(E) I¬–¬Microextração¬em¬fase¬sólida;¬II¬–¬Eletroforese¬em¬fluxo;¬
+III¬–¬QuEChERS.¬
+##### 
+¬
+{42} 
+O¬método¬denominado¬de¬QuEChERS¬pode¬ser¬dividido¬por¬
+uma¬ sequência¬ de¬ três¬ etapas¬ principais,¬ com¬ finalidades¬
+distintas.¬ Nessa¬ divisão,¬ qual¬ a¬ sequência¬ de¬ processos¬
+envolvidos?¬
+¬
+(A) Extração,¬partição¬e¬limpeza¬do¬extrato.¬
+(B) Limpeza¬do¬extrato,¬extração¬e¬partição.¬
+(C) Filtração,¬concentração¬e¬volatilização.¬
+(D) Fusão,¬precipitação¬e¬concentração.¬
+(E) Precipitação,¬filtração¬e¬concentração.¬
+##### 
+¬
+{43} 
+O¬ cromatograma¬ apresentado¬ na¬ figura¬ a¬ seguir¬ foi¬ obtido¬
+para¬ três¬ substâncias¬ orgânicas¬ neutras,¬ em¬ modo¬ de¬ fase¬
+reversa¬e¬com¬composição¬constante¬de¬fase¬móvel¬(40%¬de¬
+metanol¬e¬60%¬de¬fase¬aquosa¬em¬pH¬3).¬
+¬
+¬
+¬
+Sobre¬ esse¬ cromatograma¬ e¬ as¬ condições¬ experimentais,¬ é¬
+correto¬ afirmar¬ que¬ o¬ uso¬ de¬ uma¬ fase¬ móvel¬ com¬ maior¬
+proporção¬de¬fase¬
+¬
+(A) aquosa¬ nos¬ primeiros¬ 3¬ a¬ 4¬ minutos¬ do¬ experimento,¬
+seguido¬ do¬ uso¬ do¬ modo¬ gradiente,¬ contribuiria¬ com¬ o¬
+aumento¬da¬resolução¬dos¬primeiros¬dois¬picos¬e¬poderia¬
+reduzir¬o¬tempo¬total¬de¬separação.¬
+(B) aquosa¬ nos¬ primeiros¬ 3¬ a¬ 4¬ minutos¬ do¬ experimento,¬
+seguido¬ do¬ uso¬ do¬ modo¬ gradiente,¬ contribuiria¬ com¬ a¬
+diminuição¬ da¬ resolução¬ dos¬ primeiros¬ dois¬ picos¬ e¬
+poderia¬reduzir¬o¬tempo¬total¬de¬separação.¬
+(C) orgânica¬ nos¬ primeiros¬ 3¬ a¬ 4¬ minutos¬ do¬ experimento,¬
+seguido¬ do¬ uso¬ do¬ modo¬ gradiente,¬ contribuiria¬ com¬ o¬
+aumento¬da¬resolução¬dos¬primeiros¬dois¬picos¬e¬poderia¬
+reduzir¬o¬tempo¬de¬separação.¬
+(D) aquosa¬ nos¬ primeiros¬ 3¬ a¬ 4¬ minutos¬ do¬ experimento,¬
+seguido¬ do¬ uso¬ do¬ modo¬ isocrático,¬ contribuiria¬ com¬ o¬
+aumento¬da¬resolução¬dos¬primeiros¬dois¬picos¬e¬poderia¬
+reduzir¬o¬tempo¬total¬de¬separação.¬
+(E) orgânica¬ nos¬ primeiros¬ 3¬ a¬ 4¬ minutos¬ do¬ experimento,¬
+seguido¬ do¬ uso¬ do¬ modo¬ isocrático,¬ contribuiria¬ com¬ a¬
+redução¬da¬resolução¬dos¬primeiros¬dois¬picos¬e¬poderia¬
+aumentar¬o¬tempo¬total¬de¬separação.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Tempo
+(min)
+5
+20
+10
+15
+Sinal
+A
+B
+C
+
+
+--- PAGE 13 ---
+
+Concurso Edital RH nº 075/2025 – Técnico de Laboratório (especialidade: Química analítica)¬
+{44} 
+Considere¬o¬diagrama¬a¬seguir.¬
+¬
+¬
+¬
+Sobre¬o¬equipamento¬representado¬pelo¬diagrama,¬é¬correto¬
+afirmar¬que¬se¬trata¬de¬um¬sistema¬cromatográfico¬que¬permite¬
+realizar¬separações¬no¬modo¬
+¬
+(A) isocrático¬ e¬ gradiente.¬ A¬ mesma¬ configuração¬ pode¬ ser¬
+utilizada¬ para¬ modo¬ normal¬ ou¬ reverso,¬ mas¬ não¬ para¬
+cromatografia¬ de¬ pareamento¬ iônico¬ e¬ cromatografia¬ de¬
+íons¬sem¬supressão.¬
+(B) isocrático¬ e¬ gradiente.¬ A¬ mesma¬ configuração¬ pode¬ ser¬
+utilizada¬para¬modo¬normal¬ou¬reverso,¬cromatografia¬de¬
+pareamento¬ iônico¬ ou¬ cromatografia¬ de¬ íons¬ sem¬
+supressão,¬basta¬que¬a¬fase¬estacionária¬e¬detector¬sejam¬
+compatíveis¬com¬cada¬um¬desses¬modos.¬
+(C) isocrático¬ apenas.¬ A¬ mesma¬ configuração¬ pode¬ ser¬
+utilizada¬ para¬ modo¬ normal¬ ou¬ reverso,¬ mas¬ não¬ para¬
+cromatografia¬ de¬ pareamento¬ iônico¬ e¬ cromatografia¬ de¬
+íons¬sem¬supressão.¬
+(D) isocrático¬ apenas.¬ A¬ mesma¬ configuração¬ pode¬ ser¬
+utilizada¬para¬modo¬normal¬ou¬reverso,¬cromatografia¬de¬
+pareamento¬ iônico¬ ou¬ cromatografia¬ de¬ íons¬ sem¬
+supressão;¬ para¬ tanto,¬ basta¬ que¬ a¬ fase¬ estacionária¬ e¬
+detector¬sejam¬compatíveis¬com¬cada¬um¬desses¬modos.¬
+(E) isocrático¬ e¬ gradiente.¬ A¬ mesma¬ configuração¬ pode¬ ser¬
+utilizada¬
+para¬
+modo¬
+normal¬
+ou¬
+reverso¬
+e¬
+para¬
+cromatografia¬de¬pareamento¬iônico.¬Para¬cromatografia¬
+de¬íons¬com¬supressão¬essa¬configuração¬não¬se¬adequa.¬
+##### 
+¬
+{45} 
+Utilizando¬uma¬coluna¬capilar¬com¬fase¬estacionária¬composta¬
+por¬ polietilenoglicol¬ (polar),¬ um¬ técnico¬ de¬ laboratório¬
+necessita¬
+analisar¬
+algumas¬
+amostras¬
+e¬
+realizar¬
+a¬
+determinação¬ dos¬ seguintes¬ compostos¬ por¬ cromatografia¬
+gasosa¬com¬detector¬por¬ionização¬de¬chama:¬
+¬
+I¬–¬CH3–(CH2)10–CH3;¬
+II¬–¬CH3–(CH2)9–CH3;¬
+III¬–¬CH3CH2OH;¬
+IV¬–¬H2CO3.¬
+¬
+Considerando¬ os¬ analitos¬ e¬ as¬ condições¬ mencionadas,¬
+assinale¬ a¬ alternativa¬ que¬ apresenta¬ as¬ contraindicações¬
+relacionadas¬a¬essa¬determinação.¬
+¬
+(A) O¬ polietilenoglicol¬ não¬ é¬ indicado¬ para¬ o¬ I,¬ apenas.¬ O¬
+detector¬por¬ionização¬em¬chama¬não¬é¬indicado¬para¬o¬III¬
+e¬IV.¬
+(B) O¬polietilenoglicol¬não¬é¬indicado¬para¬III¬e¬IV.¬O¬detector¬
+por¬ionização¬em¬chama¬não¬é¬indicado¬para¬o¬IV.¬
+(C) O¬polietilenoglicol¬não¬é¬indicado¬para¬I¬e¬II,¬apenas.¬O¬
+detector¬por¬ionização¬em¬chama¬não¬é¬indicado¬para¬o¬III.¬
+(D) O¬polietilenoglicol¬não¬é¬indicado¬para¬o¬III.¬O¬detector¬por¬
+ionização¬em¬chama¬não¬é¬indicado¬para¬I¬e¬II.¬
+(E) O¬polietilenoglicol¬não¬é¬indicado¬para¬I¬e¬II.¬O¬detector¬por¬
+ionização¬em¬chama¬não¬é¬indicado¬para¬o¬IV.¬
+##### 
+{46} 
+Na¬imagem¬a¬seguir,¬é¬apresentado¬um¬cromatograma¬obtido¬
+com¬um¬equipamento¬de¬Cromatografia¬Gasosa¬com¬Detector¬
+por¬ Ionização¬ em¬ Chama.¬ Os¬ analitos¬ detectados¬ são¬
+indicados¬por¬setas¬e¬letras¬(A¬até¬D).¬
+¬
+Sobre¬os¬analitos¬em¬questão,¬é¬correto¬afirmar¬que¬
+¬
+(A) o¬aumento¬da¬temperatura¬do¬detector¬poderia¬resultar¬em¬
+maior¬ separação¬ destes.¬ No¬ entanto,¬ o¬ maior¬ tempo¬ de¬
+retenção¬obtido¬dessa¬forma¬resultaria¬em¬maior¬altura¬de¬
+pico¬para¬todos¬os¬analitos.¬
+(B) a¬ redução¬ da¬ temperatura¬ do¬ forno¬ da¬ coluna¬ poderia¬
+resultar¬em¬maior¬separação¬destes.¬No¬entanto,¬o¬maior¬
+tempo¬de¬retenção¬obtido¬dessa¬forma¬resultaria¬em¬menor¬
+altura¬de¬pico¬para¬todos¬os¬analitos.¬
+(C) o¬ aumento¬ da¬ temperatura¬ do¬ forno¬ da¬ coluna¬ poderia¬
+resultar¬em¬menor¬separação¬destes.¬No¬entanto,¬o¬maior¬
+tempo¬de¬retenção¬obtido¬dessa¬forma¬resultaria¬em¬menor¬
+altura¬de¬pico¬para¬todos¬os¬analitos.¬
+(D) a¬ redução¬ da¬ temperatura¬ do¬ forno¬ da¬ coluna¬ poderia¬
+resultar¬em¬maior¬separação¬destes.¬No¬entanto,¬o¬maior¬
+tempo¬de¬retenção¬obtido¬dessa¬forma¬resultaria¬em¬maior¬
+altura¬de¬pico¬para¬todos¬os¬analitos.¬
+(E) o¬aumento¬da¬temperatura¬do¬detector¬poderia¬resultar¬em¬
+menor¬separação¬destes.¬No¬entanto,¬o¬maior¬tempo¬de¬
+retenção¬obtido¬dessa¬forma¬resultaria¬em¬menor¬altura¬de¬
+pico¬para¬todos¬os¬analitos.¬
+##### 
+¬
+{47} 
+Uma¬das¬formas¬de¬ajuste¬da¬retenção¬de¬substâncias¬com¬
+comportamento¬ácido-base¬em¬cromatografia¬de¬fase¬líquida¬
+é¬por¬meio¬da¬alteração¬do¬pH¬da¬fase¬aquosa¬que¬compõe¬a¬
+fase¬móvel.¬Considere¬duas¬bases¬nitrogenadas¬orgânicas¬(‘A’¬
+e¬‘B’).¬O¬ácido¬‘HA+’¬apresenta¬pKa¬igual¬a¬5,¬e¬o¬ácido¬‘HB+’¬
+pKa¬igual¬a¬4.¬Tendo¬à¬disposição¬o¬ácido¬fosfórico¬e¬seus¬
+respectivos¬ sais¬ de¬ potássio,¬ qual¬ mistura¬ equimolar¬
+ácido/base¬ conjugados¬ deve¬ ser¬ ajustada¬ na¬ fase¬ aquosa¬
+para¬produção¬de¬uma¬solução¬tampão¬que¬possibilite¬maior¬
+interação¬ destes¬ dois¬ analitos¬ (‘A’¬ e¬ ‘B’)¬ com¬ uma¬ fase¬
+estacionária¬C18¬(octadesilsiloxano)¬em¬cromatografia¬de¬fase¬
+reversa¬e¬sem¬danificar¬a¬fase¬estacionária?¬
+¬
+(A) HPO42-¬e¬PO43-¬
+(B) H2PO4-¬e¬HPO42-¬
+(C) H2PO4-¬e¬PO43-¬
+(D) H3PO4¬e¬H2PO4-¬
+(E) H3PO4-¬e¬HPO42-¬
+¬
+Note e adote: 
+Limite¬máximo¬de¬pH¬da¬fase¬estacionário¬é¬igual¬a¬8,0;¬Valores¬de¬
+pKa¬do¬H3PO4:¬pKa1¬=¬2,2;¬pKa2¬=¬7,2;¬pKa3¬=¬12,4¬
+##### 
+Bomba
+Injetor
+Detector
+Descarte
+Coluna
+Tempo
+(min)
+5
+10
+Sinal
+A
+B
+C e D
+
+
+--- PAGE 14 ---
+
+Concurso Edital RH nº 075/2025 – Técnico de Laboratório (especialidade: Química analítica)¬
+Dados para as questões de 48 a 50 
+Em¬uma¬separação¬cromatográfica¬realizada¬com¬equipamentos¬
+modernos¬e¬de¬alta¬eficiência,¬são¬obtidos¬dados¬de¬área,¬altura¬
+e¬largura¬de¬pico,¬assim¬como¬o¬tempo¬de¬retenção¬destes¬(tr).¬
+Esses¬ parâmetros¬ são¬ úteis¬ em¬ determinações¬ qualitativas¬ e¬
+quantitativas¬ e¬ podem¬ ser¬ ajustados¬ com¬ a¬ alteração¬ de¬
+condições¬experimentais¬visando¬melhores¬resultados.¬
+Considere¬ que,¬ em¬ uma¬ determinação¬ cromatográfica,¬ uma¬
+alíquota¬de¬1,00¬mL¬de¬uma¬amostra¬aquosa¬foi¬transferida¬para¬
+um¬balão¬de¬25,0¬mL.¬Antes¬de¬avolumar¬o¬balão,¬foi¬também¬
+adicionado¬a¬este¬um¬analito¬que¬apresenta¬interação¬nula¬com¬
+a¬fase¬estacionária.¬Os¬dados¬apresentados¬na¬tabela¬a¬seguir¬
+foram¬obtidos¬para¬essa¬amostra¬(resultados¬para¬os¬analitos¬e¬
+para¬ a¬ substância¬ que¬ não¬ apresenta¬ interação¬ com¬ a¬ fase¬
+estacionária).¬O¬tempo¬de¬retenção¬não corrigido¬(tr)¬e¬a¬largura¬
+de¬base¬são¬apresentados¬em¬segundos.¬Unidade¬arbitrária¬foi¬
+utilizada¬para¬a¬área.¬
+¬
+Analito¬
+tr¬
+Largura¬da¬base¬
+do¬pico¬
+Área¬do¬pico¬
+A¬
+90¬
+8¬
+30,00¬
+B¬
+130¬
+10¬
+12,00¬
+C¬
+220¬
+14¬
+21,00¬
+D¬
+250¬
+16¬
+15,01¬
+X¬
+40¬
+2¬
+---¬
+¬
+{48} 
+Considere¬a¬seguinte¬equação:¬
+Y¬=¬600,0¬X¬+¬0,00001000¬(X¬em¬mmol/L)¬
+Trata-se¬da¬equação¬para¬os¬dados¬de¬área¬obtidos¬da¬curva¬
+de¬ calibração¬ do¬ analito¬ ‘B’¬ (MM¬ =¬ 500,0¬ g/mol).¬ Sabendo¬
+disso,¬qual¬o¬valor¬da¬concentração¬(em¬mg/L)¬desse¬analito¬
+na¬amostra?¬
+¬
+(A) 10,0¬
+(B) 100¬
+(C) 250¬
+(D) 500¬
+(E) 750¬
+##### 
+¬
+{49} 
+Qual¬a¬resolução¬obtida¬para¬o¬par¬crítico¬(par¬de¬picos¬com¬a¬
+menor¬resolução)¬nessa¬separação?¬
+¬
+(A) 1,5¬
+(B) 2,0¬
+(C) 2,5¬
+(D) 4,4¬
+(E) 9,5¬
+##### 
+¬
+{50} 
+O¬ Fator¬ de¬ Retenção¬ de¬ um¬ analito¬ é¬ um¬ parâmetro¬
+rotineiramente¬ utilizado¬ em¬ cromatografia¬ líquida.¬ O¬ valor¬
+desse¬ parâmetro¬ pode¬ também¬ ser¬ obtido¬ diretamente¬ dos¬
+dados¬experimentais¬de¬uma¬separação.¬Nesse¬sentido,¬qual¬
+o¬valor¬do¬Fator¬de¬Retenção¬para¬o¬analito¬‘A’¬na¬condição¬
+experimental¬utilizada?¬
+¬
+(A) 1,00¬
+(B) 1,10¬
+(C) 1,25¬
+(D) 1,35¬
+(E) 1,50¬
+##### 
+{51} 
+Em¬ espectrometria¬ de¬ massas,¬ conceitos¬ de¬ estrutura¬ da¬
+matéria¬ são¬ essenciais¬ para¬ o¬ entendimento¬ dos¬ dados¬
+obtidos¬como¬resultado.¬Tópicos¬relacionados¬com¬a¬relação¬
+massa¬carga¬de¬íons,¬distribuição¬isotópica,¬massa¬atômica,¬
+massa¬ exata¬ e¬ número¬ atômico¬ dos¬ elementos¬ são¬
+rotineiramente¬abordados.¬
+Nesse¬ sentido,¬ é¬ correto¬ afirmar¬ que¬ os¬ termos¬ ‘isótopo’¬ e¬
+‘massa¬exata’¬referem-se,¬respectivamente,¬a¬elementos¬com¬
+o¬mesmo¬número¬
+¬
+(A) atômico,¬ mas¬ diferente¬ número¬ de¬ nêutrons,¬ e¬ massa¬
+atômica¬média¬de¬um¬elemento¬apresentada¬com¬duas¬ou¬
+mais¬casas¬decimais.¬
+(B) de¬nêutrons,¬mas¬diferente¬número¬de¬prótons,¬e¬massa¬de¬
+um¬isótopo¬específico¬ou¬de¬um¬composto¬que¬contém¬um¬
+conjunto¬particular¬de¬isótopos.¬
+(C) de¬prótons,¬mas¬diferente¬número¬de¬nêutrons,¬e¬massa¬
+atômica¬ média¬ do¬ elemento¬ apresentada¬ com¬ duas¬ ou¬
+mais¬casas¬decimais.¬
+(D) de¬nêutrons,¬mas¬diferente¬número¬de¬prótons,¬e¬massa¬
+atômica¬ média¬ do¬ elemento¬ apresentada¬ com¬ duas¬ ou¬
+mais¬casas¬decimais.¬
+(E) atômico,¬mas¬diferente¬número¬de¬nêutrons,¬e¬massa¬de¬
+um¬isótopo¬específico¬ou¬de¬um¬composto¬que¬contém¬um¬
+conjunto¬particular¬de¬isótopos.¬
+##### 
+¬
+{52} 
+O¬emprego¬de¬um¬equipamento¬de¬Espectrometria¬de¬Massas¬
+Atômicas¬ no¬ lugar¬ de¬ um¬ equipamento¬ de¬ emissão¬ traz¬
+inúmeras¬vantagens,¬como¬a¬obtenção¬de¬menores¬limites¬de¬
+detecção¬ e¬ abrangência¬ de¬ maior¬ número¬ de¬ elementos.¬
+Algumas¬ outras¬ características¬ específicas¬ diferenciam¬ ou¬
+aproximam¬também¬essas¬duas¬técnicas.¬Nessa¬comparação,¬
+é¬correto¬afirmar¬que¬a¬Espectrometria¬de¬Massas¬Atômicas¬
+apresenta¬um¬espectro¬mais¬
+¬
+(A) simples,¬ mas¬ não¬ está¬ livre¬ de¬ interferentes.¬ Átomos¬
+neutros,¬no¬estado¬fundamental¬ou¬excitados,¬não¬devem¬
+ser¬medidos¬pelo¬detector¬do¬equipamento.¬
+(B) simples,¬livre¬de¬interferentes.¬Átomos¬neutros,¬no¬estado¬
+fundamental¬ou¬excitados,¬não¬devem¬ser¬medidos¬pelo¬
+detector¬do¬equipamento.¬
+(C) complexo,¬livre¬de¬interferentes.¬Apenas¬átomos¬excitados¬
+chegam¬ao¬detector¬do¬equipamento.¬Átomos¬neutros¬no¬
+estado¬fundamental¬não¬são¬medidos.¬
+(D) complexo,¬livre¬de¬interferentes.¬Átomos¬neutros,¬no¬estado¬
+fundamental¬ ou¬ excitado,¬ não¬ devem¬ ser¬ medidos¬ pelo¬
+detector¬do¬equipamento.¬
+(E) simples,¬ mas¬ não¬ está¬ livre¬ de¬ interferentes.¬ Apenas¬
+átomos¬ excitados¬ são¬ medidos¬ pelo¬ detector¬ do¬
+equipamento.¬Átomos¬neutros¬no¬estado¬fundamental¬não¬
+são¬medidos.¬
+##### 
+¬
+
+
+--- PAGE 15 ---
+
+Concurso Edital RH nº 075/2025 – Técnico de Laboratório (especialidade: Química analítica)¬
+{53} 
+Glicose¬(C6H12O6)¬e¬inositol¬(C6H12O6)¬apresentam¬estruturas¬
+químicas¬significativamente¬diferentes¬e¬são¬detectados¬como¬
+C6H11O6-¬ por¬ um¬ modelo¬ específico¬ de¬ Espectrômetro¬ de¬
+Massas.¬Sobre¬essa¬determinação,¬assinale¬a¬alternativa¬que¬
+apresenta¬ uma¬ estratégia¬ que¬ poderia¬ ser¬ utilizada¬ para¬
+diferenciar¬essas¬duas¬substâncias.¬
+¬
+(A) Uso¬ de¬ um¬ equipamento¬ de¬ resolução¬ maior¬ que¬ o¬
+indicado¬na¬questão.¬
+(B) Uso¬ de¬ um¬ equipamento¬ que¬ permita¬ detecção¬ do¬ íon¬
+molecular.¬
+(C) Uso¬ de¬ um¬ equipamento¬ sequencial,¬ como¬ um¬ triplo¬
+quadrupolo.¬
+(D) Uso¬de¬um¬equipamento¬que¬permita¬identificar¬o¬padrão¬
+isotópico¬do¬analito.¬
+(E) Uso¬ de¬ um¬ equipamento¬ com¬ detector¬ de¬ maior¬
+sensibilidade.¬
+##### 
+¬
+¬
+Dados para as questões de 54 a 56 
+Na¬imagem¬a¬seguir,¬é¬apresentado¬um¬espectro¬de¬massas¬
+obtido¬para¬um¬aminoglicosídeo¬de¬massa¬molecular¬igual¬a¬
+558,56¬g/mol¬(C20H40N5O13).¬Sabe-se¬que¬não¬foi¬utilizado¬um¬
+equipamento¬acoplado¬com¬técnicas¬cromatográficas¬e¬que¬a¬
+ionização¬se¬deu¬pela¬perda¬ou¬inclusão¬de¬prótons¬ao¬analito¬
+(não¬há¬fragmentação).¬Abaixo¬da¬imagem,¬é¬apresentada¬a¬
+distribuição¬ isotópica¬ dos¬ elementos¬ que¬ compõem¬ a¬
+molécula¬em¬questão.¬
+¬
+¬
+{54} 
+Sobre¬ esse¬ registro¬ experimental,¬ qual¬ a¬ carga¬ dos¬ íons¬
+registrados¬no¬espectro?¬
+¬
+(A) 1–¬
+(B) 2–¬
+(C) 3–¬
+(D) 1+¬
+(E) 2+¬
+##### 
+¬
+{55} 
+Sobre¬o¬registro¬indicado¬na¬imagem,¬qual¬dos¬íons¬a¬seguir¬
+mais¬contribui¬para¬a¬intensidade¬do¬sinal¬do¬pico¬indicado¬
+como¬‘II’¬na¬imagem?¬
+¬
+(A) 13C201Hy14N516O13x¬¬
+(B) 13C12C201Hy14N516O13x¬¬
+(C) 14C201Hy14N516O13x¬¬
+(D) 13C12C191Hy14N516O13x¬
+(E) 12C201Hy14N517O16O12x¬
+¬
+Note e adote: 
+Observe¬que¬o¬valor¬e¬o¬sinal¬da¬carga,¬assim¬como¬o¬número¬de¬
+átomos¬de¬hidrogênio,¬foram¬omitidos¬(indicados¬como¬x¬e¬y).¬
+##### 
+¬
+{56} 
+Qual¬é¬a¬provável¬fonte¬de¬ionização¬utilizada¬no¬experimento¬
+(z)¬e¬em¬que¬tipo¬de¬fase¬deve¬estar¬o¬analito¬para¬que¬possa¬
+ser¬submetido¬a¬essa¬fonte¬(w)?¬
+¬
+(A) z¬=¬Impacto¬de¬Elétrons¬(EI)¬e¬w¬=¬Líquida.¬¬
+(B) z¬=¬Eletronebulização¬(ESI)¬e¬w¬=¬Líquida.¬
+(C) z¬=¬Eletronebulização¬(ESI)¬e¬w¬=¬Gasosa.¬¬
+(D) z¬=¬Impacto¬de¬Elétrons¬(EI)¬e¬w¬=¬Gasosa.¬¬
+(E) z¬=¬Impacto¬de¬Elétrons¬(EI)¬e¬w¬=¬Sólida.¬
+##### 
+¬
+{57} 
+No¬estado¬de¬São¬Paulo,¬parte¬significativa¬das¬atividades¬de¬
+pesquisa¬é¬financiada¬pela¬FAPESP.¬Em¬seu¬Código¬de¬Boas¬
+Práticas¬ Científicas,¬ são¬ estabelecidas¬ diretrizes¬ éticas¬ que¬
+devem¬ ser¬ seguidas¬ por¬ pesquisadores¬ e¬ instituições¬ que¬
+desejam¬ pleitear¬ recursos¬ para¬ pesquisa.¬ Segundo¬ esse¬
+documento¬ (tópico¬ 6.1),¬ caso¬ haja¬ suspeitas¬ fundadas¬ da¬
+possível¬ocorrência¬de¬más¬condutas¬científicas¬relacionadas¬
+à¬pesquisa¬apoiada¬pela¬FAPESP,¬deve-se,¬
+¬
+(A) de¬forma¬anônima,¬encaminhar¬a¬denúncia¬diretamente¬às¬
+autoridades¬locais¬para¬investigação.¬
+(B) em¬circunstâncias¬ordinárias,¬informá-las¬à¬instituição¬em¬
+que¬essa¬pesquisa¬tenha¬se¬realizado.¬
+(C) em¬ circunstâncias¬ ordinárias,¬ informá-las¬ diretamente¬ à¬
+FAPESP¬para¬investigações¬preliminares.¬
+(D) de¬forma¬anônima,¬informá-las¬diretamente¬à¬FAPESP¬para¬
+investigações¬preliminares.¬
+(E) sob¬ pena¬ de¬ cancelamento¬ do¬ projeto,¬ evitar¬ conversar¬
+diretamente¬com¬o¬responsável¬pelas¬más¬condutas.¬
+##### 
+¬
+
+
+--- PAGE 16 ---
+
+Concurso Edital RH nº 075/2025 – Técnico de Laboratório (especialidade: Química analítica)¬
+{58} 
+Segundo¬o¬Guia¬de¬Boas¬Práticas¬Científicas¬da¬USP,¬para¬ser¬
+incluído¬como¬um¬dos¬autores¬de¬uma¬publicação¬científica,¬o¬
+indivíduo¬deve¬atender¬a¬algumas¬condições.¬Nesse¬contexto,¬
+assinale¬ a¬ alternativa¬ em¬ que¬ uma¬ dessas¬ condições¬ é¬
+apresentada.¬
+¬
+(A) Ser¬ o¬ responsável¬ pelos¬ equipamentos¬ de¬ medida¬
+utilizados.¬
+(B) Ter¬participado¬do¬grupo¬técnico¬que¬prestou¬serviços¬de¬
+análise.¬
+(C) Ter¬apoiado¬os¬doutorandos¬no¬desenvolvimento¬de¬suas¬
+teses.¬
+(D) Ter¬ arcado¬ com¬ os¬ custos¬ de¬ aquisição¬ de¬ reagentes¬
+químicos.¬
+(E) Ter¬envolvimento¬na¬composição¬ou¬revisão¬do¬trabalho.¬¬
+##### 
+¬
+{59} 
+O¬Guia¬de¬Boas¬Práticas¬Científicas¬da¬USP,¬no¬trecho¬em¬que¬
+trata¬de¬integridade¬científica,¬apresenta¬alguns¬exemplos¬de¬
+fraudes¬ na¬ prática¬ científica.¬ Nesse¬ contexto,¬ assinale¬ a¬
+alternativa¬que¬menciona¬um¬dos¬exemplos¬citados.¬
+¬
+(A) Autoplágio:¬usar¬textos¬já¬publicados,¬mesmo¬que¬citada¬a¬
+fonte.¬
+(B) Ressubmissão:¬voltar¬a¬submeter¬trabalho¬já¬recusado¬por¬
+revista¬científica.¬
+(C) Revisão¬por¬pares:¬indicar¬pesquisador¬de¬renome¬para¬
+revisão¬de¬trabalho.¬
+(D) Autoria¬ honorífica:¬ atribuição¬ de¬ autoria¬ a¬ quem¬ não¬
+contribuiu¬com¬o¬trabalho.¬
+(E) Publicação¬ de¬ dados:¬ abrir¬ seus¬ dados¬ de¬ pesquisa¬
+apenas¬após¬publicação.¬
+##### 
+¬
+{60} 
+Segundo¬o¬Código¬de¬Boas¬Práticas¬Científicas¬da¬FAPESP,¬
+de¬ forma¬ a¬ prevenir¬ más¬ condutas,¬ toda¬ instituição¬ que¬ se¬
+apresente¬ perante¬ a¬ FAPESP¬ como¬ sede¬ de¬ atividades¬ de¬
+pesquisa¬deve¬
+¬
+(A) garantir¬que¬todos¬os¬trabalhos¬passem¬por¬uma¬revisão¬
+por¬pares¬antes¬da¬submissão¬para¬revistas¬científicas.¬
+(B) garantir¬ que,¬ após¬ publicação,¬ todo¬ trabalho¬ científico¬
+passe¬ pelo¬ órgão¬ interno¬ de¬ avaliação¬ de¬ ética¬ na¬
+pesquisa.¬
+(C) por¬meio¬de¬sua¬reitoria,¬comunicar¬imediatamente¬quando¬
+um¬ erro¬ for¬ identificado¬ em¬ sua¬ pesquisa¬ e¬ tomar¬ as¬
+providências¬para¬minimizar¬suas¬consequências.¬
+(D) garantir¬que¬o¬termo¬de¬assentimento¬livre¬e¬esclarecido¬
+seja¬fornecido¬por¬revistas¬científicas¬e¬que¬o¬pesquisador¬
+responsável¬concorde¬com¬este.¬
+(E) incluir¬ em¬ seu¬ organograma¬ ao¬ menos¬ um¬ órgão¬ que¬
+promova¬a¬cultura¬da¬integridade¬ética¬da¬pesquisa.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 17 ---
+
+ 
+
+
+--- PAGE 18 ---
+
+ 
+ 
+ 
+Concurso DRH USP Dezembro 2025 
+Publicado em 08/12/2025. 
+Universidade de São Paulo
+Técnico de Laboratório (especialidade: Química analítica) 
+Edital RH Nº 075/2025  
+PROVA TQA 
+01 
+D 
+ 
+31 
+B 
+02 
+A 
+ 
+32 
+C 
+03 
+E 
+ 
+33 
+A 
+04 
+B 
+ 
+34 
+C 
+05 
+C 
+ 
+35 
+A 
+06 
+E 
+ 
+36 
+A 
+07 
+A 
+ 
+37 
+A 
+08 
+C 
+ 
+38 
+E 
+09 
+D 
+ 
+39 
+D 
+10 
+D 
+ 
+40 
+A 
+11 
+B 
+ 
+41 
+D 
+12 
+C 
+ 
+42 
+A 
+13 
+B 
+ 
+43 
+A 
+14 
+A 
+ 
+44 
+D 
+15 
+E 
+ 
+45 
+E 
+16 
+B 
+ 
+46 
+B 
+17 
+A 
+ 
+47 
+B 
+18 
+C 
+ 
+48 
+C 
+19 
+B 
+ 
+49 
+B 
+20 
+D 
+ 
+50 
+C 
+21 
+E 
+ 
+51 
+E 
+22 
+B 
+ 
+52 
+A 
+23 
+E 
+ 
+53 
+C 
+24 
+A 
+ 
+54 
+E 
+25 
+E 
+ 
+55 
+D 
+26 
+C 
+ 
+56 
+B 
+27 
+E 
+ 
+57 
+B 
+28 
+B 
+ 
+58 
+E 
+29 
+E 
+ 
+59 
+D 
+30 
+C 
+ 
+60 
+E 
+ 

@@ -31,6 +31,11 @@ class User extends Authenticatable
         'google_id',
         'question_text_size',
         'monthly_question_limit',
+        'current_plans_by_category',
+        'current_plan_code',
+        'current_plan_name',
+        'current_plan_price_cents',
+        'plan_activated_at',
     ];
 
     /**
@@ -56,12 +61,20 @@ class User extends Authenticatable
             'is_admin' => 'boolean',
             'is_active' => 'boolean',
             'question_text_size' => 'integer',
+            'current_plans_by_category' => 'array',
             'monthly_question_limit' => 'integer',
+            'current_plan_price_cents' => 'integer',
+            'plan_activated_at' => 'datetime',
         ];
     }
 
     public function simulations(): HasMany
     {
         return $this->hasMany(Simulation::class);
+    }
+
+    public function paymentSessions(): HasMany
+    {
+        return $this->hasMany(PaymentSession::class);
     }
 }

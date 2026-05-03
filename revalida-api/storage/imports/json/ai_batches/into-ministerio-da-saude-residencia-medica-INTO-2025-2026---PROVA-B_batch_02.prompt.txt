@@ -1,0 +1,354 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "INTO / Ministério da Saúde - Residência Médica - https://www.into.saude.gov.br/ensino/residencia/medica?id=1156&layout=edit"
+  }
+]
+
+TEXTO-BASE:
+ro sérico. 
+D) Hemograma completo. 
+E) Receptor solúvel de transferrina.  
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+6 
+ 
+13- Dálton, 4 anos, há 5 dias voltou de uma viagem a uma fazenda com diarreia líquida. Evoluiu 
+com redução do volume urinário, dor abdominal difusa e algum edema ocular. Hoje 
+apresentou sangue em uma das evacuações e "manchas avermelhadas" não pruriginosas em 
+nádegas e membros inferiores. No momento, apresenta-se em regular estado geral, prostrado 
+e subfebril (temperatura: 37 °C). Pressão arterial 125 x 80 mmHg, FC 110 bpm, FR 24 ipm. 
+Presença de petéquias e equimoses em membros inferiores e edema nas pernas e pés. 
+Abdome doloroso à palpação difusa, sem massas palpáveis. Em relação à investigação 
+laboratorial, espera-se encontrar: 
+ 
+A) Testes de coagulação alterados. 
+B) Coprocultura positiva para Entamoeba histolytica. 
+C) Presença de esquizócitos em sangue periférico. 
+D) ASLO positiva. 
+E) Nenhuma das anteriores.  
+ 
+ 
+14- Augusto, 15 meses de idade, é levado à unidade básica de saúde para uma consulta de 
+rotina e o pediatra indica a realização das vacinas preconizadas para essa idade. De acordo com 
+o Programa Nacional de Imunizações, qual vacina deve receber, considerando-se que recebeu 
+todas as vacinas recomendadas até os 12 meses de idade? 
+ 
+A) Reforço de antipneumocócica 10-valente. 
+B) Reforço de antimeningocócica C. 
+C) Reforço de antipoliomielite inativada. 
+D) Reforço de anti-hemófilos B. 
+E) Reforço de febre amarela. 
+ 
+ 
+ 
+15- Aioros, 7 anos, vem acompanhado por sua avó que se revela preocupada. O paciente 
+reside com a avó, o avô e seu irmão mais velho, de 20 anos, que foi diagnosticado com 
+tuberculose há cerca de 3 semanas. O irmão está realizando tratamento. após diagnóstico, mas 
+a avó gostaria de saber o que fazer com seu neto menor. Ao exame, paciente encontra-se 
+assintomático, sem perda de peso e cartão vacinal completo com presença de cicatriz de BCG 
+em seu braço. A melhor conduta nesse caso é: 
+ 
+A) Solicitar radiografia de tórax e realizar prova tuberculínica. 
+B) Solicitar BAAR e aguardar resultado para início de tratamento. 
+C) Realizar tomografia de tórax e manter criança afastada de suas atividades. 
+D) Iniciar tratamento para tuberculose com rifampicina e isoniazida. 
+E) Observar, sem necessidade de tratamento, tendo em vista que está assintomático. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+7 
+16- Elisa, 3 anos de idade, deu entrada no PS infantil com quadro de tosse e febre há um dia. 
+Há 6 horas, a menor começou a apresentar tosse ladrante, cansaço, rouquidão, estridor, e a 
+febre chegou a 40 °C. Ao exame físico de entrada, apresentou-se em mau estado geral, 
+toxemiada, taquidispneica, cianótica, taquicárdica e febril, com os seguintes sinais vitais: FC = 
+185, FR = 54, SatO2 = 78% (em ar ambiente), temperatura = 40,1 °C e PA = 98 mmHg x 56 
+mmHg. A paciente recebeu uma inalação com adrenalina e dose de dexametasona IM, sem 
+que houvesse resposta clínica. No tocante ao caso relatado, assinale a alternativa que 
+apresenta a conduta mais indicada. 
+ 
+A) Proceder à intubação orotraqueal sob sequência rápida de intubação (de preferência pelo 
+médico mais capacitado) e iniciar antibiótico. 
+B) Repetir inalação com adrenalina e iniciar antibiótico. 
+C) Repetir inalação com adrenalina com dose maior e usar b2 agonista associado a corticoide 
+inalatório. 
+D) Prescrever adrenalina intramuscular, anti-histamínico e corticoide sistêmico. 
+E) Proceder à intubação orotraqueal sob sequência rápida de intubação (de preferência pelo 
+médio mais capacitado) e administrar corticoide sistêmico. 
+ 
+17- Lucas, recém-nascido, 37 semanas de idade gestacional, parto cesáreo, sem indicação 
+obstétrica. Apgar de 6 e 8 no primeiro e quinto minutos. Após os procedimentos de 
+reanimação, com 10 minutos de vida, apresenta desconforto respiratório com batimento de 
+asa nasal, tiragem intercostal e retração diafragmática. A saturação de oxigênio pré-ductal é de 
+90% com FC de 120 bpm e FR de 72 irpm. Qual a conduta mais adequada? 
+ 
+A) Iniciar oferta de oxigênio por via inalatória, via cateter. 
+B) Administrar surfactante exógeno o mais precocemente possível. 
+C) Indicar suporte respiratório com pressão contínua nas vias aéreas (CPAP). 
+D) Colher hemograma e iniciar antibioticoterapia. 
+E) Realizar VPP com balão e máscara com oxigênio a 40%. 
+ 
+ 
+18- Mãe tem tipagem sanguínea O Rh negativo com anticorpos anti-D 1/128. Recém-nascido 
+com idade gestacional de 38 semanas, tipagem sanguínea A Rh positivo, com 18 horas de vida 
+apresenta icterícia Zona V, hemoglobina de 8.5 mg/dL e bilirrubina indireta de 20 mg/dL. Qual 
+é a conduta mais apropriada? 
+ 
+A) Iniciar a fototerapia com irradiância de 15 mcwatts/cm²/nm, repetir a bilirrubina em 6 horas 
+e transfundir concentrado de hemácias A RH negativo. 
+B) Iniciar a fototerapia com irradiância de 8 mcwatts/cm²/nm, repetir a bilirrubina em 6 horas e 
+transfundir concentrado de hemácias A RH positivo. 
+C) Iniciar a fototerapia com irradiância de 30 mcwatts/cm²/nm, repetir a bilirrubina em 3 horas 
+e transfundir concentrado de hemácias A RH negativo. 
+D) Iniciar a fototerapia com irradiância de 8 mcwatts/cm²/nm, repetir a bilirrubina em 3 horas 
+e transfundir concentrado de hemácias A RH positivo. 
+E) Nenhuma das respostas anteriores está adequada.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+8 
+19- Amanda, 3 anos de idade, com quadro gripal em tratamento, evoluindo afebril e em bom 
+estado geral, apresenta claudicação há 1 dia, evitando andar e poupando o membro inferior 
+esquerdo quando anda. Ao exame físico, nota-se limitação da mobilização ativa e passiva do 
+quadril esquerdo, sem outras alterações. Com base nessas informações, assinale o diagnóstico 
+ortopédico mais provável. 
+ 
+A) Doença de Legg-Calvé-Perthes. 
+B) Pioartrite do quadril. 
+C) Sinovite transitória do quadril. 
+D) Epifisiólise do quadril. 
+E) Piomiosite do psoas. 
+ 
+20- Patrícia, 12 anos de idade, admitida por dispneia progressiva, cansaço e astenia nos últimos 
+3 dias. Tem antecedente pessoal de doença hematológica (foi adotada e os pais não sabem 
+referir exatamente o histórico prévio), com quadros anteriores de dor intensa, infecções 
+respiratórias e edema de dedos das mãos. Apresenta, neste momento, os seguintes sinais 
+vitais: PA 98 x 66 mmHg; FC 101 bpm, FR 18 irpm e temperatura de 37°C. Ao exame físico, 
+encontra-se pálida, sem alterações à ausculta pulmonar, com presença de um sopro sistólico 
+audível em todo o precórdio e exame abdominal inocente. Exames laboratoriais demonstram: 
+Hb = 4,5 g/dLl; reticulócitos corrigidos de 0,1%; plaquetas = 180.000/mm³ e leucócitos totais = 
+8.000/mm³. Dentre os seguintes, qual é o mais provável contribuidor para o quadro descrito? 
+ 
+A) Sequestro esplênico. 
+B) Hemólise intensa mediada por complemento. 
+C) Infecção prévia por parvovirus B19. 
+D) Mudança brusca de temperatura no inverno. 
+E) Transfusão sanguínea.  
+ 
+GINECOLOGIA E OBSTETRÍCIA 
+ 
+21- Gestante na 40ª semana de gestação é internada para a indução do parto. Para tal 
+procedimento, foi utilizado o Índice de Bishop. O objetivo do uso desse índice é: 
+ 
+A) Avaliar as condições cervicais para a indução do trabalho parto. 
+B) Avaliar a vitalidade fetal para a indução do trabalho de parto. 
+C) Preparo cervical para a indução do trabalho de parto. 
+D) Avaliar a resposta da contratilidade uterina. 
+E) Avaliar a maturidade fetal para a indução do trabalho de parto. 
+ 
+22- Gestante, 37 anos, G2P1, com 32 semanas de gestação, foi diagnosticada com placenta 
+prévia total por ultrassonografia morfológica. Comparece ao pronto atendimento com 
+sangramento vaginal moderado, sem dor. Exame físico com PA de 110 x 70 mmHg, sem sinais 
+de choque. Frequência cardíaca fetal de 145 bpm. Qual o manejo mais adequado? 
+ 
+A) Internação hospitalar e monitoramento clínico e ultrassonográfico. 
+B) Indução imediata do parto por via vaginal. 
+C) Administração de tocolíticos e alta com repouso absoluto em domicílio. 
+D) Resolução imediata da gestação por cesariana. 
+E) Amniocentese para avaliação de maturidade pulmonar fetal. 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+9 
+23- Gestante, 31 anos, com 28 semanas de gestação, foi diagnosticada com diabetes melito 
+gestacional controlado exclusivamente com dieta nas últimas 2 semanas. Apresenta os 
+seguintes controles de glicemia capilar da última semana: Jejum = 105 a 115 mg/dL; 1 hora 
+após o café da manhã = 135 a 172 mg/dL; 1 hora após o almoço = 110 a 120 mg/dL; 1 hora 
+após o jantar = 140 a 168 mg/dL. A ecografia obstétrica recente mostra um peso fetal estimado 
+no percentil 60. Com base nos dados apresentados, a conduta recomendada é: 
+ 
+A) Prescrever análogo de GLP-1.  
+B) Prescrever metformina e glibenclamida. 
+C) Reforçar dieta e exercício físico. 
+D) Solicitar Hb glicada para definir tratamento. 
+E) Prescrever insulina esquema basal-bólus. 
+ 
+24- Gestante, 28 anos, comparece à consulta do pré-natal com queixa de insônia, palpitações, 
+fadiga, ansiedade e perda de peso. Na avaliação dos exames de pré-natal, observa-se que o 
+valor do TSH está abaixo de 0,1 µUI/L e do T4L está igual a 4,0 ng/dL (acima do valor de 
+referência do laboratório). Qual o diagnóstico mais provável? 
+ 
+A) Hipertiroidismo clínico. 
+B) Tireotoxicose gravídica. 
+C) Hipotiroidismo subclínico. 
+D) Alterações fisiológicas da gestação. 
+E) Síndrome do eutireoideo doente.  
+ 
+25- Secundigesta, 39 semanas, em trabalho de parto com 8 cm de dilatação, realiza 
+cardiotocografia. O traçado mostra: 
+ 
+ 
+A) Padrão pseudo-sinusoidal, compatível com uso de analgésicos pela mãe. 
+B) Desacelerações prolongadas, compatíveis com sofrimento fetal. 
+C) Desacelerações tardias compatíveis com hipoxemia fetal. 
+D) Padrão sinusoidal, compatível com hipoxemia fetal grave. 
+E) Desacelerações variáveis compatíveis com compressão de cordão.  
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+10 
+26- Mulher, 29 anos, foi diagnosticada com sífilis. Ela tem um título de VDRL persistentemente 
+elevado de 1/32, apesar do tratamento com penicilina benzatina 2,4 milhões de UI por semana 
+durante um total de 3 semanas. Ela queixa-se de leve tontura e marcha descordenada faz 6 
+meses. Qual dos seguintes exames é o melhor para diagnosticar neurossífilis? 
+ 
+A) Radiografia simples do crânio com nódulos radiotranspacentes na calota. 
+B) Eletroencefalógrafo (EEG). 
+C) Tomografia computadorizada do crânio com contraste. 
+D) Punção lombar. 
+E) Nenhum das anteriores. 
+27- Mulher, 64 anos, retorna em consulta, assintomática, com resultados dos últimos exames 
+realizados. Já conhecida de consultas anteriores, é uma senhora ativa, branca, magra e 
+tabagista. Sua densitometria óssea apresenta um T-score de -2,72 desvios padrões em coluna 
+lombar. Assinale qual o diagnóstico e conduta recomendada, respectivamente. 
+ 
+A) Osteopenia leve; orientar dieta rica em cálcio e atividade física. 
+B) Osteopenia grave; suplementação de cálcio, atividade física sem impacto e evitar 
+musculação. 
+C) Massa óssea normal; orientar parar de fumar e iniciar atividade física. 
+D) Osteoporose; bifosfonatos associados à suplementação de cálcio. 
+E) Massa óssea normal; orientar parar de fumar interromper temporariamente atividade física. 
+ 
+28- Mulher, 58 anos, realizou mamografia que revelou microcalcificações pleomórficas 
+agrupadas de 2 mm no Quadrante Supero-Medial (QSM) da mama direita. Foi realizada biópsia 
+com agulhamento que demonstrou tratar-se de carcinoma intraductal in situ com margens 
+livres de mais de 3 mm. Os receptores estrogênicos e de progesterona eram positivos e o HER-
+2 negativo. Assinale a alternativa que apresenta a conduta correta. 
+ 
+A) Ampliação das margens. 
+B) Avaliação de linfonodo sentinela. 
+C) Radioterapia. 
+D) Mastectomia. 
+E) Quimioterapia. 
+ 
+29- Mulher, 30 anos, G2P1, 1 parto pré-termo anterior por restrição de crescimento fetal e 
+alteração da vitalidade fetal com 31 semanas. Comparece ao consultório para iniciar pré-natal 
+com atraso menstrual de 9 semanas. Refere náuseas e vômitos. Nega outras queixas clínicas e 
+obstétricas. A

@@ -1,0 +1,1218 @@
+
+Você é um revisor técnico de questões médicas para Revalida/Residência.
+
+TAREFA:
+Reescreva somente as alternativas de cada questão abaixo.
+
+OBJETIVO:
+- melhorar alternativas curtas, telegráficas, vagas ou desequilibradas
+- tornar as alternativas mais homogêneas em extensão e formato
+- preservar tema, enunciado, eixo decisório e gabarito
+- deixar as erradas plausíveis, mas incorretas ou menos adequadas
+- evitar alternativas caricatas ou obviamente descartáveis
+
+REGRAS CRÍTICAS:
+- NÃO altere o enunciado
+- NÃO altere o gabarito
+- NÃO mude o tema central da questão
+- NÃO invente detalhe técnico não sustentado pelo enunciado
+- mantenha todas as alternativas na mesma categoria lógica
+- evite rótulos secos quando for possível escrever algo mais informativo
+- a alternativa correta não pode ficar nitidamente mais longa ou mais específica que as demais
+- se a reescrita segura não for possível, marque `rewrite_status` como `manual_review`
+
+FORMATO DE SAÍDA:
+Responda APENAS com JSON válido, no formato:
+[
+  {
+    "id": 123,
+    "rewrite_status": "rewritten",
+    "rewrite_version": 1,
+    "rewritten_alternatives": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "answer_changed": false,
+    "risk_flags": [],
+    "rewrite_notes": [
+      "frase curta explicando a reescrita"
+    ]
+  }
+]
+
+QUESTÕES:
+[
+  {
+    "id": 6662,
+    "area": "Pediatria",
+    "tema": "Meningite bacteriana aguda",
+    "dificuldade": "Média",
+    "enunciado": "Lactente de 3 meses de idade é trazido ao pronto-socorro com febre (39°C), irritabilidade, recusa alimentar e fontanela abaulada. A mãe relata que o bebê está mais sonolento e com gemência há algumas horas. Ao exame físico, apresenta rigidez de nuca e sinal de Kernig positivo. A punção lombar revela líquor turvo com 2500 células/mm³ (90% neutrófilos), glicose de 20 mg/dL (glicemia sérica 100 mg/dL) e proteínas de 250 mg/dL. Qual a conduta terapêutica inicial mais adequada, antes mesmo do resultado da cultura?",
+    "original_alternatives": {
+      "A": "Ceftriaxona e Vancomicina.",
+      "B": "Ampicilina e Gentamicina.",
+      "C": "Aciclovir e Ceftriaxona.",
+      "D": "Dexametasona e Ceftriaxona.",
+      "E": "Ceftriaxona, Vancomicina e Dexametasona."
+    },
+    "gabarito": "E",
+    "original_comment": "O quadro clínico e liquórico é altamente sugestivo de meningite bacteriana aguda. Em lactentes de 1 a 3 meses, os principais agentes etiológicos incluem Streptococcus agalactiae (GBS), Escherichia coli e outros bacilos gram-negativos entéricos, além de Streptococcus pneumoniae e Neisseria meningitidis. A terapia empírica inicial deve cobrir esses patógenos. A combinação de Ceftriaxona (cobre S. pneumoniae, N. meningitidis e alguns gram-negativos) e Vancomicina (para S. pneumoniae resistente à penicilina/cefalosporina) é apropriada. A Dexametasona é recomendada em crianças acima de 6 semanas de idade com suspeita de meningite bacteriana, especialmente para S. pneumoniae, para reduzir complicações neurológicas como perda auditiva, devendo ser administrada antes ou concomitantemente com a primeira dose do antibiótico. Ampicilina e Gentamicina seriam mais para neonatos (<1 mês) ou para Listeria monocytogenes (que não é comum nessa faixa etária, mas deve ser considerada em imunocomprometidos).",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 26,
+        "B": 25,
+        "C": 24,
+        "D": 27,
+        "E": 40
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6667,
+    "area": "Pediatria",
+    "tema": "Tumores hipofisários e deficiência de crescimento",
+    "dificuldade": "Média",
+    "enunciado": "Um menino de 9 anos é levado ao pronto-socorro com queixas de cefaleia intensa, vômitos e turvação visual há 2 meses. A mãe relata que ele parou de crescer no último ano e tem se mostrado mais sonolento e com menos energia. Ao exame físico, apresenta baixa estatura (-2,8 DP) e campimetria revela hemianopsia bitemporal. Exames laboratoriais mostram deficiência de GH e TSH. Uma ressonância magnética de sela túrcica revela uma massa suprasselar, parcialmente cística e com focos de calcificação. Qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Adenoma hipofisário secretor de GH",
+      "B": "Germinoma suprasselar",
+      "C": "Craniofaringioma",
+      "D": "Hipofisite linfocítica",
+      "E": "Cisto de Rathke"
+    },
+    "gabarito": "C",
+    "original_comment": "O quadro clínico de baixa estatura, cefaleia, vômitos, deficiências hormonais (GH e TSH), alterações visuais (hemianopsia bitemporal) e, principalmente, as características da imagem (massa suprasselar, cística, com calcificações) são altamente sugestivos de craniofaringioma. Adenomas secretores de GH causariam gigantismo na infância. Germinomas suprasselares podem causar deficiências hipofisárias e diabetes insipidus, mas calcificações são menos típicas e a apresentação cística também. Hipofisite linfocítica é mais rara em crianças e não costuma ter calcificações. Cisto de Rathke é geralmente assintomático ou causa sintomas por compressão, mas as calcificações e o componente sólido são menos característicos.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 5,
+        "B": 2,
+        "C": 1,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 34,
+        "B": 21,
+        "C": 16,
+        "D": 22,
+        "E": 15
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6682,
+    "area": "Clínica Médica",
+    "tema": "Osteoporose e manejo terapêutico",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 70 anos, com diagnóstico de osteoporose (T-score -3,0 na coluna lombar) e histórico de fratura de fêmur proximal há 2 anos, apresenta insuficiência renal crônica (clearance de creatinina de 35 mL/min). Ela está em uso de suplementação de cálcio e vitamina D. Qual a opção terapêutica para osteoporose mais adequada para esta paciente?",
+    "original_alternatives": {
+      "A": "Alendronato semanal.",
+      "B": "Ibandronato mensal.",
+      "C": "Denosumab.",
+      "D": "Teriparatida.",
+      "E": "Ácido zoledrônico anual."
+    },
+    "gabarito": "C",
+    "original_comment": "A paciente tem osteoporose grave com fratura prévia e insuficiência renal crônica. Bisfosfonatos orais (alendronato, ibandronato) e intravenosos (ácido zoledrônico) são contraindicados ou devem ser usados com extrema cautela em pacientes com clearance de creatinina < 30-35 mL/min devido ao risco de acumulação e efeitos adversos renais. Teriparatida é um anabólico ósseo e pode ser usado em insuficiência renal leve a moderada, mas o Denosumab é geralmente a melhor opção em pacientes com insuficiência renal avançada, pois não é excretado pelos rins e é eficaz na redução de fraturas.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 1,
+        "D": 1,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 20,
+        "B": 19,
+        "C": 10,
+        "D": 13,
+        "E": 24
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6683,
+    "area": "Clínica Médica",
+    "tema": "Síndrome Metabólica e critérios diagnósticos",
+    "dificuldade": "Fácil",
+    "enunciado": "Um paciente de 55 anos apresenta circunferência abdominal de 105 cm, pressão arterial de 138/88 mmHg, HDL-C de 38 mg/dL, triglicerídeos de 160 mg/dL e glicemia de jejum de 105 mg/dL. De acordo com os critérios do NCEP ATP III modificado para Síndrome Metabólica, quantos critérios este paciente preenche?",
+    "original_alternatives": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "E": "1"
+    },
+    "gabarito": "D",
+    "original_comment": "Os critérios para Síndrome Metabólica (NCEP ATP III modificado) requerem 3 ou mais dos seguintes:\n1.  **Obesidade abdominal:** Circunferência abdominal > 102 cm (homens) ou > 88 cm (mulheres). (Paciente: 105 cm - **Sim**)\n2.  **Triglicerídeos elevados:** ≥ 150 mg/dL ou em tratamento. (Paciente: 160 mg/dL - **Sim**)\n3.  **HDL-C baixo:** < 40 mg/dL (homens) ou < 50 mg/dL (mulheres) ou em tratamento. (Paciente: 38 mg/dL - **Sim**)\n4.  **Pressão arterial elevada:** ≥ 130/85 mmHg ou em tratamento. (Paciente: 138/88 mmHg - **Sim**)\n5.  **Glicemia de jejum elevada:** ≥ 100 mg/dL ou em tratamento. (Paciente: 105 mg/dL - **Sim**)\nO paciente preenche 5 critérios.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6691,
+    "area": "Clínica Médica",
+    "tema": "Deficiência de vitamina D e suas consequências",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma mulher de 40 anos, com estilo de vida sedentário e pouca exposição solar, procura o médico com queixas de dores ósseas difusas e fraqueza muscular. Exames laboratoriais revelam cálcio sérico normal, fósforo sérico baixo, PTH elevado e 25-hidroxivitamina D de 15 ng/mL (VR: > 30 ng/mL). Qual o diagnóstico mais provável para o quadro de dores ósseas e fraqueza?",
+    "original_alternatives": {
+      "A": "Hiperparatireoidismo primário.",
+      "B": "Osteoporose pós-menopáusica.",
+      "C": "Osteomalácia.",
+      "D": "Doença de Paget.",
+      "E": "Hipoparatireoidismo."
+    },
+    "gabarito": "C",
+    "original_comment": "A paciente apresenta deficiência grave de vitamina D (25-hidroxivitamina D < 20 ng/mL), hipofosfatemia e hiperparatireoidismo secundário (PTH elevado tentando compensar a hipocalcemia e hipofosfatemia). O quadro clínico de dores ósseas e fraqueza muscular, na presença desses achados laboratoriais, é clássico de osteomalácia, que é a mineralização inadequada da matriz óssea em adultos devido à deficiência de vitamina D. Hiperparatireoidismo primário teria hipercalcemia. Osteoporose é perda de massa óssea, mas não necessariamente com osteomalácia. Doença de Paget é remodelação óssea desorganizada. Hipoparatireoidismo teria PTH baixo.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 1,
+        "D": 3,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 30,
+        "B": 28,
+        "C": 13,
+        "D": 16,
+        "E": 20
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6692,
+    "area": "Clínica Médica",
+    "tema": "Diabetes Mellitus: diagnóstico e rastreio",
+    "dificuldade": "Fácil",
+    "enunciado": "Um homem de 45 anos, com histórico familiar de diabetes tipo 2 e sobrepeso (IMC 28 kg/m²), realiza exames de rotina. Sua glicemia de jejum é de 115 mg/dL e a HbA1c é de 6,1%. Ele nega sintomas de poliúria ou polidipsia. Qual a classificação diagnóstica para este paciente?",
+    "original_alternatives": {
+      "A": "Diabetes Mellitus.",
+      "B": "Pré-diabetes.",
+      "C": "Glicemia de jejum normal.",
+      "D": "Diabetes insipidus.",
+      "E": "Hipoglicemia."
+    },
+    "gabarito": "B",
+    "original_comment": "Os valores de glicemia de jejum entre 100-125 mg/dL e HbA1c entre 5,7-6,4% são critérios para pré-diabetes. Diabetes Mellitus é diagnosticado com glicemia de jejum ≥ 126 mg/dL ou HbA1c ≥ 6,5% ou glicemia 2h após TTOG ≥ 200 mg/dL ou glicemia aleatória ≥ 200 mg/dL com sintomas. O paciente não preenche critérios para diabetes, mas está em risco aumentado.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 1,
+        "C": 4,
+        "D": 2,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 13,
+        "C": 25,
+        "D": 19,
+        "E": 13
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6694,
+    "area": "Clínica Médica",
+    "tema": "Hiponatremia: diagnóstico diferencial",
+    "dificuldade": "Difícil",
+    "enunciado": "Um homem de 70 anos é internado com confusão mental e hiponatremia (sódio sérico de 120 mEq/L). Ele apresenta euvolemia clínica, urina concentrada (osmolalidade urinária de 400 mOsm/kg) e sódio urinário elevado (60 mEq/L). Nega uso de diuréticos. Qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Insuficiência cardíaca descompensada.",
+      "B": "Insuficiência adrenal.",
+      "C": "Síndrome de secreção inapropriada de ADH (SIADH).",
+      "D": "Diabetes insipidus.",
+      "E": "Polidipsia primária."
+    },
+    "gabarito": "C",
+    "original_comment": "O paciente apresenta hiponatremia euvolêmica com urina concentrada e sódio urinário elevado, o que é o perfil clássico da Síndrome de Secreção Inapropriada de ADH (SIADH). Na SIADH, há excesso de ADH, levando à retenção de água livre, diluição do sódio e excreção de sódio na urina (devido à euvolemia e supressão do sistema renina-angiotensina-aldosterona). Insuficiência cardíaca e insuficiência adrenal podem causar hiponatremia, mas com diferentes perfis de volume e/ou sódio urinário. Diabetes insipidus e polidipsia primária cursam com urina diluída.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 2,
+        "C": 7,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 37,
+        "B": 22,
+        "C": 49,
+        "D": 19,
+        "E": 20
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6695,
+    "area": "Clínica Médica",
+    "tema": "Mieloma Múltiplo e hipercalcemia",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 65 anos apresenta hipercalcemia (cálcio sérico corrigido de 12,5 mg/dL) com PTH suprimido (< 10 pg/mL). Ele relata fadiga, dor lombar crônica e perda de peso. Exames adicionais revelam anemia normocítica normocrômica e insuficiência renal. Qual a causa mais provável da hipercalcemia?",
+    "original_alternatives": {
+      "A": "Hiperparatireoidismo primário.",
+      "B": "Intoxicação por vitamina D.",
+      "C": "Mieloma Múltiplo.",
+      "D": "Sarcoidose.",
+      "E": "Hipercalcemia hipocalciúrica familiar."
+    },
+    "gabarito": "C",
+    "original_comment": "O paciente apresenta hipercalcemia com PTH suprimido, o que sugere uma causa não-PTH-dependente. A associação de dor óssea (lombar), fadiga, perda de peso, anemia e insuficiência renal (critérios CRAB) é altamente sugestiva de Mieloma Múltiplo. O mieloma causa hipercalcemia devido à destruição óssea pelos plasmócitos malignos, liberando cálcio para a circulação. Hiperparatireoidismo primário teria PTH elevado. Intoxicação por vitamina D e sarcoidose podem causar hipercalcemia com PTH suprimido, mas os outros achados clínicos (dor lombar, anemia, insuficiência renal) são mais específicos para mieloma. Hipercalcemia hipocalciúrica familiar é um diagnóstico de exclusão e geralmente assintomática.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 4,
+        "C": 2,
+        "D": 1,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 30,
+        "B": 27,
+        "C": 17,
+        "D": 11,
+        "E": 38
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6696,
+    "area": "Clínica Médica",
+    "tema": "Hipopituitarismo",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 45 anos, com histórico de adenoma hipofisário não funcionante tratado cirurgicamente há 5 anos, procura atendimento com queixas de fadiga, intolerância ao frio, amenorreia e diminuição da libido. Exames laboratoriais revelam TSH baixo, T4 livre baixo, cortisol matinal baixo e LH/FSH baixos. Qual a condição mais provável?",
+    "original_alternatives": {
+      "A": "Hipotireoidismo primário.",
+      "B": "Insuficiência adrenal primária.",
+      "C": "Síndrome de Sheehan.",
+      "D": "Hipopituitarismo.",
+      "E": "Depressão maior."
+    },
+    "gabarito": "D",
+    "original_comment": "O quadro de deficiências hormonais múltiplas (hipotireoidismo central, insuficiência adrenal secundária, hipogonadismo hipogonadotrófico) após cirurgia hipofisária é característico de hipopituitarismo. A cirurgia pode ter lesado células hipofisárias responsáveis pela produção de TSH, ACTH e gonadotrofinas. Síndrome de Sheehan é uma causa de hipopituitarismo pós-parto, mas a paciente tem histórico de cirurgia. Hipotireoidismo primário e insuficiência adrenal primária seriam problemas nas glândulas-alvo, com TSH e ACTH elevados, respectivamente. Depressão pode causar fadiga, mas não as alterações hormonais específicas.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 3,
+        "D": 1,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 25,
+        "B": 31,
+        "C": 20,
+        "D": 17,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6697,
+    "area": "Clínica Médica",
+    "tema": "Tireotoxicose e diagnóstico diferencial",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 35 anos apresenta palpitações, nervosismo, perda de peso e intolerância ao calor. Ao exame físico, nota-se taquicardia, bócio difuso e exoftalmia. Exames laboratoriais mostram TSH suprimido (< 0,01 mUI/L) e T4 livre elevado. Qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Tireoidite subaguda.",
+      "B": "Bócio multinodular tóxico.",
+      "C": "Doença de Graves.",
+      "D": "Adenoma tóxico.",
+      "E": "Tireotoxicose factícia."
+    },
+    "gabarito": "C",
+    "original_comment": "O quadro clínico de tireotoxicose (palpitações, nervosismo, perda de peso, intolerância ao calor) associado a bócio difuso e, principalmente, exoftalmia (oftalmopatia de Graves) é patognomônico da Doença de Graves. Esta é uma doença autoimune em que anticorpos estimulam o receptor de TSH na tireoide, levando à produção excessiva de hormônios tireoidianos. As outras causas de tireotoxicose (tireoidite subaguda, bócio multinodular tóxico, adenoma tóxico, tireotoxicose factícia) não apresentam a oftalmopatia característica da Doença de Graves.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 3,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 20,
+        "B": 26,
+        "C": 17,
+        "D": 15,
+        "E": 23
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6702,
+    "area": "Clínica Médica",
+    "tema": "Amenorreia e suas causas",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 28 anos, com IMC de 17 kg/m², procura atendimento devido a amenorreia primária e ausência de desenvolvimento de caracteres sexuais secundários. Ela pratica exercícios físicos intensos e tem restrição alimentar severa. Exames laboratoriais revelam FSH e LH baixos, e estradiol muito baixo. Qual a causa mais provável da amenorreia?",
+    "original_alternatives": {
+      "A": "Síndrome de Turner.",
+      "B": "Síndrome dos Ovários Policísticos (SOP).",
+      "C": "Amenorreia hipotalâmica funcional.",
+      "D": "Insuficiência ovariana primária.",
+      "E": "Hiperprolactinemia."
+    },
+    "gabarito": "C",
+    "original_comment": "A paciente apresenta amenorreia primária e hipogonadismo hipogonadotrófico (FSH/LH baixos, estradiol baixo) em um contexto de baixo peso (IMC 17 kg/m²), exercícios físicos intensos e restrição alimentar. Este quadro é clássico de amenorreia hipotalâmica funcional, uma condição reversível causada por estresse energético que suprime o eixo hipotálamo-hipófise-gonadal. Síndrome de Turner e insuficiência ovariana primária teriam FSH e LH elevados (hipogonadismo hipergonadotrófico). SOP geralmente cursa com amenorreia e anovulação, mas com LH normal ou elevado e características de hiperandrogenismo. Hiperprolactinemia teria prolactina elevada.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 5,
+        "C": 3,
+        "D": 3,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 19,
+        "B": 40,
+        "C": 34,
+        "D": 32,
+        "E": 19
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6705,
+    "area": "Clínica Médica",
+    "tema": "Diabetes Mellitus: complicações crônicas",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma paciente de 60 anos, com diabetes mellitus tipo 2 há 15 anos, apresenta perda progressiva da acuidade visual, albuminúria persistente e neuropatia periférica (parestesias em 'luva e bota'). Qual das seguintes complicações crônicas do diabetes NÃO está presente neste quadro?",
+    "original_alternatives": {
+      "A": "Retinopatia diabética.",
+      "B": "Nefropatia diabética.",
+      "C": "Neuropatia diabética.",
+      "D": "Macroangiopatia.",
+      "E": "Microangiopatia."
+    },
+    "gabarito": "D",
+    "original_comment": "O quadro da paciente descreve complicações microvasculares do diabetes: perda da acuidade visual (sugere retinopatia diabética), albuminúria persistente (sugere nefropatia diabética) e neuropatia periférica (neuropatia diabética). Todas essas são manifestações de microangiopatia diabética. A macroangiopatia refere-se a doenças de grandes vasos, como doença arterial coronariana, doença cerebrovascular ou doença arterial periférica, que não são explicitamente mencionadas no enunciado, embora sejam comuns em pacientes diabéticos.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 22,
+        "B": 21,
+        "C": 21,
+        "D": 16,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6706,
+    "area": "Clínica Médica",
+    "tema": "Ginecomastia: diagnóstico diferencial",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 68 anos procura atendimento com queixa de aumento das mamas bilateralmente, sem dor ou descarga papilar. Ele está em uso de espironolactona para tratamento de insuficiência cardíaca. Exames laboratoriais revelam testosterona total normal, LH normal e estradiol levemente elevado. Qual a causa mais provável da ginecomastia?",
+    "original_alternatives": {
+      "A": "Hipogonadismo primário.",
+      "B": "Tumor testicular.",
+      "C": "Hipertireoidismo.",
+      "D": "Uso de espironolactona.",
+      "E": "Adenoma hipofisário produtor de prolactina."
+    },
+    "gabarito": "D",
+    "original_comment": "A ginecomastia é um aumento benigno do tecido mamário masculino. A espironolactona é um diurético poupador de potássio que é um conhecido causador de ginecomastia, agindo como um antiandrógeno e tendo um efeito estrogênico direto. Dada a idade do paciente e o uso da medicação, esta é a causa mais provável. Hipogonadismo primário e tumores testiculares alterariam os níveis de testosterona e/ou LH de forma mais significativa. Hipertireoidismo e adenoma hipofisário produtor de prolactina teriam outros achados clínicos e laboratoriais característicos.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 1,
+        "D": 3,
+        "E": 5
+      },
+      "char_lengths": {
+        "A": 23,
+        "B": 17,
+        "C": 17,
+        "D": 23,
+        "E": 43
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6709,
+    "area": "Clínica Médica",
+    "tema": "Hipertensão renovascular",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 58 anos apresenta hipertensão arterial de início súbito e difícil controle, associada a um sopro abdominal à ausculta. Ele também tem histórico de aterosclerose generalizada. Exames laboratoriais revelam hipocalemia, renina plasmática elevada e aldosterona plasmática elevada. Qual a etiologia mais provável da hipertensão?",
+    "original_alternatives": {
+      "A": "Hiperaldosteronismo primário.",
+      "B": "Feocromocitoma.",
+      "C": "Hipertensão essencial.",
+      "D": "Hipertensão renovascular.",
+      "E": "Síndrome de Cushing."
+    },
+    "gabarito": "D",
+    "original_comment": "O quadro de hipertensão de início súbito e de difícil controle, sopro abdominal, histórico de aterosclerose e, principalmente, o perfil hormonal com renina e aldosterona elevadas (hiperaldosteronismo secundário) é altamente sugestivo de hipertensão renovascular. A estenose da artéria renal (frequentemente por aterosclerose em idosos) causa isquemia renal, ativando o sistema renina-angiotensina-aldosterona. No hiperaldosteronismo primário, a renina estaria suprimida. Feocromocitoma e Cushing teriam outras manifestações. Hipertensão essencial é um diagnóstico de exclusão.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 1,
+        "C": 2,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 29,
+        "B": 15,
+        "C": 22,
+        "D": 25,
+        "E": 20
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6716,
+    "area": "Clínica Médica",
+    "tema": "Distúrbios da Tireoide",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma paciente de 35 anos, queixa-se de fadiga, ganho de peso e constipação. Seus exames laboratoriais revelam TSH de 8,2 mUI/mL (VR: 0,45 a 4,5 mUI/mL) e T4 Livre de 1,1 ng/dL (VR: 0,9 a 1,8 ng/dL). Com base nesses resultados e nos valores de referência fornecidos, qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Hipotireoidismo primário subclínico.",
+      "B": "Hipotireoidismo primário manifesto.",
+      "C": "Hipertireoidismo subclínico.",
+      "D": "Hipotireoidismo central.",
+      "E": "Tireoidite subaguda."
+    },
+    "gabarito": "A",
+    "original_comment": "O hipotireoidismo primário subclínico é caracterizado por níveis elevados de TSH (acima do limite superior da normalidade) e níveis de T4 Livre dentro da faixa de referência. Os sintomas apresentados pela paciente (fadiga, ganho de peso, constipação) são inespecíficos, mas consistentes com um quadro de hipotireoidismo. No hipotireoidismo manifesto, o T4 Livre estaria abaixo do normal. Hipertireoidismo teria TSH baixo e T4 Livre alto. Hipotireoidismo central teria TSH baixo ou normal com T4 Livre baixo. Tireoidite subaguda pode ter fases de hiper e hipotireoidismo, mas a apresentação e os labs são mais claros para hipotireoidismo subclínico.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 36,
+        "B": 35,
+        "C": 28,
+        "D": 24,
+        "E": 20
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6725,
+    "area": "Clínica Médica | Nefrologia",
+    "tema": "Hipercalemia grave: manejo de emergência",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 58 anos, com doença renal crônica estágio 4 e diabetes mellitus tipo 2, é admitido no pronto-socorro com fraqueza generalizada e dispneia. Ao exame físico, apresenta-se letárgico, com PA de 140x90 mmHg, FC de 50 bpm e FR de 18 irpm. O eletrocardiograma (ECG) revela ondas T apiculadas e alargamento do complexo QRS. Exames laboratoriais mostram K+ de 7,2 mEq/L, Cr de 4,5 mg/dL e ureia de 150 mg/dL. Qual é a conduta imediata mais importante para estabilizar a membrana cardíaca do paciente?",
+    "original_alternatives": {
+      "A": "Insulina e glicose.",
+      "B": "Bicarbonato de sódio.",
+      "C": "Furosemida.",
+      "D": "Gluconato de cálcio.",
+      "E": "Poliestireno sulfonato de sódio."
+    },
+    "gabarito": "D",
+    "original_comment": "O paciente apresenta hipercalemia grave (K+ > 6,5 mEq/L) com alterações eletrocardiográficas (ondas T apiculadas, alargamento do QRS), indicando instabilidade da membrana cardíaca. Nesses casos, a prioridade é a estabilização da membrana miocárdica para prevenir arritmias fatais. O gluconato de cálcio atua rapidamente (em minutos) protegendo o coração dos efeitos da hipercalemia, sem reduzir os níveis séricos de potássio. As outras opções (insulina e glicose, bicarbonato de sódio, furosemida, poliestireno sulfonato de sódio) são importantes para deslocar o potássio para o intracelular ou removê-lo do corpo, mas agem mais lentamente e não são a primeira medida para estabilizar a membrana cardíaca em uma emergência com ECG alterado.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 1,
+        "D": 3,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 19,
+        "B": 21,
+        "C": 11,
+        "D": 20,
+        "E": 32
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6824,
+    "area": "Cirurgia",
+    "tema": "Diagnóstico diferencial de lesões anais",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 45 anos, com histórico de múltiplos parceiros sexuais e prática de sexo anal receptivo, procura atendimento com queixa de lesões verrucosas perianais indolores que vêm crescendo progressivamente há 6 meses. Ele nega dor, sangramento ou alteração do hábito intestinal. Ao exame físico, observa-se múltiplas lesões exofíticas, papilomatosas, de coloração rósea, coalescentes, que se estendem da margem anal para a pele perianal, sem sinais de ulceração ou endurecimento. Qual o diagnóstico mais provável para este paciente?",
+    "original_alternatives": {
+      "A": "Hemorroida externa trombosada.",
+      "B": "Carcinoma espinocelular.",
+      "C": "Condiloma acuminado.",
+      "D": "Doença de Crohn perianal.",
+      "E": "Fissura anal crônica."
+    },
+    "gabarito": "C",
+    "original_comment": "A descrição de lesões verrucosas, exofíticas, papilomatosas e coalescentes na região perianal, especialmente em um paciente com histórico de sexo anal, é altamente sugestiva de condiloma acuminado, causado pelo Papilomavírus Humano (HPV). A ausência de dor, sangramento ou ulceração diminui a probabilidade de hemorroida trombosada, fissura ou carcinoma espinocelular. Doença de Crohn perianal geralmente apresenta fístulas, abscessos ou úlceras. Armadilhas: O histórico sexual pode levar a pensar em ISTs, mas a descrição da lesão é chave. Carcinoma espinocelular pode ser verrucoso, mas a ausência de ulceração/endurecimento e o crescimento lento e indolor favorecem o condiloma.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 2,
+        "C": 2,
+        "D": 4,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 30,
+        "B": 24,
+        "C": 20,
+        "D": 25,
+        "E": 21
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6831,
+    "area": "Cirurgia",
+    "tema": "Profilaxia antibiótica em cirurgia colorretal",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma paciente de 60 anos será submetida a uma colectomia esquerda para tratamento de diverticulite complicada. Qual o antibiótico profilático de escolha, considerando a flora bacteriana esperada e as diretrizes atuais?",
+    "original_alternatives": {
+      "A": "Cefazolina.",
+      "B": "Azitromicina.",
+      "C": "Cefoxitina.",
+      "D": "Vancomicina.",
+      "E": "Gentamicina."
+    },
+    "gabarito": "C",
+    "original_comment": "Para cirurgias colorretais, que envolvem contaminação com flora intestinal mista (aeróbios e anaeróbios), a profilaxia antibiótica deve cobrir ambos os tipos de bactérias. A Cefoxitina é uma cefalosporina de segunda geração com bom espectro contra bactérias gram-negativas entéricas e anaeróbios, sendo uma escolha comum e eficaz para cirurgias colorretais. Cefazolina (A) é uma cefalosporina de primeira geração, boa para pele, mas com cobertura anaeróbia limitada. Azitromicina (B) e Gentamicina (E) não são as escolhas primárias para essa cirurgia. Vancomicina (D) é para Gram-positivos e MRSA, não sendo a primeira opção para flora intestinal mista. Armadilhas: A confusão entre as diferentes cefalosporinas e seus espectros é comum. É importante saber qual cobre anaeróbios.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 11,
+        "B": 13,
+        "C": 11,
+        "D": 12,
+        "E": 12
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6838,
+    "area": "Pediatria | Clínica Médica",
+    "tema": "Desidratação grave e alterações laboratoriais",
+    "dificuldade": "Média",
+    "enunciado": "Lactente de 9 meses é admitido com diarreia e vômitos há 4 dias, apresentando letargia, olhos encovados, prega cutânea >2 segundos e pulsos finos. A gasometria arterial revela pH 7,20, pCO2 25 mmHg, HCO3- 10 mmol/L. Qual alteração eletrolítica é mais provável de ser encontrada neste paciente com base nos dados apresentados?",
+    "original_alternatives": {
+      "A": "Hipernatremia.",
+      "B": "Hipocalemia.",
+      "C": "Hipercalcemia.",
+      "D": "Hipomagnesemia.",
+      "E": "Hiperfosfatemia."
+    },
+    "gabarito": "B",
+    "original_comment": "O quadro de diarreia e vômitos prolongados em lactentes frequentemente leva à perda de eletrólitos, sendo a hipocalemia (baixo potássio) uma das mais comuns devido à perda gastrointestinal. A gasometria indica acidose metabólica (pH baixo, HCO3- baixo) com compensação respiratória (pCO2 baixo), que é comum na desidratação grave. Embora a desidratação possa cursar com hiponatremia ou hipernatremia dependendo do tipo de desidratação e da reposição hídrica, a hipocalemia é uma complicação muito frequente e esperada neste cenário de perdas gastrointestinais. As outras opções são menos prováveis ou não são as alterações eletrolíticas mais esperadas como primeira causa. A armadilha seria focar em outras alterações eletrolíticas menos prevalentes ou secundárias à desidratação grave.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 14,
+        "B": 12,
+        "C": 14,
+        "D": 15,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6845,
+    "area": "Clínica Médica",
+    "tema": "Doença Celíaca",
+    "dificuldade": "Média",
+    "enunciado": "Homem, 48 anos de idade, apresenta-se com história de diarreia crônica (3-4 evacuações amolecidas/dia) há 1 ano, acompanhada de perda ponderal de 7 kg, distensão abdominal e flatulência. Relata também fraqueza e palidez. Exames laboratoriais revelam hemoglobina de 9,8 g/dL, VCM de 72 fL, ferritina de 8 ng/mL, e albumina sérica de 3,0 g/dL. A colonoscopia é normal. Qual é a condição mais provável que explica este quadro clínico?",
+    "original_alternatives": {
+      "A": "Doença de Crohn.",
+      "B": "Síndrome do Intestino Irritável.",
+      "C": "Doença Celíaca.",
+      "D": "Colite ulcerativa.",
+      "E": "Insuficiência pancreática exócrina."
+    },
+    "gabarito": "C",
+    "original_comment": "O paciente apresenta um quadro de má absorção intestinal, evidenciado por diarreia crônica, perda ponderal, distensão abdominal, anemia ferropriva microcítica e hipoalbuminemia. A Doença Celíaca é uma enteropatia autoimune desencadeada pela ingestão de glúten, que causa inflamação e atrofia das vilosidades do intestino delgado, levando à má absorção. A anemia ferropriva refratária é uma manifestação comum. A Doença de Crohn (A) e Colite Ulcerativa (D) são doenças inflamatórias intestinais que geralmente cursam com inflamação detectável em colonoscopia e podem ter outras manifestações. A Síndrome do Intestino Irritável (B) é um distúrbio funcional sem achados laboratoriais ou endoscópicos que justifiquem o quadro de má absorção. A Insuficiência pancreática exócrina (E) também causa má absorção, mas a anemia ferropriva microcítica e a resposta à dieta sem glúten (se fosse o caso) direcionam mais para doença celíaca. O próximo passo seria a pesquisa de anticorpos específicos (anti-transglutaminase IgA, anti-endomísio IgA) e biópsia de duodeno.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 4,
+        "C": 2,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 16,
+        "B": 32,
+        "C": 15,
+        "D": 18,
+        "E": 35
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  }
+]

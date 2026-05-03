@@ -19,12 +19,29 @@ class AuthController extends Controller
             'password' => 'required|string|min:8',
         ]);
 
+        $email = Str::lower($data['email']);
+
         $user = User::create([
             'name' => $data['name'],
-            'email' => Str::lower($data['email']),
+            'email' => $email,
             'password' => $data['password'],
             'is_active' => true,
             'is_admin' => false,
+            'monthly_question_limit' => 1000,
+            'current_plans_by_category' => [
+                'revalida' => [
+                    'code' => 'free',
+                    'activated_at' => now()->toIso8601String(),
+                ],
+                'estudo_geral' => [
+                    'code' => 'free_geral',
+                    'activated_at' => now()->toIso8601String(),
+                ],
+            ],
+            'current_plan_code' => 'free',
+            'current_plan_name' => 'Grátis',
+            'current_plan_price_cents' => 0,
+            'plan_activated_at' => now(),
         ]);
 
         return response()->json($this->tokenPayload($user), 201);
@@ -217,6 +234,21 @@ class AuthController extends Controller
                 'is_active' => true,
                 'is_admin' => false,
                 'email_verified_at' => $emailVerified ? now() : null,
+                'monthly_question_limit' => 1000,
+                'current_plans_by_category' => [
+                    'revalida' => [
+                        'code' => 'free',
+                        'activated_at' => now()->toIso8601String(),
+                    ],
+                    'estudo_geral' => [
+                        'code' => 'free_geral',
+                        'activated_at' => now()->toIso8601String(),
+                    ],
+                ],
+                'current_plan_code' => 'free',
+                'current_plan_name' => 'Grátis',
+                'current_plan_price_cents' => 0,
+                'plan_activated_at' => now(),
             ]);
         } else {
             $user->fill([
@@ -259,6 +291,12 @@ class AuthController extends Controller
             'is_active' => (bool) $user->is_active,
             'question_text_size' => (int) ($user->question_text_size ?? 22),
             'monthly_question_limit' => (int) ($user->monthly_question_limit ?? 5000),
+            'current_plans_by_category' => $user->current_plans_by_category,
+            'current_plan_code' => $user->current_plan_code,
+            'current_plan_name' => $user->current_plan_name,
+            'current_plan_price_cents' => (int) ($user->current_plan_price_cents ?? 0),
+            'plan_activated_at' => optional($user->plan_activated_at)->toIso8601String(),
+            'ai_enabled' => (bool) config('features.ai_enabled', true),
         ];
     }
 

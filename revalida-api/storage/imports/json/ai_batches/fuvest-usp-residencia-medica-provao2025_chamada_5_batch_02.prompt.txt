@@ -1,0 +1,275 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/provao2025_chamada_5.pdf"
+  }
+]
+
+TEXTO-BASE:
+13
+Mariana Alfonsetti Moderoso
+59061/4 Biblioteconomia e Ciência da Informação (Bacharelado) - Noturno
+Campus de Ribeirão Preto
+900.274
+81/113
+Mariana Valentim Gomes
+81102/2 Ciências Econômicas (Bacharelado) - Matutino
+Campus de Ribeirão Preto
+454.080
+82/113
+Marina Rodrigues Brito
+17400/0 Nutrição e Metabolismo (Bacharelado) - Integral
+Campus de Ribeirão Preto
+499.883
+83/113
+Mateus dos Santos Borges
+55090/0 Ciência de Dados (Bacharelado) - Integral
+Campus de São Carlos
+496.499
+84/113
+Matheus Ciani Grillo
+27021/0 Audiovisual (Bacharelado) - Integral
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+900.825
+85/113
+Matheus Henrique Rodrigues Lima
+8031/103 História (Bacharelado/Licenciatura) - Vespertino
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+507.542
+86/113
+Maycon William Pessota dos Santos
+3033/0 Engenharia Elétrica (Bacharelado) - Integral
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+595.755
+87/113
+Melissa Costa de Almeida Martins
+8021/103 Geografia (Bacharelado/Licenciatura) - Vespertino
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+415.841
+88/113
+Miguel de Freitas Barbosa
+76014/100 Física (Bacharelado) - Integral
+Campus de São Carlos
+
+
+--- PAGE 6 ---
+
+Provão Paulista Seriado 2025
+Lista de Espera: Chamados para a segunda matrícula
+Processamento realizado em 15/03/2025 21:18:21
+6
+463.963
+89/113
+Milena Claudia de Sobral
+86100/104 Gestão Ambiental (Bacharelado) - Noturno
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+402.164
+90/113
+Monise Ferreira Bruno
+8051/104 Letras (Bacharelado/Licenciatura) - Noturno
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+541.285
+91/113
+Nelvi Anai Lopez Condori
+2014/102 Direito (Bacharelado) - Matutino
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+463.152
+92/113
+Nicole Fernanda Marques Silva
+22100/4 Enfermagem (Bacharelado e Licenciatura) - Noturno
+Campus de Ribeirão Preto
+451.453
+93/113
+Nicolle Limongi de Oliveira
+59012/100 Ciências Biológicas (Bacharelado/Licenciatura) - Integral
+Campus de Ribeirão Preto
+558.093
+94/113
+Nicoly Souza Melo
+11010/0 Engenharia Agronômica (Bacharelado) - Integral
+Campus de Piracicaba
+547.227
+95/113
+Paulo Hernani Monteiro Siqueira
+88251/0 Engenharia Ambiental (Bacharelado) - Integral
+Campus de Lorena
+542.759
+96/113
+Paulo Vinicius dos Santos Barros
+86400/104 Ciências da Natureza (Licenciatura) - Noturno
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+420.252
+97/113
+Pedro Henrique Araujo dos Santos
+14011/0 Meteorologia (Bacharelado) - Integral
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+450.188
+98/113
+Pedro Henrique Barati Fernandes
+43031/4 Física (Licenciatura) - Noturno
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+486.329
+99/113
+Pedro Henrique Desquivel de Souza
+81004/2 Administração (Bacharelado) - Matutino
+Campus de Ribeirão Preto
+549.718
+100/113
+Pedro Medeiros Siqueira
+86450/104 Marketing (Bacharelado) - Noturno
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+403.385
+101/113
+Pyetra da Silva Ferreira
+86050/100 Educação Física e Saúde (Bacharelado) - Integral
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+555.618
+102/113
+Rafaela Franca Benatti
+17201/0 Terapia Ocupacional (Bacharelado) - Integral
+Campus de Ribeirão Preto
+570.735
+103/113
+Rafaela Perdigao da Silva
+46300/104 Química (Bacharelado/Licenciatura) - Noturno
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+542.329
+104/113
+Rayssa Teodoro Machado
+86501/100 Obstetrícia (Bacharelado) - Integral
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+541.803
+105/113
+Roberta Maria Martins Lansana
+74012/0 Zootecnia (Bacharelado) - Integral
+Campus de Pirassununga
+
+
+--- PAGE 7 ---
+
+Provão Paulista Seriado 2025
+Lista de Espera: Chamados para a segunda matrícula
+Processamento realizado em 15/03/2025 21:18:21
+7
+489.717
+106/113
+Roberto Akira Mysuguti
+39041/100 Educação Física (Bacharelado/Licenciatura) - Integral
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+462.789
+107/113
+Ryan Gustavo Amendola Abe de Camargo
+8010/103 Filosofia (Bacharelado/Licenciatura) - Vespertino
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+546.872
+108/113
+Sabrina Mayumi Nakasone de Oliveira
+8051/104 Letras (Bacharelado/Licenciatura) - Noturno
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+425.085
+109/113
+Samara Angel Cavalcante
+8040/104 Ciências Sociais (Bacharelado/Licenciatura) - Noturno
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+591.885
+110/113
+Suellen de Jesus Rodrigues
+8051/104 Letras (Bacharelado/Licenciatura) - Noturno
+Campus de São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+499.545
+111/113
+Victor Hugo Araujo Fernandes
+22013/0 Enfermagem (Bacharelado) - Integral
+Campus de Ribeirão Preto
+492.035
+112/113
+Vitor Hugo Fortunato
+88052/4 Engenharia Química (Bacharelado) - Noturno
+Campus de Lorena
+591.886
+113/113
+Yasmin Moraes de Oliveira
+74100/0 Engenharia de Alimentos (Bacharelado) - Integral
+Campus de Pirassununga
+

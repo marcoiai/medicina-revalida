@@ -1,0 +1,468 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/provao2026_chamada_2.pdf"
+  }
+]
+
+TEXTO-BASE:
+A LAVAYEN VARELLA
+***963.718**
+UNESP - 083 - Engenharia Industrial Madeireira - integral - Instituto de Ciências e Engenharia - Itapeva
+A
+ANA CAROLINA MIRANDA PERES
+***130.638**
+FATEC - 2880481 - Análise e Desenvolvimento de Sistemas - Manhã - Fatec Araraquara – “Prof. José Arana Varela”
+A
+ANA CAROLINA NASCIMENTO JACYNTHO*
+***487.568**
+UNESP - 169 - Química - Licenciatura - noturno - Instituto de Química - Araraquara
+A
+ANA CAROLINA OLIVEIRA DA SILVA
+***048.928**
+FATEC - 1460743 - Logística - Noite - Fatec São José dos Campos - "Prof. Jessen Vidal"
+A
+ANA CAROLINA PIMENTEL RAMOS KELLY
+***716.828**
+FATEC - 1060482 - Análise e Desenvolvimento de Sistemas - 1º ao 3º semestre Tarde/ 4º ao 6º semestre Noite - 
+Fatec Guaratinguetá - "Prof. João Mod"
+A
+ANA CAROLINA RAFAELA DE FREITAS TOKUNAGA
+***356.568**
+FATEC - 2580603 - Meio Ambiente e Recursos Hídricos - Noite - Fatec Jacareí - "Prof. Francisco de Moura"
+A
+ANA CAROLINA SANTOS OLIVEIRA
+***736.158**
+FATEC - 1290647 - Gestão Empresarial - EaD - Fatec Praia Grande
+A
+ANA CAROLINA SILVA DOS SANTOS*
+***732.458**
+USP - 75014/100 - Química (Bacharelado) - Integral - Instituto de Física de São Carlos
+A
+ANA CAROLINE DELISPOSTI DA SILVA
+***060.288**
+FATEC - 0220647 - Gestão Empresarial - EaD - Fatec Taquaritinga - "Marlene Maria Miletta Servidoni"
+A
+ANA CAROLINE TEIXEIRA PAIXAO
+***929.288**
+FATEC - 2040647 - Gestão Empresarial - EaD - Fatec Ipiranga - "Pastor Enéas Tognini" - Município de São Paulo
+A
+ANA CAROLLINA LEITE MOREIRA
+***456.308**
+FATEC - 2090893 - Gestão de Recursos Humanos - Noite - Fatec Barueri – “Padre Danilo José de Oliveira Ohl”
+B
+ANA CAROLYNE MELO DE LIMA
+***715.818**
+FATEC - 2170773 - Gestão da Produção Industrial - Noite - Fatec Diadema – “Luigi Papaiz”
+A
+ANA CECILIA DE OLIVEIRA SOUZA
+***323.798**
+FATEC - 1460773 - Gestão da Produção Industrial - Noite - Fatec São José dos Campos - "Prof. Jessen Vidal"
+A
+ANA CLARA ALENCAR LIMA
+***496.188**
+USP - 48015/104 - Pedagogia (Licenciatura) - Noturno - São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+A
+ANA CLARA ALVES SILVA
+***113.218**
+FATEC - 1430647 - Gestão Empresarial - EaD - Fatec Carapicuíba
+B
+ANA CLARA AMABILY MASSMANN DE FREITAS
+***840.498**
+FATEC - 1310773 - Gestão da Produção Industrial - Noite - Fatec Itapetininga - "Prof. Antonio Belizandro Barbosa 
+Rezende"
+A
+ANA CLARA ANDRE DA SILVA ROSA
+***837.918**
+FATEC - 1060643 - Gestão Empresarial - Noite - Fatec Guaratinguetá - "Prof. João Mod"
+C
+ANA CLARA BOSCHINI FONSECA
+***603.948**
+UNESP - 124 - Matemática - Bacharelado e Licenciatura - integral - Instituto de Biociências, Letras e Ciências Exatas 
+- São José do Rio Preto
+A
+ANA CLARA CARDOSO CUNHA
+***896.028**
+FATEC - 2040647 - Gestão Empresarial - EaD - Fatec Ipiranga - "Pastor Enéas Tognini" - Município de São Paulo
+A
+ANA CLARA CARVALHO REIS
+***244.528**
+UNESP - 070 - Engenharia de Biossistemas - integral - Faculdade de Ciências e Engenharia - Tupã
+A
+ANA CLARA DE FARIA SIQUEIRA
+***648.168**
+FATEC - 1271643 - Gestão de Eventos - Noite - Fatec Cruzeiro – “Prof. Waldomiro May”
+A
+ANA CLARA DE JESUS SILVEIRA
+***559.718**
+FATEC - 1890647 - Gestão Empresarial - EaD - Fatec São Sebastião
+A
+ANA CLARA DE LIMA MARTINS
+***673.388**
+FATEC - 1920743 - Logística - Noite - Fatec Lins - "Prof. Antonio Seabra"
+A
+ANA CLARA DE SOUZA COSTA
+***710.858**
+FATEC - 1120653 - Radiologia - Noite (Práticas laboratoriais a partir do 4º semestre diurno) - Fatec Botucatu
+A
+ANA CLARA DOS SANTOS MORAES
+***975.988**
+FATEC - 0050743 - Logística - Noite - Fatec Baixada Santista – “Rubens Lara” – Santos
+A
+ANA CLARA FERREIRA
+***701.738**
+FATEC - 1300753 - Gestão Comercial - Noite - Fatec Marília - "Estudante Rafael Almeida Camarinha"
+A
+ANA CLARA GOMES DE ASSUNCAO*
+***196.828**
+UNESP - 163 - Psicologia - vespertino_noturno - Faculdade de Ciências e Letras - Assis
+C
+6
+* convocado para vaga PPI
+
+
+--- PAGE 7 ---
+
+Lista de convocação para matrícula - 2ª Chamada
+nome do candidato
+identificação
+curso
+Provão Paulista Seriado 2025 - 3ª Série Ensino Médio
+grupo
+ANA CLARA GOMES SOUSA COSTA
+***950.098**
+FATEC - 2721163 - Gestão de Negócios e Inovação - Noite - Fatec Sebrae - Município de São Paulo
+A
+ANA CLARA JESUS LEITE*
+***334.728**
+UNESP - 107 - Geografia - Bacharelado e Licenciatura - noturno - Faculdade de Ciências, Tecnologia e Educação - 
+Ourinhos
+C
+ANA CLARA LIMA DOS SANTOS
+***041.688**
+FATEC - 2090893 - Gestão de Recursos Humanos - Noite - Fatec Barueri – “Padre Danilo José de Oliveira Ohl”
+A
+ANA CLARA MACHADO PEREIRA
+***576.088**
+UNICAMP - 38 - Pedagogia - Licenciatura - Noturno - CAMPINAS
+A
+ANA CLARA MAIOLI PANGONE
+***364.268**
+FATEC - 1570483 - Análise e Desenvolvimento de Sistemas - Noite - Fatec Presidente Prudente
+A
+ANA CLARA MELO DE SOUZA
+***857.668**
+FATEC - 1290933 - Processos Químicos - Noite - Fatec Praia Grande
+A
+ANA CLARA MENDES OLIVEIRA
+***401.828**
+FATEC - 1141353 - Ciência de Dados - Noite - Fatec Jundiaí - "Deputado Ary Fossen"
+B
+ANA CLARA MENDES PEREIRA
+***847.418**
+FATEC - 0040743 - Logística - Noite - Fatec Americana - "Ministro Ralph Biasi"
+A
+ANA CLARA MIRANDA RODRIGUES*
+***086.378**
+UNESP - 115 - Jornalismo - noturno - Faculdade de Arquitetura, Artes, Comunicação e Design - Bauru
+A
+ANA CLARA MORAES GOMES
+***834.368**
+FATEC - 2700621 - Comércio Exterior - Manhã - Fatec Cotia
+A
+ANA CLARA PINHEIRO NUCCI
+***137.728**
+FATEC - 1710703 - Agronegócio - Noite - Fatec Jales - "Prof. José Camargo"
+A
+ANA CLARA POLIDO DIONISIO
+***059.718**
+FATEC - 1571321 - Produção Agropecuária - Manhã - Fatec Presidente Prudente
+A
+ANA CLARA ROCHA SOUZA
+***349.718**
+FATEC - 2091641 - Gestão de Eventos - Manhã - Fatec Barueri – “Padre Danilo José de Oliveira Ohl”
+A
+ANA CLARA ROSA MATOS SILVA
+***030.848**
+FATEC - 2981403 - Gestão Hospitalar - Noite - Fatec Barretos – "Profa. Édi Salvi Lima"
+A
+ANA CLARA SANTANA ALVES
+***079.628**
+UNESP - 021 - Ciências Biológicas - Bacharelado e Licenciatura - integral - Instituto de Biociências de Rio Claro - Rio 
+Claro
+B
+ANA CLARA SANTANA SILVA
+***788.638**
+FATEC - 1110891 - Gestão de Recursos Humanos - Manhã - Fatec Zona Leste - Município de São Paulo
+A
+ANA CLARA SILVA CORREIA
+***818.518**
+FATEC - 1670743 - Logística - Noite - Fatec Guarulhos
+A
+ANA CLARA SOARES
+***062.588**
+FATEC - 0210483 - Análise e Desenvolvimento de Sistemas - Noite - Fatec Ourinhos
+A
+ANA CLARA SODRE ALENCAR
+***662.058**
+FATEC - 2571173 - Refrigeração, Ventilação e Ar Condicionado - Noite - Fatec Itaquera - "Prof. Miguel Reale" - 
+Município de São Paulo
+A
+ANA CLARA TENORIO SANTANA
+***280.688**
+FATEC - 2091303 - Design de Mídias Digitais - Noite - Fatec Barueri – “Padre Danilo José de Oliveira Ohl”
+B
+ANA CLARA VITTE DA SILVA
+***184.698**
+FATEC - 2961163 - Gestão de Negócios e Inovação - Noite - Fatec Sumaré
+A
+ANA CLAUDIA CARACA SOARES
+***771.318**
+FATEC - 1730647 - Gestão Empresarial - EaD - Fatec Jaboticabal - "Nilo de Stéfani"
+A
+ANA CLAUDIA LUIZA GONCALVES DA SILVA
+***269.338**
+FATEC - 2040751 - Gestão Comercial - Manhã - Fatec Ipiranga - "Pastor Enéas Tognini" - Município de São Paulo
+A
+ANA ELISA DA SILVA GANDRA
+***521.068**
+UNESP - 147 - Odontologia - integral - Faculdade de Odontologia - Araraquara
+C
+ANA ESTHER ABRAHAO PEREIRA DA SILVA
+***465.188**
+UNESP - 056 - Engenharia Agronômica - integral - Faculdade de Ciências Agrárias do Vale do Ribeira - Registro
+B
+ANA GABRIELA PIMENTEL GOMES
+***873.488**
+FATEC - 1190643 - Gestão Empresarial - Noite - Fatec Garça - "Deputado Júlio Julinho Marcondes de Moura"
+A
+ANA ISABEL SANTOS DE OLIVEIRA
+***752.558**
+FATEC - 2700641 - Gestão Empresarial - Manhã - Fatec Cotia
+C
+ANA JULIA BORGES DA SILVA
+***833.348**
+FATEC - 1090893 - Gestão de Recursos Humanos - Noite - Fatec Franca – “Dr. Thomaz Novelino”
+A
+ANA JULIA CARVALHO DUARTE
+***599.548**
+FATEC - 1550753 - Gestão Comercial - Noite - Fatec Itaquaquecetuba
+A
+ANA JULIA CASTRO DE PINA
+***346.728**
+FATEC - 0220771 - Gestão da Produção Industrial - Manhã - Fatec Taquaritinga - "Marlene Maria Miletta Servidoni"
+A
+ANA JULIA COSTA VIEIRA
+***137.478**
+FATEC - 0030742 - Logística - Tarde - Fatec Sorocaba - "José Crespo Gonzales"
+A
+ANA JULIA DE QUEIROZ PINTO
+***159.218**
+FATEC - 1320643 - Gestão Empresarial - Noite - Fatec Tatuí - "Prof. Wilson Roberto Ribeiro de Camargo"
+C
+ANA JULIA DE SOUZA CAPARROS
+***980.528**
+FATEC - 1780643 - Gestão Empresarial - Noite - Fatec Itu - "Dom Amaury Castanho"
+A
+ANA JULIA DE SOUZA LIMA
+***194.998**
+FATEC - 1200703 - Agronegócio - Noite - Fatec Mococa - "Mário Roberson de Sylos Filho"
+A
+7
+* convocado para vaga PPI
+
+
+--- PAGE 8 ---
+
+Lista de convocação para matrícula - 2ª Chamada
+nome do candidato
+identificação
+curso
+Provão Paulista Seriado 2025 - 3ª Série Ensino Médio
+grupo
+ANA JULIA DO VALLE OLIVEIRA
+***684.209**
+FATEC - 1741613 - Sistemas Inteligentes - Noite - Fatec Capão Bonito
+A
+ANA JULIA FERREIRA DOURADO
+***930.088**
+UNESP - 122 - Letras - Tradução - Bacharelado - integral - Instituto de Biociências, Letras e Ciências Exatas - São 
+José do Rio Preto
+A
+ANA JULIA FERRO ANANIAS
+***229.878**
+FATEC - 1830641 - Gestão Empresarial - Manhã - Fatec Bragança Paulista – “Jornalista Omair Fagundes de Oliveira”
+A
+ANA JULIA MACHADO DA GAMA
+***881.688**
+FATEC - 1430663 - Secretariado - Noite - Fatec Carapicuíba
+A
+ANA JULIA MARCIANO DE ALMEIDA
+***692.488**
+FATEC - 1330647 - Gestão Empresarial - EaD - Fatec Pindamonhangaba - "José Renato Guaycuru San Martim"
+A
+ANA JULIA MARTINS MENDES DA SILVA*
+***372.608**
+UNICAMP - 48 - Arquitetura e Urbanismo - Noturno - CAMPINAS
+A
+ANA JULIA MORENO*
+***179.138**
+USP - 25013/0 - Odontologia (Bacharelado) - Integral - Faculdade de Odontologia de Bauru
+A
+ANA JULIA MOTTA FERREIRA
+***621.048**
+UNESP - 124 - Matemática - Bacharelado e Licenciatura - integral - Instituto de Biociências, Letras e Ciências Exatas 
+- São José do Rio Preto
+A
+ANA JULIA NASCIMENTO CACHETTI
+***692.748**
+FATEC - 2990643 - Gestão Empresarial - Noite - Fatec Registro
+A
+ANA JULIA NOBRE
+***775.248**
+FATEC - 0200773 - Gestão da Produção Industrial - Noite - Fatec Jahu - "Octavio Celso Pacheco de Almeida Prado"
+A
+ANA JULIA OLIVEIRA DE CARVALHO
+***574.208**
+FATEC - 1210701 - Agronegócio - Manhã - Fatec São José do Rio Preto - "Profa. Olga Malluk da Silva"
+A
+ANA JULIA PEDERRO
+***664.388**
+FATEC - 2690643 - Gestão Empresarial - Noite - Fatec São Carlos
+A
+ANA JULIA PEREIRA CALAZANS*
+***761.628**
+UNESP - 126 - Matemática - Licenciatura - matutino - Faculdade de Ciências e Tecnologia - Presidente Prudente
+A
+ANA JULIA RAMOS CARDOSO
+***125.028**
+FATEC - 0220831 - Sistemas para Internet - Manhã - Fatec Taquaritinga - "Marlene Maria Miletta Servidoni"
+A
+ANA JULIA ROCHA RIBEIRO
+***294.886**
+FATEC - 2961461 - Gestão de Logística Integrada - Manhã - Fatec Sumaré
+B
+ANA JULLIA CRISTINA DE LIMA
+***349.108**
+FATEC - 1260923 - Informática para Negócios - Noite - Fatec São Bernardo do Campo - "Adib Moisés Dib"
+C
+ANA JULYA DE ASSIS TOBIAS
+***753.218**
+FATEC - 1060743 - Logística - Noite - Fatec Guaratinguetá - "Prof. João Mod"
+A
+ANA JULYA RABELO MARTINS
+***472.028**
+FATEC - 0021562 - Paisagismo e Jardinagem - Tarde - Fatec São Paulo - Município de São Paulo
+A
+ANA KAROLYNE MILANEZ DO CARMO
+***988.918**
+FATEC - 2700771 - Gestão da Produção Industrial - Manhã - Fatec Cotia
+A
+ANA LAURA FERREIRA
+***757.478**
+FATEC - 0200647 - Gestão Empresarial - EaD - Fatec Jahu - "Octavio Celso Pacheco de Almeida Prado"
+A
+ANA LAURA FURLAN FONSECA
+***443.018**
+UNESP - 066 - Engenharia de Alimentos - integral - Instituto de Biociências, Letras e Ciências Exatas - São José do 
+Rio Preto
+B
+ANA LAURA GONCALVES DE OLIVEIRA GODOY
+***352.928**
+FATEC - 1060482 - Análise e Desenvolvimento de Sistemas - 1º ao 3º semestre Tarde/ 4º ao 6º semestre Noite - 
+Fatec Guaratinguetá - "Prof. João Mod"
+A
+ANA LAURA JERONIMO DARE
+***656.308**
+FATEC - 1190483 - Análise e Desenvolvimento de Sistemas - Noite - Fatec Garça - "Deputado Júlio Julinho 
+Marcondes de Moura"
+C
+ANA LAURA MARTINS VIEIRA
+***042.678**
+FATEC - 2040893 - Gestão de Recursos Humanos - Noite - Fatec Ipiranga - "Pastor Enéas Tognini" - Município de 
+São Paulo
+A
+ANA LAURA RIBEIRO
+***915.888**
+FATEC - 30115

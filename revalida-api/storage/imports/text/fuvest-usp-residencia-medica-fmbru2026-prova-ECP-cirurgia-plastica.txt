@@ -1,0 +1,1346 @@
+
+
+--- PAGE 1 ---
+
+ 
+ 
+ECP 
+ 
+ 
+ESPECIALIDADE 
+Cirurgia Plástica 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   PROCESSO SELETIVO AOS PROGRAMAS DE RESIDÊNCIA MÉDICA 2026   
+ 
+ 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence ao grupo ECP. 
+Informe ao fiscal de sala eventuais divergências. 
+3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer material de consulta e 
+de aparelhos de telecomunicação. 
+4. Duração da prova: 4 horas. Cabe ao candidato controlar o tempo com base nas informações fornecidas pelo 
+fiscal. O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a partir das 14h30. Não haverá tempo 
+adicional para preenchimento da folha de respostas.  
+5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos procedimentos 
+adotados para a aplicação deste processo seletivo. 
+6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de identificação e controle 
+do processo, visando a garantir a plena integridade do exame. Assim, durante a realização da prova, será 
+coletada por um fiscal uma foto do(a) candidato(a) para fins de reconhecimento facial, para uso exclusivo da USP 
+e da FUVEST. A imagem não será divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei. 
+7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 50 questões objetivas, 
+com 5 alternativas cada. Informe ao fiscal de sala eventuais divergências. 
+8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou preta. Essa folha 
+não será substituída em caso de rasura. 
+9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste caderno de questões. 
+Declaração 
+Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de 
+respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala. 
+ 
+___________________________________________________ 
+ASSINATURA 
+O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova. 
+ 
+Universidade de São Paulo
+
+
+--- PAGE 2 ---
+
+TABELA DE ABREVIAÇÕES E VALORES DE REFERÊNCIA 
+ 
+LISTA DE ABREVIAÇÕES 
+AA – Ar ambiente 
+AU – Altura Uterina 
+AAS – Ácido Acetilsalicílico 
+BCF – Batimentos Cardíacos Fetais 
+BEG – Bom Estado Geral 
+bpm – Batimentos por Minuto 
+Ca2+ – Cálcio  
+C,– – Cloro 
+Cr – Creatinina 
+DUM – Data da Última Menstruação 
+ECG – Eletrocardiograma  
+FA – Fosfatase Alcalina 
+FC – Frequência Cardíaca 
+FR – Frequência Respiratória 
+FSH – Hormônio Folículo Estimulante  
+GGT – Gamaglutamiltransferase 
+HAS – Hipertensão Arterial Sistêmica  
+HCO3– – Bicarbonato 
+Hb – Hemoglobina 
+Ht – Hematócrito 
+IAM – Infarto Agudo do Miocárdio 
+IC95% – Intervalo de Confiança de 95% 
+IMC – Índice de Massa Corpórea 
+irpm – Incursões Respiratórias por Minuto 
+IST – Infecção Sexualmente Transmissível 
+K+ – Potássio 
+LH – Hormônio Luteinizante 
+mEq – Miliequivalente 
+Mg2+ – Magnésio 
+mmHg – Milímetros de Mercúrio 
+MMII – Membros Inferiores 
+MMSS – Membros Superiores 
+MV – Murmúrios Vesiculares 
+Na+ – Sódio 
+PA – Pressão Arterial 
+pCO2 – Pressão Parcial de Gás Carbônico 
+PEEP – Pressão Expiratória Final Positiva 
+PEP – Profilaxia Pós-Exposição 
+PrEP – Profilaxia Pré-Exposição 
+pO2 – Pressão Parcial de Oxigênio 
+POCUS – Ultrassom point-of-care 
+PS – Pronto-Socorro 
+PSA – Antígeno Prostático Específico 
+REG – Regular Estado Geral 
+RN – Recém-nascido 
+SpO2 – Saturação Percutânea de Oxigênio 
+TGO/AST – Transaminase Oxalacética/Aspartato 
+ Aminotransferase 
+TGP/ALT – Transaminase Piruvática/Alanina 
+ Aminotransferase 
+TSH – Hormônio Tireo-Estimulante 
+UI – Unidades Internacionais 
+Ur – Ureia 
+UBS – Unidade Básica de Saúde 
+USG – Ultrassonografia 
+UTI – Unidade de Terapia Intensiva 
+ 
+ 
+VALORES DE REFERÊNCIA (ADULTOS) 
+Sangue (bioquímica e hormônios): 
+Albumina = 3,5 a 5,2 g/dL 
+Bilirrubina total = 0,2 a 1,1 mg/dL 
+Bilirrubina direta = 0,0 a 0,3 mg/dL 
+Bilirrubina indireta = 0,2 a 1,1 mg/dL 
+Cálcio iônico = 1,1 a 1,4 mmol/L 
+Creatinina = 0,7 a 1,3 mg/dL 
+Relação abuminúria/creatinina urinária = até 30 mg/g de creatinina 
+Desidrogenase láctica = menor que 225 UI/L 
+Ferritina: homens = 26 a 446 μg/mL 
+  mulheres = 15 a 149 μg/mL 
+Ferro sérico: homens = 65 a 175 μg/dL 
+ mulheres = 50 a 170 μg/dL 
+Fósforo = 2,5 a 4,5 mg/dL  
+Globulina = 1,7 a 3,5 g/dL 
+LDL = desejável de 100 a 129 mg/dL 
+HDL = desejável maior que 40 mg/dL 
+Triglicérides = desejável de 100 a 129 mg/dL 
+Glicemia em jejum = 75 a 99 mg/dL 
+Magnésio = 1,6 a 2,6 mg/dL 
+Potássio = 3,5 a 5,1 mEq/L 
+Proteína total = 6,5 a 8,1 g/dL 
+PSA = menor que 4 ng/mL 
+Sódio = 136 a 145 mEq/L 
+TSH (de 20 a 60 anos) = 0,45 a 4,5 mUI/mL 
+T4 Livre = 0,9 a 1,8 ng/dL 
+PTH = 10 a 65 pg/mL 
+Testosterona livre: homens = 131 a 640 pmol/L 
+  mulheres = 2,4 a 37,0 pmol/L 
+Estradiol: fase folicular = 1,2 a 23,3 ng/dL  
+pico ovulatório = 4,1 a 39,8 ng/dL 
+fase lútea = 2,2 a 34,1 ng/dL 
+menopausa = até 5,5 ng/dL 
+LH: fase folicular = até 12 UI/L  
+pico ovulatório = 15 a 100 UI/L 
+fase lútea = até 15 UI/L 
+menopausa = acima de 15 UI/L 
+FSH: fase folicular = até 12 UI/L 
+  pico ovulatório = 12 a 25 UI/L 
+  fase lútea = até 12 UI/L 
+  menopausa = acima de 30 UI/L 
+Prolactina = até 29 μg/L (não gestante) 
+Proteína C Reativa (PCR) = 0,3 a 1,0 mg/dL 
+Amilase = 28 a 100 UI/L 
+Lipase = inferior a 60 UI/L 
+Ureia = 10 a 50 mg/dL 
+GGT: homens: 12 a 73 UI/L 
+mulheres = 8 a 41 UI/L 
+Fosfatase alcalina: homens = 40 a 129 UI/L 
+  mulheres = 35  a 104 UI/L 
+Antígeno Carcinoembrionário (CEA) = até 5 ng/mL (não fumantes) 
+ até 10 ng/mL (fumantes) 
+Índice Líquido Amniótico (ILA) = 8 a 18 cm 
+Vitamina D = > 20 ng/mL 
+ 
+Sangue (hemograma e coagulograma): 
+Hemoglobina = 11,7 a 14,9 g/dL 
+Hemoglobina glicada = 4,3 a 6,1% 
+Conc. hemoglobina corpuscular média (CHCM) = 32 a 36 g/dL 
+Hemoglobina corpuscular média (HCM) = 27 a 32 pg 
+Volume corpuscular médio (VCM) = 80 a 100 fL 
+Amplitude de distribuição dos glóbulos vermelhos (RDW) = 11 a 14% 
+Leucócitos = 3.400 a 8.300/mm3 
+Neutrófilos = 1.500 a 5.000/ mm3 
+Eosinófilos = 20 a 420/mm3 
+Basófilos = 10 a 80/mm3 
+Linfócitos = 1.000 a 3.000/mm3 
+Monócitos = 220 a 730/mm3 
+Segmentados = 1.500 a 5.000/mm3 
+Bastonetes = até 829/mm3 
+Plaquetas = 150.000 a 340.000/mm3  
+Tempo de Protrombina (TP) = INR entre 1,0 e 1,4; Atividade 70 a 100% 
+Tempo de Tromboplastina Parcial Ativada (TTPA) R = até 1,2 
+Tempo de Trombina (TT) = 14 a 19 segundos 
+ 
+ 
+VALORES DE REFERÊNCIA PARA GASOMETRIA 
+ARTERIAL 
+pH = 7,35 a 7,45 
+pO2 = 80 a 100 mmHg 
+pCO2 = 35 a 45 mmHg 
+Base Excess (BE) = -2 a 2 
+HCO3– = 22 a 28 mEq/L 
+SpO2 > 95% 
+ 
+ 
+VALORES DE REFERÊNCIA DE Hb PARA CRIANÇAS 
+Recém-Nascido = 15 a 19 g/dL 
+2 a 6 meses = 9,5 a 13,5 g/dL 
+6 meses a 2 anos = 11 a 14 g/dL 
+2 a 6 anos = 12 a 14 g/dL 
+6 a 12 anos = 12 a 15 g/dL 
+ 
+
+
+--- PAGE 3 ---
+
+Processo Seletivo aos Programas de Residência Médica – Especialidades – Cirurgia Plástica – Edital COREME/FMBRU/RM Nº 03/2025 – PROVA ECP 
+{01} 
+Um paciente de 32 anos de idade é submetido a reconstrução 
+com retalho cutâneo randômico em face após exérese 
+tumoral. No pós-operatório imediato, observa-se sofrimento 
+distal progressivo do retalho. Considerando os princípios 
+clássicos da vascularização cutânea, o fator mais associado à 
+necrose distal nesse contexto é: 
+ 
+(A) Relação comprimento/base desfavorável do retalho. 
+(B) Descolamento em plano subcutâneo superficial. 
+(C) Uso de sutura absorvível profunda. 
+(D) Idade jovem do paciente. 
+(E) Presença de edema pós-operatório precoce. 
+##### 
+ 
+{02} 
+Durante o planejamento de uma cirurgia reconstrutiva, o 
+cirurgião utiliza o conceito de angiossomas. Esse conceito é 
+fundamental principalmente para: 
+ 
+(A) Escolha do plano de sutura. 
+(B) Avaliação do retorno venoso profundo. 
+(C) Planejamento de retalhos baseados em perfurantes. 
+(D) Definição do plano de dissecção. 
+(E) Avaliação estética final da cicatriz. 
+##### 
+ 
+{03} 
+Na avaliação pós-operatória de um retalho livre em região 
+cervicofacial, o retalho apresenta coloração arroxeada, turgor 
+aumentado e enchimento capilar rápido. O diagnóstico e a 
+conduta inicial mais apropriados são, respectivamente: 
+ 
+(A) Isquemia arterial → aquecimento local. 
+(B) Isquemia venosa → vasodilatadores. 
+(C) Hematoma subcutâneo → compressão externa. 
+(D) Congestão venosa → reexploração imediata. 
+(E) Edema fisiológico → observação. 
+##### 
+ 
+{04} 
+Durante acesso submandibular para fratura de mandíbula, 
+qual fator aumenta o risco de lesão do ramo marginal 
+mandibular do nervo facial? 
+ 
+(A) Identificação da veia facial. 
+(B) Incisão próxima à borda inferior da mandíbula. 
+(C) Dissecção subplatismal. 
+(D) Identificação da artéria facial. 
+(E) Uso de dreno aspirativo. 
+##### 
+ 
+{05} 
+Na 
+fisiopatologia 
+da 
+craniossinostose, 
+o 
+mecanismo 
+fundamental responsável pela deformidade craniana é: 
+ 
+(A) Hipertrofia muscular. 
+(B) Aumento da pressão intracraniana. 
+(C) Trauma obstétrico. 
+(D) Fechamento precoce das suturas. 
+(E) Espessamento cortical ósseo. 
+##### 
+ 
+{06} 
+Na reconstrução mandibular pós-oncológica, o retalho livre 
+que oferece melhor resultado para reabilitação com implantes 
+é o retalho 
+ 
+(A) osteo-cutâneo radial. 
+(B) anterolateral da coxa. 
+(C) osteo-cutâneo de fíbula. 
+(D) grande dorsal. 
+(E) escapular isolado. 
+##### 
+ 
+{07} 
+Paciente do sexo masculino, 35 anos de idade, vítima de 
+acidente de moto, apresentou trauma craniano sem perda de 
+consciência. Na avaliação inicial, foi descartada qualquer 
+lesão intracraniana, mas foi visualizada extensa perda de 
+couro cabeludo e osso exposto, sem periósteo viável. A opção 
+reconstrutiva neste caso é: 
+ 
+(A) Enxerto de pele parcial. 
+(B) Curativo oclusivo prolongado. 
+(C) Curativos para granulação da ferida. 
+(D) Segunda intenção. 
+(E) Retalho local ou livre. 
+##### 
+ 
+{08} 
+No reimplante digital, a sequência clássica de reparo inclui, 
+inicialmente: 
+ 
+(A) Osso → tendões → vasos → nervos → pele. 
+(B) Tendões → nervos → osso → vasos → pele. 
+(C) Osso → nervos → tendões → vasos → pele. 
+(D) Vasos → nervos → osso. 
+(E) Pele → nervos → vasos. 
+##### 
+ 
+{09} 
+Na cicatrização, a fase caracterizada por angiogênese intensa 
+e deposição de colágeno tipo III é: 
+ 
+(A) Hemostasia. 
+(B) Inflamação. 
+(C) Maturação. 
+(D) Proliferativa. 
+(E) Remodelação tardia. 
+##### 
+ 
+{10} 
+Em rinoplastia estruturada, a principal causa evitável de 
+obstrução nasal pós-operatória tardia é: 
+ 
+(A) Edema residual pela infiltração anestésica. 
+(B) Rinite alérgica. 
+(C) Colocação de tampões hemostáticos. 
+(D) Hipertrofia de conchas. 
+(E) Colapso da válvula nasal interna. 
+##### 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+Processo Seletivo aos Programas de Residência Médica – Especialidades – Cirurgia Plástica – Edital COREME/FMBRU/RM Nº 03/2025 – PROVA ECP 
+{11} 
+Durante o planejamento de uma reconstrução de defeito 
+complexo em cabeça e pescoço, o cirurgião opta por um 
+retalho muscular cuja vascularização se dá predominante-
+mente por um único pedículo vascular dominante, podendo 
+apresentar pedículos secundários menores, porém não 
+essenciais para a viabilidade do músculo. Segundo a 
+classificação de Mathes e Nahai, esse retalho muscular é 
+classificado como tipo 
+ 
+(A) I. 
+(B) II. 
+(C) III. 
+(D) IV. 
+(E) V. 
+##### 
+ 
+{12} 
+Para o planejamento reconstrutivo de um defeito complexo, o 
+cirurgião avalia alguns conceitos fundamentais. Sobre esses 
+conceitos, assinale a alternativa correta. 
+ 
+(A) A classificação de Mathes e Nahai baseia-se na 
+distribuição dos angiossomas cutâneos, sendo aplicável 
+principalmente aos retalhos perfurantes. 
+(B) O conceito de angiossomas descreve a anatomia vascular 
+segmentar da pele e do subcutâneo, sendo independente 
+da anatomia muscular e da classificação de Mathes e 
+Nahai. 
+(C) Os retalhos perfurantes dispensam o conhecimento dos 
+angiossomas, pois sua viabilidade depende exclusiva-
+mente do calibre do pedículo dissecado. 
+(D) O conceito de angiossomas auxilia na previsão da 
+extensão segura de tecidos irrigados por uma artéria fonte, 
+princípio 
+essencial 
+no 
+planejamento 
+de 
+retalhos 
+perfurantes. 
+(E) Os retalhos perfurantes são derivados de músculos 
+classificados como Tipo III de Mathes e Nahai, devido à 
+presença de dois pedículos dominantes. 
+##### 
+ 
+{13} 
+Homem, 27 anos de idade, vítima de acidente motociclístico 
+com fratura exposta de tíbia grau IIIB (classificação de Gustilo-
+Anderson), apresentando extensa perda de partes moles com 
+exposição 
+óssea 
+e 
+contaminação 
+moderada. 
+Após 
+estabilização clínica e ortopédica, é discutida a estratégia 
+reconstrutiva. De acordo com os princípios atuais da 
+reconstrução de membros, assinale a alternativa que 
+apresenta a conduta mais adequada. 
+ 
+(A) Curativos diários para formação de tecido de granulação 
+e posterior enxertia de pele. 
+(B) Realizar amputação precoce, pois fraturas IIIB raramente 
+são salváveis. 
+(C) Realizar enxerto de pele parcial espessa diretamente 
+sobre o osso exposto. 
+(D) Utilizar curativo por pressão negativa por tempo 
+indeterminado. 
+(E) Desbridamento seriado e cobertura precoce com retalho, 
+preferencialmente dentro da primeira semana. 
+##### 
+ 
+ 
+ 
+ 
+{14} 
+Criança, 8 meses de vida, é encaminhada para avaliação por 
+deformidade 
+craniana. 
+Ao 
+exame 
+físico, 
+observa-se 
+braquicefalia, hipoplasia do terço médio da face, exoftalmia, 
+mãos e pés com sindactilia complexa (em “luva”) e história 
+familiar semelhante. O diagnóstico sindrômico mais provável 
+é de Síndrome de 
+ 
+(A) Crouzon. 
+(B) Apert. 
+(C) Pfeiffer. 
+(D) Saethre-Chotzen. 
+(E) Muenke. 
+##### 
+ 
+{15} 
+Um paciente com diagnóstico de Síndrome de Crouzon 
+apresenta craniossinostose coronal bilateral, exoftalmia 
+importante e sinais iniciais de hipertensão intracraniana. 
+Diferentemente de outras síndromes craniossinostóticas, a 
+Síndrome de Crouzon caracteriza-se classicamente por: 
+ 
+(A) Ausência de anomalias de extremidades, com predomínio 
+de alterações craniofaciais. 
+(B) Comprometimento predominante de membros inferiores. 
+(C) Presença de sindactilia grave das mãos. 
+(D) Atraso intelectual severo obrigatório. 
+(E) Necessidade exclusiva de tratamento conservador. 
+##### 
+ 
+{16} 
+Um paciente apresenta defeito extenso no terço distal da 
+perna, com exposição óssea e tendínea, após ressecção 
+tumoral. Não há condições locais para retalhos locais 
+confiáveis. Considerando os princípios reconstrutivos, o 
+procedimento indicado para esse cenário é: 
+ 
+(A) Enxerto de pele total. 
+(B) Retalho cutâneo randômico local. 
+(C) Retalho gastrocnêmio medial. 
+(D) Retalho gastrocnêmio lateral. 
+(E) Retalho livre (ex.: anterolateral da coxa ou latíssimo do 
+dorso). 
+##### 
+ 
+{17} 
+Um paciente sofre lesão traumática complexa da mão, com 
+perda cutânea dorsal, fratura exposta de metacarpos e lesão 
+tendínea extensora. Durante o planejamento reconstrutivo, o 
+princípio mais importante que deve nortear a sequência e a 
+escolha das técnicas é: 
+ 
+(A) Priorizar o fechamento cutâneo primariamente. 
+(B) Restaurar a estética da mão, minimizando cicatrizes. 
+(C) Evitar qualquer procedimento microcirúrgico. 
+(D) Estabilizar função óssea e tendínea antes da cobertura 
+definitiva. 
+(E) Realizar enxerto de pele como primeira etapa. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Processo Seletivo aos Programas de Residência Médica – Especialidades – Cirurgia Plástica – Edital COREME/FMBRU/RM Nº 03/2025 – PROVA ECP 
+{18} 
+Mulher, 45 anos de idade, IMC de 27 kg/m², ex-tabagista há  
+3 anos, apresenta diástase dos músculos retos, flacidez 
+cutânea infraumbilical e panículo adiposo moderado, com 
+bom tônus lateral do abdome. Planeja-se lipoabdominoplastia 
+associada à plicatura dos retos, com transposição do umbigo. 
+Assinale a alternativa que apresenta a estratégia cirúrgica 
+mais correta para este caso. 
+ 
+(A) Realizar descolamento amplo até as linhas axilares 
+anteriores, pois a lipoaspiração preserva a vascularização 
+subdérmica. 
+(B) Basear a viabilidade do retalho principalmente nas artérias 
+epigástricas superiores, já que a plicatura compromete as 
+inferiores. 
+(C) Realizar ressecção agressiva do tecido subcutâneo 
+profundo para reduzir a espessura do retalho e melhorar a 
+perfusão. 
+(D) Evitar lipoaspiração em qualquer etapa, pois compromete 
+invariavelmente a circulação do retalho abdominal. 
+(E) Executar descolamento na linha média para plicatura, 
+preservar perfurantes laterais e realizar lipoaspiração nas 
+áreas adjacentes sem descolamento. 
+##### 
+ 
+{19} 
+Uma criança apresenta fissura facial caracterizada por 
+solução de continuidade que se inicia no lábio superior, 
+atravessa a asa nasal, estende-se pelo sulco nasolabial e 
+segue em direção ao canto medial do olho, podendo envolver 
+a parede medial da órbita. De acordo com a classificação de 
+Paul Tessier, essa fissura corresponde mais provavelmente ao 
+tipo Tessier nº 
+ 
+(A) 1. 
+(B) 2. 
+(C) 3. 
+(D) 4. 
+(E) 7. 
+##### 
+ 
+{20} 
+Durante uma parotidectomia superficial para ressecção de 
+tumor benigno, o cirurgião identifica o tronco principal do 
+nervo facial logo após sua emergência do forame 
+estilomastoideo. Considerando a anatomia cirúrgica clássica 
+do nervo facial, assinale a alternativa correta. 
+ 
+(A) O nervo facial emerge anteriormente ao processo 
+mastoide e imediatamente se divide em seus cinco ramos 
+terminais profundos à glândula parótida. 
+(B) O ramo temporal do nervo facial cruza superficialmente o 
+arco zigomático em plano profundo à fáscia temporal 
+profunda, sendo protegido durante ritidoplastias. 
+(C) O ramo marginal mandibular apresenta trajeto constante 
+abaixo da borda inferior da mandíbula, independente-
+mente da idade ou do tônus cutâneo. 
+(D) O nervo facial divide-se, no interior da parótida, em um 
+tronco temporofacial e outro cervicofacial, formando o 
+plexo parotídeo, estrutura de grande relevância cirúrgica. 
+(E) O ramo bucal é exclusivamente motor para o músculo 
+bucinador e não apresenta comunicações com outros 
+ramos faciais. 
+##### 
+ 
+ 
+{21} 
+Uma paciente de 36 anos é submetida a mamoplastia redutora 
+com pedículo superomedial, ressecção significativa de 
+parênquima e padrão de cicatriz em “T invertido”. No pós-
+operatório imediato, evolui com sofrimento progressivo do 
+Complexo Aréolo-Papilar (CAP), caracterizado por palidez, 
+diminuição do sangramento à punção e atraso no enchimento 
+capilar. Considerando os princípios anatômicos e técnicos da 
+mamoplastia, assinale a alternativa que apresenta a causa 
+mais provável dessa complicação. 
+ 
+(A) Ressecção excessiva do parênquima adjacente ao 
+pedículo, comprometendo a irrigação arterial do CAP. 
+(B) Congestão venosa secundária ao fechamento da cicatriz 
+vertical, comprometendo a irrigação do CAP. 
+(C) Hematoma subcutâneo difuso sem repercussão vascular. 
+(D) Edema fisiológico esperado nas primeiras 24 horas. 
+(E) Uso de sutura absorvível profunda no pedículo. 
+##### 
+ 
+{22} 
+Uma criança apresenta fissura envolvendo lábio superior, 
+rebordo 
+alveolar 
+e 
+palato 
+primário, 
+estendendo-se 
+posteriormente para o palato secundário. Do ponto de vista 
+embriológico, essa malformação decorre principalmente de: 
+ 
+(A) Falha de fusão entre os processos palatinos laterais entre 
+si e com o septo nasal. 
+(B) Falha de fusão dos processos nasais laterais com o 
+processo maxilar. 
+(C) Falha de fusão do processo mandibular com o maxilar. 
+(D) Falha de migração das células da crista neural para o 
+primeiro arco branquial. 
+(E) Persistência do ducto nasolacrimal embrionário. 
+##### 
+ 
+{23} 
+Criança, 14 meses de vida, apresenta fissura palatina 
+completa, envolvendo palato duro e mole, com musculatura 
+do véu palatino claramente desinserida e encurtamento do 
+palato mole. Considerando as técnicas clássicas de 
+palatoplastia e suas principais indicações, assinale a 
+alternativa correta. 
+ 
+(A) A técnica de Von Langenbeck é preferida nos casos com 
+grande encurtamento do palato mole, pois promove 
+alongamento significativo do véu palatino. 
+(B) A técnica de Bardach (two-flap palatoplasty) é indicada 
+exclusivamente 
+para 
+fissuras 
+incompletas, 
+sendo 
+inadequada em fissuras completas. 
+(C) A técnica de Von Langenbeck tem como principal 
+vantagem o reposicionamento anatômico dos músculos 
+elevadores do véu palatino, com baixo risco de 
+insuficiência velofaríngea. 
+(D) A técnica de Furlow é contraindicada em fissuras 
+completas devido ao alto risco de necrose dos retalhos. 
+(E) A técnica de Furlow (zetaplastia dupla reversa) é 
+especialmente útil quando se busca alongamento do 
+palato 
+mole e 
+melhor 
+reconstrução 
+funcional 
+da 
+musculatura, favorecendo a competência velofaríngea. 
+##### 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 6 ---
+
+Processo Seletivo aos Programas de Residência Médica – Especialidades – Cirurgia Plástica – Edital COREME/FMBRU/RM Nº 03/2025 – PROVA ECP 
+{24} 
+Homem, 37 anos de idade, com antecedente de paraplegia 
+após lesão medular traumática, desenvolveu lesão por 
+pressão em região isquiática esquerda. A lesão possui 
+dimensões de 8×6 cm e atinge até a proeminência óssea, com 
+leito repleto de tecidos desvitalizados. Após adequado 
+preparo do leito, qual a cobertura cutânea mais indicada para 
+o tratamento desta lesão? 
+ 
+(A) Enxerto de pele parcial. 
+(B) Enxerto de pele total. 
+(C) Retalho local ou regional. 
+(D) Cicatrização por segunda intenção. 
+(E) Matriz dérmica acelular. 
+##### 
+ 
+{25} 
+Mulher, 58 anos de idade, com antecedente de hipertensão 
+venosa crônica de membros inferiores e varizes, desenvolveu 
+ferida em perna direita há 10 meses. A ferida é bastante 
+exsudativa, dolorosa e possui esfacelos no leito. Há 6 meses, 
+paciente iniciou tratamento com pomada de sulfadiazina de 
+prata, porém sem apresentar melhora significativa. Quais 
+medidas podem ser implementadas para o tratamento da 
+ferida desta paciente? 
+ 
+(A) Inibição do tecido de granulação e aumento das 
+metaloproteases. 
+(B) Aumento das metaloproteases e terapia compressiva. 
+(C) Terapia compressiva e desbridamento enzimático. 
+(D) Desbridamento enzimático e manter a ferida exposta. 
+(E) Manter a ferida exposta e inibição do tecido de 
+granulação. 
+##### 
+ 
+{26} 
+Criança de 10 anos de idade foi vítima de agressão física com 
+soco em região orbitária direita há 4 horas, sendo levada ao 
+pronto-socorro de hospital terciário. Paciente queixava-se de 
+náuseas e já havia apresentado um episódio de vômito. O 
+exame 
+físico 
+mostrou 
+diplopia, 
+enoftalmia, 
+dor 
+a 
+movimentação ocular, pouca mobilidade do globo ocular, 
+edema e equimoses periorbitárias a direita. A tomografia de 
+face confirmou a principal hipótese diagnóstica. O teste de 
+ducção forçada sob anestesia local foi positivo. Assinale a 
+alternativa que apresenta a conduta indicada para este caso. 
+ 
+(A) Intervenção cirúrgica com abordagem pelo acesso de 
+Caldwell-Luc para redução do conteúdo herniado através 
+do seio maxilar, sem exploração direta do assoalho 
+orbitário. 
+(B) Corticoterapia sistêmica em altas doses para redução do 
+edema, postergando o tratamento cirúrgico até que as 
+equimoses periorbitárias desapareçam. 
+(C) Cantotomia 
+e 
+cantólise 
+lateral 
+imediatas 
+para 
+descompressão da órbita, devido à presença de sinais 
+clínicos de hematoma retrobulbar. 
+(D) Tratamento 
+cirúrgico 
+precoce 
+para 
+liberação 
+dos 
+músculos aprisionados e reconstrução do assoalho 
+orbitário com tela de titânio ou polietileno poroso. 
+(E) Conduta expectante com observação por cerca de 10 a  
+14 dias para redução do edema, pois a maioria dos casos 
+de aprisionamento muscular em crianças é devido a 
+pseudoparesia por edema neurogênico. 
+##### 
+ 
+Texto para as questões 27 e 28 
+ 
+Paciente do sexo masculino, 35 anos de idade, peso de 70 kg, 
+sem comorbidades, apresenta queimaduras por combustão 
+de inflamável em 50% do corpo. Na avaliação inicial verificou-
+se que havia 20% de queimaduras de primeiro grau, 10% de 
+queimaduras de segundo grau e 20% de queimaduras de 
+terceiro grau. 
+ 
+{27} 
+Segundo as novas diretrizes do ATLS (Advanced Trauma Life 
+Support – 2025 – 11ª edição) como o paciente precisa ser 
+hidratado? 
+ 
+(A) Infundir 500 mL de Ringer Lactato por hora, a fim de obter 
+diurese de 70 mL por hora. 
+(B) Infundir 7.000 mL de Ringer Lactato, sendo 3.500 mL nas 
+primeiras 8 horas, posteriormente infundir 3.500 mL nas  
+16 horas restantes, a fim de obter uma diurese de 70 mL 
+por hora. 
+(C) Infundir 4.200 mL de Ringer Lactato, numa velocidade de 
+262,5 mL por hora, a fim de se obter uma diurese de 35 mL 
+por hora. 
+(D) Infundir 7.000 mL de Ringer Lactato, numa velocidade de 
+437,5 mL por hora, a fim de se obter uma diurese de 35 mL 
+por hora. 
+(E) Infundir 4.200 mL de solução de albumina a 5% nas 
+primeiras 24 horas, pois o paciente é grande queimado e 
+necessita infusão de colóides precoce. 
+##### 
+ 
+{28} 
+Nas primeiras horas após o trauma, o paciente apresenta 
+hipotensão, redução do débito urinário, diminuição do 
+consumo de oxigênio e hiperlactatemia. Após adequada 
+ressuscitação volêmica, evolui nos dias subsequentes com 
+hiperglicemia persistente, aumento do gasto energético basal, 
+balanço nitrogenado negativo e resposta inflamatória 
+sistêmica acentuada. Com base nos conceitos clássicos das 
+fases ebb e flow da resposta metabólica ao trauma, 
+especialmente em pacientes queimados, assinale a alternativa 
+correta. 
+ 
+(A) A fase ebb caracteriza-se por hipermetabolismo, aumento 
+do consumo de oxigênio e intenso catabolismo proteico. 
+(B) A fase flow ocorre exclusivamente após o fechamento 
+completo das áreas queimadas, estando relacionada 
+apenas à infecção secundária. 
+(C) Na fase ebb, o objetivo terapêutico principal é limitar o 
+aporte volêmico para evitar edema tecidual excessivo. 
+(D) A fase ebb corresponde a um período inicial de 
+hipometabolismo e instabilidade hemodinâmica, enquanto 
+a fase flow é marcada por hipermetabolismo, resistência à 
+insulina e catabolismo acentuado. 
+(E) Em pacientes queimados, a transição da fase ebb para a 
+fase flow é independente da extensão da queimadura e da 
+resposta inflamatória sistêmica. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 7 ---
+
+Processo Seletivo aos Programas de Residência Médica – Especialidades – Cirurgia Plástica – Edital COREME/FMBRU/RM Nº 03/2025 – PROVA ECP 
+{29} 
+Mulher, 46 anos de idade, refere aparecimento de uma lesão 
+de pele escurecida na perna direita há 6 meses, que 
+aumentou de tamanho, conforme apresentado na imagem a 
+seguir: 
+ 
+ 
+ 
+O médico optou por realizar uma biópsia. Com base na 
+principal hipótese diagnóstica, qual informação do exame 
+anatomopatológico tem mais relação com a definição das 
+condutas terapêuticas subsequentes e com o prognóstico da 
+doença? 
+ 
+(A) Invasão angiolinfática. 
+(B) Número de mitoses por mm2. 
+(C) Ulceração. 
+(D) Invasão perineural. 
+(E) Índice de Breslow. 
+##### 
+ 
+{30} 
+Mulher, 69 anos de idade, notou surgimento de lesão 
+pigmentada em região de pescoço, cuja biópsia confirmou 
+diagnóstico de melanoma, subtipo extensivo superficial, sem 
+ulceração ou regressão, nível de Clark V, índice de Breslow 
+4,2 mm, sem invasão angiolinfática ou perineural, com  
+5 mitoses por mm2. Ao exame físico, a cadeia linfática cervical 
+não apresentava sinais de adenomegalias. Assinale a 
+alternativa que apresenta corretamente as próximas etapas do 
+tratamento desta paciente. 
+ 
+(A) Ampliação de margens de 2 cm. Não há indicação de 
+pesquisa do linfonodo sentinela. 
+(B) Ampliação de margens de 1 cm. Não há indicação de 
+pesquisa do linfonodo sentinela. 
+(C) Não há indicação de ampliação de margens e nem de 
+pesquisa do linfonodo sentinela. 
+(D) Ampliação de margens de 2 cm. Há indicação de 
+pesquisa do linfonodo sentinela. 
+(E) Ampliação de margens de 1 cm. Há indicação de pesquisa 
+do linfonodo sentinela. 
+##### 
+ 
+ 
+{31} 
+Homem, 48 anos de idade, foi vítima de trauma elétrico 
+enquanto manipulava rede elétrica de alta tensão, com ponto 
+de entrada em punho esquerdo, sendo admitido para 
+cuidados em hospital terciário especializado. No dia seguinte 
+ao trauma, iniciou queixa de dor e parestesia em membro 
+superior esquerdo. Ao exame físico, apresentava queimadura 
+de terceiro grau no local do ponto de entrada, atingindo menos 
+de 1% da superfície corpórea. Havia edema em mão e 
+antebraço esquerdos, com pulsos palpáveis, além de diurese 
+de coloração escurecida. Assinale a alternativa que apresenta 
+a conduta imediata que deve ser implementada. 
+ 
+(A) Fasciotomia descompressiva no membro afetado. 
+(B) Estímulo à diurese com prescrição de furosemida. 
+(C) Curativo com pomada de sulfadiazina de prata 1%. 
+(D) Eletroneuromiografia do membro acometido. 
+(E) Reposição volêmica com solução coloide. 
+##### 
+ 
+{32} 
+Mulher, 74 anos de idade, ficou confinada por alguns minutos 
+dentro de sua casa durante incêndio, sendo resgatada por 
+vizinhos e levada ao pronto-socorro. Ao exame físico, estava 
+confusa durante a fala, apresentava queimaduras em face e 
+tórax anterior de aproximadamente 8% da superfície corpórea, 
+além de estridor laríngeo durante a respiração. Havia fuligem 
+em narinas e cavidade oral. Qual a conduta imediata que deve 
+ser tomada durante o atendimento desta paciente? 
+ 
+(A) Broncoscopia com realização de lavado brônquico e 
+aspiração. 
+(B) Máscara facial com administração de oxigênio a 60%. 
+(C) Cricotireoidostomia e dosagem sérica de carboxi-
+hemoglobina. 
+(D) Intubação orotraqueal com administração de oxigênio a 
+100%. 
+(E) Traqueostomia e limpeza da fuligem das cavidades oral e 
+nasal. 
+##### 
+ 
+{33} 
+A terapia por pressão subatmosférica, também conhecida 
+como terapia por pressão negativa ou terapia a vácuo é muito 
+utilizada para o tratamento de feridas complexas. Assinale a 
+alternativa indica a explicação correta para seu mecanismo de 
+ação. 
+ 
+(A) Aproximação das bordas da ferida em direção ao centro 
+pela ação de força centrífuga. 
+(B) Aumento da formação do tecido de granulação pela 
+neovascularização e deposição de matriz extracelular. 
+(C) Aumento da perfusão do leito da ferida pela entrega direta 
+de oxigênio fornecida pela unidade de terapia. 
+(D) Redução do edema e do exsudato pelo redirecionamento 
+de líquidos para o intravascular. 
+(E) Redução da resposta inflamatória local pela produção de 
+radicais livres e metaloproteases. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 8 ---
+
+Processo Seletivo aos Programas de Residência Médica – Especialidades – Cirurgia Plástica – Edital COREME/FMBRU/RM Nº 03/2025 – PROVA ECP 
+{34} 
+Em pacientes com queimaduras profundas, o tratamento 
+convencional 
+envolve 
+o 
+desbridamento 
+dos 
+tecidos 
+desvitalizados e a cobertura cutânea com enxerto de pele 
+autólogo. O enxerto de pele pode ser utilizado como lâmina ou 
+pode ser expandido como malha. Assinale a alternativa que 
+apresenta área com a melhor indicação para enxerto de pele 
+em malha. 
+ 
+(A) Abdome. 
+(B) Punho. 
+(C) Pescoço. 
+(D) Tornozelo. 
+(E) Face. 
+##### 
+ 
+{35} 
+Homem, 23 anos de idade, vítima de queimadura após 
+acidente com material inflamável. Foi levado ao pronto-
+socorro, onde foi identificado a presença de queimaduras de 
+segundo e terceiro graus em todo membro superior direito, 
+metade do tronco anterior e todo membro inferior direito. De 
+acordo com o esquema de Wallace (“regra dos nove”), qual a 
+superfície corpórea queimada aproximada deste paciente? 
+ 
+(A) 9% 
+(B) 18% 
+(C) 27% 
+(D) 36% 
+(E) 45% 
+##### 
+ 
+{36} 
+Homem, 49 anos de idade, permaneceu internado em leito de 
+terapia intensiva por 45 dias para tratamento de sepse 
+decorrente de pneumonia. Neste período, desenvolveu lesão 
+por pressão em região sacral. Ao exame físico, a lesão 
+apresentava perda total da pele com exposição de tecido 
+adiposo subcutâneo, mas sem visualização de tecidos 
+profundos como fáscia, músculo ou osso. Segundo a 
+classificação da NPIAP (National Pressure Injury Advisory 
+Panel), qual o estágio desta lesão por pressão? 
+ 
+(A) Estágio 1. 
+(B) Estágio 2. 
+(C) Estágio 3. 
+(D) Estágio 4. 
+(E) Estágio 5. 
+##### 
+ 
+{37} 
+Retalhos musculares e miocutâneos possuem pedículos 
+vasculares específicos e confiáveis, e são boas opções para 
+reconstrução de estruturas anatômicas que demandam 
+preenchimento de volume. Segundo a classificação de 
+Mathes e Nahai dos retalhos musculares e miocutâneos, que 
+leva em consideração sua anatomia vascular, o retalho de 
+músculo trapézio é classificado como tipo 
+ 
+(A) I. 
+(B) II. 
+(C) III. 
+(D) IV. 
+(E) V. ##### 
+{38} 
+Mulher, 56 anos de idade, com diagnóstico de carcinoma 
+ductal invasivo de mama esquerda, será submetida a 
+mastectomia radical modificada esquerda, seguida de 
+reconstrução mamária imediata. Há 8 anos, foi submetida a 
+abdominoplastia com lipoaspiração abdominal após duas 
+gestações. Assinale a alternativa que apresenta a opção que 
+pode ser considerada pela equipe de cirurgia plástica para a 
+reconstrução da mama desta paciente. 
+ 
+(A) Retalho pediculado de músculo grande dorsal, tipo I pela 
+classificação de Mathes e Nahai, associado a implante de 
+silicone. 
+(B) Retalhos 
+microcirúrgicos 
+como 
+retalho 
+superior 
+Transversal do Músculo Grácil (TUG) ou Retalho Perfurante 
+da Artéria Glútea Superior (SGAP). 
+(C) Retalho monopediculado de Músculo Reto Abdominal 
+Transversal (TRAM), tipo III pela classificação de Mathes e 
+Nahai. 
+(D) Retalhos microcirúrgicos como retalho perfurante da 
+Artéria Femoral Profunda (DFAP) ou retalho perfurante da 
+Artéria Epigástrica Inferior Profunda (DIEP). 
+(E) Retalho bipediculado de Músculo Reto Abdominal 
+Transversal (TRAM), tipo III pela classificação de Mathes e 
+Nahai. 
+##### 
+ 
+{39} 
+A síndrome de Poland é uma deformidade torácica congênita 
+com incidência que varia de 1:10.000 a 1:100.000 
+nascimentos. Em pacientes portadores desta síndrome, 
+espera-se encontrar: 
+ 
+(A) Ausência da porção esternal do músculo peitoral maior 
+ipsilateral. 
+(B) Presença da prega axilar anterior ipsilateral e ausência da 
+prega axilar anterior contralateral. 
+(C) Duplicação do músculo peitoral menor ipsilateral. 
+(D) Anomalias contralaterais da mão, parte inferior do braço 
+ou de todo o membro superior. 
+(E) Hipertrofia compensatória da pele e do tecido subcutâneo 
+torácico ipsilaterais. 
+##### 
+ 
+{40} 
+Homem, 65 anos de idade, com diagnóstico de carcinoma 
+basocelular superficial de pálpebra inferior esquerda, foi 
+submetido a exérese da lesão, sem acometimento do tarso. 
+Para cobertura do defeito resultante, o cirurgião optou pela 
+transferência de um retalho bipediculado de pele e músculo 
+orbicular da pálpebra superior. Assinale a alternativa que 
+apresenta a denominação correta para este retalho. 
+ 
+(A) Retalho de Esser. 
+(B) Retalho de Tripier. 
+(C) Retalho de Mustardé. 
+(D) Retalho de Tenzel. 
+(E) Retalho de Fricke. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Processo Seletivo aos Programas de Residência Médica – Especialidades – Cirurgia Plástica – Edital COREME/FMBRU/RM Nº 03/2025 – PROVA ECP 
+{41} 
+Mulher, 46 anos de idade, há 3 anos realizou cirurgia bariátrica 
+para tratamento de obesidade mórbida com a técnica de  
+by-pass gástrico em Y de Roux. Está com peso estável há  
+1 ano e IMC atual de 26,5 kg/m2. Em consulta com cirurgião 
+plástico, refere abdome em avental, ptose mamária e 
+excessos de pele em braços e coxas. Ao exame físico, nota-
+se excesso de pele abdominal horizontal e vertical, diástase 
+de músculos retos abdominais, mamas volumosas com ptose 
+mamária grau III, e excessos dermogordurosos em braços e 
+medial de coxas. Durante o planejamento da conduta 
+indicada, o cirurgião deve considerar: 
+ 
+(A) Manter os níveis de hemoglobina acima de 16 g/dL, pois a 
+perda sanguínea nestas cirurgias é grande, com objetivo 
+de reduzir necessidades de transfusão de concentrado de 
+hemácias. 
+(B) Optar por técnicas de mastopexia que utilizem implantes 
+mamários de grande volume e em plano subglandular, 
+uma vez que os retalhos glandulares autólogos não devem 
+ser utilizados nestes casos. 
+(C) Realizar todas as cirurgias indicadas em etapa única, com 
+objetivo de reduzir os riscos cirúrgicos e anestésicos em 
+comparação com as cirurgias realizadas separadamente. 
+(D) Manter os níveis de albumina sérica acima de 5,5 g/dL, 
+pois pacientes submetidos a gastrectomia em Y de Roux 
+mantém níveis séricos de albumina abaixo do ideal. 
+(E) Realizar as cirurgias indicadas em mais de uma etapa 
+cirúrgica, com profilaxia farmacológica e mecânica de 
+eventos tromboembólicos em cada uma delas. 
+##### 
+ 
+{42} 
+Recém-nascido apresenta-se com braquicefalia, exoftalmia, 
+fronte alta, hipoplasia moderada do terço médio da face, 
+polegares e hálux largos e desviados. Assinale a alternativa 
+que apresenta o provável diagnóstico. 
+ 
+(A) Síndrome de Saethre-Chotzen. 
+(B) Síndrome de Crouzon. 
+(C) Síndrome de Pfeiffer. 
+(D) Síndrome de Jackson-Weiss. 
+(E) Síndrome de Apert. 
+##### 
+ 
+{43} 
+Mulher, 21 anos de idade, apresenta mácula azul-
+acinzentada, unilateral, de limites imprecisos e aspecto 
+mosqueado, acometendo as regiões periorbitária, malar e 
+têmpora esquerda, presente desde o primeiro ano de vida. Ao 
+exame físico, nota-se pigmentação acastanhada e azulada na 
+esclera e na conjuntiva ipsilateral. Não possui antecedente de 
+trauma local ou uso de medicações. O exame dermatoscópico 
+revela um padrão de glóbulos azulados profundos e ausência 
+de estruturas vasculares. Assinale alternativa que apresenta a 
+hipótese diagnóstica mais provável para esta paciente. 
+ 
+(A) Nevo de Becker. 
+(B) Melanocitose de Sun. 
+(C) Nevo de Ota. 
+(D) Mancha mongólica. 
+(E) Nevo de Ito. 
+##### 
+ 
+ 
+ 
+{44} 
+Mulher, 26 anos de idade, apresenta sequela de queimadura 
+com alopecia cicatricial de couro cabeludo parietal esquerdo 
+de 10×8 cm. Está em planejamento terapêutico com a inclusão 
+de expansor tecidual retangular de 500 cm3 em plano 
+subgaleal para posterior avanço de retalho piloso de couro 
+cabeludo. Seis semanas após o início da expansão 
+ambulatorial, paciente retorna com queixas de dor a palpação, 
+calor local e hiperemia localizada próxima à válvula remota, 
+sem sinais de flutuação ou extrusão. Neste momento, a 
+conduta mais indicada é 
+ 
+(A) antibioticoterapia 
+sistêmica 
+com 
+cobertura 
+para 
+microrganismos de pele, aspiração parcial do conteúdo do 
+expansor para reduzir a tensão sobre o retalho e 
+observação rigorosa. 
+(B) rotação imediata do retalho de avanço com uso da cápsula 
+fibrosa do expansor como elemento de sustentação para 
+tracionar e compensar a expansão incompleta. 
+(C) remoção da válvula remota e substituí-la por uma válvula 
+integrada 
+no 
+mesmo 
+tempo 
+cirúrgico, 
+realizando 
+capsulectomia para melhorar a perfusão do retalho 
+remanescente. 
+(D) infiltração de corticoide ao redor da válvula do expansor 
+para reduzir o processo inflamatório, permitindo acelerar a 
+velocidade de expansão para volumes dobrados para 
+finalizar o processo antes da extrusão. 
+(E) aspiração total do conteúdo do expansor e retirada 
+imediata do dispositivo, aguardando 6 meses para uma 
+nova tentativa de inclusão, dessa vez em plano 
+subperiosteal para evitar recorrência da infecção. 
+##### 
+ 
+{45} 
+Homem, 37 anos de idade, operário da construção civil, foi 
+admitido em unidade de tratamento de queimados com lesões 
+extensas decorrentes de acidente com cimento fresco em 
+ambas as pernas, com 4 horas de evolução. Ao exame físico, 
+apresenta áreas de necrose espessas, de coloração 
+esbranquiçada, recobrindo cerca de 18% da superfície 
+corporal total na face anterior de ambas as coxas e pernas, 
+com queixa de dor intensa e persistente. O paciente refere ter 
+lavado com água corrente por cerca de 10 minutos no local 
+de trabalho antes do transporte. Assinale a alternativa que 
+apresenta a conduta imediata mais adequada para minimizar 
+a progressão desta lesão. 
+ 
+(A) Desbridamento cirúrgico tangencial precoce imediato dos 
+membros inferiores em centro cirúrgico. 
+(B) Aplicação de antídoto com solução de ácido bórico a 5% 
+para neutralização térmica da base. 
+(C) Irrigação contínua com solução de gluconato de cálcio a 
+2,5% por no mínimo 30 a 60 minutos. 
+(D) Uso de curativos oclusivos com sulfadiazina de prata e 
+espessante para limitar a penetração profunda. 
+(E) Lavagem exaustiva com água ou soro fisiológico por no 
+mínimo 60 a 120 minutos, devido à saponificação. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Processo Seletivo aos Programas de Residência Médica – Especialidades – Cirurgia Plástica – Edital COREME/FMBRU/RM Nº 03/2025 – PROVA ECP 
+{46} 
+Em cirurgias de lipoaspiração, a quantidade de gordura 
+lipoaspirada tem relação com a segurança do procedimento. 
+Com objetivo de reduzir riscos de sangramento excessivo e 
+desequilíbrio hidroeletrolítico, há diretrizes da Sociedade 
+Brasileira de Cirurgia Plástica e do Conselho Federal de 
+Medicina sobre os limites de gordura lipoaspirada em 
+cirurgias de lipoaspiração. Em relação ao peso corporal, qual 
+é a recomendação para a quantidade máxima de gordura 
+lipoaspirada?  
+ 
+(A) 3 a 5%. 
+(B) 5 a 7%. 
+(C) 7 a 9%. 
+(D) 9 a 11%. 
+(E) 11 a 13%. 
+##### 
+ 
+{47} 
+Menina, 6 meses de idade, é levada pela mãe ao pronto-
+socorro devido à crise convulsiva. Tem histórico de ter tido 
+outras duas crises no último mês e antecedente de glaucoma. 
+Ao exame físico, apresenta mancha de cor arroxeada em 
+região frontopalpebral direita, sem ultrapassar a linha média. 
+Mãe refere que a mancha está presente desde o nascimento. 
+Assinale a alternativa que apresenta a principal hipótese 
+diagnostica. 
+ 
+(A) Síndrome de Mafucci. 
+(B) Síndrome de Cowden. 
+(C) Síndrome de Klipppel-Trenaunay. 
+(D) Síndrome de Kasabach-Merritt. 
+(E) Síndrome de Sturge-Weber. 
+##### 
+ 
+{48} 
+Mulher, 43 anos de idade, sem comorbidades, foi submetida 
+a preenchimento facial com ácido hialurônico de alta 
+reticulação. Imediatamente após a injeção de 0,5 mL na 
+porção superior do sulco nasolabial esquerdo utilizando 
+agulha, a paciente queixa-se de dor intensa. O cirurgião 
+observa palidez cutânea instantânea estendendo-se da asa 
+nasal até a região glabelar ipsilateral, seguida de um padrão 
+de livedo reticular fino em menos de 5 minutos. Diante da 
+principal hipótese diagnóstica, qual deve ser a conduta 
+imediata e sequencial para o manejo deste quadro? 
+ 
+(A) Aplicação de hialuronidase na dose de 500 a 1.500 UI em 
+toda a área de livedo, massagem vigorosa, compressa 
+morna e uso de ácido acetilsalicílico 300 mg. 
+(B) Aplicação de hialuronidase na dose de 150 UI restrita ao 
+ponto da injeção, massagem suave, compressa fria para 
+reduzir edema e uso de corticoide sistêmico. 
+(C) Injeção de hialuronidase na dose de 50 UI na área de 
+palidez, infiltração local de lidocaína sem vasoconstritor, 
+compressa fria e observação por 24 horas. 
+(D) Injeção de hialuronidase na dose de 300 UI apenas na 
+borda da área de livedo, massagem vigorosa, uso de 
+toxina botulínica local e antibioticoterapia profilática. 
+(E) Realização de teste cutâneo para hialuronidase, aplicação 
+de 150 UI se teste negativo, oxigenoterapia hiperbárica e 
+uso de sildenafila 50 mg. 
+##### 
+ 
+ 
+ 
+{49} 
+Homem, 69 anos de idade, tabagista e trabalhador rural, 
+apresenta lesão ulcerada e infiltrativa em lábio inferior 
+esquerdo. Realizou biópsia que confirmou o diagnóstico de 
+carcinoma espinocelular bem diferenciado. Foi submetido a 
+exérese da lesão com margens cirúrgicas de 5 mm, cuja 
+biópsia de congelação mostrou que as margens estavam 
+livres de neoplasia. Como resultado, ficou com defeito de 
+espessura total que acomete 40% da extensão total do lábio 
+inferior. O defeito está localizado na região da comissura labial 
+esquerda, envolvendo-a completamente, porém preservando 
+o restante do lábio superior. Assinale a alternativa que 
+apresenta a opção de reconstrução mais adequada para este 
+caso. 
+ 
+(A) Retalho de Gillies. 
+(B) Retalho de Karapandzic. 
+(C) Retalho de Abbé. 
+(D) Retalho de Bernard-Burrow. 
+(E) Retalho de Estlander. 
+##### 
+ 
+{50} 
+Mulher, 45 anos de idade, possui implantes mamários 
+bilaterais, colocados há 14 anos. A via de acesso foi 
+inframamária, no plano subfascial, implantes redondos 
+texturizados, de perfil alto, volume de 285cc. Queixa-se que 
+as mamas ficaram endurecidas nos últimos 3 anos, de 
+aspecto progressivo, com presença de dor e com a forma 
+alterada. Ao exame físico, palpa-se cápsula bastante 
+endurecida, de aspecto pétreo, com deformidades visíveis na 
+superfície da pele e localizadas em posição mais cranial 
+bilateralmente em relação ao tórax. De acordo com a 
+classificação de Baker para contratura capsular, a paciente 
+apresenta uma contratura capsular de grau  
+ 
+(A) I. 
+(B) II. 
+(C) III. 
+(D) IV. 
+(E) V. 
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 11 ---
+
+ 
+ 
+ 
+
+
+--- PAGE 12 ---
+

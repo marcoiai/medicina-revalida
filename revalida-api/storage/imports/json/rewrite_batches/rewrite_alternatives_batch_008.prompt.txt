@@ -1,0 +1,1219 @@
+
+Você é um revisor técnico de questões médicas para Revalida/Residência.
+
+TAREFA:
+Reescreva somente as alternativas de cada questão abaixo.
+
+OBJETIVO:
+- melhorar alternativas curtas, telegráficas, vagas ou desequilibradas
+- tornar as alternativas mais homogêneas em extensão e formato
+- preservar tema, enunciado, eixo decisório e gabarito
+- deixar as erradas plausíveis, mas incorretas ou menos adequadas
+- evitar alternativas caricatas ou obviamente descartáveis
+
+REGRAS CRÍTICAS:
+- NÃO altere o enunciado
+- NÃO altere o gabarito
+- NÃO mude o tema central da questão
+- NÃO invente detalhe técnico não sustentado pelo enunciado
+- mantenha todas as alternativas na mesma categoria lógica
+- evite rótulos secos quando for possível escrever algo mais informativo
+- a alternativa correta não pode ficar nitidamente mais longa ou mais específica que as demais
+- se a reescrita segura não for possível, marque `rewrite_status` como `manual_review`
+
+FORMATO DE SAÍDA:
+Responda APENAS com JSON válido, no formato:
+[
+  {
+    "id": 123,
+    "rewrite_status": "rewritten",
+    "rewrite_version": 1,
+    "rewritten_alternatives": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "answer_changed": false,
+    "risk_flags": [],
+    "rewrite_notes": [
+      "frase curta explicando a reescrita"
+    ]
+  }
+]
+
+QUESTÕES:
+[
+  {
+    "id": 7023,
+    "area": "Cirurgia",
+    "tema": "Hérnias Complicadas - Hérnia de Littre",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 45 anos procura o pronto-socorro com dor súbita e abaulamento irredutível na região inguinal direita. Nega náuseas ou vômitos, mas refere dor intensa e localizada. Durante a laparotomia exploradora, uma hérnia inguinal direita é identificada. Dentro do saco herniário, encontra-se um divertículo de Meckel estrangulado, com sinais de isquemia e necrose, sem outras alças intestinais envolvidas. Qual o diagnóstico específico dessa hérnia?",
+    "original_alternatives": {
+      "A": "Hérnia de Amyand.",
+      "B": "Hérnia de Richter.",
+      "C": "Hérnia de Littre.",
+      "D": "Hérnia de Garengeot.",
+      "E": "Hérnia de Spiegel."
+    },
+    "gabarito": "C",
+    "original_comment": "A hérnia de Littre é caracterizada pela presença de um divertículo de Meckel dentro do saco herniário. No caso descrito, o divertículo de Meckel está estrangulado e isquêmico, confirmando o diagnóstico. \nA: Hérnia de Amyand é a presença do apêndice cecal no saco herniário inguinal. \nB: Hérnia de Richter é quando apenas uma parte da circunferência da parede intestinal é encarcerada ou estrangulada, sem obstrução completa do lúmen. \nD: Hérnia de Garengeot é a presença do apêndice cecal em um saco herniário femoral. \nE: Hérnia de Spiegel é uma hérnia ventral lateral que ocorre através da linha semilunar de Spiegel.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 18,
+        "C": 17,
+        "D": 20,
+        "E": 18
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7034,
+    "area": "Cirurgia",
+    "tema": "Anatomia cirúrgica e manobras",
+    "dificuldade": "Média",
+    "enunciado": "Durante uma laparotomia exploradora para trauma abdominal, o cirurgião decide mobilizar o cólon direito para inspecionar o retroperitônio. Qual manobra cirúrgica permite a exposição do rim direito, ureter e vasos gonadais, mobilizando o cólon ascendente e o duodeno?",
+    "original_alternatives": {
+      "A": "Manobra de Kocher.",
+      "B": "Manobra de Mattox.",
+      "C": "Manobra de Cattell-Braasch.",
+      "D": "Manobra de Pringle.",
+      "E": "Manobra de Roux."
+    },
+    "gabarito": "C",
+    "original_comment": "A manobra de Cattell-Braasch envolve a mobilização do cólon ascendente e do duodeno, permitindo a exposição do retroperitônio direito, incluindo o rim direito, ureter e vasos gonadais. A manobra de Kocher mobiliza apenas o duodeno e a cabeça do pâncreas. A manobra de Mattox mobiliza o cólon esquerdo e o baço para expor o retroperitônio esquerdo. A manobra de Pringle é o clampeamento do pedículo hepático. A manobra de Roux refere-se a uma alça de intestino em Y.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 18,
+        "C": 27,
+        "D": 19,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7036,
+    "area": "Cirurgia | Pediatria",
+    "tema": "Divertículo de Meckel",
+    "dificuldade": "Média",
+    "enunciado": "Uma criança de 3 anos de idade é levada ao pronto-socorro com sangramento retal indolor, vermelho vivo, em grande quantidade, há 1 dia. Não há história de trauma ou uso de medicamentos. Exame físico sem alterações significativas, exceto palidez cutâneo-mucosa. Hemoglobina de 8,0 g/dL. A cintilografia com tecnécio-99m pertecnetato revela captação anômala em fossa ilíaca direita. Qual é a causa mais provável do sangramento neste caso?",
+    "original_alternatives": {
+      "A": "Pólipo juvenil.",
+      "B": "Divertículo de Meckel com mucosa gástrica ectópica.",
+      "C": "Intussuscepção.",
+      "D": "Colite infecciosa.",
+      "E": "Angiodisplasia."
+    },
+    "gabarito": "B",
+    "original_comment": "O quadro de sangramento retal indolor, vermelho vivo em criança, associado a palidez e anemia, e um exame de cintilografia com tecnécio-99m pertecnetato positivo em fossa ilíaca direita, é altamente sugestivo de Divertículo de Meckel com mucosa gástrica ectópica. A mucosa gástrica ectópica produz ácido, levando à ulceração da mucosa intestinal adjacente e sangramento. Pólipos juvenis também causam sangramento indolor, mas a cintilografia é mais específica para tecido gástrico ectópico. Intussuscepção geralmente causa dor abdominal, massa palpável e fezes em 'geleia de framboesa'. Colite infecciosa cursa com dor, diarreia e febre. Angiodisplasia é mais comum em idosos.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 7,
+        "C": 1,
+        "D": 2,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 15,
+        "B": 51,
+        "C": 15,
+        "D": 18,
+        "E": 15
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7041,
+    "area": "Cirurgia",
+    "tema": "Carcinoma espinocelular de laringe - Estadiamento TNM",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 62 anos, tabagista e etilista crônico, é diagnosticado com carcinoma espinocelular de laringe. A laringoscopia revela uma lesão ulcerovegetante que ocupa toda a prega vocal direita, estendendo-se para a comissura anterior e fixando a prega. Não há evidência de metástase linfonodal cervical ou à distância. De acordo com a classificação TNM para câncer de laringe (8ª edição AJCC), qual o estadiamento T mais adequado para este caso?",
+    "original_alternatives": {
+      "A": "T1a",
+      "B": "T1b",
+      "C": "T2",
+      "D": "T3",
+      "E": "T4a"
+    },
+    "gabarito": "D",
+    "original_comment": "O estadiamento T para câncer de laringe glótica é crucial. T1a se refere a tumor limitado a uma prega vocal, com mobilidade normal. T1b é tumor que envolve ambas as pregas vocais, com mobilidade normal. T2 é tumor que se estende para a supraglote e/ou subglote, e/ou com mobilidade da prega vocal comprometida. T3 é tumor limitado à laringe com fixação da prega vocal e/ou invasão do espaço paraglótico e/ou invasão da cortical interna da cartilagem tireoide. T4a é tumor que invade a cartilagem tireoide através da cortical externa, e/ou tecidos extralaríngeos (traqueia, tecidos moles do pescoço, tireoide, esôfago). No caso apresentado, a lesão ocupa toda a prega vocal direita, estendendo-se para a comissura anterior e, mais importante, FIXA a prega vocal. A fixação da prega vocal, mesmo sem invasão extralaríngea, já classifica o tumor como T3.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 3,
+        "B": 3,
+        "C": 2,
+        "D": 2,
+        "E": 3
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7049,
+    "area": "Cirurgia",
+    "tema": "Neoplasias de Glândulas Salivares",
+    "dificuldade": "Fácil",
+    "enunciado": "Durante a avaliação de um paciente com aumento de volume na região submandibular, a biópsia excisional de uma glândula salivar maior revelou uma neoplasia benigna. Qual das seguintes é a neoplasia benigna mais comum das glândulas salivares maiores?",
+    "original_alternatives": {
+      "A": "Adenoma pleomórfico.",
+      "B": "Tumor de Warthin.",
+      "C": "Adenoma monomórfico.",
+      "D": "Oncocitoma.",
+      "E": "Cisto linfoepitelial."
+    },
+    "gabarito": "A",
+    "original_comment": "O adenoma pleomórfico (ou tumor misto) é a neoplasia benigna mais comum das glândulas salivares, representando cerca de 60-70% de todos os tumores de glândulas salivares e a grande maioria dos tumores benignos das glândulas maiores (parótida, submandibular). O tumor de Warthin é o segundo mais comum, mas predominantemente na parótida. As outras opções são menos frequentes.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 2,
+        "D": 1,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 20,
+        "B": 17,
+        "C": 20,
+        "D": 11,
+        "E": 21
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7054,
+    "area": "Cirurgia",
+    "tema": "Tumores do Corpo Carotídeo e Anatomia Cervical",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente apresenta uma massa pulsátil e indolor na região lateral do pescoço, no triângulo carotídeo, que se move lateralmente mas não verticalmente à deglutição (sinal de Fontaine). A investigação por imagem sugere um tumor do corpo carotídeo. Em relação à anatomia e manejo dessa afecção, qual das seguintes estruturas está intimamente associada e sob risco durante a ressecção cirúrgica?",
+    "original_alternatives": {
+      "A": "Nervo frênico.",
+      "B": "Nervo laríngeo recorrente.",
+      "C": "Nervo vago.",
+      "D": "Nervo acessório (XI par craniano).",
+      "E": "Plexo braquial."
+    },
+    "gabarito": "C",
+    "original_comment": "O tumor do corpo carotídeo (paraganglioma) origina-se na bifurcação da artéria carótida comum, dentro da bainha carotídea. As estruturas contidas na bainha carotídea são a artéria carótida comum (e suas divisões), a veia jugular interna e o nervo vago (X par craniano). O nervo vago, portanto, está em íntima relação com o tumor e a artéria carótida, sendo uma das estruturas mais vulneráveis à lesão durante a ressecção. O nervo frênico (A) está mais lateral e anterior ao músculo escaleno anterior. O nervo laríngeo recorrente (B) está na traqueia/esôfago, medialmente. O nervo acessório (D) cruza o triângulo posterior. O plexo braquial (E) está mais posterior e inferior no pescoço.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 2,
+        "D": 5,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 14,
+        "B": 26,
+        "C": 11,
+        "D": 34,
+        "E": 15
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7060,
+    "area": "Clínica Médica",
+    "tema": "Disfagia, Etiologia",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma paciente de 48 anos procura o médico com queixa de dificuldade para engolir alimentos sólidos e, ocasionalmente, líquidos, acompanhada de pirose e regurgitação frequente. Ela relata que os sintomas são piores após refeições volumosas e ao deitar-se. Qual a causa mais comum de disfagia nesta apresentação?",
+    "original_alternatives": {
+      "A": "Acalasia.",
+      "B": "Esofagite eosinofílica.",
+      "C": "Doença do Refluxo Gastroesofágico (DRGE).",
+      "D": "Câncer de esôfago.",
+      "E": "Espasmo esofágico difuso."
+    },
+    "gabarito": "C",
+    "original_comment": "A Doença do Refluxo Gastroesofágico (DRGE) é a causa mais comum de disfagia, especialmente quando associada a pirose e regurgitação. A inflamação crônica do esôfago pelo refluxo ácido pode levar a estenoses e dismotilidade, causando dificuldade para engolir. Acalasia (A) e espasmo esofágico difuso (E) são distúrbios de motilidade, mas a DRGE é mais prevalente. Esofagite eosinofílica (B) é uma causa importante, mas menos comum que DRGE. Câncer de esôfago (D) deve ser investigado em disfagia progressiva, mas a DRGE é a causa mais prevalente em geral.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 2,
+        "C": 5,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 9,
+        "B": 23,
+        "C": 41,
+        "D": 18,
+        "E": 25
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7074,
+    "area": "Clínica Médica",
+    "tema": "Tromboembolismo Pulmonar (TEP)",
+    "dificuldade": "Média",
+    "enunciado": "Paciente de 55 anos, obesa, tabagista, com histórico de cirurgia ortopédica em joelho há 10 dias, procura o pronto-socorro com dispneia súbita, dor torácica pleurítica e tosse seca. Ao exame físico, apresenta-se taquipneica (FR 26 irpm), taquicárdica (FC 115 bpm), SpO2 90% em ar ambiente, PA 110/70 mmHg. Ausculta pulmonar sem alterações. ECG com taquicardia sinusal e inversão de onda T em V1-V3. Qual o exame mais indicado para confirmar a principal hipótese diagnóstica neste caso?",
+    "original_alternatives": {
+      "A": "Radiografia de tórax.",
+      "B": "Angiotomografia de tórax (Angio-TC).",
+      "C": "Dímero-D.",
+      "D": "Ecocardiograma transtorácico.",
+      "E": "Gasometria arterial."
+    },
+    "gabarito": "B",
+    "original_comment": "O paciente apresenta múltiplos fatores de risco para tromboembolismo pulmonar (TEP): obesidade, tabagismo, cirurgia recente (imobilização) e quadro clínico clássico de dispneia súbita, dor torácica pleurítica, taquipneia, taquicardia e hipoxemia. O ECG com taquicardia sinusal e alterações de onda T pode ser compatível. A angiotomografia de tórax (Angio-TC) é o padrão-ouro para o diagnóstico de TEP, permitindo a visualização direta dos trombos nas artérias pulmonares. A radiografia de tórax costuma ser normal no TEP. O Dímero-D é útil para excluir TEP em pacientes com baixa probabilidade clínica, mas não para confirmar em alta probabilidade. Ecocardiograma e gasometria arterial fornecem informações indiretas, mas não são diagnósticas.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 4,
+        "C": 1,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 21,
+        "B": 36,
+        "C": 9,
+        "D": 29,
+        "E": 20
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7077,
+    "area": "Cirurgia",
+    "tema": "Retalhos cirúrgicos",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente jovem sofreu uma lesão traumática extensa com perda de substância na região torácica anterior, necessitando de reconstrução complexa. A equipe cirúrgica opta por um retalho pediculado que inclua pele, tecido subcutâneo e fáscia profunda, mas sem envolver músculo. Qual o tipo de retalho mais adequado a essa descrição?",
+    "original_alternatives": {
+      "A": "Musculocutâneo",
+      "B": "Fasciocutâneo",
+      "C": "Cutâneo direto",
+      "D": "Ósseo",
+      "E": "Miocutâneo"
+    },
+    "gabarito": "B",
+    "original_comment": "Retalhos fasciocutâneos são compostos por pele, tecido subcutâneo e a fáscia profunda subjacente, sendo vascularizados por vasos que perfuram a fáscia. São ideais para cobrir defeitos que exigem volume e vascularização robusta sem a necessidade de sacrificar um músculo. Retalhos musculocutâneos (ou miocutâneos) incluem músculo, enquanto retalhos cutâneos diretos são mais superficiais e geralmente não incluem fáscia profunda. Retalhos ósseos são para reconstrução óssea.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 14,
+        "B": 13,
+        "C": 14,
+        "D": 5,
+        "E": 10
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7078,
+    "area": "Cirurgia",
+    "tema": "Anatomia cirúrgica do tórax",
+    "dificuldade": "Média",
+    "enunciado": "Em um procedimento de revascularização do miocárdio, a artéria torácica interna (mamária interna) é frequentemente escolhida como enxerto devido à sua durabilidade e patência. Qual é a principal origem desta artéria?",
+    "original_alternatives": {
+      "A": "Artéria subclávia",
+      "B": "Artéria axilar",
+      "C": "Artéria braquial",
+      "D": "Artéria carótida comum",
+      "E": "Artéria intercostal superior"
+    },
+    "gabarito": "A",
+    "original_comment": "A artéria torácica interna (mamária interna) é um ramo direto da artéria subclávia, no seu primeiro segmento. Ela desce na parede torácica anterior, lateralmente ao esterno, e é uma fonte vascular crucial para enxertos em cirurgia cardíaca e para retalhos de mama. As outras alternativas não correspondem à origem correta.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 14,
+        "C": 16,
+        "D": 22,
+        "E": 28
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7079,
+    "area": "Clínica Médica",
+    "tema": "Anatomia vascular do ombro e tórax",
+    "dificuldade": "Fácil",
+    "enunciado": "A artéria toracoacromial é um importante vaso que supre a região peitoral e deltoide. De qual artéria principal ela se origina?",
+    "original_alternatives": {
+      "A": "Artéria subclávia",
+      "B": "Artéria axilar",
+      "C": "Artéria braquial",
+      "D": "Artéria torácica lateral",
+      "E": "Artéria torácica superior"
+    },
+    "gabarito": "B",
+    "original_comment": "A artéria toracoacromial é um ramo da artéria axilar, geralmente originando-se do seu segundo segmento, medialmente ao músculo peitoral menor. Ela se ramifica em ramos peitoral, deltoide, acromial e clavicular, irrigando as estruturas correspondentes.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 14,
+        "C": 16,
+        "D": 24,
+        "E": 25
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7080,
+    "area": "Cirurgia",
+    "tema": "Reconstrução mamária",
+    "dificuldade": "Difícil",
+    "enunciado": "Uma paciente submetida a mastectomia radical por câncer de mama busca reconstrução. O cirurgião plástico planeja um retalho livre microcirúrgico para restaurar o volume mamário. Qual das seguintes artérias é frequentemente utilizada como vaso receptor para a anastomose microcirúrgica na parede torácica para um retalho abdominal (e.g., DIEP)?",
+    "original_alternatives": {
+      "A": "Artéria torácica lateral",
+      "B": "Artéria torácica interna (mamária interna)",
+      "C": "Artéria intercostal posterior",
+      "D": "Artéria axilar",
+      "E": "Artéria toracoacromial"
+    },
+    "gabarito": "B",
+    "original_comment": "A artéria torácica interna (mamária interna) e suas veias comitantes são frequentemente utilizadas como vasos receptores para retalhos livres em reconstrução mamária, especialmente para retalhos baseados em perfurantes abdominais (como o DIEP), devido à sua localização próxima ao sítio da mama e ao seu calibre adequado para anastomoses microcirúrgicas. As outras artérias listadas não são as escolhas primárias para essa finalidade específica.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 5,
+        "C": 3,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 24,
+        "B": 42,
+        "C": 29,
+        "D": 14,
+        "E": 22
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7081,
+    "area": "Clínica Médica",
+    "tema": "Doença arterial coronariana",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 65 anos apresenta dor torácica típica de angina pectoris. Após exames, é diagnosticado com doença arterial coronariana multiarterial grave. Considerando as opções de revascularização, qual das seguintes artérias é reconhecidamente o enxerto de escolha para a artéria descendente anterior esquerda devido à sua superior patência a longo prazo?",
+    "original_alternatives": {
+      "A": "Artéria radial",
+      "B": "Artéria gastroepiplóica direita",
+      "C": "Artéria torácica interna esquerda",
+      "D": "Veia safena magna",
+      "E": "Artéria ulnar"
+    },
+    "gabarito": "C",
+    "original_comment": "A artéria torácica interna esquerda (LIMA - Left Internal Mammary Artery) é o enxerto de escolha para a artéria descendente anterior esquerda (DA) em cirurgia de revascularização do miocárdio, devido à sua excelente patência a longo prazo, superior à de outros enxertos, incluindo a veia safena magna.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 4,
+        "D": 3,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 14,
+        "B": 31,
+        "C": 33,
+        "D": 17,
+        "E": 13
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7084,
+    "area": "Cirurgia",
+    "tema": "Anatomia de superfície e reparos",
+    "dificuldade": "Média",
+    "enunciado": "Ao planejar um retalho de músculo peitoral maior para reconstrução de cabeça e pescoço, o cirurgião deve ter conhecimento da principal artéria que irriga este músculo. Qual das seguintes artérias é a mais relevante para a vascularização do músculo peitoral maior, especialmente para a confecção de retalhos?",
+    "original_alternatives": {
+      "A": "Artéria torácica lateral",
+      "B": "Artéria torácica superior",
+      "C": "Artéria toracoacromial (ramo peitoral)",
+      "D": "Artéria subclávia",
+      "E": "Artéria intercostal anterior"
+    },
+    "gabarito": "C",
+    "original_comment": "A artéria toracoacromial, especificamente seu ramo peitoral, é a principal fonte vascular para o músculo peitoral maior e é crucial para a confecção de retalhos musculocutâneos ou musculares baseados neste músculo.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 4,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 24,
+        "B": 25,
+        "C": 38,
+        "D": 17,
+        "E": 28
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7087,
+    "area": "Clínica Médica",
+    "tema": "Neuroanatomia",
+    "dificuldade": "Média",
+    "enunciado": "O nervo musculocutâneo é um ramo do plexo braquial. Qual é a principal função motora deste nervo?",
+    "original_alternatives": {
+      "A": "Extensão do punho",
+      "B": "Flexão do cotovelo e supinação do antebraço",
+      "C": "Abdução do ombro",
+      "D": "Extensão dos dedos",
+      "E": "Adução do braço"
+    },
+    "gabarito": "B",
+    "original_comment": "O nervo musculocutâneo inerva os músculos do compartimento anterior do braço (bíceps braquial, braquial e coracobraquial), sendo responsável pela flexão do cotovelo e pela supinação do antebraço.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 7,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 43,
+        "C": 16,
+        "D": 18,
+        "E": 15
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7088,
+    "area": "Cirurgia",
+    "tema": "Microcirurgia reconstrutiva",
+    "dificuldade": "Difícil",
+    "enunciado": "Em uma reconstrução de defeito complexo na face, um retalho livre é planejado. O cirurgião está avaliando qual vaso receptor na região cervical ou facial seria mais adequado. Qual das seguintes artérias é comumente utilizada como vaso receptor na região cervical para anastomose de retalhos livres?",
+    "original_alternatives": {
+      "A": "Artéria carótida comum",
+      "B": "Artéria temporal superficial",
+      "C": "Artéria facial",
+      "D": "Artéria tireóidea superior",
+      "E": "Artéria torácica interna"
+    },
+    "gabarito": "B",
+    "original_comment": "A artéria temporal superficial é um vaso receptor frequentemente utilizado em reconstruções microcirúrgicas da face e couro cabeludo devido à sua localização superficial, calibre adequado e acessibilidade. A artéria facial também pode ser usada, mas a temporal superficial é muitas vezes preferida. A artéria carótida comum é um vaso principal e não é usada como receptor de rotina. A artéria tireóidea superior e a torácica interna estão em outras regiões.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 2,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 22,
+        "B": 28,
+        "C": 14,
+        "D": 26,
+        "E": 24
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7089,
+    "area": "Clínica Médica",
+    "tema": "Exame físico do tórax",
+    "dificuldade": "Fácil",
+    "enunciado": "Durante o exame físico de um paciente com suspeita de derrame pleural, a percussão do tórax revela um som maciço. Qual achado semiológico é tipicamente associado à percussão de uma área com acúmulo de líquido no espaço pleural?",
+    "original_alternatives": {
+      "A": "Som timpânico",
+      "B": "Som claro pulmonar",
+      "C": "Som maciço",
+      "D": "Som submaciço",
+      "E": "Som hiper-ressonante"
+    },
+    "gabarito": "C",
+    "original_comment": "A percussão de uma área com acúmulo de líquido (como no derrame pleural) ou consolidação (como na pneumonia) no espaço pleural produz um som maciço. O som timpânico é associado a ar em cavidades (como pneumotórax ou abdome distendido), o claro pulmonar é o som normal do pulmão sadio, o submaciço é intermediário e o hiper-ressonante é associado a excesso de ar (como enfisema ou pneumotórax).",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 13,
+        "B": 18,
+        "C": 10,
+        "D": 13,
+        "E": 20
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7092,
+    "area": "Pediatria",
+    "tema": "Anomalias da parede torácica",
+    "dificuldade": "Fácil",
+    "enunciado": "Qual das seguintes anomalias congênitas da parede torácica é caracterizada por uma depressão do esterno e das cartilagens costais, resultando em uma concavidade no tórax anterior?",
+    "original_alternatives": {
+      "A": "Pectus carinatum",
+      "B": "Pectus excavatum",
+      "C": "Síndrome de Poland",
+      "D": "Escoliose",
+      "E": "Cifose"
+    },
+    "gabarito": "B",
+    "original_comment": "Pectus excavatum, ou tórax em funil, é uma deformidade congênita da parede torácica caracterizada pela depressão do esterno e das cartilagens costais, resultando em uma concavidade. Pectus carinatum é o oposto (tórax em quilha). Síndrome de Poland é uma agenesia muscular e óssea unilateral. Escoliose e cifose são deformidades da coluna.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 3,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 16,
+        "B": 16,
+        "C": 18,
+        "D": 9,
+        "E": 6
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7093,
+    "area": "Cirurgia",
+    "tema": "Hérnias da parede abdominal",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 55 anos apresenta uma massa redutível na região inguinal direita. O exame físico revela que a massa protrui medialmente aos vasos epigástricos inferiores e diretamente através do triângulo de Hesselbach. Qual o tipo de hérnia inguinal mais provável?",
+    "original_alternatives": {
+      "A": "Hérnia inguinal indireta",
+      "B": "Hérnia inguinal direta",
+      "C": "Hérnia femoral",
+      "D": "Hérnia umbilical",
+      "E": "Hérnia incisional"
+    },
+    "gabarito": "B",
+    "original_comment": "Hérnias inguinais diretas protruem medialmente aos vasos epigástricos inferiores, através de uma fraqueza na parede posterior do canal inguinal (triângulo de Hesselbach). Hérnias inguinais indiretas protruem lateralmente aos vasos epigástricos inferiores, através do anel inguinal profundo.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 24,
+        "B": 22,
+        "C": 14,
+        "D": 16,
+        "E": 17
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7095,
+    "area": "Cirurgia",
+    "tema": "Trauma torácico",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente vítima de acidente automobilístico chega ao pronto-socorro com dor torácica intensa, dispneia e instabilidade hemodinâmica. Ao exame físico, apresenta desvio da traqueia para o lado contralateral da lesão, distensão das veias do pescoço e ausência de murmúrio vesicular no hemitórax afetado. Qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Hemotórax maciço",
+      "B": "Contusão pulmonar",
+      "C": "Pneumotórax hipertensivo",
+      "D": "Fratura de costelas múltiplas",
+      "E": "Tamponamento cardíaco"
+    },
+    "gabarito": "C",
+    "original_comment": "A tríade de desvio de traqueia, distensão de veias do pescoço e ausência de murmúrio vesicular no hemitórax afetado, na presença de instabilidade hemodinâmica e dispneia, é clássica do pneumotórax hipertensivo, uma emergência médica que requer descompressão imediata.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 4,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 16,
+        "B": 17,
+        "C": 24,
+        "D": 29,
+        "E": 21
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  }
+]

@@ -1,0 +1,1286 @@
+[
+    {
+        "name": "Revalida INEP - Provas e Gabaritos",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos"
+    },
+    {
+        "name": "Revalida INEP - 2024",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2024",
+        "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2024"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2023"
+    },
+    {
+        "name": "ENARE - Provas 2023/2024",
+        "institution": "EBSERH",
+        "exam": "ENARE",
+        "year": "2023-2024",
+        "url": "https://www.gov.br/ebserh/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2023-2024/provas"
+    },
+    {
+        "name": "ENARE - Provas 2021/2022",
+        "institution": "EBSERH",
+        "exam": "ENARE",
+        "year": "2021-2022",
+        "url": "https://www.gov.br/ebserh/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas"
+    },
+    {
+        "name": "ENARE - Provas 2020/2021",
+        "institution": "EBSERH",
+        "exam": "ENARE",
+        "year": "2020-2021",
+        "url": "https://www.gov.br/ebserh/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2020-2021/provas"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "url": "https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+    },
+    {
+        "name": "FHEMIG - Processo Seletivo Residências",
+        "institution": "FHEMIG",
+        "exam": "Residência Médica",
+        "url": "https://www.fhemig.mg.gov.br/ensino-e-pesquisa/processo-seletivo-residencias-fhemig"
+    },
+    {
+        "name": "INTO - Residência Médica 2025/2026",
+        "institution": "INTO / Ministério da Saúde",
+        "exam": "Residência Médica",
+        "url": "https://www.into.saude.gov.br/ensino/residencia/medica?id=1156&layout=edit"
+    },
+    {
+        "name": "HU-UFSC - Gabaritos e Resultados",
+        "institution": "Ebserh / HU-UFSC",
+        "exam": "Residência Médica",
+        "url": "https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-sul/hu-ufsc/comunicacao/noticias/confira-os-gabaritos-das-provas-para-residencia-medica-em-duas-especialidades-no-hu"
+    },
+    {
+        "name": "Franca - Residência Médica 2025",
+        "institution": "Prefeitura de Franca",
+        "exam": "Residência Médica",
+        "year": "2025",
+        "url": "https://www3.franca.sp.gov.br/noticia/21286/sade-divulga-gabarito-do-programa-residncia-mdica.html"
+    },
+    {
+        "name": "Franca - Residência Médica 2026",
+        "institution": "Prefeitura de Franca",
+        "exam": "Residência Médica",
+        "year": "2026",
+        "url": "https://www3.franca.sp.gov.br/noticia/37837/sade-divulga-gabarito-da-prova-objetiva-da-residncia-mdica.html"
+    },
+    {
+        "name": "Macaé - Residência Médica 2026",
+        "institution": "Prefeitura de Macaé",
+        "exam": "Residência Médica",
+        "year": "2026",
+        "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/pss-gabarito-das-provas-de-residencia-medica-disponivel-no-portal-da-prefeitura"
+    },
+    {
+        "name": "EMSERH - Residência Médica",
+        "institution": "EMSERH",
+        "exam": "Residência Médica",
+        "url": "https://www.emserh.ma.gov.br/emserh-realiza-seletivo-para-residencia-medica/"
+    },
+    {
+        "name": "Revalida INEP - Provas e Gabaritos",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": null,
+        "url": "https://www.gov.br",
+        "source": "discovered"
+    },
+    {
+        "name": "Revalida INEP - Provas e Gabaritos",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": null,
+        "url": "https://www.gov.br/inep/pt-br",
+        "source": "discovered"
+    },
+    {
+        "name": "Revalida INEP - Provas e Gabaritos",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": null,
+        "url": "https://www.gov.br/inep/pt-br/search",
+        "source": "discovered"
+    },
+    {
+        "name": "Revalida INEP - Provas e Gabaritos",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": null,
+        "url": "https://www.gov.br/inep/pt-br/acesso-a-informacao",
+        "source": "discovered"
+    },
+    {
+        "name": "Revalida INEP - 2024",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2024",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2024_2_prova_habilidades_clinicas.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2024",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2024",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/revalida_2024_2_pep_definitivo.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2024",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2024",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2024_2_PV_objetiva_regular.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2024",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2024",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2024_2_GB_objetiva.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2024",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2024",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2024_2_PV_discursiva_regular.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2024",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2024",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2024_2_PEP_discursiva_versao_final.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2024",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2024",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2024_1_prova_habilidades_clinicas.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2024",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2024",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2024_1_PEP_publicacao.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2024",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2024",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2024_1_PV_objetiva_regular.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2024",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2024",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2024_1_GB_objetiva.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2024",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2024",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2024_1_PV_discursiva_regular.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2024",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2024",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2024_1_PEP_discursiva.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2023_2_prova_habilidades_clinicas.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/PEP_2023_2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2023_2_PV_objetiva_regular.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2023_2_PV_objetiva_ampliada.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2023_2_GB_objetiva.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2023_2_PV_discursiva_regular.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2023_2_PV_discursiva_ampliada.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2023_2_PEP_discursiva.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2023_1_prova_habilidades_clinicas.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2023_1_PEP_publicacao.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2023_1_PV_objetiva_regular.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2023_1_PV_objetiva_ampliada.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2023_1_GB_objetiva_definitivo.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2023_1_PV_discursiva_regular.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2023_1_PV_discursiva_ampliada.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://download.inep.gov.br/revalida/provas_e_gabaritos/2023_1_PEP_discursiva_definitivo.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "ENARE - Provas 2023/2024",
+        "institution": "EBSERH",
+        "exam": "ENARE",
+        "year": "2023-2024",
+        "url": "https://www.gov.br/hubrasil/pt-br",
+        "source": "discovered"
+    },
+    {
+        "name": "ENARE - Provas 2023/2024",
+        "institution": "EBSERH",
+        "exam": "ENARE",
+        "year": "2023-2024",
+        "url": "https://www.gov.br/hubrasil/pt-br/search",
+        "source": "discovered"
+    },
+    {
+        "name": "ENARE - Provas 2023/2024",
+        "institution": "EBSERH",
+        "exam": "ENARE",
+        "year": "2023-2024",
+        "url": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios",
+        "source": "discovered"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/residencia-medica-provas-e-gabarito",
+        "source": "discovered"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/provao2026-resolucao.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/provao2026_chamada_1.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/provao2026_chamada_2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/provao2026_chamada_3.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-AD1-areasbasicas-acessodireto.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-AD2-areasbasicas-acessodireto.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-AD3-areasbasicas-acessodireto.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-gabarito-AD-areasbasicas-acessodireto-retificado.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-ECM-especialidades-clinicas.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-gabarito-ECM-especialidades-clinicas-retificado.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-EPD-especialidades-pediatricas-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-gabarito-EPD-especialidades-pediatricas-retificado.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-EC1-especialidadescirurgicas-aparelhodigestivo.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-EC2-especialidadescirurgicas-pediatrica.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-EC3-especialidadescirurgicas-plastica.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-EC4-especialidadescirurgicas-toracica.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-EC5-especialidadescirurgicas-vascular.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-EC6-especialidadescirurgicas-coloproctologia.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-EC7-especialidadescirurgicas-urologia.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-gabarito-EC-especialidades-cirurgicas-retificado.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-E01-especialidades-mao.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-E02-especialidades-cabecaepescoco.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-E03-especialidades-endoscopia.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-E04-especialidades-mastologia.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-E05-especialidades-nutrologia-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-gabarito-E0-especialidades-retificado.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-AA1-anosadicionais-clinicamedica-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-AA2-anosadicionais-obstetriciaeginecologia-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-AA3-anosadicionais-patologiaclinica.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-AA4-anosadicionais-medicinanuclear.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-AA5-anosadicionais-endocrinologia.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-AA8-anosadicionais-psiquiatria.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-AA9-anosadicionais-neurologia.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-gabarito-AA-anosadicionais-retificado.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A01-areasatuacoes-medicinasono.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A02-areasatuacoes-endoscopiaginecologica-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A03-areasatuacoes-dor-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A04-areasatuacoes-endoscopiadigestiva-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A05-areasatuacoes-medicinapaliativa.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A06-areasatuacoes-medicinatropical.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A07-areasatuacoes-hepatologia-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A09-areasatuacoes-medicinafetal-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A10-areasatuacoes-psiquiatriainfanciaeadolescencia-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A11-areasatuacoes-psiquiatriaforense-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A13-areasatuacoes-txcoracao-cardiologia-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A14-areasatuacoes-txpulmao-cirurgiatoracica.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A15-areasatuacoes-txfigado-aparelhodigestivo-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A16-areasatuacoes-txfigado-cirurgiapediatrica-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A17-areasatuacoes-psicogeriatria.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A19-areasatuacoes-cirurgiageral-programavancado.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A20-areasatuacoes-txrim-nefrologia.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A22-areasatuacoes-neurofisiologiaclinica.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A24-areasatuacoes-txmedulaossea-hematologiahemoterapia.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A25-areasatuacoes-eletrofisiologiaclinicainvasiva-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A26-areasatuacoes-hemodinamica.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A27-areasatuacoes-cirurgiavideolaparoscopica.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A28-areasatuacoes-psicoterapia-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A29-areasatuacoes-neurorradiologia.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A30-areasatuacoes-txcornea-oftalmologia.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A31-areasatuacoes-cardiooncologia-v2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-prova-A32-areasatuacoes-reproducaoassistida.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/rm2026-gabarito-A-areasatuacoes-retificado.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br",
+        "source": "discovered"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/vestibular-da-usp",
+        "source": "discovered"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026_guia-provas.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-1fase-locais-prova.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-fase1-gabarito.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-fase2-locais-prova.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-fase2-dia1-prova.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-fase2-dia1-respostas-esperadas.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-fase2-dia1-abordagem-esperada-redacao.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-fase2-dia2-prova.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-chamada-1-notas-minimas.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-chamada-2-notas-minimas.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-chamada-3-notas-minimas.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026_prova_artes-cenicas.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026_prova_artes-visuais.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026_prova_musica.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026_regulamento-simulado-1fase.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-simulado-fase1-prova-S1.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-simulado-fase1-prova-S2.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-simulado-fase1-prova-S3.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-simulado-fase1-prova-S4.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-simulado-fase1-gabarito.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/graduacao",
+        "source": "discovered"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/simulado",
+        "source": "discovered"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/simulado2027-1edicao-regulamento-simulado.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fuvest.br/wp-content/uploads/simulado2027-1edicao-locais-prova.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FHEMIG - Processo Seletivo Residências",
+        "institution": "FHEMIG",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fhemig.mg.gov.br/files/3499/Selecao-Complementar -vaga-remanescente---Residencia-Medica-2026/39013/Gabarito.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FHEMIG - Processo Seletivo Residências",
+        "institution": "FHEMIG",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fhemig.mg.gov.br/files/2764/Processo-vaga-remanescente---Residencia-em-saude -| -12024/29595/Processo-Selecao-complementar-Residencia-Medica--Errata-1.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FHEMIG - Processo Seletivo Residências",
+        "institution": "FHEMIG",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fhemig.mg.gov.br/files/2764/Processo-vaga-remanescente---Residencia-em-saude -| -12024/29596/Processo-Selecao-complementar-Residencia-Medica---Adendo-1.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FHEMIG - Processo Seletivo Residências",
+        "institution": "FHEMIG",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fhemig.mg.gov.br/files/2370/Processo-vaga-remanescente---Residencia-Medica -| -12023/23183/Complementar---Inscritos-e-Local-de-Prova.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FHEMIG - Processo Seletivo Residências",
+        "institution": "FHEMIG",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fhemig.mg.gov.br/files/2370/Processo-vaga-remanescente---Residencia-Medica -| -12023/23231/GABARITO-PROCESSO-SELETIVO-COMPLEMENTAR-2023-OFICIAL.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "FHEMIG - Processo Seletivo Residências",
+        "institution": "FHEMIG",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fhemig.mg.gov.br/perguntas-frequentes",
+        "source": "discovered"
+    },
+    {
+        "name": "FHEMIG - Processo Seletivo Residências",
+        "institution": "FHEMIG",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fhemig.mg.gov.br/fale-conosco",
+        "source": "discovered"
+    },
+    {
+        "name": "FHEMIG - Processo Seletivo Residências",
+        "institution": "FHEMIG",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fhemig.mg.gov.br/auditoria",
+        "source": "discovered"
+    },
+    {
+        "name": "FHEMIG - Processo Seletivo Residências",
+        "institution": "FHEMIG",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.fhemig.mg.gov.br/ouvidoria",
+        "source": "discovered"
+    },
+    {
+        "name": "INTO - Residência Médica 2025/2026",
+        "institution": "INTO / Ministério da Saúde",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.into.saude.gov.br/ensino/residencia/medica",
+        "source": "discovered"
+    },
+    {
+        "name": "INTO - Residência Médica 2025/2026",
+        "institution": "INTO / Ministério da Saúde",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.into.saude.gov.br/acessibilidade",
+        "source": "discovered"
+    },
+    {
+        "name": "INTO - Residência Médica 2025/2026",
+        "institution": "INTO / Ministério da Saúde",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.into.saude.gov.br/mapa-do-site",
+        "source": "discovered"
+    },
+    {
+        "name": "INTO - Residência Médica 2025/2026",
+        "institution": "INTO / Ministério da Saúde",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.into.saude.gov.br",
+        "source": "discovered"
+    },
+    {
+        "name": "INTO - Residência Médica 2025/2026",
+        "institution": "INTO / Ministério da Saúde",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.into.saude.gov.br/en",
+        "source": "discovered"
+    },
+    {
+        "name": "HU-UFSC - Gabaritos e Resultados",
+        "institution": "Ebserh / HU-UFSC",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sul/hu-ufsc/comunicacao/noticias/confira-os-gabaritos-das-provas-para-residencia-medica-em-duas-especialidades-no-hu/COLOPROCTOLOGIACLASSIFICAO14.03.2021.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "HU-UFSC - Gabaritos e Resultados",
+        "institution": "Ebserh / HU-UFSC",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sul/hu-ufsc/comunicacao/noticias/confira-os-gabaritos-das-provas-para-residencia-medica-em-duas-especialidades-no-hu/HEMATOLOGIACLASSIFICAO14.03.2021.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "HU-UFSC - Gabaritos e Resultados",
+        "institution": "Ebserh / HU-UFSC",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sul/hu-ufsc/comunicacao/noticias/COLOPROCTOLOGIAPROVA14.03.2022.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "HU-UFSC - Gabaritos e Resultados",
+        "institution": "Ebserh / HU-UFSC",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sul/hu-ufsc/comunicacao/noticias/COLOPROCTOLOGIAGABARITO14.03.2022.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "HU-UFSC - Gabaritos e Resultados",
+        "institution": "Ebserh / HU-UFSC",
+        "exam": "Residência Médica",
+        "year": null,
+        "url": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sul/hu-ufsc/comunicacao/noticias/copy_of_PROVAESCRITAcomgabaritoPARAARESIDENCIAMDICAEMHEMATOLOGIAEHEMOTERAPIADOHOSPITALUNIVERSITRIOUFSC2022.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Franca - Residência Médica 2025",
+        "institution": "Prefeitura de Franca",
+        "exam": "Residência Médica",
+        "year": "2025",
+        "url": "https://www3.franca.sp.gov.br/noticia/4934/acesso-informao.html",
+        "source": "discovered"
+    },
+    {
+        "name": "Franca - Residência Médica 2025",
+        "institution": "Prefeitura de Franca",
+        "exam": "Residência Médica",
+        "year": "2025",
+        "url": "https://www3.franca.sp.gov.br/noticia/38285/prefeitura-digital-carta-de-servios.html",
+        "source": "discovered"
+    },
+    {
+        "name": "Macaé - Residência Médica 2026",
+        "institution": "Prefeitura de Macaé",
+        "exam": "Residência Médica",
+        "year": "2026",
+        "url": "https://macae.rj.gov.br/midia/conteudo/arquivos/1765153593.pdf",
+        "source": "pdf"
+    },
+    {
+        "name": "Macaé - Residência Médica 2026",
+        "institution": "Prefeitura de Macaé",
+        "exam": "Residência Médica",
+        "year": "2026",
+        "url": "https://www.macae.rj.gov.br/conteudo/leitura/titulo/acessibilidade",
+        "source": "discovered"
+    },
+    {
+        "name": "Macaé - Residência Médica 2026",
+        "institution": "Prefeitura de Macaé",
+        "exam": "Residência Médica",
+        "year": "2026",
+        "url": "https://www.macae.rj.gov.br/orgaosmunicipais",
+        "source": "discovered"
+    },
+    {
+        "name": "Macaé - Residência Médica 2026",
+        "institution": "Prefeitura de Macaé",
+        "exam": "Residência Médica",
+        "year": "2026",
+        "url": "https://www.macae.rj.gov.br/conteudo/leitura/titulo/aplicacao-visual",
+        "source": "discovered"
+    }
+]

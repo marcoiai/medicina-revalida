@@ -1,0 +1,3912 @@
+
+
+--- PAGE 1 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+1
+Administração - (Bacharelado) - Integral
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+código fuvest: 29/178
+código USP: 11090/0
+modalidade
+pontos finais
+classificação
+AC
+790,88
+3
+EP-L1
+728,20
+102
+PPI-L2
+-
+-
+EP-L3
+754,80
+36
+PPI-L4
+724,81
+112
+Administração - (Bacharelado) - Integral
+Faculdade de Economia, Administração e Contabilidade - USP
+código fuvest: 21/181
+código USP: 12012/0
+modalidade
+pontos finais
+classificação
+AC
+805,73
+11
+EP-L1
+726,26
+360
+PPI-L2
+713,56
+472
+EP-L3
+757,36
+137
+PPI-L4
+747,50
+197
+Administração - (Bacharelado) - Noturno
+Faculdade de Economia, Administração e Contabilidade de Ribeirão Preto - USP
+código fuvest: 22/151
+código USP: 81004/4
+modalidade
+pontos finais
+classificação
+AC
+796,50
+3
+EP-L1
+731,41
+88
+PPI-L2
+704,61
+190
+EP-L3
+-
+-
+PPI-L4
+722,58
+116
+Administração - (Bacharelado) - Matutino
+Faculdade de Economia, Administração e Contabilidade de Ribeirão Preto - USP
+código fuvest: 22/182
+código USP: 81004/2
+modalidade
+pontos finais
+classificação
+AC
+798,64
+4
+EP-L1
+728,03
+132
+PPI-L2
+713,13
+213
+EP-L3
+781,52
+11
+PPI-L4
+714,71
+203
+Administração - (Bacharelado) - Noturno
+Faculdade de Economia, Administração e Contabilidade - USP
+código fuvest: 21/145
+código USP: 12012/4
+modalidade
+pontos finais
+classificação
+AC
+799,27
+11
+EP-L1
+732,91
+261
+PPI-L2
+716,69
+402
+EP-L3
+762,33
+92
+PPI-L4
+743,10
+180
+Arquitetura e Urbanismo - (Bacharelado) - Integral
+Instituto de Arquitetura e Urbanismo de São Carlos - USP
+código fuvest: 31/169
+código USP: 99002/0
+modalidade
+pontos finais
+classificação
+AC
+813,42
+8
+EP-L1
+748,40
+263
+PPI-L2
+-
+-
+EP-L3
+788,10
+54
+PPI-L4
+758,76
+201
+Arquitetura e Urbanismo - (Bacharelado) - Integral
+Faculdade de Arquitetura e Urbanismo - USP
+código fuvest: 43/139
+código USP: 16011/0
+modalidade
+pontos finais
+classificação
+AC
+814,70
+17
+EP-L1
+756,50
+363
+PPI-L2
+739,06
+580
+EP-L3
+795,66
+60
+PPI-L4
+754,87
+391
+Astronomia - (Bacharelado) - Integral
+Instituto de Astronomia, Geofísica e Ciências Atmosféricas - USP
+código fuvest: 37/189
+código USP: 14031/0
+modalidade
+pontos finais
+classificação
+AC
+841,78
+1
+EP-L1
+-
+-
+PPI-L2
+-
+-
+EP-L3
+808,67
+9
+PPI-L4
+765,15
+27
+Audiovisual - (Bacharelado) - Integral
+Escola de Comunicações e Artes - USP
+código fuvest: 13/175
+código USP: 27021/0
+modalidade
+pontos finais
+classificação
+AC
+812,06
+4
+EP-L1
+781,23
+49
+PPI-L2
+744,83
+198
+EP-L3
+799,90
+16
+PPI-L4
+-
+-
+Biblioteconomia e Ciência da Informação - (Bacharelado) - Matutino
+Escola de Comunicações e Artes - USP
+código fuvest: 13/173
+código USP: 27502/2
+modalidade
+pontos finais
+classificação
+AC
+792,98
+1
+EP-L1
+708,41
+37
+PPI-L2
+-
+-
+EP-L3
+-
+-
+PPI-L4
+-
+-
+Biblioteconomia e Ciência da Informação - (Bacharelado) - Noturno
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP
+código fuvest: 20/158
+código USP: 59061/4
+modalidade
+pontos finais
+classificação
+AC
+778,25
+2
+EP-L1
+723,16
+17
+PPI-L2
+661,24
+62
+EP-L3
+730,88
+13
+PPI-L4
+-
+-
+
+
+--- PAGE 2 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+2
+Biblioteconomia e Ciência da Informação - (Bacharelado) - Noturno
+Escola de Comunicações e Artes - USP
+código fuvest: 13/174
+código USP: 27502/4
+modalidade
+pontos finais
+classificação
+AC
+791,14
+3
+EP-L1
+717,29
+34
+PPI-L2
+-
+-
+EP-L3
+-
+-
+PPI-L4
+-
+-
+Biotecnologia - (Bacharelado) - Integral
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/2
+código USP: 86551/100
+modalidade
+pontos finais
+classificação
+AC
+818,31
+8
+EP-L1
+768,29
+82
+PPI-L2
+731,33
+244
+EP-L3
+788,20
+42
+PPI-L4
+749,27
+141
+Ciência da Computação - (Bacharelado) - Integral
+Instituto de Matemática e Estatística - USP
+código fuvest: 40/193
+código USP: 45052/0
+modalidade
+pontos finais
+classificação
+AC
+843,01
+9
+EP-L1
+809,94
+76
+PPI-L2
+774,69
+271
+EP-L3
+815,88
+60
+PPI-L4
+806,81
+91
+Ciência da Computação - (Bacharelado) - Integral
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP
+código fuvest: 20/81
+código USP: 59080/0
+modalidade
+pontos finais
+classificação
+AC
+859,94
+1
+EP-L1
+-
+-
+PPI-L2
+-
+-
+EP-L3
+827,51
+17
+PPI-L4
+-
+-
+Ciência de Dados - (Bacharelado) - Integral
+Instituto de Ciências Matemáticas e de Computação - São Carlos - USP
+código fuvest: 35/94
+código USP: 55090/0
+modalidade
+pontos finais
+classificação
+AC
+822,89
+2
+EP-L1
+-
+-
+PPI-L2
+-
+-
+EP-L3
+-
+-
+PPI-L4
+-
+-
+Ciências Atuariais - (Bacharelado) - Noturno
+Faculdade de Economia, Administração e Contabilidade - USP
+código fuvest: 21/146
+código USP: 12042/4
+modalidade
+pontos finais
+classificação
+AC
+793,61
+5
+EP-L1
+726,63
+99
+PPI-L2
+696,60
+194
+EP-L3
+765,17
+23
+PPI-L4
+746,71
+48
+Ciências Biológicas - (Bacharelado/Licenciatura) - Integral
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP
+código fuvest: 20/18
+código USP: 59012/100
+modalidade
+pontos finais
+classificação
+AC
+819,12
+3
+EP-L1
+754,89
+59
+PPI-L2
+719,43
+180
+EP-L3
+781,00
+21
+PPI-L4
+-
+-
+Ciências Biológicas - (Bacharelado/Licenciatura) - Integral
+Instituto de Biociências - USP
+código fuvest: 25/41
+código USP: 41012/100
+modalidade
+pontos finais
+classificação
+AC
+812,42
+6
+EP-L1
+747,55
+150
+PPI-L2
+729,03
+248
+EP-L3
+795,14
+27
+PPI-L4
+773,55
+65
+Ciências Biológicas - (Bacharelado/Licenciatura) - Noturno
+Instituto de Biociências - USP
+código fuvest: 25/42
+código USP: 41012/104
+modalidade
+pontos finais
+classificação
+AC
+800,72
+5
+EP-L1
+744,38
+66
+PPI-L2
+719,95
+169
+EP-L3
+773,12
+17
+PPI-L4
+721,99
+157
+Ciências Biológicas - (Bacharelado/Licenciatura) - Noturno
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+código fuvest: 29/13
+código USP: 11070/4
+modalidade
+pontos finais
+classificação
+AC
+787,56
+3
+EP-L1
+739,34
+53
+PPI-L2
+-
+-
+EP-L3
+774,66
+10
+PPI-L4
+770,92
+15
+Ciências Biomédicas - (Bacharelado) - Integral
+Instituto de Ciências Biomédicas - USP
+código fuvest: 39/43
+código USP: 42081/0
+modalidade
+pontos finais
+classificação
+AC
+812,42
+5
+EP-L1
+764,78
+114
+PPI-L2
+-
+-
+EP-L3
+789,76
+36
+PPI-L4
+752,06
+192
+
+
+--- PAGE 3 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+3
+Ciências Biomédicas - (Bacharelado) - Integral
+Faculdade de Medicina de Ribeirão Preto - USP
+código fuvest: 6/28
+código USP: 17500/100
+modalidade
+pontos finais
+classificação
+AC
+845,66
+2
+EP-L1
+791,81
+109
+PPI-L2
+-
+-
+EP-L3
+-
+-
+PPI-L4
+-
+-
+Ciências Contábeis - (Bacharelado) - Noturno
+Faculdade de Economia, Administração e Contabilidade - USP
+código fuvest: 21/147
+código USP: 12033/4
+modalidade
+pontos finais
+classificação
+AC
+783,91
+14
+EP-L1
+726,73
+236
+PPI-L2
+689,50
+503
+EP-L3
+764,83
+60
+PPI-L4
+731,54
+209
+Ciências Contábeis - (Bacharelado) - Noturno
+Faculdade de Economia, Administração e Contabilidade de Ribeirão Preto - USP
+código fuvest: 22/152
+código USP: 81201/4
+modalidade
+pontos finais
+classificação
+AC
+794,31
+5
+EP-L1
+722,50
+86
+PPI-L2
+698,79
+157
+EP-L3
+-
+-
+PPI-L4
+745,42
+37
+Ciências da Natureza - (Licenciatura) - Noturno
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/47
+código USP: 86400/104
+modalidade
+pontos finais
+classificação
+AC
+759,31
+8
+EP-L1
+730,83
+20
+PPI-L2
+711,09
+25
+EP-L3
+738,27
+18
+PPI-L4
+718,10
+23
+Ciências de Computação - (Bacharelado) - Integral
+Instituto de Ciências Matemáticas e de Computação - São Carlos - USP
+código fuvest: 35/89
+código USP: 55041/0
+modalidade
+pontos finais
+classificação
+AC
+839,05
+10
+EP-L1
+797,05
+123
+PPI-L2
+738,03
+537
+EP-L3
+835,31
+13
+PPI-L4
+773,68
+261
+Ciências dos Alimentos - (Bacharelado) - Noturno
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+código fuvest: 29/12
+código USP: 11062/4
+modalidade
+pontos finais
+classificação
+AC
+771,14
+4
+EP-L1
+715,68
+35
+PPI-L2
+-
+-
+EP-L3
+741,42
+16
+PPI-L4
+704,32
+47
+Ciências Econômicas - (Bacharelado) - Integral
+Faculdade de Economia, Administração e Contabilidade - USP
+código fuvest: 21/180
+código USP: 12052/0
+modalidade
+pontos finais
+classificação
+AC
+821,69
+8
+EP-L1
+765,47
+201
+PPI-L2
+709,60
+780
+EP-L3
+800,09
+41
+PPI-L4
+758,93
+242
+Ciências Econômicas - (Bacharelado) - Matutino
+Faculdade de Economia, Administração e Contabilidade de Ribeirão Preto - USP
+código fuvest: 22/183
+código USP: 81102/2
+modalidade
+pontos finais
+classificação
+AC
+812,07
+5
+EP-L1
+748,57
+158
+PPI-L2
+745,78
+169
+EP-L3
+768,23
+71
+PPI-L4
+751,59
+133
+Ciências Econômicas - (Bacharelado) - Noturno
+Faculdade de Economia, Administração e Contabilidade - USP
+código fuvest: 21/149
+código USP: 12052/4
+modalidade
+pontos finais
+classificação
+AC
+818,66
+9
+EP-L1
+750,41
+303
+PPI-L2
+709,61
+773
+EP-L3
+772,31
+136
+PPI-L4
+767,14
+167
+Ciências Econômicas - (Bacharelado) - Integral
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+código fuvest: 29/179
+código USP: 11050/0
+modalidade
+pontos finais
+classificação
+AC
+819,65
+5
+EP-L1
+720,63
+187
+PPI-L2
+-
+-
+EP-L3
+788,21
+13
+PPI-L4
+739,94
+117
+Ciências Exatas - (Licenciatura) - Noturno
+Instituto de Física de São Carlos - USP
+código fuvest: 36/103
+código USP: 90011/104
+modalidade
+pontos finais
+classificação
+AC
+766,63
+7
+EP-L1
+716,81
+37
+PPI-L2
+687,41
+61
+EP-L3
+752,00
+15
+PPI-L4
+712,29
+42
+
+
+--- PAGE 4 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+4
+Ciências Sociais - (Bacharelado/Licenciatura) - Vespertino
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+código fuvest: 11/159
+código USP: 8040/103
+modalidade
+pontos finais
+classificação
+AC
+794,50
+12
+EP-L1
+738,08
+147
+PPI-L2
+736,03
+155
+EP-L3
+758,52
+71
+PPI-L4
+743,59
+117
+Ciências Sociais - (Bacharelado/Licenciatura) - Noturno
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+código fuvest: 11/160
+código USP: 8040/104
+modalidade
+pontos finais
+classificação
+AC
+789,44
+8
+EP-L1
+719,48
+166
+PPI-L2
+713,13
+199
+EP-L3
+755,95
+47
+PPI-L4
+730,84
+115
+Comunicação Social - Hab. em Editoração - (Bacharelado) - Matutino
+Escola de Comunicações e Artes - USP
+código fuvest: 13/131
+código USP: 27100/302
+modalidade
+pontos finais
+classificação
+AC
+793,46
+1
+EP-L1
+-
+-
+PPI-L2
+-
+-
+EP-L3
+-
+-
+PPI-L4
+-
+-
+Comunicação Social - Hab. Publicidade e Propaganda - (Bacharelado) - Noturno
+Escola de Comunicações e Artes - USP
+código fuvest: 13/130
+código USP: 27011/504
+modalidade
+pontos finais
+classificação
+AC
+803,67
+4
+EP-L1
+769,97
+34
+PPI-L2
+-
+-
+EP-L3
+783,97
+13
+PPI-L4
+760,08
+56
+Comunicação Social - Hab. Publicidade e Propaganda - (Bacharelado) - Matutino
+Escola de Comunicações e Artes - USP
+código fuvest: 13/129
+código USP: 27011/502
+modalidade
+pontos finais
+classificação
+AC
+822,54
+2
+EP-L1
+799,01
+8
+PPI-L2
+-
+-
+EP-L3
+-
+-
+PPI-L4
+-
+-
+Design - (Bacharelado) - Noturno
+Faculdade de Arquitetura e Urbanismo - USP
+código fuvest: 43/140
+código USP: 16100/4
+modalidade
+pontos finais
+classificação
+AC
+809,92
+5
+EP-L1
+787,00
+22
+PPI-L2
+-
+-
+EP-L3
+-
+-
+PPI-L4
+802,07
+7
+Direito - (Bacharelado) - Matutino
+Faculdade de Direito - USP
+código fuvest: 1/141
+código USP: 2014/102
+modalidade
+pontos finais
+classificação
+AC
+811,11
+23
+EP-L1
+766,96
+534
+PPI-L2
+762,21
+680
+EP-L3
+792,85
+119
+PPI-L4
+779,30
+290
+Direito - (Bacharelado) - Noturno
+Faculdade de Direito - USP
+código fuvest: 1/142
+código USP: 2014/104
+modalidade
+pontos finais
+classificação
+AC
+808,95
+32
+EP-L1
+760,09
+712
+PPI-L2
+743,66
+1175
+EP-L3
+788,71
+146
+PPI-L4
+761,10
+681
+Direito - (Bacharelado) - Integral
+Faculdade de Direito de Ribeirão Preto - USP
+código fuvest: 2/143
+código USP: 89002/0
+modalidade
+pontos finais
+classificação
+AC
+808,18
+25
+EP-L1
+760,57
+509
+PPI-L2
+741,17
+944
+EP-L3
+784,14
+146
+PPI-L4
+759,03
+538
+Educação Física - (Bacharelado) - Integral
+Escola de Educação Física e Esporte de Ribeirão Preto - USP
+código fuvest: 38/6
+código USP: 98002/0
+modalidade
+pontos finais
+classificação
+AC
+786,78
+5
+EP-L1
+732,74
+50
+PPI-L2
+691,52
+152
+EP-L3
+756,92
+16
+PPI-L4
+716,94
+74
+Educação Física - (Bacharelado/Licenciatura) - Integral
+Escola de Educação Física e Esporte - USP
+código fuvest: 28/5
+código USP: 39041/100
+modalidade
+pontos finais
+classificação
+AC
+784,88
+6
+EP-L1
+741,42
+30
+PPI-L2
+693,86
+136
+EP-L3
+751,46
+23
+PPI-L4
+725,08
+57
+
+
+--- PAGE 5 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+5
+Educação Física e Saúde - (Bacharelado) - Integral
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/172
+código USP: 86050/100
+modalidade
+pontos finais
+classificação
+AC
+778,90
+9
+EP-L1
+717,00
+65
+PPI-L2
+686,82
+147
+EP-L3
+747,78
+30
+PPI-L4
+727,10
+50
+Educomunicação - (Licenciatura) - Noturno
+Escola de Comunicações e Artes - USP
+código fuvest: 13/137
+código USP: 27570/4
+modalidade
+pontos finais
+classificação
+AC
+767,75
+6
+EP-L1
+746,95
+15
+PPI-L2
+-
+-
+EP-L3
+751,19
+13
+PPI-L4
+710,16
+33
+Enfermagem - (Bacharelado) - Integral
+Escola de Enfermagem de Ribeirão Preto - USP
+código fuvest: 33/8
+código USP: 22013/0
+modalidade
+pontos finais
+classificação
+AC
+793,63
+5
+EP-L1
+748,99
+78
+PPI-L2
+734,93
+140
+EP-L3
+774,60
+30
+PPI-L4
+756,32
+66
+Enfermagem - (Bacharelado e Licenciatura) - Noturno
+Escola de Enfermagem de Ribeirão Preto - USP
+código fuvest: 33/9
+código USP: 22100/4
+modalidade
+pontos finais
+classificação
+AC
+788,16
+7
+EP-L1
+747,61
+40
+PPI-L2
+713,82
+126
+EP-L3
+754,28
+32
+PPI-L4
+725,68
+88
+Enfermagem - (Bacharelado/Licenciatura) - Integral
+Escola de Enfermagem - USP
+código fuvest: 4/7
+código USP: 7012/0
+modalidade
+pontos finais
+classificação
+AC
+816,52
+9
+EP-L1
+780,22
+80
+PPI-L2
+767,20
+137
+EP-L3
+796,40
+38
+PPI-L4
+772,50
+108
+Engenharia Aeronáutica - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/60
+código USP: 18070/0
+modalidade
+pontos finais
+classificação
+AC
+839,37
+10
+EP-L1
+797,57
+163
+PPI-L2
+-
+-
+EP-L3
+823,98
+44
+PPI-L4
+771,27
+311
+Engenharia Agronômica - (Bacharelado) - Integral
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+código fuvest: 29/10
+código USP: 11010/0
+modalidade
+pontos finais
+classificação
+AC
+799,74
+15
+EP-L1
+731,31
+184
+PPI-L2
+715,44
+264
+EP-L3
+749,76
+118
+PPI-L4
+741,74
+140
+Engenharia Ambiental - (Bacharelado) - Integral
+Escola de Engenharia de Lorena - USP
+código fuvest: 27/52
+código USP: 88251/0
+modalidade
+pontos finais
+classificação
+AC
+797,08
+7
+EP-L1
+722,72
+57
+PPI-L2
+693,75
+84
+EP-L3
+750,03
+26
+PPI-L4
+-
+-
+Engenharia Ambiental - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/61
+código USP: 18030/0
+modalidade
+pontos finais
+classificação
+AC
+811,54
+5
+EP-L1
+753,62
+65
+PPI-L2
+-
+-
+EP-L3
+780,65
+22
+PPI-L4
+745,78
+80
+Engenharia Ambiental - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/65
+código USP: 3152/3000
+modalidade
+pontos finais
+classificação
+AC
+806,93
+8
+EP-L1
+731,04
+168
+PPI-L2
+693,43
+291
+EP-L3
+749,35
+107
+PPI-L4
+735,97
+154
+Engenharia Bioquímica - (Bacharelado) - Integral
+Escola de Engenharia de Lorena - USP
+código fuvest: 27/49
+código USP: 88152/0
+modalidade
+pontos finais
+classificação
+AC
+815,30
+5
+EP-L1
+709,17
+112
+PPI-L2
+659,58
+202
+EP-L3
+772,62
+32
+PPI-L4
+-
+-
+
+
+--- PAGE 6 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+6
+Engenharia - Ciclo Básico em Eng. de Materiais / Eng. Metalúrgica / Eng. Nuclear - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/68
+código USP: 3201/0
+modalidade
+pontos finais
+classificação
+AC
+820,36
+5
+EP-L1
+741,95
+105
+PPI-L2
+702,35
+212
+EP-L3
+764,71
+53
+PPI-L4
+719,88
+165
+Engenharia Ciclo Básico em Eng. de Minas/Eng. de Petróleo - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/177
+código USP: 3251/0
+modalidade
+pontos finais
+classificação
+AC
+813,27
+9
+EP-L1
+727,61
+177
+PPI-L2
+695,12
+264
+EP-L3
+743,05
+129
+PPI-L4
+711,37
+217
+Engenharia Civil - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/55
+código USP: 18023/0
+modalidade
+pontos finais
+classificação
+AC
+833,92
+4
+EP-L1
+754,17
+208
+PPI-L2
+742,59
+263
+EP-L3
+783,04
+82
+PPI-L4
+763,34
+160
+Engenharia Civil - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/66
+código USP: 3023/3000
+modalidade
+pontos finais
+classificação
+AC
+811,29
+17
+EP-L1
+735,22
+410
+PPI-L2
+708,13
+596
+EP-L3
+766,36
+189
+PPI-L4
+754,12
+276
+Engenharia de Alimentos - (Bacharelado) - Integral
+Faculdade de Zootecnia e Engenharia de Alimentos - Pirassununga - USP
+código fuvest: 8/186
+código USP: 74100/0
+modalidade
+pontos finais
+classificação
+AC
+794,52
+5
+EP-L1
+744,90
+28
+PPI-L2
+697,94
+69
+EP-L3
+759,60
+15
+PPI-L4
+-
+-
+Engenharia de Alimentos - (Bacharelado) - Noturno
+Faculdade de Zootecnia e Engenharia de Alimentos - Pirassununga - USP
+código fuvest: 8/84
+código USP: 74100/4
+modalidade
+pontos finais
+classificação
+AC
+798,90
+4
+EP-L1
+715,14
+49
+PPI-L2
+696,17
+65
+EP-L3
+759,53
+13
+PPI-L4
+-
+-
+Engenharia de Biossistemas - (Bacharelado) - Integral
+Faculdade de Zootecnia e Engenharia de Alimentos - Pirassununga - USP
+código fuvest: 8/85
+código USP: 74300/0
+modalidade
+pontos finais
+classificação
+AC
+802,73
+5
+EP-L1
+728,52
+33
+PPI-L2
+690,97
+66
+EP-L3
+760,26
+15
+PPI-L4
+754,22
+16
+Engenharia de Computação - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/67
+código USP: 3123/3000
+modalidade
+pontos finais
+classificação
+AC
+832,27
+9
+EP-L1
+790,21
+155
+PPI-L2
+739,28
+630
+EP-L3
+807,52
+59
+PPI-L4
+775,20
+274
+Engenharia de Computação - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/64
+código USP: 97001/0
+modalidade
+pontos finais
+classificação
+AC
+848,36
+8
+EP-L1
+799,98
+142
+PPI-L2
+769,15
+369
+EP-L3
+834,16
+20
+PPI-L4
+773,65
+330
+Engenharia de Materiais - (Bacharelado) - Integral
+Escola de Engenharia de Lorena - USP
+código fuvest: 27/48
+código USP: 88202/0
+modalidade
+pontos finais
+classificação
+AC
+800,48
+7
+EP-L1
+714,92
+108
+PPI-L2
+661,13
+218
+EP-L3
+766,97
+22
+PPI-L4
+-
+-
+Engenharia de Materiais e Manufatura - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/63
+código USP: 18350/0
+modalidade
+pontos finais
+classificação
+AC
+813,59
+6
+EP-L1
+766,62
+66
+PPI-L2
+709,22
+222
+EP-L3
+773,54
+49
+PPI-L4
+748,92
+106
+
+
+--- PAGE 7 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+7
+Engenharia de Produção - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/71
+código USP: 3084/3000
+modalidade
+pontos finais
+classificação
+AC
+819,69
+9
+EP-L1
+734,89
+409
+PPI-L2
+701,54
+636
+EP-L3
+783,68
+99
+PPI-L4
+702,82
+626
+Engenharia de Produção - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/59
+código USP: 18084/0
+modalidade
+pontos finais
+classificação
+AC
+824,70
+6
+EP-L1
+760,87
+203
+PPI-L2
+740,97
+305
+EP-L3
+770,57
+156
+PPI-L4
+758,96
+210
+Engenharia de Produção - (Bacharelado) - Noturno
+Escola de Engenharia de Lorena - USP
+código fuvest: 27/53
+código USP: 88352/4
+modalidade
+pontos finais
+classificação
+AC
+813,72
+4
+EP-L1
+749,90
+90
+PPI-L2
+695,68
+248
+EP-L3
+763,55
+57
+PPI-L4
+-
+-
+Engenharia Elétrica - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/72
+código USP: 3033/0
+modalidade
+pontos finais
+classificação
+AC
+819,03
+21
+EP-L1
+762,07
+396
+PPI-L2
+705,29
+922
+EP-L3
+795,93
+106
+PPI-L4
+763,35
+388
+Engenharia Elétrica - Ênfase em Eletrônica - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/56
+código USP: 18045/0
+modalidade
+pontos finais
+classificação
+AC
+837,16
+9
+EP-L1
+773,39
+160
+PPI-L2
+742,29
+301
+EP-L3
+829,82
+11
+PPI-L4
+774,48
+157
+Engenharia Elétrica - Ênfase em Sistemas de Energia e Automação - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/57
+código USP: 18050/0
+modalidade
+pontos finais
+classificação
+AC
+836,01
+5
+EP-L1
+798,90
+63
+PPI-L2
+757,02
+204
+EP-L3
+807,03
+39
+PPI-L4
+773,53
+137
+Engenharia Física - (Bacharelado) - Integral
+Escola de Engenharia de Lorena - USP
+código fuvest: 27/54
+código USP: 88301/0
+modalidade
+pontos finais
+classificação
+AC
+808,22
+6
+EP-L1
+739,55
+61
+PPI-L2
+715,88
+96
+EP-L3
+791,18
+12
+PPI-L4
+-
+-
+Engenharia Florestal - (Bacharelado) - Integral
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+código fuvest: 29/11
+código USP: 11020/0
+modalidade
+pontos finais
+classificação
+AC
+814,50
+3
+EP-L1
+750,44
+42
+PPI-L2
+-
+-
+EP-L3
+764,33
+22
+PPI-L4
+713,23
+119
+Engenharia Mecânica - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/58
+código USP: 18063/0
+modalidade
+pontos finais
+classificação
+AC
+837,50
+8
+EP-L1
+786,69
+161
+PPI-L2
+744,96
+499
+EP-L3
+830,79
+19
+PPI-L4
+770,37
+272
+Engenharia Mecânica - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/73
+código USP: 3045/3000
+modalidade
+pontos finais
+classificação
+AC
+830,76
+7
+EP-L1
+755,79
+406
+PPI-L2
+739,66
+602
+EP-L3
+795,05
+84
+PPI-L4
+740,34
+593
+Engenharia Mecatrônica - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/62
+código USP: 18250/0
+modalidade
+pontos finais
+classificação
+AC
+834,62
+7
+EP-L1
+770,86
+157
+PPI-L2
+736,87
+338
+EP-L3
+816,76
+25
+PPI-L4
+783,85
+107
+
+
+--- PAGE 8 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+8
+Engenharia Mecatrônica - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/74
+código USP: 3113/3000
+modalidade
+pontos finais
+classificação
+AC
+818,13
+12
+EP-L1
+771,22
+135
+PPI-L2
+709,47
+442
+EP-L3
+809,40
+20
+PPI-L4
+773,46
+127
+Engenharia Naval - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/75
+código USP: 3073/3000
+modalidade
+pontos finais
+classificação
+AC
+818,00
+6
+EP-L1
+738,13
+308
+PPI-L2
+717,42
+420
+EP-L3
+790,90
+37
+PPI-L4
+767,26
+131
+Engenharia Química - (Bacharelado) - Noturno
+Escola de Engenharia de Lorena - USP
+código fuvest: 27/51
+código USP: 88052/4
+modalidade
+pontos finais
+classificação
+AC
+819,15
+7
+EP-L1
+760,17
+84
+PPI-L2
+715,48
+235
+EP-L3
+788,93
+30
+PPI-L4
+716,68
+233
+Engenharia Química - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/76
+código USP: 3093/3000
+modalidade
+pontos finais
+classificação
+AC
+816,28
+10
+EP-L1
+757,69
+247
+PPI-L2
+708,83
+678
+EP-L3
+797,74
+40
+PPI-L4
+750,77
+313
+Engenharia Química - (Bacharelado) - Integral
+Escola de Engenharia de Lorena - USP
+código fuvest: 27/176
+código USP: 88052/0
+modalidade
+pontos finais
+classificação
+AC
+821,80
+7
+EP-L1
+752,85
+175
+PPI-L2
+691,22
+483
+EP-L3
+791,33
+41
+PPI-L4
+755,10
+156
+Estatística - (Bacharelado) - Integral
+Instituto de Matemática e Estatística - USP
+código fuvest: 40/194
+código USP: 45062/0
+modalidade
+pontos finais
+classificação
+AC
+855,92
+2
+EP-L1
+821,45
+13
+PPI-L2
+-
+-
+EP-L3
+837,64
+7
+PPI-L4
+787,55
+35
+Estatística e Ciência de Dados - (Bacharelado) - Noturno
+Instituto de Ciências Matemáticas e de Computação - São Carlos - USP
+código fuvest: 35/93
+código USP: 55071/4
+modalidade
+pontos finais
+classificação
+AC
+819,56
+2
+EP-L1
+793,51
+17
+PPI-L2
+-
+-
+EP-L3
+808,81
+3
+PPI-L4
+757,84
+47
+Farmácia - (Bacharelado) - Integral
+Faculdade de Ciências Farmacêuticas - Ribeirão Preto - USP
+código fuvest: 41/16
+código USP: 60015/0
+modalidade
+pontos finais
+classificação
+AC
+807,69
+6
+EP-L1
+748,88
+166
+PPI-L2
+732,10
+276
+EP-L3
+778,71
+49
+PPI-L4
+747,25
+177
+Farmácia - (Bacharelado) - Noturno
+Faculdade de Ciências Farmacêuticas - USP
+código fuvest: 5/15
+código USP: 9013/104
+modalidade
+pontos finais
+classificação
+AC
+801,81
+6
+EP-L1
+743,93
+158
+PPI-L2
+735,36
+212
+EP-L3
+772,68
+47
+PPI-L4
+742,16
+172
+Farmácia - (Bacharelado) - Integral
+Faculdade de Ciências Farmacêuticas - USP
+código fuvest: 5/14
+código USP: 9013/100
+modalidade
+pontos finais
+classificação
+AC
+811,82
+10
+EP-L1
+748,19
+228
+PPI-L2
+739,69
+301
+EP-L3
+790,67
+47
+PPI-L4
+769,34
+100
+Filosofia - (Bacharelado/Licenciatura) - Noturno
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+código fuvest: 11/162
+código USP: 8010/104
+modalidade
+pontos finais
+classificação
+AC
+784,35
+9
+EP-L1
+718,18
+87
+PPI-L2
+696,36
+148
+EP-L3
+770,71
+19
+PPI-L4
+757,79
+31
+
+
+--- PAGE 9 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+9
+Filosofia - (Bacharelado/Licenciatura) - Vespertino
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+código fuvest: 11/161
+código USP: 8010/103
+modalidade
+pontos finais
+classificação
+AC
+786,76
+8
+EP-L1
+739,35
+61
+PPI-L2
+685,47
+209
+EP-L3
+748,87
+44
+PPI-L4
+729,44
+87
+Finanças e Negócios - (Bacharelado) - Noturno
+Faculdade de Economia, Administração e Contabilidade de Ribeirão Preto - USP
+código fuvest: 22/154
+código USP: 81302/4
+modalidade
+pontos finais
+classificação
+AC
+795,89
+3
+EP-L1
+715,91
+144
+PPI-L2
+699,31
+203
+EP-L3
+772,00
+16
+PPI-L4
+711,84
+154
+Física - (Bacharelado) - Integral
+Instituto de Física - USP
+código fuvest: 16/191
+código USP: 43021/100
+modalidade
+pontos finais
+classificação
+AC
+836,02
+7
+EP-L1
+769,56
+66
+PPI-L2
+746,58
+130
+EP-L3
+788,33
+31
+PPI-L4
+776,01
+53
+Física - (Bacharelado) - Integral
+Instituto de Física de São Carlos - USP
+código fuvest: 36/100
+código USP: 76014/100
+modalidade
+pontos finais
+classificação
+AC
+841,29
+3
+EP-L1
+751,06
+47
+PPI-L2
+-
+-
+EP-L3
+784,33
+16
+PPI-L4
+752,29
+46
+Física - (Bacharelado) - Noturno
+Instituto de Física - USP
+código fuvest: 16/96
+código USP: 43021/104
+modalidade
+pontos finais
+classificação
+AC
+820,17
+7
+EP-L1
+717,36
+131
+PPI-L2
+715,91
+135
+EP-L3
+761,52
+53
+PPI-L4
+744,46
+79
+Física Biomolecular (Bacharelado) - Integral
+Instituto de Física de São Carlos - USP
+código fuvest: 36/101
+código USP: 76061/0
+modalidade
+pontos finais
+classificação
+AC
+801,90
+6
+EP-L1
+703,54
+48
+PPI-L2
+-
+-
+EP-L3
+758,56
+19
+PPI-L4
+714,36
+42
+Física Computacional - (Bacharelado) - Integral
+Instituto de Física de São Carlos - USP
+código fuvest: 36/102
+código USP: 76041/0
+modalidade
+pontos finais
+classificação
+AC
+793,11
+5
+EP-L1
+722,81
+50
+PPI-L2
+-
+-
+EP-L3
+768,40
+14
+PPI-L4
+713,33
+61
+Física - (Licenciatura) - Integral
+Instituto de Física - USP
+código fuvest: 16/192
+código USP: 43031/0
+modalidade
+pontos finais
+classificação
+AC
+801,44
+3
+EP-L1
+739,91
+37
+PPI-L2
+687,23
+90
+EP-L3
+791,58
+6
+PPI-L4
+763,59
+23
+Física - (Licenciatura) - Noturno
+Instituto de Física - USP
+código fuvest: 16/98
+código USP: 43031/4
+modalidade
+pontos finais
+classificação
+AC
+791,00
+7
+EP-L1
+759,17
+29
+PPI-L2
+671,10
+141
+EP-L3
+772,94
+21
+PPI-L4
+715,71
+73
+Física Médica - (Bacharelado) - Integral
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP
+código fuvest: 20/78
+código USP: 59041/0
+modalidade
+pontos finais
+classificação
+AC
+823,52
+3
+EP-L1
+763,92
+39
+PPI-L2
+735,19
+81
+EP-L3
+766,06
+36
+PPI-L4
+-
+-
+Física Médica - (Bacharelado) - Noturno
+Instituto de Física - USP
+código fuvest: 16/99
+código USP: 66001/4
+modalidade
+pontos finais
+classificação
+AC
+823,77
+3
+EP-L1
+-
+-
+PPI-L2
+-
+-
+EP-L3
+754,34
+39
+PPI-L4
+-
+-
+
+
+--- PAGE 10 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+10
+Fisioterapia - (Bacharelado) - Integral
+Faculdade de Medicina - USP
+código fuvest: 3/20
+código USP: 5052/0
+modalidade
+pontos finais
+classificação
+AC
+814,15
+1
+EP-L1
+774,84
+24
+PPI-L2
+757,91
+50
+EP-L3
+-
+-
+PPI-L4
+-
+-
+Fisioterapia - (Bacharelado) - Integral
+Faculdade de Medicina de Ribeirão Preto - USP
+código fuvest: 6/24
+código USP: 17101/0
+modalidade
+pontos finais
+classificação
+AC
+811,02
+3
+EP-L1
+754,04
+57
+PPI-L2
+728,04
+165
+EP-L3
+772,35
+26
+PPI-L4
+733,64
+140
+Fonoaudiologia - (Bacharelado) - Integral
+Faculdade de Medicina - USP
+código fuvest: 3/21
+código USP: 5065/0
+modalidade
+pontos finais
+classificação
+AC
+797,73
+2
+EP-L1
+764,46
+25
+PPI-L2
+726,62
+108
+EP-L3
+766,03
+23
+PPI-L4
+755,57
+37
+Fonoaudiologia - (Bacharelado) - Integral
+Faculdade de Medicina de Ribeirão Preto - USP
+código fuvest: 6/27
+código USP: 17300/0
+modalidade
+pontos finais
+classificação
+AC
+797,57
+3
+EP-L1
+-
+-
+PPI-L2
+-
+-
+EP-L3
+766,93
+28
+PPI-L4
+734,97
+81
+Fonoaudiologia - (Bacharelado) - Integral
+Faculdade de Odontologia de Bauru - USP
+código fuvest: 18/34
+código USP: 25022/0
+modalidade
+pontos finais
+classificação
+AC
+798,48
+1
+EP-L1
+-
+-
+PPI-L2
+744,67
+37
+EP-L3
+773,24
+10
+PPI-L4
+-
+-
+Geociências e Educação Ambiental - (Licenciatura) - Noturno
+Instituto de Geociências - USP
+código fuvest: 24/105
+código USP: 44100/4
+modalidade
+pontos finais
+classificação
+AC
+737,07
+2
+EP-L1
+687,47
+22
+PPI-L2
+636,91
+57
+EP-L3
+704,18
+13
+PPI-L4
+680,64
+27
+Geofísica - (Bacharelado) - Integral
+Instituto de Astronomia, Geofísica e Ciências Atmosféricas - USP
+código fuvest: 37/188
+código USP: 14022/0
+modalidade
+pontos finais
+classificação
+AC
+800,08
+3
+EP-L1
+-
+-
+PPI-L2
+-
+-
+EP-L3
+773,59
+11
+PPI-L4
+750,42
+18
+Geografia - (Bacharelado/Licenciatura) - Vespertino
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+código fuvest: 11/185
+código USP: 8021/103
+modalidade
+pontos finais
+classificação
+AC
+783,20
+5
+EP-L1
+740,96
+48
+PPI-L2
+721,21
+94
+EP-L3
+759,55
+23
+PPI-L4
+755,23
+27
+Geografia - (Bacharelado/Licenciatura) - Noturno
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+código fuvest: 11/164
+código USP: 8021/104
+modalidade
+pontos finais
+classificação
+AC
+768,64
+7
+EP-L1
+718,95
+81
+PPI-L2
+694,32
+168
+EP-L3
+739,67
+37
+PPI-L4
+711,37
+111
+Geologia - (Bacharelado) - Integral
+Instituto de Geociências - USP
+código fuvest: 24/104
+código USP: 44011/100
+modalidade
+pontos finais
+classificação
+AC
+772,67
+4
+EP-L1
+700,08
+46
+PPI-L2
+673,45
+85
+EP-L3
+756,76
+8
+PPI-L4
+701,72
+43
+Gerontologia - (Bacharelado) - Vespertino
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/3
+código USP: 86300/103
+modalidade
+pontos finais
+classificação
+AC
+799,18
+5
+EP-L1
+742,30
+26
+PPI-L2
+702,38
+54
+EP-L3
+771,30
+13
+PPI-L4
+729,52
+37
+
+
+--- PAGE 11 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+11
+Gestão Ambiental - (Bacharelado) - Matutino
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/120
+código USP: 86100/102
+modalidade
+pontos finais
+classificação
+AC
+760,50
+6
+EP-L1
+696,00
+42
+PPI-L2
+679,32
+76
+EP-L3
+706,38
+32
+PPI-L4
+697,92
+38
+Gestão Ambiental - (Bacharelado) - Noturno
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/121
+código USP: 86100/104
+modalidade
+pontos finais
+classificação
+AC
+752,56
+6
+EP-L1
+719,76
+23
+PPI-L2
+662,18
+98
+EP-L3
+720,74
+22
+PPI-L4
+694,04
+50
+Gestão Ambiental - (Bacharelado) - Noturno
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+código fuvest: 29/138
+código USP: 11080/4
+modalidade
+pontos finais
+classificação
+AC
+762,96
+5
+EP-L1
+706,42
+20
+PPI-L2
+-
+-
+EP-L3
+706,44
+19
+PPI-L4
+680,68
+35
+Gestão de Políticas Públicas - (Bacharelado) - Noturno
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/123
+código USP: 86350/104
+modalidade
+pontos finais
+classificação
+AC
+789,83
+6
+EP-L1
+750,78
+21
+PPI-L2
+709,34
+115
+EP-L3
+763,49
+15
+PPI-L4
+747,18
+29
+Gestão de Políticas Públicas - (Bacharelado) - Matutino
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/122
+código USP: 86350/102
+modalidade
+pontos finais
+classificação
+AC
+784,60
+5
+EP-L1
+734,16
+67
+PPI-L2
+730,85
+80
+EP-L3
+747,74
+38
+PPI-L4
+734,81
+64
+História - (Bacharelado/Licenciatura) - Vespertino
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+código fuvest: 11/165
+código USP: 8031/103
+modalidade
+pontos finais
+classificação
+AC
+784,67
+16
+EP-L1
+734,73
+205
+PPI-L2
+730,15
+233
+EP-L3
+771,72
+40
+PPI-L4
+760,18
+76
+História - (Bacharelado/Licenciatura) - Noturno
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+código fuvest: 11/166
+código USP: 8031/104
+modalidade
+pontos finais
+classificação
+AC
+784,62
+10
+EP-L1
+726,13
+165
+PPI-L2
+695,33
+373
+EP-L3
+760,14
+43
+PPI-L4
+757,13
+53
+Informática Biomédica - (Bacharelado) - Integral
+Faculdade de Medicina de Ribeirão Preto - USP
+código fuvest: 6/82
+código USP: 17061/0
+modalidade
+pontos finais
+classificação
+AC
+795,30
+1
+EP-L1
+735,80
+22
+PPI-L2
+716,16
+29
+EP-L3
+-
+-
+PPI-L4
+-
+-
+Jornalismo - (Bacharelado) - Matutino
+Escola de Comunicações e Artes - USP
+código fuvest: 13/132
+código USP: 27120/2
+modalidade
+pontos finais
+classificação
+AC
+811,28
+2
+EP-L1
+771,53
+68
+PPI-L2
+-
+-
+EP-L3
+801,72
+10
+PPI-L4
+756,29
+129
+Jornalismo - (Bacharelado) - Noturno
+Escola de Comunicações e Artes - USP
+código fuvest: 13/133
+código USP: 27120/4
+modalidade
+pontos finais
+classificação
+AC
+810,08
+4
+EP-L1
+771,91
+54
+PPI-L2
+-
+-
+EP-L3
+797,11
+9
+PPI-L4
+771,48
+56
+Lazer e Turismo - (Bacharelado) - Vespertino
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/118
+código USP: 86150/103
+modalidade
+pontos finais
+classificação
+AC
+777,12
+4
+EP-L1
+709,01
+45
+PPI-L2
+688,08
+67
+EP-L3
+712,65
+42
+PPI-L4
+706,55
+47
+
+
+--- PAGE 12 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+12
+Lazer e Turismo - (Bacharelado) - Noturno
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/119
+código USP: 86150/104
+modalidade
+pontos finais
+classificação
+AC
+759,85
+7
+EP-L1
+716,92
+32
+PPI-L2
+672,25
+74
+EP-L3
+728,97
+23
+PPI-L4
+677,32
+67
+Letras - (Bacharelado/Licenciatura) - Matutino
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+código fuvest: 11/167
+código USP: 8051/102
+modalidade
+pontos finais
+classificação
+AC
+769,02
+41
+EP-L1
+724,30
+302
+PPI-L2
+704,57
+537
+EP-L3
+743,48
+141
+PPI-L4
+718,91
+349
+Letras - (Bacharelado/Licenciatura) - Noturno
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+código fuvest: 11/168
+código USP: 8051/104
+modalidade
+pontos finais
+classificação
+AC
+762,56
+40
+EP-L1
+719,07
+271
+PPI-L2
+690,23
+621
+EP-L3
+739,42
+129
+PPI-L4
+714,33
+313
+Marketing - (Bacharelado) - Noturno
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/125
+código USP: 86450/104
+modalidade
+pontos finais
+classificação
+AC
+796,22
+7
+EP-L1
+741,60
+102
+PPI-L2
+705,48
+262
+EP-L3
+777,32
+25
+PPI-L4
+759,16
+58
+Marketing - (Bacharelado) - Matutino
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/124
+código USP: 86450/102
+modalidade
+pontos finais
+classificação
+AC
+824,87
+5
+EP-L1
+745,47
+128
+PPI-L2
+716,21
+257
+EP-L3
+780,00
+37
+PPI-L4
+745,75
+127
+Matemática Aplicada a Negócios - (Bacharelado) - Integral
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP
+código fuvest: 20/184
+código USP: 59110/0
+modalidade
+pontos finais
+classificação
+AC
+803,66
+6
+EP-L1
+744,98
+30
+PPI-L2
+695,88
+88
+EP-L3
+760,72
+20
+PPI-L4
+-
+-
+Matemática Aplicada - (Bacharelado) - Integral
+Instituto de Matemática e Estatística - USP
+código fuvest: 40/196
+código USP: 45042/0
+modalidade
+pontos finais
+classificação
+AC
+830,48
+3
+EP-L1
+748,54
+60
+PPI-L2
+-
+-
+EP-L3
+-
+-
+PPI-L4
+-
+-
+Matemática Aplicada e Computação Científica - (Bacharelado) - Integral
+Instituto de Ciências Matemáticas e de Computação - São Carlos - USP
+código fuvest: 35/190
+código USP: 55060/0
+modalidade
+pontos finais
+classificação
+AC
+820,98
+2
+EP-L1
+-
+-
+PPI-L2
+-
+-
+EP-L3
+789,77
+16
+PPI-L4
+-
+-
+Matemática Aplicada e Computacional - (Bacharelado) - Noturno
+Instituto de Matemática e Estatística - USP
+código fuvest: 40/112
+código USP: 45070/4
+modalidade
+pontos finais
+classificação
+AC
+838,34
+3
+EP-L1
+761,61
+59
+PPI-L2
+701,30
+218
+EP-L3
+816,73
+9
+PPI-L4
+785,18
+27
+Matemática - (Bacharelado) - Integral
+Instituto de Matemática e Estatística - USP
+código fuvest: 40/195
+código USP: 45031/0
+modalidade
+pontos finais
+classificação
+AC
+833,54
+4
+EP-L1
+760,69
+48
+PPI-L2
+-
+-
+EP-L3
+785,37
+20
+PPI-L4
+762,65
+45
+Matemática - (Bacharelado/Licenciatura) - Integral
+Instituto de Ciências Matemáticas e de Computação - São Carlos - USP
+código fuvest: 35/90
+código USP: 55030/100
+modalidade
+pontos finais
+classificação
+AC
+813,96
+6
+EP-L1
+746,89
+48
+PPI-L2
+-
+-
+EP-L3
+802,01
+10
+PPI-L4
+759,13
+32
+
+
+--- PAGE 13 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+13
+Matemática - (Licenciatura) - Noturno
+Instituto de Matemática e Estatística - USP
+código fuvest: 40/108
+código USP: 45024/4
+modalidade
+pontos finais
+classificação
+AC
+795,63
+13
+EP-L1
+752,78
+50
+PPI-L2
+705,89
+132
+EP-L3
+756,97
+41
+PPI-L4
+746,42
+62
+Matemática - (Licenciatura) - Matutino
+Instituto de Matemática e Estatística - USP
+código fuvest: 40/197
+código USP: 45024/2
+modalidade
+pontos finais
+classificação
+AC
+803,73
+4
+EP-L1
+759,70
+25
+PPI-L2
+735,02
+46
+EP-L3
+800,98
+6
+PPI-L4
+755,48
+30
+Medicina - (Bacharelado) - Integral
+Faculdade de Medicina - USP
+código fuvest: 3/19
+código USP: 5043/0
+modalidade
+pontos finais
+classificação
+AC
+844,00
+15
+EP-L1
+799,84
+818
+PPI-L2
+768,92
+2618
+EP-L3
+829,13
+76
+PPI-L4
+809,12
+469
+Medicina - (Bacharelado) - Integral
+Faculdade de Medicina de Ribeirão Preto - USP
+código fuvest: 6/23
+código USP: 17051/0
+modalidade
+pontos finais
+classificação
+AC
+842,72
+16
+EP-L1
+795,93
+986
+PPI-L2
+768,17
+2639
+EP-L3
+827,45
+92
+PPI-L4
+811,75
+372
+Medicina - (Bacharelado) - Integral
+Faculdade de Medicina de Bauru - USP
+código fuvest: 45/199
+código USP: 24010/0
+modalidade
+pontos finais
+classificação
+AC
+839,55
+16
+EP-L1
+797,99
+872
+PPI-L2
+766,00
+2740
+EP-L3
+827,02
+90
+PPI-L4
+800,41
+753
+Medicina Veterinária - (Bacharelado) - Integral
+Faculdade de Zootecnia e Engenharia de Alimentos - Pirassununga - USP
+código fuvest: 8/40
+código USP: 74201/0
+modalidade
+pontos finais
+classificação
+AC
+806,38
+4
+EP-L1
+737,70
+181
+PPI-L2
+704,53
+405
+EP-L3
+803,92
+7
+PPI-L4
+722,39
+271
+Medicina Veterinária - (Bacharelado) - Integral
+Faculdade de Medicina Veterinária e Zootecnia - USP
+código fuvest: 7/29
+código USP: 10012/0
+modalidade
+pontos finais
+classificação
+AC
+820,55
+6
+EP-L1
+771,72
+96
+PPI-L2
+754,15
+181
+EP-L3
+815,54
+11
+PPI-L4
+766,90
+119
+Meteorologia - (Bacharelado) - Integral
+Instituto de Astronomia, Geofísica e Ciências Atmosféricas - USP
+código fuvest: 37/187
+código USP: 14011/0
+modalidade
+pontos finais
+classificação
+AC
+798,28
+4
+EP-L1
+-
+-
+PPI-L2
+-
+-
+EP-L3
+789,25
+5
+PPI-L4
+726,44
+30
+Nutrição - (Bacharelado) - Matutino
+Faculdade de Saúde Pública - USP
+código fuvest: 32/36
+código USP: 6012/2
+modalidade
+pontos finais
+classificação
+AC
+806,52
+2
+EP-L1
+753,83
+67
+PPI-L2
+718,09
+210
+EP-L3
+772,80
+34
+PPI-L4
+-
+-
+Nutrição - (Bacharelado) - Noturno
+Faculdade de Saúde Pública - USP
+código fuvest: 32/37
+código USP: 6012/4
+modalidade
+pontos finais
+classificação
+AC
+793,89
+8
+EP-L1
+757,69
+56
+PPI-L2
+730,15
+119
+EP-L3
+766,95
+40
+PPI-L4
+-
+-
+Nutrição e Metabolismo - (Bacharelado) - Integral
+Faculdade de Medicina de Ribeirão Preto - USP
+código fuvest: 6/26
+código USP: 17400/0
+modalidade
+pontos finais
+classificação
+AC
+810,65
+2
+EP-L1
+752,00
+87
+PPI-L2
+722,91
+196
+EP-L3
+775,64
+44
+PPI-L4
+-
+-
+
+
+--- PAGE 14 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+14
+Obstetrícia - (Bacharelado) - Integral
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/4
+código USP: 86501/100
+modalidade
+pontos finais
+classificação
+AC
+799,76
+4
+EP-L1
+770,87
+36
+PPI-L2
+751,62
+87
+EP-L3
+774,19
+32
+PPI-L4
+767,76
+44
+Oceanografia - (Bacharelado) - Integral
+Instituto Oceanográfico - USP
+código fuvest: 19/113
+código USP: 21011/0
+modalidade
+pontos finais
+classificação
+AC
+792,27
+2
+EP-L1
+736,59
+20
+PPI-L2
+681,71
+76
+EP-L3
+761,71
+11
+PPI-L4
+711,50
+39
+Odontologia - (Bacharelado) - Integral
+Faculdade de Odontologia de Bauru - USP
+código fuvest: 18/32
+código USP: 25013/0
+modalidade
+pontos finais
+classificação
+AC
+843,21
+4
+EP-L1
+786,87
+75
+PPI-L2
+777,49
+101
+EP-L3
+806,59
+34
+PPI-L4
+784,13
+83
+Odontologia - (Bacharelado) - Integral
+Faculdade de Odontologia - USP
+código fuvest: 9/30
+código USP: 23012/0
+modalidade
+pontos finais
+classificação
+AC
+844,85
+8
+EP-L1
+791,48
+118
+PPI-L2
+769,29
+228
+EP-L3
+818,17
+42
+PPI-L4
+797,33
+96
+Odontologia - (Bacharelado) - Noturno
+Faculdade de Odontologia - USP
+código fuvest: 9/31
+código USP: 23012/4
+modalidade
+pontos finais
+classificação
+AC
+833,17
+5
+EP-L1
+794,42
+39
+PPI-L2
+756,08
+136
+EP-L3
+825,95
+8
+PPI-L4
+770,46
+91
+Odontologia - (Bacharelado) - Integral
+Faculdade de Odontologia de Ribeirão Preto - USP
+código fuvest: 26/35
+código USP: 58013/0
+modalidade
+pontos finais
+classificação
+AC
+842,63
+6
+EP-L1
+788,03
+111
+PPI-L2
+776,56
+153
+EP-L3
+807,50
+50
+PPI-L4
+782,76
+127
+Pedagogia - (Licenciatura) - Noturno
+Faculdade de Educação - USP
+código fuvest: 30/156
+código USP: 48015/104
+modalidade
+pontos finais
+classificação
+AC
+778,48
+11
+EP-L1
+712,80
+131
+PPI-L2
+698,97
+179
+EP-L3
+745,85
+48
+PPI-L4
+725,07
+92
+Pedagogia - (Licenciatura) - Noturno
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP
+código fuvest: 20/157
+código USP: 59052/4
+modalidade
+pontos finais
+classificação
+AC
+760,56
+4
+EP-L1
+688,79
+91
+PPI-L2
+674,83
+126
+EP-L3
+733,90
+20
+PPI-L4
+691,51
+83
+Pedagogia - (Licenciatura) - Vespertino
+Faculdade de Educação - USP
+código fuvest: 30/155
+código USP: 48015/103
+modalidade
+pontos finais
+classificação
+AC
+782,05
+8
+EP-L1
+717,90
+101
+PPI-L2
+710,98
+120
+EP-L3
+754,50
+29
+PPI-L4
+-
+-
+Psicologia - (Bacharelado) - Integral
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP
+código fuvest: 20/17
+código USP: 59032/0
+modalidade
+pontos finais
+classificação
+AC
+813,50
+3
+EP-L1
+747,05
+293
+PPI-L2
+734,34
+451
+EP-L3
+793,21
+23
+PPI-L4
+-
+-
+Psicologia - (Bacharelado/Licenciatura/Psicólogo) - Integral
+Instituto de Psicologia - USP
+código fuvest: 34/44
+código USP: 47012/0
+modalidade
+pontos finais
+classificação
+AC
+816,58
+6
+EP-L1
+761,32
+202
+PPI-L2
+755,04
+261
+EP-L3
+796,80
+38
+PPI-L4
+787,14
+65
+
+
+--- PAGE 15 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+15
+Química - (Bacharelado) - Integral
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP
+código fuvest: 20/77
+código USP: 59023/100
+modalidade
+pontos finais
+classificação
+AC
+792,90
+7
+EP-L1
+723,69
+71
+PPI-L2
+689,73
+126
+EP-L3
+768,81
+25
+PPI-L4
+723,14
+73
+Química - (Bacharelado) - Integral
+Instituto de Química de São Carlos - USP
+código fuvest: 15/116
+código USP: 75014/100
+modalidade
+pontos finais
+classificação
+AC
+794,74
+6
+EP-L1
+745,56
+44
+PPI-L2
+-
+-
+EP-L3
+783,32
+13
+PPI-L4
+719,45
+87
+Química - (Bacharelado e Licenciatura) - Noturno
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP
+código fuvest: 20/79
+código USP: 59071/4
+modalidade
+pontos finais
+classificação
+AC
+794,74
+2
+EP-L1
+717,52
+56
+PPI-L2
+703,96
+71
+EP-L3
+777,85
+6
+PPI-L4
+749,05
+25
+Química - (Bacharelado/Licenciatura) - Integral
+Instituto de Química - USP
+código fuvest: 17/114
+código USP: 46300/100
+modalidade
+pontos finais
+classificação
+AC
+808,42
+6
+EP-L1
+742,58
+75
+PPI-L2
+737,21
+87
+EP-L3
+804,76
+7
+PPI-L4
+-
+-
+Química - (Bacharelado/Licenciatura) - Noturno
+Instituto de Química - USP
+código fuvest: 17/115
+código USP: 46300/104
+modalidade
+pontos finais
+classificação
+AC
+788,55
+5
+EP-L1
+753,63
+33
+PPI-L2
+695,86
+170
+EP-L3
+770,28
+21
+PPI-L4
+-
+-
+Relações Internacionais - (Bacharelado) - Noturno
+Instituto de Relações Internacionais - USP
+código fuvest: 23/171
+código USP: 87003/4
+modalidade
+pontos finais
+classificação
+AC
+814,47
+2
+EP-L1
+773,53
+72
+PPI-L2
+-
+-
+EP-L3
+790,02
+22
+PPI-L4
+755,26
+138
+Relações Internacionais - (Bacharelado) - Vespertino
+Instituto de Relações Internacionais - USP
+código fuvest: 23/198
+código USP: 87003/3
+modalidade
+pontos finais
+classificação
+AC
+817,50
+7
+EP-L1
+781,27
+69
+PPI-L2
+-
+-
+EP-L3
+795,31
+28
+PPI-L4
+747,28
+238
+Relações Públicas - (Bacharelado) - Noturno
+Escola de Comunicações e Artes - USP
+código fuvest: 13/135
+código USP: 27110/4
+modalidade
+pontos finais
+classificação
+AC
+798,71
+3
+EP-L1
+756,23
+42
+PPI-L2
+-
+-
+EP-L3
+774,42
+15
+PPI-L4
+752,75
+48
+Relações Públicas - (Bacharelado) - Matutino
+Escola de Comunicações e Artes - USP
+código fuvest: 13/134
+código USP: 27110/2
+modalidade
+pontos finais
+classificação
+AC
+805,11
+1
+EP-L1
+756,67
+42
+PPI-L2
+-
+-
+EP-L3
+-
+-
+PPI-L4
+-
+-
+Saúde Pública - (Bacharelado) - Vespertino
+Faculdade de Saúde Pública - USP
+código fuvest: 32/38
+código USP: 6023/3
+modalidade
+pontos finais
+classificação
+AC
+802,46
+2
+EP-L1
+750,50
+19
+PPI-L2
+720,26
+45
+EP-L3
+777,44
+8
+PPI-L4
+-
+-
+Sistemas de Informação - (Bacharelado) - Matutino
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/45
+código USP: 86200/102
+modalidade
+pontos finais
+classificação
+AC
+815,93
+8
+EP-L1
+771,50
+53
+PPI-L2
+730,43
+206
+EP-L3
+800,01
+18
+PPI-L4
+779,25
+42
+
+
+--- PAGE 16 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+16
+Sistemas de Informação - (Bacharelado) - Noturno
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/46
+código USP: 86200/104
+modalidade
+pontos finais
+classificação
+AC
+800,66
+10
+EP-L1
+745,35
+136
+PPI-L2
+728,06
+231
+EP-L3
+787,85
+24
+PPI-L4
+762,38
+74
+Sistemas de Informação - (Bacharelado) - Noturno
+Instituto de Ciências Matemáticas e de Computação - São Carlos - USP
+código fuvest: 35/92
+código USP: 55051/4
+modalidade
+pontos finais
+classificação
+AC
+819,17
+4
+EP-L1
+780,08
+29
+PPI-L2
+753,29
+85
+EP-L3
+802,37
+9
+PPI-L4
+762,75
+55
+Terapia Ocupacional - (Bacharelado) - Integral
+Faculdade de Medicina de Ribeirão Preto - USP
+código fuvest: 6/25
+código USP: 17201/0
+modalidade
+pontos finais
+classificação
+AC
+788,15
+1
+EP-L1
+-
+-
+PPI-L2
+-
+-
+EP-L3
+762,30
+11
+PPI-L4
+-
+-
+Terapia Ocupacional - (Bacharelado) - Integral
+Faculdade de Medicina - USP
+código fuvest: 3/22
+código USP: 5073/0
+modalidade
+pontos finais
+classificação
+AC
+795,61
+2
+EP-L1
+736,35
+49
+PPI-L2
+702,63
+139
+EP-L3
+-
+-
+PPI-L4
+-
+-
+Têxtil e Moda - (Bacharelado) - Matutino
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/117
+código USP: 86250/102
+modalidade
+pontos finais
+classificação
+AC
+758,20
+6
+EP-L1
+706,21
+79
+PPI-L2
+670,36
+263
+EP-L3
+723,54
+40
+PPI-L4
+706,68
+78
+Turismo - (Bacharelado) - Noturno
+Escola de Comunicações e Artes - USP
+código fuvest: 13/128
+código USP: 27531/4
+modalidade
+pontos finais
+classificação
+AC
+762,61
+3
+EP-L1
+711,51
+28
+PPI-L2
+-
+-
+EP-L3
+735,14
+12
+PPI-L4
+734,20
+14
+Zootecnia - (Bacharelado) - Integral
+Faculdade de Zootecnia e Engenharia de Alimentos - Pirassununga - USP
+código fuvest: 8/39
+código USP: 74012/0
+modalidade
+pontos finais
+classificação
+AC
+782,90
+4
+EP-L1
+721,54
+70
+PPI-L2
+680,00
+217
+EP-L3
+751,66
+19
+PPI-L4
+-
+-

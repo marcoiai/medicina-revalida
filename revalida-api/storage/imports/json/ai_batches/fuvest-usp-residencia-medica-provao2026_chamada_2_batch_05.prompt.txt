@@ -1,0 +1,483 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/provao2026_chamada_2.pdf"
+  }
+]
+
+TEXTO-BASE:
+OLIVEIRA
+***071.298**
+FATEC - 1571643 - Gestão de Eventos - Noite - Fatec Presidente Prudente
+A
+ANDRESSA KALLY SANTOS DO CARMO
+***494.475**
+FATEC - 3081363 - Gestão da Qualidade - Noite - Fatec Itapevi
+A
+ANDRESSA MARTINS PEREIRA DE MATOS
+***352.628**
+FATEC - 1310623 - Comércio Exterior - Noite - Fatec Itapetininga - "Prof. Antonio Belizandro Barbosa Rezende"
+A
+ANDRESSA SALUSTIANO DA SILVA
+***951.168**
+FATEC - 2701341 - Design de Produto com Ênfase em Processos de Produção e Industrialização - Manhã - Fatec 
+Cotia
+B
+ANDRESSA SILVA OLIVEIRA
+***061.888**
+FATEC - 2160693 - Manutenção Industrial - Noite - Fatec Osasco - "Prefeito Hirant Sanazar"
+A
+ANDREW SANTOS NERI
+***488.948**
+FATEC - 0050743 - Logística - Noite - Fatec Baixada Santista – “Rubens Lara” – Santos
+A
+ANDREWS DAVI SILVA LINS
+***986.048**
+FATEC - 0020013 - Construção Civil - Edifícios - Noite - Fatec São Paulo - Município de São Paulo
+B
+ANDREY HENRIQUE DERACO LINS
+***389.884**
+FATEC - 1141461 - Gestão de Logística Integrada - Manhã - Fatec Jundiaí - "Deputado Ary Fossen"
+A
+ANDREY SANTANA CORATO*
+***219.168**
+USP - 74100/4 - Engenharia de Alimentos (Bacharelado) - Noturno - Faculdade de Zootecnia e Engenharia de 
+Alimentos
+A
+ANDREZA INAE DE PAULA SILVA
+***116.838**
+FATEC - 1090771 - Gestão da Produção Industrial - Manhã - Fatec Franca – “Dr. Thomaz Novelino”
+B
+ANDREZA SOUZA MONTEIRO
+***904.595**
+FATEC - 1290647 - Gestão Empresarial - EaD - Fatec Praia Grande
+A
+ANDRIEL SANTOS NERES SANTANA
+***137.058**
+FATEC - 1430963 - Jogos Digitais - Noite - Fatec Carapicuíba
+A
+ANELISE LIMA PADILHA PEREIRA
+***327.308**
+UNESP - 072 - Engenharia de Energia - integral - Faculdade de Engenharia e Ciências - Rosana
+A
+ANELIZE GONCALVES
+***046.909**
+FATEC - 3081293 - Gestão Pública - Noite - Fatec Itapevi
+A
+ANELYZE AMORIM MARIANO
+***511.268**
+FATEC - 1570703 - Agronegócio - Noite - Fatec Presidente Prudente
+A
+ANGEL DOMINICK SILVEIRA ALVES DA CRUZ
+***063.888**
+USP - 16011/0 - Arquitetura e Urbanismo (Bacharelado) - Integral - São Paulo (Butantã/Leste/Quadrilátero 
+Saúde/Direito)
+A
+ANGELA BORGES DE OLIVEIRA
+***601.708**
+FATEC - 2700771 - Gestão da Produção Industrial - Manhã - Fatec Cotia
+A
+ANGELA GONCALVES SILVA*
+***189.338**
+UNESP - 129 - Matemática - Licenciatura - noturno - Faculdade de Engenharia e Ciências - Guaratinguetá
+A
+ANGELA MORAIS DOS SANTOS
+***000.768**
+USP - 86150/104 - Lazer e Turismo (Bacharelado) - Noturno - São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+C
+11
+* convocado para vaga PPI
+
+
+--- PAGE 12 ---
+
+Lista de convocação para matrícula - 2ª Chamada
+nome do candidato
+identificação
+curso
+Provão Paulista Seriado 2025 - 3ª Série Ensino Médio
+grupo
+ANGELICA ARACAVA LOPES
+***319.008**
+UNESP - 021 - Ciências Biológicas - Bacharelado e Licenciatura - integral - Instituto de Biociências de Rio Claro - Rio 
+Claro
+C
+ANGELICA DRAGOJEVIC LAURINDO
+***703.648**
+FATEC - 1840647 - Gestão Empresarial - EaD - Fatec Mogi das Cruzes
+A
+ANGELINA MARIANO MENDES
+***371.308**
+FATEC - 1090647 - Gestão Empresarial - EaD - Fatec Franca – “Dr. Thomaz Novelino”
+C
+ANGELINA SILVA SOUZA
+***197.718**
+FATEC - 1921363 - Gestão da Qualidade - Noite - Fatec Lins - "Prof. Antonio Seabra"
+A
+ANGELINA SOUZA SANTOS
+***370.048**
+UNESP - 173 - Relações Públicas - noturno - Faculdade de Arquitetura, Artes, Comunicação e Design - Bauru
+B
+ANGELO GABRIEL ARAUJO DE SOUZA
+***491.788**
+FATEC - 1130923 - Informática para Negócios - Noite - Fatec Mauá
+C
+ANGELO GABRIEL MENDES MOURA SOUZA
+***457.228**
+FATEC - 0021003 - Fabricação Mecânica - Noite - Fatec São Paulo - Município de São Paulo
+A
+ANGELO HENRIK GOMES CORREA
+***423.488**
+FATEC - 1320901 - Automação Industrial - Manhã - Fatec Tatuí - "Prof. Wilson Roberto Ribeiro de Camargo"
+A
+ANGIE PORTILLA MENA
+***208.598**
+FATEC - 2171011 - Cosméticos - Manhã - Fatec Diadema – “Luigi Papaiz”
+A
+ANNA BEATRIZ BERNARDO SILVA
+***431.998**
+FATEC - 1130647 - Gestão Empresarial - EaD - Fatec Mauá
+A
+ANNA BEATRIZ GREGO FABRICIO*
+***837.168**
+UNESP - 045 - Educação Física - Bacharelado - noturno - Faculdade de Ciências - Bauru
+A
+ANNA BEATRIZ PEREIRA FRANCISCO
+***895.178**
+FATEC - 0021221 - Instalações Elétricas - Manhã - Fatec São Paulo - Município de São Paulo
+A
+ANNA BEATRIZ RODRIGUES BELO DOS SANTOS
+***888.348**
+FATEC - 1060753 - Gestão Comercial - Noite - Fatec Guaratinguetá - "Prof. João Mod"
+A
+ANNA BEATRIZ TEIXEIRA SEVILHA
+***343.148**
+FATEC - 1890643 - Gestão Empresarial - Noite - Fatec São Sebastião
+A
+ANNA CAROLLYNE CHAGAS RAMOS
+***644.518**
+FATEC - 1141463 - Gestão de Logística Integrada - Noite - Fatec Jundiaí - "Deputado Ary Fossen"
+B
+ANNA CIBELLY VENTURA LAUTON
+***203.405**
+FATEC - 1780647 - Gestão Empresarial - EaD - Fatec Itu - "Dom Amaury Castanho"
+A
+ANNA CLARA DE ALMEIDA SOUSA SIQUEIRA
+***989.248**
+FATEC - 1110641 - Gestão Empresarial - Manhã - Fatec Zona Leste - Município de São Paulo
+A
+ANNA CLARA PERES PERFETTO
+***721.328**
+FATEC - 0030811 - Processos Metalúrgicos - 1º ao 4º semestre Manhã/ 5º e 6º semestre Noite - Fatec Sorocaba - 
+"José Crespo Gonzales"
+A
+ANNA CLARA SANTOS NASCIMENTO*
+***781.018**
+USP - 88152/0 - Engenharia Bioquímica (Bacharelado) - Integral - Escola de Engenharia de Lorena
+A
+ANNA GABRIELLY WENCESLAU JULIAO*
+***435.038**
+UNESP - 105 - Geografia - Bacharelado e Licenciatura - matutino - Faculdade de Ciências, Tecnologia e Educação - 
+Ourinhos
+C
+ANNA JULIA DE PAULA SILVA
+***477.028**
+FATEC - 1110622 - Comércio Exterior - 1º ao 4º semestre Tarde/ 5º e 6º semestre Noite - Fatec Zona Leste - 
+Município de São Paulo
+A
+ANNA JULIA DE SOUZA AMARAL
+***758.078**
+FATEC - 0030647 - Gestão Empresarial - EaD - Fatec Sorocaba - "José Crespo Gonzales"
+A
+ANNA JULIA NASCIMENTO
+***293.888**
+FATEC - 2160762 - Gestão Financeira - Tarde - Fatec Osasco - "Prefeito Hirant Sanazar"
+C
+ANNA JULIA SOUZA DO ESPIRITO SANTO
+***887.348**
+FATEC - 2171011 - Cosméticos - Manhã - Fatec Diadema – “Luigi Papaiz”
+B
+ANNA KAROLLINA DOS SANTOS ARAUJO
+***978.408**
+FATEC - 0050743 - Logística - Noite - Fatec Baixada Santista – “Rubens Lara” – Santos
+A
+ANNA LETICIA RODRIGUES
+***617.678**
+FATEC - 0050741 - Logística - Manhã - Fatec Baixada Santista – “Rubens Lara” – Santos
+C
+ANNA LUIZA KEBIM MONTEIRO
+***044.588**
+FATEC - 2510647 - Gestão Empresarial - EaD - Fatec Taubaté
+C
+ANNA LUIZA LACERDA DOS SANTOS
+***624.048**
+USP - 8051/102 - Letras (Bacharelado/Licenciatura) - Matutino - São Paulo (Butantã/Leste/Quadrilátero 
+Saúde/Direito)
+A
+ANNA RITHA FEITOSA SILVA DE OLIVEIRA
+***344.104**
+FATEC - 2900643 - Gestão Empresarial - Noite - Fatec Araras – "Antonio Brambilla"
+A
+ANNA VICTORIA DE SOUZA OLIVEIRA
+***765.648**
+FATEC - 1921363 - Gestão da Qualidade - Noite - Fatec Lins - "Prof. Antonio Seabra"
+C
+ANNE CAROLINE GALDINO SANTOS
+***756.938**
+FATEC - 2760933 - Processos Químicos - Noite - Fatec Campinas
+A
+ANNE LUIZA MENDONCA
+***466.468**
+FATEC - 2900643 - Gestão Empresarial - Noite - Fatec Araras – "Antonio Brambilla"
+C
+ANNE SALUTE BALIEIRO
+***632.408**
+FATEC - 2700641 - Gestão Empresarial - Manhã - Fatec Cotia
+B
+12
+* convocado para vaga PPI
+
+
+--- PAGE 13 ---
+
+Lista de convocação para matrícula - 2ª Chamada
+nome do candidato
+identificação
+curso
+Provão Paulista Seriado 2025 - 3ª Série Ensino Médio
+grupo
+ANNE THALYA SILVA BRITO
+***130.608**
+FATEC - 1780643 - Gestão Empresarial - Noite - Fatec Itu - "Dom Amaury Castanho"
+C
+ANNELISE THAINA GONCALVES DOS SANTOS
+***236.338**
+FATEC - 1190481 - Análise e Desenvolvimento de Sistemas - Manhã - Fatec Garça - "Deputado Júlio Julinho 
+Marcondes de Moura"
+A
+ANNY VITORIA ANTONIO
+***004.168**
+FATEC - 0220702 - Agronegócio - Tarde - Fatec Taquaritinga - "Marlene Maria Miletta Servidoni"
+A
+ANTHONY DANIEL BARBOSA PINTO
+***670.788**
+FATEC - 1300647 - Gestão Empresarial - EaD - Fatec Marília - "Estudante Rafael Almeida Camarinha"
+A
+ANTHONY JOSE DE SOUSA LIMA
+***456.528**
+FATEC - 0040482 - Análise e Desenvolvimento de Sistemas - 1º ao 4º semestre Tarde/ 5º e 6º semestre Noite - Fatec 
+Americana - "Ministro Ralph Biasi"
+A
+ANTHONY LUIZ GOMES DA SILVA
+***057.538**
+FATEC - 1760693 - Manutenção Industrial - Noite - Fatec Sertãozinho - "Deputado Waldyr Alceu Trigo"
+A
+ANTHONY SANTOS DE JESUS OLIVEIRA
+***550.868**
+FATEC - 1550751 - Gestão Comercial - Manhã - Fatec Itaquaquecetuba
+A
+ANTONIA RAYSSA ALVES PEREIRA DE LIMA
+***420.788**
+USP - 6012/4 - Nutrição (Bacharelado) - Noturno - São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+A
+ANTONIO ABELO JUNIOR
+***504.248**
+FATEC - 1090481 - Análise e Desenvolvimento de Sistemas - Manhã - Fatec Franca – “Dr. Thomaz Novelino”
+A
+ANTONIO CARLOS MOLINA DE FARIA
+***343.778**
+FATEC - 1920831 - Sistemas para Internet - Manhã - Fatec Lins - "Prof. Antonio Seabra"
+A
+ANTONIO DANIEL ALVES SIMOES
+***384.338**
+FATEC - 2161393 - Desenvolvimento de Software Multiplataforma - Noite - Fatec Osasco - "Prefeito Hirant Sanazar"
+A
+ANTONIO GABRIEL CAVALHEIRO DOS SANTOS
+***819.318**
+FATEC - 1960903 - Automação Industrial - Noite - Fatec Bauru
+C
+ANTONIO GABRIEL LIMA DE JESUS
+***804.718**
+FATEC - 3011053 - Controle de Obras - Noite - Fatec Votorantim - "Benedicto Pagliato"
+A
+ANTONIO JOSE DOS SANTOS NETO
+***152.708**
+FATEC - 1780783 - Gestão da Tecnologia da Informação - Noite - Fatec Itu - "Dom Amaury Castanho"
+A
+ANTONIO JULIO PAULINO FREITAS
+***819.288**
+FATEC - 2961461 - Gestão de Logística Integrada - Manhã - Fatec Sumaré
+A
+ANTONIO LENINE OLIVEIRA AZEVEDO*
+***711.218**
+USP - 86150/104 - Lazer e Turismo (Bacharelado) - Noturno - São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+B
+ANTONIO LUIS CAMPELO LIMA
+***543.358**
+FATEC - 2090622 - Comércio Exterior - Tarde - Fatec Barueri – “Padre Danilo José de Oliveira Ohl”
+A
+ANTONIO LUIS MOREIRA GOMES FILHO
+***022.848**
+FATEC - 1601131 - Mecânica Automobilística - Manhã - Fatec Santo André
+A
+ANTONIO RODRIGUES PEREIRA DOS SANTOS
+***400.288**
+FATEC - 1140873 - Gestão Ambiental - Noite - Fatec Jundiaí - "Deputado Ary Fossen"
+A
+ANTONIO VARGAS
+***774.138**
+FATEC - 2510647 - Gestão Empresarial - EaD - Fatec Taubaté
+A
+ANTONIO VICTOR GOUVEIA DE LIMA
+***730.988**
+FATEC - 1670482 - Análise e Desenvolvimento de Sistemas - 1º ao 4º semestre Tarde/ 5º e 6º semestre Noite - Fatec 
+Guarulhos
+A
+ANTONNY GABRIEL MAGALHAES MEDEIROS
+***671.338**
+FATEC - 1710833 - Sistemas para Internet - Noite - Fatec Jales - "Prof. José Camargo"
+A
+ANTONY DO NASCIMENTO BISPO DE JESUS
+***393.858**
+FATEC - 2860773 - Gestão da Produção Industrial - Noite - Fatec Itatiba - "Maria Eunice Amadeo de Almeida"
+A
+ANTONY RAPHAEL OLIVEIRA BORGES
+***690.928**
+FATEC - 1760983 - Mecânica - Processos de Soldagem - Noite - Fatec Sertãozinho - "Deputado Waldyr Alceu Trigo"
+C
+ANY EDUARDA DE JESUS CARDOZO
+***363.758**
+FATEC - 2501051 - Controle de Obras - Manhã - Fatec Tatuapé - "Victor Civita" - Município de São Paulo
+A
+APOLLO DUARTE VIVAN
+***935.448**
+FATEC - 2650753 - Gestão Comercial - Noite - Fatec São Roque - "Dr. Bernardino de Campos"
+A
+AQUILLES DE OLIVEIRA VIANNA BUENO
+***026.568**
+FATEC - 1781083 - Agroindústria - Noite - Fatec Capão Bonito
+A
+ARAO NICOLLAS ARAUJO LOPES
+***252.438**
+FATEC - 1780647 - Gestão Empresarial - EaD - Fatec Itu - "Dom Amaury Castanho"
+A
+ARIEL PEREIRA DE SOUZA
+***585.958**
+FATEC - 1730873 - Gestão Ambiental - Noite - Fatec Jaboticabal - "Nilo de Stéfani"
+A
+ARIEL SUPINO DE CAMARGO
+***135.448**
+FATEC - 1960613 - Sistemas Biomédicos - Noite - Fatec Bauru
+A
+ARTEMIA VITORIA DE SOUZA ALVES
+***321.128**
+FATEC - 2650833 - Sistemas para Internet - Noite - Fatec São Roque - "Dr. Bernardino de Campos"
+C
+ARTHUR ALFREDO DA SILVA OLIVEIRA
+***600.988**
+FATEC - 3081293 - Gestão Pública - Noite - Fatec Itapevi
+A
+ARTHUR ANDRADE BENCICI
+***867.128**
+FATEC - 0020263 - Hidráulica e Saneamento Ambiental - Noite - Fatec São Paulo - Município de São Paulo
+A
+ARTHUR ASADA RODRIGUES
+***240.457**
+FATEC - 0050743 - Logística - Noite - Fatec Baixada Santista – “Rubens Lara” – Santos
+A
+13
+* convocado para vaga PPI
+
+
+--- PAGE 14 ---
+
+Lista de convocação para matrícula - 2ª Chamada
+nome do candidato
+identificação
+curso
+Provão Paulista Seriado 2025 - 3ª Série Ensino Médio
+grupo
+ARTHUR BARROS MARTINS PEREIRA
+***861.198**
+FAT

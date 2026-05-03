@@ -1,0 +1,1220 @@
+
+Você é um revisor técnico de questões médicas para Revalida/Residência.
+
+TAREFA:
+Reescreva somente as alternativas de cada questão abaixo.
+
+OBJETIVO:
+- melhorar alternativas curtas, telegráficas, vagas ou desequilibradas
+- tornar as alternativas mais homogêneas em extensão e formato
+- preservar tema, enunciado, eixo decisório e gabarito
+- deixar as erradas plausíveis, mas incorretas ou menos adequadas
+- evitar alternativas caricatas ou obviamente descartáveis
+
+REGRAS CRÍTICAS:
+- NÃO altere o enunciado
+- NÃO altere o gabarito
+- NÃO mude o tema central da questão
+- NÃO invente detalhe técnico não sustentado pelo enunciado
+- mantenha todas as alternativas na mesma categoria lógica
+- evite rótulos secos quando for possível escrever algo mais informativo
+- a alternativa correta não pode ficar nitidamente mais longa ou mais específica que as demais
+- se a reescrita segura não for possível, marque `rewrite_status` como `manual_review`
+
+FORMATO DE SAÍDA:
+Responda APENAS com JSON válido, no formato:
+[
+  {
+    "id": 123,
+    "rewrite_status": "rewritten",
+    "rewrite_version": 1,
+    "rewritten_alternatives": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "answer_changed": false,
+    "risk_flags": [],
+    "rewrite_notes": [
+      "frase curta explicando a reescrita"
+    ]
+  }
+]
+
+QUESTÕES:
+[
+  {
+    "id": 7099,
+    "area": "Clínica Médica",
+    "tema": "Complicações do Diabetes Mellitus",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente com Diabetes Mellitus tipo 2 de longa data apresenta dor e dormência em 'luva e meia' nos membros inferiores, além de fraqueza muscular distal. Qual complicação crônica do diabetes é mais provável responsável por esses sintomas?",
+    "original_alternatives": {
+      "A": "Nefropatia diabética",
+      "B": "Retinopatia diabética",
+      "C": "Neuropatia diabética periférica",
+      "D": "Gastroparesia diabética",
+      "E": "Doença arterial periférica"
+    },
+    "gabarito": "C",
+    "original_comment": "A neuropatia diabética periférica é uma complicação comum do diabetes de longa data, caracterizada por danos nos nervos periféricos. Os sintomas típicos incluem dor, dormência, parestesias (sensação de 'luva e meia') e fraqueza muscular, predominantemente nas extremidades.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 3,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 20,
+        "B": 21,
+        "C": 31,
+        "D": 23,
+        "E": 26
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7100,
+    "area": "Cirurgia",
+    "tema": "Abdome agudo",
+    "dificuldade": "Fácil",
+    "enunciado": "Um paciente de 25 anos apresenta dor abdominal periumbilical que migrou para a fossa ilíaca direita, acompanhada de náuseas, vômitos e febre baixa. Ao exame físico, há dor à descompressão brusca na fossa ilíaca direita (sinal de Blumberg). Qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Colecistite aguda",
+      "B": "Diverticulite aguda",
+      "C": "Apendicite aguda",
+      "D": "Pancreatite aguda",
+      "E": "Gastroenterite aguda"
+    },
+    "gabarito": "C",
+    "original_comment": "A apendicite aguda é caracterizada pela dor periumbilical que migra para a fossa ilíaca direita, acompanhada de náuseas, vômitos e febre. O sinal de Blumberg (dor à descompressão brusca) na fossa ilíaca direita é um achado clássico de irritação peritoneal associada à apendicite.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 19,
+        "C": 16,
+        "D": 17,
+        "E": 20
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7115,
+    "area": "Cirurgia",
+    "tema": "Tumores do Estroma Gastrointestinal (GIST) - Estratificação de Risco",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 60 anos é submetido à ressecção cirúrgica de um Tumor do Estroma Gastrointestinal (GIST) gástrico. O exame anatomopatológico revela um tumor de 4 cm de diâmetro, com 8 mitoses por 50 campos de grande aumento. Qual a categoria de risco de progressão para este paciente?",
+    "original_alternatives": {
+      "A": "Risco muito baixo.",
+      "B": "Risco baixo.",
+      "C": "Risco intermediário.",
+      "D": "Risco alto.",
+      "E": "Risco indeterminado, necessita de mais marcadores."
+    },
+    "gabarito": "D",
+    "original_comment": "A estratificação de risco para GIST é baseada no tamanho do tumor e no índice mitótico, além da localização. Para um GIST gástrico, a combinação de tamanho e mitoses define o risco. Um tumor gástrico de 4 cm com 8 mitoses/50 CGA é classificado como de alto risco de progressão. As categorias de risco são: muito baixo (<2 cm e <5 mitoses), baixo (2-5 cm e <5 mitoses), intermediário (5-10 cm e <5 mitoses OU <5 cm e 5-10 mitoses), e alto (>5 cm e >5 mitoses OU >10 cm e qualquer mitose OU qualquer tamanho e >10 mitoses).",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 6
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 12,
+        "C": 20,
+        "D": 11,
+        "E": 50
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7119,
+    "area": "Clínica Médica",
+    "tema": "Colangite Esclerosante Primária (CEP) - Complicações",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 40 anos, com diagnóstico de retocolite ulcerativa e colangite esclerosante primária (CEP) há 5 anos, apresenta icterícia progressiva, prurido intenso e perda de peso nos últimos 3 meses. Exames de imagem recentes mostram uma estenose dominante na via biliar principal e dilatação a montante. Qual a complicação mais preocupante a ser investigada neste cenário?",
+    "original_alternatives": {
+      "A": "Coledocolitíase.",
+      "B": "Pancreatite aguda.",
+      "C": "Colangiocarcinoma.",
+      "D": "Cirrose biliar primária.",
+      "E": "Colecistite aguda."
+    },
+    "gabarito": "C",
+    "original_comment": "Pacientes com Colangite Esclerosante Primária (CEP), especialmente aqueles com retocolite ulcerativa, têm um risco significativamente aumentado de desenvolver colangiocarcinoma. A icterícia progressiva, prurido e perda de peso, juntamente com uma estenose dominante na via biliar e dilatação a montante, são sinais de alerta para esta complicação grave e devem levar a uma investigação aprofundada para descartar colangiocarcinoma. Embora coledocolitíase possa ocorrer, o quadro clínico e de imagem são mais sugestivos de malignidade. Cirrose biliar primária é outra doença colestática, não uma complicação da CEP. Pancreatite e colecistite aguda teriam quadros mais agudos e específicos.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 2,
+        "C": 1,
+        "D": 3,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 16,
+        "B": 18,
+        "C": 18,
+        "D": 24,
+        "E": 18
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7121,
+    "area": "Clínica Médica",
+    "tema": "Doença de Crohn - Tratamento Clínico",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 28 anos é diagnosticada com Doença de Crohn ileocólica moderada a grave, com atividade inflamatória significativa e sem complicações fistulizantes ou estenóticas. Ela nunca recebeu tratamento para a doença. Qual a classe de medicamentos que geralmente é considerada como terapia de indução de remissão de primeira linha neste cenário?",
+    "original_alternatives": {
+      "A": "Aminossalicilatos (5-ASA).",
+      "B": "Corticosteroides sistêmicos.",
+      "C": "Imunomoduladores (azatioprina/mercaptopurina).",
+      "D": "Biológicos (anti-TNF alfa).",
+      "E": "Antibióticos (ciprofloxacino/metronidazol)."
+    },
+    "gabarito": "B",
+    "original_comment": "Para a indução de remissão em Doença de Crohn moderada a grave, os corticosteroides sistêmicos (como prednisona ou metilprednisolona) são geralmente a primeira linha de tratamento devido à sua rápida ação anti-inflamatória, visando controlar os sintomas agudos. Aminossalicilatos têm eficácia limitada ou nula na Doença de Crohn. Imunomoduladores e biológicos são frequentemente usados para manutenção da remissão ou em casos refratários, mas podem ser iniciados concomitantemente com corticoides para permitir a retirada gradual destes. Antibióticos são indicados para complicações infecciosas ou doença perianal, não como terapia de indução primária para inflamação luminal.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 3,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 26,
+        "B": 28,
+        "C": 46,
+        "D": 27,
+        "E": 43
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7122,
+    "area": "Clínica Médica",
+    "tema": "Sepse e Choque Séptico, Manejo Antimicrobiano",
+    "dificuldade": "Média",
+    "enunciado": "Homem, 55 anos, diabético e tabagista, é admitido no pronto-socorro com febre, tosse produtiva e dispneia progressiva há 3 dias. Apresenta PA 80x50 mmHg, FC 120 bpm, FR 32 irpm, SpO2 88% em ar ambiente. Exame físico revela estertores crepitantes em base pulmonar direita. Leucocitose com desvio à esquerda. Raio-X de tórax mostra consolidação em lobo inferior direito. Após estabilização inicial com fluidos e oxigênio, qual a conduta antimicrobiana empírica mais adequada?",
+    "original_alternatives": {
+      "A": "Ceftriaxona e Azitromicina.",
+      "B": "Piperacilina-Tazobactam e Vancomicina.",
+      "C": "Ciprofloxacino e Clindamicina.",
+      "D": "Ampicilina-Sulbactam e Doxiciclina.",
+      "E": "Meropenem e Anfotericina B."
+    },
+    "gabarito": "B",
+    "original_comment": "O paciente apresenta um quadro de pneumonia grave com choque séptico, indicando necessidade de cobertura ampla para patógenos comuns e atípicos, além de considerar a possibilidade de germes multirresistentes em pacientes com comorbidades. A combinação de Piperacilina-Tazobactam (cobrindo Gram-positivos, Gram-negativos, incluindo Pseudomonas, e anaeróbios) e Vancomicina (cobrindo MRSA) é uma escolha empírica robusta para pneumonia adquirida na comunidade grave ou pneumonia associada aos cuidados de saúde, especialmente na presença de choque.\n(A) Ceftriaxona e Azitromicina é uma boa opção para pneumonia adquirida na comunidade de gravidade moderada, mas pode ser insuficiente para um caso grave com choque.\n(C) Ciprofloxacino e Clindamicina não oferece cobertura adequada para pneumonia grave, especialmente para Gram-positivos e alguns Gram-negativos.\n(D) Ampicilina-Sulbactam e Doxiciclina é uma opção para pneumonia menos grave ou com espectro mais restrito.\n(E) Meropenem e Anfotericina B seria excessivo para um tratamento empírico inicial sem evidências de infecção fúngica invasiva e Meropenem é um carbapenêmico de amplo espectro, geralmente reservado para casos mais específicos de resistência.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 27,
+        "B": 38,
+        "C": 30,
+        "D": 35,
+        "E": 27
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7134,
+    "area": "Clínica Médica",
+    "tema": "Náuseas e vômitos induzidos por quimioterapia",
+    "dificuldade": "Média",
+    "enunciado": "Uma paciente de 48 anos, em tratamento quimioterápico com esquema altamente emetogênico para câncer de mama, apresenta náuseas e vômitos persistentes apesar da profilaxia com ondansetrona, dexametasona e aprepitanto. Ela relata impacto significativo na qualidade de vida e adesão ao tratamento. Qual das seguintes opções seria a mais adequada para adicionar ao regime antiemético?",
+    "original_alternatives": {
+      "A": "Metoclopramida.",
+      "B": "Dimenidrinato.",
+      "C": "Haloperidol.",
+      "D": "Escopolamina transdérmica.",
+      "E": "Lorazepam."
+    },
+    "gabarito": "C",
+    "original_comment": "Em casos de náuseas e vômitos induzidos por quimioterapia (NVIQ) refratários à profilaxia padrão (antagonista 5-HT3, corticosteroide, antagonista NK1), é comum adicionar um agente com mecanismo de ação diferente. O haloperidol, um antipsicótico de primeira geração, é um antagonista dopaminérgico que pode ser eficaz no controle da êmese refratária, especialmente em doses baixas. A metoclopramida é um pró-cinético e antagonista dopaminérgico, mas pode ter sido já considerada ou não ser suficiente. Dimenidrinato é um anti-histamínico/anticolinérgico, mais para cinetose. Escopolamina é anticolinérgica. Lorazepam é um benzodiazepínico, útil para ansiedade antecipatória e como coadjuvante, mas não é um antiemético primário para NVIQ refratários. A olanzapina, um antipsicótico atípico, também é uma excelente opção para NVIQ refratários e é frequentemente utilizada. Entre as opções dadas, o haloperidol é uma escolha válida.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 15,
+        "B": 14,
+        "C": 12,
+        "D": 26,
+        "E": 10
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7152,
+    "area": "Cirurgia | Clínica Médica",
+    "tema": "Lesões císticas pancreáticas; Cistoadenoma Seroso",
+    "dificuldade": "Média",
+    "enunciado": "Paciente de 68 anos, sexo feminino, assintomática, realiza ultrassonografia de rotina que revela lesão cística de 2,5 cm no corpo do pâncreas. A ressonância magnética subsequente mostra que a lesão é unilocular, com paredes finas, sem nódulos murais ou comunicação com o ducto pancreático principal, que tem calibre normal. A ecoendoscopia com punção aspirativa por agulha fina (PAAF) do cisto revela líquido seroso, com CEA baixo (15 ng/mL) e amilase normal. Qual o diagnóstico mais provável para essa paciente?",
+    "original_alternatives": {
+      "A": "Neoplasia Mucinosa Papilar Intraductal (IPMN) de ducto secundário.",
+      "B": "Cistoadenoma Seroso.",
+      "C": "Neoplasia Cística Mucinosa.",
+      "D": "Pseudocisto Pancreático.",
+      "E": "Tumor Sólido Pseudopapilar."
+    },
+    "gabarito": "B",
+    "original_comment": "O cistoadenoma seroso é o diagnóstico mais provável para uma lesão cística pancreática unilocular ou microcística, com paredes finas, sem comunicação com o ducto principal, e com líquido seroso de baixo CEA e amilase normal. A ausência de comunicação com o ducto principal e o baixo CEA afastam IPMN e neoplasia cística mucinosa, que tipicamente apresentam mucina e CEA elevado. Pseudocisto pancreático estaria associado a histórico de pancreatite e o líquido teria alta amilase. Tumor sólido pseudopapilar é uma lesão sólida-cística, mais comum em mulheres jovens, com características de imagem diferentes.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 8,
+        "B": 2,
+        "C": 3,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 66,
+        "B": 20,
+        "C": 27,
+        "D": 24,
+        "E": 27
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7155,
+    "area": "Cirurgia",
+    "tema": "Complicações da cirurgia bariátrica; Bypass gástrico",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 32 anos, submetida a bypass gástrico há 2 anos, procura o pronto-socorro com queixa de dor abdominal difusa intermitente, náuseas e vômitos biliosos, que pioram após as refeições. Ela relata episódios prévios semelhantes, mas de menor intensidade. O exame físico revela dor à palpação abdominal, sem sinais de peritonite. Exames laboratoriais são normais. Qual a hipótese diagnóstica mais provável?",
+    "original_alternatives": {
+      "A": "Estenose da gastroenteroanastomose.",
+      "B": "Hérnia interna.",
+      "C": "Úlcera marginal.",
+      "D": "Colelitíase.",
+      "E": "Síndrome de dumping."
+    },
+    "gabarito": "B",
+    "original_comment": "A hérnia interna é uma complicação tardia do bypass gástrico, caracterizada por dor abdominal intermitente, náuseas e vômitos, muitas vezes piorando após as refeições, devido à rotação ou encarceramento de alças intestinais através de defeitos mesentéricos criados durante a cirurgia. A estenose da anastomose geralmente causa disfagia progressiva e vômitos de alimentos não digeridos, e não dor abdominal difusa e vômitos biliosos tão proeminentes. Úlcera marginal causaria dor epigástrica e possivelmente sangramento. Colelitíase pode causar dor biliar, mas não o padrão de obstrução intermitente. Síndrome de dumping é caracterizada por sintomas vasomotores e gastrointestinais precoces ou tardios após a ingestão de alimentos, mas não dor abdominal obstrutiva.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 2,
+        "C": 2,
+        "D": 1,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 35,
+        "B": 15,
+        "C": 16,
+        "D": 12,
+        "E": 20
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7179,
+    "area": "Cirurgia",
+    "tema": "Tipos Específicos de Hérnias Inguinais",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 45 anos apresenta dor e abaulamento irredutível na região inguinal direita. É submetido à cirurgia de emergência. Durante a exploração do saco herniário, o cirurgião encontra um apêndice cecal inflamado e edemaciado, sem outras estruturas abdominais dentro do saco. Qual o tipo de hérnia inguinal que melhor descreve este achado?",
+    "original_alternatives": {
+      "A": "Hérnia de Littre.",
+      "B": "Hérnia de Richter.",
+      "C": "Hérnia de Amyand.",
+      "D": "Hérnia de Spiegel.",
+      "E": "Hérnia de Garengeot."
+    },
+    "gabarito": "C",
+    "original_comment": "A Hérnia de Amyand é caracterizada pela presença do apêndice cecal dentro do saco herniário inguinal, com ou sem inflamação. Neste caso, o apêndice está inflamado, o que é uma apresentação clássica da Hérnia de Amyand. A Hérnia de Littre (A) envolve a presença de um divertículo de Meckel no saco herniário. A Hérnia de Richter (B) ocorre quando apenas uma parte da circunferência da parede intestinal está encarcerada ou estrangulada, sem obstrução completa do lúmen. A Hérnia de Spiegel (D) é uma hérnia ventral lateral que ocorre através da aponeurose de Spiegel. A Hérnia de Garengeot (E) é semelhante à Hérnia de Amyand, mas ocorre dentro de um saco herniário femoral, não inguinal. Portanto, a descrição do caso se encaixa perfeitamente na Hérnia de Amyand.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 18,
+        "C": 17,
+        "D": 18,
+        "E": 20
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7182,
+    "area": "Cirurgia | Fisiologia",
+    "tema": "Tromboelastograma",
+    "dificuldade": "Difícil",
+    "enunciado": "Um paciente em unidade de terapia intensiva, com coagulopatia complexa, é monitorizado com tromboelastograma (TEG). O resultado do TEG mostra um tempo de formação do coágulo (K) prolongado e um ângulo alfa (α) diminuído, mas com amplitude máxima (MA) normal. Qual das seguintes alterações na coagulação é mais provável que esteja ocorrendo neste paciente?",
+    "original_alternatives": {
+      "A": "Deficiência de fatores da coagulação.",
+      "B": "Trombocitopenia grave.",
+      "C": "Hiperfibrinólise.",
+      "D": "Excesso de heparina.",
+      "E": "Deficiência de fibrinogênio."
+    },
+    "gabarito": "E",
+    "original_comment": "O tromboelastograma (TEG) avalia a viscoelasticidade do coágulo. O tempo K (K time) reflete a velocidade de formação do coágulo, influenciado principalmente pela função plaquetária e pelos níveis de fibrinogênio. O ângulo alfa (α angle) reflete a taxa de formação do coágulo, também dependendo da função plaquetária e do fibrinogênio. A amplitude máxima (MA) representa a força máxima do coágulo, sendo primariamente determinada pela função plaquetária e, secundariamente, pelo fibrinogênio. Neste caso, um K prolongado e um ângulo alfa diminuído indicam um atraso na formação do coágulo e uma taxa de formação lenta. No entanto, a MA normal sugere que a função plaquetária é adequada. Portanto, a combinação de K prolongado, ângulo alfa diminuído e MA normal é altamente sugestiva de deficiência de fibrinogênio. Se houvesse trombocitopenia grave (B), a MA estaria diminuída. Deficiência de fatores da coagulação (A) afetaria principalmente o tempo R (R time), que não foi mencionado. Hiperfibrinólise (C) levaria a uma diminuição da porcentagem de lise do coágulo (LY30, LY60). Excesso de heparina (D) prolongaria o tempo R.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 5,
+        "B": 2,
+        "C": 1,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 37,
+        "B": 22,
+        "C": 17,
+        "D": 20,
+        "E": 28
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7202,
+    "area": "Clínica Médica",
+    "tema": "Tratamento Endoscópico da Ectasia Vascular Antral (GAVE)",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 65 anos, com cirrose hepática e anemia ferropriva crônica refratária à reposição oral, é diagnosticada com ectasia vascular antral (GAVE) em endoscopia digestiva alta. Qual a modalidade de tratamento endoscópico mais eficaz e comumente utilizada para o GAVE?",
+    "original_alternatives": {
+      "A": "Injeção de esclerosante.",
+      "B": "Ligadura elástica.",
+      "C": "Terapia com plasma de argônio (APC).",
+      "D": "Coagulação bipolar.",
+      "E": "Dilatação endoscópica."
+    },
+    "gabarito": "C",
+    "original_comment": "A terapia com plasma de argônio (APC) é a modalidade de tratamento endoscópico mais eficaz e amplamente utilizada para a ectasia vascular antral (GAVE). Ela coagula os vasos ectásicos na mucosa gástrica, reduzindo o sangramento e a necessidade de transfusões. Outras modalidades como injeção de esclerosante ou coagulação bipolar são menos eficazes ou mais difíceis de aplicar de forma abrangente no GAVE. Ligadura elástica é usada para varizes esofágicas. Dilatação endoscópica não tem papel no tratamento do GAVE.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 2,
+        "C": 6,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 24,
+        "B": 18,
+        "C": 36,
+        "D": 19,
+        "E": 22
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7212,
+    "area": "Clínica Médica",
+    "tema": "Hipotireoidismo",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 35 anos apresenta queixas de fadiga, ganho de peso, constipação e intolerância ao frio nos últimos 6 meses. Exames laboratoriais revelam TSH de 8,5 mUI/mL (VR: 0,45 a 4,5 mUI/mL) e T4 Livre de 0,7 ng/dL (VR: 0,9 a 1,8 ng/dL). Qual o diagnóstico mais provável para esta paciente?",
+    "original_alternatives": {
+      "A": "Hipertireoidismo subclínico.",
+      "B": "Hipotireoidismo primário.",
+      "C": "Hipotireoidismo secundário.",
+      "D": "Tireoidite subaguda.",
+      "E": "Eutireoidismo com síndrome da doença não tireoidiana."
+    },
+    "gabarito": "B",
+    "original_comment": "O quadro clínico de fadiga, ganho de peso, constipação e intolerância ao frio é sugestivo de hipotireoidismo. Os resultados laboratoriais mostram TSH elevado e T4 Livre baixo. Essa combinação é diagnóstica de hipotireoidismo primário, que ocorre devido a uma disfunção da própria glândula tireoide. Hipotireoidismo subclínico teria TSH elevado, mas T4 Livre normal. Hipotireoidismo secundário (central) teria TSH baixo ou normal-baixo e T4 Livre baixo. Tireoidite subaguda pode cursar com fases de hipotireoidismo, mas a apresentação aqui é mais clássica para hipotireoidismo primário. Eutireoidismo com síndrome da doença não tireoidiana geralmente apresenta TSH normal ou discretamente alterado e T4 Livre normal ou baixo, mas com T3 baixo, em um contexto de doença sistêmica grave.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 7
+      },
+      "char_lengths": {
+        "A": 28,
+        "B": 25,
+        "C": 27,
+        "D": 20,
+        "E": 53
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7218,
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino Anormal",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma mulher de 40 anos refere sangramento uterino anormal, com ciclos menstruais prolongados e volumosos, acompanhados de cólicas intensas, há cerca de um ano. Nega uso de contraceptivos hormonais. A ultrassonografia transvaginal revela útero aumentado de volume, com múltiplos nódulos hipoecoicos bem definidos na parede miometrial, o maior medindo 4 cm. O endométrio é de espessura normal. Qual é o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Adenomiose.",
+      "B": "Pólipo endometrial.",
+      "C": "Leiomioma uterino (mioma).",
+      "D": "Hiperplasia endometrial.",
+      "E": "Câncer de endométrio."
+    },
+    "gabarito": "C",
+    "original_comment": "O quadro clínico de sangramento uterino anormal (menorragia), dismenorreia e útero aumentado com nódulos hipoecoicos bem definidos na ultrassonografia é clássico de leiomiomas uterinos, também conhecidos como miomas. A adenomiose se caracteriza por útero aumentado e globoso, mas a ultrassonografia geralmente mostra miométrio heterogêneo, cistos miometriais, e por vezes, borramento da zona juncional, sem nódulos bem definidos como os miomas. Pólipos endometriais são lesões intracavitárias e a hiperplasia/câncer de endométrio se manifestam principalmente por espessamento endometrial.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 2,
+        "C": 3,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 11,
+        "B": 19,
+        "C": 26,
+        "D": 24,
+        "E": 21
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7222,
+    "area": "Ginecologia",
+    "tema": "Endometriose",
+    "dificuldade": "Difícil",
+    "enunciado": "Uma mulher de 38 anos, com histórico de dismenorreia severa e dispareunia profunda progressiva, relata também dor à evacuação cíclica e sangramento retal durante a menstruação. A ultrassonografia transvaginal com preparo intestinal revela um nódulo hipoecoico de 2,5 cm no septo retovaginal, infiltrando a parede anterior do reto. Qual é a classificação mais provável para este caso de endometriose?",
+    "original_alternatives": {
+      "A": "Endometriose peritoneal superficial.",
+      "B": "Endometrioma ovariano.",
+      "C": "Adenomiose.",
+      "D": "Endometriose profunda.",
+      "E": "Endometriose intestinal."
+    },
+    "gabarito": "D",
+    "original_comment": "A endometriose profunda é definida pela infiltração de mais de 5 mm abaixo da superfície peritoneal. O quadro clínico de dismenorreia severa, dispareunia profunda, dor à evacuação cíclica e sangramento retal catamenial, juntamente com a presença de um nódulo infiltrativo no septo retovaginal e parede do reto, são características clássicas de endometriose profunda, envolvendo o trato gastrointestinal. A endometriose peritoneal superficial não causaria sintomas tão intensos ou lesões infiltrativas. Endometrioma ovariano é um cisto no ovário. Adenomiose é a presença de tecido endometrial dentro do miométrio. Endometriose intestinal é um tipo de endometriose profunda que afeta o intestino, mas o termo 'endometriose profunda' é a classificação mais abrangente e precisa para a extensão da doença neste caso.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 2,
+        "C": 1,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 36,
+        "B": 22,
+        "C": 11,
+        "D": 22,
+        "E": 24
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7223,
+    "area": "Clínica Médica",
+    "tema": "Câncer de Mama Hereditário",
+    "dificuldade": "Média",
+    "enunciado": "Uma paciente de 35 anos, com histórico familiar de câncer de mama e ovário em parentes de primeiro grau em idade jovem, realiza aconselhamento genético. Qual dos seguintes genes, quando mutado, está mais fortemente associado a um risco elevado de câncer de mama, especialmente em mulheres jovens, e também a um risco aumentado de câncer de ovário?",
+    "original_alternatives": {
+      "A": "APC",
+      "B": "CDH1",
+      "C": "BRCA1",
+      "D": "PTEN",
+      "E": "ATM"
+    },
+    "gabarito": "C",
+    "original_comment": "O gene BRCA1 é o mais conhecido e estudado gene associado a síndromes hereditárias de câncer de mama e ovário. Mutações neste gene conferem um risco significativamente elevado para ambos os tipos de câncer, justificando o aconselhamento genético e rastreamento diferenciado. APC está associado à Polipose Adenomatosa Familiar, CDH1 à Síndrome de Câncer Gástrico Difuso Hereditário e Câncer de Mama Lobular, PTEN à Síndrome de Cowden, e ATM a um risco moderado de câncer de mama, mas não tão proeminente para câncer de ovário quanto BRCA1.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 3,
+        "B": 4,
+        "C": 5,
+        "D": 4,
+        "E": 3
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7229,
+    "area": "Clínica Médica",
+    "tema": "Fluxo Papilar",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma paciente de 32 anos procura atendimento médico com queixa de fluxo papilar espontâneo, leitoso e bilateral. Qual a causa mais provável para este tipo de descarga mamilar?",
+    "original_alternatives": {
+      "A": "Papiloma intraductal",
+      "B": "Carcinoma ductal invasivo",
+      "C": "Hiperprolactinemia",
+      "D": "Ectasia ductal",
+      "E": "Mastite periductal"
+    },
+    "gabarito": "C",
+    "original_comment": "O fluxo papilar leitoso (galactorreia), espontâneo e bilateral é classicamente associado à hiperprolactinemia, que pode ter diversas causas (fisiológicas como gravidez/lactação, farmacológicas, ou patológicas como adenoma de hipófise). Papiloma intraductal e carcinoma ductal invasivo geralmente causam fluxo sanguinolento e uniductal. Ectasia ductal pode causar descarga serosa ou esverdeada, mas raramente leitosa. Mastite periductal é um processo inflamatório que não se manifesta primariamente com fluxo leitoso.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 1,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 20,
+        "B": 25,
+        "C": 18,
+        "D": 14,
+        "E": 18
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7232,
+    "area": "Clínica Médica",
+    "tema": "Classificação BI-RADS",
+    "dificuldade": "Média",
+    "enunciado": "Durante um exame de ultrassonografia mamária, é identificado um nódulo sólido, hipoecoico, com forma irregular, orientação não paralela à pele, e margens espiculadas. Qual a categoria BI-RADS mais apropriada para este achado?",
+    "original_alternatives": {
+      "A": "BI-RADS 2",
+      "B": "BI-RADS 3",
+      "C": "BI-RADS 4A",
+      "D": "BI-RADS 4C",
+      "E": "BI-RADS 5"
+    },
+    "gabarito": "E",
+    "original_comment": "As características descritas (nódulo sólido, hipoecoico, forma irregular, orientação não paralela, margens espiculadas) são altamente sugestivas de malignidade. Um nódulo com margens espiculadas, em particular, é um dos achados mais preditivos de câncer. Portanto, a categoria BI-RADS 5, que indica achado altamente sugestivo de malignidade (probabilidade > 95%), é a mais adequada. BI-RADS 2 é para achados benignos, BI-RADS 3 para provavelmente benignos, e BI-RADS 4 para achados suspeitos, mas com menor probabilidade de malignidade do que um BI-RADS 5.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 9,
+        "B": 9,
+        "C": 10,
+        "D": 10,
+        "E": 9
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7245,
+    "area": "Pediatria",
+    "tema": "Hematologia: Anemia na Infância",
+    "dificuldade": "Fácil",
+    "enunciado": "Mãe traz sua filha de 18 meses para consulta de rotina, queixando-se de palidez e irritabilidade. A criança tem história de alimentação exclusiva com leite de vaca integral desde os 6 meses de idade, com pouca introdução de alimentos sólidos. Ao exame físico, apresenta palidez cutâneo-mucosa, sem outras alterações significativas. Hemograma: Hb 8,5 g/dL (VR para 6 meses a 2 anos: 11 a 14 g/dL), VCM 68 fL (VR: 80 a 100 fL), HCM 22 pg (VR: 27 a 32 pg), RDW 18% (VR: 11 a 14%). Qual a principal hipótese diagnóstica?",
+    "original_alternatives": {
+      "A": "Anemia ferropriva",
+      "B": "Talassemia menor",
+      "C": "Anemia megaloblástica",
+      "D": "Anemia de doença crônica",
+      "E": "Esferocitose hereditária"
+    },
+    "gabarito": "A",
+    "original_comment": "O quadro clínico de palidez e irritabilidade em uma criança de 18 meses com história de alimentação inadequada (leite de vaca exclusivo após 6 meses, pouca introdução de sólidos) é altamente sugestivo de anemia ferropriva. Os achados laboratoriais de anemia microcítica (VCM baixo), hipocrômica (HCM baixo) e com anisocitose (RDW elevado) são característicos da deficiência de ferro. A talassemia menor também causa anemia microcítica, mas geralmente com RDW normal ou discretamente elevado e sem uma história alimentar tão evidente. Anemia megaloblástica é macrocítica. Anemia de doença crônica é geralmente normocítica-normocrômica ou microcítica leve, sem RDW tão elevado. Esferocitose hereditária é uma anemia hemolítica com esferócitos no esfregaço e teste de fragilidade osmótica positivo.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 4,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 16,
+        "C": 21,
+        "D": 24,
+        "E": 24
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7246,
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia: Doenças Colestáticas",
+    "dificuldade": "Média",
+    "enunciado": "Mulher, 55 anos, refere prurido generalizado, fadiga crônica e icterícia leve há 8 meses. Nega etilismo ou uso de medicações hepatotóxicas. Ao exame físico, apresenta escoriações por coçadura, icterícia de escleras e hepatomegalia discreta. Exames laboratoriais: Bilirrubina total 3,5 mg/dL (VR: 0,2 a 1,1 mg/dL), Bilirrubina direta 2,8 mg/dL (VR: 0,0 a 0,3 mg/dL), TGO/AST 40 UI/L (VR: até 35 UI/L), TGP/ALT 45 UI/L (VR: até 35 UI/L), Fosfatase Alcalina 450 UI/L (VR: 35 a 104 UI/L), GGT 280 UI/L (VR: 8 a 41 UI/L). Qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Colangite biliar primária (CBP)",
+      "B": "Hepatite viral aguda",
+      "C": "Cirrose alcoólica",
+      "D": "Doença de Wilson",
+      "E": "Hemocromatose"
+    },
+    "gabarito": "A",
+    "original_comment": "O quadro clínico de prurido, fadiga e icterícia, com exames laboratoriais mostrando elevação proeminente de enzimas colestáticas (Fosfatase Alcalina e GGT) e hiperbilirrubinemia direta, com TGO/TGP discretamente elevadas, é altamente sugestivo de doença colestática. A Colangite Biliar Primária (CBP) é uma doença autoimune que afeta predominantemente mulheres de meia-idade e se manifesta com esses sintomas e perfil laboratorial. Hepatite viral aguda geralmente apresenta elevações muito mais acentuadas de TGO/TGP. Cirrose alcoólica teria história de etilismo e um perfil enzimático diferente. Doença de Wilson e Hemocromatose são doenças de acúmulo que teriam outros marcadores e apresentações, e não são a primeira hipótese com este perfil enzimático colestático isolado. A confirmação da CBP seria feita com a pesquisa de anticorpos antimitocondriais (AMA).",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 4,
+        "B": 3,
+        "C": 2,
+        "D": 3,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 31,
+        "B": 20,
+        "C": 17,
+        "D": 16,
+        "E": 13
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  }
+]

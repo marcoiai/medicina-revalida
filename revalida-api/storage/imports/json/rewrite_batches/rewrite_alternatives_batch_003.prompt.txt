@@ -1,0 +1,1218 @@
+
+Você é um revisor técnico de questões médicas para Revalida/Residência.
+
+TAREFA:
+Reescreva somente as alternativas de cada questão abaixo.
+
+OBJETIVO:
+- melhorar alternativas curtas, telegráficas, vagas ou desequilibradas
+- tornar as alternativas mais homogêneas em extensão e formato
+- preservar tema, enunciado, eixo decisório e gabarito
+- deixar as erradas plausíveis, mas incorretas ou menos adequadas
+- evitar alternativas caricatas ou obviamente descartáveis
+
+REGRAS CRÍTICAS:
+- NÃO altere o enunciado
+- NÃO altere o gabarito
+- NÃO mude o tema central da questão
+- NÃO invente detalhe técnico não sustentado pelo enunciado
+- mantenha todas as alternativas na mesma categoria lógica
+- evite rótulos secos quando for possível escrever algo mais informativo
+- a alternativa correta não pode ficar nitidamente mais longa ou mais específica que as demais
+- se a reescrita segura não for possível, marque `rewrite_status` como `manual_review`
+
+FORMATO DE SAÍDA:
+Responda APENAS com JSON válido, no formato:
+[
+  {
+    "id": 123,
+    "rewrite_status": "rewritten",
+    "rewrite_version": 1,
+    "rewritten_alternatives": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "answer_changed": false,
+    "risk_flags": [],
+    "rewrite_notes": [
+      "frase curta explicando a reescrita"
+    ]
+  }
+]
+
+QUESTÕES:
+[
+  {
+    "id": 6006,
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia - Doenças da Tireoide",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma mulher de 45 anos procura atendimento médico com queixas de fadiga, ganho de peso, constipação e intolerância ao frio. Ao exame, apresenta pele seca e bradicardia. Os resultados dos exames laboratoriais são: TSH 8.2 mUI/mL e T4 Livre 0.7 ng/dL. Com base nos valores de referência para adultos (20 a 60 anos), qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Hipertireoidismo primário.",
+      "B": "Hipotireoidismo primário.",
+      "C": "Hipotireoidismo secundário.",
+      "D": "Tireoidite subaguda.",
+      "E": "Eutireoidismo com disfunção subclínica."
+    },
+    "gabarito": "B",
+    "original_comment": "Os valores de referência para TSH são 0.45 a 4.5 mUI/mL e para T4 Livre são 0.9 a 1.8 ng/dL. A paciente apresenta TSH elevado (8.2 mUI/mL) e T4 Livre baixo (0.7 ng/dL), o que é característico de hipotireoidismo primário. No hipotireoidismo primário, a tireoide não produz hormônios suficientes, levando a um aumento do TSH pela hipófise em tentativa de estimular a glândula. Hipotireoidismo secundário teria TSH baixo ou normal e T4 Livre baixo. Hipertireoidismo primário teria TSH baixo e T4 Livre elevado. Tireoidite subaguda pode ter fases, mas esses valores não são típicos de forma isolada. Eutireoidismo com disfunção subclínica teria TSH elevado, mas T4 Livre normal.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 26,
+        "B": 25,
+        "C": 27,
+        "D": 20,
+        "E": 39
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6007,
+    "area": "Pediatria",
+    "tema": "Anemias na Infância",
+    "dificuldade": "Média",
+    "enunciado": "Uma criança de 18 meses de idade é levada à consulta de puericultura. A mãe relata que a criança está mais pálida e com menor apetite nos últimos meses. Ao exame físico, a criança está ativa, mas com mucosas hipocoradas ++/4+. O hemograma revela Hb 9.8 g/dL, VCM 72 fL, HCM 24 pg, RDW 16%. Considerando os valores de referência para a idade, qual a principal hipótese diagnóstica?",
+    "original_alternatives": {
+      "A": "Anemia ferropriva.",
+      "B": "Anemia falciforme.",
+      "C": "Anemia megaloblástica.",
+      "D": "Talassemia maior.",
+      "E": "Anemia de doença crônica."
+    },
+    "gabarito": "A",
+    "original_comment": "Para crianças de 6 meses a 2 anos, o valor de referência de hemoglobina é de 11 a 14 g/dL. A criança apresenta Hb de 9.8 g/dL, caracterizando anemia. Os índices hematimétricos (VCM 72 fL e HCM 24 pg) indicam anemia microcítica e hipocrômica, respectivamente (VCM normal 80-100 fL, HCM normal 27-32 pg). O RDW elevado (16%, normal 11-14%) sugere anisocitose. Este perfil é clássico da anemia ferropriva, que é a causa mais comum de anemia em crianças nessa faixa etária, frequentemente associada a deficiências nutricionais. Anemia falciforme é uma hemoglobinopatia com células em foice. Anemia megaloblástica é macrocítica. Talassemia maior é microcítica e hipocrômica, mas geralmente com RDW normal ou levemente elevado, e requer diagnóstico genético. Anemia de doença crônica é geralmente normocítica-normocrômica ou levemente microcítica, com RDW normal.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 18,
+        "C": 22,
+        "D": 17,
+        "E": 25
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6008,
+    "area": "Ginecologia e Obstetrícia",
+    "tema": "Endocrinologia Reprodutiva",
+    "dificuldade": "Difícil",
+    "enunciado": "Uma paciente de 32 anos com ciclos menstruais irregulares e dificuldade para engravidar é submetida a exames hormonais no 3º dia do ciclo. Os resultados são: FSH 18 UI/L, LH 10 UI/L, Estradiol 28 ng/dL. Considerando os valores de referência para a fase folicular, qual a interpretação mais adequada para este quadro?",
+    "original_alternatives": {
+      "A": "Ovulação precoce.",
+      "B": "Reserva ovariana diminuída.",
+      "C": "Síndrome dos Ovários Policísticos (SOP).",
+      "D": "Hipotireoidismo.",
+      "E": "Hiperprolactinemia."
+    },
+    "gabarito": "B",
+    "original_comment": "Na fase folicular, os valores de referência são: FSH até 12 UI/L, LH até 12 UI/L, Estradiol 1.2 a 23.3 ng/dL. A paciente apresenta FSH elevado (18 UI/L) e Estradiol elevado (28 ng/dL) para a fase folicular. Um FSH elevado no início do ciclo, especialmente quando o Estradiol também está elevado (refletindo um esforço ovariano para produzir estrogênio apesar da baixa reserva), é um forte indicativo de reserva ovariana diminuída ou falência ovariana incipiente. Ovulação precoce não é a interpretação mais direta. SOP é caracterizada por LH/FSH invertido (LH alto, FSH normal/baixo) e hiperandrogenismo. Hipotireoidismo e hiperprolactinemia causariam irregularidades, mas os hormônios gonadais não teriam esse padrão específico de FSH e Estradiol elevados na fase folicular.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 5,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 27,
+        "C": 40,
+        "D": 16,
+        "E": 19
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6014,
+    "area": "Clínica Médica",
+    "tema": "Nefrologia - Lesão Renal Aguda",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 40 anos, previamente hígido, é admitido com diarreia e vômitos intensos há 3 dias. Apresenta hipotensão, taquicardia e oligúria. Os exames laboratoriais mostram: Cr 3.2 mg/dL (basal 0.9 mg/dL), Ur 110 mg/dL, Na+ 132 mEq/L, K+ 5.8 mEq/L. A relação ureia/creatinina sérica está significativamente elevada. Qual a etiologia mais provável da lesão renal aguda (LRA) neste caso?",
+    "original_alternatives": {
+      "A": "Necrose tubular aguda.",
+      "B": "Obstrução do trato urinário.",
+      "C": "Glomerulonefrite aguda.",
+      "D": "LRA pré-renal.",
+      "E": "Nefrite intersticial aguda."
+    },
+    "gabarito": "D",
+    "original_comment": "O paciente apresenta um quadro de desidratação grave (diarreia, vômitos, hipotensão, taquicardia, oligúria) que levou a uma elevação acentuada da creatinina (de 0.9 para 3.2 mg/dL) e ureia (110 mg/dL). A relação ureia/creatinina sérica elevada (normalmente >20:1 ou >40:1, dependendo da unidade) é um forte indicativo de LRA pré-renal, que ocorre devido à hipoperfusão renal. A hipercalemia (K+ 5.8 mEq/L) é uma complicação comum da LRA, especialmente na forma pré-renal grave ou na necrose tubular aguda. As outras causas de LRA (necrose tubular aguda, obstrução, glomerulonefrite, nefrite intersticial) são menos prováveis como causa primária neste cenário de hipovolemia aguda, embora a LRA pré-renal possa evoluir para necrose tubular aguda se não corrigida.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 4,
+        "C": 2,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 22,
+        "B": 28,
+        "C": 23,
+        "D": 14,
+        "E": 27
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6028,
+    "area": "Clínica Médica | Cardiologia",
+    "tema": "Transplante Cardíaco - Classificação de Rejeição Celular Aguda",
+    "dificuldade": "Média",
+    "enunciado": "Uma biópsia endomiocárdica de rotina, realizada em um paciente 6 semanas após transplante cardíaco, revela a presença de infiltrado linfocitário multifocal no interstício, com miócitos adjacentes apresentando vacuolização e necrose focal. Não há evidência de hemorragia ou neutrófilos. De acordo com a classificação revisada da ISHLT, qual o grau de rejeição celular aguda mais provável?",
+    "original_alternatives": {
+      "A": "1R",
+      "B": "2R",
+      "C": "3R",
+      "D": "Quilty Effect",
+      "E": "Rejeição indeterminada"
+    },
+    "gabarito": "B",
+    "original_comment": "A classificação 2R da ISHLT (International Society for Heart and Lung Transplantation) é caracterizada por infiltrado linfocitário multifocal com dano miocitário focal. A descrição de 'infiltrado linfocitário multifocal no interstício, com miócitos adjacentes apresentando vacuolização e necrose focal' se encaixa perfeitamente nos critérios para 2R. 1R teria infiltrado esparso sem dano miocitário. 3R envolveria infiltrado denso e/ou difuso com dano miocitário extenso. O Quilty Effect é um infiltrado linfocitário sem dano miocitário, geralmente endomiocárdico, sem significado de rejeição.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 13,
+        "E": 22
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6043,
+    "area": "Clínica Médica",
+    "tema": "Efeitos adversos dos inibidores de mTOR (everolimus)",
+    "dificuldade": "Fácil",
+    "enunciado": "Paciente de 40 anos, transplantado cardíaco há 2 anos, está em esquema imunossupressor com everolimus e prednisona. Ele procura o ambulatório com queixas de úlceras orais recorrentes, edema de membros inferiores e proteinúria leve. Qual dos medicamentos em uso é o mais provável causador desses sintomas?",
+    "original_alternatives": {
+      "A": "Prednisona.",
+      "B": "Tacrolimo (assumindo que ele estivesse em uso prévio e foi substituído).",
+      "C": "Everolimus.",
+      "D": "Micofenolato.",
+      "E": "Ciclosporina."
+    },
+    "gabarito": "C",
+    "original_comment": "O everolimus, um inibidor de mTOR, é conhecido por uma série de efeitos adversos, incluindo úlceras orais (estomatite), edema periférico, proteinúria, pneumonite intersticial e hiperlipidemia. A prednisona (A) causa edema e outros efeitos, mas não úlceras orais como sintoma primário. Tacrolimo (B) e ciclosporina (E) são inibidores de calcineurina e causam nefrotoxicidade, hipertensão, tremores, mas não úlceras orais e proteinúria como os sintomas principais aqui descritos. Micofenolato (D) causa principalmente sintomas gastrointestinais e mielossupressão. Portanto, o everolimus é o agente mais provável para o conjunto de sintomas apresentados.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 11,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 11,
+        "B": 72,
+        "C": 11,
+        "D": 13,
+        "E": 13
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6046,
+    "area": "Clínica Médica",
+    "tema": "Transplante Pulmonar - Disfunção Primária do Enxerto (PGD)",
+    "dificuldade": "Difícil",
+    "enunciado": "Um paciente de 45 anos, submetido a transplante pulmonar bilateral há 24 horas, apresenta-se em ventilação mecânica com FiO2 de 80% e PEEP de 8 cmH2O. A gasometria arterial revela pH 7.32, pCO2 55 mmHg, pO2 120 mmHg e HCO3- 26 mEq/L. A radiografia de tórax mostra infiltrados difusos bilaterais moderados. Considerando a classificação ISHLT de 2016 para Disfunção Primária do Enxerto (PGD), qual o grau de PGD deste paciente?",
+    "original_alternatives": {
+      "A": "PGD grau 0",
+      "B": "PGD grau 1",
+      "C": "PGD grau 2",
+      "D": "PGD grau 3",
+      "E": "PGD grau 4"
+    },
+    "gabarito": "C",
+    "original_comment": "A classificação ISHLT de 2016 para PGD é baseada na relação PaO2/FiO2 e na presença de infiltrados na radiografia de tórax em 72 horas pós-transplante. Para PGD grau 2, a relação PaO2/FiO2 está entre 200 e 300, e há infiltrados presentes. Neste caso, PaO2 = 120 mmHg e FiO2 = 0.8, então PaO2/FiO2 = 120 / 0.8 = 150 mmHg. Como a relação PaO2/FiO2 é < 200, e há infiltrados moderados, o paciente se enquadra em PGD grau 3. Oops, let me re-evaluate. PaO2/FiO2 < 200 é PGD 3. PaO2/FiO2 entre 200 e 300 é PGD 2. PaO2/FiO2 entre 300 e 400 é PGD 1. PaO2/FiO2 > 400 é PGD 0. O paciente tem PaO2/FiO2 = 150 mmHg. Portanto, a classificação correta é PGD grau 3. A alternativa correta deve ser D. Reavaliando minha resposta para o gabarito. O enunciado original trazia 160 mmHg com FiO2 100%, o que daria P/F 160. Meu enunciado gerou P/F 150. Ambos se enquadram em PGD 3. Portanto, o gabarito deve ser D. A armadilha está em calcular corretamente o P/F e lembrar dos pontos de corte da ISHLT 2016.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 10,
+        "B": 10,
+        "C": 10,
+        "D": 10,
+        "E": 10
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6065,
+    "area": "Clínica Médica",
+    "tema": "Imunossupressão em Transplante Hepático",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente submetido a transplante hepático há 3 meses apresenta níveis séricos elevados de creatinina, hipertensão arterial e tremor fino. Qual dos seguintes imunossupressores é mais provavelmente o responsável por esses efeitos adversos?",
+    "original_alternatives": {
+      "A": "Micofenolato mofetil",
+      "B": "Azatioprina",
+      "C": "Ciclosporina",
+      "D": "Sirolimus",
+      "E": "Prednisona"
+    },
+    "gabarito": "C",
+    "original_comment": "Os inibidores de calcineurina, como a ciclosporina e o tacrolimus, são conhecidos por seus efeitos adversos, que incluem nefrotoxicidade (elevação da creatinina), hipertensão arterial e neurotoxicidade (tremor fino). O micofenolato mofetil está mais associado a efeitos gastrointestinais e mielossupressão. Sirolimus pode causar dislipidemia e proteinúria. Prednisona tem múltiplos efeitos, mas a tríade apresentada é clássica dos inibidores de calcineurina.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 20,
+        "B": 11,
+        "C": 12,
+        "D": 9,
+        "E": 10
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6068,
+    "area": "Clínica Médica",
+    "tema": "Infecções em Transplante de Órgãos Sólidos",
+    "dificuldade": "Média",
+    "enunciado": "Qual dos seguintes patógenos é uma causa comum de infecção oportunista em receptores de transplante hepático, especialmente nos primeiros 6 meses após o procedimento, e pode causar pneumonite, colite e retinite?",
+    "original_alternatives": {
+      "A": "Staphylococcus aureus",
+      "B": "Candida albicans",
+      "C": "Vírus Herpes Simplex (HSV)",
+      "D": "Citomegalovírus (CMV)",
+      "E": "Pneumocystis jirovecii"
+    },
+    "gabarito": "D",
+    "original_comment": "O Citomegalovírus (CMV) é um dos patógenos oportunistas mais importantes em receptores de transplante de órgãos sólidos. A infecção por CMV pode ocorrer por reativação do vírus latente do receptor ou por transmissão do doador. Pode causar uma síndrome febril inespecífica ou doença invasiva com manifestações em múltiplos órgãos, como pneumonite, colite, esofagite, hepatite e retinite, especialmente nos primeiros 6 meses de intensa imunossupressão.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 4,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 21,
+        "B": 16,
+        "C": 26,
+        "D": 21,
+        "E": 22
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6074,
+    "area": "Clínica Médica",
+    "tema": "Monitoramento de Imunossupressores",
+    "dificuldade": "Fácil",
+    "enunciado": "O monitoramento dos níveis séricos de imunossupressores é crucial no pós-transplante para otimizar a eficácia e minimizar a toxicidade. Qual dos seguintes imunossupressores requer monitoramento de nível sérico de rotina?",
+    "original_alternatives": {
+      "A": "Prednisona.",
+      "B": "Micofenolato mofetil.",
+      "C": "Tacrolimus.",
+      "D": "Azatioprina.",
+      "E": "Metotrexato."
+    },
+    "gabarito": "C",
+    "original_comment": "O tacrolimus (e a ciclosporina) são inibidores de calcineurina com uma estreita janela terapêutica, o que significa que pequenas variações em seus níveis séricos podem levar a toxicidade (níveis altos) ou rejeição do enxerto (níveis baixos). Por isso, o monitoramento regular dos níveis séricos é essencial. Os outros imunossupressores listados geralmente não requerem monitoramento de nível sérico de rotina para guiar a dosagem na prática clínica de transplante.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 2,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 11,
+        "B": 21,
+        "C": 11,
+        "D": 12,
+        "E": 12
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6097,
+    "area": "Clínica Médica",
+    "tema": "Imunossupressão em Transplante de Órgãos",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 52 anos, submetido a transplante hepático há 6 meses, apresenta elevação progressiva da creatinina sérica para 2,1 mg/dL (VR: 0,7 a 1,3 mg/dL), com filtração glomerular estimada em declínio. Ele está em uso de tacrolimo, micofenolato mofetil e prednisona. Qual classe de imunossupressores é mais frequentemente associada à nefrotoxicidade crônica neste cenário?",
+    "original_alternatives": {
+      "A": "Inibidores de calcineurina (ICN).",
+      "B": "Inibidores de mTOR.",
+      "C": "Antimetabólitos.",
+      "D": "Corticosteroides.",
+      "E": "Anticorpos monoclonais."
+    },
+    "gabarito": "A",
+    "original_comment": "Os inibidores de calcineurina (ICN), como o tacrolimo e a ciclosporina, são a principal causa de nefrotoxicidade crônica em pacientes transplantados. Eles causam vasoconstrição da arteríola aferente renal e fibrose túbulo-intersticial. Os inibidores de mTOR (B), como sirolimus e everolimus, também podem causar nefrotoxicidade, mas são mais conhecidos por mielossupressão e proteinúria. Antimetabólitos (C), como micofenolato mofetil e azatioprina, têm como principais efeitos adversos mielossupressão e toxicidade gastrointestinal. Corticosteroides (D) têm uma ampla gama de efeitos colaterais, mas nefrotoxicidade crônica direta não é o principal. Anticorpos monoclonais (E) são usados na indução ou tratamento da rejeição e geralmente não são associados a nefrotoxicidade crônica.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 4,
+        "B": 3,
+        "C": 1,
+        "D": 1,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 33,
+        "B": 19,
+        "C": 16,
+        "D": 17,
+        "E": 23
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6102,
+    "area": "Clínica Médica",
+    "tema": "Hepatites Autoimunes",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 28 anos é diagnosticada com hepatite autoimune tipo 1, apresentando fadiga, icterícia e transaminases elevadas (TGO 800 UI/L, TGP 950 UI/L). Os exames confirmam anticorpos antinucleares (ANA) e anti-músculo liso (anti-SMA) positivos. Qual a abordagem terapêutica de primeira linha recomendada para esta condição?",
+    "original_alternatives": {
+      "A": "Prednisona em monoterapia.",
+      "B": "Azatioprina em monoterapia.",
+      "C": "Prednisona combinada com azatioprina.",
+      "D": "Ácido ursodesoxicólico (UDCA).",
+      "E": "Metotrexato."
+    },
+    "gabarito": "C",
+    "original_comment": "A terapia de primeira linha para hepatite autoimune é a combinação de corticosteroides (geralmente prednisona) com um imunossupressor como a azatioprina (C). Esta combinação permite o uso de doses mais baixas de corticosteroides, reduzindo seus efeitos colaterais, enquanto a azatioprina ajuda a manter a remissão. A prednisona em monoterapia (A) pode ser usada em casos específicos ou para indução, mas a terapia combinada é preferida para manutenção. A azatioprina em monoterapia (B) não é suficiente para induzir remissão em casos ativos. O ácido ursodesoxicólico (D) é usado principalmente para doenças colestáticas, como colangite biliar primária. O metotrexato (E) é uma opção de segunda linha para pacientes intolerantes ou refratários à azatioprina.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 4,
+        "D": 3,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 26,
+        "B": 27,
+        "C": 37,
+        "D": 30,
+        "E": 12
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6106,
+    "area": "Pediatria",
+    "tema": "Anemia em crianças",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma menina de 18 meses de idade é levada à UBS pela mãe com queixa de palidez e irritabilidade. A mãe relata que a criança tem uma dieta pouco variada, com alto consumo de leite de vaca e pouca ingestão de carnes e vegetais. O hemograma revela Hb 9,8 g/dL, VCM 72 fL, HCM 24 pg, RDW 16%. Qual o diagnóstico mais provável para o quadro da criança?",
+    "original_alternatives": {
+      "A": "Anemia ferropriva.",
+      "B": "Anemia megaloblástica.",
+      "C": "Anemia falciforme.",
+      "D": "Talassemia menor.",
+      "E": "Anemia de doença crônica."
+    },
+    "gabarito": "A",
+    "original_comment": "De acordo com os valores de referência para crianças, uma Hb de 9,8 g/dL para uma criança de 6 meses a 2 anos (referência: 11 a 14 g/dL) indica anemia. Os índices hematimétricos (VCM 72 fL, HCM 24 pg) estão abaixo dos valores normais (VCM 80-100 fL, HCM 27-32 pg para adultos, mas indicativos de microcitose também em crianças), sugerindo anemia microcítica e hipocrômica. O RDW elevado (16%, referência 11-14%) indica anisocitose. A história alimentar (alto consumo de leite de vaca, pouca carne e vegetais) é clássica para deficiência de ferro. O conjunto de dados é altamente sugestivo de anemia ferropriva. As outras opções são menos prováveis: anemia megaloblástica seria macrocítica; anemia falciforme é uma hemoglobinopatia com células em foice; talassemia menor também é microcítica, mas a história alimentar e a idade favorecem ferropriva; anemia de doença crônica geralmente é normocítica/normocrômica ou levemente microcítica, mas o RDW não seria tão elevado e a história não aponta para doença crônica.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 22,
+        "C": 18,
+        "D": 17,
+        "E": 25
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6158,
+    "area": "Clínica Médica",
+    "tema": "Afasia Progressiva Primária variante semântica",
+    "dificuldade": "Média",
+    "enunciado": "Homem, 65 anos, professor aposentado, é avaliado por queixas de linguagem progressivas nos últimos 3 anos. A esposa relata que ele 'perde as palavras', tem dificuldade em nomear objetos comuns e pessoas, e muitas vezes usa termos genéricos como 'aquela coisa' ou 'o negócio'. Sua fala é fluente, gramaticalmente correta, mas com conteúdo empobrecido. A compreensão de palavras isoladas está prejudicada, mas a memória para eventos recentes e a capacidade de seguir ordens complexas permanecem relativamente intactas. A ressonância magnética cerebral mostra atrofia assimétrica predominante nos lobos temporais anteriores, mais acentuada à direita. Qual o subtipo de afasia progressiva primária mais provável?",
+    "original_alternatives": {
+      "A": "Variante não fluente/agramática.",
+      "B": "Variante semântica.",
+      "C": "Variante logopênica.",
+      "D": "Afasia de Broca.",
+      "E": "Afasia de Wernicke."
+    },
+    "gabarito": "B",
+    "original_comment": "A descrição de fala fluente, dificuldade de nomeação (anomia), uso de termos genéricos e comprometimento da compreensão de palavras isoladas, associada à atrofia temporal anterior, é característica da Variante Semântica da Afasia Progressiva Primária. A variante não fluente/agramática se manifesta com fala lenta e esforçada, agramatismo e apraxia da fala. A variante logopênica apresenta dificuldade em encontrar palavras e repetição de frases, com pausas na fala. As afasias de Broca e Wernicke são tipicamente de início agudo, não progressivo, e não se encaixam no perfil de progressão e atrofia temporal anterior.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 2,
+        "C": 2,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 32,
+        "B": 19,
+        "C": 20,
+        "D": 16,
+        "E": 19
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6200,
+    "area": "Clínica Médica",
+    "tema": "Neurologia - Lesão Medular e Escala ASIA",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente sofreu uma lesão medular traumática. No exame, apresenta sensibilidade preservada abaixo do nível neurológico da lesão, mas não há função motora voluntária em nenhum dos segmentos sacrais (S4-S5), e a contração anal voluntária está ausente. Qual a classificação ASIA (American Spinal Cord Injury Association) para este paciente?",
+    "original_alternatives": {
+      "A": "ASIA A.",
+      "B": "ASIA B.",
+      "C": "ASIA C.",
+      "D": "ASIA D.",
+      "E": "ASIA E."
+    },
+    "gabarito": "B",
+    "original_comment": "A classificação ASIA B é definida por lesão incompleta, caracterizada por preservação sensorial abaixo do nível neurológico, incluindo os segmentos sacrais S4-S5 (sensibilidade anal), mas ausência de função motora abaixo do nível neurológico, incluindo os segmentos sacrais (sem contração anal voluntária). ASIA A é lesão completa (sem função motora ou sensorial nos segmentos sacrais). ASIA C e D envolvem alguma preservação motora abaixo do nível da lesão. ASIA E é normal.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 7,
+        "B": 7,
+        "C": 7,
+        "D": 7,
+        "E": 7
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6201,
+    "area": "Pediatria",
+    "tema": "Reabilitação - Paralisia Cerebral e GMFCS",
+    "dificuldade": "Média",
+    "enunciado": "Uma criança de 8 anos com paralisia cerebral é capaz de caminhar de forma independente em ambientes internos e externos, mas tem dificuldades para correr e pular, e pode precisar de corrimão para subir escadas. Ela não utiliza dispositivos de assistência para a marcha na maioria das situações. De acordo com o Gross Motor Function Classification System (GMFCS), qual o nível de funcionalidade motora desta criança?",
+    "original_alternatives": {
+      "A": "GMFCS Nível I.",
+      "B": "GMFCS Nível II.",
+      "C": "GMFCS Nível III.",
+      "D": "GMFCS Nível IV.",
+      "E": "GMFCS Nível V."
+    },
+    "gabarito": "B",
+    "original_comment": "O GMFCS Nível II descreve crianças que caminham sem limitações em ambientes internos e externos, mas podem ter dificuldade em terrenos irregulares, inclinações, ou ao correr e pular. Podem precisar de corrimão para subir escadas. O Nível I seria para crianças que caminham sem restrições, com pequenas dificuldades em habilidades motoras mais avançadas. Níveis III, IV e V envolvem a necessidade de dispositivos de assistência para a marcha ou mobilidade muito mais limitada, respectivamente.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 14,
+        "B": 15,
+        "C": 16,
+        "D": 15,
+        "E": 14
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6203,
+    "area": "Clínica Médica",
+    "tema": "Anatomia e Fisiologia Nervosa - Inervação Muscular",
+    "dificuldade": "Fácil",
+    "enunciado": "Qual raiz nervosa cervical é primariamente responsável pela inervação motora do músculo tríceps braquial, sendo essencial para a extensão do cotovelo?",
+    "original_alternatives": {
+      "A": "C5.",
+      "B": "C6.",
+      "C": "C7.",
+      "D": "C8.",
+      "E": "T1."
+    },
+    "gabarito": "C",
+    "original_comment": "O músculo tríceps braquial, principal extensor do cotovelo, é inervado principalmente pela raiz nervosa C7, embora também receba contribuições de C6 e C8. A raiz C5 está mais associada à abdução do ombro (deltoide) e flexão do cotovelo (bíceps). C6 também contribui para a flexão do cotovelo e extensão do punho. C8 e T1 estão mais relacionadas à musculatura intrínseca da mão.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6206,
+    "area": "Clínica Médica",
+    "tema": "Neurologia - Exame Neurológico e Reflexos",
+    "dificuldade": "Fácil",
+    "enunciado": "Durante o exame neurológico de um paciente, o reflexo patelar é testado. Qual raiz nervosa lombar é primariamente avaliada por este reflexo?",
+    "original_alternatives": {
+      "A": "L2.",
+      "B": "L3.",
+      "C": "L4.",
+      "D": "L5.",
+      "E": "S1."
+    },
+    "gabarito": "C",
+    "original_comment": "O reflexo patelar (ou quadricipital) é um reflexo de estiramento que avalia a integridade do arco reflexo envolvendo o nervo femoral e, primariamente, a raiz nervosa L4 (com contribuições de L2 e L3). A raiz L5 está mais associada à dorsiflexão do pé e extensão do hálux. S1 está associada ao reflexo aquileu e à flexão plantar.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6217,
+    "area": "Clínica Médica",
+    "tema": "Neurofisiologia Clínica / Neuropatias",
+    "dificuldade": "Média",
+    "enunciado": "Em um estudo de neurocondução motora, um paciente apresenta redução significativa da velocidade de condução nervosa, com latências distais prolongadas e bloqueio de condução em segmentos específicos do nervo. A amplitude do potencial de ação muscular composto (CMAP) distal está preservada, mas há dispersão temporal anormal. Estes achados são mais característicos de qual tipo de neuropatia?",
+    "original_alternatives": {
+      "A": "Neuropatia axonal pura.",
+      "B": "Neuropatia desmielinizante adquirida.",
+      "C": "Neuropatia desmielinizante hereditária com desmielinização uniforme.",
+      "D": "Mononeuropatia compressiva crônica.",
+      "E": "Miopatia inflamatória."
+    },
+    "gabarito": "B",
+    "original_comment": "A redução acentuada da velocidade de condução, latências prolongadas, bloqueio de condução e dispersão temporal anormal são os pilares diagnósticos das neuropatias desmielinizantes adquiridas, como a Síndrome de Guillain-Barré ou a Polineuropatia Desmielinizante Inflamatória Crônica (PDIC). Na neuropatia axonal pura (A), a principal alteração é a redução da amplitude do CMAP e/ou SNAP, com velocidades de condução e latências geralmente normais ou discretamente reduzidas. Neuropatias desmielinizantes hereditárias (C) tendem a ter desmielinização mais uniforme e menos bloqueios de condução focais. Mononeuropatia compressiva crônica (D) pode ter bloqueio de condução, mas o padrão de dispersão e prolongamento difuso é menos típico. Miopatias (E) afetam o músculo, não o nervo, e os estudos de condução nervosa seriam normais, com alterações no eletromiograma.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 6,
+        "D": 3,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 23,
+        "B": 37,
+        "C": 68,
+        "D": 35,
+        "E": 22
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6218,
+    "area": "Clínica Médica",
+    "tema": "Anatomia / Neurologia",
+    "dificuldade": "Fácil",
+    "enunciado": "Um paciente sofreu um trauma em membro superior e apresenta dificuldade para realizar a flexão do cotovelo com o antebraço em supinação, além de perda de sensibilidade na face lateral do antebraço. Qual nervo periférico é mais provavelmente afetado?",
+    "original_alternatives": {
+      "A": "Nervo radial.",
+      "B": "Nervo ulnar.",
+      "C": "Nervo axilar.",
+      "D": "Nervo musculocutâneo.",
+      "E": "Nervo mediano."
+    },
+    "gabarito": "D",
+    "original_comment": "O nervo musculocutâneo é responsável pela inervação motora dos músculos do compartimento anterior do braço (bíceps braquial, braquial e coracobraquial), que são os principais flexores do cotovelo, especialmente o bíceps na supinação. Além disso, ele dá origem ao nervo cutâneo lateral do antebraço, responsável pela sensibilidade da face lateral do antebraço. As outras opções inervam músculos e áreas sensitivas diferentes.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 13,
+        "B": 12,
+        "C": 13,
+        "D": 21,
+        "E": 14
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  }
+]

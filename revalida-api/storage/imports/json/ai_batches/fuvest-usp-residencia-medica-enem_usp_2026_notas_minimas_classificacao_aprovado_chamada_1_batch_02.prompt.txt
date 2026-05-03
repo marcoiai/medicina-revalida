@@ -1,0 +1,1116 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/enem_usp_2026_notas_minimas_classificacao_aprovado_chamada_1.pdf"
+  }
+]
+
+TEXTO-BASE:
+do para Matrícula
+Informações referentes à 1ª chamada
+5
+Educação Física e Saúde - (Bacharelado) - Integral
+Escola de Artes, Ciências e Humanidades - USP Leste
+código fuvest: 42/172
+código USP: 86050/100
+modalidade
+pontos finais
+classificação
+AC
+778,90
+9
+EP-L1
+717,00
+65
+PPI-L2
+686,82
+147
+EP-L3
+747,78
+30
+PPI-L4
+727,10
+50
+Educomunicação - (Licenciatura) - Noturno
+Escola de Comunicações e Artes - USP
+código fuvest: 13/137
+código USP: 27570/4
+modalidade
+pontos finais
+classificação
+AC
+767,75
+6
+EP-L1
+746,95
+15
+PPI-L2
+-
+-
+EP-L3
+751,19
+13
+PPI-L4
+710,16
+33
+Enfermagem - (Bacharelado) - Integral
+Escola de Enfermagem de Ribeirão Preto - USP
+código fuvest: 33/8
+código USP: 22013/0
+modalidade
+pontos finais
+classificação
+AC
+793,63
+5
+EP-L1
+748,99
+78
+PPI-L2
+734,93
+140
+EP-L3
+774,60
+30
+PPI-L4
+756,32
+66
+Enfermagem - (Bacharelado e Licenciatura) - Noturno
+Escola de Enfermagem de Ribeirão Preto - USP
+código fuvest: 33/9
+código USP: 22100/4
+modalidade
+pontos finais
+classificação
+AC
+788,16
+7
+EP-L1
+747,61
+40
+PPI-L2
+713,82
+126
+EP-L3
+754,28
+32
+PPI-L4
+725,68
+88
+Enfermagem - (Bacharelado/Licenciatura) - Integral
+Escola de Enfermagem - USP
+código fuvest: 4/7
+código USP: 7012/0
+modalidade
+pontos finais
+classificação
+AC
+816,52
+9
+EP-L1
+780,22
+80
+PPI-L2
+767,20
+137
+EP-L3
+796,40
+38
+PPI-L4
+772,50
+108
+Engenharia Aeronáutica - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/60
+código USP: 18070/0
+modalidade
+pontos finais
+classificação
+AC
+839,37
+10
+EP-L1
+797,57
+163
+PPI-L2
+-
+-
+EP-L3
+823,98
+44
+PPI-L4
+771,27
+311
+Engenharia Agronômica - (Bacharelado) - Integral
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+código fuvest: 29/10
+código USP: 11010/0
+modalidade
+pontos finais
+classificação
+AC
+799,74
+15
+EP-L1
+731,31
+184
+PPI-L2
+715,44
+264
+EP-L3
+749,76
+118
+PPI-L4
+741,74
+140
+Engenharia Ambiental - (Bacharelado) - Integral
+Escola de Engenharia de Lorena - USP
+código fuvest: 27/52
+código USP: 88251/0
+modalidade
+pontos finais
+classificação
+AC
+797,08
+7
+EP-L1
+722,72
+57
+PPI-L2
+693,75
+84
+EP-L3
+750,03
+26
+PPI-L4
+-
+-
+Engenharia Ambiental - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/61
+código USP: 18030/0
+modalidade
+pontos finais
+classificação
+AC
+811,54
+5
+EP-L1
+753,62
+65
+PPI-L2
+-
+-
+EP-L3
+780,65
+22
+PPI-L4
+745,78
+80
+Engenharia Ambiental - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/65
+código USP: 3152/3000
+modalidade
+pontos finais
+classificação
+AC
+806,93
+8
+EP-L1
+731,04
+168
+PPI-L2
+693,43
+291
+EP-L3
+749,35
+107
+PPI-L4
+735,97
+154
+Engenharia Bioquímica - (Bacharelado) - Integral
+Escola de Engenharia de Lorena - USP
+código fuvest: 27/49
+código USP: 88152/0
+modalidade
+pontos finais
+classificação
+AC
+815,30
+5
+EP-L1
+709,17
+112
+PPI-L2
+659,58
+202
+EP-L3
+772,62
+32
+PPI-L4
+-
+-
+
+
+--- PAGE 6 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+6
+Engenharia - Ciclo Básico em Eng. de Materiais / Eng. Metalúrgica / Eng. Nuclear - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/68
+código USP: 3201/0
+modalidade
+pontos finais
+classificação
+AC
+820,36
+5
+EP-L1
+741,95
+105
+PPI-L2
+702,35
+212
+EP-L3
+764,71
+53
+PPI-L4
+719,88
+165
+Engenharia Ciclo Básico em Eng. de Minas/Eng. de Petróleo - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/177
+código USP: 3251/0
+modalidade
+pontos finais
+classificação
+AC
+813,27
+9
+EP-L1
+727,61
+177
+PPI-L2
+695,12
+264
+EP-L3
+743,05
+129
+PPI-L4
+711,37
+217
+Engenharia Civil - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/55
+código USP: 18023/0
+modalidade
+pontos finais
+classificação
+AC
+833,92
+4
+EP-L1
+754,17
+208
+PPI-L2
+742,59
+263
+EP-L3
+783,04
+82
+PPI-L4
+763,34
+160
+Engenharia Civil - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/66
+código USP: 3023/3000
+modalidade
+pontos finais
+classificação
+AC
+811,29
+17
+EP-L1
+735,22
+410
+PPI-L2
+708,13
+596
+EP-L3
+766,36
+189
+PPI-L4
+754,12
+276
+Engenharia de Alimentos - (Bacharelado) - Integral
+Faculdade de Zootecnia e Engenharia de Alimentos - Pirassununga - USP
+código fuvest: 8/186
+código USP: 74100/0
+modalidade
+pontos finais
+classificação
+AC
+794,52
+5
+EP-L1
+744,90
+28
+PPI-L2
+697,94
+69
+EP-L3
+759,60
+15
+PPI-L4
+-
+-
+Engenharia de Alimentos - (Bacharelado) - Noturno
+Faculdade de Zootecnia e Engenharia de Alimentos - Pirassununga - USP
+código fuvest: 8/84
+código USP: 74100/4
+modalidade
+pontos finais
+classificação
+AC
+798,90
+4
+EP-L1
+715,14
+49
+PPI-L2
+696,17
+65
+EP-L3
+759,53
+13
+PPI-L4
+-
+-
+Engenharia de Biossistemas - (Bacharelado) - Integral
+Faculdade de Zootecnia e Engenharia de Alimentos - Pirassununga - USP
+código fuvest: 8/85
+código USP: 74300/0
+modalidade
+pontos finais
+classificação
+AC
+802,73
+5
+EP-L1
+728,52
+33
+PPI-L2
+690,97
+66
+EP-L3
+760,26
+15
+PPI-L4
+754,22
+16
+Engenharia de Computação - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/67
+código USP: 3123/3000
+modalidade
+pontos finais
+classificação
+AC
+832,27
+9
+EP-L1
+790,21
+155
+PPI-L2
+739,28
+630
+EP-L3
+807,52
+59
+PPI-L4
+775,20
+274
+Engenharia de Computação - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/64
+código USP: 97001/0
+modalidade
+pontos finais
+classificação
+AC
+848,36
+8
+EP-L1
+799,98
+142
+PPI-L2
+769,15
+369
+EP-L3
+834,16
+20
+PPI-L4
+773,65
+330
+Engenharia de Materiais - (Bacharelado) - Integral
+Escola de Engenharia de Lorena - USP
+código fuvest: 27/48
+código USP: 88202/0
+modalidade
+pontos finais
+classificação
+AC
+800,48
+7
+EP-L1
+714,92
+108
+PPI-L2
+661,13
+218
+EP-L3
+766,97
+22
+PPI-L4
+-
+-
+Engenharia de Materiais e Manufatura - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/63
+código USP: 18350/0
+modalidade
+pontos finais
+classificação
+AC
+813,59
+6
+EP-L1
+766,62
+66
+PPI-L2
+709,22
+222
+EP-L3
+773,54
+49
+PPI-L4
+748,92
+106
+
+
+--- PAGE 7 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+7
+Engenharia de Produção - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/71
+código USP: 3084/3000
+modalidade
+pontos finais
+classificação
+AC
+819,69
+9
+EP-L1
+734,89
+409
+PPI-L2
+701,54
+636
+EP-L3
+783,68
+99
+PPI-L4
+702,82
+626
+Engenharia de Produção - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/59
+código USP: 18084/0
+modalidade
+pontos finais
+classificação
+AC
+824,70
+6
+EP-L1
+760,87
+203
+PPI-L2
+740,97
+305
+EP-L3
+770,57
+156
+PPI-L4
+758,96
+210
+Engenharia de Produção - (Bacharelado) - Noturno
+Escola de Engenharia de Lorena - USP
+código fuvest: 27/53
+código USP: 88352/4
+modalidade
+pontos finais
+classificação
+AC
+813,72
+4
+EP-L1
+749,90
+90
+PPI-L2
+695,68
+248
+EP-L3
+763,55
+57
+PPI-L4
+-
+-
+Engenharia Elétrica - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/72
+código USP: 3033/0
+modalidade
+pontos finais
+classificação
+AC
+819,03
+21
+EP-L1
+762,07
+396
+PPI-L2
+705,29
+922
+EP-L3
+795,93
+106
+PPI-L4
+763,35
+388
+Engenharia Elétrica - Ênfase em Eletrônica - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/56
+código USP: 18045/0
+modalidade
+pontos finais
+classificação
+AC
+837,16
+9
+EP-L1
+773,39
+160
+PPI-L2
+742,29
+301
+EP-L3
+829,82
+11
+PPI-L4
+774,48
+157
+Engenharia Elétrica - Ênfase em Sistemas de Energia e Automação - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/57
+código USP: 18050/0
+modalidade
+pontos finais
+classificação
+AC
+836,01
+5
+EP-L1
+798,90
+63
+PPI-L2
+757,02
+204
+EP-L3
+807,03
+39
+PPI-L4
+773,53
+137
+Engenharia Física - (Bacharelado) - Integral
+Escola de Engenharia de Lorena - USP
+código fuvest: 27/54
+código USP: 88301/0
+modalidade
+pontos finais
+classificação
+AC
+808,22
+6
+EP-L1
+739,55
+61
+PPI-L2
+715,88
+96
+EP-L3
+791,18
+12
+PPI-L4
+-
+-
+Engenharia Florestal - (Bacharelado) - Integral
+Escola Superior de Agricultura Luiz de Queiroz - Piracicaba - USP
+código fuvest: 29/11
+código USP: 11020/0
+modalidade
+pontos finais
+classificação
+AC
+814,50
+3
+EP-L1
+750,44
+42
+PPI-L2
+-
+-
+EP-L3
+764,33
+22
+PPI-L4
+713,23
+119
+Engenharia Mecânica - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/58
+código USP: 18063/0
+modalidade
+pontos finais
+classificação
+AC
+837,50
+8
+EP-L1
+786,69
+161
+PPI-L2
+744,96
+499
+EP-L3
+830,79
+19
+PPI-L4
+770,37
+272
+Engenharia Mecânica - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/73
+código USP: 3045/3000
+modalidade
+pontos finais
+classificação
+AC
+830,76
+7
+EP-L1
+755,79
+406
+PPI-L2
+739,66
+602
+EP-L3
+795,05
+84
+PPI-L4
+740,34
+593
+Engenharia Mecatrônica - (Bacharelado) - Integral
+Escola de Engenharia de São Carlos - USP
+código fuvest: 14/62
+código USP: 18250/0
+modalidade
+pontos finais
+classificação
+AC
+834,62
+7
+EP-L1
+770,86
+157
+PPI-L2
+736,87
+338
+EP-L3
+816,76
+25
+PPI-L4
+783,85
+107
+
+
+--- PAGE 8 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+8
+Engenharia Mecatrônica - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/74
+código USP: 3113/3000
+modalidade
+pontos finais
+classificação
+AC
+818,13
+12
+EP-L1
+771,22
+135
+PPI-L2
+709,47
+442
+EP-L3
+809,40
+20
+PPI-L4
+773,46
+127
+Engenharia Naval - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/75
+código USP: 3073/3000
+modalidade
+pontos finais
+classificação
+AC
+818,00
+6
+EP-L1
+738,13
+308
+PPI-L2
+717,42
+420
+EP-L3
+790,90
+37
+PPI-L4
+767,26
+131
+Engenharia Química - (Bacharelado) - Noturno
+Escola de Engenharia de Lorena - USP
+código fuvest: 27/51
+código USP: 88052/4
+modalidade
+pontos finais
+classificação
+AC
+819,15
+7
+EP-L1
+760,17
+84
+PPI-L2
+715,48
+235
+EP-L3
+788,93
+30
+PPI-L4
+716,68
+233
+Engenharia Química - (Bacharelado) - Integral
+Escola Politécnica - USP
+código fuvest: 12/76
+código USP: 3093/3000
+modalidade
+pontos finais
+classificação
+AC
+816,28
+10
+EP-L1
+757,69
+247
+PPI-L2
+708,83
+678
+EP-L3
+797,74
+40
+PPI-L4
+750,77
+313
+Engenharia Química - (Bacharelado) - Integral
+Escola de Engenharia de Lorena - USP
+código fuvest: 27/176
+código USP: 88052/0
+modalidade
+pontos finais
+classificação
+AC
+821,80
+7
+EP-L1
+752,85
+175
+PPI-L2
+691,22
+483
+EP-L3
+791,33
+41
+PPI-L4
+755,10
+156
+Estatística - (Bacharelado) - Integral
+Instituto de Matemática e Estatística - USP
+código fuvest: 40/194
+código USP: 45062/0
+modalidade
+pontos finais
+classificação
+AC
+855,92
+2
+EP-L1
+821,45
+13
+PPI-L2
+-
+-
+EP-L3
+837,64
+7
+PPI-L4
+787,55
+35
+Estatística e Ciência de Dados - (Bacharelado) - Noturno
+Instituto de Ciências Matemáticas e de Computação - São Carlos - USP
+código fuvest: 35/93
+código USP: 55071/4
+modalidade
+pontos finais
+classificação
+AC
+819,56
+2
+EP-L1
+793,51
+17
+PPI-L2
+-
+-
+EP-L3
+808,81
+3
+PPI-L4
+757,84
+47
+Farmácia - (Bacharelado) - Integral
+Faculdade de Ciências Farmacêuticas - Ribeirão Preto - USP
+código fuvest: 41/16
+código USP: 60015/0
+modalidade
+pontos finais
+classificação
+AC
+807,69
+6
+EP-L1
+748,88
+166
+PPI-L2
+732,10
+276
+EP-L3
+778,71
+49
+PPI-L4
+747,25
+177
+Farmácia - (Bacharelado) - Noturno
+Faculdade de Ciências Farmacêuticas - USP
+código fuvest: 5/15
+código USP: 9013/104
+modalidade
+pontos finais
+classificação
+AC
+801,81
+6
+EP-L1
+743,93
+158
+PPI-L2
+735,36
+212
+EP-L3
+772,68
+47
+PPI-L4
+742,16
+172
+Farmácia - (Bacharelado) - Integral
+Faculdade de Ciências Farmacêuticas - USP
+código fuvest: 5/14
+código USP: 9013/100
+modalidade
+pontos finais
+classificação
+AC
+811,82
+10
+EP-L1
+748,19
+228
+PPI-L2
+739,69
+301
+EP-L3
+790,67
+47
+PPI-L4
+769,34
+100
+Filosofia - (Bacharelado/Licenciatura) - Noturno
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+código fuvest: 11/162
+código USP: 8010/104
+modalidade
+pontos finais
+classificação
+AC
+784,35
+9
+EP-L1
+718,18
+87
+PPI-L2
+696,36
+148
+EP-L3
+770,71
+19
+PPI-L4
+757,79
+31
+
+
+--- PAGE 9 ---
+
+ENEM-USP 2026
+Pontos Finais e Classificações Mínimas de um Chamado para Matrícula
+Informações referentes à 1ª chamada
+9
+Filosofia - (Bacharelado/Licenciatura) - Vespertino
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+código fuvest: 11/161
+código USP: 8010/103
+modalidade
+pontos finais
+classificação
+AC
+786,76
+8
+EP-L1
+739,35
+61
+PPI-L2
+685,47
+209
+EP-L3
+748,87
+44
+PPI-L4
+729,44
+87
+Finanças e Negócios - (Bacharelado) - Noturno
+Faculdade de Economia, Admini

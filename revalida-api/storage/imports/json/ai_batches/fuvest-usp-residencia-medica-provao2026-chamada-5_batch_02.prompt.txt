@@ -1,0 +1,194 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/provao2026-chamada-5.pdf"
+  }
+]
+
+TEXTO-BASE:
+aria Elétrica (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+552.095
+84/102
+Rayca Almeida dos Santos
+43031/0 Física (Licenciatura) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+535.810
+85/102
+Ricardo Segredo Sepulveda
+11010/0 Engenharia Agronômica (Bacharelado) - Integral
+Escola Superior de Agricultura ""Luiz de Queiroz""
+558.891
+86/102
+Sabrina da Silva Coelho
+74100/0 Engenharia de Alimentos (Bacharelado) - Integral
+Faculdade de Zootecnia e Engenharia de Alimentos
+
+
+--- PAGE 6 ---
+
+Provão Paulista Seriado 2025/2026
+Lista de Espera: Chamados para a segunda matrícula
+6
+486.208
+87/102
+Samantha Vieira de Souza Dias
+11062/4 Ciências dos Alimentos (Bacharelado) - Noturno
+Escola Superior de Agricultura ""Luiz de Queiroz""
+503.606
+88/102
+Sara Oliveira Reis
+8010/104 Filosofia (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+545.780
+89/102
+Silvan Diemert Junior
+17101/0 Fisioterapia (Bacharelado) - Integral
+Ribeirão Preto
+546.226
+90/102
+Steffany Dourado Real
+81004/2 Administração (Bacharelado) - Matutino
+Ribeirão Preto
+539.919
+91/102
+Sthefany Cassia Oliveira Mota
+17201/0 Terapia Ocupacional (Bacharelado) - Integral
+Ribeirão Preto
+556.326
+92/102
+Sthefany Ribeiro Assis
+45024/2 Matemática (Licenciatura) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+413.143
+93/102
+Tayna Dias Sampaio
+8031/104 História (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+555.321
+94/102
+Thales Souza Mendes Xavier
+45024/4 Matemática (Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+594.891
+95/102
+Thayla Aparecida de Camargo Dias
+8051/102 Letras (Bacharelado/Licenciatura) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+530.096
+96/102
+Veronica Rocha Oliveira
+8040/103 Ciências Sociais (Bacharelado/Licenciatura) - Vespertino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+467.527
+97/102
+Vitoria Cavalari Chora
+3093/3000 Engenharia Química (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+544.711
+98/102
+Vitoria Perico de Oliveira
+3251/0 Engenharia - Ciclo Básico de Minas/Petróleo (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+539.869
+99/102
+William Ramos de Caldas
+3033/0 Engenharia Elétrica (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+500.721
+100/102
+Yago Ferreira da Silva
+8010/103 Filosofia (Bacharelado/Licenciatura) - Vespertino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+503.361
+101/102
+Yasmin Gabriele Oliveira Garcia
+25013/0 Odontologia (Bacharelado) - Integral
+Faculdade de Odontologia de Bauru
+444.556
+102/102
+Ysadora Aparecida Oliveira Santos
+8051/102 Letras (Bacharelado/Licenciatura) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+

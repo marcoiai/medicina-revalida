@@ -1,0 +1,2081 @@
+
+
+--- PAGE 1 ---
+
+ 
+TLS 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 029/2025   
+ 
+Técnico de Laboratório  (Saúde Bucal) 
+Instruções  
+1. Só abra este caderno quando o fiscal autorizar. 
+2. Verifique¬se¬o¬seu¬nome¬está¬correto¬na¬capa¬deste¬caderno¬e¬se¬a¬folha¬de¬respostas¬pertence¬ao¬grupo TLS.¬
+Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+3. Durante¬a¬prova,¬são¬vedadas¬a¬comunicação¬entre¬candidatos¬e¬a¬utilização¬de¬qualquer¬material¬de¬consulta¬e¬
+de¬aparelhos¬de¬telecomunicação.¬
+4. Duração¬da¬prova:¬4¬horas.¬Cabe¬ao¬candidato¬controlar¬o¬tempo¬com¬base¬nas¬informações¬fornecidas¬pelo¬
+fiscal.¬O(A)¬candidato(a)¬poderá¬retirar-se¬da¬sala¬definitivamente¬apenas¬a¬partir¬das¬15¬h.¬Não¬haverá¬tempo¬
+adicional¬para¬preenchimento¬da¬folha¬de¬respostas.¬¬
+5. O(A)¬ candidato(a)¬ deverá¬ seguir¬ as¬ orientações¬ estabelecidas¬ pela¬ FUVEST¬ a¬ respeito¬ dos¬ procedimentos¬
+adotados¬para¬a¬aplicação¬deste¬concurso.¬
+6. Lembre-se¬de¬que¬a¬FUVEST¬se¬reserva¬ao¬direito¬de¬efetuar¬procedimentos¬adicionais¬de¬identificação¬e¬controle¬
+do¬ processo,¬ visando¬ a¬ garantir¬ a¬ plena¬ integridade¬ do¬ exame.¬ Assim,¬ durante¬ a¬ realização¬ da¬ prova,¬ será¬
+coletada¬por¬um¬fiscal¬uma¬foto¬do(a)¬candidato(a)¬para¬fins¬de¬reconhecimento¬facial,¬para¬uso¬exclusivo¬da¬USP¬
+e¬da¬FUVEST.¬A¬imagem¬não¬será¬divulgada¬nem¬utilizada¬para¬quaisquer¬outras¬finalidades,¬nos¬termos¬da¬lei.¬
+7. Após¬a¬autorização¬do¬fiscal¬da¬sala,¬verifique¬se¬o¬caderno¬está¬completo.¬Ele¬deve¬conter¬60¬questões¬objetivas,¬
+com¬5¬alternativas¬cada,¬e¬1¬questão¬dissertativa.¬Informe¬ao¬fiscal¬de¬sala¬eventuais¬divergências.¬
+8. Preencha¬a¬folha¬de¬respostas¬com¬cuidado,¬utilizando¬caneta¬esferográfica¬de¬tinta azul ou preta.¬Essa¬folha¬
+não será substituída¬em¬caso¬de¬rasura.¬
+9. Ao¬final¬da¬prova,¬é¬obrigatória¬a¬devolução¬da¬folha¬de¬respostas¬acompanhada¬deste¬caderno¬de¬questões.¬
+Declaração 
+Declaro¬que¬li¬e¬estou¬ciente¬das¬informações¬que¬constam¬na¬capa¬desta¬prova,¬na¬folha¬de¬respostas,¬bem¬
+como¬dos¬avisos¬que¬foram¬transmitidos¬pelo¬fiscal¬de¬sala.¬
+¬
+___________________________________________________¬
+ASSINATURA¬
+O(a)¬candidato(a)¬que¬não¬assinar¬a¬capa¬da¬prova¬será¬considerado(a)¬ausente¬da¬prova.¬
+ 
+ 
+
+
+--- PAGE 2 ---
+
+Concurso Edital RH nº 029/2025 – Técnico de Laboratório (especialidade: Saúde Bucal) 
+Texto para as questões 01 e 02 
+¬
+Em¬silêncio¬¬
+¬
+¬
+Precisava¬de¬silêncio¬para¬pensar,¬ordenar¬sua¬vida¬
+e¬rumos.¬Juntou¬poucas¬coisas,¬navegou¬até¬uma¬ilha¬deserta.¬
+Mas¬a¬gritaria¬das¬aves¬marinhas¬fundia-se¬com¬o¬farfalhar¬do¬
+vento¬ nas¬ palmeiras,¬ e¬ quando¬ ambos¬ se¬ calavam,¬ batiam¬
+inevitáveis¬ as¬ ondas¬ contra¬ as¬ pedras.¬ Silêncio¬ não¬ havia.¬
+Tomou¬suas¬coisas,¬voltou¬ao¬continente,¬recolheu-se¬numa¬
+gruta¬ em¬ montanha¬ distante.¬ Embora¬ isolado,¬ logo¬ se¬ viu¬
+rodeado¬de¬ruídos,¬pequenos¬alguns,¬minúsculos¬outros,¬que¬
+o¬aparente¬silêncio¬circundante¬agigantava.¬Era¬o¬gotejar¬do¬
+excesso¬de¬umidade,¬o¬esvoejar¬dos¬morcegos¬ao¬anoitecer,¬
+o¬zumbir¬de¬um¬ou¬outro¬inseto,¬um¬gorjear¬lá¬fora,¬um¬escavar¬
+cá¬ dentro,¬ um¬ rastejar,¬ e¬ o¬ ronco¬ majestoso¬ dos¬ trovões,¬ o¬
+estalar¬dos¬relâmpagos.¬Novamente¬arrebanhou¬seus¬poucos¬
+pertences.¬ E¬ desceu¬ a¬ montanha,¬ regressou¬ à¬ cidade.¬ As¬
+chaves¬da¬sua¬casa¬tilintavam¬no¬bolso,¬não¬atendeu¬ao¬apelo.¬
+Tomou¬ônibus¬e¬metrô,¬caminhou¬até¬a¬praça¬mais¬central.¬Ali,¬
+onde¬tantos¬passavam¬e¬as¬buzinas¬dos¬carros¬e¬os¬apitos¬dos¬
+guardas¬e¬o¬gritar¬dos¬ambulantes¬e¬o¬chamado¬das¬sirenes¬
+se¬entrecruzavam,¬sentou-se.¬Assim¬como¬havia¬ignorado¬as¬
+chaves,¬ ignorou¬ os¬ sons¬ todos¬ que¬ lhe¬ atingiam¬ a¬ cabeça,¬
+esqueceu¬os¬ouvidos.¬E,¬vagarosamente,¬começou¬a¬descida¬
+em¬seu¬silêncio¬interior.¬
+¬
+Marina¬Colasanti.¬Hora¬de¬alimentar¬serpentes.¬Global,¬2013¬
+¬
+{01} 
+No¬conto,¬a¬busca¬do¬protagonista¬está¬relacionada¬à¬tentativa¬
+de¬
+¬
+(A)¬demonstrar¬ que¬ o¬ silêncio¬ perfeito¬ é¬ uma¬ construção¬
+imaginária¬e¬artificial.¬
+(B)¬isolar-se¬ do¬ mundo¬ externo¬ para¬ criar¬ uma¬ realidade¬
+paralela¬e¬inexorável.¬
+(C)¬ comprovar¬ que¬ a¬ natureza¬ é¬ menos¬ ruidosa¬ do¬ que¬ o¬
+ambiente¬urbano.¬
+(D)¬encontrar¬ uma¬ quietude¬ absoluta¬ que,¬ paradoxalmente,¬
+revela-se¬inalcançável.¬
+(E)¬estabelecer¬um¬contraponto¬entre¬a¬vida¬solitária¬e¬a¬vida¬
+social¬da¬cidade.¬
+##### 
+¬
+{02} 
+O¬sufixo¬“-ejar”,¬presente¬em¬“esvoejar”,¬desempenha¬papel¬
+semântico¬específico¬na¬construção¬do¬verbo,¬conferindo-lhe¬
+a¬ideia¬de:¬
+¬
+(A)¬Estado¬contínuo¬e¬permanente.¬
+(B)¬Movimento¬leve¬e¬intermitente.¬
+(C)¬Intensificação¬de¬uma¬ação.¬
+(D)¬Formação¬de¬substantivos¬abstratos.¬
+(E)¬Relação¬de¬causa¬e¬consequência.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+ 
+Texto para as questões de 03 a 05 
+¬
+¬
+Cuidar¬ da¬ nossa¬ saúde¬ às¬ vezes¬ lembra¬ aquela¬
+olhadela¬que¬damos¬na¬cabine¬do¬avião¬a¬caminho¬de¬nosso¬
+assento.¬Por¬todo¬lado¬só¬vemos¬coisas¬complicadas:¬telas,¬
+indicadores,¬
+alavancas,¬
+luzes¬
+piscantes,¬
+manivelas,¬
+interruptores,¬ mais¬ alavancas...¬ botões¬ do¬ lado¬ esquerdo,¬
+botões¬do¬lado¬direito,¬botões¬no¬teto¬(não,¬fala¬sério,¬Por¬que¬
+eles¬põem¬botões¬no¬teto?).¬Desviamos¬o¬olhar,¬agradecidos¬
+pelo¬fato¬de¬os¬pilotos¬saberem¬o¬que¬estão¬fazendo.¬Como¬
+passageiros¬tudo¬que¬nos¬importa¬é¬se¬o¬avião¬vai¬ficar¬no¬céu.¬
+Quando¬a¬questão¬é¬nosso¬corpo,¬somos¬nós¬os¬passageiros¬
+ignorantes.¬Porém¬-¬reviravolta¬na¬história¬-,¬os¬pilotos¬também¬
+somos¬ nós.¬ E¬ quando¬ não¬ sabemos¬ como¬ nosso¬ corpo¬
+funciona,¬é¬como¬se¬estivéssemos¬em¬voo¬cego.¬Nós¬sabemos¬
+como¬ queremos¬ nos¬ sentir.¬ Queremos¬ acordar¬ com¬ um¬
+sorriso,¬animados¬e¬empolgados¬para¬o¬novo¬dia.¬Queremos¬
+ter¬uma¬alegria¬no¬andar,¬livres¬de¬qualquer¬dor.¬Queremos¬
+passar¬ momentos¬ agradáveis¬ com¬ nossa¬ família,¬ com¬ uma¬
+sensação¬de¬gratidão¬positividade.¬Mas¬pode¬ser¬complicado¬
+descobrir¬ como¬ chegar¬ lá.¬ São¬ tantos¬ botões¬ que¬ nos¬
+sentimos¬esmagados.¬O¬que¬fazer?¬Por¬onde¬começar?¬Temos¬
+que¬começar¬pela¬glicose.¬Por¬quê?¬Porque¬ela¬é¬a¬alavanca¬
+da¬ cabine¬ com¬ o¬ maior¬ custo-benefício.¬ É¬ a¬ mais¬ fácil¬ de¬
+compreender¬ (graças¬ aos¬ monitores¬ contínuos¬ de¬ glicose),¬
+afeta¬instantaneamente¬nossas¬sensações¬(porque¬influencia¬
+nossa¬fome¬e¬nosso¬humor),¬e¬muita¬coisa¬passa¬a¬se¬encaixar¬
+a¬partir¬do¬momento¬em¬que¬conseguimos¬controlá-la.¬
+¬
+Adaptado¬de¬Inchauspé,¬Jessie.¬A¬revolução¬da¬glicose:¬equilibre¬os¬
+níveis¬de¬açúcar¬no¬sangue¬e¬mude¬sua¬saúde¬e¬sua¬vida.¬Trad.¬André¬
+Fontenelle.¬Objetiva,¬2022.¬
+¬
+{03} 
+No¬texto,¬a¬relação¬entre¬a¬complexidade¬da¬cabine¬de¬um¬
+avião¬e¬a¬administração¬da¬saúde¬humana¬evidencia¬
+¬
+(A)¬a¬ inutilidade¬ de¬ tentar¬ entender¬ processos¬ fisiológicos,¬
+excessivamente¬complicados.¬
+(B)¬a¬ dificuldade¬ de¬ compreender¬ o¬ próprio¬ corpo¬ e¬ o¬
+conhecimento¬para¬controlá-lo.¬
+(C)¬o¬fato¬de¬que¬apenas¬profissionais¬especializados¬podem¬
+lidar¬com¬questões¬de¬saúde.¬
+(D)¬a¬impossibilidade¬de¬pessoas¬comuns¬poderem¬interferir¬
+no¬próprio¬bem-estar.¬
+(E)¬a¬necessidade¬de¬confiar¬em¬terceiros¬para¬a¬regulação¬da¬
+saúde,¬física¬e¬emocional.¬
+##### 
+¬
+{04} 
+No¬trecho¬“Como¬passageiros¬tudo¬que¬nos¬importa¬é¬se¬o¬
+avião¬vai¬ficar¬no¬céu”,¬a¬inclusão¬do¬termo¬“o”¬antes¬de¬“que”¬
+tem¬como¬efeito:¬
+¬
+(A)¬Tornar¬ “o¬ que”¬ equivalente¬ a¬ “aquilo¬ que”,¬ funcionando¬
+como¬pronome¬demonstrativo.¬
+(B)¬Alterar¬ a¬ função¬ sintática¬ de¬ “que”,¬ transformando-o¬ em¬
+conjunção¬integrante.¬
+(C)¬Modificar¬o¬sentido¬original¬da¬frase,¬tornando-a¬ambígua.¬
+(D)¬Indicar¬uma¬relação¬de¬posse,¬característica¬de¬pronomes¬
+relativos.¬
+(E)¬Introduzir¬ideia¬de¬consequência,¬assumindo¬o¬sentido¬de¬
+vulnerabilidade.¬
+##### 
+¬
+ 
+
+
+--- PAGE 3 ---
+
+Concurso Edital RH nº 029/2025 – Técnico de Laboratório (especialidade: Saúde Bucal) 
+{05} 
+O¬texto¬se¬organiza¬essencialmente¬por¬meio¬de:¬
+¬
+(A)¬Descrições¬ objetivas¬ e¬ técnicas,¬ abrangendo¬ fisiologia¬
+humana.¬
+(B)¬Argumentação¬exclusivamente¬baseada¬em¬dados¬
+estatísticos.¬
+(C)¬Estruturas¬
+formais,¬
+utilizadas¬
+em¬
+textos¬
+científicos¬
+acadêmicos.¬
+(D)¬Afirmações¬e¬questionamentos¬sem¬embasamento¬lógico¬ou¬
+científico.¬
+(E)¬Comparações¬
+e¬
+metáforas,¬
+simplificando¬
+conceitos¬
+complexos.¬
+##### 
+¬
+ 
+Texto para as questões de 06 a 08 
+¬
+Mal¬o¬CEO¬da¬Meta,¬Mark¬Zuckerberg,¬anunciou¬as¬mudanças¬
+nas¬ políticas¬ de¬ moderação¬ de¬ suas¬ plataformas,¬ muitos¬
+educadores,¬ comunicadores¬ e¬ jornalistas¬ presentes¬ nos¬
+diferentes¬ grupos¬ dos¬ quais¬ faço¬ parte¬ começaram¬ a¬
+questionar¬a¬eficácia¬da¬Educação¬Midiática.¬O¬que¬podemos¬
+diante¬de¬um¬Musk¬e¬um¬Zuckerberg?¬De¬que¬adianta¬educar¬
+para¬ a¬ checagem¬ de¬ notícias¬ se¬ agora¬ “abriram-se¬ as¬
+porteiras”¬e¬nenhum¬de¬nós¬vai¬dar¬conta¬de¬distinguir¬o¬que¬é¬
+verdadeiro¬ ou¬ falso,¬ de¬ remover¬ conteúdos¬ agressivos,¬
+preconceituosos,¬ de¬ construir¬ referenciais¬ seguros¬ para¬
+obtermos¬informações¬íntegras¬e¬confiáveis?¬É¬enxugar¬gelo,¬
+nadar¬contra¬a¬corrente,¬melhor¬a¬gente¬se¬preparar¬para¬viver¬
+no¬caos,¬diziam¬alguns,¬já¬ameaçando¬sair¬de¬vez¬das¬redes,¬
+boicotar¬ a¬ Meta,¬ banir¬ o¬ digital¬ de¬ vez¬ do¬ seu¬ cotidiano.¬
+Entendo¬a¬Educação¬Midiática¬como¬um¬importante¬e¬potente¬
+elemento¬ para¬ que¬ possamos¬ lidar¬ com¬ todos¬ os¬ desafios¬
+presentes¬no¬mundo¬digital¬–¬e¬de¬resto,¬no¬mundo¬real,¬que¬o¬
+reflete.¬Ela¬é¬uma¬alternativa¬viável¬e¬segura¬que¬todos¬nós,¬
+que¬ desejamos¬ continuar¬ a¬ viver¬ civilizadamente¬ em¬
+sociedade,¬podemos¬tomar¬em¬nossas¬mãos.¬Se¬as¬chamadas¬
+big¬techs¬nos¬abandonam¬à¬própria¬sorte,¬cabe¬a¬cada¬um¬de¬
+nós¬entender¬qual¬é¬o¬nosso¬papel¬nesse¬ecossistema.¬¬
+¬
+Adaptado¬de:¬Januária¬Cristina¬Alves.¬“Novas¬diretrizes¬da¬Meta:¬será¬o¬
+fim¬da¬Educação¬Midiática?”¬Nexo¬Jornal.¬16¬de¬janeiro¬de¬2025.¬
+ 
+{06} 
+No¬trecho¬“Mal¬o¬CEO¬da¬Meta,¬Mark¬Zuckerberg,¬anunciou¬as¬
+mudanças¬nas¬políticas¬de¬moderação¬de¬suas¬plataformas”,¬
+o¬termo¬“Mal”¬estabelece¬uma¬relação¬de¬
+¬
+(A)¬comparação,¬equiparando¬dois¬acontecimentos¬simultâneos.¬¬
+(B)¬condição,¬introduzindo¬uma¬possibilidade¬de¬mudança.¬
+(C)¬consequência,¬ indicando¬ um¬ efeito¬ direto¬ da¬ ação¬
+posterior.¬
+(D)¬oposição,¬contrastando¬ideias¬consideradas¬divergentes.¬
+(E)¬tempo,¬indicando¬uma¬ação¬ocorrida¬imediatamente¬após¬
+outra.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+{07} 
+No¬ trecho,¬ e¬ em¬ relação¬ ao¬ contexto¬ em¬ que¬ se¬ insere,¬ “o¬
+mundo¬ real,¬ que¬ o¬ reflete”,¬ a¬ oração¬ após¬ a¬ vírgula¬ tem¬ a¬
+função¬de¬
+¬
+(A)¬servir¬como¬uma¬explicação¬para¬ser¬utilizada¬pelas¬big¬
+techs.¬
+(B)¬apresentar¬um¬aposto¬que¬exemplifica¬o¬conceito¬anterior.¬
+(C)¬introduzir¬uma¬nova¬informação¬independente¬da¬anterior.¬
+(D)¬retomar¬“o¬mundo¬digital”,¬explicando¬sua¬relação¬com¬o¬
+mundo¬real.¬
+(E)¬estabelecer¬um¬juízo¬de¬valor¬sobre¬o¬funcionamento¬das¬
+redes¬sociais.¬
+##### 
+¬
+{08} 
+No¬período¬em¬que¬se¬encontra,¬a¬sequência¬textual¬“melhor¬
+a¬gente¬se¬preparar”¬apresenta-se¬gramaticalmente¬como¬
+¬
+(A)¬uma¬inversão¬sintática,¬típica¬da¬linguagem¬formal.¬
+(B)¬um¬ erro¬ gramatical,¬ com¬ a¬ falta¬ do¬ verbo¬ principal¬ na¬
+oração.¬
+(C)¬uma¬ construção¬ elíptica,¬ simplificando¬ o¬ segmento¬
+sintático.¬
+(D)¬um¬ exemplo¬ de¬ hipérbole,¬ intensificando¬ a¬ situação¬
+descrita.¬
+(E)¬uma¬ construção¬ arcaica,¬ comum¬ em¬ textos¬ literários¬
+antigos.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+ 
+
+
+--- PAGE 4 ---
+
+Concurso Edital RH nº 029/2025 – Técnico de Laboratório (especialidade: Saúde Bucal) 
+Texto para as questões de 09 a 11 
+¬
+The¬ idea¬ of¬ time¬ blindness,¬ or¬ difficulty¬ perceiving¬ and¬
+managing¬time,¬has¬spread¬across¬social¬media.¬While¬there¬is¬
+no¬diagnosis¬for¬it,¬some¬people¬explain¬that,¬despite¬their¬best¬
+efforts,¬ they¬ frequently¬ lose¬ track¬ of¬ time,¬underestimate¬ or¬
+overestimate¬how¬long¬tasks¬will¬take,¬show¬up¬late,¬and¬miss¬
+deadlines.¬
+Time¬blindness¬is¬a¬psychological¬phenomenon¬that¬nearly¬
+everyone¬experiences¬from¬time¬to¬time,¬said¬Michael¬Manos,¬
+at¬the¬Cleveland¬Clinic.¬
+“Who¬doesn’t¬get¬completely¬occupied¬with¬a¬hobby¬or¬a¬
+conversation¬they’re¬having¬with¬somebody,¬or¬some¬kind¬of¬
+activity¬that¬is¬so¬interesting¬that¬it¬occupies¬attention,¬and¬it¬
+takes¬attention¬away¬from¬other¬things¬that¬might¬be¬pressing?”¬
+he¬said.¬
+Not¬all¬experts¬agree,¬but¬some¬suggest¬that¬it¬could¬be¬a¬
+limitation¬for¬some¬people.¬
+Renae¬Beaumont,¬an¬associate¬professor¬of¬psychology¬in¬
+clinical¬ psychiatry,¬ said¬ time¬ blindness¬ and¬ flow,¬ a¬ state¬ of¬
+intense¬ focus¬ in¬ an¬ activity¬ that¬ is¬ engaging,¬ enjoyable¬ and¬
+temporarily¬ distracts¬ from¬ the¬ passage¬ of¬ time,¬ are¬ different¬
+phenomena.¬
+“Flow¬is¬typically¬associated¬with¬positive¬emotions¬when¬
+you’re¬doing¬something¬you¬enjoy,¬and¬you¬are¬able¬to¬shift¬to¬
+a¬ different¬ task¬ when¬ you¬ need¬ to.¬ Time¬ blindness¬ involves¬
+getting¬stuck,¬losing¬track¬of¬time¬and¬typically¬having¬trouble¬
+transitioning¬to¬a¬different¬task,”¬she¬said.¬
+There¬ is¬ no¬ clear¬ consensus,¬ but¬ some¬ researchers¬
+consider¬ time¬ blindness¬ to¬ be¬ an¬ impairment¬ in¬ temporal¬
+perception,¬or¬the¬way¬the¬brain¬experiences¬time.¬
+Certain¬strategies¬may¬help¬people¬who¬struggle¬with¬time¬
+perception¬and¬management,¬experts¬said.¬
+Use¬ digital¬ reminders¬ including¬ alarms,¬ timers¬ and¬
+calendars¬to¬keep¬track¬of¬appointments,¬dates¬and¬deadlines.¬¬
+¬
+Washington¬Post.¬February¬5,¬2025.¬Adaptado.¬
+{09} 
+Conforme¬ o¬ texto,¬ uma¬ característica¬ do¬ conceito¬ de¬ “flow”¬
+envolve¬
+¬
+(A)¬concentração¬exclusiva¬em¬um¬objetivo,¬sem¬adaptação¬a¬
+mudanças.¬¬
+(B)¬imersão¬em¬uma¬ocupação¬prazerosa¬com¬controle¬sobre¬
+sua¬execução.¬¬
+(C)¬perda¬ da¬ percepção¬ do¬ tempo¬ acompanhada¬ de¬
+ansiedade.¬¬
+(D)¬dificuldade¬em¬interromper¬um¬processo¬por¬excesso¬de¬
+envolvimento.¬¬
+(E)¬tendência¬ a¬ evitar¬ experiências¬ que¬ exijam¬ atenção¬
+ininterrupta.¬
+##### 
+¬
+{10} 
+No¬ trecho¬ "While¬ there¬ is¬ no¬ diagnosis¬ for¬ it,¬ some¬ people¬
+explain¬ that..."¬ (1º¬ parágrafo),¬ o¬ termo¬ "While"¬ pode¬ ser¬
+substituído,¬sem¬prejuízo¬de¬sentido,¬por¬
+(A)¬Even¬though.¬
+(B)¬Moreover.¬
+(C)¬Therefore.¬
+(D)¬So¬that.¬
+(E)¬As¬well¬that.¬
+##### 
+¬
+{11} 
+No¬trecho¬"Who¬doesn’t¬get¬completely¬occupied¬with¬a¬hobby¬
+or¬a¬conversation¬they’re¬having¬with¬somebody,¬or¬some¬kind¬
+of¬activity¬that¬is¬so¬interesting¬that¬it¬occupies¬attention"¬(3º¬
+parágrafo),¬o¬pronome¬"they"¬refere-se¬¬
+(A)¬aos¬especialistas¬citados¬no¬estudo.¬
+(B)¬às¬pessoas¬em¬geral.¬¬
+(C)¬aos¬indivíduos¬em¬idade¬avançada.¬¬
+(D)¬ao¬autor¬do¬texto.¬
+(E)¬a¬uma¬autoridade¬médica.¬
+##### 
+¬
+ 
+Texto para as questões 12 e 13 
+Scientists¬ have¬ found¬ that¬ generally¬ the¬ world¬ feels¬
+brighter¬when¬you¬wake¬up.¬
+People¬ start¬ the¬ day¬ in¬ the¬ best¬ frame¬ of¬ mind¬ in¬ the¬
+morning,¬but¬end¬in¬the¬worst,¬at¬about¬midnight,¬the¬findings¬
+suggest,¬with¬the¬day¬of¬the¬week¬and¬the¬season¬also¬playing¬
+a¬part.¬
+Mental¬health¬also¬tends¬to¬be¬more¬varied¬at¬weekends¬
+but¬steadier¬during¬the¬week,¬according¬to¬the¬study¬led¬by¬
+University¬College¬London.¬
+“Generally,¬ things¬ do¬ seem¬ better¬ in¬ the¬ morning,”¬ the¬
+researchers¬concluded.¬¬
+Mental¬health¬and¬wellbeing¬are¬dynamic¬in¬nature,¬and¬
+subject¬to¬change¬over¬short¬and¬long¬periods.¬However,¬few¬
+studies¬have¬looked¬at¬how¬they¬might¬change¬over¬the¬course¬
+of¬the¬day.¬
+Scientists¬ wanted¬ to¬ explore¬ whether¬ time¬ of¬ day¬ was¬
+associated¬ with¬ variations¬ in¬ mental¬ health,¬ happiness,¬ life¬
+satisfaction,¬sense¬of¬life¬being¬worthwhile¬and¬loneliness.¬¬
+People¬ in¬ the¬ study¬ answered¬ questionnaires,¬ with¬
+questions¬ such¬ as:¬ “In¬ the¬ past¬ week,¬ how¬ happy¬ did¬ you¬
+feel?”,¬“How¬satisfied¬have¬you¬been¬with¬your¬life?”,¬and¬“To¬
+what¬extent¬have¬you¬felt¬the¬things¬you¬are¬doing¬in¬your¬life¬
+are¬worthwhile?”¬
+Factors¬ such¬ as¬ age,¬ health¬ conditions¬ and¬ whether¬
+people¬worked¬were¬taken¬into¬account.¬
+The¬results¬showed¬that¬happiness,¬life¬satisfaction,¬and¬
+worthwhile¬ ratings¬ were¬ all¬ higher¬ on¬ Mondays¬ and¬ Fridays¬
+than¬ on¬ Sundays,¬ while¬ happiness¬ was¬ also¬ higher¬ on¬
+Tuesdays.¬ There¬ was¬ no¬ evidence¬ that¬ loneliness¬ differed¬
+across¬days¬of¬the¬week.¬
+There¬ was¬ clear¬ evidence¬ of¬ a¬ seasonal¬ influence¬ on¬
+mood.¬ Compared¬ with¬ winter,¬ people¬ tended¬ to¬ have¬ lower¬
+levels¬of¬depressive¬and¬anxiety¬symptoms¬and¬loneliness,¬and¬
+higher¬levels¬of¬happiness,¬and¬feeling¬that¬life¬was¬worthwhile¬
+in¬the¬three¬other¬seasons.¬
+Mental¬health¬was¬best¬in¬the¬summer¬across¬all¬outcomes.¬
+But¬the¬season¬didn’t¬affect¬the¬associations¬observed¬across¬
+the¬day,¬however.¬
+This¬ was¬ an¬ observational¬ study,¬ so¬ it¬ cannot¬ establish¬
+cause.¬¬
+¬
+The¬Guardian.com.¬February¬5,¬2025.¬Adaptado.¬
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 5 ---
+
+Concurso Edital RH nº 029/2025 – Técnico de Laboratório (especialidade: Saúde Bucal) 
+{12} 
+De¬acordo¬ com¬o¬texto,¬a¬relação¬ entre¬ estações¬do¬ano¬e¬
+variação¬emocional¬torna¬mais¬plausível¬a¬inferência¬de¬que¬
+¬
+(A)¬a¬ estabilidade¬ dos¬ padrões¬ diários¬ indica¬ que¬ os¬ ritmos¬
+circadianos¬independem¬das¬mudanças¬periódicas.¬
+(B)¬a¬ redução¬ dos¬ sintomas¬ fora¬ da¬ primavera¬ prova¬ que¬ o¬
+clima¬é¬o¬fator¬predominante¬e¬determinante¬das¬emoções.¬
+(C)¬a¬ melhora¬ no¬ verão¬ evidencia¬ que¬ aspectos¬ ambientais¬
+influenciam¬o¬humor,¬sem¬explicar¬as¬flutuações¬ao¬longo¬
+do¬dia.¬
+(D)¬a¬ vantagem¬ do¬ verão¬ mostra¬ que¬ mudanças¬ sazonais¬
+afetam¬todas¬as¬pessoas¬igualmente.¬
+(E)¬os¬ melhores¬ resultados¬ nesse¬ período¬ sugerem¬ que¬
+intervenções¬devem¬ser¬intensificadas¬no¬inverno.¬####¬
+¬
+{13} 
+No¬trecho¬“Factors¬such¬as¬age,¬health¬conditions¬and¬whether¬
+people¬ worked¬ were¬ taken¬ into¬ account”¬ (8º¬ parágrafo),¬ o¬
+termo¬"whether"¬indica¬
+¬
+(A)¬relevância¬reduzida¬do¬histórico¬de¬queixas¬associadas¬à¬
+idade.¬
+(B)¬justificativa¬para¬a¬escolha¬dos¬elementos¬avaliados.¬
+(C)¬alternância¬de¬períodos¬relativos¬à¬coleta¬das¬respostas.¬
+(D)¬possibilidade¬ envolvendo¬ a¬ situação¬ profissional¬ dos¬
+indivíduos.¬¬
+(E)¬referência¬indireta¬aos¬participantes¬voluntários¬do¬estudo.¬
+##### 
+¬
+{14} 
+Synesthesia¬is¬when¬you¬hear¬music,¬but¬you¬see¬shapes.¬Or¬
+you¬hear¬a¬word¬or¬a¬name¬and¬instantly¬see¬a¬color.¬Synesthesia¬
+is¬a¬name¬for¬when¬you¬experience¬one¬of¬your¬senses¬through¬
+another.¬For¬example,¬you¬might¬hear¬the¬name¬"Alex"¬and¬see¬
+green.¬Or¬you¬might¬read¬the¬word¬"street"¬and¬taste¬citrus¬fruit.¬
+The¬ word¬ "synesthesia"¬ has¬ Greek¬ roots.¬ It¬ translates¬ to¬
+“perceive¬ together.”¬ Synesthesia¬ isn’t¬ a¬ disease¬ or¬ disorder.¬ It¬
+won’t¬harm¬your¬health,¬and¬it¬doesn’t¬mean¬you’re¬mentally¬ill.¬
+Some¬ studies¬ suggest¬ people¬ who¬ have¬ it¬ may¬ do¬ better¬ on¬
+memory¬and¬intelligence¬tests¬than¬those¬who¬don’t.¬¬
+One¬ of¬ the¬ most¬ common¬ responses¬ is¬ to¬ see¬ letters,¬
+numbers,¬or¬sounds¬as¬colors.¬You¬might¬also¬see¬or¬hear¬a¬word¬
+and¬taste¬food;¬hear¬sounds¬and¬see¬shapes¬or¬patterns;¬feel¬a¬
+touch¬when¬seeing¬someone¬else¬being¬touched.¬(This¬is¬called¬
+mirror¬touch.)¬
+It¬ can¬ be¬ an¬ annoyance.¬ But¬ most¬ synesthetes¬ see¬ their¬
+condition¬as¬a¬sixth¬sense,¬not¬a¬drawback.¬
+You¬can’t¬control¬it.¬The¬response¬happens¬right¬away.¬For¬
+example,¬if¬you¬hear¬a¬new¬piece¬of¬music,¬you¬may¬see¬a¬color¬
+or¬taste¬a¬flavor¬without¬any¬effort.¬It¬just¬happens.¬
+It’s¬internal,¬mostly.¬The¬colors¬are¬just¬in¬your¬mind.¬¬
+It¬stays¬the¬same¬over¬time.¬If¬you¬see¬the¬letter¬"A"¬in¬green¬
+today,¬you’ll¬see¬it¬in¬green¬10¬years¬from¬now.¬¬
+It¬often¬starts¬in¬childhood.¬Studies¬of¬kids¬with¬synesthesia¬
+found¬that¬it¬develops¬over¬time.¬¬
+¬
+webmd.com.¬December¬17,¬2024.¬Adaptado.¬
+De¬ acordo¬ com¬ o¬ texto¬ apresentado,¬ a¬ sinestesia¬ pode¬ ser¬
+descrita¬como¬
+¬
+(A)¬condição¬patológica¬que¬afeta¬a¬percepção¬sensorial.¬
+(B)¬incapacidade¬ de¬ interpretar¬ estímulos¬ orais¬ de¬ maneira¬
+incomum.¬
+(C)¬experiência¬cruzada¬entre¬os¬sentidos¬ que¬acontece¬ de¬
+forma¬involuntária.¬¬
+(D)¬fenômeno¬restrito¬às¬associações¬visuais¬e¬auditivas.¬
+(E)¬característica¬que¬se¬desenvolve¬ao¬longo¬da¬vida¬por¬meio¬
+de¬treinamento.¬
+##### 
+¬
+{15} 
+O¬ termo¬ “pace”¬ é¬ utilizado¬ entre¬ corredores¬ amadores¬ e¬
+profissionais.¬É¬uma¬palavra¬de¬língua¬inglesa¬que¬significa¬
+“ritmo”.¬O¬pace¬é¬definido¬como¬sendo¬o¬tempo¬(em¬minutos)¬
+que¬o(a)¬atleta¬leva¬para¬percorrer¬1¬quilômetro,¬em¬média.¬Por¬
+exemplo,¬ um(a)¬ corredor(a)¬ com¬ pace¬ 6¬ min/km¬ leva,¬ em¬
+média,¬ 6¬ minutos¬ para¬ percorrer¬ 1¬ quilômetro.¬ Em¬ 31¬ de¬
+dezembro¬ de¬ 2024,¬ a¬ brasileira¬ Núbia¬ de¬ Oliveira¬ ficou¬ em¬
+terceiro¬ lugar¬ na¬ categoria¬ feminina¬ da¬ Corrida¬ de¬ São¬
+Silvestre,¬realizada¬em¬São¬Paulo,¬em¬que¬completou¬o¬trecho¬
+de¬15¬quilômetros¬em¬53¬minutos¬e¬24¬segundos.¬Conclui-se¬
+que¬o¬pace¬de¬Núbia,¬nessa¬prova,¬ficou¬mais¬próximo¬de:¬
+¬
+(A)¬2¬minutos¬e¬48¬segundos¬por¬quilômetro.¬
+(B)¬3¬minutos¬e¬34¬segundos¬por¬quilômetro.¬
+(C)¬5¬minutos¬e¬6¬segundos¬por¬quilômetro.¬
+(D)¬6¬minutos¬e¬48¬segundos¬por¬quilômetro.¬
+(E)¬8¬minutos¬por¬quilômetro.¬
+##### 
+¬
+{16} 
+Se¬ três¬ pessoas¬ levam¬ juntas¬ 15¬ horas¬ para¬ realizar¬ uma¬
+determinada¬ tarefa,¬ quanto¬ tempo¬ 10¬ pessoas¬ igualmente¬
+capazes¬levarão¬para¬realizar¬a¬mesma¬tarefa,¬trabalhando¬no¬
+mesmo¬ritmo¬e¬sob¬as¬mesmas¬condições?¬
+¬
+(A) 4¬horas.¬
+(B) 4¬horas¬e¬15¬minutos.¬
+(C) 4¬horas¬e¬30¬minutos.¬
+(D) 4¬horas¬e¬50¬minutos.¬
+(E) 5¬horas.¬
+##### 
+¬
+{17} 
+Dizemos¬que¬dois¬números¬primos¬são¬gêmeos¬se¬a¬diferença¬
+entre¬ eles¬ é¬ dois.¬ Por¬ exemplo,¬ 5¬ e¬ 7¬ são¬ números¬ primos¬
+gêmeos.¬Assinale¬a¬alternativa¬que¬apresenta¬dois¬números¬
+primos¬gêmeos.¬
+¬
+(A) 31¬e¬33.¬
+(B) 47¬e¬49.¬
+(C) 57¬e¬59.¬
+(D) 71¬e¬73.¬
+(E) 75¬e¬79.¬
+##### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 6 ---
+
+Concurso Edital RH nº 029/2025 – Técnico de Laboratório (especialidade: Saúde Bucal) 
+{18} 
+¬
+Na¬ figura,¬ ABCD¬ é¬ um¬ retângulo,¬ e¬ E¬ e¬ F¬ são¬ pontos¬ no¬
+segmento¬BC.¬Se¬indicarmos¬por¬A1¬a¬área¬do¬triângulo¬ABD,¬
+por¬A2¬a¬área¬do¬triângulo¬AED¬e¬por¬A3¬a¬área¬do¬triângulo¬
+AFD,¬é¬correto¬afirmar:¬
+¬
+(A) ¬A1¬=¬A2¬=¬A3¬
+(B) ¬A1¬<¬A2¬<¬A3¬
+(C) ¬A1¬=¬½¬A3¬
+(D) ¬A1¬<¬A2¬=¬A3¬
+(E) ¬A1¬+¬A2¬=¬A3¬
+##### 
+¬
+{19} 
+Ao¬analisar¬a¬Nota¬Fiscal¬de¬uma¬compra¬realizada¬em¬um¬
+supermercado,¬um¬consumidor¬notou¬a¬seguinte¬informação:¬
+Valor¬Aproximado¬de¬Tributos¬Federais:¬R$¬24,00¬
+Valor¬Aproximado¬de¬Tributos¬Estaduais:¬R$¬30,00¬
+Se¬o¬valor¬total¬pago¬pela¬compra¬foi¬de¬R$¬180,00,¬é¬correto¬
+afirmar¬que¬as¬respectivas¬taxas¬de¬Tributos¬Federais¬e¬de¬
+Tributos¬ Estaduais¬ aplicadas¬ na¬ compra¬ do¬ consumidor¬
+foram,¬aproximadamente,¬de¬
+¬
+(A) 4,3%¬e¬5,4%.¬
+(B) 7,5%¬e¬3%.¬
+(C) 13%¬e¬17%.¬
+(D) 24%¬e¬30%.¬
+(E) 43%¬e¬54%.¬
+##### 
+¬
+{20} 
+A¬soma¬de¬todas¬as¬soluções¬reais¬da¬equação¬
+¬
+1 + 1
+𝑥= 𝑥¬
+¬
+é¬igual¬a:¬
+¬
+(A) −1¬
+(B) ¬¬0¬
+(C) ¬¬1¬
+(D) ¬¬2¬
+(E) ¬√5¬
+¬
+Note¬e¬adote:¬
+Considere¬𝑥≠0.¬
+¬
+##### 
+¬
+{21} 
+A¬Fundação¬Seade¬(Sistema¬Estadual¬de¬Análise¬de¬Dados)¬
+realizou¬um¬estudo¬sobre¬a¬evolução¬da¬população¬paulistana,¬
+entre¬os¬anos¬1920¬e¬2022,¬cujos¬resultados¬estão¬dispostos¬
+no¬gráfico¬a¬seguir.¬No¬gráfico,¬as¬barras¬indicam¬a¬população¬
+no¬ano¬indicado,¬e¬a¬linha¬indica¬a¬taxa¬média¬de¬crescimento¬
+anual¬na¬década¬correspondente.¬
+¬
+¬
+¬
+Os¬dados¬exibidos¬no¬gráfico¬permitem¬concluir¬que¬
+¬
+(A) a¬população¬do¬município¬de¬São¬Paulo¬em¬1940¬era¬de¬
+133¬mil¬habitantes.¬
+(B) a¬maior¬aceleração¬no¬crescimento¬da¬população,¬de¬uma¬
+década¬para¬outra¬subsequente,¬foi¬entre¬as¬décadas¬de¬
+1930¬e¬1940.¬
+(C) a¬ população¬ do¬ município¬ de¬ São¬ Paulo¬ atingiu¬ o¬ seu¬
+máximo¬na¬década¬de¬1950.¬
+(D) o¬ período¬ em¬ que¬ houve¬ menor¬ desaceleração¬ no¬
+crescimento¬da¬população¬foi¬entre¬os¬anos¬1970¬e¬1980.¬
+(E) a¬população¬diminuiu¬em¬1%¬entre¬os¬anos¬1980¬e¬2022.¬
+##### 
+¬
+{22} 
+¬
+¬
+A¬curva¬apresentada¬no¬plano¬cartesiano¬0𝑥𝑦¬corresponde¬ao¬
+gráfico¬da¬função:¬
+¬
+(A) ¬𝑓ሺ𝑥ሻ= 𝑥ଶ−𝑥+ 2¬
+(B) ¬𝑓ሺ𝑥ሻ= 𝑥ଶ+ 3𝑥+ 2¬
+(C) ¬𝑓ሺ𝑥ሻ= − 𝑥ଶ+ 2¬
+(D) ¬𝑓ሺ𝑥ሻ= − 𝑥ଶ+ 𝑥−2¬
+(E) ¬𝑓ሺ𝑥ሻ= − 𝑥ଶ+ 𝑥+ 2¬
+##### 
+¬
+¬
+
+
+--- PAGE 7 ---
+
+Concurso Edital RH nº 029/2025 – Técnico de Laboratório (especialidade: Saúde Bucal) 
+{23} 
+“ChatGPT,¬ DeepSeek¬ e¬ similares¬ pertencem¬ à¬ classe¬ de¬
+LLMs,¬avançados¬modelos¬de¬linguagem¬treinados¬a¬partir¬de¬
+grandes¬bancos¬de¬dados¬–¬majoritariamente¬em¬inglês.¬Os¬
+mais¬populares¬pertencem¬a¬empresas¬norte-americanas.¬E¬
+assim¬como¬os¬algoritmos¬de¬pesquisa¬e¬redes¬sociais,¬não¬
+são¬neutros.¬Ou¬seja,¬podem¬reproduzir¬vieses,¬preconceitos¬
+e¬ estereótipos¬ de¬ seus¬ programadores,¬ que¬ por¬ sua¬ vez¬
+podem¬receber¬ordens¬dos¬donos¬das¬empresas¬e¬de¬outros¬
+atores¬–¬na¬China,¬por¬exemplo,¬empresas¬devem¬passar¬por¬
+análise¬de¬segurança¬e¬obter¬aprovações¬do¬governo¬antes¬de¬
+lançar¬produtos¬(...).¬
+Nesse¬cenário,¬como¬ficam¬os¬países¬que¬não¬têm¬plataformas¬
+nacionais¬de¬alcance¬global,¬como¬é¬o¬caso¬do¬Brasil?¬E¬mais:¬
+o¬que¬acontecerá¬com¬a¬História¬e¬a¬memória¬desses¬países¬
+diante¬de¬uma¬população¬cada¬vez¬mais¬conectada¬a¬LLMs¬
+estrangeiras¬globais¬que¬acredita¬mais¬no¬que¬encontra¬nos¬
+apps¬e¬sites¬de¬busca¬do¬que¬nos¬livros¬de¬História?¬”¬
+¬
+Luciana¬Garbin,¬IAs¬estão¬apagando¬e¬reescrevendo¬pedaços¬da¬
+História.¬E¬o¬Brasil¬com¬isso?,¬O¬Estado¬de¬S.¬Paulo¬(on-line),¬29/01/2025¬
+(Adaptado)¬
+¬
+¬
+O¬texto¬apresentado¬traz¬uma¬crítica¬
+¬
+(A)¬ao¬ trabalho¬ dos¬ programadores,¬ que¬ estabelecem¬
+mecanismos¬frágeis¬de¬intelecção¬das¬máquinas¬dotadas¬
+de¬inteligência.¬
+(B)¬às¬chamadas¬big¬techs¬que¬visam¬apenas¬o¬lucro¬a¬partir¬
+dos¬ serviços¬ que¬ disponibilizam,¬ gerando¬ dificuldades¬
+para¬o¬usuário.¬
+(C)¬às¬ empresas¬ de¬ tecnologia¬ brasileiras,¬ que¬ não¬
+desenvolveram¬ LLMs¬ de¬ alcance¬ global,¬ o¬ que¬ seria¬
+possível¬a¬despeito¬do¬alcance¬da¬língua¬portuguesa¬no¬
+mundo.¬
+(D)¬aos¬
+governos¬
+das¬
+nações¬
+desenvolvidas,¬
+por¬
+estabelecerem¬
+padrões¬
+desiguais¬
+de¬
+controle¬
+de¬
+segurança¬ para¬ os¬ produtos¬ como¬ o¬ ChatGPT¬ e¬ o¬
+DeepSeek.¬
+(E)¬às¬pessoas¬que,¬em¬grande¬parte,¬passaram¬a¬confiar¬em¬
+fontes¬e¬a¬acreditar¬em¬informações¬não¬contextualizadas¬
+historicamente.¬
+##### 
+¬
+{24} 
+Em¬Ideias¬para¬adiar¬o¬fim¬do¬Mundo,¬Ailton¬Krenak¬coloca¬
+ênfase¬no¬papel¬que¬o¬rio¬Watu¬desempenha¬para¬a¬unidade¬
+do¬povo¬krenak,¬o¬povo¬“cabeça¬da¬terra”.¬O¬rio¬foi¬palco¬de¬
+um¬ evento¬ que¬ marcou¬ nosso¬ país.¬ De¬ posse¬ dessas¬
+informações¬ e¬ com¬ base¬ na¬ leitura¬ do¬ livro,¬ assinale¬ a¬
+alternativa¬que¬indica¬o¬nome¬do¬rio,¬em¬português,¬e¬o¬evento¬
+mencionado.¬
+¬
+(A)¬Solimões¬–¬seca¬de¬2023.¬
+(B)¬Doce¬–¬rompimento¬da¬barragem¬do¬Fundão.¬
+(C)¬Tietê¬–¬enchente¬de¬São¬Paulo¬em¬1929.¬
+(D)¬São¬Francisco¬–¬transposição¬de¬suas¬águas.¬
+(E)¬Paraopeba¬–¬¬rompimento¬da¬barragem¬de¬Brumadinho.¬
+ 
+##### 
+¬
+ 
+ 
+ 
+{25} 
+Observe¬a¬charge¬a¬seguir:¬
+¬
+ 
+¬
+Folha¬de¬São¬Paulo,¬26.01.2025¬
+Assinale¬ a¬ alternativa¬ que¬ melhor¬ descreve¬ as¬ situações¬ às¬
+quais¬a¬charge¬se¬refere.¬
+¬
+(A)¬Denuncismo,¬ confusão¬ relativa¬ às¬ categorias¬ sociais¬ e¬
+mudanças¬climáticas.¬
+(B)¬Estigmas¬sociais,¬alarmismo¬social¬e¬mobilidade¬social.¬
+(C)¬Alarmismo¬ social,¬ identificação¬ dos¬ imigrantes¬ como¬
+animais¬e¬mudanças¬climáticas.¬
+(D)¬Racismo,¬degelo¬da¬Antártida¬e¬luta¬de¬classes.¬
+(E)¬Denuncismo,¬extinção¬de¬espécimes¬da¬fauna¬e¬mudanças¬
+sociais.¬
+##### 
+¬
+{26} 
+Em¬ O¬ Perigo¬ de¬ uma¬ História¬ Única,¬ Chimamanda¬ Ngozi¬
+Adichie¬afirma¬que¬“Há¬pouco¬tempo¬dei¬uma¬palestra¬numa¬
+universidade¬e¬um¬aluno¬me¬disse¬que¬era¬uma¬grande¬pena¬
+que¬ os¬ homens¬ nigerianos¬ fossem¬ agressivos¬ como¬ o¬
+personagem¬do¬pai¬no¬meu¬romance.¬Eu¬disse¬a¬ele¬que¬tinha¬
+acabado¬de¬ler¬um¬livro¬chamado¬O¬psicopata¬americano¬e¬
+que¬ achava¬ uma¬ grande¬ pena¬ que¬ os¬ jovens¬ americanos¬
+fossem¬assassinos¬em¬série.¬Bem,¬obviamente¬eu¬disse¬isso¬
+num¬ leve¬ ataque¬ de¬ irritação.¬ Mas¬ jamais¬ teria¬ me¬ ocorrido¬
+pensar¬que,¬só¬porque¬li¬um¬romance¬no¬qual¬o¬personagem¬
+era¬ um¬ assassino¬ em¬ série,¬ ele¬ de¬ alguma¬ maneira¬
+representava¬todos¬os¬americanos.¬Não¬digo¬isso¬porque¬me¬
+considero¬uma¬pessoa¬melhor¬do¬que¬esse¬aluno¬(...).¬Já¬tinha¬
+lido¬Tyler,¬Updike,¬Steinbeck¬e¬Gaitskill.¬Não¬tinha¬uma¬história¬
+única¬dos¬Estados¬Unidos”.¬¬
+Nesse¬livro,¬como¬no¬trecho¬de¬O¬Estado¬de¬S.¬Paulo¬citado¬
+na¬questão¬23,¬pode-se¬afirmar¬que¬a¬versão¬de¬um¬fato¬será¬
+tanto¬mais¬disseminada¬quanto¬
+¬
+¬
+(A)¬maior¬ for¬ o¬ poder¬ econômico¬ e¬ cultural¬ de¬ quem¬ a¬
+comunica.¬
+(B)¬mais¬críveis¬forem¬os¬seus¬contornos¬narrativos.¬
+(C)¬menos¬verossímeis¬forem¬os¬valores¬ínsitos¬à¬mensagem.¬
+(D)¬maior¬for¬o¬poder¬militar¬e¬científico¬de¬quem¬a¬comunica.¬
+(E)¬menores¬forem¬os¬riscos¬de¬conter¬inverdades.¬
+#####  
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 8 ---
+
+Concurso Edital RH nº 029/2025 – Técnico de Laboratório (especialidade: Saúde Bucal) 
+{27} 
+Considere¬o¬art.¬2º¬do¬Estatuto¬da¬USP:¬
+¬
+Artigo 2º –¬São¬fins¬da¬USP:¬
+¬
+I¬ –¬promover¬ e¬ desenvolver¬ todas¬ as¬ formas¬ de¬
+conhecimento,¬por¬meio¬do¬ensino¬e¬da¬pesquisa;¬
+II¬ –¬ ministrar¬ o¬ ensino¬ superior¬ visando¬ à¬ formação¬ de¬
+pessoas¬ capacitadas¬ ao¬ exercício¬ da¬ investigação¬ e¬ do¬
+magistério¬em¬todas¬as¬áreas¬do¬conhecimento,¬bem¬como¬
+à¬qualificação¬para¬as¬atividades¬profissionais;¬
+III¬ –¬ estender¬ à¬ sociedade¬ serviços¬ indissociáveis¬ das¬
+atividades¬de¬ensino¬e¬de¬pesquisa.¬
+¬
+As¬ alternativas¬ a¬ seguir¬ indicam¬ as¬ cinco¬ Pró-Reitorias¬
+existentes¬na¬USP.¬Assinale¬aquela¬cujas¬atividades¬NÃO¬se¬
+relacionam¬diretamente¬com¬os¬fins¬da¬Universidade.¬
+¬
+(A)¬Pró-Reitoria¬de¬Cultura¬e¬Extensão¬Universitária.¬
+(B)¬Pró-Reitoria¬de¬Graduação.¬
+(C)¬Pró-Reitoria¬de¬Inclusão¬e¬Pertencimento.¬
+(D)¬Pró-Reitoria¬de¬Pesquisa¬e¬Inovação.¬
+(E)¬Pró-Reitoria¬de¬Pós-Graduação.¬
+##### 
+¬
+{28} 
+Considere¬a¬seguinte¬situação:¬Ênio¬Oliveira,¬Vice-Reitor¬da¬
+USP,¬ falece¬ em¬ um¬ acidente.¬ Nesse¬ caso,¬ Edna¬ Cruz,¬ a¬
+Reitora,¬deverá¬
+¬
+(A)¬indicar¬um¬novo¬Vice-Reitor,¬que¬será¬homologado¬pelo¬
+Conselho¬Universitário¬em¬até¬15¬dias.¬
+(B)¬dar¬início¬ao¬processo¬eleitoral,¬para¬a¬escolha¬de¬um¬novo¬
+Vice-Reitor,¬que¬cumprirá¬um¬mandato¬novo,¬de¬4¬anos.¬
+(C)¬ser¬substituída,¬em¬suas¬ausências¬ou¬impedimentos,¬pelo¬
+decano¬do¬Conselho¬Universitário.¬
+(D)¬dar¬início¬ao¬processo¬eleitoral,¬para¬a¬escolha¬de¬um¬novo¬
+Vice-Reitor,¬ que¬ exercerá¬ tal¬ função¬ pelo¬ tempo¬ que¬
+restava¬de¬mandato¬para¬Ênio.¬
+(E)¬indicar¬um¬novo¬Vice-Reitor,¬que¬deverá¬ser¬nomeado¬pelo¬
+Governador¬de¬SP¬em¬até¬15¬dias.¬
+##### 
+¬
+{29} 
+Aproximando-se¬as¬inscrições¬para¬Diretor¬de¬um¬Instituto,¬a¬
+comunidade¬local¬sabe¬que¬Lucas,¬Ana¬e¬Maria¬pretendem¬ser¬
+candidatos,¬
+tendo¬
+como¬
+candidatos¬
+a¬
+Vice-Diretor,¬
+respectivamente,¬Sara,¬Lia¬e¬Marcos.¬Sabendo¬que¬Marcos¬é¬
+Professor¬ Associado¬ 2¬ e¬ todos¬ os¬ demais¬ são¬ Professores¬
+Titulares,¬é¬possível¬afirmar¬que¬a¬Chapa¬Maria¬e¬Marcos¬
+¬
+(A)¬não¬pode¬se¬candidatar,¬em¬nenhuma¬hipótese.¬
+(B)¬pode¬se¬candidatar,¬sem¬qualquer¬restrição.¬
+(C)¬pode¬ se¬ candidatar¬ numa¬ eventual¬ segunda¬ fase¬ de¬
+inscrições,¬ mas¬ apenas¬ se¬ Lucas¬ e¬ Sara¬ ou¬ Ana¬ e¬ Lia¬
+deixarem¬de¬se¬inscrever.¬
+(D)¬pode¬ se¬ candidatar¬ numa¬ eventual¬ segunda¬ fase¬ de¬
+inscrições,¬mesmo¬que¬as¬chapas¬Lucas¬e¬Sara¬e¬Ana¬e¬
+Lia¬se¬inscrevam.¬
+(E)¬pode¬se¬candidatar¬desde¬logo,¬mas¬só¬concorrerão¬se¬
+Lucas¬e¬Sara¬ou¬Ana¬e¬Lia¬deixarem¬de¬se¬inscrever.¬
+##### 
+ 
+ 
+ 
+{30} 
+Uma¬ Unidade¬ tem¬ 8¬ Professores¬ Titulares,¬ todos¬ membros¬
+natos¬ da¬ Congregação.¬ O¬ número¬ de¬ representantes¬ dos¬
+Professores¬ Associados¬ e¬ dos¬ Professores¬ Doutores¬ é,¬
+respectivamente,¬
+¬
+(A)¬2¬e¬1.¬
+(B)¬4¬e¬3.¬
+(C)¬5¬e¬3.¬
+(D)¬4¬e¬2.¬
+(E)¬6¬e¬3.¬
+##### 
+¬
+{31} 
+A¬integridade¬acadêmica¬exige¬que¬a¬autoria¬de¬um¬trabalho¬
+científico¬ seja¬ atribuída¬ de¬ maneira¬ justa¬ e¬ transparente.¬
+Assinale¬a¬alternativa¬que¬descreve¬corretamente¬um¬tipo¬de¬
+fraude¬na¬autoria.¬
+¬
+(A)¬Autoria¬ fantasma,¬ que¬ ocorre¬ quando¬ um¬ pesquisador¬
+renomado¬é¬incluído¬como¬autor¬sem¬ter¬contribuído¬para¬
+a¬pesquisa,¬com¬o¬objetivo¬de¬aumentar¬a¬credibilidade¬do¬
+estudo.¬
+(B)¬Autoria¬ honorífica,¬ que¬ se¬ caracteriza¬ pela¬ omissão¬
+intencional¬ de¬ um¬ autor¬ relevante,¬ ocultando¬ sua¬
+participação¬para¬evitar¬conflitos¬de¬interesse.¬
+(C)¬Autoria¬ órfã,¬ que¬ corresponde¬ à¬ exclusão¬ injusta¬ de¬ um¬
+pesquisador¬ que¬ contribuiu¬ significativamente¬ para¬ o¬
+trabalho,¬negando-lhe¬o¬devido¬reconhecimento.¬
+(D)¬Autoria¬ forjada,¬ que¬ se¬ refere¬ à¬ atribuição¬ indevida¬ de¬
+autoria¬ a¬ um¬ indivíduo¬ que¬ teve¬ participação¬ ativa¬ na¬
+pesquisa,¬ mas¬ cuja¬ inclusão¬ poderia¬ prejudicar¬ a¬
+credibilidade¬do¬estudo.¬
+(E)¬Omissão¬de¬autoria,¬que¬corresponde¬à¬exclusão¬de¬um¬
+autor¬como¬forma¬de¬evitar¬eventuais¬conflitos¬de¬interesse.¬¬
+##### 
+¬
+{32} 
+Para¬ a¬ publicação¬ de¬ um¬ artigo¬ científico,¬ algumas¬
+informações¬são¬obrigatórias¬para¬garantir¬a¬transparência¬e¬a¬
+credibilidade¬da¬pesquisa,¬enquanto¬outras¬não¬precisam¬ser¬
+apresentadas.¬ Assinale¬ a¬ alternativa¬ que¬ apresenta¬ uma¬
+informação¬que¬não¬tem¬obrigatoriedade¬de¬ser¬divulgada¬em¬
+um¬artigo¬científico:¬
+¬
+(A)¬A¬agência¬financiadora¬da¬pesquisa.¬
+(B)¬O¬nome¬de¬todos¬os¬prestadores¬de¬serviços¬envolvidos¬
+no¬trabalho.¬
+(C)¬O¬ nome¬ da¬ instituição¬ ou¬ das¬ instituições¬ vinculadas¬ à¬
+pesquisa.¬
+(D)¬O¬nome¬de¬todos¬os¬envolvidos¬no¬trabalho¬científico.¬
+(E)¬O¬ autor¬ para¬ correspondência,¬ que¬ responderá¬ aos¬
+questionamentos¬quanto¬à¬pesquisa.¬¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+
+Concurso Edital RH nº 029/2025 – Técnico de Laboratório (especialidade: Saúde Bucal) 
+{33} 
+A¬ pesquisa¬ científica¬ deve¬ seguir¬ princípios¬ éticos¬ e¬ legais¬
+para¬ garantir¬ a¬ integridade¬ dos¬ estudos¬ e¬ a¬ proteção¬ dos¬
+envolvidos.¬Em¬relação¬a¬essa¬temática,¬assinale¬a¬alternativa¬
+correta.¬
+¬
+(A)¬A¬ aprovação¬ do¬ Comitê¬ de¬ Ética¬ é¬ obrigatória¬ somente¬
+para¬pesquisas¬que¬envolvem¬procedimentos¬invasivos¬ou¬
+riscos¬físicos¬para¬seres¬humanos.¬¬
+(B)¬Os¬ pareceres¬ das¬ Comissões¬ de¬ Ética¬ pertinentes¬ ao¬
+escopo¬ do¬ projeto¬ podem¬ ser¬ obtidos¬ em¬ qualquer¬
+momento¬durante¬o¬desenvolvimento¬do¬projeto.¬
+(C)¬Pesquisas¬
+envolvendo¬
+invertebrados¬
+devem¬
+obrigatoriamente¬
+ser¬
+submetidas¬
+à¬
+aprovação¬
+da¬
+Comissão¬de¬Ética¬para¬o¬Uso¬de¬Animais.¬
+(D)¬É¬ obrigatório¬ que¬ toda¬ instituição¬ de¬ ensino¬ e¬ pesquisa¬
+tenha¬suas¬comissões¬de¬ética,¬estabelecidas¬nos¬moldes¬
+da¬lei,¬para¬análise¬e¬aprovação¬e¬acompanhamento¬dos¬
+projetos¬de¬pesquisa.¬¬
+(E)¬Licenças¬e¬autorizações¬ambientais¬são¬exigidas¬apenas¬
+para¬ pesquisas¬ que¬ envolvem¬ espécies¬ ameaçadas¬ de¬
+extinção.¬
+##### 
+¬
+{34} 
+Observe¬a¬imagem¬a¬seguir:¬
+¬
+¬
+¬
+Em¬ relação¬ à¬ imagem¬ apresentada,¬ assinale¬ a¬ alternativa¬
+correta.¬
+¬
+(A)¬Representa¬a¬falsificação¬de¬dados¬para¬publicação.¬
+(B)¬Indica¬o¬plágio¬como¬forma¬de¬incrementar¬o¬impacto¬das¬
+publicações.¬
+(C)¬Estimula¬a¬publicação¬seletiva¬de¬resultados¬positivos.¬
+(D)¬Representa¬a¬publicação¬fracionada¬de¬dados¬com¬forma¬
+de¬aumentar¬o¬número¬de¬publicações.¬
+(E)¬Indica¬o¬impacto¬da¬não¬publicação¬de¬dados.¬
+##### 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{35} 
+No¬contexto¬da¬execução¬de¬um¬projeto¬de¬pesquisa¬ou¬da¬
+publicação¬ de¬ um¬ artigo¬ científico,¬ diversos¬ procedimentos¬
+são¬ recomendados¬ para¬ garantir¬ a¬ qualidade¬ e¬ a¬ ética¬ do¬
+trabalho.¬
+Assinale¬
+a¬
+alternativa¬
+que¬
+apresenta¬
+um¬
+procedimento¬ético¬e¬recomendado.¬
+¬
+(A)¬Submeter¬ o¬ mesmo¬ trabalho¬ simultaneamente¬ a¬ dois¬
+periódicos¬ distintos¬ para¬ acelerar¬ o¬ processo¬ de¬
+publicação.¬
+(B)¬Emitir¬parecer¬sobre¬um¬trabalho¬mesmo¬havendo¬conflito¬
+de¬interesse¬com¬o(s)¬autor(es),¬desde¬que¬haja¬anuência¬
+dos¬autores.¬
+(C)¬Avaliar¬um¬trabalho¬sobre¬um¬tema¬fora¬de¬sua¬área¬de¬
+especialização,¬
+desde¬
+que¬
+o¬
+parecer¬
+seja¬
+bem¬
+fundamentado.¬
+(D)¬Disponibilizar¬ os¬ dados¬ da¬ pesquisa¬ para¬ outros¬
+pesquisadores,¬garantindo¬a¬verificabilidade,¬conforme¬a¬
+política¬da¬editora¬ou¬assim¬que¬o¬artigo¬for¬publicado¬em¬
+acesso¬aberto.¬
+(E)¬Manter¬ sigilo¬ sobre¬ erros¬ detectados,¬ para¬ proteger¬ a¬
+reputação¬do¬pesquisador¬e¬da¬instituição.¬
+##### 
+¬
+{36} 
+Uma¬empresa¬precisa¬elaborar¬um¬relatório¬corporativo¬anual,¬
+para¬ apresentação¬ em¬ uma¬ reunião¬ estratégica,¬ que¬ será¬
+distribuído¬aos¬funcionários¬no¬formato¬digital.¬O¬relatório¬deve¬
+conter¬ os¬ seguintes¬ itens:¬ textos¬ explicativos,¬ tabelas¬ com¬
+cálculos¬ financeiros¬ e¬ gráficos¬ interativos¬ para¬ ilustrar¬ os¬
+dados.¬
+Para¬
+garantir¬
+eficiência,¬
+precisão¬
+e¬
+organização¬
+no¬
+desenvolvimento¬ do¬ material¬ e,¬ lembrando¬ que¬ o¬ Microsoft¬
+Word,¬ Excel¬ e¬ PowerPoint,¬ presentes¬ no¬ Office¬ 365,¬ foram¬
+desenvolvidos¬ para¬ atender¬ a¬ necessidades¬ específicas,¬
+assinale¬a¬alternativa¬que¬representa¬o¬melhor¬uso¬combinado¬
+das¬ferramentas¬Word,¬Excel¬e¬PowerPoint¬no¬Office¬365.¬
+¬
+(A)¬Criar¬todo¬o¬relatório¬no¬PowerPoint,¬pois¬ele¬permite¬inserir¬
+textos,¬tabelas¬e¬gráficos,¬substituindo¬a¬necessidade¬do¬
+Word¬e¬Excel.¬
+(B)¬Criar¬o¬relatório¬principal¬no¬Excel¬para¬detalhamento¬do¬
+conteúdo,¬ utilizar¬ o¬ Power¬ Point¬ para¬ gerar¬ tabelas¬
+dinâmicas¬e¬gráficos¬vinculados¬e,¬por¬fim,¬importar¬esses¬
+elementos¬para¬o¬Word¬para¬apresentação¬visual.¬
+(C)¬Criar¬o¬relatório¬no¬Word¬e¬capturar¬imagens¬dos¬gráficos¬
+e¬tabelas¬do¬Excel,¬colando-as¬no¬PowerPoint¬sem¬vínculo¬
+dinâmico.¬
+(D)¬Utilizar¬o¬Excel¬para¬gerar¬gráficos¬e¬exportar¬a¬planilha¬
+inteira¬para¬Word¬e¬PowerPoint¬sem¬edição¬posterior.¬
+(E)¬Criar¬o¬relatório¬principal¬no¬Word¬para¬detalhamento¬do¬
+conteúdo,¬utilizar¬o¬Excel¬para¬gerar¬tabelas¬dinâmicas¬e¬
+gráficos¬vinculados¬e,¬por¬fim,¬importar¬esses¬elementos¬
+para¬o¬PowerPoint¬para¬apresentação¬visual.¬
+##### 
+¬
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 10 ---
+
+Concurso Edital RH nº 029/2025 – Técnico de Laboratório (especialidade: Saúde Bucal) 
+{37} 
+A¬ferramenta¬destacada,¬em¬vermelho,¬na¬imagem¬a¬seguir,¬
+pertence¬à¬guia¬'Página¬Inicial'¬do¬Microsoft¬Word¬365:¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Essa¬ferramenta¬é¬utilizada¬para¬facilitar¬a¬edição¬de¬textos.¬
+Com¬base¬em¬suas¬funcionalidades,¬assinale¬a¬alternativa¬que¬
+descreve¬a¬função¬dessa¬ferramenta.¬
+¬
+(A)¬Corrigir¬automaticamente¬erros¬ortográficos¬e¬gramaticais.¬
+(B)¬Traduzir¬o¬texto¬selecionado¬para¬outro¬idioma.¬¬
+(C)¬Converter¬ um¬ texto¬ em¬ título,¬ subtítulo¬ ou¬ citação¬
+automaticamente.¬¬
+(D)¬Copiar¬a¬formatação¬de¬um¬trecho¬de¬texto¬e¬aplicá-la¬a¬
+outro.¬
+(E)¬Remover¬ a¬ formatação¬ do¬ texto,¬ deixando-o¬ em¬ estilo¬
+padrão.¬
+##### 
+¬
+{38} 
+Um¬usuário¬do¬Microsoft¬Excel¬365¬está¬criando¬uma¬planilha¬
+com¬o¬nome¬de¬1.000¬(mil)¬alunos¬de¬um¬colégio,¬e¬deseja¬
+gerar¬um¬número¬de¬identificação¬sequencial¬para¬cada¬aluno,¬
+iniciando¬no¬número¬1(um),¬conforme¬exemplifica¬a¬imagem¬a¬
+seguir:¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Ao¬ invés¬ de¬ digitar¬ manualmente¬ cada¬ número¬ de¬
+identificação¬ (1,2,3,4¬ .......1.000),¬ o¬ usuário¬ pode¬ utilizar¬ um¬
+recurso¬ do¬ Excel¬ que¬ permite¬ preencher¬ automaticamente¬
+essa¬sequência¬de¬forma¬rápida¬e¬eficiente.¬¬
+¬
+Considerando¬que¬o¬Excel¬365¬reconhece,¬automaticamente,¬
+algumas¬ sequências¬ comuns,¬ assinale¬ a¬ alternativa¬ que¬
+apresenta¬ a¬ melhor¬ forma¬ de¬ preencher¬ a¬ lista¬ de¬ meses¬
+automaticamente.¬
+¬
+¬
+(A)¬Digitar¬"1"¬na¬célula¬A2¬→¬Pressionar¬"Ctrl¬+¬Enter"¬para¬
+preencher¬automaticamente¬até¬a¬linha¬1.001.¬
+(B)¬Digitar¬ "1"¬ na¬ célula¬ A2¬ →¬ Acessar¬ a¬ guia¬ "Inserir"¬ →¬
+Escolher¬"Preenchimento¬Automático¬de¬Sequência".¬
+(C)¬Digitar¬"1"¬na¬célula¬A2¬e¬"2"¬na¬célula¬A3¬→¬Selecionar¬
+ambas¬ →¬ Arrastar¬ a¬ alça¬ de¬ preenchimento¬ até¬ a¬ linha¬
+1.001.¬
+(D)¬Digitar¬ "1"¬ na¬ célula¬ A2¬ →¬ Acessar¬ a¬ guia¬ "Exibição"¬ →¬
+Ativar¬"Sequência¬Numérica¬Automática".¬
+(E)¬Digitar¬"1"¬na¬célula¬A2¬→¬Pressionar¬"Ctrl¬+¬Shift¬+¬Seta¬
+para¬ baixo"¬ para¬ preencher¬ a¬ sequência¬ até¬ 1.001¬
+automaticamente.¬####¬
+{39} 
+No¬Microsoft¬Excel¬365,¬versão¬em¬português,¬a¬função¬SE¬é¬
+utilizada¬ para¬ criar¬ condições¬ lógicas¬ e¬ retornar¬ diferentes¬
+valores¬com¬base¬em¬um¬critério.¬¬
+Considerando¬este¬contexto,¬analise¬a¬seguinte¬situação:¬Nas¬
+eleições¬do¬Brasil,¬o¬voto¬é¬obrigatório¬para¬as¬pessoas¬entre¬
+18¬e¬70¬anos.¬Porém,¬para¬jovens¬com¬16¬e¬17¬anos¬e¬pessoas¬
+com¬71¬anos¬ou¬mais,¬o¬voto¬é¬opcional¬e¬menores¬de¬16¬não¬
+podem¬votar.¬
+¬
+Uma¬planilha¬contém¬2¬colunas:¬uma¬com¬a¬idade¬da¬pessoa¬
+e¬ a¬ outra,¬ o¬ tipo¬ de¬ voto,¬ que¬ deverá¬ conter¬ uma¬ dessas¬
+opções:¬“VOTO¬OBRIGATÓRIO”,¬“VOTO¬OPCIONAL”,¬“NÃO¬
+PODE¬VOTAR”,¬conforme¬imagem¬a¬seguir:¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Em¬relação¬à¬situação¬apresentada,¬assinale¬a¬alternativa¬que¬
+representa¬a¬fórmula¬correta¬para¬testar¬a¬idade¬da¬pessoa¬e¬
+preencher¬ a¬ coluna¬ “tipo¬ de¬ voto”,¬ automaticamente,¬ de¬
+acordo¬com¬a¬idade¬do¬leitor.¬
+¬
+¬
+(A) =SE(A2<16;"NÃO PODE 
+VOTAR";SE(OU(A2=16;A2=17;A2>=71);"VOTO 
+OPCIONAL";"VOTO OBRIGATÓRIO")) 
+¬
+(B) =SE(A2<=16;"VOTO 
+OBRIGATÓRIO";SE(A2>=18;"VOTO 
+OPCIONAL";"NÃO PODE VOTAR")) 
+ 
+(C) =SE(A2>70;"VOTO 
+OBRIGATÓRIO";SE(A2>=18;"VOTO 
+OPCIONAL";"NÃO PODE VOTAR")) 
+ 
+(D) =SE(E(A2>=18;A2<=70);"VOTO 
+OBRIGATÓRIO";SE(A2>70;"NÃO PODE 
+VOTAR";"VOTO OPCIONAL")) 
+ 
+(E) =SE(A2<18;"NÃO PODE 
+VOTAR";SE(A2<=70;"VOTO OBRIGATÓRIO";"VOTO 
+OPCIONAL")) 
+##### 
+¬
+ 
+ 
+
+
+--- PAGE 11 ---
+
+Concurso Edital RH nº 029/2025 – Técnico de Laboratório (especialidade: Saúde Bucal) 
+{40} 
+Um¬ usuário¬ preparou¬ uma¬ apresentação¬ no¬ Microsoft¬
+PowerPoint¬365¬e¬deseja¬configurá-la¬para¬que¬cada¬slide¬seja¬
+exibido,¬automaticamente,¬por¬50¬segundos¬antes¬de¬avançar¬
+para¬o¬próximo,¬sem¬a¬necessidade¬de¬cliques¬manuais.¬
+¬
+Qual¬ dos¬ menus¬ do¬ PowerPoint¬ 365¬ disponibiliza¬ o¬ recurso¬
+para¬a¬configuração¬descrita?¬
+¬
+(A)¬Transições.¬
+(B)¬Apresentação¬de¬slides.¬
+(C)¬Exibição.¬¬
+(D)¬Animações.¬
+(E)¬Design.¬
+##### 
+¬
+{41} 
+De¬acordo¬com¬a¬Política¬Nacional¬de¬Atenção¬Básica¬(PNAB,¬
+2017),¬qual¬das¬atribuições¬a¬seguir¬pode¬ser¬executada¬pelos¬
+Auxiliares¬de¬Saúde¬Bucal¬(ASB),¬no¬contexto¬do¬trabalho¬da¬
+equipe¬de¬saúde¬bucal?¬
+¬
+(A)¬Executar¬limpeza,¬assepsia,¬desinfecção¬e¬esterilização¬do¬
+instrumental,¬ dos¬ equipamentos¬ odontológicos¬ e¬ do¬
+ambiente¬de¬trabalho.¬
+(B)¬Proceder¬à¬limpeza¬e¬à¬antissepsia¬do¬campo¬operatório,¬
+antes¬ e¬ após¬ atos¬ cirúrgicos,¬ inclusive¬ em¬ ambientes¬
+hospitalares.¬
+(C)¬¬ Realizar¬ ¬ fotografias¬ e/ou¬ radiografias¬ para¬ uso¬
+odontológico,¬exclusivamente¬em¬consultórios¬ou¬clínicas¬
+odontológicas.¬
+(D)¬Inserir¬ e¬ distribuir,¬ no¬ preparo¬ cavitário,¬ materiais¬
+odontológicos¬ na¬ restauração¬ dentária¬ direta,¬ vedado¬ o¬
+uso¬ de¬ materiais¬ e¬ instrumentos¬ não¬ indicados¬ pelo¬
+cirurgião-dentista.¬
+(E)¬Fazer¬ remoção¬ do¬ biofilme,¬ de¬ acordo¬ com¬ a¬ indicação¬
+técnica¬definida¬pelo¬cirurgião-dentista.¬
+##### 
+¬
+{42} 
+Em¬ relação¬ ao¬ processo¬ de¬ esterilização¬ de¬ instrumentais¬
+odontológicos,¬de¬acordo¬com¬normas¬da¬vigilância¬sanitária¬
+de¬São¬Paulo,¬assinale¬a¬alternativa¬correta.¬
+¬
+(A)¬Autoclaves¬ são¬ indicadas¬ para¬ a¬ esterilização¬ de¬
+instrumentais¬odontológicos.¬¬
+(B)¬São¬ permitidos¬ equipamentos¬ à¬ base¬ de¬ radiação¬
+ultravioleta¬ e¬ ebulidores¬ de¬ água¬ no¬ processo¬ de¬
+esterilização¬de¬instrumentais¬odontológicos.¬
+(C)¬Apenas¬os¬instrumentais¬que¬tiveram¬contato¬direto¬com¬
+sangue¬devem¬passar¬pelo¬processo¬de¬descontaminação¬
+e¬lavagem¬antes¬de¬serem¬esterilizados,¬aos¬demais¬esses¬
+processos¬são¬facultativos.¬
+(D)¬É¬dispensada¬a¬reesterilização¬dos¬materiais,¬mesmo¬com¬
+prazo¬vencido,¬desde¬que¬o¬invólucro¬esteja¬íntegro.¬
+(E)¬Alicates¬ortodônticos¬estão¬dispensados¬de¬esterilização,¬
+por¬perderem¬o¬corte¬com¬muita¬facilidade.¬¬
+##### 
+ 
+¬
+ 
+ 
+ 
+ 
+{43} 
+De¬acordo¬com¬site¬do¬Ministério¬da¬Saúde:¬
+¬
+¬“A¬Pesquisa¬Nacional¬de¬Saúde¬Bucal¬-¬SB¬Brasil¬é¬um¬estudo¬
+sobre¬as¬condições¬de¬saúde¬bucal¬da¬população¬brasileira¬
+que¬acontece¬a¬cada¬10¬anos¬em¬âmbito¬nacional.”¬¬
+¬
+Brasil,¬2025.¬https://www.gov.br/saude/pt-br/composicao/saps/brasil-
+sorridente/sb-brasil¬¬
+¬
+Um¬dos¬índices¬aplicados¬neste¬estudo,¬é¬o¬CPO-D,¬que¬tem¬
+como¬ objetivo¬ mensurar¬ a¬ prevalência¬ de¬ cárie¬ dentária¬ de¬
+uma¬ população.¬ Além¬ da¬ prevalência¬ de¬ cárie¬ dentária,¬ os¬
+componentes¬ do¬ CPO-D¬ garantem¬ outras¬ informações¬
+importantes¬ à¬ equipe¬ de¬ saúde¬ bucal,¬ que¬ podem¬ ser¬
+utilizadas¬no¬processo¬de¬planejamento¬e¬tomada¬de¬decisão.¬
+Por¬ isso¬ é¬ fundamental¬ que¬ todos¬ os¬ seus¬ membros¬
+compreendam¬o¬significado¬de¬cada¬componente¬do¬CPO-D.¬¬
+¬
+Considerando¬ o¬ texto¬ apresentado,¬ assinale¬ a¬ alternativa¬
+correta.¬
+(A)¬O¬Componente¬“C”¬do¬índice¬CPO-D¬expressa¬o¬número¬
+de¬ dentes¬ acometidos¬ por¬ cárie¬ dentária¬ na¬ dentição¬
+decídua,¬e¬pode¬ser¬um¬indicativo¬de¬baixa¬resolutividade¬
+dos¬ serviços¬ de¬ saúde¬ e¬ das¬ ações¬ de¬ prevenção¬ e¬
+promoção¬de¬saúde.¬¬
+(B)¬O¬componente¬“P”¬do¬índice¬CPO-D¬expressa¬o¬número¬de¬
+dentes¬ em¬ progressão¬ da¬ doença,¬ e¬ pode¬ significar¬
+progressão¬indesejada¬da¬doença¬cárie¬e¬necessidade¬de¬
+ações¬de¬prevenção¬urgentes.¬¬
+(C)¬O¬CPO-D¬>=¬1¬significa¬que¬o¬indivíduo¬tem¬cárie¬ativa¬e¬
+precisa¬ de¬ tratamento¬ restaurador¬ urgente¬ para¬ evitar¬
+agravamento¬da¬doença.¬¬
+(D)¬O¬CPO-D¬igual¬a¬“zero”¬expressa¬que¬o¬indivíduo¬é¬livre¬de¬
+cárie¬pregressa¬e¬presente.¬Este¬é¬um¬indicador¬importante¬
+para¬acompanhar¬eficácia¬de¬políticas¬públicas¬ao¬longo¬
+do¬tempo.¬¬
+(E)¬O¬CPO-D¬não¬mede¬dentes¬extraídos,¬sendo¬necessária¬a¬
+aplicação¬de¬outros¬índices¬mais¬específicos.¬¬
+##### 
+¬
+{44} 
+A¬dentição¬decídua¬é¬composta¬por¬quantos¬dentes?¬
+¬
+¬(A)¬20¬
+¬(B)¬28¬
+¬(C)¬30¬
+¬(D)¬36¬
+¬(E)¬18¬
+##### 
+¬
+{45} 
+Para¬a¬limpeza¬de¬instrumentais¬contaminados,¬o¬profissional¬
+deve¬
+¬
+¬(A)¬usar¬luvas¬de¬procedimento.¬
+¬(B)¬usar¬luvas¬estéreis.¬
+¬(C)¬usar¬luvas¬grossas¬de¬borracha.¬¬
+¬(D)¬usar¬apenas¬máscara.¬
+¬(E)¬não¬usar¬luvas.¬
+##### 
+¬
+ 
+ 
+
+
+--- PAGE 12 ---
+
+Concurso Edital RH nº 029/2025 – Técnico de Laboratório (especialidade: Saúde Bucal) 
+{46} 
+No¬ano¬de¬2023,¬foi¬sancionada¬a¬Lei¬n°¬14.572,¬de¬maio¬de¬
+2023,¬que¬incluiu¬a¬saúde¬bucal¬na¬Lei¬Orgânica¬da¬Saúde¬(Lei¬
+8080/90)¬e¬transformou¬a¬Política¬Nacional¬de¬Saúde¬Bucal¬em¬
+uma¬política¬de¬Estado.¬Uma¬das¬principais¬linhas¬de¬ação¬do¬
+Brasil¬Sorridente¬é¬a¬reorganização¬do¬acesso¬à¬saúde¬bucal¬
+na¬Atenção¬Primária,¬principalmente¬com¬a¬implantação¬das¬
+equipes¬de¬Saúde¬Bucal¬(eSB)¬na¬Estratégia¬Saúde¬da¬Família¬
+(ESF).¬De¬acordo¬com¬as¬normativas¬do¬Ministério¬da¬Saúde¬e¬
+sobre¬as¬equipes¬de¬saúde¬bucal,¬é¬correto¬afirmar:¬¬
+(A)¬As¬equipes¬de¬saúde¬bucal,¬independente¬da¬modalidade,¬
+devem¬ trabalhar¬ 40¬ horas¬ semanais¬ em¬ todo¬ território¬
+nacional,¬ com¬ exceção¬ das¬ UBS¬ fluviais,¬ que¬ possuem¬
+regime¬de¬trabalho¬diferenciado.¬¬
+(B)¬As¬modalidades¬de¬eSB¬são¬organizadas¬dependendo¬do¬
+número¬de¬profissionais¬contratados¬em¬cada¬equipe.¬A¬
+equipe¬ de¬ modalidade¬ I¬ deve¬ conter¬ dois¬ profissionais,¬
+enquanto¬ a¬ modalidade¬ II¬ pode¬ ter¬ mais¬ de¬ três¬
+profissionais.¬¬
+(C)¬Equipes¬ de¬ modalidade¬ I¬ são¬ compostas¬ por:¬ um¬
+cirurgião-dentista¬e¬um¬profissional¬auxiliar¬ou¬técnico¬de¬
+saúde¬bucal¬e¬Modalidade¬II,¬devem¬conter¬um¬cirurgião-
+dentista,¬ um¬ técnico¬ de¬ saúde¬ bucal¬ e¬ um¬ terceiro¬
+profissional¬que¬poderá¬ser¬um¬técnico¬ou¬um¬auxiliar¬de¬
+saúde¬bucal.¬¬
+(D)¬As¬equipes¬de¬saúde¬bucal¬de¬carga¬horária¬diferenciada¬
+são¬ apenas¬ aquelas¬ de¬ 30¬ horas¬ e¬ são¬ autorizadas¬ em¬
+vazios¬sanitários¬e¬áreas¬de¬alta¬vulnerabilidade¬social.¬¬
+(E)¬As¬equipes¬de¬saúde¬bucal¬de¬carga¬horária¬diferenciada¬
+podem¬ser¬de¬20¬ou¬30¬horas¬e¬são¬autorizadas¬em¬vazios¬
+sanitários¬e¬áreas¬de¬alta¬vulnerabilidade¬social.¬¬
+##### 
+¬
+{47} 
+De¬ acordo¬ com¬ Araujo¬ et¬ al.,¬ (2019)¬ “O¬ Sistema¬ Único¬ de¬
+Saúde¬ (SUS)¬ é¬ um¬ dos¬ maiores¬ do¬ mundo¬ com¬ acesso¬
+universal¬a¬serviços¬e¬ações¬de¬saúde.¬Este¬está¬assegurado¬
+na¬Constituição¬Brasileira¬como¬condição¬de¬cidadania,¬fruto¬
+do¬Movimento¬da¬Reforma¬Sanitária”¬e¬sobre¬Brasil¬Sorridente,¬
+Carrer¬et¬al¬(2019)¬afirma¬que:¬“Um¬dos¬avanços¬que¬merecem¬
+destaque¬no¬SUS¬foi¬a¬inserção¬da¬saúde¬bucal,¬ainda¬que¬
+tardia,¬por¬meio¬de¬uma¬política¬específica,¬articulada¬e¬com¬
+financiamento¬considerável,¬que¬fizeram¬do¬Brasil¬Sorridente¬
+a¬maior¬política¬pública¬de¬saúde¬bucal¬do¬mundo.¬¬
+¬
+Em¬relação¬ao¬Brasil¬Sorridente,¬é¬correto¬afirmar:¬¬
+¬
+(A)¬O¬ Brasil¬ Sorridente¬ desenvolve¬ ações¬ voltadas¬ para¬ o¬
+cuidado¬na¬atenção¬primária¬à¬saúde¬no¬Sistema¬Único¬de¬
+Saúde.¬
+(B)¬O¬Brasil¬Sorridente¬foi¬criado¬junto¬com¬a¬Lei¬Orgânica¬do¬
+SUS,¬em¬1990,¬por¬isso¬a¬autora¬afirma¬que¬sua¬criação¬foi¬
+tardia,¬já¬que¬o¬SUS¬foi¬criado¬em¬1988,¬com¬a¬Constituição¬
+Cidadã.¬¬
+(C)¬O¬Brasil¬Sorridente¬é¬uma¬política¬federal,¬sem¬articulação¬
+com¬estados¬e¬municípios.¬¬
+(D)¬O¬Brasil¬Sorridente¬ abrange¬ações¬na¬atenção¬primária,¬
+média¬e¬alta¬complexidade¬e,¬desde¬2024,¬foi¬instituída,¬via¬
+portaria¬GM/MS¬no¬6213,¬de¬19¬de¬dezembro,¬a¬Rede¬de¬
+Atenção¬à¬Saúde¬Bucal¬(RASB).¬¬
+(E)¬O¬auxiliar¬de¬saúde¬bucal,¬assim¬como¬o¬técnico¬de¬saúde¬
+bucal,¬ não¬ integram¬ a¬ Rede¬ de¬ Atenção¬ à¬ Saúde¬ Bucal¬
+(RASB),¬ já¬ que¬ esta¬ é¬ uma¬ atribuição¬ exclusiva¬ do¬
+cirurgião-dentista.¬¬
+¬
+##### 
+{48} 
+O¬ artigo¬ 1,¬ do¬ capítulo¬ I,¬ do¬ Código¬ de¬ Ética¬ Odontológica¬
+(Resolução¬CFO¬118/2012)¬afirma:¬
+“O¬Código¬de¬Ética¬Odontológica¬regula¬os¬direitos¬e¬deveres¬
+do¬ cirurgião-dentista,¬ profissionais¬ técnicos¬ e¬ auxiliares,¬ e¬
+pessoas¬ jurídicas¬ que¬ exerçam¬ atividades¬ na¬ área¬ da¬
+Odontologia,¬ em¬ âmbito¬ público¬ e/ou¬ privado,¬ com¬ a¬
+obrigação¬ de¬ inscrição¬ nos¬ Conselhos¬ de¬ Odontologia,¬
+segundo¬suas¬atribuições¬específicas.”¬¬
+Em¬relação¬ao¬Auxiliar¬de¬Saúde¬Bucal¬(ABS)¬e¬considerando¬
+o¬ que¬ é¬ postulado¬ pela¬ resolução¬ apresentada,¬ é¬ correto¬
+afirmar:¬¬
+(A)¬O¬ABS¬pode¬recusar-se¬a¬exercer¬a¬profissão¬em¬âmbito¬
+público¬ ou¬ privado¬ onde¬ as¬ condições¬ de¬ trabalho¬ não¬
+sejam¬dignas,¬seguras¬e¬salubres.¬
+(B)¬O¬ABS¬pode¬substituir¬o¬técnico¬de¬saúde¬bucal¬(TSB)¬ou¬
+mesmo¬ o¬ cirurgião-dentista,¬ em¬ caso¬ de¬ urgência,¬ no¬
+atendimento¬individual¬e¬na¬execução¬de¬procedimentos¬
+no¬paciente.¬¬
+(C)¬Não¬é¬função¬da¬equipe¬auxiliar¬(TSB¬e¬ASB)¬guardar¬sigilo¬
+a¬respeito¬das¬informações¬adquiridas¬no¬desempenho¬de¬
+suas¬funções,¬já¬que¬o¬cirurgião-dentista¬é¬que¬tem¬esta¬
+responsabilidade¬na¬equipe.¬
+(D)¬Constitui¬ infração¬ ética¬ das¬ categorias¬ técnicas¬ e¬
+auxiliares¬recusarem-se¬a¬executar¬atividades,¬mesmo¬que¬
+não¬ sejam¬ de¬ sua¬ competência¬ técnica,¬ ética¬ e¬ legal,¬
+quando¬solicitadas¬pelo¬cirurgião-dentista.¬¬
+(E)¬Para¬ garantir¬ o¬ cumprimento¬ do¬ Código¬ de¬ Ética¬
+Odontológica,¬ o¬ cirurgião-dentista¬ é¬ o¬ profissional¬
+registrado¬no¬Conselho¬Federal¬de¬Odontologia¬(CFO)¬com¬
+prerrogativa¬ exclusiva¬ de¬ seguir¬ e¬ fazer¬ respeitar¬ as¬
+normas¬ éticas¬ e¬ legais¬ da¬ profissão.¬ Além¬ disso,¬ com¬
+discrição¬e¬embasamento,¬deve¬comunicar¬ao¬Conselho¬
+Regional¬ qualquer¬ fato¬ que¬ possa¬ indicar¬ uma¬ possível¬
+infração¬ao¬Código¬e¬às¬regras¬que¬regulam¬o¬exercício¬da¬
+Odontologia.¬
+##### 
+¬
+{49} 
+A¬doença¬periodontal¬afeta,¬principalmente,¬
+¬
+¬(A)¬o¬esmalte¬dentário.¬
+¬(B)¬os¬tecidos¬de¬proteção¬e¬suporte¬dos¬dentes.¬
+¬(C)¬a¬polpa¬dentária.¬
+¬(D)¬o¬osso¬maxilar.¬
+¬(E)¬a¬dentina.¬
+##### 
+¬
+{50} 
+A¬aplicação¬tópica¬de¬flúor¬profissional¬é¬recomendada¬
+¬
+¬(A)¬apenas¬uma¬vez¬na¬vida.¬
+¬(B)¬semestralmente¬para¬todos¬os¬pacientes.¬¬
+¬(C)¬somente¬em¬dentes¬permanentes.¬
+¬(D)¬apenas¬em¬crianças.¬
+¬(E)¬de¬acordo¬com¬o¬risco¬de¬cárie¬do¬paciente.¬
+ 
+##### 
+¬
+ 
+ 
+
+
+--- PAGE 13 ---
+
+Concurso Edital RH nº 029/2025 – Técnico de Laboratório (especialidade: Saúde Bucal) 
+{51} 
+As¬ medidas¬ de¬ higiene¬ bucal¬ devem¬ ser¬ constantemente¬
+estimuladas¬ pela¬ equipe¬ de¬ atenção¬ primária,¬ em¬ especial¬
+pela¬ equipe¬ de¬ saúde¬ bucal¬ (eSB),¬ pois¬ apresentam¬ as¬
+melhores¬ evidências¬ científicas¬ em¬ relação¬ ao¬ impacto¬
+positivo¬na¬saúde¬bucal¬dos¬usuários.¬Essas¬práticas¬devem¬
+ser¬ associadas¬ a¬ outras¬ orientações,¬ como,¬ por¬ exemplo,¬
+medidas¬de¬educação¬em¬saúde¬relacionadas¬à¬dieta¬e¬ao¬
+baixo¬consumo¬de¬açúcares¬livres.¬O¬auxiliar¬de¬saúde¬bucal¬
+(ASB)¬ é¬ peça¬ fundamental¬ neste¬ processo,¬ com¬ destaque¬
+para¬seu¬papel¬educador¬no¬contexto¬do¬programa¬saúde¬na¬
+escola¬(PSE),¬sempre¬sob¬supervisão¬do¬cirurgião-dentista¬e¬
+com¬todo¬o¬processo¬necessário¬de¬pactuação¬e¬autorizações¬
+entre¬escola¬e¬setor¬da¬saúde.¬¬
+Considerando¬ o¬ texto¬ apresentado,¬ quais¬ orientações,¬
+informadas¬e¬baseadas¬nas¬melhores¬evidências¬disponíveis,¬
+podem¬ ser¬ abordadas¬ no¬ PSE,¬ pelo¬ ASB,¬ para¬ evitar¬ a¬
+disseminação¬de¬desinformação¬no¬ambiente¬escolar?¬¬
+(A)¬Apesar¬de¬o¬flúor¬ser¬alvo¬de¬desinformação¬nos¬últimos¬
+tempos,¬esse¬tema¬é¬o¬mais¬estudado¬no¬meio¬acadêmico¬
+odontológico¬e¬tem¬robustas¬evidências¬de¬segurança¬e¬
+eficácia¬para¬uso¬de¬pasta¬de¬dente¬fluoretada¬(com¬no¬
+mínimo¬ 1000¬ ppm)¬ em¬ crianças,¬ desde¬ a¬ erupção¬ dos¬
+primeiros¬ dentes,¬ o¬ que¬ vai¬ variar¬ é¬ a¬ quantidade¬ de¬
+produto¬colocado¬na¬escova¬dental.¬¬
+(B)¬As¬ evidências¬ mais¬ atuais¬ demonstram¬ que,¬ a¬ partir¬ da¬
+erupção¬do¬primeiro¬dente,¬deve-se¬indicar¬uso¬de¬escova¬
+de¬dente¬de¬cabeça¬pequena¬e¬cerdas¬macias,¬associada¬
+a¬dentifrício¬sem¬flúor,¬pois¬este¬pode¬ser¬tóxico¬e¬causar¬
+fluorose.¬¬
+(C)¬As¬evidências¬mais¬atuais¬demonstram¬que,¬a¬partir¬de¬4¬
+anos,¬não¬há¬mais¬risco¬de¬fluorose,¬como¬há¬nas¬crianças¬
+até¬3¬anos,¬e¬portanto,¬já¬se¬pode¬indicar¬uso¬de¬escova¬
+de¬ dente¬ pequena¬ e¬ com¬ cerdas¬ macias,¬ associada¬ a¬
+dentifrício¬fluoretado¬(mínimo¬de¬1.000¬ppm¬de¬fluoreto),¬na¬
+quantidade¬ correspondente¬ a¬ um¬ grão¬ de¬ ervilha,¬ no¬
+mínimo¬2x¬ao¬dia.¬¬
+(D)¬Segundo¬as¬diretrizes¬clínicas¬do¬Ministério¬da¬Saúde,¬de¬
+2024,¬ “A¬ técnica¬ de¬ escovação¬ pode¬ ser¬ adaptada¬ às¬
+preferências¬da¬criança¬e¬seus¬responsáveis,¬desde¬que¬
+seja¬ feita¬ de¬ forma¬ sistematizada,¬ atinja¬ todas¬ as¬
+superfícies¬de¬todos¬os¬dentes¬da¬cavidade¬bucal¬e¬utilize¬
+dentifrício¬fluoretado¬diariamente”,¬principalmente¬à¬noite.¬
+Exceção¬ feita¬ aos¬ menores¬ de¬ 4¬ anos,¬ que¬ devem¬ usar¬
+pasta¬sem¬flúor.¬¬
+(E)¬As¬ evidências¬ mais¬ atuais¬ demonstram¬ que¬ deve-se¬
+recomendar¬a¬limpeza¬da¬cavidade¬bucal¬de¬bebês¬sem¬
+dentes¬ para¬ prevenir¬ a¬ cárie¬ dentária¬ no¬ futuro,¬
+independentemente¬do¬tipo¬de¬alimentação¬(leite¬materno¬
+ou¬fórmula),¬assim¬como¬não¬há¬indicação¬de¬aplicar¬flúor¬
+tópico¬nesta¬fase.¬O¬uso¬de¬gaze¬embebida¬em¬água¬é¬o¬
+mais¬indicado.¬¬¬
+##### 
+¬
+{52} 
+A¬desinfecção¬de¬superfícies¬em¬consultórios¬odontológicos¬
+deve¬ser¬realizada¬
+¬
+¬(A)¬antes¬e¬após¬cada¬atendimento.¬
+¬(B)¬apenas¬no¬início¬do¬dia.¬
+¬(C)¬apenas¬no¬final¬do¬dia.¬
+¬(D)¬apenas¬quando¬houver¬contaminação¬visível.¬
+¬(E)¬apenas¬uma¬vez¬por¬semana.¬
+##### 
+{53} 
+Em¬ relação¬ aos¬ cimentos¬ de¬ ionômero¬ de¬ vidro,¬ assinale¬ a¬
+alternativa¬que¬apresenta¬a¬sua¬principal¬função.¬
+¬
+¬(A)¬Clarear¬os¬dentes.¬
+¬(B)¬Moldar¬arcadas¬dentárias.¬
+¬(C)¬Restaurar¬dentes.¬¬¬
+¬(D)¬Polir¬superfícies¬dentárias.¬
+¬(E)¬Proteger¬os¬tecidos¬moles.¬
+##### 
+¬
+{54} 
+Assinale¬a¬alternativa¬que¬apresenta¬o¬material¬mais¬indicado¬
+para¬moldagens¬de¬alta¬precisão.¬
+¬
+¬(A)¬Alginato.¬
+¬(B)¬Silicone¬de¬adição.¬
+¬(C)¬Gesso¬especial.¬
+¬(D)¬Resina¬composta.¬
+¬(E)¬Cimento¬de¬ionômero¬de¬vidro.¬
+##### 
+¬
+{55} 
+¬
+Considere¬as¬seguintes¬afirmativas:¬
+¬
+I.¬O¬tempo¬de¬presa¬do¬gesso¬é¬influenciado¬pela¬quantidade¬
+de¬água¬utilizada.¬
+II.¬O¬ tempo¬ de¬ presa¬ do¬ gesso¬ é¬ influenciado¬ pelo¬ tipo¬ de¬
+gesso¬utilizado.¬
+III.¬O¬tempo¬de¬presa¬do¬gesso¬é¬influenciado¬pela¬velocidade¬
+de¬mistura.¬
+¬
+É¬correto¬o¬que¬se¬afirma¬em:¬
+¬
+(A)¬I,¬apenas.¬
+(B)¬II,¬apenas.¬
+(C)¬III,¬apenas.¬
+(D)¬I,¬II¬e¬III.¬
+(E)¬II¬e¬III,¬apenas.¬
+##### 
+¬
+{56} 
+A¬organização¬do¬consultório¬odontológico¬deve¬priorizar¬
+¬
+(A)¬a¬quantidade¬de¬equipamentos.¬
+(B)¬a¬estética¬do¬ambiente.¬
+(C)¬a¬decoração¬do¬ambiente.¬
+(D)¬o¬uso¬de¬materiais¬descartáveis.¬
+(E)¬a¬ergonomia¬e¬a¬biossegurança.¬¬
+##### 
+¬
+{57} 
+Assinale¬a¬alternativa¬que¬apresenta¬a¬definição¬de¬biofilme¬
+dental.¬
+¬
+(A)¬Película¬protetora¬natural¬do¬dente.¬
+(B)¬Acúmulo¬de¬bactérias¬e¬restos¬alimentares¬sobre¬os¬
+dentes.¬
+(C)¬Camada¬de¬flúor.¬
+(D)Tipo¬de¬restauração.¬
+(E)¬Proteção¬artificial¬dos¬dentes.¬
+##### 
+
+
+--- PAGE 14 ---
+
+Concurso Edital RH nº 029/2025 – Técnico de Laboratório (especialidade: Saúde Bucal) 
+{58} 
+Assinale¬a¬alternativa¬que¬apresenta¬a¬sequência¬correta¬na¬
+revelação¬de¬radiografias.¬
+¬
+¬(A)¬Revelador,¬água,¬fixador,¬lavagem¬final.¬
+¬(B)¬Fixador,¬água,¬revelador,¬lavagem¬final.¬
+¬(C)¬Água,¬revelador,¬fixador,¬lavagem¬final.¬
+¬(D)¬Revelador,¬fixador,¬água,¬lavagem¬final.¬
+¬(E)¬Fixador,¬revelador,¬água,¬lavagem¬final.¬
+##### 
+¬
+{59} 
+A¬esterilização¬em¬autoclave¬ocorre¬por¬meio¬de¬
+¬
+¬(A)¬calor¬seco.¬
+¬(B)¬produtos¬químicos.¬
+¬(C)¬radiação.¬
+¬(D)¬vapor¬sob¬pressão.¬¬
+¬(E)¬luz¬ultravioleta.¬
+##### 
+¬
+{60} 
+A¬cárie¬dentária¬é¬uma¬doença¬
+¬
+¬(A)¬causada¬por¬fungos¬
+¬(B)¬hereditária.¬
+¬(C)¬exclusiva¬de¬crianças.¬¬
+¬(D)causada¬por¬vírus.¬
+¬(E)¬multifatorial.¬
+#### 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 15 ---
+
+Concurso Edital RH nº 029/2025 – Técnico de Laboratório (especialidade: Saúde Bucal) 
+Questão dissertativa 
+Analise¬e¬explique¬as¬diferenças¬entre¬os¬alginatos¬e¬os¬silicones¬de¬adição¬considerando¬suas¬propriedades,¬indicações¬e¬
+limitações.¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+Instruções:  
+• As¬respostas¬deverão¬ser¬redigidas¬de¬acordo¬com¬a¬norma¬padrão¬da¬língua¬portuguesa.¬¬
+• Escreva¬com¬letra¬legível¬e¬não¬ultrapasse¬o¬espaço¬de¬linhas¬disponíveis¬da¬folha¬de¬respostas.¬¬
+• Receberão¬nota¬zero¬textos¬que¬desrespeitarem¬os¬direitos¬humanos¬e¬textos¬que¬permitirem,¬por¬qualquer¬modo,¬a¬identificação¬do¬candidato(a).¬
+
+
+--- PAGE 16 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RASCUNHO 
+ 
+ 
+NÃO SERÁ 
+CONSIDERADO NA 
+CORREÇÃO 
+
+
+--- PAGE 17 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RASCUNHO 
+ 
+ 
+NÃO SERÁ 
+CONSIDERADO NA 
+CORREÇÃO 
+
+
+--- PAGE 18 ---
+
+V3
+
+
+--- PAGE 19 ---
+
+ 
+ 
+                 
+ 
+ 
+Universidade de São Paulo 
+GABARITO – CONCURSOS DRH USP – ABRIL/2025 
+ 
+ 
+ 
+ 
+Técnico de Laboratório (especialidade: Saúde bucal) – Edital RH Nº 029/2025 
+PROVA TLS 
+1 
+D 
+31 
+C 
+2 
+B 
+32 
+B 
+3 
+B 
+33 
+D 
+4 
+A 
+34 
+D 
+5 
+E 
+35 
+D 
+6 
+E 
+36 
+E 
+7 
+D 
+37 
+D 
+8 
+C 
+38 
+C 
+9 
+B 
+39 
+A 
+10 
+A 
+40 
+A 
+11 
+B 
+41 
+A 
+12 
+E 
+42 
+A 
+13 
+D 
+43 
+D 
+14 
+C 
+44 
+A 
+15 
+B 
+45 
+C 
+16 
+C 
+46 
+C 
+17 
+D 
+47 
+D 
+18 
+A 
+48 
+A 
+19 
+C 
+49 
+B 
+20 
+C 
+50 
+E 
+21 
+B 
+51 
+A 
+22 
+E 
+52 
+A 
+23 
+E 
+53 
+C 
+24 
+B 
+54 
+B 
+25 
+C 
+55 
+D 
+26 
+A 
+56 
+E 
+27 
+C 
+57 
+B 
+28 
+D 
+58 
+A 
+29 
+C 
+59 
+D 
+30 
+B 
+60 
+E 
+ 
+
+
+--- PAGE 20 ---
+
+ 
+ 
+ 
+ 
+ 
+Universidade de São Paulo  
+ 
+ 
+ 
+RH n° 029/2025   
+ 
+Técnico de Laboratório  (Saúde Bucal) 
+¬
+QUESTÃO DISSERTATIVA 
+¬
+ 
+ 
+RESPOSTA ESPERADA 
+ 
+Alginato:¬material¬de¬moldagem¬elástico,¬hidrocoloide,¬de¬baixo¬custo¬e¬fácil¬de¬manipular,¬que¬apresenta¬
+(limitações)¬baixa¬precisão,¬baixa¬estabilidade¬dimensional¬e¬deve¬ser¬vazado¬imediatamente.¬Está¬
+indicado¬para¬modelos¬de¬estudo,¬moldagens¬preliminares,¬modelos¬de¬trabalho¬de¬baixa¬precisão¬(ex:¬
+ortodontia¬e¬prótese¬parcial¬fixa)¬
+¬
+Silicones¬de¬adição¬são¬materiais¬de¬moldagem¬elastoméricos¬que¬polimerizam¬por¬adição.¬Possuem¬alta¬
+precisão,¬elevada¬estabilidade¬dimensional¬e¬resistência¬ao¬rasgamento¬superior.¬São¬mais¬caros¬e¬exigem¬
+maior¬cuidado¬no¬manuseio¬devido¬à¬sensibilidade¬à¬contaminação¬por¬componentes¬das¬luvas¬de¬látex.¬
+Estão¬indicados¬para¬moldagens¬de¬precisão¬para¬a¬produção¬de¬modelos¬de¬trabalho¬principalmente¬em¬
+próteses¬fixas.¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 21 ---
+
+ 
+ 
+ 
+CRITÉRIOS DE CORREÇÃO 
+ 
+•¬Critério¬1:¬Completude¬e¬abrangência¬dos¬conceitos¬(0¬a¬3¬pontos):¬
+Faixa¬de¬nota¬
+Critério¬
+3¬
+Os¬conceitos¬principais¬são¬abordados¬com¬profundidade¬e¬detalhamento.¬
+2¬
+A¬maioria¬dos¬conceitos¬principais¬é¬abordada,¬mas¬pode¬faltar¬algum¬detalhe¬ou¬profundidade.¬
+1¬
+Alguns¬conceitos¬principais¬são¬abordados,¬mas¬a¬explicação¬é¬superficial¬ou¬incompleta.¬
+0¬¬
+Pouco¬ou¬nenhum¬conceito¬relevante¬é¬abordado.¬
+¬
+•¬Critério¬2:¬Domínio¬e¬aprofundamento¬dos¬conceitos¬(0¬a¬3¬pontos):¬
+Faixa¬de¬nota¬
+Critério¬
+3¬
+A¬resposta¬é¬precisa,¬com¬informações¬corretas¬e¬bem¬explicadas.¬
+2¬
+A¬resposta¬é¬em¬sua¬maioria¬precisa,¬mas¬pode¬conter¬alguns¬pequenos¬erros¬ou¬imprecisões.¬
+1¬
+A¬resposta¬contém¬várias¬imprecisões¬ou¬erros¬conceituais,¬mas¬a¬ideia¬geral¬é¬compreensível.¬
+0¬¬
+A¬resposta¬está¬incorreta¬e¬confusa.¬
+¬
+•¬Critério¬3:¬Aplicação¬prática¬/¬exemplificação¬dos¬conceitos¬(0¬a¬3¬pontos):¬
+Faixa¬de¬nota¬
+Critério¬
+3¬
+A¬resposta¬faz¬uma¬excelente¬conexão¬entre¬os¬conceitos¬teóricos¬e¬suas¬aplicações¬práticas.¬
+2¬
+A¬resposta¬faz¬boas¬conexões¬entre¬teoria¬e¬prática,¬mas¬pode¬ser¬aprimorada¬com¬mais¬exemplos¬
+ou¬detalhes.¬
+1¬
+A¬conexão¬entre¬teoria¬e¬prática¬é¬mencionada,¬mas¬é¬superficial¬ou¬pouco¬clara.¬
+0¬¬
+A¬resposta¬não¬aborda¬a¬aplicação¬prática¬e¬não¬apresenta¬exemplos¬dos¬conceitos.¬
+¬
+•¬Critério¬4:¬Clareza¬e¬Coerência¬(0¬a¬1¬ponto):¬
+Faixa¬de¬nota¬
+Critério¬
+1¬
+O¬texto¬é¬extremamente¬claro¬e¬coerente,¬apresentando¬uma¬explicação¬lógica¬e¬bem¬estruturada¬
+dos¬conceitos.¬
+0,5¬
+O¬texto¬é¬claro¬e¬coerente,¬com¬algumas¬pequenas¬falhas¬na¬estrutura¬ou¬na¬explicação.¬
+0¬
+O¬texto¬é¬compreensível,¬mas¬apresenta¬várias¬falhas¬na¬clareza¬ou¬na¬coerência¬que¬dificultam¬a¬
+compreensão¬total.¬
+¬
+ 

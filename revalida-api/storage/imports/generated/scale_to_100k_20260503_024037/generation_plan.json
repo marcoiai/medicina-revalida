@@ -1,0 +1,82 @@
+{
+    "run_id": "scale_to_100k_20260503_024037",
+    "created_at": "2026-05-03T02:40:37+00:00",
+    "seed": 799148,
+    "amount": 2,
+    "batch_size": 200,
+    "exam": "Revalida",
+    "phase": "first",
+    "distribution": {
+        "clinica_medica": 1,
+        "go": 1,
+        "pediatria": 0,
+        "cirurgia": 0,
+        "preventiva_sus": 0
+    },
+    "batches": [
+        {
+            "batch_id": "batch_001",
+            "file_name": "batch_001_clinica_medica.prompt.txt",
+            "run_id": "scale_to_100k_20260503_024037",
+            "area_key": "clinica_medica",
+            "area_label": "Clínica Médica",
+            "question_target": 1,
+            "style_distribution": {
+                "caso_clinico": 1
+            },
+            "difficulty_distribution": {
+                "Média": 1
+            },
+            "topics": [
+                {
+                    "slot": 1,
+                    "tema_base": "Insuficiência renal aguda",
+                    "estilo": "caso_clinico",
+                    "angulo": "diagnóstico principal",
+                    "dificuldade_alvo": "Média"
+                }
+            ],
+            "reference": "revalida_seed_bank | scale_to_100k_20260503_024037 | batch_001",
+            "tags": [
+                "revalida",
+                "primeira_fase",
+                "clinica_medica",
+                "batch_001"
+            ],
+            "chunk_index": 1,
+            "prompt_path": "storage/imports/generated/scale_to_100k_20260503_024037/prompts/batch_001_clinica_medica.prompt.txt"
+        },
+        {
+            "batch_id": "batch_002",
+            "file_name": "batch_002_go.prompt.txt",
+            "run_id": "scale_to_100k_20260503_024037",
+            "area_key": "go",
+            "area_label": "GO",
+            "question_target": 1,
+            "style_distribution": {
+                "caso_clinico": 1
+            },
+            "difficulty_distribution": {
+                "Média": 1
+            },
+            "topics": [
+                {
+                    "slot": 1,
+                    "tema_base": "Abortamento e suas condutas",
+                    "estilo": "caso_clinico",
+                    "angulo": "diagnóstico principal",
+                    "dificuldade_alvo": "Média"
+                }
+            ],
+            "reference": "revalida_seed_bank | scale_to_100k_20260503_024037 | batch_002",
+            "tags": [
+                "revalida",
+                "primeira_fase",
+                "go",
+                "batch_002"
+            ],
+            "chunk_index": 1,
+            "prompt_path": "storage/imports/generated/scale_to_100k_20260503_024037/prompts/batch_002_go.prompt.txt"
+        }
+    ]
+}

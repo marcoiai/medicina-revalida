@@ -1,0 +1,94 @@
+[
+    {
+        "name": "ENARE - Provas 2023/2024",
+        "institution": "EBSERH",
+        "exam": "ENARE",
+        "year": "2023-2024",
+        "url": "https://www.gov.br/ebserh/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2023-2024/provas"
+    },
+    {
+        "name": "ENARE - Provas 2021/2022",
+        "institution": "EBSERH",
+        "exam": "ENARE",
+        "year": "2021-2022",
+        "url": "https://www.gov.br/ebserh/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas"
+    },
+    {
+        "name": "ENARE - Provas 2020/2021",
+        "institution": "EBSERH",
+        "exam": "ENARE",
+        "year": "2020-2021",
+        "url": "https://www.gov.br/ebserh/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2020-2021/provas"
+    },
+    {
+        "name": "FUVEST - Residência Médica Provas e Gabarito",
+        "institution": "FUVEST / USP",
+        "exam": "Residência Médica",
+        "url": "https://www.fuvest.br/residencia-medica-provas-e-gabarito/"
+    },
+    {
+        "name": "FHEMIG - Processo Seletivo Residências",
+        "institution": "FHEMIG",
+        "exam": "Residência Médica",
+        "url": "https://www.fhemig.mg.gov.br/ensino-e-pesquisa/processo-seletivo-residencias-fhemig"
+    },
+    {
+        "name": "INTO - Residência Médica 2025/2026",
+        "institution": "INTO / Ministério da Saúde",
+        "exam": "Residência Médica",
+        "url": "https://www.into.saude.gov.br/ensino/residencia/medica?id=1156&layout=edit"
+    },
+    {
+        "name": "HU-UFSC - Gabaritos e Resultados",
+        "institution": "Ebserh / HU-UFSC",
+        "exam": "Residência Médica",
+        "url": "https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-sul/hu-ufsc/comunicacao/noticias/confira-os-gabaritos-das-provas-para-residencia-medica-em-duas-especialidades-no-hu"
+    },
+    {
+        "name": "Franca - Residência Médica 2025",
+        "institution": "Prefeitura de Franca",
+        "exam": "Residência Médica",
+        "year": "2025",
+        "url": "https://www3.franca.sp.gov.br/noticia/21286/sade-divulga-gabarito-do-programa-residncia-mdica.html"
+    },
+    {
+        "name": "Franca - Residência Médica 2026",
+        "institution": "Prefeitura de Franca",
+        "exam": "Residência Médica",
+        "year": "2026",
+        "url": "https://www3.franca.sp.gov.br/noticia/37837/sade-divulga-gabarito-da-prova-objetiva-da-residncia-mdica.html"
+    },
+    {
+        "name": "Macaé - Residência Médica 2026",
+        "institution": "Prefeitura de Macaé",
+        "exam": "Residência Médica",
+        "year": "2026",
+        "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/pss-gabarito-das-provas-de-residencia-medica-disponivel-no-portal-da-prefeitura"
+    },
+    {
+        "name": "EMSERH - Residência Médica",
+        "institution": "EMSERH",
+        "exam": "Residência Médica",
+        "url": "https://www.emserh.ma.gov.br/emserh-realiza-seletivo-para-residencia-medica/"
+    },
+    {
+        "name": "Revalida INEP - Provas e Gabaritos",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos"
+    },
+    {
+        "name": "Revalida INEP - 2024",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2024",
+        "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2024"
+    },
+    {
+        "name": "Revalida INEP - 2023",
+        "institution": "INEP",
+        "exam": "Revalida",
+        "year": "2023",
+        "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2023"
+    }
+]

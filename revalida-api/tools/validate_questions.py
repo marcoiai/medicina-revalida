@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import argparse
 import asyncio
 import hashlib
@@ -14,17 +16,16 @@ from difflib import SequenceMatcher
 from pathlib import Path
 from typing import Any
 
-try:
-    from google import genai
-    from google.genai import types
-except ImportError:
-    genai = None
-    types = None
+from env_loader import load_dotenv_file
+from llm_client import LLMClient, default_model_for_provider, normalize_provider_name
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_INPUT = ROOT / "storage" / "imports" / "questions.json"
 ALT_KEYS = ("A", "B", "C", "D", "E")
 VALID_DIFFICULTIES = {"Fácil", "Media", "Média", "Difícil", "Dificil"}
+
+load_dotenv_file(ROOT)
+
 META_OPTION_PATTERNS = (
     re.compile(r"\btodas?\s+as\s+(alternativas|anteriores)\b", re.IGNORECASE),
     re.compile(r"\bnenhuma\s+das\s+(alternativas|anteriores)\b", re.IGNORECASE),
@@ -39,6 +40,21 @@ QUESTION_WORD_PATTERNS = (
     re.compile(r"\bindique\b", re.IGNORECASE),
     re.compile(r"\bmarque\b", re.IGNORECASE),
     re.compile(r"\bescolha\b", re.IGNORECASE),
+)
+DIAGNOSIS_STEM_PATTERNS = (
+    re.compile(r"\bdiagn[oó]stic", re.IGNORECASE),
+    re.compile(r"\bhip[oó]tese\b", re.IGNORECASE),
+    re.compile(r"\bmais prov[áa]vel\b", re.IGNORECASE),
+    re.compile(r"\betiologia\b", re.IGNORECASE),
+    re.compile(r"\bcausa\b", re.IGNORECASE),
+)
+MANAGEMENT_STEM_PATTERNS = (
+    re.compile(r"\bconduta\b", re.IGNORECASE),
+    re.compile(r"\btratamento\b", re.IGNORECASE),
+    re.compile(r"\bmanejo\b", re.IGNORECASE),
+    re.compile(r"\bmedida inicial\b", re.IGNORECASE),
+    re.compile(r"\bpr[oó]xima etap", re.IGNORECASE),
+    re.compile(r"\bmais adequad", re.IGNORECASE),
 )
 NEGATIVE_STEM_PATTERNS = (
     re.compile(r"\bn[aã]o\b", re.IGNORECASE),
@@ -143,6 +159,29 @@ def has_negative_stem(enunciado: str) -> bool:
     return any(pattern.search(clean) for pattern in NEGATIVE_STEM_PATTERNS)
 
 
+def infer_question_axis(enunciado: str) -> str:
+    clean = normalize_space(enunciado)
+    if any(pattern.search(clean) for pattern in DIAGNOSIS_STEM_PATTERNS):
+        return "diagnostico"
+    if any(pattern.search(clean) for pattern in MANAGEMENT_STEM_PATTERNS):
+        return "conduta"
+    return "indefinido"
+
+
+def content_tokens(text: str) -> list[str]:
+    tokens = re.findall(r"\b[\wº°/-]+\b", normalize_text(text))
+    return [token for token in tokens if token not in STOPWORDS]
+
+
+def leading_content_overlap(text_a: str, text_b: str) -> int:
+    overlap = 0
+    for token_a, token_b in zip(content_tokens(text_a), content_tokens(text_b)):
+        if token_a != token_b:
+            break
+        overlap += 1
+    return overlap
+
+
 def validate_question(index: int, question: Any) -> ValidationResult:
     if not isinstance(question, dict):
         issues = [
@@ -192,6 +231,7 @@ def validate_question(index: int, question: Any) -> ValidationResult:
     enunciado = str(question.get("enunciado", "") or "")
     comentario = str(question.get("comentario", "") or "")
     reference = str(question.get("reference", "") or "")
+    question_axis = infer_question_axis(enunciado)
 
     if enunciado and len(normalize_space(enunciado)) < 60:
         add_issue(
@@ -296,6 +336,7 @@ def validate_question(index: int, question: Any) -> ValidationResult:
 
         seen_texts: dict[str, str] = {}
         alt_lengths: dict[str, int] = {}
+        alt_word_counts: dict[str, int] = {}
         for key in ALT_KEYS:
             raw_value = alternativas.get(key, "")
             if not isinstance(raw_value, str) or not normalize_space(raw_value):
@@ -312,6 +353,7 @@ def validate_question(index: int, question: Any) -> ValidationResult:
             normalized = normalize_text(clean)
             normalized_alternatives[key] = normalized
             alt_lengths[key] = len(clean)
+            alt_word_counts[key] = len(re.findall(r"\b[\wº°/-]+\b", clean))
 
             if normalized in seen_texts:
                 add_issue(
@@ -354,6 +396,32 @@ def validate_question(index: int, question: Any) -> ValidationResult:
                         "Duas alternativas são parecidas demais e podem gerar ambiguidade.",
                         {"alternatives": [key_a, key_b], "similarity": round(score, 3)},
                     )
+                    continue
+
+                overlap = leading_content_overlap(text_a, text_b)
+                if overlap >= 3:
+                    axis_hint = (
+                        "Para questões de diagnóstico, as alternativas devem competir em diagnóstico, "
+                        "sem repetir o mesmo tronco diagnóstico."
+                        if question_axis == "diagnostico"
+                        else "Para questões de conduta, as alternativas devem competir em conduta, "
+                             "sem repetir o mesmo diagnóstico-base de forma disfarçada."
+                        if question_axis == "conduta"
+                        else "As alternativas não deveriam repetir o mesmo tronco diagnóstico/conduta "
+                             "com pequenas variações escondidas."
+                    )
+                    add_issue(
+                        issues,
+                        "warning",
+                        "sibling_alternatives",
+                        "Duas alternativas parecem 'irmãs': mesmo tronco diagnóstico/conduta com variação sutil.",
+                        {
+                            "alternatives": [key_a, key_b],
+                            "leading_overlap_tokens": overlap,
+                            "axis": question_axis,
+                            "hint": axis_hint,
+                        },
+                    )
 
         if alt_lengths:
             ordered_lengths = sorted(alt_lengths.values())
@@ -373,6 +441,17 @@ def validate_question(index: int, question: Any) -> ValidationResult:
                             "median_length": median_length,
                         },
                     )
+
+        if alt_word_counts:
+            telegraphic = [key for key, count in alt_word_counts.items() if count <= 3]
+            if len(telegraphic) >= 4:
+                add_issue(
+                    issues,
+                    "warning",
+                    "telegraphic_alternatives",
+                    "O conjunto de alternativas está telegráfico demais; pode ficar pobre ou fácil por eliminação.",
+                    {"alternatives": telegraphic, "word_counts": alt_word_counts},
+                )
 
     gabarito = question.get("gabarito")
     if not isinstance(gabarito, str) or gabarito not in ALT_KEYS:
@@ -471,21 +550,13 @@ def apply_cross_question_checks(questions: list[Any], results: list[ValidationRe
             result.decision = "approved"
 
 
-class GeminiAuditor:
-    def __init__(self, model: str, max_concurrent: int, strict: bool):
+class LlmAuditor:
+    def __init__(self, provider: str, model: str, max_concurrent: int, strict: bool):
+        self.provider = normalize_provider_name(provider)
         self.model = model
         self.max_concurrent = max_concurrent
         self.strict = strict
-
-        api_key = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
-        if not api_key:
-            raise SystemExit("GEMINI_API_KEY (ou GOOGLE_API_KEY) não configurada para auditoria LLM.")
-        if genai is None or types is None:
-            raise SystemExit(
-                "Dependência do Gemini não instalada. Rode: pip install -r tools/requirements-ai.txt"
-            )
-
-        self.client = genai.Client(api_key=api_key)
+        self.client = LLMClient(self.provider)
 
     def build_prompt(self, question: dict[str, Any]) -> str:
         payload = {
@@ -508,6 +579,9 @@ Critérios:
 - a redação está objetiva, sem ambiguidade estrutural?
 - a dificuldade parece compatível com o rótulo informado?
 - há sinal de erro factual relevante ou mistura indevida de conceitos?
+- existem "alternativas irmãs", isto é, duas opções do mesmo tronco diagnóstico ou da mesma base de conduta separadas apenas por nuance escondida?
+- se a pergunta é de diagnóstico, as alternativas competem em diagnóstico?
+- se a pergunta é de conduta, as alternativas competem em conduta?
 
 Saída obrigatória:
 {{
@@ -530,18 +604,16 @@ QUESTAO:
 
     async def audit_question(self, question: dict[str, Any]) -> LlmAudit:
         prompt = self.build_prompt(question)
-        response = await asyncio.to_thread(
-            self.client.models.generate_content,
+        raw_text = await asyncio.to_thread(
+            self.client.generate_text,
+            prompt,
             model=self.model,
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                temperature=0.1,
-                top_p=0.95,
-                response_mime_type="application/json",
-            ),
+            temperature=0.1,
+            top_p=0.95,
+            max_output_tokens=int(os.getenv("QUESTION_VALIDATOR_MAX_OUTPUT_TOKENS", "1200")),
+            response_mime_type="application/json",
         )
 
-        raw_text = getattr(response, "text", "") or ""
         try:
             data = json.loads(raw_text)
         except json.JSONDecodeError:
@@ -769,12 +841,20 @@ async def main() -> None:
     parser.add_argument(
         "--llm",
         action="store_true",
-        help="Ativa auditoria semantica com Gemini apos as regras objetivas.",
+        help="Ativa auditoria semantica com o provedor de IA configurado apos as regras objetivas.",
     )
     parser.add_argument(
         "--llm-model",
-        default=os.getenv("QUESTION_VALIDATOR_MODEL") or os.getenv("GEMINI_MODEL", "gemini-2.5-flash"),
-        help="Modelo Gemini para a auditoria LLM.",
+        default=os.getenv("QUESTION_VALIDATOR_MODEL")
+        or os.getenv("OPENAI_MODEL")
+        or os.getenv("GEMINI_MODEL")
+        or default_model_for_provider(normalize_provider_name(os.getenv("QUESTION_AI_PROVIDER", "openai"))),
+        help="Modelo de IA para a auditoria LLM.",
+    )
+    parser.add_argument(
+        "--llm-provider",
+        default=os.getenv("QUESTION_VALIDATOR_PROVIDER") or os.getenv("QUESTION_AI_PROVIDER", "openai"),
+        help="Provedor de IA para a auditoria LLM (openai ou gemini).",
     )
     parser.add_argument(
         "--llm-max-concurrent",
@@ -808,7 +888,8 @@ async def main() -> None:
     apply_cross_question_checks(questions, results)
 
     if args.llm:
-        auditor = GeminiAuditor(
+        auditor = LlmAuditor(
+            provider=args.llm_provider,
             model=args.llm_model,
             max_concurrent=args.llm_max_concurrent,
             strict=args.llm_strict,

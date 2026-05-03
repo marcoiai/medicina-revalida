@@ -1,0 +1,291 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/simulado2027-1edicao-regulamento-simulado.pdf"
+  }
+]
+
+TEXTO-BASE:
+
+
+--- PAGE 1 ---
+
+ 
+REGULAMENTO DO SIMULADO DA PROVA DE CONHECIMENTOS GERAIS DA FUVEST 
+1ª EDIÇÃO – ABRIL/2026 
+ 
+A FUVEST tem como objetivo, com este Simulado, oferecer aos interessados a oportunidade de treinar 
+as condições reais de aplicação da 1ª Fase do Concurso Vestibular FUVEST 2027. O Simulado da 
+Prova de Conhecimentos Gerais FUVEST será presencial e composto por questões inéditas, 
+elaboradas pelas Bancas Avaliadoras do Vestibular, com 80 (oitenta) questões de múltipla escolha, 
+de 5 alternativas cada, sendo apenas uma delas a correta. 
+ 
+1. DISPOSIÇÕES GERAIS 
+ 
+1.1. A FUVEST será responsável pelas inscrições e pela aplicação do Simulado da Prova de 
+Conhecimentos Gerais FUVEST, bem como pela elaboração da prova. 
+ 
+1.2. O público-alvo do Simulado da Prova de Conhecimentos Gerais FUVEST inclui aqueles que já 
+concluíram ou que venham a concluir o Ensino Médio até 2028. 
+ 
+1.3. O simulado seguirá o Programa do Vestibular FUVEST 2027, que se mantém o mesmo do 
+Vestibular 2026, bem como a lista de obras de leitura obrigatória vigente para o Concurso Vestibular 
+FUVEST 2027. 
+ 
+1.3.1. O Programa do Vestibular e a Lista de obras de leitura obrigatória estão publicados no site da 
+FUVEST (https://www.fuvest.br/). 
+ 
+2. INSCRIÇÕES 
+ 
+2.1. A inscrição no Simulado da Prova de Conhecimentos Gerais FUVEST será realizada 
+exclusivamente pela internet, entre as 12h de 02/03/2026 e as 12h de 31/03/2026, apenas no site 
+oficial da FUVEST (https://www.fuvest.br/). 
+ 
+2.2. Para efetuar a inscrição no Simulado da Prova de Conhecimentos Gerais FUVEST, o participante 
+deverá possuir Documento de Identidade e seu próprio número de Cadastro de Pessoas Físicas 
+(CPF). 
+ 
+2.3. No ato da inscrição, o participante deverá, obrigatoriamente, preencher o formulário de inscrição 
+com os dados cadastrais. É dever do participante certificar-se de que todos os campos estão 
+preenchidos corretamente. 
+  
+ 
+ 
+
+
+--- PAGE 2 ---
+
+ 
+2.4. A taxa de inscrição no Simulado da Prova de Conhecimentos Gerais FUVEST será de R$ 100,00 
+(cem reais), independentemente da escola em que o participante tenha cursado ou esteja cursando 
+o Ensino Médio. A data de confirmação de inscrição poderá ser usada como critério de desempate. 
+ 
+2.5. A taxa de inscrição não será devolvida em hipótese alguma, ainda que paga em duplicidade.  
+ 
+2.6. O participante que não realizar o pagamento da taxa de inscrição até a data de vencimento do 
+boleto (31/03/2026), ou que não faça a emissão do boleto em sua área do candidato após terminar a 
+inscrição, terá a sua inscrição cancelada. 
+ 
+2.7. A FUVEST poderá utilizar, tratar e compartilhar os dados pessoais dos participantes nos termos 
+da Lei nº 13.709/2018, em especial no cumprimento de obrigação legal ou regulatória, conforme 
+disposto na sua Política de Privacidade. 
+ 
+2.8. Os participantes que necessitarem de recurso específico, por alguma questão de acessibilidade 
+ou necessidade específica, deverão requisitá-lo durante a inscrição no simulado.  
+ 
+3. DA PROVA 
+ 
+3.1. O Simulado será realizado de forma presencial, nas cidades de Bauru, Campinas, Piracicaba, 
+Presidente Prudente, Ribeirão Preto, Santo André, São Carlos, São José do Rio Preto, São José dos 
+Campos, São Paulo e Sorocaba, no dia 26/04/2026 (domingo), com início às 13h00 e duração de 5 
+horas. 
+ 
+3.1.1. Ao contrário do Concurso Vestibular FUVEST, o Simulado da Prova de Conhecimentos Gerais 
+não será realizado em hospitais, ocorrendo exclusivamente nos locais mencionados no item 3.1. 
+ 
+3.2. Os locais de prova, assim como a lista de participantes com inscrição confirmada, serão 
+divulgados no dia 17/04/2026, na Área do Candidato, disponível no site oficial da FUVEST 
+(https://www.fuvest.br/). 
+ 
+3.3. O Simulado consistirá numa prova de múltipla escolha, composta por 80 (oitenta) questões, com 
+5 (cinco) alternativas cada, sendo apenas uma delas a correta.  
+ 
+3.4. O conteúdo contemplará as disciplinas da Base Nacional Comum Curricular do Ensino Médio: 
+Arte, Biologia, Educação Física, Filosofia, Física, Geografia, História, Inglês, Matemática, Português, 
+Química e Sociologia.  
+ 
+3.5. As questões também podem ser interdisciplinares, ou seja, uma mesma questão pode tratar de 
+temas na interface de diferentes disciplinas.  
+ 
+ 
+
+
+--- PAGE 3 ---
+
+ 
+3.6. A prova do Simulado da Prova de Conhecimentos Gerais FUVEST é construída para a avaliação 
+das seguintes habilidades: 
+ 
+● 
+Competência para leitura e compreensão de diferentes textos, em linguagens diversificadas; 
+● 
+Conhecimentos básicos nas áreas de ciências humanas e sociais aplicadas, ciências da 
+natureza e suas tecnologias, matemática e suas tecnologias e em linguagens e suas tecnologias; 
+ 
+3.6.1. O participante deverá conseguir compreender conceitos, situações e fenômenos, nos 
+referenciais próprios de cada área, além de utilizar esses conhecimentos para analisar e articular 
+informações, resolver problemas e argumentar de forma coerente a respeito das situações que vamos 
+apresentar. Privilegia-se a apropriação de conhecimentos, informações e linguagens, além da 
+capacidade de reflexão e investigação em situações que apresentem dimensões prática, conceitual 
+e sociocultural. O conhecimento esperado não se reduz à memorização de fatos, datas, fórmulas ou 
+ao uso automatizado de informações. 
+ 
+3.7. No dia da prova, é obrigatório e necessário a apresentação dos seguintes itens:  
+ 
+● 
+Documento de Identificação, digital ou físico; 
+● 
+Caneta esferográfica, azul ou preta, de corpo transparente. 
+ 
+3.7.1. O participante que não apresentar documento de identificação válido, conforme previsto no 
+item 3.7, não poderá realizar a prova, estando sua participação automaticamente cancelada;  
+ 
+3.8. No dia da prova, é também permitida a utilização de outros itens opcionais:  
+ 
+● 
+Garrafa de água transparente; 
+● 
+Alimentos leves; 
+● 
+Lápis ou lapiseira; 
+● 
+Itens médicos autorizados com antecedência; 
+● 
+Borracha; 
+● 
+Apontador; 
+● 
+Régua transparente. 
+ 
+3.9. No dia da prova, é proibido o uso dos seguintes itens: 
+ 
+● Relógio individual de qualquer tipo; 
+● Equipamento eletrônico, como calculadora, telefone celular, computador, tablet, reprodutor de 
+áudio, máquina fotográfica, equipamento eletrônico do tipo vestível (como smartwatch, óculos 
+eletrônicos, ponto eletrônico) etc.; 
+● Material impresso ou para anotações; 
+● Caneta hidrográfica ou outras, diferentes de caneta esferográfica; 
+● Corretivo de qualquer material ou espécie; 
+● Caneta marca-texto, compasso ou lápis com tabuada; 
+● Gorro, boné, chapéu ou similares, óculos de sol; 
+● Quaisquer outros materiais estranhos à realização da prova. 
+ 
+ 
+
+
+--- PAGE 4 ---
+
+ 
+3.10. Os portões do local de aplicação serão abertos às 12h00, e a prova começará às 13h00.  
+ 
+3.11. Não haverá tempo adicional para transcrição na folha de respostas oficial.  
+ 
+3.12. Os enunciados das questões, bem como o gabarito, serão divulgados até o dia 27/04/2026, 
+12h00, no site oficial da FUVEST (https://www.fuvest.br/). Não caberá a interposição de 
+questionamentos relativos às questões do Simulado da Prova de Conhecimentos Gerais FUVEST, 
+tampouco vista de provas. 
+ 
+3.13. A partir do dia 11/05/2026, os participantes que realizaram o Simulado poderão entrar na “Área 
+do Candidato” no site oficial da FUVEST (https://www.fuvest.br/) e visualizar seu desempenho geral e 
+por questão na prova, de forma individual e comparativa. 
+ 
+4.DAS DISPOSIÇÕES FINAIS  
+ 
+4.1. O Simulado da Prova de Conhecimentos Gerais FUVEST é um evento de treinamento para 
+interessados em participar do Concurso Vestibular FUVEST 2027. No entanto, a inscrição no Simulado 
+não implicará inscrição no referido Vestibular, a qual deverá ser efetivada em período e sob condições 
+a serem definidas em Resolução própria. 
+ 
+4.1.1. Os participantes do Simulado não estarão dispensados de realizar as provas do Concurso 
+Vestibular, nem poderão requerer que a nota obtida no Simulado substitua ou seja considerada na 
+prova de Conhecimentos Gerais do Concurso Vestibular FUVEST 2027. A nota obtida no Simulado 
+também não implicará qualquer espécie de bonificação na pontuação do Concurso Vestibular 
+FUVEST 2027. 
+ 
+4.1.2. O local em que o participante realizará o Simulado da Prova de Conhecimentos Gerais FUVEST 
+não será necessariamente o mesmo que o local de prova de realização do Concurso Vestibular 
+FUVEST 2027. 
+ 
+4.2. A inscrição do participante implicará o conhecimento e a tácita aceitação das normas e 
+condições estabelecidas neste Regulamento, em relação às quais não poderá ser alegado 
+desconhecimento. 
+ 
+4.3. Todos os horários estabelecidos neste Regulamento e em quaisquer outros comunicados 
+relativos a este simulado seletivo referem-se à hora oficial de Brasília (UTC/ GMT-3). 
+ 
+4.4. Casos omissos serão resolvidos pela FUVEST. 
+ 
+ 
+ 
+

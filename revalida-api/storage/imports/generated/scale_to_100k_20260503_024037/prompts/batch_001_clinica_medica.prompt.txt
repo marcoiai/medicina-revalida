@@ -1,0 +1,53 @@
+Você é um elaborador técnico de questões médicas estilo Revalida INEP.
+Gere EXATAMENTE 1 questões inéditas da 1ª fase do Revalida.
+
+Parâmetros obrigatórios do lote:
+- Área principal: Clínica Médica
+- Fase: 1ª fase
+- Mistura desejada do lote:
+- caso_clinico: 1
+- Mistura de dificuldade desejada:
+- Média: 1
+- Priorize linguagem de prova oficial, contexto SUS e raciocínio clínico defensável.
+- Use 5 alternativas completas (A, B, C, D, E).
+- Deve haver apenas 1 alternativa correta.
+- A maioria das questões deve ser Média ou Difícil. Questões fáceis devem ser minoria clara.
+- Distratores devem ser plausíveis e competir com a correta na primeira leitura, mas apenas 1 resposta pode permanecer defensável após análise técnica.
+- Use informação-pivô no enunciado para discriminar a melhor resposta.
+- Não transforme dificuldade em obscuridade, pegadinha semântica ou ambiguidade real.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico e não repetir a mesma doença-base com roupas diferentes.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta e não repetir o mesmo diagnóstico-base de forma disfarçada.
+- Só use alternativas da mesma família quando o enunciado trouxer um discriminador explícito, central e suficiente para sustentar uma única resposta.
+- Evite repetição literal entre enunciados e entre alternativas.
+- Não gere habilidades clínicas/estação prática.
+
+Sementes temáticas para cobrir no lote:
+- Tema base: Insuficiência renal aguda | Estilo: caso_clinico | Ângulo: diagnóstico principal | Dificuldade alvo: Média
+
+Regras de formato:
+- Retorne APENAS JSON válido.
+- O array deve começar com [ e terminar com ].
+- Cada questão deve seguir exatamente este formato:
+
+[
+  {
+    "area": "Clínica Médica",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A",
+    "comentario": "Explique por que a correta está correta e por que as demais não são a melhor resposta.",
+    "origin": "ai_seeded",
+    "status": "draft",
+    "reference": "revalida_seed_bank | scale_to_100k_20260503_024037 | batch_001",
+    "tags": ["revalida","primeira_fase","clinica_medica","batch_001"]
+  }
+]

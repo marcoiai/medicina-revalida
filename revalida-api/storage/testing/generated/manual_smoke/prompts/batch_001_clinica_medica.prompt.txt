@@ -1,0 +1,50 @@
+Você é um elaborador técnico de questões médicas estilo Revalida INEP.
+Gere EXATAMENTE 5 questões inéditas da 1ª fase do Revalida.
+
+Parâmetros obrigatórios do lote:
+- Área principal: Clínica Médica
+- Fase: 1ª fase
+- Mistura desejada do lote:
+- caso_clinico: 3
+- aps_sus_preventiva: 1
+- conceito_direto: 1
+- Priorize linguagem de prova oficial, contexto SUS e raciocínio clínico defensável.
+- Use 5 alternativas completas (A, B, C, D, E).
+- Deve haver apenas 1 alternativa correta.
+- A dificuldade predominante deve ser Média.
+- Evite repetição literal entre enunciados e entre alternativas.
+- Não gere habilidades clínicas/estação prática.
+
+Sementes temáticas para cobrir no lote:
+- Tema base: Asma aguda no adulto | Estilo: caso_clinico | Ângulo: diagnóstico principal
+- Tema base: Doença ulcerosa péptica e hemorragia digestiva alta | Estilo: aps_sus_preventiva | Ângulo: prevenção e rastreamento
+- Tema base: Cirrose hepática e complicações | Estilo: caso_clinico | Ângulo: exame complementar mais útil
+- Tema base: Infecção pelo HIV e profilaxias | Estilo: conceito_direto | Ângulo: contraindicação ou precaução
+- Tema base: Doença pulmonar obstrutiva crônica exacerbada | Estilo: caso_clinico | Ângulo: tratamento ambulatorial ou hospitalar
+
+Regras de formato:
+- Retorne APENAS JSON válido.
+- O array deve começar com [ e terminar com ].
+- Cada questão deve seguir exatamente este formato:
+
+[
+  {
+    "area": "Clínica Médica",
+    "tema": "...",
+    "dificuldade": "Média",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A",
+    "comentario": "Explique por que a correta está correta e por que as demais não são a melhor resposta.",
+    "origin": "ai_seeded",
+    "status": "draft",
+    "reference": "revalida_seed_bank | manual_smoke | batch_001",
+    "tags": ["revalida","primeira_fase","clinica_medica","batch_001"]
+  }
+]

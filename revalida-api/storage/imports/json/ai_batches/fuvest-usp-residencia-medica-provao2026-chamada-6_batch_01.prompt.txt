@@ -1,0 +1,286 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/provao2026-chamada-6.pdf"
+  }
+]
+
+TEXTO-BASE:
+
+
+--- PAGE 1 ---
+
+Provão Paulista Seriado 2025/2026
+Lista de Espera: Chamados para a terceira matrícula
+1
+529.450
+1/35
+Alice Pereira dos Santos
+17101/0 Fisioterapia (Bacharelado) - Integral
+Ribeirão Preto
+458.275
+2/35
+Amanda Andrade
+8051/104 Letras (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+152.672
+3/35
+Ana Beatriz Procopio de Menezes
+59032/0 Psicologia (Bacharelado) - Integral
+Ribeirão Preto
+484.655
+4/35
+Ana Clara Loiaconi de Almeida
+86100/102 Gestão Ambiental (Bacharelado) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+546.586
+5/35
+Ana Laura Pires de Souza Lima
+58013/0 Odontologia (Bacharelado) - Integral
+Ribeirão Preto
+548.023
+6/35
+Ana Luiza Guedes Pereira
+22100/4 Enfermagem (Bacharelado e Licenciatura) - Noturno
+Escola de Enfermagem de Ribeirão Preto
+516.454
+7/35
+Andre Luiz Marques Miguel
+3033/0 Engenharia Elétrica (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+527.990
+8/35
+Arthur Uhlmann Fernandes Costa
+3023/3000 Engenharia Civil (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+600.298
+9/35
+Bruna Thomaz Tavares Pereira
+75014/100 Química (Bacharelado) - Integral
+Instituto de Física de São Carlos
+423.086
+10/35
+Caique Ramalho dos Santos
+43031/0 Física (Licenciatura) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+499.301
+11/35
+Clara Leticia Costa
+86300/103 Gerontologia (Bacharelado) - Vespertino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+524.598
+12/35
+Danielle Santos de Souza
+86551/100 Biotecnologia (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+480.246
+13/35
+Emanuelle Silvestre
+11010/0 Engenharia Agronômica (Bacharelado) - Integral
+Escola Superior de Agricultura ""Luiz de Queiroz""
+601.079
+14/35
+Felipe Silva Maia
+3084/3000 Engenharia de Produção (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+558.207
+15/35
+Fernanda Leticia Sales Rios Silva
+8040/103 Ciências Sociais (Bacharelado/Licenciatura) - Vespertino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+447.296
+16/35
+Fernanda Teotonio de Oliveira
+55051/4 Sistemas de Informação (Bacharelado) - Noturno
+Instituto de Ciências Matemáticas e de Computação
+
+
+--- PAGE 2 ---
+
+Provão Paulista Seriado 2025/2026
+Lista de Espera: Chamados para a terceira matrícula
+2
+563.090
+17/35
+Gabriel Kaue Lopez Ticona
+11062/4 Ciências dos Alimentos (Bacharelado) - Noturno
+Escola Superior de Agricultura ""Luiz de Queiroz""
+441.180
+18/35
+Geovana Nicoly Soares
+8010/104 Filosofia (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+595.968
+19/35
+Giovanna Carneiro de Paula
+86150/103 Lazer e Turismo (Bacharelado) - Vespertino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+414.798
+20/35
+Giovanna Rigon de Paula
+18250/0 Engenharia Mecatrônica (Bacharelado) - Integral
+Escola de Engenharia de São Carlos
+451.736
+21/35
+Gustavo Gomes de Sousa
+2014/102 Direito (Bacharelado) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+564.055
+22/35
+Hanna Flaviany Tavares
+99002/0 Arquitetura e Urbanismo (Bacharelado) - Integral
+Instituto de Arquitetura e Urbanismo de São Carlos
+529.518
+23/35
+Lais Mikaele Lima de Melo
+59052/4 Pedagogia (Licenciatura) - Noturno
+Ribeirão Preto
+531.712
+24/35
+Lavinia Macena Cordeiro
+86250/102 Têxtil e Moda (Bacharelado) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+463.527
+25/35
+Luana Morais de Andrade
+86450/102 Marketing (Bacharelado) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+539.953
+26/35
+Maria Eduarda Piotto
+25013/0 Odontologia (Bacharelado) - Integral
+Faculdade de Odontologia de Bauru
+403.011
+27/35
+Maria Eduarda Santos Padilha
+59071/4 Química (Bacharelado e Licenciatura) - Noturno
+Ribeirão Preto
+535.226
+28/35
+Robert Junior Barros de Melo
+8040/103 Ciências Sociais (Bacharelado/Licenciatura) - Vespertino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+523.857
+29/35
+Rodrigo Henrique Gomes da Silva
+39041/100 Educação Física (Bacharelado/Licenciatura) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+474.907
+30/35
+Sophia Evelyn Cardoso
+22013/0 Enfermagem (Bacharelado) - Integral
+Escola de Enfermagem de Ribeirão Preto
+480.666
+31/35
+Sophia Novais Alves de Lima
+86100/102 Gestão Ambiental (Bacharelado) - Matutino
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+528.799
+32/35
+Thalita Marizza
+11080/4 Gestão Ambiental (Bacharelado) - Noturno
+Escola Superior de Agricultura ""Luiz de Queiroz""
+
+
+--- PAGE 3 ---
+
+Provão Paulista Seriado 2025/2026
+Lista de Espera: Chamados para a terceira matrícula
+3
+478.941
+33/35
+Vagner Correia Maia Junior
+8010/104 Filosofia (Bacharelado/Licenciatura) - Noturno
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+542.526
+34/35
+Vinicius dos Santos Belisari
+11070/4 Ciências Biológicas (Bacharelado/Licenciatura) - Noturno
+Escola Superior de Agricultura ""Luiz de Queiroz""
+472.022
+35/35
+Yohann Landau Fabro Boemer
+3201/0 Engenharia - Ciclo Básico de Materiais /Metalúrgica /Nuclear (Bacharelado) - Integral
+São Paulo (Butantã/Leste/Quadrilátero Saúde/Direito)
+

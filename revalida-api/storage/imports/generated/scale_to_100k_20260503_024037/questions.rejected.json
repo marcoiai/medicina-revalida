@@ -1,0 +1,12 @@
+[
+  {
+    "batch": "batch_001_clinica_medica.prompt.txt",
+    "reason": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/emini-3-flash-preview is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}",
+    "raw": null
+  },
+  {
+    "batch": "batch_002_go.prompt.txt",
+    "reason": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/emini-3-flash-preview is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}",
+    "raw": null
+  }
+]

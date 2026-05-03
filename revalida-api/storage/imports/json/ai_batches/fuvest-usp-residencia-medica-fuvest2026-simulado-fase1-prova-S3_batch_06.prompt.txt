@@ -1,0 +1,469 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/fuvest2026-simulado-fase1-prova-S3.pdf"
+  }
+]
+
+TEXTO-BASE:
+roposição¬seria¬verdadeira¬e¬coerente¬com¬o¬
+pensamento¬cartesiano?¬
+(A) As¬paixões¬são¬o¬que¬incitam¬a¬alma¬à¬ilusão.¬
+(B) As¬paixões¬nos¬ensinam¬o¬verdadeiro¬sentido¬da¬alma.¬
+(C) A¬alma¬permanece¬escrava¬de¬suas¬paixões.¬
+(D) O¬sentimento¬de¬pertencimento¬incita¬a¬alma¬a¬cooperar.¬
+(E) O¬sentimento¬de¬aversão¬incita¬a¬alma¬a¬lembrar.¬
+ 
+¬
+52 
+Em¬1936,¬tropas¬italianas,¬sob¬as¬ordens¬de¬Benito¬Mussolini,¬
+invadiram¬a¬Etiópia¬e¬a¬mantiveram¬sob¬o¬domínio¬da¬Itália¬até¬
+1941.Tal¬episódio¬
+¬
+(A) fez¬ parte¬ das¬ operações¬ militares¬ que¬ antecederam¬ a¬
+Segunda¬Guerra¬Mundial¬e¬envolvia¬também¬uma¬ofensiva¬
+religiosa¬contra¬o¬islamismo¬etíope.¬
+(B) foi¬ uma¬ intervenção¬ militar¬ com¬ objetivo¬ de¬ conter¬ os¬
+conflitos¬internos¬na¬Etiópia¬que¬se¬alastravam¬pelo¬Sudão¬
+e¬pela¬Somália.¬¬
+(C) representou¬o¬início¬do¬expansionismo¬italiano¬na¬África,¬o¬
+qual¬atingiu¬seu¬ponto¬máximo¬com¬o¬domínio¬do¬Sudão,¬
+do¬Congo¬e¬de¬Angola.¬
+(D) foi¬ denunciado¬ à¬ Liga¬ das¬ Nações,¬ que¬ prontamente¬
+condenou¬ a¬ invasão¬ italiana¬ e¬ organizou¬ uma¬ força¬ de¬
+pacificação¬internacional¬na¬Etiópia.¬
+(E) foi¬anunciado¬pelo¬governo¬da¬Itália¬como¬uma¬reparação¬
+à¬derrota¬sofrida¬pelo¬exército¬italiano¬em¬1896¬diante¬das¬
+tropas¬etíopes.¬
+ 
+¬
+¬
+¬
+Texto para as questões 53 e 54 
+¬
+Intelectuais¬e¬farsantes¬amiúde¬se¬confundem.¬Sinal¬dos¬
+tempos,¬ gritos¬ se¬ tornam¬ equivalentes¬ a¬ ênfases,¬ ataques¬
+passam¬ a¬ valer¬ como¬ expressão¬ de¬ individualidade¬ e¬ a¬
+retórica¬mais¬rude¬toma¬ares¬de¬argumentação.¬A¬confusão¬
+não¬é¬nova,¬é¬quase¬natural.¬Afinal,¬a¬inteligência¬parece¬poder¬
+alimentar¬ tanto¬ a¬ reflexão¬ quanto¬ o¬ canalha;¬ contra¬ toda¬
+aparência,¬inteligências¬há¬de¬diversa¬natureza.¬Pior¬ainda.¬A¬
+quase¬todos¬a¬inteligência¬parece¬ser¬da¬ordem¬das¬coisas¬
+cítricas¬ e¬ não¬ naturalmente¬ doce;¬ seria¬ em¬ geral¬ áspera¬ e¬
+raramente¬acolhedora.¬E¬o¬lugar-comum¬da¬tradição¬nos¬faz¬
+mesmo¬ julgar¬ tolo¬ o¬ otimista¬ e¬ profundo¬ o¬ pessimista;¬ a¬
+vocação¬natural¬da¬razão¬parece¬ser¬o¬negativo,¬a¬destruição¬
+e,¬ portanto,¬ o¬ esclarecimento¬ condenado¬ a¬ ser¬ talhado¬ em¬
+penumbra.¬
+Ao¬contrário,¬por¬tolice¬convicta¬ou¬por¬experiência¬bem¬
+assentada,¬ penso¬ que¬ a¬ inteligência¬ pode¬ ser¬ acolhedora,¬
+expansiva.¬O¬indivíduo¬arguto¬não¬precisa¬ser¬quem¬prefere¬
+sempre¬ a¬ ironia¬ à¬ crítica,¬ se¬ verdadeiramente¬ arguto,¬ não¬
+precisa¬preferir¬a¬cizânia¬à¬concórdia,¬a¬vitória¬ao¬consenso,¬a¬
+persuasão¬ao¬convencimento.¬
+Chego¬ a¬ guardar¬ a¬ lembrança¬ viva¬ de¬ amigos¬ assim,¬
+muitíssimo¬ inteligentes.¬ Minha¬ tristeza¬ mais¬ íntima¬ é¬ quase¬
+todos¬eles¬terem¬morrido.¬Porém,¬ao¬encontrá-los¬outrora,¬eles¬
+pareciam¬mesmo¬felizes¬em¬me¬ver,¬como¬se,¬ao¬me¬olharem¬
+fixamente,¬ escolhessem¬ de¬ mim¬ o¬ que¬ poderia¬ haver¬ de¬
+melhor.¬Amigos¬que,¬em¬vez¬de¬lamentar¬o¬peso¬da¬existência,¬
+como¬o¬fazem¬alguns¬cínicos,¬saudavam,¬com¬alma¬lírica,¬sua¬
+força¬instigante,¬seu¬permanente¬desafio.¬
+João¬Carlos¬Salles.¬Eu¬sei¬lá:¬nota¬sobre¬as¬forças¬selvagens¬da¬
+inteligência.¬Revista¬Cult.¬29¬de¬março¬de¬2018.¬Adaptado.¬
+¬
+53 
+Com¬base¬no¬texto,¬depreende-se¬que¬
+¬
+(A) a¬ confusão¬ entre¬ intelectuais¬ e¬ farsantes¬ é¬ fruto¬ das¬
+aparências,¬ causada¬ em¬ decorrência¬ do¬ tempo¬ e¬ do¬
+fortalecimento¬de¬individualidades.¬
+(B) a¬razão¬possui¬uma¬natureza¬dúbia,¬predominantemente¬
+positiva,¬ de¬ acordo¬ com¬ o¬ nível¬ de¬ esclarecimento¬ das¬
+pessoas.¬
+(C) a¬inteligência¬e¬a¬argúcia¬não¬precisam¬se¬expressar¬de¬
+forma¬ árdua,¬ podendo¬ manifestar¬ satisfação¬ diante¬ dos¬
+desafios.¬
+(D) a¬ amizade¬ possibilita¬ o¬ reconhecimento¬ das¬ melhores¬
+características¬ do¬ indivíduo,¬ transformando¬ cinismo¬ em¬
+felicidade.¬
+(E) a¬ experiência¬ serve¬ de¬ lugar-comum¬ para¬ entender¬ o¬
+comportamento¬ humano,¬ distanciando-o¬ do¬ âmbito¬ da¬
+ironia¬e¬da¬crítica.¬
+ 
+¬
+54 
+Considerando¬a¬estruturação¬sintática¬do¬primeiro¬parágrafo¬
+do¬texto,¬é¬correto¬afirmar¬que¬o¬autor,¬predominantemente,¬
+¬
+(A) utiliza¬ períodos¬ compostos¬ por¬ subordinação¬ para¬
+apresentar¬seu¬ponto¬de¬vista.¬
+(B) inverte¬ a¬ ordem¬ das¬ orações¬ para¬ criar¬ um¬ efeito¬ de¬
+sentido¬dicotômico.¬
+(C) justapõe¬ orações¬ por¬ coordenação¬ para¬ apresentar¬ um¬
+panorama¬do¬problema.¬
+(D) opta¬ por¬ período¬ simples¬ para¬ reforçar¬ os¬ argumentos¬
+favoráveis¬ao¬tema.¬
+(E) oscila¬entre¬subordinação¬e¬coordenação¬para¬subverter¬a¬
+perspectiva¬do¬leitor.¬
+ 
+
+
+--- PAGE 18 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S3 
+55 
+A¬ querela¬ sobre¬ a¬ natureza¬ da¬ escravidão¬ e¬ sobre¬ sua¬
+inserção¬ na¬ sociedade¬ moderna¬ tem¬ passado¬ por¬ grandes¬
+transformações.¬A¬posição¬dominante¬até¬uns¬15¬anos¬atrás¬
+era¬a¬de¬que¬o¬trabalho¬escravo,¬comparado¬ao¬trabalho¬livre¬
+das¬sociedades¬de¬mercado,¬era¬improdutivo.¬¬Daí¬constituir¬a¬
+escravidão¬um¬sistema¬produtivo¬condenado¬a¬desaparecer¬
+por¬ obsoleto¬ frente¬ às¬ forças¬ do¬ mercado.¬ Pesquisas¬ mais¬
+recentes¬ têm¬ colocado¬ em¬ séria¬ dúvida¬ a¬ posição¬ desses¬
+autores.¬Estudos¬empíricos,¬tanto¬nos¬Estados¬Unidos,¬como¬
+no¬Brasil¬e¬no¬Caribe,¬têm¬demonstrado¬que¬até¬seus¬anos¬
+finais¬ o¬ sistema¬ escravista¬ se¬ mostrava¬ lucrativo,¬ que¬ o¬
+comportamento¬
+dos¬
+proprietários¬
+de¬
+escravos¬
+era¬
+perfeitamente¬ racional¬ e¬ que¬ certo¬ avanço¬ tecnológico¬ era¬
+compatível¬com¬o¬trabalho¬escravo.¬
+Conclui-se¬que¬o¬fim¬da¬escravidão¬nos¬vários¬países¬não¬
+se¬deveu¬apenas¬ao¬avanço¬da¬sociedade¬de¬mercado.¬O¬fim¬
+da¬escravidão¬foi¬essencialmente¬um¬fenômeno¬político.¬
+José¬Murilo¬Carvalho.¬Pontos¬e¬bordados:¬escritos¬de¬história¬e¬política.¬
+Belo¬Horizonte:¬UFMG,¬1998.¬Adaptado.¬
+¬
+O¬ texto¬ faz¬ um¬ balanço¬ dos¬ debates¬ historiográficos¬ que¬
+mudaram¬ a¬ forma¬ de¬ se¬ explicar¬ as¬ razões¬ para¬ o¬ fim¬ da¬
+escravidão¬ moderna.¬ A¬ “nova¬ historiografia”¬ defende¬ que¬ a¬
+escravidão¬
+¬
+(A) revelou-se¬conflitante¬com¬a¬modernização¬tecnológica¬e¬
+econômica¬das¬nações¬colonizadoras.¬
+(B) era¬obsoleta¬diante¬das¬demandas¬do¬capitalismo¬por¬mão¬
+de¬obra¬qualificada.¬
+(C) foi¬ abolida¬ em¬ razão¬ de¬ sua¬ ineficácia¬ na¬ geração¬ de¬
+lucros.¬
+(D) mostrou-se¬ incompatível¬ com¬ o¬ crescimento¬ do¬ trabalho¬
+livre¬assalariado.¬
+(E) foi¬abolida¬por¬pressão¬de¬setores¬políticos¬internos¬aos¬
+países¬escravocratas.¬
+ 
+¬
+56 
+Analise¬o¬gráfico¬a¬seguir.¬
+¬
+¬
+A¬partir¬da¬interpretação¬do¬gráfico,¬é¬correto¬afirmar¬que¬
+¬
+(A) a¬expectativa¬de¬vida¬da¬população¬branca,¬nos¬estados¬
+da¬região¬norte,¬é¬superior¬à¬da¬média¬nacional.¬
+(B) o¬estado¬de¬Roraima¬ apresenta¬a¬menor¬expectativa¬de¬
+vida¬da¬população¬negra¬em¬todo¬o¬país.¬¬
+(C) o¬estado¬do¬Paraná¬apresenta¬a¬menor¬diferença¬entre¬a¬
+expectativa¬de¬vida¬da¬população¬negra¬e¬branca¬do¬país.¬¬
+(D) os¬estados¬da¬região¬sudeste¬apresentam¬expectativa¬de¬
+vida¬da¬população¬branca¬abaixo¬da¬média¬nacional.¬
+(E) as¬regiões¬norte¬e¬nordeste¬apresentam¬mais¬estados¬com¬
+diferença¬entre¬expectativa¬de¬vida¬da¬população¬negra¬e¬
+branca¬acima¬da¬média¬nacional.¬
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 19 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S3 
+57 
+O¬ gráfico¬ a¬ seguir¬ apresenta¬ a¬ distribuição¬ porcentual¬ da¬
+população¬ residente¬ no¬ Brasil,¬ segundo¬ as¬ informações¬
+obtidas¬pelo¬IBGE,¬nos¬Censos¬de¬2010¬e¬2022.¬
+ 
+IBGE.¬Censo¬demográfico¬2010/2022.¬
+A¬partir¬dos¬dados¬observados¬no¬gráfico,¬é¬correto¬afirmar: 
+ 
+(A) Em¬2022,¬a¬população¬branca¬manteve¬predomínio,¬já¬
+alcançado¬em¬2010,¬nas¬faixas¬etárias¬abaixo¬de¬30¬anos¬
+de¬idade. 
+(B) Em¬ 2010,¬ o¬ menor¬ percentual¬ da¬ população¬ preta¬
+ocorreu¬na¬faixa¬entre¬60¬e¬74¬anos¬de¬idade. 
+(C) Em¬comparação¬com¬2010,¬observa-se¬que,¬em¬2022,¬a¬
+população¬branca¬perdeu¬o¬predomínio¬na¬faixa¬de¬30¬a¬
+44¬anos¬de¬idade¬para¬a¬população¬parda. 
+(D) Em¬2022,¬havia¬um¬predomínio¬da¬população¬parda¬entre¬
+as¬pessoas¬a¬partir¬de¬45¬anos¬de¬idade. 
+(E) A¬população¬branca¬representava,¬em¬2022,¬menos¬da¬
+metade¬das¬pessoas¬entre¬60¬e¬74¬anos¬de¬idade¬e¬entre¬
+aquelas¬com¬75¬anos¬de¬idade¬ou¬mais. 
+ 
+¬
+58 
+¬
+Disponível¬em¬https://kids.frontiersin.org/articles/.¬Adaptado.¬
+¬
+O¬gráfico¬faz¬referência¬ao¬fenômeno¬chamado¬de¬
+¬
+(A) estresse¬hídrico.¬
+(B) ionização¬atmosférica.¬
+(C) ilha¬de¬calor.¬
+(D) drenagem¬urbana.¬
+(E) periferização.¬
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+59 
+Um¬aparelho¬de¬ar-condicionado¬opera¬entre¬uma¬sala¬fechada¬
+e¬o¬ambiente¬externo,¬que¬está¬a¬uma¬temperatura¬maior¬que¬a¬
+da¬sala.¬A¬cada¬ciclo¬de¬operação,¬o¬ar-condicionado¬retira¬da¬
+sala¬uma¬quantidade¬de¬calor¬quatro¬vezes¬maior¬que¬o¬trabalho¬
+realizado¬pelo¬aparelho.¬Durante¬um¬certo¬intervalo¬de¬tempo,¬o¬
+aparelho¬ transfere¬ 1600¬cal¬ de¬ calor¬ da¬ sala¬ para¬ o¬ ambiente¬
+externo.¬O¬trabalho¬realizado¬pelo¬ar-condicionado¬durante¬esse¬
+intervalo¬de¬tempo¬é¬de¬
+¬
+(A) 320¬cal.¬
+(B) 400¬cal.¬
+(C) 720¬cal.¬
+(D) 1280¬cal.¬
+(E) 1600¬cal.¬
+ 
+¬
+60 
+O¬trânsito¬nas¬megacidades¬é¬considerado¬um¬problema¬para¬
+grande¬ parte¬ dos¬ seus¬ habitantes.¬ Na¬ Cidade¬ do¬ México,¬
+predomina¬ o¬ deslocamento¬ por¬ meio¬ de¬ automotores,¬
+diferentemente¬do¬que¬ocorre¬em¬Mumbai,¬uma¬península,¬e¬
+em¬São¬Paulo.¬A¬seguir,¬observe¬o¬tempo¬médio¬de¬viagem,¬
+os¬ diferentes¬ modais¬ de¬ transporte¬ e¬ a¬ densidade¬
+populacional¬urbana¬de¬cada¬uma.¬
+¬
+Tempo¬ de¬ viagem¬ nas¬ megacidades¬ e¬ composição¬ dos¬ principais¬
+meios¬de¬transporte.¬
+Paul¬Knox.¬Atlas¬das¬cidades.¬São¬Paulo:¬Sesc.¬2016.¬
+¬
+Densidade¬Populacional¬Urbana¬
+Mumbai¬
+24.073¬pessoas¬por¬km²¬
+São¬Paulo¬
+5.888¬pessoas¬por¬km²¬
+Cidade¬do¬México¬
+8.657¬pessoas¬por¬km²¬
+Demographia¬World¬Urban¬Areas¬-¬19th¬Annual¬Edition:¬August¬2023.¬
+¬
+Sobre¬ a¬ mobilidade¬ urbana¬ nas¬ megacidades,¬ é¬ correto¬
+afirmar:¬
+¬
+(A)¬O¬ tempo¬ de¬ deslocamento¬ tende¬ a¬ aumentar¬ com¬ a¬
+expansão¬da¬área¬urbana.¬
+(B)¬O¬ tempo¬ médio¬ de¬ viagem¬ em¬ Mumbai¬ é¬ menor¬ por¬
+apresentar¬maior¬área¬urbana.¬¬
+(C)¬O¬ uso¬ dos¬ transportes¬ coletivos¬ aumenta¬ o¬ tempo¬ de¬
+deslocamento¬nas¬metrópoles.¬
+(D)¬A¬ utilização¬ de¬ veículos¬ particulares¬ torna-se¬ eficiente¬
+quanto¬ao¬tempo¬de¬deslocamento.¬
+(E)¬O¬elevado¬nível¬econômico¬da¬população¬leva¬à¬utilização¬
+de¬veículos¬particulares.¬
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+
+
+--- PAGE 20 ---
+
+Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S3 
+61 
+¬
+¬
+O¬fenômeno¬representado¬na¬imagem¬refere-se¬a¬áreas¬de¬
+¬
+(A) influência¬dos¬ventos¬alísios.¬
+(B) produção¬de¬energia¬nuclear.¬
+(C) zonas¬econômicas¬especiais.¬
+(D) instabilidades¬tectônicas.¬
+(E) formação¬de¬megalópoles.¬
+ 
+¬
+62 
+¬
+¬
+É¬um¬problema¬urbano¬decorrente¬do¬fenômeno¬expresso¬no¬
+gráfico¬a¬
+¬
+(A) favelização.¬
+(B) poluição¬atmosférica.¬
+(C) crise¬hídrica.¬
+(D) inversão¬térmica.¬
+(E) movimentação¬de¬encostas.¬
+ 
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+63 
+O¬texto¬a¬seguir,¬escrito¬por¬Acauam¬Silvério¬de¬Oliveira,¬faz¬
+parte¬do¬prefácio¬do¬livro¬“Racionais¬MC’s:¬Sobrevivendo¬no¬
+inferno”¬(2018),¬de¬autoria¬do¬grupo¬de¬rap¬Racionais¬MC’s.¬
+“(...)¬ propor¬ novas¬ formas¬ de¬ sobrevivência¬ aos¬ sujeitos¬
+periféricos,¬ posicionando-se¬ ao¬ lado¬ do¬ bandido¬ (sem¬ se¬
+confundir¬com¬ele)¬ao¬mesmo¬tempo¬que¬se¬define¬enquanto¬
+marginal,¬ou¬seja,¬um¬sujeito¬destinado¬a¬morrer¬pelas¬mãos¬
+do¬ Estado,¬ mas¬ que¬ consegue¬ sobreviver¬ no¬ inferno:¬
+‘Permaneço¬ vivo,¬ prossigo¬ a¬ mística/Vinte¬ e¬ sete¬ anos¬
+contrariando¬a¬estatística’.”¬
+A¬partir¬do¬excerto,¬é¬possível¬estabelecer¬uma¬relação¬entre¬
+o¬processo¬de¬metropolização¬e¬as¬manifestações¬artísticas.¬
+Nesse¬contexto,¬é¬correto¬afirmar¬que¬o¬rap¬
+¬
+(A) popularizou-se¬na¬década¬de¬1930,¬com¬o¬rádio,¬em¬um¬
+contexto¬ de¬ violência¬ policial¬ e¬ condições¬ precárias¬ de¬
+habitação.¬
+(B) compõe¬o¬cotidiano¬da¬população¬do¬interior¬nordestino¬e¬
+apresenta-se¬de¬forma¬rimada,¬com¬versos¬que¬surgem¬na¬
+oralidade.¬
+(C) representa,¬
+em¬
+suas¬
+composições,¬
+os¬
+problemas¬
+enfrentados¬ pela¬ população¬ litorânea,¬ formando¬ um¬
+movimento¬contracultura.¬
+(D) desponta¬artisticamente¬como¬manifestação¬de¬identidade¬
+cultural¬que,¬no¬contexto¬de¬crescimento¬desordenado¬das¬
+grandes¬cidades,¬dá¬voz¬à¬população¬periférica.¬
+(E) marca,¬ como¬ mani

@@ -1,0 +1,481 @@
+
+Você é um médico professor criando questões ORIGINAIS para Revalida/Residência.
+Use o texto-base abaixo apenas como referência de tema, linguagem e estilo de prova. NÃO copie enunciados.
+Gere questões inéditas, tecnicamente corretas e com gabarito único defensável.
+
+OBJETIVO DE QUALIDADE:
+- Cada questão deve ter apenas 1 alternativa correta, sem ambiguidade.
+- As 4 alternativas erradas devem ser claramente erradas ou menos adequadas.
+- Não misture conceitos de fontes conflitantes.
+- Se houver chance razoável de 2 alternativas parecerem corretas, descarte a questão e gere outra.
+- As alternativas podem parecer próximas na primeira leitura, mas só 1 deve permanecer tecnicamente defensável ao aplicar o dado-chave do caso.
+
+DEFINIÇÃO DE DIFICULDADE:
+- Fácil: exige reconhecimento direto de conceito clássico.
+- Média: exige interpretação clínica ou aplicação objetiva de regra, em 1 ou 2 passos.
+- Difícil: exige integração de múltiplos dados, comparação fina ou decisão menos imediata.
+- Não rotule como "Média" uma questão baseada em exceção obscura, detalhe controverso ou pegadinha semântica.
+- Prefira maioria de questões em nível Médio ou Difícil. Questões fáceis devem ser minoria.
+
+REGRAS DE REDAÇÃO:
+- O enunciado deve ser claro, suficiente e tecnicamente preciso.
+- As 5 alternativas devem ser frases completas e relativamente equilibradas em tamanho.
+- Evite alternativas curtas demais, telegráficas ou obviamente descartáveis.
+- Prefira alternativas mais desenvolvidas, com contexto clínico ou conduta explícita.
+- Sempre que possível, cada alternativa deve trazer o núcleo decisório completo: diagnóstico, conduta, critério, indicação, contraindicação, tempo, via, dose ou justificativa relevante.
+- As alternativas devem ser homogêneas entre si: todas devem representar diagnóstico, ou todas conduta, ou todas classificação, e não uma mistura desses formatos.
+- Prefira distratores plausíveis, com erros sutis de indicação, prioridade, gravidade, sequência de conduta ou contexto SUS.
+- Use uma informação-pivô no enunciado para sustentar a alternativa correta.
+- Não crie "alternativas irmãs": duas opções do mesmo tronco diagnóstico ou da mesma base de conduta, separadas apenas por nuance escondida.
+- Se a pergunta for de diagnóstico, as alternativas devem competir em diagnóstico.
+- Se a pergunta for de conduta, as alternativas devem competir em conduta.
+- Evite repetir a mesma doença-base ou a mesma linha de manejo em duas opções com pequenas variações de subtipo, dose, sequência ou tratamento.
+- Evite opções compostas apenas por rótulos secos quando for possível escrever uma alternativa mais informativa.
+- Como regra prática, prefira alternativas com redação em 1 frase curta a 2 frases curtas, e não apenas 1 a 3 palavras.
+- Só use alternativas curtas do tipo "Classe III", "2º grau superficial" ou nome isolado de doença quando a própria natureza da questão exigir nomenclatura/classificação padronizada.
+- A alternativa correta não pode ser muito mais longa ou específica que as demais.
+- Evite duas alternativas quase idênticas.
+- Evite pistas formais de prova mal feita.
+
+EVITE:
+- "todas as anteriores"
+- "nenhuma das anteriores"
+- combinações do tipo "I e III"
+- negações desnecessárias ("EXCETO", "NÃO") quando puder formular positivamente
+- termos absolutos vagos como "sempre" e "nunca", salvo quando forem tecnicamente indispensáveis
+
+SE USAR TEMA DE VACINAS, CONTRAINDICAÇÕES, PRECAUÇÕES OU SITUAÇÕES ESPECIAIS:
+- Diferencie claramente contraindicação absoluta, precaução, adiamento temporário e situação que exige avaliação individualizada.
+- Não transforme precaução em contraindicação.
+- Não transforme situação especial em proibição.
+- Não misture DTP, DTPa e dTpa sem explicitar.
+
+COMENTÁRIO OBRIGATÓRIO:
+- Explique por que a correta está correta.
+- Explique brevemente por que cada uma das outras 4 está errada ou é menos adequada.
+- O comentário deve permitir auditoria do gabarito, não apenas repetir o enunciado.
+
+ANTES DE FINALIZAR CADA QUESTÃO, FAÇA ESTA CHECAGEM INTERNA:
+1. Há apenas 1 alternativa correta?
+2. Alguma errada ficou parcialmente verdadeira ou defensável?
+3. O nível de dificuldade está coerente?
+4. As alternativas estão equilibradas em tamanho e especificidade?
+5. O comentário refuta explicitamente as outras 4?
+Se qualquer resposta for "não", regenere a questão antes de responder.
+
+Retorne APENAS JSON válido, no formato:
+
+[
+  {
+    "area": "Clínica Médica | Pediatria | GO | Cirurgia | Preventiva/SUS",
+    "tema": "...",
+    "dificuldade": "Fácil | Média | Difícil",
+    "enunciado": "...",
+    "alternativas": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "gabarito": "A|B|C|D|E",
+    "comentario": "Explique por que a alternativa correta é correta e comente as armadilhas.",
+    "origin": "official_based",
+    "status": "draft",
+    "reference": "FUVEST / USP - Residência Médica - https://www.fuvest.br/wp-content/uploads/fuvest2026-fase2-dia2-prova.pdf"
+  }
+]
+
+TEXTO-BASE:
+o localizado a 45º acima da linha horizontal 
+que passa pelo centro do sonar, qual é a profundidade do objeto em relação à superfície da água? 
+c) Se o sonar detecta um objeto a uma profundidade de 170 m abaixo da superfície da água e a 30° abaixo da linha horizontal, 
+que passa pelo centro do sonar, qual é a distância do objeto até o centro do sonar? 
+ 
+ 
+ 
+M04 
+ 
+“Tudo por 50% do dobro” é uma frase bem conhecida sobre ofertas enganosas, que virou meme. Isso basicamente porque um 
+produto, após sofrer um aumento de 100%, passando a custar o dobro, precisa de um desconto de 50% para voltar ao seu 
+valor inicial, ou seja, permanecer com o valor inalterado após o reajuste seguido do desconto. Com base nessa ideia, responda: 
+ 
+a) Qual seria o percentual de desconto necessário para que um produto que foi reajustado em 50% volte ao valor original? 
+b) Admita que um produto que custa P seja reajustado em 𝑥𝑥% e, posteriormente, com um desconto de 𝑦𝑦%, volte a custar o 
+mesmo valor P. Explicite 𝑦𝑦 em função de 𝑥𝑥 no modelo apresentado, isto é, exiba o desconto 𝑦𝑦 em função do reajuste 𝑥𝑥. 
+c) Suponha que um produto tem um reajuste de 𝑚𝑚% e depois um desconto de 𝑛𝑛%, voltando a custar o valor inicial. Considere 
+que 𝑚𝑚 e 𝑛𝑛 são inteiros maiores que zero. Qual seria o menor valor de 𝑚𝑚 para que 𝑛𝑛 seja também um inteiro? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 34 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 35 ---
+
+ 
+ 
+M05 
+ 
+Deseja-se instalar uma luminária a uma certa altura do teto. A luminária está posicionada no vértice P de uma pirâmide regular 
+de base quadrada que, por sua vez, está inscrita em um cubo de lado 4 m, conforme a imagem a seguir. As projeções da 
+luminária no plano do teto e chão são representadas, respectivamente, pelos pontos R e Q, que coincidem com a intersecção 
+das diagonais dos quadrados DCGH e ABFE.  
+ 
+ 
+ 
+         Imagem sem escala 
+ 
+a) Admitindo que as arestas laterais da pirâmide medem 3 m, a qual distância a luminária está do chão?  
+b) Supondo que as arestas laterais da pirâmide formam um ângulo de 45º com o chão, qual é o comprimento, em metros, da 
+aresta lateral da pirâmide?  
+c) Considerando a projeção ortogonal do ponto P no plano do fundo do cubo, representada pelo ponto S, qual será o 
+comprimento da projeção da aresta PF no plano EFGH, se a altura PQ for de 2√2 m?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+M06 
+ 
+Considere a função real modular 𝑓𝑓(𝑥𝑥) =
+|𝑥𝑥|
+𝑑𝑑, onde 𝑑𝑑> 0 .  
+ 
+a) Quais são os pontos de interseção entre a reta 𝑦𝑦= 1 e o gráfico de 𝑓𝑓(𝑥𝑥) para 𝑑𝑑= 1? 
+b) Qual a área da região obtida à direita do eixo 𝑂𝑂𝑂𝑂, abaixo da reta 𝑦𝑦= 2 e acima do gráfico de 𝑓𝑓(𝑥𝑥) para 𝑑𝑑= 2? 
+c) Qual é a área da região formada abaixo da reta 𝑦𝑦= 𝑑𝑑 e acima do gráfico de 𝑓𝑓(𝑥𝑥)?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 36 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 37 ---
+
+
+
+--- PAGE 38 ---
+
+ 
+ 
+Q01 
+ 
+O óxido de cálcio, também conhecido como cal, tem diversas aplicações, sendo muito importante do ponto de vista econômico. 
+Além de ser uma das principais matérias primas na produção de aço e cimento, é também utilizado na agricultura para correção 
+das condições do solo, diminuindo a sua acidez. Esse óxido é produzido pela decomposição do calcário (CaCO3) que tem 
+como subproduto o CO2.  
+ 
+a) 
+Escreva a reação entre cal e água que explica seu uso na alcalinização do solo. 
+b) A produção do óxido de cálcio pode gerar impacto ambiental devido à liberação de CO2 durante a sua produção, 
+contribuindo para o aumento do efeito estufa. Considerando que a produção anual de óxido de cálcio a partir de CaCO3 
+é de 1,12 × 1010 kg, qual a quantidade de CO2, em quilograma, liberada anualmente para a atmosfera? 
+c) 
+Existe um centro na USP (RCGI – Research Centre for Greenhouse Gas Innovation), cuja pesquisa visa encontrar formas 
+de minimizar o impacto ambiental da liberação de CO2. Uma das maneiras de realizar essa minimização é utilizar o CO2 
+para gerar materiais de maior valor agregado. Do ponto de vista químico, para que isso ocorra, são necessárias estratégias 
+para aumentar a reatividade do CO2. Cite dois fatores experimentais que tornem mais efetivos os processos envolvendo 
+moléculas pouco reativas, como o CO2. Justifique sua resposta. 
+ 
+Note e adote: 
+ 
+Massas molares (g/mol): H=1, C=12, O=16, Ca=40  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q02 
+ 
+O açafrão é uma especiaria com sabor, aroma e coloração muito marcantes. Nessa especiaria estão presentes moléculas como 
+a picrocrocina, responsável pelo sabor, o safranal, responsável pelo aroma, e a crocetina, responsável pela coloração. 
+ 
+O
+O
+O
+HO
+OH
+OH
+OH
+Picrocrocina
+O
+Safranal
+HO
+O
+O
+OH
+Crocetina
+ 
+ 
+ 
+O safranal pode ser obtido por extração a partir do açafrão. Para realizar esse procedimento, uma certa quantidade de açafrão 
+seco é triturada e adicionada em um frasco e, sobre ela, é adicionada uma solução aquosa diluída de carbonato de sódio de 
+pH levemente elevado. Em seguida, um volume de n-hexano é adicionado ao mesmo frasco que, após tampado, é agitado e 
+deixado em repouso até que duas fases, uma aquosa e outra orgânica, se separem. 
+ 
+a) 
+Preencha a tabela da folha de respostas indicando qual das fases, aquosa ou orgânica, contém maior quantidade dos 
+compostos responsáveis pelo aroma e sabor. Justifique sua resposta. 
+b) Caso o procedimento de extração descrito anteriormente seja realizado utilizando apenas água ao invés de solução 
+aquosa de carbonato de sódio, qual das espécies descritas no enunciado terá sua eficiência de extração na fase aquosa 
+mais prejudicada? Justifique sua resposta. 
+c) 
+Para determinar o teor de safranal no açafrão, foi realizada uma extração a partir de 500 mg de açafrão seco gerando  
+10 mL de uma solução contendo safranal em uma concentração de 7,0×10-4 mol/L. Considerando uma eficiência de 70% 
+nesse procedimento, calcule o teor de safranal, em porcentagem de massa, no açafrão seco. 
+ 
+Note e adote: 
+ 
+Massa molar do safranal = 150 g/mol 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 39 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) 
+ 
+ 
+Compostos relativos 
+ao aroma 
+Compostos relativos 
+ao sabor 
+Fase com maior 
+quantidade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 40 ---
+
+ 
+ 
+Q03 
+ 
+Produtos que contêm íons hipoclorito (C,O-) e ácido hipocloroso (HC,O) podem ser utilizados para desinfetar ambientes. Para 
+o tratamento de piscinas também pode ser utilizado o dicloroisocianurato de sódio (estrutura representada na folha de 
+respostas), um sal que, ao ser solubilizado em água, produz ácido hipocloroso e um outro produto. 
+a) 
+Escreva a estrutura do outro produto formado nessa reação no quadro da folha de respostas. 
+Água sanitária é uma solução diluída de íons hipoclorito, gerada a partir da reação de gás cloro com íons hidróxido, formando 
+também íons cloreto e água. Apesar de o gás cloro ser tóxico, usar a água sanitária para limpeza é seguro, porém deve-se 
+tomar cuidado para não a misturar com outros agentes de limpeza, como desinfetantes a base de amoníaco ou vinagre. A 
+mistura com desinfetantes a base de amônia pode gerar cloroaminas tóxicas solúveis em água, como NC,3. 
+ 
+b) Escreva o equilíbrio de formação do íon hipoclorito a partir do gás cloro em meio básico e explique, a partir desse 
+equilíbrio, por que a adição de vinagre à água sanitária pode ser nociva à saúde. 
+c) 
+Desenhe a estrutura de Lewis da molécula de NC,3 e justifique sua solubilidade em água com base na sua geometria.  
+ 
+Note e adote:  
+ 
+Distribuição eletrônica para 
+N: 1s² 2s² 2p³ 
+C,: 1s² 2s² 2p6 3s² 3p5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q04 
+ 
+Atletas podem acompanhar o andamento de atividades físicas por meio do monitoramento da quantidade de calorias gastas. 
+A medida do número de calorias gastas é feita com base na quantidade de oxigênio consumido durante a atividade física. Além 
+disso, considera-se que toda a energia é proveniente da combustão de moléculas de glicose, de acordo com a reação C6H12O6 
++ 6O2 → 6CO2 + 6 H2O. Em termos práticos, é dito que, para obter a quantidade de calorias gastas em kcal/min, o volume de 
+oxigênio consumido em litros por minuto, em determinada temperatura e pressão, deve ser multiplicado por um valor Q. 
+ 
+a) 
+O gráfico mostra o volume de oxigênio consumido por um atleta ao longo 
+da atividade física. Considerando que o consumo máximo de oxigênio se 
+mantém aproximadamente constante durante a atividade, calcule quantos 
+mols de oxigênio esse atleta consome ao completar a corrida de rua “Volta 
+da USP” em 50 min.  
+b) Calcule a energia liberada na combustão da glicose em kcal por mol de O2 
+e obtenha o valor de Q em kcal/L.  
+c) 
+Em treinos muito intensos, pode ocorrer produção de ácido láctico, cujo 
+acúmulo leva a dores musculares. Sua produção ocorre a partir da glicose 
+segundo a reação C6H12O6 → 2C3H6O3. Com base nas entalpias de 
+formação das espécies envolvidas, calcule a variação de entalpia da 
+reação de produção de ácido lático a partir da glicose, em kcal/mol, e quantas vezes mais glicose deve ser consumida 
+para que essa reação gere a mesma quantidade de energia obtida na reação de combustão da glicose. 
+ 
+Note e adote: 
+ 
+Entalpia de combustão da glicose = - 675 kcal/mol de glicose 
+Entalpia de formação da glicose = - 300 kcal/mol de glicose 
+Entalpia de formação do ácido láctico = -160 kcal/mol de ácido láctico 
+Volume molar do O2 = 22,5 L/mol 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 41 ---
+
+ 
+ 
+ 
+a)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 42 ---
+
+Q05
+Em um momento da trilogia de filmes “De volta para o futuro”, a máquina do tempo, que é um automóvel, é abastecida com 
+restos de alimentos e uma latinha de alumínio. A possibilidade de usar alumínio como combustível em automóveis foi proposta 
+por pesquisadores da Universidade Politécnica da Catalunha. Neste caso, o automóvel seria movido pela combustão do 
+hidrogênio gerado na reação das latas de alumínio com hidróxido de sódio, de acordo com a seguinte reação balanceada:  
+2A, (s) + 2OH-(aq) + 6H2O(,) → 2 A, (OH)4-(aq) + 3H2(g).
+a)
+Escreva, no quadro da folha de respostas, o número de oxidação dos átomos de A, e H nas espécies indicadas.
+b)
+Considerando um automóvel movido a hidrogênio gerado pela reação anterior, qual massa de A,, em quilogramas, é
+necessária para produzir a mesma quantidade de energia liberada pela combustão de 57 L de etanol contidos no tanque
+de um carro convencional.
+c)
+Grande parte do custo de produção das latas de alumínio, tanto a partir de seu óxido (A,2O3), quanto por meio da
+reciclagem do A, metálico, advém dos processos de fusão desses materiais. No caso do óxido, a fusão é necessária para
+a realização da eletrólise ígnea, enquanto no caso do A, reciclado, a fusão é necessária para a remoldagem. Responda
+quais tipos de ligação química existem no alumínio e no óxido de alumínio sólidos e explique por que é necessário realizar
+a fusão do óxido de alumínio para sua eletrólise.
+Note e adote: 
+Entalpia de combustão do etanol hidratado = - 2,5 x104 kJ/L 
+Entalpia de combustão do gás hidrogênio = - 285 kJ/mol 
+Massa molar do A, = 27 g/mol 
+Q06
+O petróleo é uma mistura de hidrocarbonetos predominantemente apolares e seu derramamento 
+no oceano traz grandes prejuízos do ponto de vista ambiental e econômico. Quando há 
+derramamento, deve ser feita a contenção do material seguida pela limpeza, que pode ocorrer 
+por meio da queima controlada, autorizada no Brasil em 2017. 
+a)
+A figura mostra a queima controlada de um derramamento de petróleo. Explique o que pode
+ocorrer em uma combustão para gerar uma grande quantidade de fuligem como a exibida
+na foto.
+Outra possibilidade para a limpeza do derramamento é a remediação química, como a realizada 
+por gelificantes, que não poluem a atmosfera. Por exemplo, um derivado do manitol com cadeias 
+carbônicas laterais (R) pode atuar como gelificante. Quando uma solução aquosa dessa espécie 
+é adicionada a um meio não-aquoso, como o petróleo, ligações de hidrogênio entre as cadeias 
+do gelificante são estabelecidas, promovendo a formação do gel, conforme a representação a 
+seguir. O gel formado pode interagir com o petróleo

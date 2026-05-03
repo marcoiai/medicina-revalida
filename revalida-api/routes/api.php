@@ -3,9 +3,11 @@
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\BillingController;
 use App\Http\Controllers\QuestionController;
 use App\Http\Controllers\SimulationController;
 use App\Http\Controllers\UserController;
+use App\Http\Controllers\UsageController;
 
 Route::get('/user', function (Request $request) {
     return $request->user();
@@ -32,4 +34,10 @@ Route::middleware('auth:sanctum')->group(function () {
     Route::get('/simulations', [SimulationController::class, 'index']);
     Route::post('/simulations', [SimulationController::class, 'store']);
     Route::get('/users', [UserController::class, 'index']);
+    Route::get('/usage', [UsageController::class, 'overview']);
+    Route::post('/questions/{question}/attempt', [UsageController::class, 'attempt']);
+    Route::get('/billing/overview', [BillingController::class, 'overview']);
+    Route::post('/billing/checkout', [BillingController::class, 'checkout']);
+    Route::post('/billing/payment-sessions/{paymentSession}/confirm', [BillingController::class, 'confirm']);
+    Route::post('/billing/payment-sessions/{paymentSession}/cancel', [BillingController::class, 'cancel']);
 });
