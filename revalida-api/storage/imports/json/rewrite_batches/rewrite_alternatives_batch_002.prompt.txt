@@ -1,0 +1,1218 @@
+
+Você é um revisor técnico de questões médicas para Revalida/Residência.
+
+TAREFA:
+Reescreva somente as alternativas de cada questão abaixo.
+
+OBJETIVO:
+- melhorar alternativas curtas, telegráficas, vagas ou desequilibradas
+- tornar as alternativas mais homogêneas em extensão e formato
+- preservar tema, enunciado, eixo decisório e gabarito
+- deixar as erradas plausíveis, mas incorretas ou menos adequadas
+- evitar alternativas caricatas ou obviamente descartáveis
+
+REGRAS CRÍTICAS:
+- NÃO altere o enunciado
+- NÃO altere o gabarito
+- NÃO mude o tema central da questão
+- NÃO invente detalhe técnico não sustentado pelo enunciado
+- mantenha todas as alternativas na mesma categoria lógica
+- evite rótulos secos quando for possível escrever algo mais informativo
+- a alternativa correta não pode ficar nitidamente mais longa ou mais específica que as demais
+- se a reescrita segura não for possível, marque `rewrite_status` como `manual_review`
+
+FORMATO DE SAÍDA:
+Responda APENAS com JSON válido, no formato:
+[
+  {
+    "id": 123,
+    "rewrite_status": "rewritten",
+    "rewrite_version": 1,
+    "rewritten_alternatives": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "answer_changed": false,
+    "risk_flags": [],
+    "rewrite_notes": [
+      "frase curta explicando a reescrita"
+    ]
+  }
+]
+
+QUESTÕES:
+[
+  {
+    "id": 5716,
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia - Doenças da Tireoide",
+    "dificuldade": "Fácil",
+    "enunciado": "Mulher, 55 anos, queixa-se de fadiga, ganho de peso, constipação e intolerância ao frio nos últimos meses. Ao exame físico, apresenta pele seca, bradicardia (FC 55 bpm) e reflexos lentificados. Exames laboratoriais: TSH 12,5 mUI/mL; T4 Livre 0,7 ng/dL. Qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Hipertireoidismo subclínico.",
+      "B": "Hipotireoidismo primário.",
+      "C": "Hipotireoidismo secundário.",
+      "D": "Tireotoxicose.",
+      "E": "Síndrome do eutiroidiano doente."
+    },
+    "gabarito": "B",
+    "original_comment": "Os sintomas clínicos (fadiga, ganho de peso, constipação, intolerância ao frio, pele seca, bradicardia) são clássicos de hipotireoidismo. Os exames laboratoriais mostram TSH elevado (12,5 mUI/mL, referência 0,45 a 4,5 mUI/mL) e T4 Livre baixo (0,7 ng/dL, referência 0,9 a 1,8 ng/dL). Esta combinação é diagnóstica de hipotireoidismo primário, onde a tireoide não produz hormônios suficientes, levando a um aumento compensatório do TSH pela hipófise.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 1,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 28,
+        "B": 25,
+        "C": 27,
+        "D": 14,
+        "E": 32
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5726,
+    "area": "Clínica Médica",
+    "tema": "Semiologia da Dor: Definições",
+    "dificuldade": "Fácil",
+    "enunciado": "Um paciente com neuropatia diabética relata que o simples toque de um lençol em sua perna causa dor intensa, mesmo que o estímulo não seja normalmente doloroso. Este fenômeno é conhecido como:",
+    "original_alternatives": {
+      "A": "Hiperalgesia.",
+      "B": "Disestesia.",
+      "C": "Parestesia.",
+      "D": "Alodinia.",
+      "E": "Anestesia dolorosa."
+    },
+    "gabarito": "D",
+    "original_comment": "Alodinia é definida como dor devido a um estímulo que normalmente não causaria dor. Hiperalgesia (A) é um aumento da dor em resposta a um estímulo que é normalmente doloroso. Disestesia (B) é uma sensação anormal e desagradável, espontânea ou evocada. Parestesia (C) é uma sensação anormal, geralmente formigamento ou dormência, não necessariamente desagradável e não dolorosa. Anestesia dolorosa (E) é a dor em uma área anestésica.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 13,
+        "B": 11,
+        "C": 11,
+        "D": 9,
+        "E": 19
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5733,
+    "area": "Clínica Médica",
+    "tema": "Neurologia - Cefaleias - Migrânea",
+    "dificuldade": "Média",
+    "enunciado": "Mulher de 32 anos procura atendimento com queixa de cefaleia pulsátil unilateral, de intensidade moderada a grave, associada a náuseas e fotofobia, ocorrendo cerca de 8 a 10 dias por mês nos últimos 6 meses. Ela já tentou analgésicos comuns e triptanos para as crises, com melhora parcial. Qual das seguintes medicações orais é considerada de primeira linha para a profilaxia da migrânea episódica de alta frequência ou crônica?",
+    "original_alternatives": {
+      "A": "Sumatriptano",
+      "B": "Topiramato",
+      "C": "Pregabalina",
+      "D": "Ondansetrona",
+      "E": "Metoclopramida"
+    },
+    "gabarito": "B",
+    "original_comment": "O Topiramato é um anticonvulsivante que, juntamente com o Propranolol (um betabloqueador) e a Amitriptilina (um antidepressivo tricíclico), é considerado de primeira linha para a profilaxia da migrânea, especialmente em casos de alta frequência ou crônica. Sumatriptano é um triptano, utilizado para tratamento agudo da crise, não para profilaxia. Pregabalina é um gabapentinoide usado para dor neuropática e fibromialgia, mas não é de primeira linha para profilaxia da migrânea. Ondansetrona e Metoclopramida são antieméticos, usados para sintomas associados à migrânea, mas não para a prevenção das crises.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 12,
+        "B": 10,
+        "C": 11,
+        "D": 12,
+        "E": 14
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5776,
+    "area": "Pediatria",
+    "tema": "Anemia na Infância",
+    "dificuldade": "Fácil",
+    "enunciado": "Um bebê de 5 meses de idade é levado à consulta de rotina. A mãe relata que a criança está mais pálida e com menor apetite nos últimos dias. O hemograma revela Hb de 9,0 g/dL. De acordo com os valores de referência, como essa hemoglobina deve ser classificada?",
+    "original_alternatives": {
+      "A": "Normal para a idade.",
+      "B": "Anemia leve.",
+      "C": "Anemia moderada.",
+      "D": "Anemia grave.",
+      "E": "Pseudonemia fisiológica."
+    },
+    "gabarito": "C",
+    "original_comment": "Os valores de referência de Hb para crianças de 2 a 6 meses são de 9,5 a 13,5 g/dL. Uma Hb de 9,0 g/dL está abaixo do limite inferior normal. Anemia é definida como Hb abaixo do limite inferior para a idade. Para esta faixa etária, uma Hb entre 8,0-9,4 g/dL é classificada como anemia moderada, enquanto Hb entre 9,5-10,9 g/dL seria leve, e abaixo de 8,0 g/dL grave. Portanto, 9,0 g/dL configura anemia moderada.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 4,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 20,
+        "B": 12,
+        "C": 16,
+        "D": 13,
+        "E": 24
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5807,
+    "area": "Pediatria",
+    "tema": "Crescimento e Desenvolvimento",
+    "dificuldade": "Fácil",
+    "enunciado": "Um bebê de 6 meses de idade é levado à consulta de puericultura. A mãe relata que a criança já senta com apoio, rola e tenta pegar objetos. Ela também já balbucia 'mama' e 'papa' de forma inespecífica. Qual dos seguintes marcos do desenvolvimento motor grosso é esperado para esta idade, mas ainda não foi atingido pela criança?",
+    "original_alternatives": {
+      "A": "Sustentar a cabeça.",
+      "B": "Rolar da posição de bruços para as costas.",
+      "C": "Sentar sem apoio.",
+      "D": "Engatinhar.",
+      "E": "Andar com apoio."
+    },
+    "gabarito": "C",
+    "original_comment": "Aos 6 meses, a maioria dos bebês já sustenta a cabeça (A), rola (B) e tenta pegar objetos. Balbuciar 'mama' e 'papa' também é esperado. Sentar sem apoio (C) é um marco esperado por volta dos 6-8 meses, e a criança da questão senta 'com apoio', indicando que este marco ainda não foi atingido. Engatinhar (D) e andar com apoio (E) são marcos que geralmente ocorrem mais tarde, por volta dos 8-10 meses e 9-12 meses, respectivamente.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 8,
+        "C": 3,
+        "D": 1,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 19,
+        "B": 42,
+        "C": 17,
+        "D": 11,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5817,
+    "area": "Clínica Médica",
+    "tema": "Etiologia e diagnóstico de pancreatite aguda",
+    "dificuldade": "Fácil",
+    "enunciado": "Homem, 45 anos, etilista crônico, é admitido no pronto-socorro com dor abdominal epigástrica intensa, irradiando para o dorso, acompanhada de náuseas e vômitos. Ao exame físico, apresenta dor à palpação epigástrica. Exames laboratoriais mostram amilase e lipase séricas elevadas em mais de três vezes o limite superior da normalidade. Qual a causa mais provável de pancreatite aguda neste paciente?",
+    "original_alternatives": {
+      "A": "Hipertrigliceridemia.",
+      "B": "Cálculos biliares.",
+      "C": "Álcool.",
+      "D": "Pós-CPRE.",
+      "E": "Idiopática."
+    },
+    "gabarito": "C",
+    "original_comment": "A etiologia mais comum de pancreatite aguda é a biliar (cálculos biliares), seguida pelo consumo excessivo de álcool. Dado o histórico de etilismo crônico do paciente e a apresentação clínica clássica de pancreatite aguda, o álcool é a causa mais provável neste caso. Hipertrigliceridemia (A) é uma causa, mas menos comum que álcool ou cálculos. Cálculos biliares (B) seriam uma forte suspeita se não houvesse o histórico de etilismo, mas a questão foca no fator mais provável *neste paciente*. Pós-CPRE (D) é uma causa iatrogênica e não se aplica aqui. Idiopática (E) é um diagnóstico de exclusão.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 2,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 21,
+        "B": 18,
+        "C": 7,
+        "D": 9,
+        "E": 11
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5821,
+    "area": "Clínica Médica",
+    "tema": "Giardíase",
+    "dificuldade": "Fácil",
+    "enunciado": "Um homem de 30 anos, retornando de uma viagem para uma área rural com saneamento precário, procura atendimento médico com queixas de diarreia aquosa, esteatorreia, flatulência, cólicas abdominais e perda de peso há 3 semanas. Nega febre ou sangue nas fezes. O exame parasitológico de fezes é solicitado. Qual o agente etiológico mais provável, considerando a história clínica?",
+    "original_alternatives": {
+      "A": "Ascaris lumbricoides.",
+      "B": "Entamoeba histolytica.",
+      "C": "Schistosoma mansoni.",
+      "D": "Giardia lamblia.",
+      "E": "Strongyloides stercoralis."
+    },
+    "gabarito": "D",
+    "original_comment": "O quadro clínico de diarreia aquosa, esteatorreia, flatulência, cólicas abdominais e perda de peso, sem febre ou sangue nas fezes, após viagem para área com saneamento precário, é altamente sugestivo de giardíase, causada pela Giardia lamblia. Ascaris lumbricoides (A) causa sintomas mais relacionados a obstrução ou migração. Entamoeba histolytica (B) tipicamente causa disenteria (fezes com sangue e muco). Schistosoma mansoni (C) causa esquistossomose, com sintomas mais crônicos e hepatoesplênicos na fase avançada. Strongyloides stercoralis (E) pode causar dor abdominal e diarreia, mas a esteatorreia e flatulência proeminentes são mais características da giardíase.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 21,
+        "B": 22,
+        "C": 20,
+        "D": 16,
+        "E": 26
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5824,
+    "area": "Clínica Médica",
+    "tema": "Tireoidopatias",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma mulher de 48 anos procura atendimento médico com queixas de fadiga, ganho de peso inexplicável (5 kg em 6 meses), constipação, pele seca e intolerância ao frio. Nega uso de medicamentos contínuos. Exames laboratoriais recentes revelam TSH de 12,5 mUI/mL (VR: 0,45 a 4,5 mUI/mL) e T4 Livre de 0,7 ng/dL (VR: 0,9 a 1,8 ng/dL). Qual o diagnóstico mais provável para este quadro clínico e laboratorial?",
+    "original_alternatives": {
+      "A": "Hipertireoidismo subclínico.",
+      "B": "Hipertireoidismo primário.",
+      "C": "Hipotireoidismo primário.",
+      "D": "Hipotireoidismo secundário.",
+      "E": "Tireoidite subaguda."
+    },
+    "gabarito": "C",
+    "original_comment": "O paciente apresenta sintomas clássicos de hipotireoidismo (fadiga, ganho de peso, constipação, pele seca, intolerância ao frio). Os exames laboratoriais mostram TSH elevado (12,5 mUI/mL) e T4 Livre baixo (0,7 ng/dL). Esta combinação é diagnóstica de hipotireoidismo primário, onde a glândula tireoide não produz hormônios suficientes, levando a um aumento compensatório do TSH pela hipófise. As outras opções são incorretas: hipertireoidismo teria TSH baixo e T4L alto; hipotireoidismo subclínico teria TSH elevado com T4L normal; hipotireoidismo secundário teria TSH baixo ou normal com T4L baixo.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 28,
+        "B": 26,
+        "C": 25,
+        "D": 27,
+        "E": 20
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5835,
+    "area": "Clínica Médica | Infectologia",
+    "tema": "Esquistossomose Mansônica - Complicações",
+    "dificuldade": "Difícil",
+    "enunciado": "Paciente de 60 anos, com história pregressa de esquistossomose mansônica crônica, apresenta queixas de ascite, edema de membros inferiores e varizes esofágicas de grande calibre com história de sangramento prévio. A ultrassonografia abdominal revela fibrose periportal de Symmers e esplenomegalia acentuada. Qual a principal complicação da esquistossomose mansônica que justifica este quadro clínico?",
+    "original_alternatives": {
+      "A": "Hipertensão arterial pulmonar.",
+      "B": "Glomerulonefrite esquistossomótica.",
+      "C": "Hipertensão portal.",
+      "D": "Mielopatia esquistossomótica.",
+      "E": "Obstrução intestinal por granulomas."
+    },
+    "gabarito": "C",
+    "original_comment": "A fibrose periportal de Symmers é a lesão patognomônica da esquistossomose mansônica crônica na forma hepatoesplênica, levando à obstrução do fluxo sanguíneo na veia porta e consequente hipertensão portal. Esta, por sua vez, causa ascite, esplenomegalia e formação de varizes esofágicas, que podem sangrar. As outras alternativas são complicações possíveis da esquistossomose, mas não justificam o quadro clínico completo apresentado.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 30,
+        "B": 35,
+        "C": 19,
+        "D": 29,
+        "E": 36
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5840,
+    "area": "Clínica Médica | Endocrinologia",
+    "tema": "Interpretação de Exames Tireoidianos",
+    "dificuldade": "Média",
+    "enunciado": "Uma paciente de 35 anos, sexo feminino, refere cansaço, lentidão e ganho de peso progressivo nos últimos 6 meses. Seus exames laboratoriais mostram TSH = 7,5 mUI/mL e T4 Livre = 0,9 ng/dL. Com base nos valores de referência fornecidos na tabela (TSH de 20 a 60 anos = 0,45 a 4,5 mUI/mL; T4 Livre = 0,9 a 1,8 ng/dL), qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Hipertireoidismo primário.",
+      "B": "Hipotireoidismo subclínico.",
+      "C": "Hipotireoidismo primário manifesto.",
+      "D": "Hipotireoidismo central.",
+      "E": "Eutireoidismo."
+    },
+    "gabarito": "B",
+    "original_comment": "O diagnóstico de hipotireoidismo subclínico é caracterizado por níveis elevados de TSH (acima do limite superior da normalidade, que é 4,5 mUI/mL para essa faixa etária) com níveis de T4 Livre dentro da faixa de normalidade (0,9 a 1,8 ng/dL). A paciente apresenta TSH de 7,5 mUI/mL e T4 Livre de 0,9 ng/dL, que se encaixam perfeitamente nesse critério. O hipotireoidismo primário manifesto teria TSH elevado e T4 Livre baixo. Hipertireoidismo teria TSH baixo e T4 Livre elevado. Hipotireoidismo central teria TSH baixo/normal e T4 Livre baixo. Eutireoidismo teria ambos dentro da normalidade.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 3,
+        "D": 2,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 26,
+        "B": 27,
+        "C": 35,
+        "D": 24,
+        "E": 14
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5845,
+    "area": "Preventiva/SUS",
+    "tema": "Bioestatística - Número Necessário para Tratar (NNT)",
+    "dificuldade": "Média",
+    "enunciado": "Um novo estudo randomizado e controlado avaliou a eficácia de um programa de exercícios físicos para reduzir a incidência de quedas em idosos. No grupo intervenção (programa de exercícios), a incidência de quedas foi de 10% em um ano. No grupo controle (cuidados habituais), a incidência foi de 15% no mesmo período. Qual é, aproximadamente, o Número Necessário para Tratar (NNT) para prevenir uma queda nesse grupo de idosos?",
+    "original_alternatives": {
+      "A": "NNT = 0,05",
+      "B": "NNT = 5",
+      "C": "NNT = 10",
+      "D": "NNT = 20",
+      "E": "NNT = 33"
+    },
+    "gabarito": "D",
+    "original_comment": "O NNT (Número Necessário para Tratar) é calculado como o inverso da Redução do Risco Absoluto (RRA).\n    *   Incidência no grupo controle (IC) = 15% = 0,15\n    *   Incidência no grupo intervenção (II) = 10% = 0,10\n    *   RRA = IC - II = 0,15 - 0,10 = 0,05 ou 5%\n    *   NNT = 1 / RRA = 1 / 0,05 = 20.\n    Isso significa que é necessário tratar 20 idosos com o programa de exercícios para prevenir uma queda. As armadilhas incluem erros de cálculo ou confusão com outros conceitos estatísticos.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 10,
+        "B": 7,
+        "C": 8,
+        "D": 8,
+        "E": 8
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5864,
+    "area": "Clínica Médica",
+    "tema": "Pancreatite Aguda",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 48 anos é admitido com dor abdominal epigástrica intensa, irradiando para o dorso, náuseas e vômitos. Exames laboratoriais revelam amilase 1200 UI/L (VR: 28-100 UI/L) e lipase 800 UI/L (VR: <60 UI/L). A ultrassonografia abdominal mostra colelitíase e dilatação discreta do ducto biliar comum. Qual a etiologia mais provável da pancreatite aguda neste caso?",
+    "original_alternatives": {
+      "A": "Hipertrigliceridemia.",
+      "B": "Alcoólica.",
+      "C": "Biliar.",
+      "D": "Medicamentosa.",
+      "E": "Autoimune."
+    },
+    "gabarito": "C",
+    "original_comment": "A colelitíase é a causa mais comum de pancreatite aguda, especialmente quando há dilatação do ducto biliar comum, sugerindo a passagem de cálculo. A elevação de amilase e lipase confirma o diagnóstico de pancreatite. Embora o álcool seja uma causa comum, a presença de colelitíase na USG torna a etiologia biliar a mais provável. Hipertrigliceridemia seria considerada se os níveis de triglicerídeos estivessem muito elevados (>1000 mg/dL). Causas medicamentosas e autoimunes são menos frequentes e não há elementos no caso que as sugiram primariamente.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 21,
+        "B": 10,
+        "C": 7,
+        "D": 14,
+        "E": 10
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5881,
+    "area": "Clínica Médica | Cirurgia",
+    "tema": "Pancreatite Aguda Grave - Necrose Infectada",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 55 anos é internado com pancreatite aguda grave de etiologia biliar. No 14º dia de internação, ele desenvolve febre persistente (39°C), leucocitose progressiva, dor abdominal intensa e localizada no andar superior do abdome, e piora do estado geral. A tomografia computadorizada (TC) de abdome com contraste revela uma grande coleção peripancreática heterogênea, com áreas de gás no seu interior e densidade sugestiva de necrose tecidual. Qual o diagnóstico mais provável para essa complicação?",
+    "original_alternatives": {
+      "A": "Pseudocisto pancreático.",
+      "B": "Necrose pancreática estéril.",
+      "C": "Abscesso pancreático.",
+      "D": "Necrose pancreática infectada.",
+      "E": "Coleção líquida aguda peripancreática."
+    },
+    "gabarito": "D",
+    "original_comment": "O quadro clínico de febre persistente, leucocitose, piora da dor abdominal e do estado geral em um paciente com pancreatite aguda grave, após a segunda semana de evolução, levanta forte suspeita de infecção da necrose. A presença de gás no interior da coleção peripancreática na TC é um sinal patognomônico de necrose pancreática infectada. Um pseudocisto pancreático (Alternativa A) geralmente é uma coleção bem definida, homogênea e estéril, que se forma após 4 semanas. A necrose pancreática estéril (Alternativa B) não apresentaria sinais de infecção sistêmica ou gás na TC. Um abscesso pancreático (Alternativa C) é uma coleção purulenta bem encapsulada, que também é uma forma de necrose infectada, mas o termo 'necrose pancreática infectada' é mais abrangente e descreve melhor o achado de necrose com sinais de infecção. Coleção líquida aguda peripancreática (Alternativa E) é uma complicação precoce, homogênea e geralmente estéril, sem as características de infecção e necrose descritas.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 2,
+        "D": 3,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 24,
+        "B": 28,
+        "C": 21,
+        "D": 30,
+        "E": 38
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5890,
+    "area": "Pediatria",
+    "tema": "Anemia em Crianças - Diagnóstico",
+    "dificuldade": "Média",
+    "enunciado": "Mãe leva seu filho de 18 meses para consulta de puericultura. A criança apresenta palidez cutâneo-mucosa discreta e refere cansaço fácil. Alimentação rica em carboidratos e pobre em carnes. Hemograma revela: Hb 10,2 g/dL; VCM 72 fL; HCM 24 pg; RDW 16%. Qual o diagnóstico mais provável para este quadro?",
+    "original_alternatives": {
+      "A": "Anemia ferropriva.",
+      "B": "Anemia falciforme.",
+      "C": "Talassemia minor.",
+      "D": "Anemia de doença crônica.",
+      "E": "Anemia megaloblástica."
+    },
+    "gabarito": "A",
+    "original_comment": "Os valores de referência de Hb para crianças de 6 meses a 2 anos são de 11 a 14 g/dL. O paciente apresenta Hb de 10,2 g/dL, caracterizando anemia. Os índices hematimétricos (VCM 72 fL e HCM 24 pg) indicam anemia microcítica e hipocrômica. O RDW de 16% (elevado, valor de referência 11-14%) sugere anisocitose, que é característico da anemia ferropriva, uma anemia microcítica e hipocrômica comum em crianças, especialmente com dieta inadequada. Anemia falciforme e talassemia minor também são microcíticas, mas o quadro clínico e o RDW são mais sugestivos de ferropriva, que é mais prevalente. Anemia de doença crônica é geralmente normocítica/normocrômica ou microcítica leve. Anemia megaloblástica é macrocítica.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 4,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 18,
+        "C": 17,
+        "D": 25,
+        "E": 22
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5898,
+    "area": "Clínica Médica",
+    "tema": "Doença de Wilson, tratamento",
+    "dificuldade": "Média",
+    "enunciado": "Um jovem de 22 anos foi diagnosticado com Doença de Wilson, apresentando disfunção hepática, anéis de Kayser-Fleischer e sintomas neurológicos leves. Após a confirmação diagnóstica, qual a terapia de primeira linha para este paciente sintomático?",
+    "original_alternatives": {
+      "A": "Restrição dietética de cobre e suplementação de zinco.",
+      "B": "Transplante hepático.",
+      "C": "D-penicilamina.",
+      "D": "Trientina.",
+      "E": "Corticosteroides e imunossupressores."
+    },
+    "gabarito": "C",
+    "original_comment": "A Doença de Wilson é um distúrbio genético do metabolismo do cobre, levando ao acúmulo excessivo em diversos órgãos. O tratamento visa remover o excesso de cobre do corpo e prevenir seu re-acúmulo. A D-penicilamina é um agente quelante de cobre e é a terapia de primeira linha mais utilizada para pacientes sintomáticos, especialmente aqueles com manifestações neurológicas ou hepáticas significativas, devido à sua eficácia em quelar o cobre e promover sua excreção urinária. A Trientina (D) é uma alternativa para pacientes intolerantes à D-penicilamina. A suplementação de zinco (A) é usada para manutenção ou em pacientes assintomáticos, pois impede a absorção intestinal de cobre. O transplante hepático (B) é reservado para casos de insuficiência hepática aguda ou cirrose descompensada refratária ao tratamento clínico. Corticosteroides e imunossupressores (E) não têm papel na Doença de Wilson.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 8,
+        "B": 2,
+        "C": 1,
+        "D": 1,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 54,
+        "B": 21,
+        "C": 15,
+        "D": 10,
+        "E": 37
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5906,
+    "area": "Clínica Médica",
+    "tema": "Distúrbios da tireoide",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma paciente de 45 anos apresenta queixas de cansaço, ganho de peso, constipação e pele seca. Exames laboratoriais revelam TSH: 8,2 mUI/mL e T4 Livre: 0,7 ng/dL. Qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Hipertireoidismo primário.",
+      "B": "Hipotireoidismo primário.",
+      "C": "Hipotireoidismo secundário.",
+      "D": "Tireoidite subaguda.",
+      "E": "Doença de Graves."
+    },
+    "gabarito": "B",
+    "original_comment": "Os valores de referência para TSH (20 a 60 anos) são de 0,45 a 4,5 mUI/mL e para T4 Livre de 0,9 a 1,8 ng/dL. A paciente apresenta TSH elevado (8,2 mUI/mL) e T4 Livre baixo (0,7 ng/dL). Esta combinação laboratorial, juntamente com os sintomas clínicos (cansaço, ganho de peso, constipação, pele seca), é classicamente diagnóstica de hipotireoidismo primário. No hipotireoidismo primário, a glândula tireoide não produz hormônios tireoidianos suficientes, levando ao aumento compensatório do TSH pela hipófise. Hipertireoidismo primário teria TSH baixo e T4 Livre alto. Hipotireoidismo secundário teria TSH baixo ou normal-baixo e T4 Livre baixo. Tireoidite subaguda e Doença de Graves são causas de disfunção tireoidiana, mas a apresentação laboratorial e clínica descrita aponta para hipotireoidismo primário.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 26,
+        "B": 25,
+        "C": 27,
+        "D": 20,
+        "E": 17
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5950,
+    "area": "Pediatria",
+    "tema": "Transtorno Alimentar Restritivo/Evitativo (TARE) - Diagnóstico Diferencial",
+    "dificuldade": "Média",
+    "enunciado": "Um adolescente de 14 anos é levado ao gastroenterologista pediátrico devido a uma história de dor abdominal crônica, náuseas e vômitos que se intensificaram nos últimos 6 meses, levando a uma perda de peso significativa. Ele relata que passou a evitar muitos alimentos por medo de que eles causem dor ou vômito, resultando em uma dieta extremamente restritiva. Nega qualquer preocupação com a imagem corporal ou peso. Exames complementares (endoscopia, colonoscopia, testes de alergia) foram todos negativos. Qual o diagnóstico diferencial mais provável para a restrição alimentar neste caso?",
+    "original_alternatives": {
+      "A": "Anorexia Nervosa.",
+      "B": "Bulimia Nervosa.",
+      "C": "Transtorno Alimentar Restritivo/Evitativo (TARE).",
+      "D": "Transtorno de Ruminação.",
+      "E": "Fobia alimentar específica."
+    },
+    "gabarito": "C",
+    "original_comment": "O caso descreve um quadro de restrição alimentar significativa e perda de peso, motivado pelo medo de consequências aversivas (dor, vômito) após uma experiência gastrointestinal, e sem preocupação com peso ou imagem corporal. Essa descrição é clássica do Transtorno Alimentar Restritivo/Evitativo (TARE). A Anorexia Nervosa (A) e Bulimia Nervosa (B) envolvem uma preocupação central com peso, forma corporal e medo de engordar, que estão ausentes no caso. O Transtorno de Ruminação (D) envolve a regurgitação e re-mastigação de alimentos. Embora o medo de alimentos possa ser considerado uma 'fobia alimentar' (E), TARE é o diagnóstico mais abrangente e adequado para o padrão de restrição alimentar que resulta em falha em atender às necessidades nutricionais ou psicossociais.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 4,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 16,
+        "C": 49,
+        "D": 24,
+        "E": 27
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5971,
+    "area": "Pediatria",
+    "tema": "Transtorno Alimentar Restritivo Evitativo (TARE)",
+    "dificuldade": "Média",
+    "enunciado": "Clara, 6 anos, é levada ao pediatra devido à sua recusa persistente em comer uma variedade adequada de alimentos. Desde a introdução alimentar, ela sempre foi 'seletiva', mas nos últimos meses, a restrição se intensificou. Ela se recusa a comer alimentos de certas texturas (especialmente purês e alimentos úmidos), cores específicas ou que tenham sido preparados de forma diferente da habitual. Seus pais relatam que ela tem medo de engasgar ou vomitar, e essa aversão tem levado a uma perda de peso significativa e deficiências nutricionais, necessitando de suplementação. Ela não demonstra preocupação com a imagem corporal ou o peso. Qual é o diagnóstico mais provável para Clara?",
+    "original_alternatives": {
+      "A": "Anorexia Nervosa (AN)",
+      "B": "Bulimia Nervosa (BN)",
+      "C": "Transtorno Alimentar Restritivo Evitativo (TARE)",
+      "D": "Pica",
+      "E": "Transtorno de Ruminação"
+    },
+    "gabarito": "C",
+    "original_comment": "A alternativa C está correta. O quadro de Clara se encaixa perfeitamente nos critérios do Transtorno Alimentar Restritivo Evitativo (TARE). Este transtorno é caracterizado por uma perturbação da alimentação ou da ingestão de alimentos (p. ex., evitação ou restrição da ingestão de alimentos) manifestada por incapacidade persistente de satisfazer necessidades nutricionais ou energéticas apropriadas. Isso pode ser devido à falta de interesse em comer, evitação baseada nas características sensoriais do alimento (textura, cor, cheiro) ou preocupações aversivas sobre as consequências de comer (medo de engasgar, vomitar). No caso de Clara, a aversão a texturas e o medo de engasgar, associados à perda de peso e deficiências nutricionais, são marcadores claros de TARE. A ausência de preocupação com a imagem corporal ou o peso diferencia o TARE da Anorexia Nervosa (A), que tem como característica central o medo intenso de ganhar peso. Bulimia Nervosa (B) envolve episódios de compulsão alimentar seguidos de comportamentos compensatórios. Pica (D) é a ingestão de substâncias não nutritivas. Transtorno de Ruminação (E) envolve a regurgitação repetida de alimentos.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 5,
+        "D": 1,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 21,
+        "B": 20,
+        "C": 48,
+        "D": 4,
+        "E": 23
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 5995,
+    "area": "Clínica Médica",
+    "tema": "Insuficiência Cardíaca Avançada | Hemodinâmica",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente com insuficiência cardíaca crônica é internado com dispneia progressiva e edema de membros inferiores. O cateterismo cardíaco direito revela os seguintes parâmetros: Débito Cardíaco (DC): 1.8 L/min, Pressão Capilar Pulmonar (PCP): 26 mmHg, Pressão Venosa Central (PVC): 16 mmHg, Índice Cardíaco (IC): 1.7 L/min/m². Com base nesses dados hemodinâmicos, qual é a classificação de Forrester mais apropriada para este paciente?",
+    "original_alternatives": {
+      "A": "Quente e seco",
+      "B": "Quente e úmido",
+      "C": "Frio e seco",
+      "D": "Frio e úmido",
+      "E": "Compensado"
+    },
+    "gabarito": "D",
+    "original_comment": "A classificação de Forrester para pacientes com insuficiência cardíaca aguda baseia-se no Índice Cardíaco (IC) e na Pressão Capilar Pulmonar (PCP). Um IC < 2.2 L/min/m² indica baixo débito cardíaco ('frio'), enquanto uma PCP > 18 mmHg indica congestão ('úmido'). Neste caso, IC de 1.7 L/min/m² (frio) e PCP de 26 mmHg (úmido) classificam o paciente como 'Frio e úmido', indicando hipoperfusão e congestão.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 13,
+        "B": 14,
+        "C": 11,
+        "D": 12,
+        "E": 10
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6000,
+    "area": "Clínica Médica",
+    "tema": "Hemodinâmica | Parâmetros Cardíacos",
+    "dificuldade": "Fácil",
+    "enunciado": "O Índice Cardíaco (IC) é um parâmetro hemodinâmico que reflete o débito cardíaco ajustado pela área de superfície corporal. Um valor de IC < 2.2 L/min/m² em um paciente com insuficiência cardíaca geralmente indica:",
+    "original_alternatives": {
+      "A": "Hiperdinamia circulatória",
+      "B": "Perfusão tecidual adequada",
+      "C": "Hipoperfusão tecidual (estado de baixo débito)",
+      "D": "Congestão pulmonar isolada",
+      "E": "Sobrecarga volêmica significativa"
+    },
+    "gabarito": "C",
+    "original_comment": "Um Índice Cardíaco (IC) inferior a 2.2 L/min/m² é classicamente associado a um estado de baixo débito cardíaco, ou 'hipoperfusão tecidual', indicando que o coração não está bombeando sangue suficiente para atender às demandas metabólicas do corpo. Este estado é frequentemente referido como 'frio' na classificação de Forrester. As outras opções representam condições hemodinâmicas diferentes ou são inconsistentes com um IC baixo.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 6,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 25,
+        "B": 26,
+        "C": 46,
+        "D": 26,
+        "E": 33
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  }
+]

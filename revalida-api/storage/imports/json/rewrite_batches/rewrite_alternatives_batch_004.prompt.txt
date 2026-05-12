@@ -1,0 +1,1218 @@
+
+Você é um revisor técnico de questões médicas para Revalida/Residência.
+
+TAREFA:
+Reescreva somente as alternativas de cada questão abaixo.
+
+OBJETIVO:
+- melhorar alternativas curtas, telegráficas, vagas ou desequilibradas
+- tornar as alternativas mais homogêneas em extensão e formato
+- preservar tema, enunciado, eixo decisório e gabarito
+- deixar as erradas plausíveis, mas incorretas ou menos adequadas
+- evitar alternativas caricatas ou obviamente descartáveis
+
+REGRAS CRÍTICAS:
+- NÃO altere o enunciado
+- NÃO altere o gabarito
+- NÃO mude o tema central da questão
+- NÃO invente detalhe técnico não sustentado pelo enunciado
+- mantenha todas as alternativas na mesma categoria lógica
+- evite rótulos secos quando for possível escrever algo mais informativo
+- a alternativa correta não pode ficar nitidamente mais longa ou mais específica que as demais
+- se a reescrita segura não for possível, marque `rewrite_status` como `manual_review`
+
+FORMATO DE SAÍDA:
+Responda APENAS com JSON válido, no formato:
+[
+  {
+    "id": 123,
+    "rewrite_status": "rewritten",
+    "rewrite_version": 1,
+    "rewritten_alternatives": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "answer_changed": false,
+    "risk_flags": [],
+    "rewrite_notes": [
+      "frase curta explicando a reescrita"
+    ]
+  }
+]
+
+QUESTÕES:
+[
+  {
+    "id": 6223,
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia / Pancreatite Aguda",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 40 anos, obesa, procura o PS com dor intensa em hipocôndrio direito, irradiando para o dorso, acompanhada de náuseas e vômitos. Nega icterícia. Exames laboratoriais mostram: Amilase 250 UI/L (VR: 28 a 100 UI/L), Lipase 180 UI/L (VR: inferior a 60 UI/L), TGO/AST 60 UI/L, TGP/ALT 75 UI/L, Bilirrubina total 0,9 mg/dL. Qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Colecistite aguda.",
+      "B": "Pancreatite aguda.",
+      "C": "Hepatite aguda viral.",
+      "D": "Gastrite aguda.",
+      "E": "Colangite aguda."
+    },
+    "gabarito": "B",
+    "original_comment": "A elevação significativa da amilase e lipase (pelo menos 3 vezes o limite superior da normalidade, que é o caso aqui) em um contexto de dor abdominal aguda em faixa, irradiando para o dorso, náuseas e vômitos, é altamente sugestiva de pancreatite aguda. A colecistite aguda (A) causaria dor semelhante, mas sem elevação tão marcada de amilase/lipase. Hepatite aguda (C) teria elevação muito maior das transaminases. Gastrite (D) geralmente não tem dor tão intensa ou elevação de enzimas. Colangite aguda (E) apresentaria febre, icterícia e elevação de enzimas de colestase (FA, GGT, bilirrubina direta).",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 3,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 18,
+        "C": 21,
+        "D": 15,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6225,
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia / Hipogonadismo Masculino",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 45 anos, com queixa de diminuição da libido e disfunção erétil, realiza exames hormonais. Os resultados são: Testosterona livre 80 pmol/L (VR: 131 a 640 pmol/L), LH 2,5 UI/L (VR: até 12 UI/L), FSH 3,0 UI/L (VR: até 12 UI/L). Prolactina 15 μg/L (VR: até 29 μg/L). Qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Hipogonadismo primário.",
+      "B": "Hipogonadismo secundário (hipogonadotrófico).",
+      "C": "Hiperprolactinemia.",
+      "D": "Resistência periférica aos androgênios.",
+      "E": "Disfunção tireoidiana."
+    },
+    "gabarito": "B",
+    "original_comment": "O paciente apresenta testosterona livre baixa, o que caracteriza hipogonadismo. A diferenciação entre hipogonadismo primário e secundário é feita pelos níveis de gonadotrofinas (LH e FSH). No hipogonadismo primário, a falha está nos testículos, e os níveis de LH e FSH estariam elevados (tentativa da hipófise de estimular testículos não responsivos). No hipogonadismo secundário, a falha está na hipófise ou no hipotálamo, resultando em baixos níveis de LH e FSH, que por sua vez levam à baixa produção de testosterona. Neste caso, LH e FSH estão baixos/normais (dentro da faixa de referência, mas inapropriadamente baixos para um nível de testosterona tão reduzido), indicando um hipogonadismo secundário (hipogonadotrófico). A prolactina (C) está normal. As outras opções são menos prováveis com este perfil hormonal.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 1,
+        "D": 4,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 23,
+        "B": 45,
+        "C": 19,
+        "D": 39,
+        "E": 22
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6232,
+    "area": "Clínica Médica",
+    "tema": "Anemias Hemolíticas",
+    "dificuldade": "Média",
+    "enunciado": "Mulher, 38 anos, internada com astenia progressiva e icterícia escleral. Exames laboratoriais mostram: Hb 7,5 g/dL, VCM 95 fL, RDW 18%, Bilirrubina total 4,2 mg/dL (direta 0,8 mg/dL, indireta 3,4 mg/dL), DHL 500 UI/L (ref: < 225 UI/L), Haptoglobina indetectável. Teste de Coombs direto positivo. Qual a terapia de primeira linha mais adequada?",
+    "original_alternatives": {
+      "A": "Transfusão de concentrado de hemácias.",
+      "B": "Imunoglobulina intravenosa (IVIG).",
+      "C": "Corticosteroides (ex: prednisona).",
+      "D": "Esplenectomia.",
+      "E": "Plasmaférese."
+    },
+    "gabarito": "C",
+    "original_comment": "A paciente apresenta um quadro de anemia hemolítica (Hb baixa, DHL elevado, haptoglobina indetectável, bilirrubina indireta elevada, RDW aumentado) com Coombs direto positivo, o que confirma o diagnóstico de Anemia Hemolítica Autoimune (AHAI). Os corticosteroides (como a prednisona) são a terapia de primeira linha para AHAI, visando suprimir a resposta imune e reduzir a destruição dos eritrócitos. A transfusão de hemácias é um suporte vital em casos de anemia grave, mas não trata a causa subjacente e deve ser feita com cautela devido ao risco de reações transfusionais. IVIG é uma opção para casos refratários ou graves que não respondem rapidamente aos corticoides. Esplenectomia e plasmaférese são consideradas para segunda linha ou refratariedade.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 5,
+        "B": 3,
+        "C": 3,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 38,
+        "B": 34,
+        "C": 34,
+        "D": 14,
+        "E": 13
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6240,
+    "area": "Clínica Médica",
+    "tema": "Complicações de Ablação por Cateter",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma paciente de 32 anos é submetida a ablação por cateter de uma via acessória para tratamento de Síndrome de Wolff-Parkinson-White. No dia seguinte ao procedimento, ela relata dor torácica pleurítica, que piora com a inspiração profunda e melhora ao inclinar-se para frente. O ECG de controle mostra supradesnivelamento difuso do segmento ST e infradesnivelamento do PR. Qual o diagnóstico mais provável para este quadro?",
+    "original_alternatives": {
+      "A": "Recorrência da pré-excitação.",
+      "B": "Angina pós-procedimento.",
+      "C": "Pericardite aguda.",
+      "D": "Infarto agudo do miocárdio.",
+      "E": "Tromboembolismo pulmonar."
+    },
+    "gabarito": "C",
+    "original_comment": "A dor torácica pleurítica que melhora ao inclinar-se para frente, associada a supradesnivelamento difuso do segmento ST e infradesnivelamento do PR no ECG, são achados clássicos de pericardite aguda. A ablação por cateter, especialmente a radiofrequência, pode causar irritação ou inflamação do pericárdio, levando a este quadro. Recorrência da pré-excitação seria evidenciada por um ECG com onda delta. Angina ou infarto agudo do miocárdio teriam dor de características diferentes e alterações isquêmicas mais localizadas no ECG. Tromboembolismo pulmonar (TEP) apresentaria dispneia e alterações eletrocardiográficas diferentes (S1Q3T3, taquicardia sinusal).",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 2,
+        "C": 2,
+        "D": 4,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 29,
+        "B": 24,
+        "C": 18,
+        "D": 27,
+        "E": 25
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6246,
+    "area": "Clínica Médica",
+    "tema": "Taquicardias Ventriculares Verapamil-Sensíveis",
+    "dificuldade": "Média",
+    "enunciado": "Um jovem de 22 anos, sem cardiopatia estrutural conhecida, apresenta episódios de taquicardia de QRS largo, regular, com morfologia de bloqueio de ramo direito e desvio do eixo para a esquerda (superior). Durante um episódio no pronto-socorro, o médico decide tentar a reversão farmacológica. Qual das seguintes medicações tem maior probabilidade de ser eficaz e segura para essa arritmia específica?",
+    "original_alternatives": {
+      "A": "Adenosina intravenosa.",
+      "B": "Amiodarona intravenosa.",
+      "C": "Verapamil intravenoso.",
+      "D": "Lidocaína intravenosa.",
+      "E": "Propafenona intravenosa."
+    },
+    "gabarito": "C",
+    "original_comment": "A descrição da arritmia (taquicardia de QRS largo, regular, BRD com eixo superior em paciente sem cardiopatia estrutural) é altamente sugestiva de taquicardia ventricular fascicular do ventrículo esquerdo, também conhecida como taquicardia verapamil-sensível. Esta arritmia responde bem ao bloqueio dos canais de cálcio. Portanto, o verapamil intravenoso (C) é a medicação de escolha para sua reversão. Adenosina (A) é eficaz em taquicardias supraventriculares e pode ser usada para diagnóstico diferencial, mas não é o tratamento primário para TV. Amiodarona (B), lidocaína (D) e propafenona (E) são antiarrítmicos para TV, mas o verapamil é específico e altamente eficaz para a TV fascicular, e geralmente mais seguro em um coração estruturalmente normal.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 22,
+        "B": 23,
+        "C": 22,
+        "D": 22,
+        "E": 24
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6258,
+    "area": "Clínica Médica",
+    "tema": "Síndromes Mielodisplásicas (SMD)",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 65 anos é diagnosticado com Síndrome Mielodisplásica (SMD) e apresenta citogenética com monossomia do cromossomo 7 (-7). De acordo com o Sistema Internacional de Pontuação Prognóstica Revisado (IPSS-R), como essa alteração citogenética é classificada em termos de risco?",
+    "original_alternatives": {
+      "A": "Risco muito baixo.",
+      "B": "Risco baixo.",
+      "C": "Risco intermediário.",
+      "D": "Risco alto.",
+      "E": "Risco muito alto."
+    },
+    "gabarito": "E",
+    "original_comment": "A monossomia do cromossomo 7 (-7) é uma alteração citogenética classificada como de 'muito alto risco' no IPSS-R, indicando um prognóstico desfavorável e um risco elevado de progressão para Leucemia Mielóide Aguda (LMA). É um dos fatores mais importantes na estratificação de risco das SMD.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 12,
+        "C": 20,
+        "D": 11,
+        "E": 17
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6262,
+    "area": "Clínica Médica",
+    "tema": "Telangiectasia Hemorrágica Hereditária (HHT)",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 35 anos com diagnóstico de Telangiectasia Hemorrágica Hereditária (HHT) apresenta epistaxes frequentes, fadiga e dispneia aos esforços. A investigação revela uma Malformação Arteriovenosa Pulmonar (MAVP) de grande calibre, com evidência de shunt direita-esquerda. Qual é a principal complicação neurológica que este paciente está em risco elevado de desenvolver devido à MAVP?",
+    "original_alternatives": {
+      "A": "Hemorragia intracraniana.",
+      "B": "Acidente Vascular Encefálico (AVE) isquêmico paradoxal.",
+      "C": "Crise convulsiva epiléptica.",
+      "D": "Demência vascular.",
+      "E": "Neuropatia periférica."
+    },
+    "gabarito": "B",
+    "original_comment": "Pacientes com HHT e MAVPs pulmonares têm um risco elevado de AVE isquêmico paradoxal. O shunt direita-esquerda permite que êmbolos venosos (e.g., de trombos nas pernas ou até mesmo microbolhas de ar) bypassem a filtração pulmonar e alcancem a circulação sistêmica, incluindo o cérebro, causando isquemia. Abscessos cerebrais também são uma complicação importante pelo mesmo mecanismo. As outras opções são menos diretamente relacionadas à fisiopatologia da MAVP pulmonar no contexto da HHT.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 6,
+        "C": 3,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 25,
+        "B": 55,
+        "C": 28,
+        "D": 18,
+        "E": 22
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6267,
+    "area": "Clínica Médica",
+    "tema": "Cardiomiopatias e Imagem Cardíaca (RMC)",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 28 anos apresenta dispneia progressiva e fadiga há 2 meses, precedida por um quadro gripal. O ecocardiograma revela dilatação ventricular esquerda com fração de ejeção de 35%. A ressonância magnética cardíaca (RMC) é realizada e demonstra realce tardio com padrão difuso, não isquêmico, predominantemente no médio-miocárdio das paredes septal e lateral. Qual é o diagnóstico mais provável com base nesses achados?",
+    "original_alternatives": {
+      "A": "Cardiomiopatia isquêmica",
+      "B": "Miocardite crônica",
+      "C": "Cardiomiopatia hipertrófica",
+      "D": "Amiloidose cardíaca",
+      "E": "Doença de Chagas"
+    },
+    "gabarito": "B",
+    "original_comment": "O realce tardio no médio-miocárdio, de padrão difuso e não isquêmico, em um paciente jovem com história prévia de infecção viral e disfunção ventricular, é altamente sugestivo de miocardite crônica. A cardiomiopatia isquêmica geralmente apresenta realce tardio subendocárdico ou transmural, em territórios coronarianos. Cardiomiopatia hipertrófica tem hipertrofia e padrões de realce diferentes. Amiloidose cardíaca tipicamente mostra realce global, subendocárdico ou transmural, com dificuldade de supressão miocárdica. Doença de Chagas pode apresentar realce epicárdico/subepicárdico na parede lateral basal, mas a apresentação difusa no médio-miocárdio é mais clássica de miocardite.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 24,
+        "B": 18,
+        "C": 27,
+        "D": 19,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6269,
+    "area": "Clínica Médica",
+    "tema": "Alterações Eletrocardiográficas em Distúrbios Eletrolíticos",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 68 anos, com doença renal crônica em hemodiálise, é admitido no pronto-socorro com fraqueza generalizada e dispneia, referindo ter faltado às últimas duas sessões de diálise. Seu eletrocardiograma (ECG) de 12 derivações apresenta ondas T apiculadas e simétricas, alargamento progressivo do complexo QRS e ausência de onda P. Qual é a alteração eletrolítica mais provável responsável por este quadro?",
+    "original_alternatives": {
+      "A": "Hipocalcemia",
+      "B": "Hipernatremia",
+      "C": "Hipomagnesemia",
+      "D": "Hipercalemia",
+      "E": "Hipocalemia"
+    },
+    "gabarito": "D",
+    "original_comment": "Os achados eletrocardiográficos descritos (ondas T apiculadas e simétricas, alargamento do QRS e ausência de onda P) são clássicos da hipercalemia grave. A progressão das alterações inclui: ondas T apiculadas (níveis moderados), prolongamento do PR, achatamento ou ausência de onda P, alargamento do QRS e, em casos muito graves, padrão sinusoidal que pode evoluir para assistolia ou fibrilação ventricular. A hipocalcemia tipicamente prolonga o intervalo QT. A hipocalemia pode causar ondas U, achatamento de ondas T e prolongamento do QT. Hipernatremia e hipomagnesemia não apresentam esses padrões clássicos no ECG.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 12,
+        "B": 13,
+        "C": 14,
+        "D": 12,
+        "E": 11
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6276,
+    "area": "Clínica Médica",
+    "tema": "Doença Valvar Reumática",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 35 anos, com histórico de febre reumática na infância, procura atendimento médico devido a dispneia progressiva aos esforços, palpitações e episódios de hemoptise leve. Ao exame físico, ausculta-se um sopro diastólico em ruflar na região apical, mais audível em decúbito lateral esquerdo, precedido por estalido de abertura. O eletrocardiograma mostra fibrilação atrial e sinais de sobrecarga atrial esquerda. Qual é a valvopatia mais provável neste caso?",
+    "original_alternatives": {
+      "A": "Insuficiência aórtica grave",
+      "B": "Estenose aórtica grave",
+      "C": "Insuficiência mitral crônica",
+      "D": "Estenose mitral reumática",
+      "E": "Prolapso de valva mitral"
+    },
+    "gabarito": "D",
+    "original_comment": "A apresentação clínica (dispneia progressiva, palpitações, hemoptise), histórico de febre reumática, e os achados ao exame físico (sopro diastólico em ruflar apical, estalido de abertura) são clássicos da estenose mitral reumática. A fibrilação atrial e a sobrecarga atrial esquerda no ECG são complicações comuns da estenose mitral crônica, decorrentes da dilatação atrial. As outras valvopatias apresentam achados clínicos e auscultatórios distintos: insuficiência aórtica (sopro diastólico decrescendo), estenose aórtica (sopro sistólico ejetivo), insuficiência mitral (sopro sistólico holossistólico) e prolapso de valva mitral (clique mesossistólico e sopro sistólico tardio).",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 27,
+        "B": 22,
+        "C": 28,
+        "D": 25,
+        "E": 24
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6285,
+    "area": "Clínica Médica",
+    "tema": "Distúrbios da Tireoide - Hipotireoidismo",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma paciente de 45 anos procura atendimento médico com queixas de fadiga, ganho de peso, constipação e intolerância ao frio. Os exames laboratoriais revelam TSH de 8,2 mUI/mL e T4 Livre de 0,7 ng/dL. Qual o diagnóstico mais provável para esta paciente?",
+    "original_alternatives": {
+      "A": "Hipotireoidismo subclínico.",
+      "B": "Hipotireoidismo primário.",
+      "C": "Hipotireoidismo secundário.",
+      "D": "Hipertireoidismo.",
+      "E": "Tireoidite de Hashimoto em fase de hipertireoidismo."
+    },
+    "gabarito": "B",
+    "original_comment": "Os valores de referência para TSH (0,45 a 4,5 mUI/mL) e T4 Livre (0,9 a 1,8 ng/dL) indicam que o TSH da paciente está elevado (8,2 mUI/mL) e o T4 Livre está baixo (0,7 ng/dL). Essa combinação de TSH elevado e T4 Livre baixo é diagnóstica de hipotireoidismo primário, que ocorre quando a glândula tireoide não produz hormônios tireoidianos suficientes. O hipotireoidismo subclínico teria TSH elevado, mas T4 Livre normal. O hipotireoidismo secundário teria TSH baixo ou normal e T4 Livre baixo. Hipertireoidismo teria TSH baixo e T4 Livre alto. A tireoidite de Hashimoto é a causa mais comum de hipotireoidismo primário, mas a fase de hipertireoidismo (tireotoxicose) é transitória e não se encaixa nos exames apresentados.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 1,
+        "E": 7
+      },
+      "char_lengths": {
+        "A": 27,
+        "B": 25,
+        "C": 27,
+        "D": 17,
+        "E": 52
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6292,
+    "area": "Clínica Médica",
+    "tema": "Anemias",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 28 anos, com queixa de fadiga crônica, palidez e dispneia aos esforços, procura atendimento médico. Ela relata menstruações intensas nos últimos meses. O hemograma revela: Hb = 9,5 g/dL (VR: 11,7 a 14,9 g/dL), VCM = 72 fL (VR: 80 a 100 fL), HCM = 24 pg (VR: 27 a 32 pg), RDW = 18% (VR: 11 a 14%). Exames adicionais mostram Ferritina = 8 μg/mL (VR: 15 a 149 μg/mL) e Ferro sérico = 30 μg/dL (VR: 50 a 170 μg/dL). Qual o diagnóstico mais provável para essa paciente?",
+    "original_alternatives": {
+      "A": "Anemia megaloblástica.",
+      "B": "Anemia de doença crônica.",
+      "C": "Anemia ferropriva.",
+      "D": "Talassemia menor.",
+      "E": "Anemia aplástica."
+    },
+    "gabarito": "C",
+    "original_comment": "A paciente apresenta anemia (Hb = 9,5 g/dL) com características microcíticas (VCM = 72 fL) e hipocrômicas (HCM = 24 pg), além de anisocitose (RDW = 18%). A ferritina (8 μg/mL) e o ferro sérico (30 μg/dL) estão ambos significativamente abaixo dos valores de referência, indicando depleção das reservas de ferro. A história de menstruações intensas (menorragia) é uma causa comum de perda crônica de ferro em mulheres jovens. Este quadro é clássico de anemia ferropriva. Anemia megaloblástica (A) cursa com VCM elevado. Anemia de doença crônica (B) geralmente tem ferritina normal ou elevada e ferro sérico baixo. Talassemia menor (D) pode ter microcitose e hipocromia, mas com RDW normal e ferritina normal/elevada. Anemia aplástica (E) é uma pancitopenia.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 4,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 22,
+        "B": 25,
+        "C": 18,
+        "D": 17,
+        "E": 17
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6294,
+    "area": "Clínica Médica",
+    "tema": "Psiquiatria - Terapia Cognitivo-Comportamental",
+    "dificuldade": "Média",
+    "enunciado": "Uma paciente de 32 anos, em tratamento para transtorno depressivo maior, relata ao terapeuta que, após uma pequena discussão com seu chefe, pensou: 'Eu sou um fracasso completo, tudo que eu faço dá errado e nunca vou conseguir ser boa em nada'. Esse tipo de pensamento automático, que distorce a realidade e contribui para a manutenção do humor deprimido, é um exemplo de qual distorção cognitiva, segundo o modelo de Aaron Beck?",
+    "original_alternatives": {
+      "A": "Personalização.",
+      "B": "Catastrofização.",
+      "C": "Abstração seletiva.",
+      "D": "Generalização excessiva.",
+      "E": "Pensamento dicotômico."
+    },
+    "gabarito": "D",
+    "original_comment": "A paciente, a partir de um evento isolado (pequena discussão com o chefe), tira uma conclusão abrangente e negativa sobre sua capacidade ('tudo que eu faço dá errado e nunca vou conseguir ser boa em nada'). Isso é um exemplo clássico de generalização excessiva, onde um único evento negativo é visto como um padrão de derrota que se aplica a todas as áreas da vida. Personalização (A) seria assumir culpa por eventos externos. Catastrofização (B) seria prever o pior cenário possível. Abstração seletiva (C) seria focar em um detalhe negativo e ignorar o contexto positivo. Pensamento dicotômico (E) seria pensar em termos de 'tudo ou nada', 'certo ou errado'.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 15,
+        "B": 16,
+        "C": 19,
+        "D": 24,
+        "E": 22
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6296,
+    "area": "Clínica Médica",
+    "tema": "Nefrologia - Lesão Renal Aguda",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 68 anos, internado por pneumonia grave, desenvolve oligúria e elevação progressiva da creatinina. Os exames laboratoriais atuais mostram: Creatinina = 4,2 mg/dL (VR: 0,7 a 1,3 mg/dL), Ureia = 120 mg/dL (VR: 10 a 50 mg/dL), Potássio = 6,1 mEq/L (VR: 3,5 a 5,1 mEq/L). O ECG mostra ondas T apiculadas. Qual a complicação eletrolítica mais urgente a ser tratada neste paciente?",
+    "original_alternatives": {
+      "A": "Hiponatremia.",
+      "B": "Hipercalcemia.",
+      "C": "Hipofosfatemia.",
+      "D": "Hipercalemia.",
+      "E": "Hipomagnesemia."
+    },
+    "gabarito": "D",
+    "original_comment": "O paciente apresenta uma Lesão Renal Aguda (LRA) evidenciada pela elevação significativa da creatinina (4,2 mg/dL) e ureia (120 mg/dL), além de oligúria. Uma das complicações mais graves e potencialmente fatais da LRA é a hipercalemia (Potássio = 6,1 mEq/L), que pode levar a arritmias cardíacas graves. A presença de ondas T apiculadas no ECG é um sinal precoce de cardiotoxicidade da hipercalemia, indicando a urgência do tratamento. As outras opções não são evidentes pelos dados fornecidos ou não representam a complicação mais urgente neste cenário.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 13,
+        "B": 14,
+        "C": 15,
+        "D": 13,
+        "E": 15
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6311,
+    "area": "Cirurgia",
+    "tema": "Complicações da cirurgia bariátrica",
+    "dificuldade": "Difícil",
+    "enunciado": "Mulher, 48 anos, submetida a bypass gástrico em Y de Roux há 3 anos, procura o pronto-socorro com dor abdominal difusa, náuseas e vômitos biliosos há 24 horas. Refere episódios semelhantes, mas de menor intensidade e autolimitados. Ao exame físico, abdome distendido e doloroso à palpação, sem sinais de irritação peritoneal. Hemograma e eletrólitos normais. A tomografia de abdome revela rotação dos vasos mesentéricos e aglomerado de alças de delgado no quadrante superior esquerdo, com sinais de dilatação proximal. Qual a principal hipótese diagnóstica?",
+    "original_alternatives": {
+      "A": "Estenose da gastroenteroanastomose.",
+      "B": "Úlcera marginal perfurada.",
+      "C": "Hérnia interna (alça de Petersen ou mesocólica).",
+      "D": "Pancreatite aguda.",
+      "E": "Colecistite aguda."
+    },
+    "gabarito": "C",
+    "original_comment": "A história de dor abdominal intermitente e, agora, persistente, associada a náuseas, vômitos e achados tomográficos de rotação dos vasos mesentéricos e aglomerado de alças de delgado, são altamente sugestivos de hérnia interna, uma complicação comum após bypass gástrico em Y de Roux. A hérnia interna pode ocorrer nos espaços de Petersen (entre o mesentério da alça alimentar e o mesocólon transverso) ou mesocólica (no defeito do mesocólon transverso). Estenose da gastroenteroanastomose causaria vômitos principalmente alimentares e dor epigástrica, sem rotação vascular. Úlcera marginal perfurada apresentaria peritonite. Pancreatite aguda e colecistite aguda teriam dor mais localizada e alterações laboratoriais específicas.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 7,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 35,
+        "B": 26,
+        "C": 48,
+        "D": 18,
+        "E": 18
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6323,
+    "area": "Pediatria",
+    "tema": "Anemias na Infância",
+    "dificuldade": "Média",
+    "enunciado": "Uma criança de 18 meses de idade, em acompanhamento na UBS, apresenta palidez e irritabilidade. A mãe relata que a criança não aceita bem alimentos sólidos e consome grande quantidade de leite de vaca. Hemograma revela: Hemoglobina = 9,8 g/dL (VR para 6 meses a 2 anos: 11 a 14 g/dL), VCM = 72 fL (VR: 80 a 100 fL), RDW = 18% (VR: 11 a 14%). Qual o diagnóstico mais provável para essa anemia?",
+    "original_alternatives": {
+      "A": "Anemia ferropriva.",
+      "B": "Anemia megaloblástica.",
+      "C": "Anemia de doença crônica.",
+      "D": "Talassemia minor.",
+      "E": "Anemia falciforme."
+    },
+    "gabarito": "A",
+    "original_comment": "A criança apresenta anemia (Hb 9,8 g/dL, abaixo do VR para a idade), microcítica (VCM 72 fL, abaixo do VR) e com anisocitose (RDW 18%, elevado). A história de baixa aceitação de sólidos e alto consumo de leite de vaca é um fator de risco clássico para anemia ferropriva na infância, pois o leite é pobre em ferro e pode inibir sua absorção. A anemia ferropriva é a causa mais comum de anemia microcítica e hipocrômica na infância e cursa tipicamente com VCM baixo e RDW elevado. A anemia megaloblástica (B) é macrocítica (VCM elevado). A anemia de doença crônica (C) geralmente é normocítica-normocrômica ou microcítica leve, mas com RDW normal ou discretamente elevado. A talassemia minor (D) é microcítica, mas geralmente com RDW normal e sem a história de deficiência nutricional. A anemia falciforme (E) é uma hemoglobinopatia que cursa com anemia hemolítica, não tipicamente microcítica, e com outras manifestações clínicas.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 4,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 22,
+        "C": 25,
+        "D": 17,
+        "E": 18
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6386,
+    "area": "Pediatria",
+    "tema": "Anemia ferropriva na infância: Diagnóstico e manejo",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma criança de 9 meses de idade é levada à consulta de rotina. A mãe relata que a criança é alimentada exclusivamente com leite de vaca desde os 4 meses e não recebe suplementação de ferro. O hemograma revela Hemoglobina (Hb) de 9,8 g/dL. Com base nos valores de referência para a idade (6 meses a 2 anos: 11 a 14 g/dL), qual o diagnóstico mais provável para essa criança?",
+    "original_alternatives": {
+      "A": "Anemia falciforme.",
+      "B": "Talassemia.",
+      "C": "Anemia de doença crônica.",
+      "D": "Anemia ferropriva.",
+      "E": "Anemia aplásica."
+    },
+    "gabarito": "D",
+    "original_comment": "A anemia ferropriva é a causa mais comum de anemia na infância, especialmente em crianças alimentadas inadequadamente (como com leite de vaca exclusivo antes do tempo e sem suplementação de ferro). O valor de Hb de 9,8 g/dL está abaixo do limite inferior para a idade (11 g/dL). As outras opções são menos prováveis dada a história clínica e a alta prevalência de anemia ferropriva nessa faixa etária com essa alimentação.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 1,
+        "C": 4,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 11,
+        "C": 25,
+        "D": 18,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6453,
+    "area": "Clínica Médica",
+    "tema": "Pancitopenia e Aplasia Medular",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 45 anos, previamente hígido, procura atendimento médico por astenia progressiva e sangramentos gengivais há 2 meses. Nega febre ou perda de peso. Ao exame físico, apresenta palidez cutâneo-mucosa e petéquias em membros inferiores. Não há adenomegalias ou hepatoesplenomegalia. Exames laboratoriais revelam: Hb: 7,8 g/dL, VCM: 92 fL, Leucócitos: 1.500/mm³, Neutrófilos: 300/mm³, Linfócitos: 1.100/mm³, Plaquetas: 15.000/mm³. Reticulócitos corrigidos: 0,2%. A biópsia de medula óssea mostra hipocelularidade acentuada para a idade, com substituição por tecido adiposo e ausência de células anômalas. Qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Leucemia Mieloide Aguda",
+      "B": "Anemia Megaloblástica",
+      "C": "Aplasia Medular Grave",
+      "D": "Síndrome Mielodisplásica",
+      "E": "Anemia Hemolítica Autoimune"
+    },
+    "gabarito": "C",
+    "original_comment": "O quadro de pancitopenia (anemia, leucopenia com neutropenia, trombocitopenia) associado a reticulocitopenia e uma biópsia de medula óssea hipocelular com substituição por gordura, na ausência de células anômalas ou displasia significativa, é altamente sugestivo de aplasia medular grave. A leucemia aguda apresentaria hipercelularidade medular e blastos. Anemia megaloblástica teria macrocitose mais acentuada e alterações displásicas. Síndrome mielodisplásica pode ter pancitopenia, mas com medula geralmente normo ou hipercelular e displasia. Anemia hemolítica autoimune causaria anemia com reticulocitose e Coombs direto positivo, não pancitopenia.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 2,
+        "C": 3,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 23,
+        "B": 21,
+        "C": 21,
+        "D": 24,
+        "E": 27
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6455,
+    "area": "Clínica Médica",
+    "tema": "Artrite Reumatoide: Diagnóstico e Critérios",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 38 anos apresenta dor e inchaço simétrico nas pequenas articulações das mãos (interfalangeanas proximais e metacarpofalangeanas) e punhos há 8 meses. Relata rigidez matinal que dura cerca de 1 hora e melhora com a movimentação. Há fadiga e ocasional febrícula. Ao exame físico, observa-se sinovite em 6 articulações metacarpofalangeanas e 4 interfalangeanas proximais bilateralmente, com dor à palpação e limitação de movimento. Exames laboratoriais mostram fator reumatoide positivo (1:320) e anti-CCP positivo. Qual a principal hipótese diagnóstica?",
+    "original_alternatives": {
+      "A": "Osteoartrite",
+      "B": "Lúpus Eritematoso Sistêmico",
+      "C": "Artrite Psoriásica",
+      "D": "Artrite Reumatoide",
+      "E": "Gota Aguda"
+    },
+    "gabarito": "D",
+    "original_comment": "O quadro clínico é clássico de artrite reumatoide: poliartrite simétrica de pequenas articulações (mãos e punhos), rigidez matinal prolongada (>30 minutos), duração superior a 6 semanas, e presença de autoanticorpos (fator reumatoide e anti-CCP). Osteoartrite afeta mais interfalangeanas distais, é menos inflamatória e não tem autoanticorpos específicos. Lúpus pode causar artrite, mas geralmente é não-erosiva e associada a outros sintomas sistêmicos e autoanticorpos diferentes (FAN, anti-DNA). Artrite psoriásica pode afetar DIPs e ter padrão assimétrico, além de lesões de pele. Gota é monoarticular aguda, com cristais de urato.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 3,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 12,
+        "B": 27,
+        "C": 18,
+        "D": 18,
+        "E": 10
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6481,
+    "area": "Clínica Médica",
+    "tema": "Oncologia | Adenocarcinoma de Sítio Primário Desconhecido",
+    "dificuldade": "Difícil",
+    "enunciado": "Homem, 65 anos, apresenta linfonodomegalia cervical e supraclavicular progressiva, perda ponderal e tosse persistente. Biópsia de linfonodo revela adenocarcinoma metastático. O estudo imuno-histoquímico mostra: CK7 positivo, CK20 negativo, TTF-1 positivo, Napsin A positivo, CDX2 negativo, GATA3 negativo. Qual o sítio primário mais provável para este adenocarcinoma?",
+    "original_alternatives": {
+      "A": "Pulmão.",
+      "B": "Pâncreas.",
+      "C": "Cólon.",
+      "D": "Próstata.",
+      "E": "Estômago."
+    },
+    "gabarito": "A",
+    "original_comment": "O perfil imuno-histoquímico é crucial para determinar o sítio primário em adenocarcinomas de origem desconhecida. Neste caso:\n*   CK7 positivo e CK20 negativo: Este perfil é comum em adenocarcinomas de pulmão, mama, ovário, pâncreas, estômago e trato biliar.\n*   TTF-1 positivo: O Fator de Transcrição da Tireoide-1 (TTF-1) é um marcador altamente específico para adenocarcinomas de pulmão e tireoide.\n*   Napsin A positivo: Napsin A é outro marcador de alta sensibilidade e especificidade para adenocarcinomas de pulmão.\n*   CDX2 negativo: CDX2 é um marcador de diferenciação intestinal, sendo positivo em adenocarcinomas de cólon e, ocasionalmente, estômago. Sua negatividade afasta o cólon.\n*   GATA3 negativo: GATA3 é um marcador de diferenciação mamária e urotelial. Sua negatividade afasta a mama.\nCombinando esses achados, o perfil CK7+/CK20-/TTF-1+/Napsin A+ é classicamente associado a um adenocarcinoma primário de pulmão.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 7,
+        "B": 9,
+        "C": 6,
+        "D": 9,
+        "E": 9
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  }
+]

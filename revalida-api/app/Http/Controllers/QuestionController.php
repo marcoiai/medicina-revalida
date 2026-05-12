@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Question;
+use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Http\Request;
 use Illuminate\Pagination\LengthAwarePaginator;
 
@@ -14,7 +15,7 @@ class QuestionController extends Controller
         $perPage = max(1, min($perPage, 2000));
 
         /** @var LengthAwarePaginator $questions */
-        $questions = Question::query()
+        $questions = $this->scopedQuestions($request)
             ->with('source')
             ->orderBy('id')
             ->paginate($perPage);
@@ -26,10 +27,10 @@ class QuestionController extends Controller
         return response()->json($questions);
     }
 
-    public function summary()
+    public function summary(Request $request)
     {
         return response()->json([
-            'total_questions' => Question::count(),
+            'total_questions' => $this->scopedQuestions($request)->count(),
         ]);
     }
 
@@ -39,6 +40,8 @@ class QuestionController extends Controller
             'area' => 'required|string|max:100',
             'tema' => 'required|string|max:150',
             'dificuldade' => 'nullable|string|max:50',
+            'question_type' => 'nullable|in:multiple_choice,discursive',
+            'study_category' => 'nullable|in:revalida,estudo_geral',
             'enunciado' => 'required|string',
             'alternativas.A' => 'required|string',
             'alternativas.B' => 'required|string',
@@ -47,12 +50,15 @@ class QuestionController extends Controller
             'alternativas.E' => 'required|string',
             'gabarito' => 'required|in:A,B,C,D,E',
             'comentario' => 'nullable|string',
+            'official_answer' => 'nullable|string',
         ]);
 
         $q = Question::create([
             'area' => $data['area'],
             'tema' => $data['tema'],
             'dificuldade' => $data['dificuldade'] ?? 'Média',
+            'question_type' => $data['question_type'] ?? 'multiple_choice',
+            'study_category' => $data['study_category'] ?? 'revalida',
             'enunciado' => $data['enunciado'],
             'alternativa_a' => $data['alternativas']['A'],
             'alternativa_b' => $data['alternativas']['B'],
@@ -61,6 +67,7 @@ class QuestionController extends Controller
             'alternativa_e' => $data['alternativas']['E'],
             'gabarito' => $data['gabarito'],
             'comentario' => $data['comentario'] ?? null,
+            'official_answer' => $data['official_answer'] ?? null,
         ]);
 
         return response()->json($this->formatQuestion($q), 201);
@@ -73,6 +80,8 @@ class QuestionController extends Controller
             'area' => $q->area,
             'tema' => $q->tema,
             'dificuldade' => $q->dificuldade,
+            'question_type' => $q->question_type ?: 'multiple_choice',
+            'study_category' => $q->study_category ?: 'revalida',
             'enunciado' => $q->enunciado,
             'alternativas' => [
                 'A' => $q->alternativa_a,
@@ -83,6 +92,7 @@ class QuestionController extends Controller
             ],
             'gabarito' => $q->gabarito,
             'comentario' => $q->comentario,
+            'official_answer' => $q->official_answer,
             'origin' => $q->origin,
             'status' => $q->status,
             'reference' => $q->reference,
@@ -97,5 +107,85 @@ class QuestionController extends Controller
                 'url' => $q->source->url,
             ] : null,
         ];
+    }
+
+    private function scopedQuestions(Request $request): Builder
+    {
+        $category = $this->normalizeStudyCategory(
+            (string) $request->query('category', (string) $request->query('scope', 'revalida'))
+        );
+        $phase = strtolower(trim((string) $request->query('phase', 'first')));
+        $query = Question::query();
+
+        if ($category === 'all') {
+            return $query;
+        }
+
+        $query->where('study_category', $category);
+
+        if ($category === 'revalida' && $phase === 'first') {
+            $query->where(function (Builder $phaseQuery) {
+                $phaseQuery
+                    ->whereHas('source', function (Builder $sourceQuery) {
+                        $this->applyFirstPhaseSourceFilter($sourceQuery);
+                    })
+                    ->orWhere(function (Builder $referenceQuery) {
+                        $referenceQuery
+                            ->where(function (Builder $matchQuery) {
+                                $matchQuery
+                                    ->whereRaw('LOWER(COALESCE(reference, \'\')) LIKE ?', ['%objetiva%'])
+                                    ->orWhereRaw('LOWER(COALESCE(reference, \'\')) LIKE ?', ['%discursiva%']);
+                            })
+                            ->whereRaw('LOWER(COALESCE(reference, \'\')) NOT LIKE ?', ['%habilidades_clinicas%'])
+                            ->whereRaw('LOWER(COALESCE(reference, \'\')) NOT LIKE ?', ['%habilidades clínicas%']);
+                    })
+                    ->orWhere(function (Builder $fallbackQuery) {
+                        $fallbackQuery
+                            ->whereNull('question_source_id')
+                            ->whereRaw('TRIM(COALESCE(reference, \'\')) = \'\'');
+                    });
+            });
+        }
+
+        return $query;
+    }
+
+    private function normalizeStudyCategory(string $value): string
+    {
+        $normalized = strtolower(trim($value));
+
+        return match ($normalized) {
+            'all' => 'all',
+            'estudo_geral', 'estudogeral', 'geral', 'general' => 'estudo_geral',
+            default => 'revalida',
+        };
+    }
+
+    private function applyRevalidaSourceFilter(Builder $query): void
+    {
+        $query->where(function (Builder $matchQuery) {
+            $matchQuery
+                ->whereRaw('LOWER(COALESCE(exam, \'\')) LIKE ?', ['%revalida%'])
+                ->orWhereRaw('LOWER(COALESCE(name, \'\')) LIKE ?', ['%revalida%'])
+                ->orWhereRaw('LOWER(COALESCE(url, \'\')) LIKE ?', ['%revalida%'])
+                ->orWhereRaw('LOWER(COALESCE(file_path, \'\')) LIKE ?', ['%revalida%']);
+        });
+    }
+
+    private function applyFirstPhaseSourceFilter(Builder $query): void
+    {
+        $query
+            ->where(function (Builder $matchQuery) {
+                $matchQuery
+                    ->whereRaw('LOWER(COALESCE(url, \'\')) LIKE ?', ['%objetiva%'])
+                    ->orWhereRaw('LOWER(COALESCE(url, \'\')) LIKE ?', ['%discursiva%'])
+                    ->orWhereRaw('LOWER(COALESCE(file_path, \'\')) LIKE ?', ['%objetiva%'])
+                    ->orWhereRaw('LOWER(COALESCE(file_path, \'\')) LIKE ?', ['%discursiva%'])
+                    ->orWhereRaw('LOWER(COALESCE(name, \'\')) LIKE ?', ['%objetiva%'])
+                    ->orWhereRaw('LOWER(COALESCE(name, \'\')) LIKE ?', ['%discursiva%']);
+            })
+            ->whereRaw('LOWER(COALESCE(url, \'\')) NOT LIKE ?', ['%habilidades_clinicas%'])
+            ->whereRaw('LOWER(COALESCE(file_path, \'\')) NOT LIKE ?', ['%habilidades_clinicas%'])
+            ->whereRaw('LOWER(COALESCE(name, \'\')) NOT LIKE ?', ['%habilidades_clinicas%']);
     }
 }

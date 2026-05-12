@@ -259,6 +259,7 @@ class AuthController extends Controller
             'is_active' => (bool) $user->is_active,
             'question_text_size' => (int) ($user->question_text_size ?? 22),
             'monthly_question_limit' => (int) ($user->monthly_question_limit ?? 5000),
+            'ai_enabled' => (bool) config('features.ai_enabled', true),
         ];
     }
 

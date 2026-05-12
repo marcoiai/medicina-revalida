@@ -1,0 +1,1216 @@
+
+Você é um revisor técnico de questões médicas para Revalida/Residência.
+
+TAREFA:
+Reescreva somente as alternativas de cada questão abaixo.
+
+OBJETIVO:
+- melhorar alternativas curtas, telegráficas, vagas ou desequilibradas
+- tornar as alternativas mais homogêneas em extensão e formato
+- preservar tema, enunciado, eixo decisório e gabarito
+- deixar as erradas plausíveis, mas incorretas ou menos adequadas
+- evitar alternativas caricatas ou obviamente descartáveis
+
+REGRAS CRÍTICAS:
+- NÃO altere o enunciado
+- NÃO altere o gabarito
+- NÃO mude o tema central da questão
+- NÃO invente detalhe técnico não sustentado pelo enunciado
+- mantenha todas as alternativas na mesma categoria lógica
+- evite rótulos secos quando for possível escrever algo mais informativo
+- a alternativa correta não pode ficar nitidamente mais longa ou mais específica que as demais
+- se a reescrita segura não for possível, marque `rewrite_status` como `manual_review`
+
+FORMATO DE SAÍDA:
+Responda APENAS com JSON válido, no formato:
+[
+  {
+    "id": 123,
+    "rewrite_status": "rewritten",
+    "rewrite_version": 1,
+    "rewritten_alternatives": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "answer_changed": false,
+    "risk_flags": [],
+    "rewrite_notes": [
+      "frase curta explicando a reescrita"
+    ]
+  }
+]
+
+QUESTÕES:
+[
+  {
+    "id": 6515,
+    "area": "Clínica Médica",
+    "tema": "Hematologia - Anemias Microcíticas",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 35 anos, assintomático, realiza exames de rotina que revelam hemoglobina de 11,8 g/dL (VR: 13-17), VCM de 72 fL (VR: 80-98) e HCM de 23 pg (VR: 29-33). O ferro sérico está normal, a ferritina sérica está normal e a capacidade total de ligação do ferro (TIBC) está normal. A eletroforese de hemoglobina mostra aumento da hemoglobina A2. Qual é a hipótese diagnóstica mais provável?",
+    "original_alternatives": {
+      "A": "Anemia ferropriva.",
+      "B": "Anemia da doença crônica.",
+      "C": "Talassemias alfa.",
+      "D": "Traço talassêmico beta.",
+      "E": "Anemia sideroblástica."
+    },
+    "gabarito": "D",
+    "original_comment": "O paciente apresenta anemia microcítica e hipocrômica (VCM e HCM baixos) com níveis normais de ferro e ferritina, o que afasta anemia ferropriva e anemia da doença crônica. O aumento da hemoglobina A2 na eletroforese de hemoglobina é o achado característico do traço talassêmico beta (beta-talassemia menor), que é uma condição geralmente assintomática com anemia leve a moderada, microcitose e hipocromia. Talassemias alfa podem causar microcitose, mas a eletroforese de hemoglobina é geralmente normal ou mostra aumento de Hb H (em formas mais graves) ou Hb Bart's (no nascimento), não Hb A2. Anemia sideroblástica é caracterizada por sideroblastos em anel na medula óssea e geralmente está associada a sobrecarga de ferro.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 4,
+        "C": 2,
+        "D": 3,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 25,
+        "C": 17,
+        "D": 23,
+        "E": 22
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6523,
+    "area": "Clínica Médica",
+    "tema": "Reumatologia - Lúpus Eritematoso Sistêmico",
+    "dificuldade": "Difícil",
+    "enunciado": "Uma mulher de 32 anos procura atendimento com queixas de fadiga crônica, artralgia em mãos e joelhos, lesões cutâneas eritematosas em face após exposição solar e episódios recorrentes de úlceras orais. Exames laboratoriais revelam anemia, leucopenia, proteinúria e um FAN (fator antinúcleo) positivo com título de 1:640, padrão homogêneo. Qual dos seguintes anticorpos é o mais específico e fortemente associado ao diagnóstico de Lúpus Eritematoso Sistêmico (LES) nesse contexto?",
+    "original_alternatives": {
+      "A": "Anti-Ro/SS-A.",
+      "B": "Anti-La/SS-B.",
+      "C": "Anti-Sm.",
+      "D": "Anti-histona.",
+      "E": "Anti-centrômero."
+    },
+    "gabarito": "C",
+    "original_comment": "A paciente apresenta um quadro clínico sugestivo de Lúpus Eritematoso Sistêmico (LES), com sintomas constitucionais (fadiga), articulares (artralgia), cutâneos (fotossensibilidade, lesões em face), mucosos (úlceras orais) e hematológicos (anemia, leucopenia), além de acometimento renal (proteinúria) e FAN positivo em alto título. Dentre os anticorpos listados, o anti-Sm (anti-Smith) é o mais específico para o LES, sendo encontrado em cerca de 20-30% dos pacientes, e sua presença é praticamente diagnóstica. Anti-Ro/SS-A e Anti-La/SS-B são associados principalmente à Síndrome de Sjögren, mas também podem ser encontrados em LES (especialmente em lúpus cutâneo subagudo e neonatal). Anti-histona é fortemente associado ao lúpus induzido por drogas. Anti-centrômero é específico para esclerose sistêmica (CREST).",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 13,
+        "B": 13,
+        "C": 8,
+        "D": 13,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6525,
+    "area": "Clínica Médica",
+    "tema": "Hipertensão Arterial Sistêmica - Investigação de Causas Secundárias",
+    "dificuldade": "Média",
+    "enunciado": "Homem, 38 anos, apresenta hipertensão arterial de difícil controle, com valores persistentes acima de 160/100 mmHg, apesar do uso de três anti-hipertensivos em doses máximas, incluindo um diurético. Nega histórico familiar de hipertensão precoce. Refere episódios de sudorese, palpitações e cefaleia. Qual das seguintes condições deve ser investigada prioritariamente como causa de hipertensão secundária neste paciente?",
+    "original_alternatives": {
+      "A": "Hipertireoidismo.",
+      "B": "Estenose de artéria renal.",
+      "C": "Feocromocitoma.",
+      "D": "Síndrome de Cushing.",
+      "E": "Acromegalia."
+    },
+    "gabarito": "C",
+    "original_comment": "O paciente apresenta hipertensão refratária em idade jovem, sem histórico familiar relevante, e sintomas paroxísticos (sudorese, palpitações, cefaleia) que são clássicos da tríade do feocromocitoma. Embora outras causas de hipertensão secundária (B, D, E) e condições que podem elevar a PA (A) devam ser consideradas, os sintomas descritos apontam fortemente para feocromocitoma como a investigação prioritária. A estenose de artéria renal é comum em idosos, mas pode ocorrer em jovens (displasia fibromuscular), porém os sintomas paroxísticos não são típicos. A Síndrome de Cushing geralmente apresenta um quadro mais crônico e estigmas físicos como os da Q19.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 4,
+        "C": 1,
+        "D": 3,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 26,
+        "C": 15,
+        "D": 20,
+        "E": 12
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6527,
+    "area": "Clínica Médica",
+    "tema": "Doença Renal Crônica (DRC) - Estadiamento e Complicações",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 70 anos, com história de diabetes mellitus e hipertensão arterial de longa data, apresenta creatinina sérica de 2,5 mg/dL e uma taxa de filtração glomerular estimada (TFGe) de 25 mL/min/1,73m². Ele queixa-se de fadiga, perda de apetite e inchaço nos membros inferiores. Qual das seguintes complicações é menos provável de ser encontrada neste estágio da doença renal crônica?",
+    "original_alternatives": {
+      "A": "Anemia.",
+      "B": "Hipercalemia.",
+      "C": "Acidose metabólica.",
+      "D": "Hiperparatireoidismo secundário.",
+      "E": "Hiponatremia dilucional."
+    },
+    "gabarito": "E",
+    "original_comment": "O paciente está no estágio 4 da Doença Renal Crônica (TFGe 15-29 mL/min/1,73m²). Neste estágio, várias complicações são comuns devido à perda progressiva da função renal. Anemia (A) é muito comum devido à diminuição da produção de eritropoietina. Hipercalemia (B) e acidose metabólica (C) são frequentes devido à redução da excreção de potássio e hidrogênio pelos rins. O hiperparatireoidismo secundário (D) ocorre devido à diminuição da síntese de vitamina D ativa e retenção de fosfato, levando à hipocalcemia e estimulação das paratireoides. A hiponatremia dilucional (E), embora possa ocorrer em fases avançadas da DRC, é menos provável do que as outras complicações mencionadas, que são quase universais neste estágio. Geralmente, pacientes com DRC têm dificuldade em excretar água livre, mas a hiponatremia dilucional grave não é uma complicação tão proeminente ou precoce quanto as outras.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 7,
+        "B": 13,
+        "C": 19,
+        "D": 32,
+        "E": 24
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6530,
+    "area": "Clínica Médica",
+    "tema": "Hipotireoidismo - Diagnóstico e Tratamento",
+    "dificuldade": "Fácil",
+    "enunciado": "Mulher, 52 anos, procura atendimento médico com queixas de fadiga, ganho de peso, intolerância ao frio, constipação e pele seca. Ao exame físico, apresenta bradicardia e reflexos tendinosos profundos lentificados. Qual o exame laboratorial inicial mais apropriado para investigar a suspeita de hipotireoidismo?",
+    "original_alternatives": {
+      "A": "T3 livre.",
+      "B": "T4 total.",
+      "C": "TSH (Hormônio Tireoestimulante).",
+      "D": "Anticorpos anti-tireoperoxidase (anti-TPO).",
+      "E": "Ultrassonografia de tireoide."
+    },
+    "gabarito": "C",
+    "original_comment": "Os sintomas e sinais descritos são clássicos de hipotireoidismo. O TSH é o exame inicial mais sensível e específico para rastreamento e diagnóstico de disfunção tireoidiana primária. Em casos de hipotireoidismo primário, o TSH estará elevado. T3 livre (A) e T4 total (B) são úteis para confirmar o diagnóstico e monitorar o tratamento, mas o TSH é o primeiro a se alterar e o mais indicado para triagem. Anticorpos anti-TPO (D) são importantes para identificar a etiologia autoimune (Tireoidite de Hashimoto), mas não são o exame inicial para o diagnóstico funcional. A ultrassonografia de tireoide (E) avalia a morfologia da glândula, não sua função.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 9,
+        "B": 9,
+        "C": 32,
+        "D": 43,
+        "E": 29
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6544,
+    "area": "Ginecologia e Obstetrícia",
+    "tema": "Diagnóstico Laboratorial da Menopausa",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma mulher de 55 anos procura o ginecologista queixando-se de ondas de calor, sudorese noturna e irregularidades menstruais que evoluíram para amenorreia há 8 meses. Os exames hormonais solicitados mostram: FSH = 65 UI/L (VR fase folicular: até 12 UI/L; menopausa: acima de 30 UI/L); LH = 38 UI/L (VR fase folicular: até 12 UI/L; menopausa: acima de 15 UI/L); Estradiol = 3,5 ng/dL (VR menopausa: até 5,5 ng/dL). Com base nos sintomas e nos resultados laboratoriais, qual a condição mais provável?",
+    "original_alternatives": {
+      "A": "Síndrome dos ovários policísticos.",
+      "B": "Gravidez.",
+      "C": "Menopausa.",
+      "D": "Hipotireoidismo primário.",
+      "E": "Insuficiência ovariana prematura."
+    },
+    "gabarito": "C",
+    "original_comment": "Os sintomas de ondas de calor, sudorese noturna e amenorreia são clássicos da menopausa. Os resultados laboratoriais corroboram este diagnóstico: FSH e LH estão significativamente elevados (FSH 65 UI/L, LH 38 UI/L), ambos acima dos valores de referência para menopausa (FSH acima de 30 UI/L, LH acima de 15 UI/L), enquanto o Estradiol está baixo (3,5 ng/dL), dentro da faixa de menopausa (até 5,5 ng/dL). Este perfil hormonal reflete a falência ovariana, com a hipófise tentando estimular os ovários com altas concentrações de gonadotrofinas. As outras opções são improváveis: SOP cursa com irregularidade menstrual mas em idade mais jovem e outro perfil hormonal; gravidez é excluída pela amenorreia e idade; hipotireoidismo teria TSH alterado; insuficiência ovariana prematura ocorre antes dos 40 anos.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 4,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 34,
+        "B": 9,
+        "C": 10,
+        "D": 25,
+        "E": 33
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6552,
+    "area": "Clínica Médica | Medicina Nuclear",
+    "tema": "PET/CT com 68Ga-PSMA - Captação Fisiológica e Falsos Positivos",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente com câncer de próstata é submetido a PET/CT com 68Ga-PSMA para estadiamento. Qual das seguintes estruturas ou condições representa uma captação fisiológica comum do PSMA, que não deve ser confundida com doença metastática?",
+    "original_alternatives": {
+      "A": "Linfonodos pélvicos reacionais.",
+      "B": "Gânglios simpáticos.",
+      "C": "Costocondrite.",
+      "D": "Doença de Paget óssea.",
+      "E": "Adenoma de paratireoide."
+    },
+    "gabarito": "B",
+    "original_comment": "O PSMA (Prostate-Specific Membrane Antigen) é expresso em células de câncer de próstata, mas também em algumas estruturas fisiológicas e em outras condições patológicas. Captação fisiológica comum inclui glândulas salivares, lacrimais, rins, bexiga, fígado, baço, duodeno e, notavelmente, gânglios simpáticos. A captação em gânglios simpáticos (como os gânglios cervicais, torácicos e abdominais) é um achado normal e pode ser confundida com linfonodos metastáticos se não for reconhecida. As outras opções (linfonodos reacionais, costocondrite, Doença de Paget e adenoma de paratireoide) podem apresentar captação de PSMA, mas são consideradas causas de falsos positivos patológicos, não captação fisiológica esperada.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 2,
+        "C": 1,
+        "D": 4,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 31,
+        "B": 20,
+        "C": 14,
+        "D": 22,
+        "E": 24
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6558,
+    "area": "Clínica Médica | Oncologia | Medicina Nuclear",
+    "tema": "PET/CT com 18F-FDG em Pacientes em Imunoterapia",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente com melanoma metastático em tratamento com inibidores de checkpoint imunológico (imunoterapia) realiza um PET/CT com 18F-FDG de controle. O exame revela um aumento no tamanho e na captação de FDG de algumas lesões tumorais previamente conhecidas, além do surgimento de novas lesões, mas o paciente apresenta melhora clínica. Este cenário é mais consistente com qual fenômeno?",
+    "original_alternatives": {
+      "A": "Pseudoprogressão.",
+      "B": "Hiperprogressão.",
+      "C": "Resposta metabólica completa.",
+      "D": "Doença estável.",
+      "E": "Doença refratária primária."
+    },
+    "gabarito": "A",
+    "original_comment": "A pseudoprogressão é um fenômeno particular observado em pacientes tratados com imunoterapia. Caracteriza-se por um aumento temporário no tamanho ou na atividade metabólica das lesões (ou até o surgimento de novas lesões) no início do tratamento, que pode ser confundido com progressão da doença. No entanto, é seguido por uma regressão tumoral e geralmente está associado à melhora clínica. Acredita-se que seja devido à infiltração de células inflamatórias no tumor. A hiperprogressão, por outro lado, é uma aceleração real da progressão da doença. Resposta metabólica completa e doença estável não se encaixam na descrição de aumento de lesões. Doença refratária primária implicaria que o tratamento nunca funcionou, o que não é o caso se houver melhora clínica subsequente.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 3,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 16,
+        "C": 29,
+        "D": 15,
+        "E": 27
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6559,
+    "area": "Clínica Médica | Urologia | Medicina Nuclear",
+    "tema": "PET/CT com 68Ga-PSMA - Achados Benignos",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 65 anos, com histórico de câncer de próstata e elevação do PSA, é submetido a um PET/CT com 68Ga-PSMA. O laudo do exame descreve uma captação focal do traçador em uma lesão óssea esclerótica na coluna lombar, que na tomografia associada apresenta características benignas. Qual das seguintes condições benignas é uma causa conhecida de captação de PSMA em lesões ósseas?",
+    "original_alternatives": {
+      "A": "Hemangioma vertebral.",
+      "B": "Encondroma.",
+      "C": "Ilha óssea (enostose).",
+      "D": "Fratura por insuficiência vertebral.",
+      "E": "Osteoma osteoide."
+    },
+    "gabarito": "D",
+    "original_comment": "Embora o PET/CT com 68Ga-PSMA seja altamente específico para o câncer de próstata, algumas condições benignas podem apresentar captação do traçador, levando a falsos positivos. No contexto ósseo, processos inflamatórios, reparativos ou reacionais, como fraturas (especialmente fraturas por insuficiência, compressão ou estresse), osteíte, osteoartrite e alguns processos infecciosos, podem apresentar captação de PSMA. Isso ocorre devido à expressão de PSMA em células endoteliais de vasos sanguíneos em processos de angiogênese ou inflamação. Hemangiomas, encondromas e ilhas ósseas são lesões benignas que tipicamente não apresentam captação de PSMA. Osteoma osteoide pode ter captação, mas fraturas por insuficiência são um falso positivo mais comum e clinicamente relevante em pacientes idosos com câncer.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 1,
+        "C": 3,
+        "D": 4,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 21,
+        "B": 11,
+        "C": 22,
+        "D": 36,
+        "E": 17
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6570,
+    "area": "Clínica Médica",
+    "tema": "Interpretação de exames laboratoriais (Eletrólitos)",
+    "dificuldade": "Fácil",
+    "enunciado": "Um paciente de 72 anos, com histórico de uso crônico de diuréticos tiazídicos, apresenta os seguintes resultados em exames laboratoriais: Sódio (Na+) = 128 mEq/L, Potássio (K+) = 3.0 mEq/L, Creatinina = 1.0 mg/dL. Com base nos valores de referência fornecidos na tabela, qual a alteração eletrolítica primária presente neste paciente?",
+    "original_alternatives": {
+      "A": "Hipernatremia e hipercalemia.",
+      "B": "Hiponatremia e hipocalemia.",
+      "C": "Hipernatremia e normocalemia.",
+      "D": "Normonatremia e hipocalemia.",
+      "E": "Hiponatremia e hipercalemia."
+    },
+    "gabarito": "B",
+    "original_comment": "Consultando a tabela de valores de referência para adultos: Sódio (Na+) normal é 136 a 145 mEq/L. O paciente tem 128 mEq/L, o que configura hiponatremia. Potássio (K+) normal é 3,5 a 5,1 mEq/L. O paciente tem 3.0 mEq/L, o que configura hipocalemia. A creatinina está dentro da faixa normal (0,7 a 1,3 mg/dL). Diuréticos tiazídicos são conhecidos por causar hiponatremia e hipocalemia.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 29,
+        "B": 27,
+        "C": 29,
+        "D": 28,
+        "E": 28
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6578,
+    "area": "Clínica Médica",
+    "tema": "Hipotireoidismo",
+    "dificuldade": "Fácil",
+    "enunciado": "Um paciente de 38 anos procura atendimento médico com queixas de fadiga, ganho de peso, constipação, pele seca e intolerância ao frio nos últimos 6 meses. Ao exame físico, apresenta bradicardia e reflexos tendinosos profundos lentificados. Qual o exame laboratorial inicial mais indicado para investigar a causa desses sintomas?",
+    "original_alternatives": {
+      "A": "TSH e T4 livre.",
+      "B": "Anticorpos anti-tireoperoxidase (anti-TPO).",
+      "C": "Ultrassonografia de tireoide.",
+      "D": "Cintilografia de tireoide.",
+      "E": "Dosagem de tireoglobulina."
+    },
+    "gabarito": "A",
+    "original_comment": "Os sintomas descritos são clássicos de hipotireoidismo. A avaliação inicial da função tireoidiana é feita pela dosagem do TSH e do T4 livre. O TSH é o marcador mais sensível para disfunção tireoidiana primária. Os anticorpos anti-TPO são úteis para identificar a etiologia (doença de Hashimoto), mas não para o diagnóstico inicial de disfunção. Ultrassonografia e cintilografia são exames de imagem, úteis para avaliação morfológica ou funcional em casos específicos, mas não para o rastreamento inicial. A tireoglobulina é usada no seguimento de câncer de tireoide.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 4,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 15,
+        "B": 43,
+        "C": 29,
+        "D": 26,
+        "E": 26
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6583,
+    "area": "Clínica Médica | Psiquiatria",
+    "tema": "Farmacocinética do Álcool",
+    "dificuldade": "Média",
+    "enunciado": "Após a ingestão, o álcool é metabolizado principalmente no fígado. Qual a enzima chave responsável pela conversão do etanol em acetaldeído, a primeira etapa de sua metabolização?",
+    "original_alternatives": {
+      "A": "Aldeído desidrogenase.",
+      "B": "Álcool desidrogenase.",
+      "C": "Citocromo P450 2E1 (CYP2E1).",
+      "D": "Glutamato descarboxilase.",
+      "E": "Monoamina oxidase."
+    },
+    "gabarito": "B",
+    "original_comment": "A principal enzima responsável pela metabolização do etanol em acetaldeído é a álcool desidrogenase (ADH), predominantemente encontrada no fígado. A aldeído desidrogenase (ALDH) é responsável pela próxima etapa, convertendo o acetaldeído em acetato. O sistema CYP2E1 também participa, mas em menor proporção para a maior parte do álcool.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 4,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 22,
+        "B": 21,
+        "C": 28,
+        "D": 25,
+        "E": 18
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6586,
+    "area": "Preventiva/SUS | Clínica Médica",
+    "tema": "Mortalidade Associada ao Álcool",
+    "dificuldade": "Média",
+    "enunciado": "A Organização Mundial de Saúde (OMS) destaca que o consumo de álcool está associado a mais de 200 tipos de doenças e acidentes. Além das doenças crônicas, qual das seguintes categorias de causas de morte contribui significativamente para a mortalidade atribuída ao álcool, especialmente em grupos populacionais mais jovens?",
+    "original_alternatives": {
+      "A": "Doenças neurodegenerativas.",
+      "B": "Neoplasias gastrointestinais.",
+      "C": "Acidentes de trânsito e outras lesões intencionais/não intencionais.",
+      "D": "Doenças autoimunes.",
+      "E": "Infecções respiratórias virais."
+    },
+    "gabarito": "C",
+    "original_comment": "O álcool é um fator de risco importante para lesões, incluindo acidentes de trânsito, quedas, afogamentos, violências e suicídios. Essas causas são particularmente relevantes para a mortalidade em populações mais jovens, onde o impacto das doenças crônicas ainda não é tão pronunciado.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 8,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 27,
+        "B": 29,
+        "C": 68,
+        "D": 19,
+        "E": 31
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6589,
+    "area": "Clínica Médica | Psiquiatria | Cirurgia",
+    "tema": "Intoxicação por Opioides e Tratamento",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 28 anos é encontrado inconsciente, com frequência respiratória de 6 irpm, pupilas mióticas e cianose labial. Amigos relatam que ele havia usado \"pílulas\" pouco antes. A suspeita clínica é de intoxicação por opioides. Qual a intervenção farmacológica de escolha para reverter imediatamente esse quadro?",
+    "original_alternatives": {
+      "A": "Flumazenil intravenoso.",
+      "B": "Naloxona intravenosa.",
+      "C": "Atropina intramuscular.",
+      "D": "Furosemida intravenosa.",
+      "E": "Bicarbonato de sódio intravenoso."
+    },
+    "gabarito": "B",
+    "original_comment": "A naloxona é um antagonista opioide puro que reverte rapidamente os efeitos da intoxicação por opioides, especialmente a depressão respiratória. É a medicação de escolha em quadros de overdose por opioides, devendo ser administrada prontamente em pacientes com sintomas graves como depressão respiratória e miose.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 23,
+        "B": 21,
+        "C": 23,
+        "D": 23,
+        "E": 33
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6593,
+    "area": "Clínica Médica",
+    "tema": "Transtorno por Uso de Álcool - Critérios Diagnósticos",
+    "dificuldade": "Fácil",
+    "enunciado": "Um paciente de 45 anos procura atendimento médico relatando que tem bebido álcool quase todos os dias nos últimos 8 meses. Ele menciona que, apesar de tentar diminuir a quantidade, não consegue, e que o consumo tem prejudicado seu desempenho no trabalho e suas relações familiares. Segundo os critérios do DSM-5 para Transtorno por Uso de Álcool, qual é o nível de gravidade mais provável para este paciente?",
+    "original_alternatives": {
+      "A": "Leve",
+      "B": "Moderado",
+      "C": "Grave",
+      "D": "Em remissão precoce",
+      "E": "Em remissão sustentada"
+    },
+    "gabarito": "C",
+    "original_comment": "A alternativa correta é a C. O DSM-5 define a gravidade do Transtorno por Uso de Álcool com base no número de critérios preenchidos: Leve (2-3 critérios), Moderado (4-5 critérios) e Grave (6 ou mais critérios). No caso, o paciente apresenta pelo menos três critérios: uso por um período mais longo ou em maiores quantidades do que o pretendido ('bebe quase todos os dias e tenta diminuir mas não consegue'), desejo persistente ou esforços mal-sucedidos para diminuir ou controlar o uso ('tenta diminuir a quantidade, não consegue'), e prejuízo social/ocupacional ('prejudicado seu desempenho no trabalho e suas relações familiares'). A presença de múltiplos critérios de prejuízo e descontrole, especialmente com tentativas frustradas de parar, indica gravidade. Embora o enunciado não liste todos os critérios, a descrição já aponta para mais de 5, caracterizando um transtorno grave. As opções D e E referem-se a estágios de recuperação, não aplicáveis ao caso ativo.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 4,
+        "B": 8,
+        "C": 5,
+        "D": 19,
+        "E": 22
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6604,
+    "area": "Clínica Médica",
+    "tema": "Tratamento farmacológico para dependência de álcool",
+    "dificuldade": "Difícil",
+    "enunciado": "Um paciente com Transtorno por Uso de Álcool grave, após um período de desintoxicação bem-sucedido, expressa o desejo de manter a abstinência e prevenir recaídas. Qual das seguintes medicações é aprovada para auxiliar na manutenção da abstinência de álcool, atuando na redução do craving e no prazer associado ao consumo?",
+    "original_alternatives": {
+      "A": "Dissulfiram",
+      "B": "Naltrexona",
+      "C": "Acamprosato",
+      "D": "Bupropiona",
+      "E": "Topiramato"
+    },
+    "gabarito": "B",
+    "original_comment": "A alternativa correta é a B. A Naltrexona é um antagonista opioide que atua bloqueando os receptores opioides endógenos, reduzindo o craving (desejo intenso) por álcool e diminuindo o prazer e a recompensa associados ao consumo, o que pode ajudar a prevenir recaídas. O Dissulfiram (A) causa uma reação aversiva ao álcool. O Acamprosato (C) atua modulando o sistema glutamatérgico, reduzindo os sintomas de abstinência prolongada e o craving, mas não o prazer. A Bupropiona (D) é um antidepressivo e auxílio para parar de fumar. O Topiramato (E) é um anticonvulsivante que pode ser usado off-label para álcool, mas não é a primeira escolha com esse mecanismo específico.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 11,
+        "B": 10,
+        "C": 11,
+        "D": 10,
+        "E": 10
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6606,
+    "area": "Clínica Médica",
+    "tema": "Intoxicação por estimulantes (cocaína/crack)",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 30 anos é trazido ao pronto-socorro com agitação psicomotora, delírios persecutórios, taquicardia (130 bpm), hipertensão (180/110 mmHg) e midríase. Familiares relatam que ele usou crack há poucas horas. Qual a principal preocupação no manejo imediato deste paciente?",
+    "original_alternatives": {
+      "A": "Hipoglicemia grave.",
+      "B": "Depressão respiratória iminente.",
+      "C": "Crise tireotóxica.",
+      "D": "Eventos cardiovasculares e cerebrovasculares agudos.",
+      "E": "Abstinência de álcool."
+    },
+    "gabarito": "D",
+    "original_comment": "A alternativa correta é a D. A intoxicação por estimulantes como a cocaína/crack causa uma descarga adrenérgica intensa, levando a taquicardia, hipertensão e agitação. As principais preocupações e riscos agudos são eventos cardiovasculares (infarto agudo do miocárdio, arritmias, dissecção aórtica) e cerebrovasculares (acidente vascular cerebral hemorrágico ou isquêmico), devido à vasoconstrição e aumento da demanda miocárdica. Hipoglicemia (A) é improvável. Depressão respiratória (B) é mais comum em opioides. Crise tireotóxica (C) tem sintomas semelhantes, mas o histórico de uso de crack aponta para intoxicação. Abstinência de álcool (E) tem um curso temporal diferente e sintomas mais específicos de hiperexcitabilidade central, mas sem a midríase e o perfil de risco cardiovascular agudo tão proeminente quanto a cocaína.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 2,
+        "D": 5,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 19,
+        "B": 32,
+        "C": 18,
+        "D": 52,
+        "E": 22
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6619,
+    "area": "Clínica Médica | Neurologia",
+    "tema": "Miopatias Inflamatórias - Autoanticorpos",
+    "dificuldade": "Difícil",
+    "enunciado": "Uma mulher de 48 anos apresenta fraqueza muscular proximal progressiva, pápulas de Gottron nas articulações metacarpofalângicas e interfalângicas, e lesões eritematosas no pescoço e tórax superior (sinal do V e do xale). A dosagem de enzimas musculares (CPK, aldolase) está elevada. O painel de autoanticorpos para miosite é solicitado. Qual autoanticorpo, se positivo, estaria mais fortemente associado a uma forma rapidamente progressiva de doença pulmonar intersticial?",
+    "original_alternatives": {
+      "A": "Anti-Jo-1",
+      "B": "Anti-Mi-2",
+      "C": "Anti-MDA5",
+      "D": "Anti-SRP",
+      "E": "Anti-TIF1γ"
+    },
+    "gabarito": "C",
+    "original_comment": "O quadro clínico descrito (fraqueza proximal, pápulas de Gottron, sinal do V e do xale) é altamente sugestivo de dermatomiosite. No contexto das miopatias inflamatórias idiopáticas, os autoanticorpos específicos para miosite (MSA) e associados à miosite (MAA) são importantes para o diagnóstico, classificação e prognóstico. O autoanticorpo anti-MDA5 (melanoma differentiation-associated gene 5) está fortemente associado a uma forma de dermatomiosite clinicamente amiopática ou hipomiopática, com alta prevalência de doença pulmonar intersticial rapidamente progressiva, úlceras cutâneas e artrite, mas com pouca ou nenhuma fraqueza muscular. As armadilhas incluem outros anticorpos comuns: Anti-Jo-1 é o mais comum e associado à síndrome anti-sintetase (doença pulmonar intersticial, artrite, fenômeno de Raynaud, mãos de mecânico). Anti-Mi-2 está associado a dermatomiosite clássica, com bom prognóstico e resposta a corticosteroides. Anti-SRP (signal recognition particle) está associado a miopatia necrotizante imunomediada, com fraqueza grave e refratariedade ao tratamento. Anti-TIF1γ (transcriptional intermediary factor 1-gamma) está associado a dermatomiosite e maior risco de malignidade.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 9,
+        "B": 9,
+        "C": 9,
+        "D": 8,
+        "E": 10
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6621,
+    "area": "Neurologia",
+    "tema": "Demências - Afasias Progressivas Primárias (APP)",
+    "dificuldade": "Difícil",
+    "enunciado": "Um paciente de 68 anos apresenta dificuldade progressiva na fala há 3 anos. Inicialmente, ele tinha problemas para encontrar palavras, mas agora sua fala é hesitante, com agramatismo e esforço significativo para produzir frases, embora a compreensão de sentenças simples permaneça relativamente preservada. Ele não apresenta déficits de memória proeminentes ou outras alterações cognitivas significativas. Qual subtipo de Afasia Progressiva Primária (APP) é mais provável e qual a proteinopatia mais frequentemente associada?",
+    "original_alternatives": {
+      "A": "APP não-fluente/agramática; tauopatia (ex: PSP, degeneração corticobasal).",
+      "B": "APP logopênica; TDP-43.",
+      "C": "APP semântica; alfa-sinucleinopatia.",
+      "D": "APP não-fluente/agramática; beta-amiloide.",
+      "E": "APP semântica; tauopatia."
+    },
+    "gabarito": "A",
+    "original_comment": "As Afasias Progressivas Primárias (APPs) são síndromes clínicas neurodegenerativas caracterizadas por um comprometimento progressivo da linguagem. O caso descrito, com fala hesitante, agramatismo e esforço para produção da fala, mas com compreensão preservada, é clássico da APP não-fluente/agramática. Este subtipo está mais frequentemente associado a tauopatias, como as encontradas na Paralisia Supranuclear Progressiva (PSP) ou Degeneração Corticobasal (DCB). A APP logopênica é caracterizada por dificuldade em encontrar palavras (anomia) e repetição de frases, com compreensão preservada, e está associada à patologia de Alzheimer (beta-amiloide e tau). A APP semântica é caracterizada por anomia e perda do conhecimento de palavras (compreensão de palavras), com fluência preservada, e está associada à TDP-43. As alternativas B, C, D e E apresentam combinações incorretas de subtipo e proteinopatia predominante.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 7,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 74,
+        "B": 23,
+        "C": 36,
+        "D": 42,
+        "E": 25
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6660,
+    "area": "Clínica Médica",
+    "tema": "Doença de Parkinson",
+    "dificuldade": "Média",
+    "enunciado": "Homem, 68 anos, apresenta tremor de repouso na mão direita, bradicinesia e rigidez em roda dentada no membro superior direito há cerca de um ano. Ele também refere perda de olfato e distúrbio comportamental do sono REM há 3 anos. O exame neurológico confirma a tríade parkinsoniana unilateral. Qual a terapia inicial mais apropriada para este paciente, considerando que os sintomas estão impactando sua qualidade de vida?",
+    "original_alternatives": {
+      "A": "Levodopa/Carbidopa.",
+      "B": "Pramipexol.",
+      "C": "Amantadina.",
+      "D": "Rasagilina.",
+      "E": "Benzodiazepínicos para o distúrbio do sono."
+    },
+    "gabarito": "A",
+    "original_comment": "O paciente apresenta sintomas clássicos de Doença de Parkinson, incluindo pródromos como anosmia e distúrbio comportamental do sono REM. Embora agonistas dopaminérgicos (como pramipexol) e inibidores da MAO-B (rasagilina) possam ser usados como terapia inicial, a levodopa é o medicamento mais potente e eficaz para o controle dos sintomas motores da doença de Parkinson, especialmente em pacientes idosos (>65-70 anos) ou quando os sintomas já impactam significativamente a qualidade de vida. A preocupação com discinesias induzidas por levodopa é maior em pacientes mais jovens. Amantadina é usada para discinesias ou sintomas leves. Benzodiazepínicos não tratam a doença de Parkinson em si.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 6
+      },
+      "char_lengths": {
+        "A": 19,
+        "B": 11,
+        "C": 11,
+        "D": 11,
+        "E": 43
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  }
+]

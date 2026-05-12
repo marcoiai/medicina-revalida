@@ -9,18 +9,24 @@ class SyncQuestionsWeb extends Command
 {
     protected $signature = 'questions:sync-web';
 
-    protected $description = 'Executa o pipeline completo de ingestão web, geração Gemini e importação no banco';
+    protected $description = 'Executa o pipeline completo de ingestão web, priorizando extração oficial e usando Gemini apenas como fallback';
 
     public function handle(): int
     {
         $script = base_path('tools/run_questions_pipeline.sh');
+        $environment = $_ENV;
+
+        if (!(bool) config('features.ai_enabled', true)) {
+            $environment['AI_ENABLED'] = 'false';
+            $this->warn('AI_ENABLED=false no .env. O pipeline vai pular apenas o fallback via IA e tentará importar a prova oficial quando disponível.');
+        }
 
         if (!file_exists($script)) {
             $this->error("Script não encontrado: {$script}");
             return self::FAILURE;
         }
 
-        $process = Process::fromShellCommandline('bash ' . escapeshellarg($script), base_path());
+        $process = Process::fromShellCommandline('bash ' . escapeshellarg($script), base_path(), $environment);
         $process->setTimeout(null);
         $process->run(function (string $type, string $buffer): void {
             $this->output->write($buffer);

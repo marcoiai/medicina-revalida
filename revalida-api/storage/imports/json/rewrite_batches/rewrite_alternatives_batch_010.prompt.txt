@@ -1,0 +1,1221 @@
+
+Você é um revisor técnico de questões médicas para Revalida/Residência.
+
+TAREFA:
+Reescreva somente as alternativas de cada questão abaixo.
+
+OBJETIVO:
+- melhorar alternativas curtas, telegráficas, vagas ou desequilibradas
+- tornar as alternativas mais homogêneas em extensão e formato
+- preservar tema, enunciado, eixo decisório e gabarito
+- deixar as erradas plausíveis, mas incorretas ou menos adequadas
+- evitar alternativas caricatas ou obviamente descartáveis
+
+REGRAS CRÍTICAS:
+- NÃO altere o enunciado
+- NÃO altere o gabarito
+- NÃO mude o tema central da questão
+- NÃO invente detalhe técnico não sustentado pelo enunciado
+- mantenha todas as alternativas na mesma categoria lógica
+- evite rótulos secos quando for possível escrever algo mais informativo
+- a alternativa correta não pode ficar nitidamente mais longa ou mais específica que as demais
+- se a reescrita segura não for possível, marque `rewrite_status` como `manual_review`
+
+FORMATO DE SAÍDA:
+Responda APENAS com JSON válido, no formato:
+[
+  {
+    "id": 123,
+    "rewrite_status": "rewritten",
+    "rewrite_version": 1,
+    "rewritten_alternatives": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "answer_changed": false,
+    "risk_flags": [],
+    "rewrite_notes": [
+      "frase curta explicando a reescrita"
+    ]
+  }
+]
+
+QUESTÕES:
+[
+  {
+    "id": 7251,
+    "area": "Clínica Médica",
+    "tema": "Cardiologia: Arritmias",
+    "dificuldade": "Média",
+    "enunciado": "Homem, 68 anos, com histórico de infarto agudo do miocárdio há 5 anos e disfunção ventricular esquerda, é trazido ao pronto-socorro com queixa de palpitações e tontura iniciadas há 30 minutos. Está consciente, orientado, PA 110x70 mmHg, FC 170 bpm. O ECG mostra taquicardia regular de QRS largo (160 ms), sem onda P visível. Qual a conduta inicial mais adequada para este paciente?",
+    "original_alternatives": {
+      "A": "Amiodarona intravenosa.",
+      "B": "Cardioversão elétrica sincronizada.",
+      "C": "Adenosina intravenosa.",
+      "D": "Manobras vagais.",
+      "E": "Lidocaína intravenosa."
+    },
+    "gabarito": "A",
+    "original_comment": "O paciente apresenta uma taquicardia regular de QRS largo (160 ms) e histórico de cardiopatia estrutural (IAM prévio e disfunção ventricular esquerda), o que torna a taquicardia ventricular (TV) a hipótese mais provável. Como o paciente está consciente e hemodinamicamente estável (PA 110x70 mmHg), a conduta inicial é farmacológica. A amiodarona intravenosa é o antiarrítmico de escolha para TV estável. A cardioversão elétrica sincronizada seria a escolha se o paciente estivesse instável (hipotensão, alteração do nível de consciência, dor torácica isquêmica, sinais de choque ou insuficiência cardíaca aguda). Adenosina é utilizada para taquicardias supraventriculares com QRS estreito e não é eficaz para TV. Manobras vagais também são para taquicardias supraventriculares. Lidocaína é uma opção para TV, mas a amiodarona é geralmente preferida como primeira linha devido ao seu perfil de segurança e eficácia.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 23,
+        "B": 35,
+        "C": 22,
+        "D": 16,
+        "E": 22
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7255,
+    "area": "Clínica Médica",
+    "tema": "Hematologia - Anemia Macrocítica",
+    "dificuldade": "Difícil",
+    "enunciado": "Um homem de 72 anos é internado com astenia progressiva há 6 meses, perda de peso de 5 kg e dispneia aos pequenos esforços. Apresenta antecedentes de hipertensão arterial e dislipidemia controladas. Nega etilismo ou tabagismo. Ao exame físico, está descorado 3+/4+, com esplenomegalia palpável a 3 cm do rebordo costal esquerdo. Exames laboratoriais revelam: Hb: 6,8 g/dL; VCM: 112 fL; Leucócitos: 3.500/mm³ (Neutrófilos: 1.200/mm³; Linfócitos: 1.800/mm³; Monócitos: 400/mm³; Eosinófilos: 100/mm³); Plaquetas: 90.000/mm³; Reticulócitos: 30.000/mm³ (corrigidos). A análise do esfregaço de sangue periférico mostra neutrófilos hipossegmentados e presença de dacriócitos. Qual é o diagnóstico mais provável para a condição hematológica do paciente?",
+    "original_alternatives": {
+      "A": "Anemia megaloblástica por deficiência de vitamina B12.",
+      "B": "Anemia aplásica.",
+      "C": "Mielofibrose primária.",
+      "D": "Síndrome mielodisplásica.",
+      "E": "Anemia hemolítica autoimune."
+    },
+    "gabarito": "D",
+    "original_comment": "O paciente apresenta pancitopenia (anemia, leucopenia, plaquetopenia) com anemia macrocítica (VCM 112 fL), reticulocitopenia e presença de neutrófilos hipossegmentados (anomalia de Pelger-Huët, uma dismielopoese). A esplenomegalia, embora possa ocorrer em outras condições, neste contexto de pancitopenia e dismielopoese, aponta para uma disfunção medular. A presença de dacriócitos (células em lágrima) é sugestiva de mielofibrose, mas a pancitopenia e as alterações morfológicas celulares (dismielopoese) são mais características de Síndrome Mielodisplásica (SMD). A mielofibrose primária geralmente cursa com anemia e esplenomegalia proeminente, mas a pancitopenia e a dismielopoese são mais marcantes na SMD. Anemia megaloblástica por B12 pode causar pancitopenia e macrocitose, mas a presença de neutrófilos hipossegmentados e dacriócitos não é típica. Anemia aplásica cursa com pancitopenia, mas sem macrocitose ou alterações morfológicas. Anemia hemolítica autoimune cursaria com reticulocitose e sinais de hemólise. Portanto, a Síndrome Mielodisplásica é o diagnóstico mais provável, necessitando de biópsia de medula óssea para confirmação.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 7,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 54,
+        "B": 16,
+        "C": 22,
+        "D": 25,
+        "E": 28
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7261,
+    "area": "Clínica Médica",
+    "tema": "Infectologia - Pneumonia Associada à Ventilação",
+    "dificuldade": "Difícil",
+    "enunciado": "Um paciente de 55 anos, internado em UTI e em ventilação mecânica há 7 dias por traumatismo cranioencefálico grave, desenvolve febre (39°C), leucocitose (18.000/mm³), secreção traqueal purulenta e piora da oxigenação. A cultura de secreção traqueal revela *Pseudomonas aeruginosa* multissensível e *Candida glabrata* (sensível a equinocandinas, resistente a fluconazol e anfotericina B). Qual a combinação antimicrobiana mais adequada para iniciar o tratamento empírico, considerando a probabilidade de pneumonia associada à ventilação (PAV) e a colonização fúngica?",
+    "original_alternatives": {
+      "A": "Cefepime e fluconazol.",
+      "B": "Piperacilina/tazobactam e caspofungina.",
+      "C": "Meropenem e anfotericina B lipossomal.",
+      "D": "Ciprofloxacina e voriconazol.",
+      "E": "Vancomicina e micafungina."
+    },
+    "gabarito": "B",
+    "original_comment": "O paciente apresenta sinais de PAV em um contexto de alto risco (VM > 5 dias). A cultura positiva para *Pseudomonas aeruginosa* multissensível requer um antibiótico com cobertura antipseudomonas, como piperacilina/tazobactam, cefepime ou meropenem. A presença de *Candida glabrata* resistente a fluconazol e anfotericina B indica a necessidade de uma equinocandina (como caspofungina ou micafungina) para o tratamento da candidemia ou infecção invasiva, caso a colonização seja relevante ou haja evidência de infecção fúngica. A combinação piperacilina/tazobactam e caspofungina cobre adequadamente ambos os patógenos com base nos resultados de sensibilidade. As outras opções falham em cobrir um dos patógenos ou usam um antifúngico ao qual o *Candida glabrata* é resistente (fluconazol, anfotericina B) ou um antibiótico inadequado para a *Pseudomonas* (vancomicina). Voriconazol não é a primeira escolha para *C. glabrata* e a questão aponta resistência a ele.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 5,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 22,
+        "B": 39,
+        "C": 38,
+        "D": 29,
+        "E": 26
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7276,
+    "area": "Clínica Médica",
+    "tema": "Reumatologia - Osteoartrite",
+    "dificuldade": "Fácil",
+    "enunciado": "Um homem de 65 anos, previamente hígido, procura atendimento com queixa de dor nas mãos e joelhos há aproximadamente 2 anos. A dor é pior no final do dia e após o uso das articulações, aliviando com repouso. Ele relata rigidez matinal de curta duração, cerca de 10-15 minutos. Ao exame físico, observa-se aumento de volume nas articulações interfalangeanas distais e proximais, com nódulos ósseos palpáveis e crepitação à movimentação do joelho. Os exames laboratoriais, incluindo fator reumatoide e anti-CCP, são negativos. Qual o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Artrite reumatoide.",
+      "B": "Lúpus eritematoso sistêmico.",
+      "C": "Gota.",
+      "D": "Osteoartrite.",
+      "E": "Artrite psoriásica."
+    },
+    "gabarito": "D",
+    "original_comment": "O quadro clínico de dor articular que piora com o uso e melhora com repouso, rigidez matinal de curta duração (<30 minutos), acometimento de interfalangeanas distais e proximais com nódulos ósseos (Nódulos de Heberden e Bouchard, respectivamente), crepitação e ausência de marcadores inflamatórios sistêmicos ou autoanticorpos (Fator Reumatoide e anti-CCP negativos) são características clássicas da osteoartrite. As outras opções são menos prováveis devido à apresentação clínica e aos exames complementares.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 1,
+        "D": 1,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 19,
+        "B": 28,
+        "C": 5,
+        "D": 13,
+        "E": 19
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7283,
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia - Insuficiência Adrenal",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma paciente de 35 anos é admitida no pronto-socorro com fraqueza extrema, vômitos, dor abdominal e tontura ao se levantar. Relata perda de peso não intencional e escurecimento da pele nos últimos meses. Ao exame, está hipotensa (PA 80x50 mmHg) e desidratada. Os exames laboratoriais revelam Na+ 125 mEq/L, K+ 6,2 mEq/L, glicose 55 mg/dL e creatinina 1,5 mg/dL. Qual o distúrbio eletrolítico mais característico da insuficiência adrenal primária que contribui para o quadro da paciente?",
+    "original_alternatives": {
+      "A": "Hiponatremia hipervolêmica.",
+      "B": "Hipercalemia.",
+      "C": "Hipocalcemia.",
+      "D": "Hipernatremia.",
+      "E": "Hipomagnesemia."
+    },
+    "gabarito": "B",
+    "original_comment": "A insuficiência adrenal primária (doença de Addison) cursa com deficiência de cortisol e aldosterona. A deficiência de aldosterona leva à perda renal de sódio e retenção de potássio, resultando em hiponatremia (pela perda de sódio e aumento da secreção de ADH devido à hipovolemia) e, classicamente, hipercalemia. A hipercalemia é um achado importante e contribui para os sintomas de fraqueza e pode levar a arritmias cardíacas. A hipoglicemia é devido à deficiência de cortisol.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 27,
+        "B": 13,
+        "C": 13,
+        "D": 14,
+        "E": 15
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7296,
+    "area": "Cirurgia",
+    "tema": "Hérnias da parede abdominal",
+    "dificuldade": "Média",
+    "enunciado": "Homem, 72 anos, tabagista e ex-etilista, com histórico de DPOC, procura o pronto-socorro com dor abdominal e abaulamento escrotal esquerdo há 3 dias. Refere dificuldade para evacuar e náuseas, mas nega vômitos. Ao exame, apresenta massa indolor, irredutível, na região inguinal esquerda, que se estende ao escroto. Não há sinais de hiperemia ou calor local. O toque retal revela ampola vazia. Suspeita-se de hérnia inguinal indireta. Qual é a complicação mais provável associada a este quadro?",
+    "original_alternatives": {
+      "A": "Hérnia encarcerada",
+      "B": "Hérnia estrangulada",
+      "C": "Hérnia de Littre",
+      "D": "Hérnia de Garengeot",
+      "E": ""
+    },
+    "gabarito": "A",
+    "original_comment": "A hérnia encarcerada é caracterizada pela impossibilidade de redução do conteúdo herniário para a cavidade abdominal, mas sem comprometimento vascular. O paciente apresenta abaulamento irredutível e sintomas obstrutivos (dificuldade para evacuar, náuseas), mas não há sinais de isquemia (dor intensa, hiperemia, sinais de irritação peritoneal ou febre). A hérnia estrangulada implicaria comprometimento vascular e sinais inflamatórios/isquêmicos, que não estão presentes. Hérnia de Littre envolve divertículo de Meckel, e de Garengeot, apêndice, ambos não sugeridos pelo caso.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 3,
+        "D": 3,
+        "E": 0
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 19,
+        "C": 16,
+        "D": 19,
+        "E": 0
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7298,
+    "area": "Cirurgia",
+    "tema": "Obstrução intestinal",
+    "dificuldade": "Média",
+    "enunciado": "Homem, 58 anos, com histórico de cirurgia de apendicectomia há 20 anos, chega ao pronto-socorro com dor abdominal em cólica, distensão abdominal progressiva, náuseas e vômitos biliosos há 24 horas. Nega eliminação de flatos ou fezes. Ao exame, abdome distendido, timpânico, com ruídos hidroaéreos aumentados e de timbre metálico. Não há sinais de irritação peritoneal. Uma radiografia simples de abdome mostra alças de delgado dilatadas com níveis hidroaéreos e ausência de gás no cólon distal. Qual é a causa mais provável da obstrução intestinal neste paciente?",
+    "original_alternatives": {
+      "A": "Íleo paralítico",
+      "B": "Volvo de sigmoide",
+      "C": "Brida aderencial",
+      "D": "Neoplasia de cólon",
+      "E": ""
+    },
+    "gabarito": "C",
+    "original_comment": "O histórico de cirurgia abdominal prévia (apendicectomia) é o principal fator de risco para obstrução intestinal por bridas aderenciais, que são a causa mais comum de obstrução de delgado em adultos. Os sintomas (dor em cólica, distensão, vômitos biliosos, parada de eliminação de flatos e fezes) e os achados radiográficos (alças de delgado dilatadas, níveis hidroaéreos, ausência de gás distal) são consistentes com obstrução de delgado. Íleo paralítico não apresentaria ruídos hidroaéreos aumentados e seria mais difuso. Volvo de sigmoide e neoplasia de cólon causariam obstrução de cólon, geralmente com achados radiográficos diferentes (sinal do grão de café no volvo, distensão de cólon proximal na neoplasia).",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 2,
+        "D": 3,
+        "E": 0
+      },
+      "char_lengths": {
+        "A": 15,
+        "B": 17,
+        "C": 16,
+        "D": 18,
+        "E": 0
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7299,
+    "area": "Clínica Médica | Cirurgia",
+    "tema": "Coagulação e Hemostasia",
+    "dificuldade": "Difícil",
+    "enunciado": "Um paciente em choque hemorrágico devido a trauma abdominal grave é submetido a um tromboelastograma (TEG) para guiar a transfusão. O resultado do TEG mostra um ângulo alfa (α) diminuído e um R (tempo de reação) prolongado, com um MA (amplitude máxima) normal. Com base nesses achados, qual componente sanguíneo deve ser priorizado na transfusão?",
+    "original_alternatives": {
+      "A": "Concentrado de Hemácias",
+      "B": "Plasma Fresco Congelado (PFC)",
+      "C": "Plaquetas",
+      "D": "Crioprecipitado",
+      "E": ""
+    },
+    "gabarito": "B",
+    "original_comment": "O tromboelastograma (TEG) avalia a coagulação global. Um R prolongado indica um atraso no início da formação do coágulo, geralmente associado à deficiência de fatores de coagulação. Um ângulo alfa (α) diminuído reflete uma taxa lenta de formação do coágulo, também relacionada à deficiência de fatores de coagulação ou fibrinogênio. O MA normal indica que a força máxima do coágulo, principalmente dependente de plaquetas e fibrinogênio, está preservada. Portanto, a combinação de R prolongado e ângulo alfa diminuído, com MA normal, sugere uma deficiência de fatores de coagulação, que é melhor corrigida com Plasma Fresco Congelado (PFC). Concentrado de hemácias trata a anemia, plaquetas corrigem trombocitopenia (MA diminuído), e crioprecipitado seria para deficiência de fibrinogênio grave (que também afetaria o MA e ângulo alfa, mas o PFC é mais abrangente para fatores).",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 4,
+        "C": 1,
+        "D": 1,
+        "E": 0
+      },
+      "char_lengths": {
+        "A": 23,
+        "B": 29,
+        "C": 9,
+        "D": 15,
+        "E": 0
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7393,
+    "area": "Cirurgia",
+    "tema": "Cirurgia do Aparelho Digestivo - Tumor do Estroma Gastrointestinal (GIST)",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 62 anos apresenta dor abdominal inespecífica e saciedade precoce. A endoscopia digestiva alta revela uma lesão subepitelial de 6 cm na grande curvatura gástrica. A ecoendoscopia com punção aspirativa por agulha fina (PAAF) mostra células fusiformes. A imuno-histoquímica do material da biópsia demonstra positividade para CD117, DOG-1 e CD34. Qual o diagnóstico mais provável para esta paciente?",
+    "original_alternatives": {
+      "A": "Linfoma gástrico.",
+      "B": "Leiomioma gástrico.",
+      "C": "Schwannoma gástrico.",
+      "D": "Adenocarcinoma gástrico.",
+      "E": "Tumor do estroma gastrointestinal (GIST)."
+    },
+    "gabarito": "E",
+    "original_comment": "Os tumores do estroma gastrointestinal (GIST) são as neoplasias mesenquimais mais comuns do trato gastrointestinal. O diagnóstico é estabelecido pela histopatologia de células fusiformes ou epitelioides e, crucialmente, pela imuno-histoquímica que demonstra positividade para CD117 (KIT), DOG-1 e frequentemente CD34. A positividade para CD117 é um marcador diagnóstico chave para GIST. As outras alternativas são improváveis: linfoma (A) seria positivo para marcadores linfoides (CD20, CD3); leiomioma (B) seria positivo para actina de músculo liso, mas negativo para CD117/DOG-1; schwannoma (C) seria positivo para S100; e adenocarcinoma (D) seria uma lesão epitelial, não subepitelial, com marcadores como CEA, CK.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 5
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 19,
+        "C": 20,
+        "D": 24,
+        "E": 41
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7395,
+    "area": "Cirurgia",
+    "tema": "Cirurgia do Aparelho Digestivo - Câncer de Pâncreas",
+    "dificuldade": "Difícil",
+    "enunciado": "Um homem de 70 anos, com história de icterícia obstrutiva, perda ponderal e dor abdominal, foi diagnosticado com adenocarcinoma de cabeça de pâncreas. A tomografia computadorizada de abdome revela uma lesão sólida no processo uncinado, com envolvimento da veia mesentérica superior em menos de 180° da circunferência, sem sinais de trombose. A artéria mesentérica superior e o tronco celíaco estão livres. Qual a classificação de ressecabilidade deste tumor?",
+    "original_alternatives": {
+      "A": "Ressecável.",
+      "B": "Localmente avançado.",
+      "C": "Borderline ressecável.",
+      "D": "Metastático.",
+      "E": "Não ressecável."
+    },
+    "gabarito": "C",
+    "original_comment": "A classificação de ressecabilidade do câncer de pâncreas é crucial para definir a estratégia terapêutica. O envolvimento da veia mesentérica superior (VMS) ou veia porta em menos de 180° da circunferência, sem trombose, é uma característica que define o tumor como 'borderline ressecável'. Isso significa que a ressecção cirúrgica é tecnicamente possível, mas com alto risco de margens positivas ou complicações, e geralmente se beneficia de terapia neoadjuvante para aumentar as chances de uma ressecção R0. Tumores ressecáveis (A) não apresentam envolvimento vascular. Tumores localmente avançados (B) teriam envolvimento arterial ou venoso extenso (>180° ou trombose irressecável). Metastático (D) e não ressecável (E) são categorias para doença mais avançada ou com metástases a distância.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 2,
+        "C": 2,
+        "D": 1,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 11,
+        "B": 20,
+        "C": 22,
+        "D": 12,
+        "E": 15
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7404,
+    "area": "Cirurgia",
+    "tema": "Divertículo de Meckel",
+    "dificuldade": "Média",
+    "enunciado": "Durante uma laparotomia exploradora realizada por trauma abdominal em um paciente de 25 anos, hemodinamicamente estável, é incidentalmente encontrado um divertículo de Meckel de aproximadamente 4 cm de comprimento, localizado a 60 cm da válvula ileocecal. O divertículo não apresenta sinais inflamatórios ou de complicação. Qual é o tipo de tecido ectópico mais comumente encontrado em divertículos de Meckel sintomáticos ou complicados?",
+    "original_alternatives": {
+      "A": "Tecido pancreático.",
+      "B": "Tecido gástrico.",
+      "C": "Tecido colônico.",
+      "D": "Tecido esplênico.",
+      "E": "Tecido hepático."
+    },
+    "gabarito": "B",
+    "original_comment": "O divertículo de Meckel é a anomalia congênita mais comum do trato gastrointestinal, resultante da falha de obliteração do ducto onfalomesentérico. A presença de tecido ectópico é comum, e o tecido gástrico ectópico é o mais frequente (presente em cerca de 50% dos divertículos sintomáticos), sendo responsável por complicações como sangramento (devido à ulceração pela secreção ácida) e perfuração. Tecido pancreático (A) é o segundo mais comum, mas menos frequente que o gástrico. As outras opções são raras.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 19,
+        "B": 16,
+        "C": 16,
+        "D": 17,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7406,
+    "area": "Cirurgia",
+    "tema": "Anatomia cirúrgica e acessos",
+    "dificuldade": "Média",
+    "enunciado": "Em cirurgia abdominal, para obter acesso a estruturas retroperitoneais como o rim esquerdo, aorta abdominal distal ou vasos ilíacos esquerdos, qual manobra de mobilização visceral é classicamente empregada?",
+    "original_alternatives": {
+      "A": "Manobra de Kocher.",
+      "B": "Manobra de Cattell-Braasch.",
+      "C": "Manobra de Mattox.",
+      "D": "Manobra de Pringle.",
+      "E": "Manobra de Bevan."
+    },
+    "gabarito": "C",
+    "original_comment": "A manobra de Mattox envolve a mobilização do cólon esquerdo, baço, cauda e corpo do pâncreas, rim esquerdo e adrenal medialmente, expondo o retroperitônio esquerdo, incluindo a aorta abdominal distal, vasos ilíacos e o psoas. É frequentemente usada para controle vascular em trauma ou cirurgia oncológica. A manobra de Kocher (A) mobiliza o duodeno e a cabeça do pâncreas para expor a veia cava inferior e estruturas retroperitoneais direitas. A manobra de Cattell-Braasch (B) mobiliza o cólon direito e o intestino delgado para expor a veia cava inferior e a aorta abdominal mais centralmente. A manobra de Pringle (D) é o clampeamento do pedículo hepático para controle de sangramento hepático. A manobra de Bevan (E) é uma técnica para exposição do ureter.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 27,
+        "C": 18,
+        "D": 19,
+        "E": 17
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7416,
+    "area": "Cirurgia",
+    "tema": "Carcinoma de Tireoide",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 78 anos, com histórico de bócio multinodular de longa data, apresenta-se com um crescimento rápido e doloroso de um nódulo cervical anterior nas últimas 4 semanas. Ela relata disfonia progressiva e dispneia leve. Ao exame físico, palpa-se uma massa tireoidiana pétrea, fixa e irregular, com linfonodos cervicais aumentados. Qual o tipo histológico de carcinoma de tireoide mais provável neste cenário?",
+    "original_alternatives": {
+      "A": "Carcinoma Papilífero.",
+      "B": "Carcinoma Folicular.",
+      "C": "Carcinoma Medular.",
+      "D": "Carcinoma Anaplásico.",
+      "E": "Linfoma da tireoide."
+    },
+    "gabarito": "D",
+    "original_comment": "O carcinoma anaplásico de tireoide (CAT) é um dos tumores mais agressivos do corpo humano. Caracteriza-se por um crescimento extremamente rápido, invasão local (causando disfonia, dispneia, disfagia) e alta taxa de metástases à distância. É mais comum em idosos, muitas vezes em pacientes com histórico de bócio multinodular de longa data, sugerindo uma desdiferenciação de um carcinoma papilífero ou folicular preexistente. A massa pétrea, fixa e irregular, com linfonodos aumentados, em um curto período de tempo, é altamente indicativa de CAT. Os carcinomas papilífero e folicular geralmente têm crescimento lento e bom prognóstico. O medular é de origem parafolicular e pode estar associado a síndromes MEN. O linfoma da tireoide é outra possibilidade em idosos com bócio de Hashimoto, mas o crescimento 'pétreo' e a invasão local são mais característicos do anaplásico.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 21,
+        "B": 20,
+        "C": 18,
+        "D": 21,
+        "E": 20
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7423,
+    "area": "Cirurgia",
+    "tema": "Carcinoma Hepatocelular (CHC) - Diagnóstico por imagem",
+    "dificuldade": "Média",
+    "enunciado": "Paciente de 65 anos, com cirrose hepática por hepatite B, em seguimento para CHC. Realiza ressonância magnética de abdome com contraste que revela lesão hepática de 3,0 cm no segmento VIII, com realce arterial precoce e washout na fase portal/tardia. Não há evidência de invasão vascular ou metástases. Qual o diagnóstico mais provável para essa lesão, de acordo com os critérios de imagem?",
+    "original_alternatives": {
+      "A": "Hemangioma hepático.",
+      "B": "Hiperplasia nodular focal.",
+      "C": "Carcinoma hepatocelular.",
+      "D": "Adenoma hepático.",
+      "E": ""
+    },
+    "gabarito": "C",
+    "original_comment": "Em pacientes com cirrose hepática, uma lesão com realce arterial precoce e washout na fase portal/tardia (padrão 'wash-in/wash-out') é altamente sugestiva de Carcinoma Hepatocelular (CHC) e, em muitos casos, é suficiente para o diagnóstico sem necessidade de biópsia, de acordo com os critérios do LI-RADS. Hemangiomas têm realce periférico nodular progressivo. Hiperplasia nodular focal tipicamente mostra realce arterial homogêneo com cicatriz central. Adenomas são mais comuns em mulheres jovens e não têm um padrão de realce tão específico quanto o CHC para diagnóstico em cirróticos.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 2,
+        "D": 2,
+        "E": 0
+      },
+      "char_lengths": {
+        "A": 20,
+        "B": 26,
+        "C": 24,
+        "D": 17,
+        "E": 0
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7425,
+    "area": "Clínica Médica",
+    "tema": "Colangite Esclerosante Primária (CEP)",
+    "dificuldade": "Média",
+    "enunciado": "Um paciente de 38 anos, com história de doença inflamatória intestinal (retocolite ulcerativa) diagnosticada há 10 anos, apresenta icterícia intermitente, prurido, fadiga e episódios recorrentes de colangite aguda (febre, dor em hipocôndrio direito, icterícia). Exames laboratoriais mostram elevação de fosfatase alcalina e gama-GT. A colangiorressonância revela estenoses multifocais e dilatações saculares das vias biliares intra e extra-hepáticas, com aspecto em 'contas de rosário'. Qual a principal hipótese diagnóstica?",
+    "original_alternatives": {
+      "A": "Coledocolitíase.",
+      "B": "Colangiocarcinoma.",
+      "C": "Cirrose biliar primária.",
+      "D": "Colangite esclerosante primária.",
+      "E": ""
+    },
+    "gabarito": "D",
+    "original_comment": "A associação de doença inflamatória intestinal (especialmente retocolite ulcerativa) com colangite de repetição, icterícia, elevação de enzimas colestáticas e achados de estenoses e dilatações das vias biliares em 'contas de rosário' na colangiorressonância é altamente característica de Colangite Esclerosante Primária (CEP). Coledocolitíase geralmente apresenta cálculos. Colangiocarcinoma pode causar estenoses, mas o padrão multifocal e a associação com DII são mais sugestivos de CEP. Cirrose biliar primária afeta principalmente pequenos ductos biliares e não apresenta o padrão de 'contas de rosário' em grandes ductos.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 3,
+        "D": 3,
+        "E": 0
+      },
+      "char_lengths": {
+        "A": 16,
+        "B": 18,
+        "C": 24,
+        "D": 32,
+        "E": 0
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7430,
+    "area": "Cirurgia",
+    "tema": "Complicações Pós-operatórias - Apendicectomia",
+    "dificuldade": "Fácil",
+    "enunciado": "Um paciente de 25 anos é submetido a uma apendicectomia por incisão de McBurney. No pós-operatório, ele queixa-se de dormência e dor em queimação na região suprapúbica e na parte proximal da coxa direita. Qual nervo é mais provavelmente lesado durante este procedimento?",
+    "original_alternatives": {
+      "A": "Nervo genitofemoral.",
+      "B": "Nervo ilioinguinal.",
+      "C": "Nervo ílio-hipogástrico.",
+      "D": "Nervo cutâneo femoral lateral.",
+      "E": "Nervo obturador."
+    },
+    "gabarito": "B",
+    "original_comment": "Os nervos ilioinguinal e ílio-hipogástrico são os mais comumente lesados em incisões abdominais baixas, como a de McBurney. O nervo ilioinguinal (B) inerva a pele da região suprapúbica, parte superior da coxa (medial) e genitália externa, correspondendo à descrição do paciente. O nervo ílio-hipogástrico (C) inerva a pele da região glútea e hipogástrica lateral. Ambos podem ser lesados, mas a distribuição da dor e dormência descrita aponta mais especificamente para o ilioinguinal. O nervo genitofemoral (A) inerva a pele da coxa anterior e escroto/lábios maiores, mas sua lesão é menos comum em McBurney. O nervo cutâneo femoral lateral (D) inerva a face lateral da coxa. O nervo obturador (E) inerva a face medial da coxa e é mais profundo.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 4,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 20,
+        "B": 19,
+        "C": 24,
+        "D": 30,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7431,
+    "area": "Cirurgia",
+    "tema": "Anatomia Cirúrgica do Pescoço",
+    "dificuldade": "Média",
+    "enunciado": "Durante uma cervicotomia exploradora para controle de sangramento em um paciente vítima de ferimento penetrante cervical na zona II, o cirurgião, ao dissecar próximo à artéria carótida comum e veia jugular interna, acidentalmente lesa uma estrutura nervosa. Após a recuperação, o paciente apresenta disfonia persistente e paralisia de uma prega vocal, confirmada por laringoscopia. Qual nervo foi mais provavelmente lesado?",
+    "original_alternatives": {
+      "A": "Nervo frênico.",
+      "B": "Nervo hipoglosso.",
+      "C": "Nervo vago.",
+      "D": "Nervo laríngeo recorrente.",
+      "E": "Ramo externo do nervo laríngeo superior."
+    },
+    "gabarito": "D",
+    "original_comment": "A disfonia e a paralisia de prega vocal são sinais clássicos de lesão do nervo laríngeo recorrente (D). Embora o nervo vago (C) seja o nervo de onde o laríngeo recorrente se origina, a lesão do vago no pescoço antes da emissão do laríngeo recorrente causaria sintomas mais amplos e graves, incluindo alterações cardíacas e digestivas. Lesões mais distais do vago podem afetar o laríngeo recorrente. O nervo frênico (A) afeta o diafragma. O nervo hipoglosso (B) afeta a movimentação da língua. O ramo externo do nervo laríngeo superior (E) inerva o músculo cricotireóideo, responsável pela tensão da prega vocal, e sua lesão causaria alteração do timbre e cansaço vocal, mas não paralisia completa da prega.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 3,
+        "E": 6
+      },
+      "char_lengths": {
+        "A": 14,
+        "B": 17,
+        "C": 11,
+        "D": 26,
+        "E": 40
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7450,
+    "area": "Cirurgia",
+    "tema": "Massa Cervical Congênita",
+    "dificuldade": "Média",
+    "enunciado": "Criança de 5 anos é levada ao pediatra por apresentar uma massa indolor na região lateral do pescoço, anterior ao músculo esternocleidomastoideo, desde o nascimento. A massa é macia, flutuante e aumenta de tamanho quando a criança chora ou faz força. Não há sinais inflamatórios. Qual a hipótese diagnóstica mais provável?",
+    "original_alternatives": {
+      "A": "Linfadenite cervical aguda.",
+      "B": "Cisto tireoglosso.",
+      "C": "Cisto branquial.",
+      "D": "Higroma cístico.",
+      "E": "Paraganglioma."
+    },
+    "gabarito": "C",
+    "original_comment": "O cisto branquial (ou cisto do segundo arco branquial) é uma anomalia congênita que se apresenta como uma massa indolor, macia, flutuante, geralmente localizada na região lateral do pescoço, anterior ao músculo esternocleidomastoideo. A história de aumento com choro ou esforço pode indicar comunicação com a faringe, embora não seja sempre presente. O cisto tireoglosso é uma massa na linha média do pescoço, que se move com a protusão da língua. Linfadenite é inflamatória e dolorosa. Higroma cístico (linfangioma cístico) é uma malformação linfática, geralmente maior, mais difusa e com consistência mais pastosa, frequentemente diagnosticada no período neonatal. Paraganglioma é um tumor vascular raro, geralmente em adultos, e não apresenta as características descritas.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 27,
+        "B": 18,
+        "C": 16,
+        "D": 16,
+        "E": 14
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7452,
+    "area": "Clínica Médica | Cirurgia",
+    "tema": "Neoplasia Endócrina Múltipla",
+    "dificuldade": "Difícil",
+    "enunciado": "Homem, 40 anos, apresenta-se com histórico de nódulo tireoidiano de crescimento rápido e diarreia crônica. Recentemente, foi diagnosticado com feocromocitoma bilateral. O exame de cálcio sérico e paratormônio (PTH) estão normais. Qual o tipo de Neoplasia Endócrina Múltipla (NEM) mais provável neste caso?",
+    "original_alternatives": {
+      "A": "NEM tipo 1.",
+      "B": "NEM tipo 2a.",
+      "C": "NEM tipo 2b.",
+      "D": "NEM tipo 3.",
+      "E": "Síndrome de Von Hippel-Lindau."
+    },
+    "gabarito": "C",
+    "original_comment": "A Neoplasia Endócrina Múltipla (NEM) tipo 2b (ou NEM 3) é caracterizada pela tríade de carcinoma medular de tireoide (que pode causar diarreia devido à produção de calcitonina), feocromocitoma (uni ou bilateral) e neuromas mucosos (não mencionados no caso, mas característicos). A ausência de hiperparatireoidismo (cálcio e PTH normais) afasta a NEM 2a, que incluiria hiperparatireoidismo primário. A NEM 1 é caracterizada por tumores de paratireoide, hipófise e pâncreas, não se encaixando no quadro. A síndrome de Von Hippel-Lindau está associada a feocromocitomas, mas também a hemangioblastomas do SNC e tumores renais, sem o componente de carcinoma medular de tireoide. Portanto, a combinação de carcinoma medular de tireoide e feocromocitoma, sem hiperparatireoidismo, aponta para NEM 2b.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 11,
+        "B": 12,
+        "C": 12,
+        "D": 11,
+        "E": 30
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7465,
+    "area": "Cirurgia",
+    "tema": "Hérnias da Parede Abdominal - Hérnia de Richter",
+    "dificuldade": "Difícil",
+    "enunciado": "Paciente, 68 anos de idade, comparece ao pronto-socorro com dor e abaulamento irredutível na região inguinal direita há 12 horas. Refere que tem conseguido eliminar gases e fezes, embora com dificuldade. Ao exame, massa dolorosa, firme, sem sinais inflamatórios na pele. É submetido a cirurgia de urgência e encontra-se uma pequena porção da parede antimesentérica do intestino delgado encarcerada no saco herniário, com sinais de isquemia. Qual o tipo de hérnia que melhor descreve este achado?",
+    "original_alternatives": {
+      "A": "Hérnia de Littre.",
+      "B": "Hérnia de Amyand.",
+      "C": "Hérnia de Richter.",
+      "D": "Hérnia de Spiegel.",
+      "E": "Hérnia de Garengeot."
+    },
+    "gabarito": "C",
+    "original_comment": "A hérnia de Richter é caracterizada pelo encarceramento de apenas uma parte da circunferência da parede intestinal (geralmente a borda antimesentérica) dentro do saco herniário. Isso permite que o lúmen intestinal permaneça parcialmente pérvio, explicando a eliminação de gases e fezes, mas a porção encarcerada pode sofrer estrangulamento e isquemia, como no caso. A hérnia de Littre contém um divertículo de Meckel. A hérnia de Amyand contém o apêndice cecal. A hérnia de Spiegel é uma hérnia ventral lateral. A hérnia de Garengeot contém o apêndice dentro de um saco herniário femoral.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 17,
+        "C": 18,
+        "D": 18,
+        "E": 20
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  }
+]

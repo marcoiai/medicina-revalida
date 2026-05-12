@@ -8,11 +8,19 @@ use Illuminate\Console\Command;
 
 class ImportQuestionsJson extends Command
 {
-    protected $signature = 'questions:import-json {file=storage/imports/questions.json}';
+    protected $signature = 'questions:import-json
+        {file=storage/imports/questions.json}
+        {--category= : Força a categoria de estudo (revalida ou estudo_geral)}';
     protected $description = 'Importa questões JSON para o banco com deduplicação e metadados de fonte';
 
     public function handle(): int
     {
+        $forcedCategory = $this->normalizeStudyCategory((string) ($this->option('category') ?? ''));
+        if ($forcedCategory === 'invalid') {
+            $this->error('Categoria inválida. Use revalida ou estudo_geral.');
+            return self::FAILURE;
+        }
+
         $file = base_path($this->argument('file'));
 
         if (!file_exists($file)) {
@@ -51,6 +59,8 @@ class ImportQuestionsJson extends Command
                 'area' => (string) ($item['area'] ?? ''),
                 'tema' => (string) ($item['tema'] ?? ''),
                 'dificuldade' => (string) ($item['dificuldade'] ?? 'Média'),
+                'question_type' => (string) ($item['question_type'] ?? 'multiple_choice'),
+                'study_category' => $this->resolveStudyCategory($item, $source, $forcedCategory),
                 'enunciado' => (string) ($item['enunciado'] ?? ''),
                 'alternativa_a' => (string) ($alternativas['A'] ?? ''),
                 'alternativa_b' => (string) ($alternativas['B'] ?? ''),
@@ -59,6 +69,7 @@ class ImportQuestionsJson extends Command
                 'alternativa_e' => (string) ($alternativas['E'] ?? ''),
                 'gabarito' => (string) ($item['gabarito'] ?? 'A'),
                 'comentario' => isset($item['comentario']) ? (string) $item['comentario'] : null,
+                'official_answer' => isset($item['official_answer']) ? (string) $item['official_answer'] : null,
                 'origin' => (string) ($item['origin'] ?? 'official_based'),
                 'status' => (string) ($item['status'] ?? 'draft'),
                 'reference' => isset($item['reference']) ? (string) $item['reference'] : $this->buildReference($item, $source),
@@ -145,7 +156,6 @@ class ImportQuestionsJson extends Command
             'D' => $this->normalizeText($alternativas['D'] ?? ''),
             'E' => $this->normalizeText($alternativas['E'] ?? ''),
             'gabarito' => $this->normalizeText($item['gabarito'] ?? ''),
-            'comentario' => $this->normalizeText($item['comentario'] ?? ''),
         ];
 
         return hash('sha256', json_encode($canonical, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
@@ -181,5 +191,44 @@ class ImportQuestionsJson extends Command
     {
         $text = trim((string) ($value ?? ''));
         return $text !== '' ? $text : null;
+    }
+
+    private function resolveStudyCategory(array $item, ?QuestionSource $source, string $forcedCategory): string
+    {
+        if ($forcedCategory !== '') {
+            return $forcedCategory;
+        }
+
+        $explicit = $this->normalizeStudyCategory((string) ($item['study_category'] ?? ''));
+        if ($explicit !== '' && $explicit !== 'invalid') {
+            return $explicit;
+        }
+
+        $hints = strtolower(implode(' ', array_filter([
+            $item['reference'] ?? null,
+            $item['origin'] ?? null,
+            $source?->name,
+            $source?->institution,
+            $source?->exam,
+            $source?->url,
+            $source?->file_path,
+        ], fn ($value) => $value !== null && $value !== '')));
+
+        return str_contains($hints, 'revalida') ? 'revalida' : 'estudo_geral';
+    }
+
+    private function normalizeStudyCategory(string $value): string
+    {
+        $normalized = strtolower(trim($value));
+
+        if ($normalized === '') {
+            return '';
+        }
+
+        return match ($normalized) {
+            'revalida' => 'revalida',
+            'estudo_geral', 'estudogeral', 'geral', 'general' => 'estudo_geral',
+            default => 'invalid',
+        };
     }
 }

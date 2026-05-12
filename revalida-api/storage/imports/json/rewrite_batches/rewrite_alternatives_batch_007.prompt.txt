@@ -1,0 +1,1220 @@
+
+Você é um revisor técnico de questões médicas para Revalida/Residência.
+
+TAREFA:
+Reescreva somente as alternativas de cada questão abaixo.
+
+OBJETIVO:
+- melhorar alternativas curtas, telegráficas, vagas ou desequilibradas
+- tornar as alternativas mais homogêneas em extensão e formato
+- preservar tema, enunciado, eixo decisório e gabarito
+- deixar as erradas plausíveis, mas incorretas ou menos adequadas
+- evitar alternativas caricatas ou obviamente descartáveis
+
+REGRAS CRÍTICAS:
+- NÃO altere o enunciado
+- NÃO altere o gabarito
+- NÃO mude o tema central da questão
+- NÃO invente detalhe técnico não sustentado pelo enunciado
+- mantenha todas as alternativas na mesma categoria lógica
+- evite rótulos secos quando for possível escrever algo mais informativo
+- a alternativa correta não pode ficar nitidamente mais longa ou mais específica que as demais
+- se a reescrita segura não for possível, marque `rewrite_status` como `manual_review`
+
+FORMATO DE SAÍDA:
+Responda APENAS com JSON válido, no formato:
+[
+  {
+    "id": 123,
+    "rewrite_status": "rewritten",
+    "rewrite_version": 1,
+    "rewritten_alternatives": {
+      "A": "...",
+      "B": "...",
+      "C": "...",
+      "D": "...",
+      "E": "..."
+    },
+    "answer_changed": false,
+    "risk_flags": [],
+    "rewrite_notes": [
+      "frase curta explicando a reescrita"
+    ]
+  }
+]
+
+QUESTÕES:
+[
+  {
+    "id": 6856,
+    "area": "Clínica Médica",
+    "tema": "Doença Biliar Obstrutiva",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma mulher de 48 anos procura atendimento com história de dor em cólica no hipocôndrio direito, com irradiação para a escápula direita, que piora após refeições gordurosas. Nega febre ou icterícia. Ao exame físico, apresenta dor à palpação em hipocôndrio direito, com sinal de Murphy positivo. Exames laboratoriais mostram leucócitos de 9.800/mm³, bilirrubina total de 0,8 mg/dL, TGO/TGP normais, FA e GGT normais. Qual a principal hipótese diagnóstica?",
+    "original_alternatives": {
+      "A": "Coledocolitíase.",
+      "B": "Colangite aguda.",
+      "C": "Colecistite aguda.",
+      "D": "Pancreatite aguda.",
+      "E": "Cólica biliar."
+    },
+    "gabarito": "C",
+    "original_comment": "O quadro clínico de dor em cólica no hipocôndrio direito com irradiação para a escápula, piora pós-prandial gordurosa, sinal de Murphy positivo, e ausência de icterícia ou alterações significativas em exames hepáticos e pancreáticos é altamente sugestivo de colecistite aguda. A colecistite aguda é a inflamação da vesícula biliar, geralmente causada por obstrução do ducto cístico por um cálculo. Coledocolitíase causaria icterícia e elevação de FA/GGT/bilirrubinas. Colangite aguda adicionaria febre e calafrios (Tríade de Charcot). Pancreatite aguda teria dor mais epigástrica e elevação de amilase/lipase. Cólica biliar é uma dor intermitente sem inflamação ou Murphy positivo.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 16,
+        "B": 16,
+        "C": 18,
+        "D": 18,
+        "E": 14
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6863,
+    "area": "Clínica Médica",
+    "tema": "Efeitos adversos de medicamentos | Doença de Parkinson",
+    "dificuldade": "Média",
+    "enunciado": "Uma paciente de 78 anos, com histórico de fibrilação atrial e insuficiência cardíaca com fração de ejeção reduzida, é internada por piora da dispneia. Durante a internação, devido à necessidade de controle da frequência cardíaca, foi iniciada amiodarona. Após uma semana, a equipe de enfermagem observa que a paciente apresenta lentificação dos movimentos, dificuldade para iniciar a marcha e uma expressão facial fixa. Ao exame neurológico, são notados tremores de repouso nas mãos, rigidez plástica e bradicinesia. Não há histórico prévio de sintomas parkinsonianos. Qual medicação é a mais provável responsável pelo quadro neurológico da paciente?",
+    "original_alternatives": {
+      "A": "Digoxina.",
+      "B": "Furosemida.",
+      "C": "Amiodarona.",
+      "D": "Varfarina.",
+      "E": "Espironolactona."
+    },
+    "gabarito": "C",
+    "original_comment": "A amiodarona é um antiarrítmico conhecido por causar uma variedade de efeitos adversos, incluindo toxicidade neurológica. O parkinsonismo induzido por amiodarona é uma complicação rara, mas bem documentada, que pode se manifestar com tremores, bradicinesia e rigidez. O quadro clínico descrito é clássico de parkinsonismo. As outras medicações listadas (digoxina, furosemida, varfarina, espironolactona) não estão associadas a parkinsonismo como efeito adverso principal.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 9,
+        "B": 11,
+        "C": 11,
+        "D": 10,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6868,
+    "area": "Clínica Médica | Cardiologia",
+    "tema": "Cardiomiopatias | Efeitos do álcool",
+    "dificuldade": "Difícil",
+    "enunciado": "Um homem de 58 anos, com histórico de etilismo crônico de longa data (média de 1 litro de destilado por dia por 20 anos), procura o ambulatório com queixa de dispneia progressiva aos esforços e fadiga há 6 meses. Nega angina ou síncope. Ao exame físico, apresenta turgência jugular, estertores crepitantes em bases pulmonares e edema de membros inferiores 2+/4+. O ecocardiograma revela dilatação das quatro câmaras cardíacas, disfunção sistólica grave do ventrículo esquerdo (FEVE 28%) e ausência de doença valvar significativa ou coronariopatia obstrutiva (confirmado por cateterismo). Os exames laboratoriais mostram elevação discreta de TGO/TGP e GGT. Qual o diagnóstico mais provável para o quadro cardíaco do paciente?",
+    "original_alternatives": {
+      "A": "Cardiomiopatia isquêmica.",
+      "B": "Cardiomiopatia hipertrófica.",
+      "C": "Cardiomiopatia restritiva.",
+      "D": "Cardiomiopatia dilatada alcoólica.",
+      "E": "Amiloidose cardíaca."
+    },
+    "gabarito": "D",
+    "original_comment": "O paciente apresenta um quadro de insuficiência cardíaca com disfunção sistólica grave (FEVE 28%) e dilatação das quatro câmaras, na ausência de doença coronariana obstrutiva ou doença valvar primária. O histórico de etilismo crônico pesado é um forte fator de risco para cardiomiopatia dilatada alcoólica, que é uma causa comum de cardiomiopatia não isquêmica. Cardiomiopatia isquêmica foi excluída pelo cateterismo. Cardiomiopatia hipertrófica e restritiva teriam achados ecocardiográficos diferentes (espessamento ventricular, disfunção diastólica primária, não dilatação). Amiloidose cardíaca geralmente se apresenta como cardiomiopatia restritiva, embora possa haver disfunção sistólica, e não há outros indícios como síndrome do túnel do carpo bilateral ou proteinúria no caso.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 3,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 25,
+        "B": 28,
+        "C": 26,
+        "D": 34,
+        "E": 20
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6880,
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia - Hepatopatias",
+    "dificuldade": "Média",
+    "enunciado": "Mulher de 30 anos, previamente hígida, procura o PS com icterícia, náuseas, vômitos e mal-estar há 5 dias. Nega uso de álcool, drogas ilícitas ou medicações hepatotóxicas. Ao exame físico, apresenta icterícia 3+/4+, dor à palpação em hipocôndrio direito. Exames laboratoriais: Bilirrubina total = 8,5 mg/dL (direta = 6,8 mg/dL), TGO/AST = 1200 UI/L, TGP/ALT = 1500 UI/L, Fosfatase Alcalina = 90 UI/L, GGT = 50 UI/L, Albumina = 4,2 g/dL. Qual a etiologia mais provável para o quadro clínico e laboratorial?",
+    "original_alternatives": {
+      "A": "Colestase intra-hepática por obstrução biliar",
+      "B": "Hepatite alcoólica",
+      "C": "Hepatite viral aguda",
+      "D": "Cirrose hepática descompensada",
+      "E": "Doença de Wilson"
+    },
+    "gabarito": "C",
+    "original_comment": "O quadro clínico e laboratorial (icterícia, náuseas, vômitos, mal-estar, dor em HD, elevação acentuada de TGO/AST e TGP/ALT, com predomínio de TGP/ALT, e bilirrubina predominantemente direta, com FA e GGT normais ou pouco elevadas) é altamente sugestivo de hepatite viral aguda. Os níveis de transaminases são muito elevados, típicos de lesão hepatocelular aguda. Colestase intra-hepática ou obstrução biliar teriam elevações muito mais significativas de FA e GGT. Hepatite alcoólica tipicamente tem TGO/AST > TGP/ALT (relação > 2:1) e transaminases geralmente não tão elevadas. Cirrose descompensada teria sinais de hepatopatia crônica e albumina baixa. Doença de Wilson é uma possibilidade em jovens, mas a apresentação aguda com transaminases tão elevadas é mais sugestiva de hepatite viral aguda, que deve ser a primeira investigação.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 5,
+        "B": 2,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 45,
+        "B": 18,
+        "C": 20,
+        "D": 30,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6881,
+    "area": "Cirurgia",
+    "tema": "Abdome Agudo Inflamatório",
+    "dificuldade": "Fácil",
+    "enunciado": "Adolescente de 16 anos comparece ao PS com dor abdominal periumbilical que migrou para fossa ilíaca direita (FID) há 12 horas. Refere náuseas, anorexia e um episódio de vômito. Nega febre. Ao exame físico, apresenta-se com bom estado geral, temperatura axilar de 37,5°C. Abdome com dor à palpação em FID, descompressão brusca positiva (sinal de Blumberg) na FID. Exames laboratoriais: Leucócitos = 14.500/mm³ (com 85% de neutrófilos e 10% de bastonetes), Hb = 13,0 g/dL, Cr = 0,8 mg/dL. Qual a principal hipótese diagnóstica?",
+    "original_alternatives": {
+      "A": "Gastroenterite aguda",
+      "B": "Cólica renal",
+      "C": "Apendicite aguda",
+      "D": "Adenite mesentérica",
+      "E": "Doença inflamatória pélvica"
+    },
+    "gabarito": "C",
+    "original_comment": "O quadro clínico clássico de dor periumbilical que migra para a fossa ilíaca direita, associado a náuseas, anorexia, vômitos, dor à palpação e descompressão brusca positiva na FID, e leucocitose com desvio à esquerda (aumento de neutrófilos e bastonetes), é altamente sugestivo de apendicite aguda. As outras opções são menos prováveis: gastroenterite geralmente cursa com diarreia e dor mais difusa; cólica renal tem dor em flanco com irradiação; adenite mesentérica pode simular apendicite, mas geralmente tem pródromos virais e menos sinais de irritação peritoneal; doença inflamatória pélvica é mais comum em mulheres sexualmente ativas e cursa com dor pélvica bilateral e corrimento.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 20,
+        "B": 12,
+        "C": 16,
+        "D": 19,
+        "E": 27
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6889,
+    "area": "Cirurgia",
+    "tema": "Trauma Abdominal Fechado",
+    "dificuldade": "Média",
+    "enunciado": "Um homem de 35 anos, vítima de colisão frontal em alta velocidade, estava usando cinto de segurança. Na avaliação inicial no pronto-socorro, ele está estável hemodinamicamente (PA 120x80 mmHg, FC 90 bpm), mas apresenta dor abdominal difusa e uma equimose linear transversa na parede abdominal, sugestiva de 'sinal do cinto de segurança'. O exame FAST (Focused Assessment with Sonography for Trauma) é positivo para líquido livre em cavidade abdominal. Qual a lesão intra-abdominal mais frequentemente associada a este mecanismo de trauma e achados?",
+    "original_alternatives": {
+      "A": "Lesão esplênica.",
+      "B": "Lesão hepática.",
+      "C": "Lesão de intestino delgado.",
+      "D": "Lesão renal.",
+      "E": "Lesão pancreática."
+    },
+    "gabarito": "C",
+    "original_comment": "O 'sinal do cinto de segurança' em trauma abdominal fechado, especialmente em colisões frontais, é um forte indicativo de lesão de víscera oca, sendo a lesão de intestino delgado a mais comum. A força de desaceleração e compressão contra o cinto de segurança pode causar cisalhamento ou esmagamento do intestino delgado contra a coluna vertebral. Embora lesões de órgãos sólidos (A, B, D) também possam ocorrer, a presença do sinal do cinto de segurança e o FAST positivo aumentam a suspeita de lesões intestinais, que podem progredir para peritonite. A lesão pancreática (E) é menos comum nesse cenário específico.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 4,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 16,
+        "B": 15,
+        "C": 27,
+        "D": 12,
+        "E": 18
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6895,
+    "area": "Preventiva/SUS",
+    "tema": "Princípios e Diretrizes do SUS",
+    "dificuldade": "Média",
+    "enunciado": "O município de X, enfrentando uma escassez crônica de leitos de UTI pediátrica na rede pública, decide firmar convênios com hospitais privados locais para garantir o atendimento a crianças que necessitam desse tipo de internação, mediante repasse financeiro. Essa modalidade de participação do setor privado no Sistema Único de Saúde (SUS) é caracterizada como:",
+    "original_alternatives": {
+      "A": "Suplementar.",
+      "B": "Subsidiária.",
+      "C": "Voluntária.",
+      "D": "Complementar.",
+      "E": "Privatizante."
+    },
+    "gabarito": "D",
+    "original_comment": "A alternativa correta é a D. A participação do setor privado no SUS é complementar quando atua em áreas onde a rede pública não consegue suprir a demanda, mediante contrato ou convênio, e sempre sob a gestão e regulamentação do SUS. A 'suplementar' refere-se aos serviços de saúde privados que operam de forma autônoma, fora do SUS, como planos e seguros de saúde. As armadilhas residem na confusão entre os termos 'complementar' e 'suplementar', que possuem significados distintos na legislação do SUS.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 1,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 12,
+        "B": 12,
+        "C": 11,
+        "D": 13,
+        "E": 13
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6897,
+    "area": "Clínica Médica",
+    "tema": "Bioestatística e Epidemiologia Clínica",
+    "dificuldade": "Média",
+    "enunciado": "Um novo medicamento para tratamento de enxaqueca crônica foi testado em um ensaio clínico. Dos 150 pacientes que receberam o medicamento, 15 apresentaram eventos adversos graves. No grupo placebo, dos 150 pacientes, 5 apresentaram eventos adversos graves. Qual o Número Necessário para Causar Dano (NNH) para este medicamento?",
+    "original_alternatives": {
+      "A": "NNH = 10",
+      "B": "NNH = 15",
+      "C": "NNH = 100",
+      "D": "NNH = 150",
+      "E": "NNH = 1000"
+    },
+    "gabarito": "B",
+    "original_comment": "A alternativa correta é a B. Para calcular o NNH (Number Needed to Harm), primeiro calculamos o Risco Absoluto (RA) de eventos adversos em cada grupo. RA(medicamento) = 15/150 = 0,10 (10%). RA(placebo) = 5/150 = 0,0333 (3,33%). Em seguida, calculamos o Aumento do Risco Absoluto (ARA) = RA(medicamento) - RA(placebo) = 0,10 - 0,0333 = 0,0667 (6,67%). Finalmente, NNH = 1 / ARA = 1 / 0,0667 ≈ 15. Isso significa que é necessário tratar aproximadamente 15 pacientes com o medicamento para que um evento adverso grave adicional ocorra em comparação com o placebo. As armadilhas incluem calcular o NNT em vez do NNH ou errar no cálculo do ARA.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 8,
+        "B": 8,
+        "C": 9,
+        "D": 9,
+        "E": 10
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6927,
+    "area": "Pediatria",
+    "tema": "Anemias na Infância",
+    "dificuldade": "Fácil",
+    "enunciado": "Uma mãe leva seu filho de 8 meses à consulta de puericultura. A criança apresenta palidez leve e é alimentada exclusivamente com leite materno. O hemograma revela Hb 10,2 g/dL. De acordo com os valores de referência para a idade, qual é a classificação mais adequada para o quadro do paciente?",
+    "original_alternatives": {
+      "A": "Anemia leve.",
+      "B": "Anemia moderada.",
+      "C": "Anemia grave.",
+      "D": "Valores normais para a idade.",
+      "E": "Policitemia."
+    },
+    "gabarito": "A",
+    "original_comment": "De acordo com os valores de referência fornecidos, para crianças de 6 meses a 2 anos, a hemoglobina normal varia de 11 a 14 g/dL. O paciente tem 8 meses e uma Hb de 10,2 g/dL. Isso está abaixo do limite inferior de 11 g/dL, mas não tão baixo quanto para ser considerado moderado ou grave em muitas classificações (que geralmente consideram <9 ou <7 g/dL, respectivamente). Portanto, é classificado como anemia leve. A policitemia seria um valor acima do normal.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 5,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 12,
+        "B": 16,
+        "C": 13,
+        "D": 29,
+        "E": 12
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6930,
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia - Tireoide",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 45 anos procura atendimento médico queixando-se de fadiga, ganho de peso e constipação. Seus exames laboratoriais mostram TSH 8,2 mUI/mL e T4 Livre 0,7 ng/dL. Considerando os valores de referência, qual é o diagnóstico mais provável?",
+    "original_alternatives": {
+      "A": "Hipertireoidismo primário.",
+      "B": "Hipotireoidismo primário.",
+      "C": "Hipotireoidismo secundário.",
+      "D": "Tireoidite subaguda.",
+      "E": "Eutireoidismo com disfunção subclínica."
+    },
+    "gabarito": "B",
+    "original_comment": "Os valores de referência para TSH (20 a 60 anos) são de 0,45 a 4,5 mUI/mL e para T4 Livre de 0,9 a 1,8 ng/dL. A paciente apresenta TSH elevado (8,2 mUI/mL) e T4 Livre diminuído (0,7 ng/dL). Esta combinação é característica de hipotireoidismo primário, onde a glândula tireoide não produz hormônios tireoidianos suficientes, levando a um aumento na secreção de TSH pela hipófise em uma tentativa de estimular a tireoide. Hipotireoidismo secundário teria TSH baixo ou normal com T4 Livre baixo. Hipertireoidismo primário teria TSH baixo e T4 Livre elevado.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 26,
+        "B": 25,
+        "C": 27,
+        "D": 20,
+        "E": 39
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6942,
+    "area": "Pediatria",
+    "tema": "Hiperplasia Adrenal Congênita e Triagem Neonatal",
+    "dificuldade": "Difícil",
+    "enunciado": "Um recém-nascido a termo, com 10 dias de vida, internado para tratamento de sífilis congênita, apresenta perda ponderal de 15% em relação ao peso de nascimento. Recebe aleitamento materno exclusivo e suplementação com fórmula láctea em horários específicos. Evoluiu com hipoglicemia assintomática nas primeiras 48 horas de vida, necessitando de infusão de glicose. Exames laboratoriais atuais mostram Na+ 124 mEq/L e K+ 7,2 mEq/L. Qual deficiência metabólica, detectável no Teste do Pezinho, é mais provável neste quadro clínico?",
+    "original_alternatives": {
+      "A": "Deficiência de biotinidase.",
+      "B": "Fenilcetonúria.",
+      "C": "Deficiência de 21-hidroxilase.",
+      "D": "Hipotireoidismo congênito.",
+      "E": "Fibrose cística."
+    },
+    "gabarito": "C",
+    "original_comment": "O quadro clínico do recém-nascido (perda ponderal significativa, hipoglicemia, hiponatremia e hipercalemia) é altamente sugestivo de uma crise adrenal por forma perdedora de sal da Hiperplasia Adrenal Congênita (HAC). A causa mais comum de HAC é a deficiência de 21-hidroxilase. Esta condição afeta a síntese de cortisol e aldosterona, levando aos distúrbios eletrolíticos e metabólicos descritos. A deficiência de 21-hidroxilase é detectável no Teste do Pezinho através da dosagem de 17-hidroxiprogesterona. As outras opções (A, B, D, E) são condições rastreadas pelo Teste do Pezinho, mas não explicam a combinação específica de hiponatremia, hipercalemia, hipoglicemia e perda ponderal.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 1,
+        "C": 3,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 27,
+        "B": 15,
+        "C": 30,
+        "D": 26,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6961,
+    "area": "Cirurgia",
+    "tema": "Cirurgia da Mão - Fraturas",
+    "dificuldade": "Média",
+    "enunciado": "Qual é o grau máximo de angulação dorsal aceitável para uma fratura do colo do 5º metacarpo, sem que haja comprometimento funcional significativo ou necessidade de redução cirúrgica, considerando a mobilidade da articulação carpometacarpiana (CMC) desse dedo?",
+    "original_alternatives": {
+      "A": "10 graus.",
+      "B": "20 graus.",
+      "C": "30 graus.",
+      "D": "40 graus.",
+      "E": "50 graus."
+    },
+    "gabarito": "D",
+    "original_comment": "Devido à maior mobilidade da articulação carpometacarpiana do 5º metacarpo, este dedo tolera uma angulação dorsal maior (até 40-50 graus) em fraturas do colo, sem impactar significativamente a função. Os 2º e 3º metacarpais, por terem menor mobilidade, toleram angulações muito menores (geralmente até 10-15 graus).",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 9,
+        "B": 9,
+        "C": 9,
+        "D": 9,
+        "E": 9
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6965,
+    "area": "Cirurgia",
+    "tema": "Cirurgia da Mão - Cirurgia Plástica e Reparadora",
+    "dificuldade": "Média",
+    "enunciado": "A zetaplastia é uma técnica cirúrgica amplamente utilizada para alongar cicatrizes e realinhar tecidos. Em uma zetaplastia clássica com ângulos de 60 graus entre os ramos, qual é o ganho teórico de comprimento ao longo do eixo da cicatriz original?",
+    "original_alternatives": {
+      "A": "Aproximadamente 25%.",
+      "B": "Aproximadamente 50%.",
+      "C": "Aproximadamente 75%.",
+      "D": "Aproximadamente 100%.",
+      "E": "Aproximadamente 125%."
+    },
+    "gabarito": "C",
+    "original_comment": "Uma zetaplastia com ângulos de 60 graus entre os ramos proporciona um ganho teórico de comprimento de aproximadamente 75% ao longo do eixo da cicatriz original. Além de alongar a cicatriz, a zetaplastia também ajuda a mudar a direção da cicatriz e a aliviar a tensão transversal, sendo fundamental em áreas de flexão ou contraturas.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 21,
+        "E": 21
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6966,
+    "area": "Cirurgia",
+    "tema": "Cirurgia da Mão - Tumores Ósseos",
+    "dificuldade": "Fácil",
+    "enunciado": "Qual é o tumor ósseo primário benigno mais comum encontrado na mão?",
+    "original_alternatives": {
+      "A": "Osteoma Osteoide.",
+      "B": "Cisto Ósseo Aneurismático.",
+      "C": "Encondroma.",
+      "D": "Osteocondroma.",
+      "E": "Tumor de Células Gigantes."
+    },
+    "gabarito": "C",
+    "original_comment": "Os encondromas são os tumores ósseos primários benignos mais comuns na mão. Eles são lesões cartilaginosas que geralmente afetam as falanges e os metacarpos, podendo ser assintomáticos ou causar dor e fraturas patológicas.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 1,
+        "D": 1,
+        "E": 4
+      },
+      "char_lengths": {
+        "A": 17,
+        "B": 26,
+        "C": 11,
+        "D": 14,
+        "E": 26
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6984,
+    "area": "Cirurgia",
+    "tema": "Colangiocarcinoma Hilar - Classificação",
+    "dificuldade": "Média",
+    "enunciado": "A classificação de Bismuth-Corlette é amplamente utilizada para estadiar colangiocarcinomas hilares e guiar a estratégia cirúrgica. De acordo com esta classificação, um tumor que acomete a confluência biliar e se estende para os ductos hepáticos secundários bilateralmente é classificado como:",
+    "original_alternatives": {
+      "A": "Bismuth tipo I.",
+      "B": "Bismuth tipo II.",
+      "C": "Bismuth tipo IIIa.",
+      "D": "Bismuth tipo IIIb.",
+      "E": "Bismuth tipo IV."
+    },
+    "gabarito": "E",
+    "original_comment": "A classificação de Bismuth-Corlette descreve a extensão do colangiocarcinoma hilar: Tipo I: tumor abaixo da confluência dos ductos hepáticos. Tipo II: tumor atinge a confluência dos ductos hepáticos principal. Tipo IIIa: tumor atinge a confluência e se estende para o ducto hepático secundário direito. Tipo IIIb: tumor atinge a confluência e se estende para o ducto hepático secundário esquerdo. Tipo IV: tumor atinge a confluência e se estende para os ductos hepáticos secundários bilateralmente ou é multifocal. Portanto, a descrição do enunciado corresponde ao Bismuth tipo IV, que geralmente indica irressecabilidade ou necessidade de cirurgia mais extensa.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 15,
+        "B": 16,
+        "C": 18,
+        "D": 18,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6992,
+    "area": "Cirurgia",
+    "tema": "Doença de Dupuytren - Anatomia dos cordões contráteis",
+    "dificuldade": "Média",
+    "enunciado": "A doença de Dupuytren é uma fibromatose da fáscia palmar que leva à formação de cordões contráteis. Qual das seguintes estruturas é considerada uma extensão da aponeurose palmar, mas NÃO é um componente primário na formação dos cordões contráteis longitudinais que causam a flexão das articulações metacarpofalângicas e interfalângicas proximais?",
+    "original_alternatives": {
+      "A": "Banda espiral.",
+      "B": "Ligamento natatório.",
+      "C": "Fáscia pretendinosa.",
+      "D": "Fáscia lateral digital.",
+      "E": "Ligamento de Cleland."
+    },
+    "gabarito": "E",
+    "original_comment": "O ligamento de Cleland é uma estrutura fibrosa que se estende da bainha do tendão flexor à pele lateralmente, dorsal aos feixes neurovasculares. Ele não faz parte da fáscia palmar e, portanto, não está envolvido na formação dos cordões contráteis da doença de Dupuytren. As bandas espirais, ligamento natatório, fáscia pretendinosa e fáscia lateral digital são todas extensões da aponeurose palmar e podem se tornar fibróticas, formando cordões que causam as contraturas características da doença.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 3,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 14,
+        "B": 20,
+        "C": 20,
+        "D": 23,
+        "E": 21
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 6997,
+    "area": "Cirurgia | Clínica Médica",
+    "tema": "Anatomia cirúrgica e lesões nervosas do membro superior",
+    "dificuldade": "Média",
+    "enunciado": "Um cirurgião da mão está realizando uma abordagem para descompressão do nervo ulnar na goteira epitrocleo-olecraniana. Qual das seguintes estruturas anatômicas é mais suscetível a lesão iatrogênica se a dissecção não for cuidadosa nesta região?",
+    "original_alternatives": {
+      "A": "Nervo radial.",
+      "B": "Nervo mediano.",
+      "C": "Nervo musculocutâneo.",
+      "D": "Artéria braquial.",
+      "E": "Ramo sensitivo do nervo cutâneo medial do antebraço."
+    },
+    "gabarito": "E",
+    "original_comment": "A descompressão do nervo ulnar na goteira epitrocleo-olecraniana é um procedimento comum. O nervo ulnar é o alvo principal, mas ramos do nervo cutâneo medial do antebraço (MCAN) são frequentemente encontrados cruzando o campo cirúrgico e são suscetíveis a lesão, o que pode levar a déficits sensitivos na face medial do antebraço. Os outros nervos (radial, mediano, musculocutâneo) e a artéria braquial estão em planos anatômicos diferentes e menos expostos a lesão direta nessa abordagem específica.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 8
+      },
+      "char_lengths": {
+        "A": 13,
+        "B": 14,
+        "C": 21,
+        "D": 17,
+        "E": 52
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7000,
+    "area": "Cirurgia | Cirurgia da Mão",
+    "tema": "Reconstrução de ponta de dedo",
+    "dificuldade": "Média",
+    "enunciado": "Uma criança de 4 anos apresenta uma amputação oblíqua volar da ponta do dedo indicador direito, com exposição óssea e perda de substância da polpa digital. O comprimento do dedo deve ser preservado ao máximo. Qual dos seguintes retalhos é a melhor opção para cobertura e restauração da sensibilidade neste caso?",
+    "original_alternatives": {
+      "A": "Retalho de Moberg.",
+      "B": "Retalho de Atasoy-Kleinert.",
+      "C": "Retalho de Kutler.",
+      "D": "Enxerto de pele total.",
+      "E": "Retalho de cross-finger."
+    },
+    "gabarito": "B",
+    "original_comment": "Para amputações oblíquas volares da ponta do dedo com exposição óssea, o retalho de Atasoy-Kleinert é uma excelente opção. Trata-se de um retalho de avanço em V-Y da polpa digital, que proporciona cobertura com tecido similar, preserva o comprimento do dedo e, crucialmente, mantém a sensibilidade da polpa. O retalho de Moberg é um retalho de avanço bipediculado para o polegar, não ideal para dedos longos. Os retalhos de Kutler são retalhos triangulares em V-Y para amputações transversais. Enxertos de pele total podem ter resultados estéticos e funcionais inferiores em pontas de dedos expostas. O retalho de cross-finger é um retalho à distância, geralmente reservado para defeitos dorsais ou maiores, não sendo a primeira escolha para uma amputação volar de ponta de dedo.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "word_counts": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "D": 4,
+        "E": 3
+      },
+      "char_lengths": {
+        "A": 18,
+        "B": 27,
+        "C": 18,
+        "D": 22,
+        "E": 24
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7012,
+    "area": "Clínica Médica",
+    "tema": "Anemia microcítica",
+    "dificuldade": "Média",
+    "enunciado": "Uma mulher de 35 anos apresenta fadiga progressiva há 6 meses. Hemograma revela: Hb 9,5 g/dL (ref: 11,7 a 14,9 g/dL), Ht 29% (ref: 35 a 45%), VCM 70 fL (ref: 80 a 100 fL), HCM 22 pg (ref: 27 a 32 pg), RDW 18% (ref: 11 a 14%). Os demais exames mostram Ferritina 8 μg/mL (ref: 15 a 149 μg/mL), Ferro sérico 30 μg/dL (ref: 50 a 170 μg/dL) e Capacidade Total de Ligação do Ferro (CTLF) aumentada. Qual o diagnóstico mais provável para este quadro de anemia?",
+    "original_alternatives": {
+      "A": "Anemia de doença crônica.",
+      "B": "Anemia ferropriva.",
+      "C": "Talassemia menor.",
+      "D": "Anemia megaloblástica.",
+      "E": "Anemia aplásica."
+    },
+    "gabarito": "B",
+    "original_comment": "Os dados do hemograma (Hb baixa, VCM baixo, HCM baixo, RDW aumentado) indicam uma anemia microcítica e hipocrômica com anisocitose. A ferritina sérica baixa (<15 μg/mL), ferro sérico baixo e CTLF aumentada são achados clássicos da anemia ferropriva. Na anemia de doença crônica, a ferritina geralmente é normal ou aumentada, e o ferro sérico pode ser baixo, mas a CTLF é normal ou diminuída. Talassemia menor também causa anemia microcítica, mas geralmente com RDW normal e ferritina normal ou aumentada. Anemia megaloblástica é macrocítica (VCM alto). Anemia aplásica afeta todas as linhagens celulares e não é caracterizada por microcitose.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 4,
+        "B": 2,
+        "C": 2,
+        "D": 2,
+        "E": 2
+      },
+      "char_lengths": {
+        "A": 25,
+        "B": 18,
+        "C": 17,
+        "D": 22,
+        "E": 16
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  },
+  {
+    "id": 7015,
+    "area": "Clínica Médica",
+    "tema": "Hipotireoidismo subclínico",
+    "dificuldade": "Média",
+    "enunciado": "Uma paciente de 55 anos, assintomática, realiza exames de rotina. Os resultados da função tireoidiana são: TSH 7,2 mUI/mL (referência: 0,45 a 4,5 mUI/mL) e T4 Livre 1,3 ng/dL (referência: 0,9 a 1,8 ng/dL). Qual o diagnóstico mais provável para este perfil hormonal?",
+    "original_alternatives": {
+      "A": "Hipertireoidismo subclínico.",
+      "B": "Hipotireoidismo primário manifesto.",
+      "C": "Hipotireoidismo subclínico.",
+      "D": "Tireotoxicose.",
+      "E": "Eutireoidismo."
+    },
+    "gabarito": "C",
+    "original_comment": "O TSH elevado (7,2 mUI/mL) com T4 Livre dentro dos valores de referência (1,3 ng/dL) é o perfil laboratorial característico do hipotireoidismo subclínico. No hipotireoidismo primário manifesto, tanto o TSH estaria elevado quanto o T4 Livre estaria baixo. Hipertireoidismo (subclínico ou manifesto) apresentaria TSH baixo. Eutireoidismo teria TSH e T4 Livre normais.",
+    "rewrite_reason": {
+      "type": "telegraphic_alternatives",
+      "max_words": 3,
+      "min_short": 4,
+      "short_alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "word_counts": {
+        "A": 2,
+        "B": 3,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "char_lengths": {
+        "A": 28,
+        "B": 35,
+        "C": 27,
+        "D": 14,
+        "E": 14
+      },
+      "excluded_filters_applied": {
+        "exclude_temas": [
+          "vacina",
+          "gestante",
+          "antibiotico",
+          "rastreamento",
+          "urgencia",
+          "emergencia"
+        ],
+        "exclude_areas": [
+          "go"
+        ],
+        "only_origin": [
+          "official_based"
+        ]
+      }
+    },
+    "risk_flags": []
+  }
+]

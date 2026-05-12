@@ -2,16 +2,21 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 import "materialize-css/dist/css/materialize.min.css";
 
 type AlternativeLetter = "A" | "B" | "C" | "D" | "E";
+type QuestionType = "multiple_choice" | "discursive";
+type StudyCategory = "revalida" | "estudo_geral";
 
 type Question = {
   id: number;
   area: string;
   tema: string;
   dificuldade: string;
+  question_type?: QuestionType;
+  study_category?: StudyCategory;
   enunciado: string;
   alternativas: Record<AlternativeLetter, string>;
   gabarito: AlternativeLetter;
   comentario: string;
+  official_answer?: string | null;
 };
 
 type DashboardUser = {
@@ -23,6 +28,7 @@ type DashboardUser = {
   is_active?: boolean;
   question_text_size?: number;
   monthly_question_limit?: number;
+  ai_enabled?: boolean;
 };
 
 type SystemUser = {
@@ -285,6 +291,11 @@ const QUESTIONS_PAGE_SIZE = 2000;
 const MAX_MONTHLY_QUESTION_LIMIT = 5000;
 const DEFAULT_MONTHLY_QUESTION_LIMIT = 5000;
 const QUESTION_ORDER_SEED_KEY = "revalida_question_order_seed_v1";
+const DEFAULT_STUDY_CATEGORY: StudyCategory = "revalida";
+const STUDY_CATEGORY_OPTIONS: Array<{ value: StudyCategory; label: string }> = [
+  { value: "revalida", label: "Revalida" },
+  { value: "estudo_geral", label: "Estudo geral" },
+];
 const configuredApiBaseRaw = (import.meta.env.VITE_API_BASE_URL as string | undefined)?.trim();
 const API_BASE_OVERRIDE_KEY = "revalida_api_base_url";
 
@@ -599,8 +610,13 @@ function AppStyles() {
       .nav-btn.active { background: #e8eaf6; color: var(--primary); }
       .nav-btn i { font-size: 23px; }
       .sidebar-user { margin-top: auto; border: 1px solid var(--border); border-radius: 20px; padding: 16px; background: #fafbff; }
+      .sidebar-role-badge { display: inline-flex; align-items: center; justify-content: center; min-height: 24px; margin: 2px 0 4px; padding: 0 10px; border-radius: 999px; background: #fff3e0; color: #ef6c00; font-size: 10px; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; }
       .sidebar-user b { display: block; margin-bottom: 3px; }
       .sidebar-user span { display: block; color: var(--muted); font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+      .sidebar-preference { margin-top: 14px; padding: 12px; border-radius: 16px; border: 1px solid var(--border); background: #fff; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+      .sidebar-preference-copy { min-width: 0; }
+      .sidebar-preference-copy strong { display: block; color: #1f2937; font-size: 13px; font-weight: 900; }
+      .sidebar-preference-copy small { display: block; margin-top: 3px; color: #607d8b; font-size: 11px; line-height: 1.35; }
       .sidebar-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 14px; }
       .content { min-width: 0; padding: 28px; }
       .topbar { display: flex; align-items: center; justify-content: space-between; gap: 24px; margin-bottom: 26px; }
@@ -727,16 +743,25 @@ function AppStyles() {
       .answer-btn { width: 100%; border: 1px solid var(--border); background: #fff; border-radius: 18px; min-height: 68px; display: flex; align-items: center; gap: 16px; padding: 14px 16px; text-align: left; cursor: pointer; transition: .18s; }
       .answer-btn:hover { border-color: #c5cae9; background: #fafbff; }
       .answer-btn.selected { border-color: var(--primary); background: #eef2ff; box-shadow: 0 0 0 3px rgba(63,81,181,.1); }
-      .answer-btn.correct { border-color: #43a047; background: #e8f5e9; }
-      .answer-btn.wrong { border-color: #e53935; background: #ffebee; }
+      .answer-btn.correct { border-color: #43a047; background: #e8f5e9; box-shadow: 0 0 0 3px rgba(67,160,71,.10); }
+      .answer-btn.wrong { border-color: #e53935; background: #ffebee; box-shadow: 0 0 0 3px rgba(229,57,53,.12); }
+      .answer-btn.admin-correct-hint { border-color: #d6e8d8; background: #fcfefc; }
       .answer-letter { width: 40px; height: 40px; border-radius: 14px; background: #eef2f7; color: #455a64; display: grid; place-items: center; font-weight: 900; flex: 0 0 auto; }
       .answer-btn.selected .answer-letter { background: var(--primary); color: #fff; }
-      .answer-text { font-size: 15px; line-height: 1.5; font-weight: 600; color: #37474f; }
+      .answer-btn.correct .answer-letter { background: #43a047; color: #fff; }
+      .answer-btn.wrong .answer-letter { background: #e53935; color: #fff; }
+      .answer-text { flex: 1; font-size: 15px; line-height: 1.5; font-weight: 600; color: #37474f; }
+      .answer-btn.correct .answer-text { color: #1b5e20; }
+      .answer-btn.wrong .answer-text { color: #8e2424; }
+      .admin-correct-badge { flex: 0 0 auto; align-self: center; width: 20px; height: 20px; border-radius: 999px; background: #e8f5e9; color: #2e7d32; border: 1px solid #c8e6c9; display: inline-flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 900; line-height: 1; opacity: .95; }
       .question-actions { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 24px; padding-top: 22px; border-top: 1px solid var(--border); }
       .question-actions .right { display: flex; gap: 10px; }
       .result-box { margin-top: 22px; padding: 18px; border-radius: 18px; background: #fafbff; border: 1px solid var(--border); }
+      .result-box.correct { background: #f1f8e9; border-color: #c5e1a5; }
+      .result-box.wrong { background: #fff1f1; border-color: #ef9a9a; }
+      .result-box.discursive { background: #f5f7fb; border-color: #cbd5e1; }
       .result-box h4 { display: flex; align-items: center; gap: 10px; margin: 0 0 10px; font-size: 18px; font-weight: 900; }
-      .result-box p { margin: 0; color: #546e7a; line-height: 1.6; }
+      .result-box p { margin: 0; color: #546e7a; line-height: 1.6; white-space: pre-line; }
       .side-summary { display: grid; gap: 16px; }
       .mini-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
       .mini-stat { background: #fafbff; border: 1px solid var(--border); border-radius: 16px; padding: 14px; }
@@ -799,8 +824,25 @@ async function readApiError(response: Response, fallback: string): Promise<strin
   return `${fallback} (HTTP ${response.status})`;
 }
 
-async function loadQuestionBankTotal(): Promise<number> {
-  const res = await apiFetch("/questions/summary");
+function normalizeStudyCategoryValue(value: unknown): StudyCategory {
+  return value === "estudo_geral" ? "estudo_geral" : "revalida";
+}
+
+function getStudyCategoryLabel(category: StudyCategory): string {
+  return category === "estudo_geral" ? "Estudo geral" : "Revalida";
+}
+
+function buildQuestionQuery(category: StudyCategory): string {
+  const params = new URLSearchParams({
+    category,
+    phase: "first",
+  });
+
+  return params.toString();
+}
+
+async function loadQuestionBankTotal(category: StudyCategory): Promise<number> {
+  const res = await apiFetch(`/questions/summary?${buildQuestionQuery(category)}`);
   if (!res.ok) throw new Error("API offline");
 
   const payload = await res.json();
@@ -820,11 +862,32 @@ function extractQuestionsFromPayload(payload: unknown): Question[] {
   return [];
 }
 
-async function loadAccessibleQuestions(limit: number, totalCount: number | null, userId?: string | null): Promise<Question[]> {
+function getQuestionType(question: Question): QuestionType {
+  return question.question_type === "discursive" ? "discursive" : "multiple_choice";
+}
+
+function isDiscursiveQuestion(question: Question): boolean {
+  return getQuestionType(question) === "discursive";
+}
+
+function isQuestionAnswered(
+  question: Question,
+  answers: Partial<Record<number, AlternativeLetter>>,
+  showResult: Partial<Record<number, boolean>>,
+): boolean {
+  return isDiscursiveQuestion(question) ? Boolean(showResult[question.id]) : Boolean(answers[question.id]);
+}
+
+async function loadAccessibleQuestions(
+  limit: number,
+  totalCount: number | null,
+  category: StudyCategory,
+  userId?: string | null,
+): Promise<Question[]> {
   const perPage = Math.max(1, Math.min(Math.floor(limit), QUESTIONS_PAGE_SIZE));
   const page = totalCount && totalCount > perPage ? getQuestionWindowPage(totalCount, perPage, userId) : 1;
 
-  const res = await apiFetch(`/questions?page=${page}&per_page=${perPage}`);
+  const res = await apiFetch(`/questions?page=${page}&per_page=${perPage}&${buildQuestionQuery(category)}`);
   if (!res.ok) throw new Error("API offline");
 
   const payload = await res.json();
@@ -861,9 +924,60 @@ function extractSimulationRecordsFromPayload(payload: unknown): SimulationRecord
   return [];
 }
 
+function isLocalSimulationRecord(record: SimulationRecord): boolean {
+  return typeof record.id === "string" && record.id.startsWith("local-");
+}
+
+function simulationSignature(record: SimulationRecord): string {
+  return [
+    record.user_id || "",
+    record.title || "",
+    record.area || "",
+    record.status || "",
+    record.started_at || "",
+    record.ended_at || "",
+    record.duration_seconds || 0,
+    record.elapsed_seconds || 0,
+    record.total_questions || 0,
+    record.answered_questions || 0,
+    record.correct_questions || 0,
+    record.accuracy || 0,
+  ].join("|");
+}
+
 function normalizeSimulationRecords(records: SimulationRecord[]): SimulationRecord[] {
-  return records
-    .filter((record) => Boolean(record?.id))
+  const uniqueById = new Map<string, SimulationRecord>();
+
+  for (const record of records) {
+    if (!record?.id) continue;
+    if (!uniqueById.has(record.id)) {
+      uniqueById.set(record.id, record);
+    }
+  }
+
+  const deduped = Array.from(uniqueById.values());
+  const remoteSignatures = new Set(
+    deduped
+      .filter((record) => !isLocalSimulationRecord(record))
+      .map((record) => simulationSignature(record))
+  );
+
+  const localSignatures = new Set<string>();
+
+  return deduped
+    .filter((record) => {
+      const signature = simulationSignature(record);
+
+      if (isLocalSimulationRecord(record)) {
+        if (remoteSignatures.has(signature) || localSignatures.has(signature)) {
+          return false;
+        }
+
+        localSignatures.add(signature);
+      }
+
+      return true;
+    })
     .sort((a, b) => {
       const left = new Date(b.started_at || b.ended_at || 0).getTime();
       const right = new Date(a.started_at || a.ended_at || 0).getTime();
@@ -1151,6 +1265,20 @@ function saveSimuladoBaseline(value: SimuladoBaseline | null): void {
   window.localStorage.setItem(SIMULADO_BASELINE_STORAGE_KEY, JSON.stringify(value));
 }
 
+function loadStoredStudyCategory(): StudyCategory {
+  if (typeof window === "undefined") return DEFAULT_STUDY_CATEGORY;
+
+  try {
+    const raw = window.localStorage.getItem(STORAGE_KEY);
+    if (!raw) return DEFAULT_STUDY_CATEGORY;
+
+    const parsed = JSON.parse(raw) as { studyCategory?: unknown };
+    return normalizeStudyCategoryValue(parsed.studyCategory);
+  } catch {
+    return DEFAULT_STUDY_CATEGORY;
+  }
+}
+
 export default function RevalidaQuestoesMVP() {
   const [token, setToken] = useState<string | null>(null);
   const [user, setUser] = useState<DashboardUser | null>(null);
@@ -1184,6 +1312,7 @@ export default function RevalidaQuestoesMVP() {
   const [apiPendingCount, setApiPendingCount] = useState(0);
   const [questionsLoading, setQuestionsLoading] = useState(true);
   const [simuladoOrderSeed, setSimuladoOrderSeed] = useState(1);
+  const [studyCategory, setStudyCategory] = useState<StudyCategory>(() => loadStoredStudyCategory());
   const simuladoFinalizeLockRef = useRef(false);
   const simuladoBaselineRef = useRef<{
     area: string;
@@ -1207,6 +1336,7 @@ export default function RevalidaQuestoesMVP() {
     comentario: "",
   });
   const isAdmin = Boolean(user?.is_admin);
+  const aiEnabled = Boolean(user?.ai_enabled ?? true);
   const monthlyQuestionLimit = normalizeMonthlyQuestionLimit(user?.monthly_question_limit);
   const visibleQuestionBankTotal = questionBankTotalLoaded ? questionBankTotal : questions.length;
   const simuladoDurationMinutesValue = normalizeSimuladoDurationMinutes(simuladoDurationMinutes);
@@ -1214,11 +1344,11 @@ export default function RevalidaQuestoesMVP() {
 
   useEffect(() => subscribeApiRequestCount(setApiPendingCount), []);
 
-  async function refreshQuestions(silent = false): Promise<void> {
+  async function refreshQuestions(silent = false, category: StudyCategory = studyCategory): Promise<void> {
     if (!silent) setQuestionsLoading(true);
 
     try {
-      const totalCount = await loadQuestionBankTotal().catch(() => null);
+      const totalCount = await loadQuestionBankTotal(category).catch(() => null);
       if (typeof totalCount === "number") {
         setQuestionBankTotal(totalCount);
         setQuestionBankTotalLoaded(true);
@@ -1227,6 +1357,7 @@ export default function RevalidaQuestoesMVP() {
       const accessibleQuestions = await loadAccessibleQuestions(
         monthlyQuestionLimit,
         typeof totalCount === "number" ? totalCount : (questionBankTotal > 0 ? questionBankTotal : null),
+        category,
         user?.id
       );
 
@@ -1373,6 +1504,7 @@ export default function RevalidaQuestoesMVP() {
           token, 
           user, 
           mode, 
+          studyCategory,
           area, 
           currentIndex, 
           answers, 
@@ -1388,6 +1520,7 @@ export default function RevalidaQuestoesMVP() {
     token,
     user,
     mode,
+    studyCategory,
     area,
     currentIndex,
     answers,
@@ -1635,30 +1768,40 @@ export default function RevalidaQuestoesMVP() {
   const filteredQuestions = useMemo(() => {
     return area === "Todas" ? questions : questions.filter((q) => q.area === area);
   }, [area, questions]);
+  const simuladoEligibleQuestions = useMemo(
+    () => questions.filter((q) => !isDiscursiveQuestion(q)),
+    [questions]
+  );
   const simuladoQuestionLimit = useMemo(() => {
-    if (!questions.length) return 0;
-    return Math.min(questions.length, normalizeSimuladoQuestionTarget(simuladoQuestionTarget));
-  }, [questions.length, simuladoQuestionTarget]);
+    if (!simuladoEligibleQuestions.length) return 0;
+    return Math.min(simuladoEligibleQuestions.length, normalizeSimuladoQuestionTarget(simuladoQuestionTarget));
+  }, [simuladoEligibleQuestions.length, simuladoQuestionTarget]);
   const simuladoQuestions = useMemo(
-    () => buildSimuladoQuestions(questions, simuladoOrderSeed).slice(0, simuladoQuestionLimit),
-    [questions, simuladoOrderSeed, simuladoQuestionLimit]
+    () => buildSimuladoQuestions(simuladoEligibleQuestions, simuladoOrderSeed).slice(0, simuladoQuestionLimit),
+    [simuladoEligibleQuestions, simuladoOrderSeed, simuladoQuestionLimit]
   );
   const activeQuestions = simuladoActive ? simuladoQuestions : filteredQuestions;
   const simuladoCanStart = !questionsLoading && simuladoQuestions.length > 0;
   const simuladoQuestionInputValue = questionsLoading
     ? simuladoQuestionTarget
-    : (questions.length ? Math.min(simuladoQuestionTarget, questions.length) : simuladoQuestionTarget);
+    : (simuladoEligibleQuestions.length
+      ? Math.min(simuladoQuestionTarget, simuladoEligibleQuestions.length)
+      : simuladoQuestionTarget);
 
   const current = activeQuestions[currentIndex] || activeQuestions[0];
   const currentQuestionCount = activeQuestions.length;
-  const answeredCount = Object.keys(answers).length;
-  const correctCount = questions.filter((q) => answers[q.id] === q.gabarito).length;
-  const activeAnsweredCount = activeQuestions.filter((q) => Boolean(answers[q.id])).length;
-  const activeCorrectCount = activeQuestions.filter((q) => answers[q.id] === q.gabarito).length;
-  const wrongQuestions = questions.filter((q) => showResult[q.id] && answers[q.id] && answers[q.id] !== q.gabarito);
+  const answeredCount = questions.filter((q) => isQuestionAnswered(q, answers, showResult)).length;
+  const gradableQuestions = questions.filter((q) => !isDiscursiveQuestion(q));
+  const correctCount = gradableQuestions.filter((q) => answers[q.id] === q.gabarito).length;
+  const gradableAnsweredCount = gradableQuestions.filter((q) => Boolean(answers[q.id])).length;
+  const activeAnsweredCount = activeQuestions.filter((q) => isQuestionAnswered(q, answers, showResult)).length;
+  const activeCorrectCount = activeQuestions.filter((q) => !isDiscursiveQuestion(q) && answers[q.id] === q.gabarito).length;
+  const wrongQuestions = gradableQuestions.filter((q) => showResult[q.id] && answers[q.id] && answers[q.id] !== q.gabarito);
   const progress = questions.length ? Math.round((answeredCount / questions.length) * 100) : 0;
-  const accuracy = answeredCount ? Math.round((correctCount / answeredCount) * 100) : 0;
+  const accuracy = gradableAnsweredCount ? Math.round((correctCount / gradableAnsweredCount) * 100) : 0;
   const activeProgress = currentQuestionCount ? Math.round((activeAnsweredCount / currentQuestionCount) * 100) : 0;
+  const isLastActiveQuestion = currentQuestionCount > 0 && currentIndex === currentQuestionCount - 1;
+  const isLastSimuladoQuestion = simuladoActive && isLastActiveQuestion;
   const respondedLabel = questionsLoading ? "Carregando..." : `${answeredCount}/${questions.length}`;
   const correctLabel = questionsLoading ? "Carregando..." : `${correctCount}`;
   const progressLabel = questionsLoading ? "Carregando..." : `${progress}%`;
@@ -1699,18 +1842,20 @@ export default function RevalidaQuestoesMVP() {
 
   const performanceByArea = areas.filter((item) => item !== "Todas").map((item) => {
     const qs = questions.filter((q) => q.area === item);
-    const answered = qs.filter((q) => answers[q.id]);
-    const correct = qs.filter((q) => answers[q.id] === q.gabarito);
+    const gradable = qs.filter((q) => !isDiscursiveQuestion(q));
+    const answered = qs.filter((q) => isQuestionAnswered(q, answers, showResult));
+    const correct = gradable.filter((q) => answers[q.id] === q.gabarito);
+    const gradableAnswered = gradable.filter((q) => answers[q.id]);
     return {
       area: item,
       total: qs.length,
       answered: answered.length,
       correct: correct.length,
-      accuracy: answered.length ? Math.round((correct.length / answered.length) * 100) : 0,
+      accuracy: gradableAnswered.length ? Math.round((correct.length / gradableAnswered.length) * 100) : 0,
     };
   });
 
-  const visibleNavItems = NAV_ITEMS;
+  const visibleNavItems = NAV_ITEMS.filter((item) => !item.adminOnly || isAdmin);
   const page = visibleNavItems.find((item) => item.key === mode) || visibleNavItems[0];
   const selectedSystemUser = useMemo(
     () => systemUsers.find((item) => item.id === selectedSystemUserId) || systemUsers[0] || null,
@@ -1784,17 +1929,35 @@ export default function RevalidaQuestoesMVP() {
     setCurrentIndex(0);
   }
 
+  function changeStudyCategory(value: StudyCategory) {
+    if (simuladoActive || value === studyCategory) return;
+    setStudyCategory(value);
+    setArea("Todas");
+    setCurrentIndex(0);
+    void refreshQuestions(false, value);
+  }
+
   function choose(letter: AlternativeLetter) {
-    if (!current || showResult[current.id]) return;
+    if (!current || showResult[current.id] || isDiscursiveQuestion(current)) return;
     setAnswers((prev) => ({ ...prev, [current.id]: letter }));
   }
 
   function confirmAnswer() {
-    if (!current || !answers[current.id]) return;
+    if (!current || showResult[current.id]) return;
+    if (!isDiscursiveQuestion(current) && !answers[current.id]) return;
     setShowResult((prev) => ({ ...prev, [current.id]: true }));
+
+    if (isLastSimuladoQuestion) {
+      void finalizeSimulado("completed");
+    }
   }
 
   function nextQuestion() {
+    if (isLastSimuladoQuestion) {
+      void finalizeSimulado("completed");
+      return;
+    }
+
     setCurrentIndex((prev) => Math.min(prev + 1, Math.max(currentQuestionCount - 1, 0)));
   }
 
@@ -1843,7 +2006,7 @@ export default function RevalidaQuestoesMVP() {
   function changeSimuladoQuestionTarget(rawValue: string) {
     const parsed = Number(rawValue);
     const normalized = normalizeSimuladoQuestionTarget(Number.isFinite(parsed) ? parsed : DEFAULT_SIMULADO_QUESTION_COUNT);
-    setSimuladoQuestionTarget(questions.length ? Math.min(normalized, questions.length) : normalized);
+    setSimuladoQuestionTarget(simuladoEligibleQuestions.length ? Math.min(normalized, simuladoEligibleQuestions.length) : normalized);
   }
 
   function changeSimuladoDurationMinutes(rawValue: string) {
@@ -2028,13 +2191,13 @@ export default function RevalidaQuestoesMVP() {
 
             <div className="hero-copy">
               <h2>Estude medicina com dados, revisão e consistência.</h2>
-              <p>Um banco de questões para Revalida e residência com comentários, caderno de erros, dashboard e simulados.</p>
+              <p>Um banco de questões para Revalida e estudo geral, com comentários, caderno de erros, dashboard e simulados.</p>
             </div>
 
             <div className="hero-stats">
               <div className="hero-stat"><b>20</b><span>questões por dia</span></div>
               <div className="hero-stat"><b>5</b><span>grandes áreas</span></div>
-              <div className="hero-stat"><b>100%</b><span>foco Revalida</span></div>
+              <div className="hero-stat"><b>2</b><span>trilhas de estudo</span></div>
             </div>
           </section>
 
@@ -2144,7 +2307,17 @@ export default function RevalidaQuestoesMVP() {
                 </div>
               )}
               <b>{user?.name}</b>
+              {isAdmin && <span className="sidebar-role-badge">Admin</span>}
               <span>{user?.email}</span>
+              <div className="sidebar-preference">
+                <div className="sidebar-preference-copy">
+                  <strong>IA do sistema</strong>
+                  <small>{aiEnabled ? "Ligada no servidor via .env" : "Desligada no servidor via .env"}</small>
+                </div>
+                <span className={`status-pill ${aiEnabled ? "green" : "red"}`}>
+                  {aiEnabled ? "Ligada" : "Desligada"}
+                </span>
+              </div>
               <div className="sidebar-actions">
                 <button className="md-btn outline" onClick={reset}>Reset</button>
                 <button className="md-btn outline" onClick={handleLogout}>Sair</button>
@@ -2202,11 +2375,24 @@ export default function RevalidaQuestoesMVP() {
 
             {mode === "dashboard" && (
               <section>
+                <div className="area-tabs" style={{ marginBottom: 18 }}>
+                  {STUDY_CATEGORY_OPTIONS.map((item) => (
+                    <button
+                      key={item.value}
+                      className={`area-tab ${studyCategory === item.value ? "active" : ""}`}
+                      onClick={() => changeStudyCategory(item.value)}
+                      disabled={simuladoActive}
+                    >
+                      {item.label}
+                    </button>
+                  ))}
+                </div>
+
                 <div className="stat-grid">
                   <StatCard title="Respondidas" value={respondedLabel} icon="assignment_turned_in" color="indigo" helper="Total resolvido" />
                   <StatCard title="Acertos" value={correctLabel} icon="check_circle" color="green" helper="Questões corretas" />
                   <StatCard title="Aproveitamento" value={progressLabel} icon="show_chart" color="blue" helper="Média geral" />
-                  <StatCard title="Banco total" value={questionsLoading ? "..." : formatCount(visibleQuestionBankTotal)} icon="menu_book" color="purple" helper="Questões cadastradas" />
+                  <StatCard title="Banco total" value={questionsLoading ? "..." : formatCount(visibleQuestionBankTotal)} icon="menu_book" color="purple" helper={`Questões cadastradas em ${getStudyCategoryLabel(studyCategory)}`} />
                   <StatCard title="Revisar" value={wrongQuestions.length} icon="error_outline" color="orange" helper="Erros salvos" />
                 </div>
 
@@ -2257,6 +2443,19 @@ export default function RevalidaQuestoesMVP() {
 
             {mode === "questoes" && (
               <section>
+                <div className="area-tabs" style={{ marginBottom: 18 }}>
+                  {STUDY_CATEGORY_OPTIONS.map((item) => (
+                    <button
+                      key={item.value}
+                      className={`area-tab ${studyCategory === item.value ? "active" : ""}`}
+                      onClick={() => changeStudyCategory(item.value)}
+                      disabled={simuladoActive}
+                    >
+                      {item.label}
+                    </button>
+                  ))}
+                </div>
+
                 <div className="area-tabs">
                   {areas.map((item) => (
                     <button
@@ -2287,10 +2486,21 @@ export default function RevalidaQuestoesMVP() {
                         </div>
                       ) : current ? (
                         <>
+                          {(() => {
+                            const discursive = isDiscursiveQuestion(current);
+                            const revealed = showResult[current.id];
+                            const selectedAnswer = answers[current.id];
+                            const answeredCorrectly = selectedAnswer === current.gabarito;
+
+                            return (
+                              <>
                           <div className="question-meta">
                             <span className="chip md-chip indigo white-text">{current.area}</span>
                             <span className="chip md-chip indigo lighten-5 indigo-text text-darken-2">{current.tema}</span>
                             <span className="chip md-chip amber lighten-5 amber-text text-darken-3">{current.dificuldade}</span>
+                            <span className={`chip md-chip ${discursive ? "blue lighten-5 blue-text text-darken-3" : "green lighten-5 green-text text-darken-3"}`}>
+                              {discursive ? "Discursiva" : "Objetiva"}
+                            </span>
                             <span className="question-counter">
                               {questionsLoading ? "Carregando questões..." : `Questão ${currentIndex + 1} de ${currentQuestionCount}`}
                             </span>
@@ -2321,44 +2531,55 @@ export default function RevalidaQuestoesMVP() {
                             </div>
                           </div>
 
-                          <p className="question-text" style={{ fontSize: `${questionTextSize}px` }}>{current.enunciado}</p>
+                          <p className="question-text" style={{ fontSize: `${questionTextSize}px`, whiteSpace: "pre-line" }}>{current.enunciado}</p>
 
-                          <div className="answers">
-                            {(Object.entries(current.alternativas) as [AlternativeLetter, string][]).map(([letter, text]) => {
-                              const selected = answers[current.id] === letter;
-                              const revealed = showResult[current.id];
-                              const isCorrect = current.gabarito === letter;
-                              const isWrongSelected = revealed && selected && !isCorrect;
-                              return (
-                                <button
-                                  key={letter}
-                                  onClick={() => choose(letter)}
-                                  className={`answer-btn ${selected ? "selected" : ""} ${revealed && isCorrect ? "correct" : ""} ${isWrongSelected ? "wrong" : ""}`}
-                                >
-                                  <span className="answer-letter">{letter}</span>
-                                  <span className="answer-text">{text}</span>
-                                </button>
-                              );
-                            })}
-                          </div>
+                          {!discursive && (
+                            <div className="answers">
+                              {(Object.entries(current.alternativas) as [AlternativeLetter, string][])
+                                .filter(([, text]) => text.trim() !== "")
+                                .map(([letter, text]) => {
+                                  const selected = answers[current.id] === letter;
+                                  const isCorrect = current.gabarito === letter;
+                                  const isWrongSelected = revealed && selected && !isCorrect;
+                                  return (
+                                    <button
+                                      key={letter}
+                                      onClick={() => choose(letter)}
+                                      className={`answer-btn ${selected ? "selected" : ""} ${revealed && isCorrect ? "correct" : ""} ${isWrongSelected ? "wrong" : ""} ${isAdmin && isCorrect ? "admin-correct-hint" : ""}`}
+                                    >
+                                      <span className="answer-letter">{letter}</span>
+                                      <span className="answer-text">{text}</span>
+                                      {isAdmin && isCorrect && <span className="admin-correct-badge">✓</span>}
+                                    </button>
+                                  );
+                                })}
+                            </div>
+                          )}
 
                           <div className="question-actions">
                             <button className="md-btn outline" onClick={prevQuestion} disabled={currentIndex === 0}>Anterior</button>
                             <div className="right">
-                              <button className="md-btn primary" onClick={confirmAnswer} disabled={!answers[current.id] || showResult[current.id]}>Responder</button>
-                              <button className="md-btn outline" onClick={nextQuestion} disabled={currentIndex === currentQuestionCount - 1}>Próxima</button>
+                              <button className="md-btn primary" onClick={confirmAnswer} disabled={discursive ? revealed : !answers[current.id] || revealed}>
+                                {discursive ? "Ver padrão de resposta" : (isLastSimuladoQuestion ? "Responder e encerrar" : "Responder")}
+                              </button>
+                              <button className="md-btn outline" onClick={nextQuestion} disabled={currentIndex === currentQuestionCount - 1}>
+                                {isLastSimuladoQuestion ? "Última questão" : "Próxima"}
+                              </button>
                             </div>
                           </div>
 
-                          {showResult[current.id] && (
-                            <div className="result-box">
+                          {revealed && (
+                            <div className={`result-box ${discursive ? "discursive" : (answeredCorrectly ? "correct" : "wrong")}`}>
                               <h4>
-                                <Icon>{answers[current.id] === current.gabarito ? "check_circle" : "cancel"}</Icon>
-                                {answers[current.id] === current.gabarito ? "Correto" : "Errado"} · Gabarito {current.gabarito}
+                                <Icon>{discursive ? "description" : (answeredCorrectly ? "check_circle" : "cancel")}</Icon>
+                                {discursive ? "Padrão de resposta oficial" : `${answeredCorrectly ? "Correto" : "Errado"} · Gabarito ${current.gabarito}`}
                               </h4>
-                              <p>{current.comentario}</p>
+                              <p>{discursive ? (current.official_answer || current.comentario) : current.comentario}</p>
                             </div>
                           )}
+                              </>
+                            );
+                          })()}
                         </>
                       ) : <p>Nenhuma questão encontrada.</p>}
                       </div>
